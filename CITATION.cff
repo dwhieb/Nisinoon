@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: 'Nisinoon: The Algonquian Components Project'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Monica
+    family-names: Macaulay
+    affiliation: University of Wisconsin-Madison
+    orcid: 'https://orcid.org/0000-0002-1541-2943'
+  - given-names: Hunter T.
+    family-names: Lockwood
+    affiliation: Miami University
+    orcid: 'https://orcid.org/0000-0002-4599-3187'
+  - given-names: Daniel W.
+    family-names: Hieber
+    orcid: 'https://orcid.org/0000-0002-1411-3773'
+    affiliation: Chitimacha Tribe of Louisiana
+repository-code: 'https://github.com/dwhieb/Nisinoon'
+url: 'https://nisinoon.net'
+abstract: >-
+  This project is an NSF-funded cross-linguistic database of
+  the components which make up words in Algonquian
+  languages. There are two main goals:
+
+
+  To provide tribes with a source for lexical expansion for
+  their language revitalization/reclamation projects.
+
+  To provide a basis for comprehensive reconstruction of
+  Proto-Algonquian.
+
+
+  This database is be a web-based, open-access, centralized
+  resource for Algonquian word components, providing
+  community members and linguists with a set of data that
+  has previously been difficult to access.
+keywords:
+  - Algonquian
+  - linguistics
+  - language
+  - morphology
+  - historical linguistics
+  - digital humanities
+  - digital linguistics
+version: 0.1.0
+date-released: '2024-04-11'
