@@ -1,0 +1,32 @@
+{
+  "name": "nisinoon",
+  "version": "0.1.0",
+  "description": "The website for the Algonquian Components Project (Nisinoon)",
+  "private": true,
+  "keywords": [
+    "Algonquian",
+    "morphology",
+    "linguistics",
+    "language",
+    "documentary linguistics",
+    "historical linguistics",
+    "digital humanities",
+    "digital linguistics",
+    "lexicography"
+  ],
+  "homepage": "https://nisinoon.net",
+  "bugs": "https://github.com/nisinoon/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Daniel W. Hieber",
+    "url": "https://github.com/dwhieb"
+  },
+  "main": "index.js",
+  "repository": "github:dwhieb/Nisinoon",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
