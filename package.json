@@ -23,10 +23,15 @@
   },
   "main": "index.js",
   "repository": "github:dwhieb/Nisinoon",
+  "type": "module",
   "engines": {
     "node": ">=20"
   },
   "scripts": {},
-  "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "@stylistic/eslint-plugin-js": "^1.7.0",
+    "eslint": "^9.0.0",
+    "globals": "^15.0.0"
+  }
 }
