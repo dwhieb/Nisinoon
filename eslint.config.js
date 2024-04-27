@@ -1,25 +1,3 @@
-import globals   from 'globals'
-import js        from '@eslint/js'
-import stylistic from '@stylistic/eslint-plugin-js'
+import configs from '@digitallinguistics/eslint-config'
 
-export default [
-  js.configs.recommended,
-  {
-    languageOptions: {
-      globals: {
-        ...globals.node,
-      },
-    },
-    plugins: {
-      '@stylistic/js': stylistic,
-    },
-    rules: {
-      semi: [
-        `error`,
-        `never`,
-      ],
-      "semi-spacing": `error`,
-      "semi-style": `error`,
-    },
-  },
-]
+export default [...configs]
