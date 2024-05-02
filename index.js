@@ -1,5 +1,8 @@
-import 'dotenv/config'
-import express from 'express'
+import express         from 'express'
+import { loadEnvFile } from 'node:process'
+
+// Load environment variables
+if (!process.env.NODE_ENV) loadEnvFile()
 
 // Initialize app
 const app = express()
