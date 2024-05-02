@@ -1,10 +1,15 @@
-import express         from 'express'
-import { loadEnvFile } from 'node:process'
+import * as handlers           from './app/handlers.js'
+import express                 from 'express'
+import handleUncaughtException from './app/errors.js'
+import { loadEnvFile }         from 'node:process'
+
+// Handle uncaught errors
+process.on(`uncaughtException`, handleUncaughtException)
 
 // Load environment variables
 if (!process.env.NODE_ENV) loadEnvFile()
 
-// Initialize app
+// Initialize Express app
 const app = express()
 
 // Settings
@@ -12,9 +17,9 @@ app.enable(`trust proxy`)
 app.set(`env`, process.env.NODE_ENV)
 
 // Routes
-app.get(`/`, (req, res) => {
-  res.send(`Nisinoon`)
-})
+app.get(`/`, handlers.OK)
+app.use(handlers.PageNotFound)
+app.use(handlers.ServerError)
 
 // Start server
 app.listen(process.env.PORT, () => {
