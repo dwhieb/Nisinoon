@@ -1,16 +1,15 @@
+// NB: Azure doesn't yet support Node v20.12, which introduces process.loadEnvFile.
+// Use dotenv for now instead.
+import 'dotenv/config'
 import * as handlers           from './app/handlers.js'
 import express                 from 'express'
 import handleUncaughtException from './app/errors.js'
 import helmet                  from 'helmet'
-import { loadEnvFile }         from 'node:process'
 import logger                  from './middleware/logger.js'
 import vary                    from './middleware/vary.js'
 
 // Handle uncaught errors
 process.on(`uncaughtException`, handleUncaughtException)
-
-// Load environment variables
-if (!process.env.NODE_ENV) loadEnvFile()
 
 // Initialize Express app
 const app = express()
