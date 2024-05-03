@@ -3,6 +3,7 @@ import express                 from 'express'
 import handleUncaughtException from './app/errors.js'
 import helmet                  from 'helmet'
 import { loadEnvFile }         from 'node:process'
+import vary                    from './middleware/vary.js'
 
 // Handle uncaught errors
 process.on(`uncaughtException`, handleUncaughtException)
@@ -19,6 +20,7 @@ app.set(`env`, process.env.NODE_ENV)
 
 // Middleware
 app.use(helmet())
+app.use(vary)
 
 // Routes
 app.get(`/`, handlers.OK)
