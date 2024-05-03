@@ -38,6 +38,7 @@
     "globals": "^15.0.0"
   },
   "dependencies": {
-    "express": "^5.0.0-beta.3"
+    "express": "^5.0.0-beta.3",
+    "helmet": "^7.1.0"
   }
 }

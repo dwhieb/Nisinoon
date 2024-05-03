@@ -1,6 +1,7 @@
 import * as handlers           from './app/handlers.js'
 import express                 from 'express'
 import handleUncaughtException from './app/errors.js'
+import helmet                  from 'helmet'
 import { loadEnvFile }         from 'node:process'
 
 // Handle uncaught errors
@@ -15,6 +16,9 @@ const app = express()
 // Settings
 app.enable(`trust proxy`)
 app.set(`env`, process.env.NODE_ENV)
+
+// Middleware
+app.use(helmet())
 
 // Routes
 app.get(`/`, handlers.OK)
