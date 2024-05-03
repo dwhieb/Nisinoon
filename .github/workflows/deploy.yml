@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     environment:
-      name: 'production'
+      name: 'Production'
       url:  ${{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
@@ -40,6 +40,6 @@ jobs:
         uses: azure/webapps-deploy@v2
         with:
           app-name:        nisinoon
-          slot-name:       production
+          slot-name:       Production
           package:         .
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_2c4b17c4f848467581b039c1af3dcd49 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C789F3DAFFFF45EA89AA17889914203C }}
