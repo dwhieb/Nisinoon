@@ -8,8 +8,8 @@ import vary                    from './middleware/vary.js'
 
 // Handle uncaught errors
 process.on(`uncaughtException`, handleUncaughtException)
-// Load environment variables
 
+// Load environment variables
 if (!process.env.NODE_ENV) loadEnvFile()
 
 // Initialize Express app

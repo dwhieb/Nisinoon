@@ -28,7 +28,7 @@
     "node": ">=20"
   },
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "devDependencies": {
     "@digitallinguistics/eslint-config": "^0.5.2",
