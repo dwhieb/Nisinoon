@@ -28,14 +28,16 @@
     "node": ">=20.12.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "stop-only": "stop-only --folder pages"
   },
   "devDependencies": {
     "@digitallinguistics/eslint-config": "^0.5.2",
     "@eslint/js": "^9.1.0",
     "@stylistic/eslint-plugin-js": "^1.7.0",
     "eslint": "^9.1.1",
-    "globals": "^15.0.0"
+    "globals": "^15.0.0",
+    "stop-only": "^3.3.1"
   },
   "dependencies": {
     "dotenv": "^16.4.5",

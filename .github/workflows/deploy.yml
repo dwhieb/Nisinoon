@@ -35,6 +35,9 @@ jobs:
       - name: Install dependencies
         run:  npm ci
 
+      - name: Check for only in tests
+        run:  npm run stop-only
+
       - name: Deploy to Azure Web App
         id:   deploy-to-webapp
         uses: azure/webapps-deploy@v2
