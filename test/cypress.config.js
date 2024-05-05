@@ -4,7 +4,7 @@ export default defineConfig({
   downloadsFolder: `test/downloads`,
   e2e:             {
     baseUrl:     `http://localhost:3002`,
-    specPattern: `**/*.test.js`,
+    specPattern: [`index.test.js`, `**/*.test.js`],
     supportFile: false,
   },
   fixturesFolder:         `test/fixtures`,
