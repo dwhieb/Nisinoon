@@ -10,8 +10,8 @@ on:
   workflow_dispatch:
 
 env:
-  NODE_ENV: ${{ vars.NODE_ENV }}
-  PORT:     ${{ vars.PORT }}
+  NODE_ENV: CI
+  PORT:     3002
 
 jobs:
 
