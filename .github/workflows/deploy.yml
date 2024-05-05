@@ -8,6 +8,10 @@ on:
     types: [published]
   workflow_dispatch:
 
+env:
+  NODE_ENV: ${{ vars.NODE_ENV }}
+  PORT:     ${{ vars.PORT }}
+
 jobs:
   build:
     runs-on: ubuntu-latest

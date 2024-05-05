@@ -9,6 +9,10 @@ on:
       - main
   workflow_dispatch:
 
+env:
+  NODE_ENV: ${{ vars.NODE_ENV }}
+  PORT:     ${{ vars.PORT }}
+
 jobs:
 
   run-tests:
