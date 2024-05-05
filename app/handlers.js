@@ -20,3 +20,7 @@ export function ServerError(err, req, res, next) {
   res.status(500)
   res.send(`Server Error`)
 }
+
+export function ServerErrorTest() {
+  throw new Error(`Server Error Test`)
+}

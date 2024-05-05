@@ -25,6 +25,9 @@ app.use(logger)
 
 // Routes
 app.get(`/`, handlers.OK)
+if (process.env.NODE_ENV !== `production`) {
+  app.get(`/500-test`, handlers.ServerErrorTest)
+}
 app.use(handlers.PageNotFound)
 app.use(handlers.ServerError)
 
