@@ -1,7 +1,3 @@
-export function OK(req, res) {
-  res.send(`Nisinoon`)
-}
-
 export function PageNotFound(req, res) {
 
   if (req.method !== `GET`) {

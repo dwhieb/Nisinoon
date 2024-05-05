@@ -1,7 +1,7 @@
 // NB: Azure doesn't yet support Node v20.12, which introduces process.loadEnvFile.
 // Use dotenv for now instead.
 import 'dotenv/config'
-import * as handlers           from './app/handlers.js'
+import * as handlers           from './pages/index.js'
 import express                 from 'express'
 import handleUncaughtException from './app/errors.js'
 import hbs                     from './app/handlebars.js'
@@ -31,7 +31,7 @@ app.use(serveStatic(express))
 app.use(logger)
 
 // Routes
-app.get(`/`, handlers.OK)
+app.get(`/`, handlers.Home)
 if (process.env.NODE_ENV !== `production`) {
   app.get(`/500-test`, handlers.ServerErrorTest)
 }
