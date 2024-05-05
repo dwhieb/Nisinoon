@@ -28,15 +28,20 @@
     "node": ">=20.12.0"
   },
   "scripts": {
+    "open-cypress": "cypress open -b edge --config-file test/cypress.config.js",
+    "run-cypress": "cypress run --config-file test/cypress.config.js",
     "start": "node index.js",
-    "stop-only": "stop-only --folder pages"
+    "stop-only": "stop-only --folder pages",
+    "test": "start-test http://localhost:3002 run-cypress"
   },
   "devDependencies": {
     "@digitallinguistics/eslint-config": "^0.5.2",
     "@eslint/js": "^9.1.0",
     "@stylistic/eslint-plugin-js": "^1.7.0",
+    "cypress": "^13.8.1",
     "eslint": "^9.1.1",
     "globals": "^15.0.0",
+    "start-server-and-test": "^2.0.3",
     "stop-only": "^3.3.1"
   },
   "dependencies": {

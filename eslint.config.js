@@ -3,4 +3,19 @@ import globals from 'globals'
 
 const projectConfig = { languageOptions: { globals: { ...globals.nodeBuiltin } } }
 
-export default [...configs, projectConfig]
+const testConfig = {
+  files:           [`**/*.test.*`],
+  languageOptions: {
+    globals: {
+      cy:       true,
+      describe: true,
+      it:       true,
+    },
+  },
+}
+
+export default [
+  ...configs,
+  projectConfig,
+  testConfig,
+]
