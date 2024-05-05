@@ -9,10 +9,6 @@ on:
       - main
   workflow_dispatch:
 
-env:
-  NODE_ENV: CI
-  PORT:     3002
-
 jobs:
 
   run-tests:

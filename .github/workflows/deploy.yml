@@ -8,10 +8,6 @@ on:
     types: [published]
   workflow_dispatch:
 
-env:
-  NODE_ENV: CI
-  PORT:     3002
-
 jobs:
   build:
     runs-on: ubuntu-latest
