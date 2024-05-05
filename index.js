@@ -4,8 +4,10 @@ import 'dotenv/config'
 import * as handlers           from './app/handlers.js'
 import express                 from 'express'
 import handleUncaughtException from './app/errors.js'
+import hbs                     from './app/handlebars.js'
 import helmet                  from 'helmet'
 import logger                  from './middleware/logger.js'
+import path                    from 'node:path'
 import serveStatic             from './middleware/static.js'
 import vary                    from './middleware/vary.js'
 
@@ -17,7 +19,10 @@ const app = express()
 
 // Settings
 app.enable(`trust proxy`)
+app.engine(`hbs`, hbs.engine)
 app.set(`env`, process.env.NODE_ENV)
+app.set(`view engine`, `hbs`)
+app.set(`views`, path.resolve(import.meta.dirname, `./pages`))
 
 // Middleware
 app.use(helmet())

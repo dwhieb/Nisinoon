@@ -1,4 +1,4 @@
-import path from 'path'
+import path from 'node:path'
 
 const oneWeek         = 604800
 const staticFilesPath = path.join(import.meta.dirname, `../assets`)
