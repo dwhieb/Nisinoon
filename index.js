@@ -6,6 +6,7 @@ import express                 from 'express'
 import handleUncaughtException from './app/errors.js'
 import hbs                     from './app/handlebars.js'
 import helmet                  from 'helmet'
+import locals                  from './app/locals.js'
 import logger                  from './middleware/logger.js'
 import path                    from 'node:path'
 import serveStatic             from './middleware/static.js'
@@ -16,6 +17,8 @@ process.on(`uncaughtException`, handleUncaughtException)
 
 // Initialize Express app
 const app = express()
+
+Object.assign(app.locals, locals)
 
 // Settings
 app.enable(`trust proxy`)
