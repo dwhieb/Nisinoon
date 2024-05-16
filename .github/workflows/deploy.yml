@@ -6,6 +6,7 @@ name: deploy
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 env:
   NODE_ENV: CI
