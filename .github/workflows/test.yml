@@ -39,6 +39,10 @@ jobs:
       - name: Install dependencies
         run:  npm ci
 
+      - name: Build app
+        run:  npm run build
+
+
       - name: Check for only in tests
         run:  npm run stop-only
 
