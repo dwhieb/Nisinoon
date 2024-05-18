@@ -1,0 +1,21 @@
+:root {
+
+  --font:
+    'Common Serif',
+    'Libertinus',
+    'Libertinus Serif',
+    'Linux Libertine',
+    'Gentium Plus',
+    'Charis SIL',
+    'Doulos SIL',
+    'Source Serif Pro',
+    'Noto Serif',
+    'Times New Roman',
+    serif;
+
+  --measure: 45em;
+
+  --text-padding:    0.25em 0.5em;
+  --text-padding-lg: 0.5em 1em;
+
+}

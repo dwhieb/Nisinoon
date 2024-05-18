@@ -11,6 +11,7 @@ const layoutOutputPath = path.resolve(import.meta.dirname, `../assets/styles/mai
 const config = {
   bundle:      true,
   entryPoints: [layoutInputPath],
+  external:    [`*.woff2`],
   minify:      isProduction,
   outfile:     layoutOutputPath,
   plugins:     [esbuildPluginBrowserslist(browserslist(`defaults`), { printUnknownTargets: false })],
