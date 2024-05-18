@@ -1,3 +1,90 @@
-body {
-  color: red;
+@font-face {
+  font-family: 'Common Serif';
+  src:
+    local('Common Serif'),
+    local('Common Serif Regular'),
+    url(/fonts/CommonSerif-Regular.woff2) format('woff2');
+  font-style:  normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Common Serif';
+  src:
+    local('Common Serif Italic'),
+    url(/fonts/CommonSerif-Italic.woff2) format('woff2');
+  font-style:  italic;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Common Serif';
+  src:
+    local('Common Serif News'),
+    url(/fonts/CommonSerif-News.woff2) format('woff2');
+  font-style:  normal;
+  font-weight: 450;
+}
+
+@font-face {
+  font-family: 'Common Serif';
+  src:
+    local('Common Serif News Italic'),
+    url(/fonts/CommonSerif-NewsItalic.woff2) format('woff2');
+  font-style:  italic;
+  font-weight: 450;
+}
+
+@font-face {
+  font-family: 'Common Serif';
+  src:
+    local('Common Serif Medium'),
+    url(/fonts/CommonSerif-Medium.woff2) format('woff2');
+  font-style:  normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Common Serif';
+  src:
+    local('Common Serif Medium Italic'),
+    url(/fonts/CommonSerif-MediumItalic.woff2) format('woff2');
+  font-style:  italic;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Common Serif';
+  src:
+    local('Common Serif SemiBold'),
+    url(/fonts/CommonSerif-SemiBold.woff2) format('woff2');
+  font-style:  normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Common Serif';
+  src:
+    local('Common Serif SemiBold Italic'),
+    url(/fonts/CommonSerif-SemiBoldItalic.woff2) format('woff2');
+  font-style:  italic;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Common Serif';
+  src:
+    local('Common Serif Bold'),
+    url(/fonts/CommonSerif-Bold.woff2) format('woff2');
+  font-style:  normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Common Serif';
+  src:
+    local('Common Serif Bold Italic'),
+    url(/fonts/CommonSerif-BoldItalic.woff2) format('woff2');
+  font-style:  italic;
+  font-weight: bold;
 }
