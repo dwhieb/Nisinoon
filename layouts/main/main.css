@@ -1,3 +1,41 @@
+/* Globals */
+@import 'styles/colors.css';
 @import 'styles/CommonSerif.css';
 @import 'styles/typography.css';
+@import 'styles/utilities.css';
 @import '../../node_modules/flexbox-reset/flexbox-reset.css';
+
+/* App Shell Components */
+@import 'components/skip-link/skip-link.css';
+
+body {
+
+  align-items:             center;
+  font-family:             var(--font);
+  line-height:             1.5;
+  min-block-size:          100vh;
+  text-underline-position: under;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: var(--background-color-dark);
+    color:            var(--text-color-dark);
+  }
+
+}
+
+html {
+
+  block-size:      100%;
+  scroll-behavior: smooth;
+
+  @media (prefers-reduced-motion: reduce) {
+    scroll-behavior: auto;
+  }
+
+}
+
+main {
+  flex-grow:       1;
+  margin:          1em;
+  max-inline-size: var(--measure);
+}

@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html dir=ltr lang=en>
-  {{> head }}
+  {{> components/head/head }}
   <body>
-    <style>{{ mainCSS }}</style>
+    <style>{{{ mainCSS }}}</style>
+    {{> components/skip-link/skip-link }}
     {{{ body }}}{{!-- This is actually <main> but express-handlebars calls this variable `body`. --}}
   </body>
 </html>

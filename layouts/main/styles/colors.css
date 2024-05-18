@@ -1,0 +1,19 @@
+:root {
+
+  --background-color-dark: #121212;
+  --text-color-dark:       #EEE;
+
+  --plum-hue:        316;
+  --plum-saturation: 55%;
+  --plum-lightness:  34%;
+
+  --pink-swan:    #C5B5BD;
+  --martinique:   #323251;
+  --plum:         #85276C;
+  --asparagus:    #71984B;
+  --ice-boutique: #A1CECE;
+  --berry-blue:   #509EF1;
+
+  --plum-light: hsl(var(--plum-hue) var(--plum-saturation) calc(var(--plum-lightness) + 15%));
+
+}
