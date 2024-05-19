@@ -6,6 +6,7 @@
 @import '../../node_modules/flexbox-reset/flexbox-reset.css';
 
 /* Classes */
+@import 'classes/external-link.css';
 @import 'classes/headings.css';
 @import 'classes/link.css';
 
