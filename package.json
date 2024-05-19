@@ -29,7 +29,7 @@
   },
   "scripts": {
     "build": "node build/index.js",
-    "open-cypress": "cypress open -b edge --config-file test/cypress.config.js",
+    "open-cypress": "cypress open --config-file test/cypress.config.js",
     "run-cypress": "cypress run --config-file test/cypress.config.js",
     "start": "node index.js",
     "stop-only": "stop-only --folder pages",

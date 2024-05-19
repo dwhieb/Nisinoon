@@ -1,4 +1,4 @@
-describe(`Nisinoon`, function() {
+describe(`Error Page`, function() {
 
   it(`404`, function() {
     cy.request({
