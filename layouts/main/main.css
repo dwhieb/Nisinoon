@@ -11,6 +11,7 @@
 
 /* App Shell Components */
 @import 'components/footer/footer.css';
+@import 'components/issue-link/issue-link.css';
 @import 'components/nav/nav.css';
 @import 'components/skip-link/skip-link.css';
 

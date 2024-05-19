@@ -1,5 +1,16 @@
 describe(`App Shell`, function() {
 
+  describe(`Issue Link`, function() {
+
+    it(`has the current URL`, function() {
+      cy.visit(`/research`)
+      cy.get(`.issue-link`)
+      .should(`have.attr`, `href`)
+      .and(`include`, `%2Fresearch`)
+    })
+
+  })
+
   describe(`Main Nav`, function() {
 
     const narrowConfig = { viewportWidth: 500 }
@@ -10,7 +21,7 @@ describe(`App Shell`, function() {
       cy.get(`.menu-icon`).should(`not.be.visible`)
     })
 
-    it.only(`adjusts based on screen size`, narrowConfig, function() {
+    it(`adjusts based on screen size`, narrowConfig, function() {
       cy.visit(`/`)
       // The menu should be collapsed on narrow screens.
       cy.get(`.nav .links`).should(`have.class`, `visually-hidden`)

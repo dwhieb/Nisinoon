@@ -1,0 +1,5 @@
+.issue-link {
+  align-self:       flex-end;
+  margin-block-end: -1.5em;
+  padding:          var(--text-padding);
+}

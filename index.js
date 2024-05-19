@@ -6,6 +6,7 @@ import express                 from 'express'
 import handleUncaughtException from './app/errors.js'
 import hbs                     from './app/handlebars.js'
 import helmet                  from './middleware/helmet.js'
+import issueLink               from './middleware/issue-link.js'
 import locals                  from './app/locals.js'
 import logger                  from './middleware/logger.js'
 import path                    from 'node:path'
@@ -32,6 +33,7 @@ app.use(helmet)
 app.use(vary)
 app.use(serveStatic(express))
 app.use(logger)
+app.use(issueLink)
 
 // Routes
 app.get(`/`, handlers.About)
