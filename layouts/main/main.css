@@ -1,13 +1,18 @@
 /* Globals */
-@import 'styles/colors.css';
-@import 'styles/CommonSerif.css';
-@import 'styles/typography.css';
-@import 'styles/utilities.css';
+@import 'global/colors.css';
+@import 'global/CommonSerif.css';
+@import 'global/typography.css';
+@import 'global/utilities.css';
 @import '../../node_modules/flexbox-reset/flexbox-reset.css';
 
+/* Classes */
+@import 'classes/headings.css';
+@import 'classes/link.css';
+
 /* App Shell Components */
-@import 'components/skip-link/skip-link.css';
+@import 'components/footer/footer.css';
 @import 'components/nav/nav.css';
+@import 'components/skip-link/skip-link.css';
 
 body {
 

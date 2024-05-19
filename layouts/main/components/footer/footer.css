@@ -1,0 +1,35 @@
+footer {
+
+  display:         block;
+  max-inline-size: var(--measure);
+
+  & h2 {
+    text-align: center;
+  }
+
+  & p {
+    margin-block: 0.5em;
+  }
+
+  .github {
+    text-align: center;
+  }
+
+  .github-link {
+    align-content:  center;
+    align-items:    center;
+    display:        flex;
+    flex-direction: column;
+  }
+
+  .octicon {
+    --icon-size: 2em;
+    block-size:  var(--icon-size);
+    inline-size: var(--icon-size);
+  }
+
+  .maintainer {
+    text-align: center;
+  }
+
+}
