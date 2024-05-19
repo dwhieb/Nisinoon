@@ -2,6 +2,7 @@ footer {
 
   display:         block;
   max-inline-size: var(--measure);
+  padding:         1em;
 
   & h2 {
     text-align: center;
