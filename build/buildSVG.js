@@ -1,7 +1,8 @@
 import createSpriteCollection from 'svgstore'
+import { outputFile }         from 'fs-extra'
 import path                   from 'node:path'
 
-import { readdir, readFile, writeFile } from 'node:fs/promises'
+import { readdir, readFile } from 'node:fs/promises'
 
 const spriteOptions = {
   copyAttrs: [
@@ -38,7 +39,7 @@ export default async function buildSVG() {
   const html        = sprites.toString({ inline: true })
   const spritesPath = path.resolve(import.meta.dirname, `../layouts/main/components/sprites/sprites.hbs`)
 
-  await writeFile(spritesPath, html, `utf8`)
+  await outputFile(spritesPath, html, `utf8`)
 
   console.info(`Finished building SVG sprites.`)
 
