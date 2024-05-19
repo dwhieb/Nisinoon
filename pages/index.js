@@ -1,2 +1,6 @@
+export * from './About/About.js'
+export * from './Bibliography/Bibliography.js'
 export * from './Error/Error.js'
-export * from './Home/Home.js'
+export * from './Grammar/Grammar.js'
+export * from './Research/Research.js'
+export * from './Search/Search.js'

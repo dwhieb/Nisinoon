@@ -10,4 +10,8 @@ const meta     = JSON.parse(json)
 const mainCSSPath = path.resolve(import.meta.dirname, `../assets/styles/main.css`)
 const mainCSS     = await readFile(mainCSSPath, `utf8`)
 
-export default { mainCSS, meta }
+// Load JS for app shell
+const mainJSPath = path.resolve(import.meta.dirname, `../assets/scripts/main.js`)
+const mainJS     = await readFile(mainJSPath, `utf8`)
+
+export default { mainCSS, mainJS, meta }

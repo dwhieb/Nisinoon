@@ -1,0 +1,17 @@
+<nav class=nav role=navigation>
+
+  <h2 class=visually-hidden id=nav-heading>Main Navigation</h2>
+
+  <button aria-hidden=true class=menu-button data-hook=nav__button>
+    <svg class=menu-icon><use href=#menu></svg>
+  </button>
+
+  <ul aria-labelledby=nav-heading class=links data-hook=nav__links role=list>
+    <li><a {{#if About }} aria-current=page href=# {{else}} href=/ {{/if}}>About</a></li>
+    <li><a {{#if Search }} aria-current=page href=# {{else}} href=/search {{/if}}>Explore the Data</a></li>
+    <li><a {{#if Grammar }} aria-current=page href=# {{else}} href=/grammar {{/if}}>Algonquian Word-Structure Basics</a></li>
+    <li><a {{#if Research }} aria-current=page href=# {{else}} href=/research {{/if}}>Research</a></li>
+    <li><a {{#if Bibliography }} aria-current=page href=# {{else}} href=/bibliography {{/if}}>Bibliography</a></li>
+  </ul>
+
+</nav>

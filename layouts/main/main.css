@@ -7,26 +7,31 @@
 
 /* App Shell Components */
 @import 'components/skip-link/skip-link.css';
+@import 'components/nav/nav.css';
 
 body {
 
   align-items:             center;
   font-family:             var(--font);
+  font-size:               115%;
   line-height:             1.5;
+  max-inline-size:         100vw;
   min-block-size:          100vh;
   text-underline-position: under;
 
   @media (prefers-color-scheme: dark) {
-    background-color: var(--background-color-dark);
-    color:            var(--text-color-dark);
+    background-color: var(--off-black);
+    color:            var(--off-white);
   }
 
 }
 
 html {
 
-  block-size:      100%;
-  scroll-behavior: smooth;
+  align-items:              stretch;
+  block-size:               100%;
+  scroll-behavior:          smooth;
+  text-decoration-skip-ink: auto;
 
   @media (prefers-reduced-motion: reduce) {
     scroll-behavior: auto;
@@ -36,6 +41,6 @@ html {
 
 main {
   flex-grow:       1;
-  margin:          1em;
   max-inline-size: var(--measure);
+  padding:         1em;
 }

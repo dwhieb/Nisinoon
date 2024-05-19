@@ -5,7 +5,7 @@ import * as handlers           from './pages/index.js'
 import express                 from 'express'
 import handleUncaughtException from './app/errors.js'
 import hbs                     from './app/handlebars.js'
-import helmet                  from 'helmet'
+import helmet                  from './middleware/helmet.js'
 import locals                  from './app/locals.js'
 import logger                  from './middleware/logger.js'
 import path                    from 'node:path'
@@ -28,16 +28,20 @@ app.set(`view engine`, `hbs`)
 app.set(`views`, path.resolve(import.meta.dirname, `./pages`))
 
 // Middleware
-app.use(helmet())
+app.use(helmet)
 app.use(vary)
 app.use(serveStatic(express))
 app.use(logger)
 
 // Routes
-app.get(`/`, handlers.Home)
+app.get(`/`, handlers.About)
 if (process.env.NODE_ENV !== `production`) {
   app.get(`/500-test`, handlers.ServerErrorTest)
 }
+app.get(`/bibliography`, handlers.Bibliography)
+app.get(`/grammar`, handlers.Grammar)
+app.get(`/research`, handlers.Research)
+app.get(`/search`, handlers.Search)
 app.use(handlers.PageNotFound)
 app.use(handlers.ServerError)
 

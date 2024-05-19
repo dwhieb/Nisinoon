@@ -1,7 +1,7 @@
 :root {
 
-  --background-color-dark: #121212;
-  --text-color-dark:       #EEE;
+  --off-black: #121212;
+  --off-white: #EEE;
 
   --plum-hue:        316;
   --plum-saturation: 55%;

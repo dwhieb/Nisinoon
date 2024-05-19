@@ -18,9 +18,7 @@ const config = {
 }
 
 export default async function buildCSS() {
-
   console.info(`Building CSS.`)
-
   await build(config)
-
+  console.info(`Finished building CSS.`)
 }

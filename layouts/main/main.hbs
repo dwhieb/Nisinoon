@@ -4,6 +4,9 @@
   <body>
     <style>{{{ mainCSS }}}</style>
     {{> components/skip-link/skip-link }}
+    {{> components/nav/nav }}
     {{{ body }}}{{!-- This is actually <main> but express-handlebars calls this variable `body`. --}}
+    {{> components/sprites/sprites }}
+    <script async type=module>{{{ mainJS }}}</script>
   </body>
 </html>

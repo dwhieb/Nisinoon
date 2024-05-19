@@ -1,0 +1,55 @@
+.nav {
+
+  align-self:       stretch;
+  background-color: var(--plum);
+  color:            white;
+  container-type:   inline-size;
+  font-size:        1.125em;
+
+  & a {
+
+    display:     block;
+    padding:     var(--text-padding);
+    white-space: nowrap;
+
+    &:hover {
+      background-color: var(--plum-light);
+    }
+
+  }
+
+  & button {
+    display: flex;
+  }
+
+  [aria-current] {
+    text-decoration: underline;
+  }
+
+  .menu-icon {
+    --icon-size: 1.5em;
+    block-size:  var(--icon-size);
+    inline-size: var(--icon-size);
+    margin:      0.5em;
+  }
+
+  /* horizontal layout */
+  @container (inline-size > 50em) {
+
+    & a {
+      padding: var(--text-padding-lg);
+    }
+
+    .links {
+      flex-direction:  row;
+      justify-content: center;
+      flex-wrap:       wrap;
+    }
+
+    .menu-button {
+      display: none;
+    }
+
+  }
+
+}
