@@ -1,17 +1,25 @@
-import path         from 'node:path'
-import { readFile } from 'node:fs/promises'
+import path from 'node:path'
 
-// Load metadata
+import { readdir, readFile } from 'node:fs/promises'
+
+// Add metadata
 const metaPath = path.resolve(import.meta.dirname, `../package.json`)
 const json     = await readFile(metaPath, `utf8`)
 const meta     = JSON.parse(json)
 
-// Load CSS for app shell
-const mainCSSPath = path.resolve(import.meta.dirname, `../assets/styles/main.css`)
-const mainCSS     = await readFile(mainCSSPath, `utf8`)
+// Add CSS
+const cssDir   = path.resolve(import.meta.dirname, `../assets/styles`)
+const cssFiles = await readdir(cssDir)
+const styles   = {}
 
-// Load JS for app shell
+for (const file of cssFiles) {
+  const name     = path.basename(file, `.css`)
+  const filePath = path.join(cssDir, file)
+  styles[name]   = await readFile(filePath, `utf8`)
+}
+
+// Add JS for app shell
 const mainJSPath = path.resolve(import.meta.dirname, `../assets/scripts/main.js`)
 const mainJS     = await readFile(mainJSPath, `utf8`)
 
-export default { mainCSS, mainJS, meta }
+export default { mainJS, meta, styles }

@@ -1,6 +1,19 @@
-export * from './About/About.js'
-export * from './Bibliography/Bibliography.js'
+import { kebabCase, pascalCase } from 'change-case'
+
 export * from './Error/Error.js'
-export * from './Grammar/Grammar.js'
-export * from './Research/Research.js'
-export * from './Search/Search.js'
+
+export function page(title) {
+
+  return function handler(req, res) {
+
+    const PascalTitle = pascalCase(title)
+
+    res.render(`${ PascalTitle }/${ PascalTitle }`, {
+      cssClass:      kebabCase(title),
+      [PascalTitle]: true,
+      title,
+    })
+
+  }
+
+}

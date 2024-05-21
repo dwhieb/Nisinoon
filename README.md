@@ -9,6 +9,8 @@ Website for the Algonquian Components Project (Nisinoon)
 
 ## Page Variables
 
-| Variable | Description                                           |
-| -------- | ----------------------------------------------------- |
-| `title`  | The page title. Will be displayed in the browser tab. |
+| Variable     | Description                                                      |
+| ------------ | ---------------------------------------------------------------- |
+| `{PageName}` | The page name. Used by Handlebars to check for the current page. |
+| `cssClass`   | The value to use in `<main class={name}-page>`.                  |
+| `title`      | The page title. Will be displayed in the browser tab.            |

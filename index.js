@@ -36,14 +36,14 @@ app.use(logger)
 app.use(issueLink)
 
 // Routes
-app.get(`/`, handlers.About)
+app.get(`/`, handlers.page(`About`))
 if (process.env.NODE_ENV !== `production`) {
   app.get(`/500-test`, handlers.ServerErrorTest)
 }
-app.get(`/bibliography`, handlers.Bibliography)
-app.get(`/grammar`, handlers.Grammar)
-app.get(`/research`, handlers.Research)
-app.get(`/search`, handlers.Search)
+app.get(`/bibliography`, handlers.page(`Bibliography`))
+app.get(`/grammar`, handlers.page(`Grammar`))
+app.get(`/research`, handlers.page(`Research`))
+app.get(`/search`, handlers.page(`Search`))
 app.use(handlers.PageNotFound)
 app.use(handlers.ServerError)
 
