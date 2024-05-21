@@ -1,0 +1,22 @@
+.bulleted,
+.md ul {
+  list-style: disc outside none;
+}
+
+.list,
+.md :is(ol, ul) {
+
+  margin-inline-start: 1.5em;
+  padding:             var(--text-padding-lg);
+
+  & li {
+    display: list-item;
+    padding: var(--text-padding-sm);
+  }
+
+}
+
+.ordered,
+.md ol {
+  list-style: decimal outside none;
+}

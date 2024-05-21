@@ -1,0 +1,7 @@
+.blockquote,
+.md blockquote {
+  background-color: var(--ice-light);
+  border-radius:    0.25em;
+  margin:           var(--text-padding);
+  padding:          var(--text-padding);
+}

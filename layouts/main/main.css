@@ -1,14 +1,9 @@
-/* Globals */
-@import 'global/colors.css';
-@import 'global/CommonSerif.css';
-@import 'global/typography.css';
-@import 'global/utilities.css';
+/* App Shell Styles */
+@import 'styles/colors.css';
+@import 'styles/CommonSerif.css';
+@import 'styles/typography.css';
+@import 'styles/utilities.css';
 @import '../../node_modules/flexbox-reset/flexbox-reset.css';
-
-/* Classes */
-@import 'classes/external-link.css';
-@import 'classes/headings.css';
-@import 'classes/link.css';
 
 /* App Shell Components */
 @import 'components/footer/footer.css';
@@ -16,11 +11,22 @@
 @import 'components/nav/nav.css';
 @import 'components/skip-link/skip-link.css';
 
+/* Global Classes */
+@import 'blockquote.css';
+@import 'external-link.css';
+@import 'headings.css';
+@import 'link.css';
+@import 'lists.css';
+
+/* Global Components */
+@import 'backlink/backlink.css';
+
 body {
 
   align-items:             center;
   font-family:             var(--font);
-  font-size:               115%;
+  font-size:               125%;
+  font-variant-ligatures:  no-common-ligatures;
   line-height:             1.5;
   max-inline-size:         100vw;
   min-block-size:          100vh;

@@ -1,13 +1,24 @@
-import createMarkdownParser from 'markdown-it'
-import { readFile }         from 'node:fs/promises'
+import boldItalic            from 'markdown-it-ib'
+import createMarkdownParser  from 'markdown-it'
+import { default as hbs }    from './handlebars.js'
+import markdownAttributes    from 'markdown-it-attrs'
 
 const layoutPath = `../layouts/markdown/markdown.hbs`
-const parser     = createMarkdownParser()
+
+const config = {
+  html:        true,
+  quotes:      `“”‘’`,
+  typographer: true,
+}
+
+const parser = createMarkdownParser(config)
+.use(boldItalic)
+.use(markdownAttributes)
 
 export default function markdownEngine(app) {
   return async function render(filePath, context, cb) {
 
-    const md      = await readFile(filePath, `utf8`)
+    const md      = await hbs.render(filePath, context)
     const content = parser.render(md)
 
     app.render(

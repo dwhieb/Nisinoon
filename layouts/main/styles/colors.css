@@ -3,6 +3,10 @@
   --off-black: #121212;
   --off-white: #EEE;
 
+  --ice-hue:        180;
+  --ice-saturation: 31%;
+  --ice-lightness:  72%;
+
   --plum-hue:        316;
   --plum-saturation: 55%;
   --plum-lightness:  34%;
@@ -14,6 +18,7 @@
   --ice-boutique: #A1CECE;
   --berry-blue:   #509EF1;
 
+  --ice-light:  hsl(var(--ice-hue) var(--ice-saturation) calc(var(--ice-lightness) + 20%));
   --plum-light: hsl(var(--plum-hue) var(--plum-saturation) calc(var(--plum-lightness) + 15%));
 
 }

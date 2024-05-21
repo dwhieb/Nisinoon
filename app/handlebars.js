@@ -12,7 +12,10 @@ const hbs = new ExpressHandlebars({
   extname:       `hbs`,
   helpers:       { section },
   layoutsDir:    path.resolve(import.meta.dirname, `../layouts`),
-  partialsDir:   path.resolve(import.meta.dirname, `../layouts/main`),
+  partialsDir:   [
+    path.resolve(import.meta.dirname, `../layouts/main`),
+    path.resolve(import.meta.dirname, `../components`),
+  ],
 })
 
 export default hbs

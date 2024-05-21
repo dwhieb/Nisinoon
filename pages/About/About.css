@@ -1,0 +1,74 @@
+blockquote p {
+  margin-inline-start: 1em;
+  text-indent:         -1em;
+}
+
+#contents {
+  clear: left;
+}
+
+.db-link {
+  text-align: center;
+}
+
+.intro {
+
+  font-size: 1.125em;
+
+  p {
+    padding: 0.25rem 0.5rem;
+  }
+
+}
+
+#main {
+  container-type: inline-size;
+  inline-size:    100%;
+}
+
+.subtitle {
+  font-size:  1.125em;
+  text-align: center;
+}
+
+.textile {
+
+  margin:          auto;
+  max-inline-size: 50%;
+  padding:         1em;
+
+  & figcaption {
+    display:        flex;
+    flex-direction: column;
+    text-align:     center;
+  }
+
+  & span {
+    font-style: italic;
+    padding:    var(--text-padding);
+  }
+
+}
+
+/* wide screens (subtract 2em from measure to account for padding) */
+@container (inline-size > 35em) {
+
+
+  .intro {
+
+    & h2 {
+      text-align: center;
+    }
+
+    & ol {
+      margin-inline-start: 0.5em;
+    }
+
+  }
+
+  .textile {
+    float:             left;
+    margin-inline-end: 1em;
+  }
+
+}

@@ -1,4 +1,5 @@
-.link {
+.link,
+.md a {
 
   color:       var(--berry-blue);
   font-weight: bold;

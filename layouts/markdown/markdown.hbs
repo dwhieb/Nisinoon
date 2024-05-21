@@ -1,3 +1,10 @@
-<main id=main class='{{ cssClass }}-page'>
+{{#section 'head'}}
+  <!-- Markdown Styles -->
+  <style>{{{ styles.markdown }}}</style>
+  <!-- Page-Specific Markdown Styles -->
+  <style>{{{ css }}}</style>
+{{/section}}
+
+<main id=main class='md {{ cssClass }}-page'>
   {{{ content }}}
 </main>

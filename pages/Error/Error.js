@@ -9,7 +9,7 @@ export function PageNotFound(req, res) {
 
   res.status(status)
 
-  res.render(`Error/Error`, {
+  res.render(`Error/Error.md`, {
     cssClass: `error`,
     Error:    true,
     message:  `This page does not exist.`,
@@ -28,7 +28,7 @@ export function ServerError(err, req, res, next) {
 
   res.status(status)
 
-  res.render(`Error/Error`, {
+  res.render(`Error/Error.md`, {
     cssClass: `error`,
     Error:    true,
     message:  `Please consider <a class=link href='{{ issueLink }}'>opening an issue on GitHub</a> to report this error.`,

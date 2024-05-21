@@ -17,11 +17,12 @@ export function page(title) {
 }
 
 export function md(title) {
-  return function handlers(req, res) {
+  return function handler(req, res) {
 
     const PascalTitle = pascalCase(title)
 
     res.render(`${ PascalTitle }/${ PascalTitle }.md`, {
+      css:           res.app.locals.styles[PascalTitle],
       cssClass:      kebabCase(title),
       [PascalTitle]: true,
       title,

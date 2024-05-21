@@ -1,0 +1,20 @@
+:is(h1, h2, h3, h4, h5, h6) {
+  padding-block:  0.5em 0em;
+  padding-inline: 0.5rem;
+}
+
+h1 {
+  font-size:  2.5em; /* fallback for Safari, which doesn't support xxx-large */
+  font-size:  xxx-large;
+  text-align: center;
+}
+
+h2 {
+  font-size:   xx-large;
+  font-weight: bold;
+}
+
+h3 {
+  font-size:   x-large;
+  font-weight: bold;
+}

@@ -60,6 +60,8 @@
     "express": "^5.0.0-beta.3",
     "express-handlebars": "^7.1.2",
     "helmet": "^7.1.0",
-    "markdown-it": "^14.1.0"
+    "markdown-it": "^14.1.0",
+    "markdown-it-attrs": "^4.1.6",
+    "markdown-it-ib": "^2.0.0"
   }
 }
