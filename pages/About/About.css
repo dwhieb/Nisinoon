@@ -51,10 +51,11 @@ blockquote p {
 }
 
 /* wide screens (subtract 2em from measure to account for padding) */
-@container (inline-size > 35em) {
-
+@container (inline-size > 42.75em) {
 
   .intro {
+
+    text-align: justify;
 
     & h2 {
       text-align: center;
