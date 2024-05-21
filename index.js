@@ -9,6 +9,7 @@ import helmet                  from './middleware/helmet.js'
 import issueLink               from './middleware/issue-link.js'
 import locals                  from './app/locals.js'
 import logger                  from './middleware/logger.js'
+import markdownEngine          from './app/markdown.js'
 import path                    from 'node:path'
 import serveStatic             from './middleware/static.js'
 import vary                    from './middleware/vary.js'
@@ -24,6 +25,7 @@ Object.assign(app.locals, locals)
 // Settings
 app.enable(`trust proxy`)
 app.engine(`hbs`, hbs.engine)
+app.engine(`md`, markdownEngine(app))
 app.set(`env`, process.env.NODE_ENV)
 app.set(`view engine`, `hbs`)
 app.set(`views`, path.resolve(import.meta.dirname, `./pages`))
@@ -36,14 +38,14 @@ app.use(logger)
 app.use(issueLink)
 
 // Routes
-app.get(`/`, handlers.page(`About`))
+app.get(`/`, handlers.md(`About`))
 if (process.env.NODE_ENV !== `production`) {
   app.get(`/500-test`, handlers.ServerErrorTest)
 }
-app.get(`/bibliography`, handlers.page(`Bibliography`))
-app.get(`/grammar`, handlers.page(`Grammar`))
-app.get(`/research`, handlers.page(`Research`))
-app.get(`/search`, handlers.page(`Search`))
+app.get(`/bibliography`, handlers.md(`Bibliography`))
+app.get(`/grammar`, handlers.md(`Grammar`))
+app.get(`/research`, handlers.md(`Research`))
+app.get(`/search`, handlers.md(`Search`))
 app.use(handlers.PageNotFound)
 app.use(handlers.ServerError)
 
