@@ -19,10 +19,12 @@
 @import 'emphasis.css';
 @import 'external-link.css';
 @import 'gloss.css';
+@import 'inline-example.css';
 @import 'headings.css';
 @import 'link.css';
 @import 'lists.css';
 @import 'references-list.css';
+@import 'table.css';
 
 /* Global Components */
 @import 'backlink/backlink.css';

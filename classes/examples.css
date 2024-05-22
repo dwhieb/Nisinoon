@@ -8,3 +8,25 @@
   }
 
 }
+
+.subexamples {
+
+  display:             inline-block;
+  list-style:          none;
+  margin-inline-start: 1.5em;
+
+  > li {
+    counter-increment: subexamples;
+  }
+
+  > li::before {
+    content:             counter(subexamples, lower-alpha) '.';
+    margin-inline-start: -1em;
+    position:            absolute;
+  }
+
+}
+
+.examples + * {
+  clear: both;
+}

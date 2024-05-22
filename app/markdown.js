@@ -3,6 +3,7 @@ import bracketedSpans        from 'markdown-it-bracketed-spans'
 import createMarkdownParser  from 'markdown-it'
 import { default as hbs }    from './handlebars.js'
 import markdownAttributes    from 'markdown-it-attrs'
+import tableCaptions         from 'markdown-it-table-captions'
 
 const layoutPath = `../layouts/prose/prose.hbs`
 
@@ -16,6 +17,7 @@ const parser = createMarkdownParser(config)
 .use(boldItalic)
 .use(bracketedSpans)
 .use(markdownAttributes)
+.use(tableCaptions)
 
 export default function markdownEngine(app) {
   return async function render(filePath, context, cb) {

@@ -11,6 +11,10 @@ const htmlOptions = {
   tag:     `li`,
 }
 
+function inlineExample(str) {
+  return `<i class=inex>${ replaceHyphens(str) }</i>`
+}
+
 function interlinear(cssClasses, opts) {
 
   if (typeof cssClasses !== `string`) {
@@ -33,13 +37,23 @@ function section(name, opts) {
   return null
 }
 
+/**
+ * Replaces regular hyphens (U+2010) with non-breaking hyphens (U+2011).
+ * @param {String} data
+ * @returns String
+ */
+function replaceHyphens(data) {
+  return data.replaceAll(`-`, `\u{2011}`)
+}
+
 const hbs = new ExpressHandlebars({
   defaultLayout: `main/main.hbs`,
   extname:       `hbs`,
   helpers:       {
-    igl: interlinear,
+    igl:  interlinear,
+    inex: inlineExample,
     section,
-    tln: translation,
+    tln:  translation,
   },
   layoutsDir:  path.resolve(import.meta.dirname, `../layouts`),
   partialsDir: [

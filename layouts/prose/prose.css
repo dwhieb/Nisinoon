@@ -1,17 +1,36 @@
+caption::before {
+  content: 'Table ' counter(tables) '.';
+}
+
+figcaption::before {
+  content: 'Figure ' counter(figures) '.';
+}
+
 .figure {
-
-  align-items:       center;
   counter-increment: figures;
-  inline-size:       fit-content;
-  margin:            1em auto;
+}
 
-  & figcaption {
-    font-size: smaller;
-    padding:   var(--text-padding-sm);
+.prose {
+
+  counter-reset: examples figures tables;
+  display:       block;
+
+  & p {
+    margin-block: 0.5em;
   }
 
-  & figcaption::before {
-    content:           'Figure ' counter(figures) '.';
+}
+
+.table {
+  counter-increment: tables;
+}
+
+:is(caption, figcaption) {
+
+  font-size: smaller;
+  padding:   var(--text-padding-sm);
+
+  &::before {
     font-weight:       bold;
     margin-inline-end: 0.25em;
     white-space:       nowrap;
@@ -19,13 +38,8 @@
 
 }
 
-.prose {
-
-  counter-reset: examples figures;
-  display:       block;
-
-  & p {
-    margin-block: 0.5em;
-  }
-
+:is(.figure, .table) {
+  align-items: center;
+  inline-size: fit-content;
+  margin:      1em auto;
 }

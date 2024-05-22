@@ -12,7 +12,7 @@
   text-align: center;
 }
 
-#fig\:components {
+.figure table {
   & td {
     border:     1px solid #CCC;
     padding:    var(--text-padding);
@@ -28,6 +28,10 @@
 .slashes .words .word:last-child span::after {
   content:              '/';
   padding-inline-start: 0.125em;
+}
+
+#stem-structure {
+  max-inline-size: 25em;
 }
 
 .title-note {

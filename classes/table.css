@@ -1,0 +1,15 @@
+.table {
+
+  & td {
+    border: 1px solid #CCC;
+  }
+
+  & th {
+    font-weight: bold;
+  }
+
+  :is(td, th) {
+    padding: var(--text-padding);
+  }
+
+}

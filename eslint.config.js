@@ -3,10 +3,14 @@ import globals from 'globals'
 
 const projectConfig = {
   languageOptions: { globals: { ...globals.nodeBuiltin } },
-  // These two rules can be removed once dlx/eslint-config is updated.
+  // These 3 rules can be removed once dlx/eslint-config is updated.
   rules:           {
     indent:                     [`error`, 2, { MemberExpression: 0 }],
     'newline-per-chained-call': [`error`, { ignoreChainWithDepth: 3 }],
+    'no-use-before-define':     [`warn`, {
+      classes:   false,
+      functions: false,
+    }],
   },
 }
 

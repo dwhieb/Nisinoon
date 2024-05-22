@@ -1,14 +1,21 @@
-.bulleted {
+.bulleted,
+.prose ul {
   list-style: disc outside none;
 }
 
-.list {
+.list,
+.prose :is(ol, ul):not(.examples, .subexamples, .words, .morphemes) {
 
   margin-inline-start: 1.5em;
   padding:             var(--text-padding-lg);
 
   & li {
-    display: list-item;
+    display:      list-item;
+    margin-block: 0.25em;
+  }
+
+  & li > p {
+    margin: 0;
   }
 
   & ol {
@@ -26,6 +33,7 @@
 
 }
 
-.numbered {
+.numbered,
+.prose ol:not(.examples, .subexamples, .words, .morphemes) {
   list-style: decimal outside none;
 }

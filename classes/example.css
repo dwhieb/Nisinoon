@@ -1,7 +1,8 @@
 .ex {
 
-  --example-indent:    1.5em;
+  --example-indent:    2em; /* wide enough for 2-digit numbers */
   counter-increment:   examples;
+  counter-reset:       subexamples;
   margin-block:        1em;
   margin-inline-start: var(--example-indent);
   position:            relative;

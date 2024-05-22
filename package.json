@@ -67,6 +67,7 @@
     "markdown-it": "^14.1.0",
     "markdown-it-attrs": "^4.1.6",
     "markdown-it-bracketed-spans": "^1.0.1",
-    "markdown-it-ib": "^2.0.0"
+    "markdown-it-ib": "^2.0.0",
+    "markdown-it-table-captions": "^1.0.4"
   }
 }

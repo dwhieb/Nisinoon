@@ -1,6 +1,10 @@
 .ex-source {
   float:                right; /* fallback for inline-end */
   float:                inline-end;
-  margin-block:         0em;
+  margin-block:         0em 1em !important;
   padding-inline-start: 0.25em;
+}
+
+*:has(+ .ex-source) {
+  display: inline;
 }

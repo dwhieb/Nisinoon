@@ -1,8 +1,8 @@
-ul.references-list {
+.references-list {
 
-  list-style:    none;
-  margin-inline: 0;
-  padding:       0;
+  list-style: none !important;
+  margin:     0 !important;
+  padding:    0 !important;
 
   & li {
     margin-inline-start: 2em;
