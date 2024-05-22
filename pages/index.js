@@ -1,6 +1,7 @@
 import { kebabCase, pascalCase } from 'change-case'
 
 export * from './Error/Error.js'
+export * from './Research/Research.js'
 
 export function page(title) {
   return function handler(req, res) {

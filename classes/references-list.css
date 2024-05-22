@@ -1,0 +1,13 @@
+ul.references-list {
+
+  list-style:    none;
+  margin-inline: 0;
+  padding:       0;
+
+  & li {
+    margin-inline-start: 2em;
+    padding:             0;
+    text-indent:         -2em;
+  }
+
+}

@@ -42,7 +42,7 @@ This database is be a web-based, open-access, centralized resource for Algonquia
 
 ## Project Team {{> backlink/backlink }} {#project-team}
 
-- Monica Macaulay, *Project Lead* (University of Wisconsin-Madison)
+- **Monica Macaulay**, *Project Lead* (University of Wisconsin-Madison)
 - [Hunter Lockwood][website-hunter], *Co-Project Lead* (The Myaamia Center)
 - [Daniel W. Hieber][website-danny] ("Danny"), *Data Manager*, *Lead Developer* (Chitimacha Tribe of Louisiana)
 
