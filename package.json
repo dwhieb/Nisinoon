@@ -57,7 +57,7 @@
     "svgstore": "^3.0.1"
   },
   "dependencies": {
-    "@digitallinguistics/dlx2html": "^0.3.0",
+    "@digitallinguistics/dlx2html": "^0.3.1",
     "@digitallinguistics/scription2dlx": "^0.13.5",
     "change-case": "^5.4.4",
     "dotenv": "^16.4.5",
