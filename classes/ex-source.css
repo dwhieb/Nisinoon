@@ -1,0 +1,6 @@
+.ex-source {
+  float:                right; /* fallback for inline-end */
+  float:                inline-end;
+  margin-block:         0em;
+  padding-inline-start: 0.25em;
+}

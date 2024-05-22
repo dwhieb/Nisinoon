@@ -24,6 +24,7 @@ This project is an NSF-funded cross-linguistic database of the components which 
 
 1. To provide tribes with a source for lexical expansion for their language revitalization/reclamation projects.
 2. To provide a basis for comprehensive reconstruction of Proto-Algonquian.
+{.list .numbered}
 
 This database is be a web-based, open-access, centralized resource for Algonquian word components, providing community members and linguists with a set of data that has previously been difficult to access. [Explore the database here.](/search)
 
@@ -39,12 +40,14 @@ This database is be a web-based, open-access, centralized resource for Algonquia
 - [Algonquian Components Bibliography](#bibliography)
 - [How to Cite this Project](#how-to-cite)
 - [Former Team Members](#former-team-members)
+{.bulleted .list}
 
 ## Project Team {{> backlink/backlink }} {#project-team}
 
 - **Monica Macaulay**, *Project Lead* (University of Wisconsin-Madison)
 - [Hunter Lockwood][website-hunter], *Co-Project Lead* (The Myaamia Center)
 - [Daniel W. Hieber][website-danny] ("Danny"), *Data Manager*, *Lead Developer* (Chitimacha Tribe of Louisiana)
+{.bulleted .list}
 
 ## Advisory Board {{> backlink/backlink }} {#advisory-board}
 
@@ -59,10 +62,11 @@ This database is be a web-based, open-access, centralized resource for Algonquia
 - Rand Valentine, University of Wisconsin
 - Natalie Weber, Yale University
 - Arok Wolvengrey, First Nations University of Canada
+{.bulleted .list}
 
 ## What does Nisinoon mean? {{> backlink/backlink }} {#nisinoon-meaning}
 
-[Nisinoon][nisinoon-entry] is an Ojibwe word meaning 'there are three'. We chose it to represent the tripartite structure of Algonquian words: initial-medial-final. Click on the word to learn more about the word and hear it pronounced.
+[Nisinoon][nisinoon-entry] is an Ojibwe word meaning {{{tln 'there are three' }}}. We chose it to represent the tripartite structure of Algonquian words: initial-medial-final. Click on the word to learn more about the word and hear it pronounced.
 
 ## Basics of Algonquian Word Structure {{> backlink/backlink }} {#grammar}
 
@@ -102,6 +106,7 @@ If you see an error in this bibliography, or would like to suggest any additions
 - Savana Stauss, *Bibliographer* (University of Wisconsin-Madison), 2018-2019
 - Jennifer Stoughton, *Undergraduate Research Assistant* (University of Wisconsin-Madison), 2022–2023
 - Brock Wroblewski, *Developer* (University of Wisconsin-Madison), 2018-2020
+{.bulleted .list}
 
 <!-- LINKS -->
 [nisinoon-entry]: https://ojibwe.lib.umn.edu/main-entry/nisinoon-vii

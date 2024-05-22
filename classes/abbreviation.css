@@ -1,0 +1,12 @@
+abbr {
+
+  &[title] {
+    cursor:          help;
+    text-decoration: dotted underline;
+  }
+
+  &:not([title]) {
+    text-decoration: none;
+  }
+
+}

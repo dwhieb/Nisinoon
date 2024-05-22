@@ -13,7 +13,9 @@ const baseConfig = {
   bundle:   true,
   external: [`*.woff2`],
   minify:   isProduction,
-  plugins:  [esbuildPluginBrowserslist(browserslist(`defaults`), { printUnknownTargets: false })],
+  plugins:  [
+    esbuildPluginBrowserslist(browserslist(`defaults`), { printUnknownTargets: false }),
+  ],
 }
 
 async function buildCSSFile(cssPath) {
@@ -38,7 +40,7 @@ export default async function buildCSS() {
 
   // Build CSS for layouts
   await buildCSSFile(path.join(layoutsDir, `main/main.css`))
-  await buildCSSFile(path.join(layoutsDir, `markdown/markdown.css`))
+  await buildCSSFile(path.join(layoutsDir, `prose/prose.css`))
 
   // Build CSS for individual pages
   const files = await recurse(pagesDir, { recursive: true })

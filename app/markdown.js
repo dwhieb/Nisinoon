@@ -1,9 +1,10 @@
 import boldItalic            from 'markdown-it-ib'
+import bracketedSpans        from 'markdown-it-bracketed-spans'
 import createMarkdownParser  from 'markdown-it'
 import { default as hbs }    from './handlebars.js'
 import markdownAttributes    from 'markdown-it-attrs'
 
-const layoutPath = `../layouts/markdown/markdown.hbs`
+const layoutPath = `../layouts/prose/prose.hbs`
 
 const config = {
   html:        true,
@@ -13,6 +14,7 @@ const config = {
 
 const parser = createMarkdownParser(config)
 .use(boldItalic)
+.use(bracketedSpans)
 .use(markdownAttributes)
 
 export default function markdownEngine(app) {

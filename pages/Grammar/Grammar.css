@@ -1,0 +1,39 @@
+@import 'ex-header.css';
+@import 'ex-source.css';
+@import 'example.css';
+@import 'examples.css';
+@import 'interlinear.css';
+
+:root {
+  --em-color: red;
+}
+
+.author {
+  text-align: center;
+}
+
+#fig\:components {
+  & td {
+    border:     1px solid #CCC;
+    padding:    var(--text-padding);
+    text-align: center;
+  }
+}
+
+.slashes .words .word:first-child span::before {
+  content:            '/';
+  padding-inline-end: 0.125em;
+}
+
+.slashes .words .word:last-child span::after {
+  content:              '/';
+  padding-inline-start: 0.125em;
+}
+
+.title-note {
+  text-align: center;
+}
+
+.wlt {
+  font-variant: small-caps;
+}

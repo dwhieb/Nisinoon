@@ -1,0 +1,21 @@
+.ex {
+
+  --example-indent:    1.5em;
+  counter-increment:   examples;
+  margin-block:        1em;
+  margin-inline-start: var(--example-indent);
+  position:            relative;
+
+  &::before {
+    content:             '(' counter(examples) ')';
+    margin-inline-start: calc(var(--example-indent) * -1);
+    margin-inline-end:   var(--example-indent);
+    position:            absolute;
+  }
+
+  & p {
+    margin:  0;
+    padding: 0;
+  }
+
+}

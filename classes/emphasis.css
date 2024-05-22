@@ -1,0 +1,19 @@
+b {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+i {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold
+}
+
+u {
+  text-decoration: underline;
+}

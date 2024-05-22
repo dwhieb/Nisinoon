@@ -1,0 +1,31 @@
+.figure {
+
+  align-items:       center;
+  counter-increment: figures;
+  inline-size:       fit-content;
+  margin:            1em auto;
+
+  & figcaption {
+    font-size: smaller;
+    padding:   var(--text-padding-sm);
+  }
+
+  & figcaption::before {
+    content:           'Figure ' counter(figures) '.';
+    font-weight:       bold;
+    margin-inline-end: 0.25em;
+    white-space:       nowrap;
+  }
+
+}
+
+.prose {
+
+  counter-reset: examples figures;
+  display:       block;
+
+  & p {
+    margin-block: 0.5em;
+  }
+
+}

@@ -1,0 +1,32 @@
+.igl {
+
+  display: block;
+
+  & abbr {
+    font-variant: small-caps;
+  }
+
+  :is(b, em, strong) {
+    color: var(--em-color);
+  }
+
+  :is(.morphemes, .words) {
+    display:   flex;
+    flex-flow: row wrap;
+  }
+
+  :is(.morpheme, .word) {
+    display:        flex;
+    flex-direction: column;
+  }
+
+  .morpheme + .morpheme,
+  .word + .word {
+    margin-inline-start: 1.25em;
+  }
+
+  :is(.lit, .tln):has(+ .ex-source) {
+    display: inline;
+  }
+
+}

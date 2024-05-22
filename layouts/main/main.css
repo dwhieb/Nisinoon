@@ -12,9 +12,13 @@
 @import 'components/skip-link/skip-link.css';
 
 /* Global Classes */
+@import 'abbreviation.css';
 @import 'blockquote.css';
-@import 'bold.css';
+@import 'cite.css';
+@import 'definition.css';
+@import 'emphasis.css';
 @import 'external-link.css';
+@import 'gloss.css';
 @import 'headings.css';
 @import 'link.css';
 @import 'lists.css';
@@ -27,9 +31,9 @@ body {
 
   align-items:             center;
   font-family:             var(--font);
-  font-size:               125%;
+  font-size:               120%;
   font-variant-ligatures:  no-common-ligatures;
-  line-height:             1.5;
+  line-height:             1.4;
   max-inline-size:         100vw;
   min-block-size:          100vh;
   text-underline-position: under;
