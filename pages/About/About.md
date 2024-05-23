@@ -1,4 +1,4 @@
-{{#section 'head'}}
+{{#section 'page'}}
   <link rel=preload href=/images/textile.jpg as=image type=image/jpeg>
 {{/section}}
 

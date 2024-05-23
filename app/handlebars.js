@@ -31,12 +31,6 @@ function translation(str) {
   return `<span class=tln>‘${ str }’</span>`
 }
 
-function section(name, opts) {
-  this.sections ??= {}
-  this.sections[name] = opts.fn(this)
-  return null
-}
-
 /**
  * Replaces regular hyphens (U+2010) with non-breaking hyphens (U+2011).
  * @param {String} data
@@ -44,6 +38,12 @@ function section(name, opts) {
  */
 function replaceHyphens(data) {
   return data.replaceAll(`-`, `\u{2011}`)
+}
+
+function section(name, opts) {
+  this.sections ??= {}
+  this.sections[name] = opts.fn(this)
+  return null
 }
 
 const hbs = new ExpressHandlebars({
@@ -59,6 +59,7 @@ const hbs = new ExpressHandlebars({
   partialsDir: [
     path.resolve(import.meta.dirname, `../layouts/main`),
     path.resolve(import.meta.dirname, `../components`),
+    path.resolve(import.meta.dirname, `../pages`),
   ],
 })
 

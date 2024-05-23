@@ -15,7 +15,6 @@ const url           = `${ baseURL }/groups/${ groupID }/items`
 let progressBar
 let total
 
-
 async function makeRequest(bibtex = ``, start) {
 
   const query = new URLSearchParams({

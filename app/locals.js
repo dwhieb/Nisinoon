@@ -22,4 +22,12 @@ for (const file of cssFiles) {
 const mainJSPath = path.resolve(import.meta.dirname, `../assets/scripts/main.js`)
 const mainJS     = await readFile(mainJSPath, `utf8`)
 
-export default { mainJS, meta, styles }
+// Add other constants
+const year = (new Date).getFullYear()
+
+export default {
+  mainJS,
+  meta,
+  styles,
+  year,
+}

@@ -116,6 +116,7 @@ Examples (components in slashes in the third line; this line does not include in
 \s   Frantz & Genee (<a href=#FrantzGenee2015>2015</a>)
 
 {{/igl}}
+{{!-- Double space after interlinear in order for subsequent markdown to parse correctly. --}}
 
 
 (In these examples, the components are given in their underlying forms, which differ in some cases from the forms as they show up in the actual word.)
