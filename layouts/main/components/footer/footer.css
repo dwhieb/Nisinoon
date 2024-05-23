@@ -1,4 +1,4 @@
-footer {
+.footer {
 
   display:         block;
   max-inline-size: var(--measure);
