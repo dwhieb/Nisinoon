@@ -1,0 +1,10 @@
+{
+  "exec": "npm run build & npm start",
+  "ext": "css,hbs,js,json,md",
+  "ignore": [
+    "**/*.test.js",
+    "assets/scripts",
+    "assets/styles",
+    "sprites.hbs"
+  ]
+}

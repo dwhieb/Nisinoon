@@ -3,5 +3,4 @@
 assets/scripts
 assets/styles
 node_modules/
-nodemon.json
 sprites.hbs
