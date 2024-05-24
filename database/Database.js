@@ -1,5 +1,5 @@
-import path       from 'node:path'
-import readNDJSON from './readNDJSON.js'
+import ndjson from './NDJSON.js'
+import path   from 'node:path'
 
 export default class Database {
 
@@ -8,7 +8,7 @@ export default class Database {
   #dataPath = path.resolve(import.meta.dirname, `./data.ndjson`)
 
   async initialize() {
-    this.#data = await readNDJSON(this.#dataPath)
+    this.#data = await ndjson.read(this.#dataPath)
   }
 
   search(filterFunction) {
