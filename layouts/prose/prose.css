@@ -1,7 +1,3 @@
-caption::before {
-  content: 'Table ' counter(tables) '.';
-}
-
 .figure {
 
   counter-increment: figures;
@@ -24,24 +20,11 @@ caption::before {
 }
 
 .table {
+
   counter-increment: tables;
-}
 
-:is(caption, figcaption) {
-
-  font-size: smaller;
-  padding:   var(--text-padding-sm);
-
-  &::before {
-    font-weight:       bold;
-    margin-inline-end: 0.25em;
-    white-space:       nowrap;
+  & caption::before {
+    content: 'Table ' counter(tables) '.';
   }
 
-}
-
-:is(.figure, .table) {
-  align-items: center;
-  inline-size: fit-content;
-  margin:      1em auto;
 }

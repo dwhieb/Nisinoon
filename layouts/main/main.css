@@ -14,10 +14,12 @@
 /* Global Classes */
 @import 'abbreviation.css';
 @import 'blockquote.css';
+@import 'caption.css';
 @import 'cite.css';
 @import 'definition.css';
 @import 'emphasis.css';
 @import 'external-link.css';
+@import 'figure.css';
 @import 'gloss.css';
 @import 'inline-example.css';
 @import 'headings.css';
@@ -62,6 +64,6 @@ html {
 
 main {
   flex-grow:       1;
-  max-inline-size: var(--measure);
+  max-inline-size: min(var(--measure), 100%);
   padding:         1em;
 }

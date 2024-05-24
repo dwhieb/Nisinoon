@@ -58,7 +58,7 @@ This project is concerned with the derivational morphemes of Algonquian.
 The basic derivational morphemes in Algonquian languages are called <dfn>components</dfn>, and Nisinoon is creating a cross-Algonquian dictionary of these components. There are three types, which correspond to where in the stem they appear. The following is from my in-progress Menominee grammar (Macaulay, [in prep](#MacaulayPrep)).
 
 <figure class=figure id=fig:components>
-  <figcaption>Menominee Stem Components</figcaption>
+  <figcaption class=caption>Menominee Stem Components</figcaption>
   <table>
     <tr>
       <td>Initial</td>
@@ -158,7 +158,9 @@ Verbs in Algonquian languages are categorized in two ways:
 
 The two intersect like this (again, from my in-progress Menominee grammar):
 
-Table: Verbs and Animacy
+<div class=fig-item-wrapper>
+
+Table: Verbs and Animacy {.caption}
 
 |                         |                          | Subject   | Object    |
 | ----------------------- | ------------------------ | --------- | --------- |
@@ -167,7 +169,9 @@ Table: Verbs and Animacy
 | Transitive Animate      | <abbr class=gl>ta</abbr> |           | animate   |
 | Transitive Inanimate    | <abbr class=gl>ti</abbr> |           | inanimate |
 
-{#tab:verb-types .table}
+{#tab:verb-types .fig-item .table}
+
+</div>
 
 That is, intransitive verbs are categorized by the animacy of their subjects (and of course they don't have objects), and transitive verbs are categorized by the animacy of their objects. The abbreviations given for each type are used extensively.
 
@@ -208,7 +212,7 @@ In some cases you find sets of four, where all four verb types are based on a co
 What was described in the [Components](#components) section is what is known as <dfn>primary derivation</dfn>, where an initial, an optional medial, and a final form a stem. But you can take a stem created this way and add another final to it to create a larger stem---this is called <dfn>secondary derivation</dfn>. (Authors use different terms for what I’m calling the "stem" here; some call it an "initial" or a "derived initial".) These are illustrated below (again, from my Menominee grammar [Macaulay, [in prep](#MacaulayPrep)]):
 
 <figure class=figure id=fig:primary-derivation>
-  <figcaption>Primary Derivation</figcaption>
+  <figcaption class=caption>Primary Derivation</figcaption>
   <table>
     <tr>
       <td>Initial</td>
@@ -219,7 +223,7 @@ What was described in the [Components](#components) section is what is known as 
 </figure>
 
 <figure class=figure id=fig:secondary-derivation>
-  <figcaption>Secondary Derivation</figcaption>
+  <figcaption class=caption>Secondary Derivation</figcaption>
   <table>
     <tr>
       <td>
@@ -306,8 +310,10 @@ This list (examples appear below) comes from Bloomfield's ([1962](#Bloomfield196
 The example below comes from a paper I coauthored on this topic (Macaulay & Salmons [2017](#MacaulaySalmons2017)) and shows where each type of formative attaches to the component it goes with.
 
 <figure class=figure id=fig:men-stem-structure>
-  <figcaption>Menominee Stem Structure (Bloomfield <a href=#Bloomfield1962>1962</a>)</figcaption>
-  <img id=stem-structure src=/images/Menominee_Stem_Structure.png>
+  <figcaption class=caption>Menominee Stem Structure (Bloomfield <a href=#Bloomfield1962>1962</a>)</figcaption>
+  <div class=fig-item-wrapper>
+    <img class=fig-item id=stem-structure src=/images/Menominee_Stem_Structure.png>
+  </div>
 </figure>
 
 Examples of formatives (all from Menominee):

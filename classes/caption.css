@@ -1,0 +1,12 @@
+.caption {
+
+  font-size: smaller;
+  padding:   var(--text-padding-sm);
+
+  &::before {
+    font-weight:       bold;
+    margin-inline-end: 0.25em;
+    white-space:       nowrap;
+  }
+
+}

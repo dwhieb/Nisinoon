@@ -1,5 +1,7 @@
 .table {
 
+  margin: 1em;
+
   & td {
     border: 1px solid #CCC;
   }

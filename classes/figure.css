@@ -1,0 +1,15 @@
+.figure {
+  align-items: center;
+  margin:      1em;
+}
+
+.fig-item {
+  inline-size: max-content;
+}
+
+.fig-item-wrapper {
+  inline-size:     fit-content;
+  margin:          auto;
+  max-inline-size: 100%;
+  overflow-x:      auto;
+}
