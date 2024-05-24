@@ -50,6 +50,10 @@ The `data/` folder contains all the scripts needed for fetching and transforming
 
 Since the data for the project is no longer updated regularly, retrieving the data is no longer done automatically during the build process. If needed, run the scripts locally instead (from the `bin/` folder).
 
+In order to access files from the Nisinoon project using the Google Drive API, the email address of the Google APIs project needs to be given access to those files.
+
+You can create credentials and download the JSON file for them [here](https://console.cloud.google.com/iam-admin/serviceaccounts/details/104392651974587359187/keys?project=digital-linguistics&supportedpurview=project).
+
 ## Release Workflow
 
 1. Increment version number.

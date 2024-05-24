@@ -1,6 +1,9 @@
 .env
 .npm
+**/credentials.json
 assets/scripts
 assets/styles
+credentials.json
+data/credentials.json
 node_modules/
 sprites.hbs
