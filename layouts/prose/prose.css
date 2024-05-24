@@ -2,12 +2,14 @@ caption::before {
   content: 'Table ' counter(tables) '.';
 }
 
-figcaption::before {
-  content: 'Figure ' counter(figures) '.';
-}
-
 .figure {
+
   counter-increment: figures;
+
+  & figcaption::before {
+    content: 'Figure ' counter(figures) '.';
+  }
+
 }
 
 .prose {
