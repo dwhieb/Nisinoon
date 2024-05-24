@@ -44,6 +44,12 @@ The linguistics stylesheet comes from [here](https://github.com/citation-style-l
 
 Creating the PDF must be done manually using the Prince UI on the local or production versions of the site. (You used to be able to do it during the build process because you were using a static site generator that produced the complete HTML for the page in the `dist/` folder. This is no longer the case. In order to produce the PDF during build, you'd have to run a local server, request the page, and run Prince on it, all on GitHub. Not worth it.)
 
+## Data
+
+The `data/` folder contains all the scripts needed for fetching and transforming the project data for use in the website database.
+
+Since the data for the project is no longer updated regularly, retrieving the data is no longer done automatically during the build process. If needed, run the scripts locally instead (from the `bin/` folder).
+
 ## Release Workflow
 
 1. Increment version number.

@@ -2,6 +2,7 @@ import { kebabCase, pascalCase } from 'change-case'
 
 export * from './Error/Error.js'
 export * from './Research/Research.js'
+export * from './Search/Search.js'
 
 export function page(title) {
   return function handler(req, res) {
@@ -10,6 +11,7 @@ export function page(title) {
 
     res.render(`${ PascalTitle }/${ PascalTitle }`, {
       cssClass:      kebabCase(title),
+      pageCSS:       res.app.locals.styles[PascalTitle],
       [PascalTitle]: true,
       title,
     })
@@ -23,8 +25,8 @@ export function md(title) {
     const PascalTitle = pascalCase(title)
 
     res.render(`${ PascalTitle }/${ PascalTitle }.md`, {
-      css:           res.app.locals.styles[PascalTitle],
       cssClass:      kebabCase(title),
+      pageCSS:       res.app.locals.styles[PascalTitle],
       [PascalTitle]: true,
       title,
     })
