@@ -18,6 +18,41 @@ export default class DataManager {
   static jsonDir = path.resolve(import.meta.dirname, `ndjson`)
 
   /**
+   * Convert all the token and component data for all languages and save the data to NDJSON files.
+   */
+  async convertAllComponents() {
+
+    if (!this.languages) await this.loadLanguages()
+
+    const progressBar = new ProgressBar(`:bar`, {
+      total: this.languages.size,
+    })
+
+    for (const key of this.languages.keys()) {
+      await this.convertLanguageComponents(key)
+      progressBar.tick()
+    }
+
+  }
+
+  /**
+   * Convert all the token and component data for a single language to NDJSON.
+   * @param {String} key The key for the language to convert.
+   */
+  async convertLanguageComponents(key) {
+
+    const componentsPath = path.resolve(DataManager.csvDir, `${ key }/components.csv`)
+    const tokensPath     = path.resolve(DataManager.csvDir, `${ key }/tokens.csv`)
+    const componentsCSV  = await readFile(componentsPath, `utf8`)
+    const tokensCSV      = await readFile(tokensPath, `utf8`)
+    const components     = new Components(componentsCSV, tokensCSV, key)
+    const jsonPath       = path.resolve(DataManager.jsonDir, `${ key }.ndjson`)
+
+    await ndjson.write(components.json(), jsonPath)
+
+  }
+
+  /**
    * Converts the languages CSV to a Languages map and saves the data to an NDJSON file.
    */
   async convertLanguages() {
@@ -41,7 +76,7 @@ export default class DataManager {
 
     if (!this.languages) await this.loadLanguages()
 
-    const progress = new ProgressBar(`:bar`, {
+    const progressBar = new ProgressBar(`:bar`, {
       total: this.languages.size,
     })
 
@@ -67,7 +102,7 @@ export default class DataManager {
       }
 
       await makeRequest() // Kick off request sequence
-      progress.tick()
+      progressBar.tick()
 
     }
 
