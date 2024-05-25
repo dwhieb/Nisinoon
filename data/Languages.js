@@ -1,9 +1,8 @@
 import { parse as parseCSV } from 'csv-parse/sync'
-import { readFile }          from 'node:fs/promises'
 
 export default class Languages extends Map {
 
-  columns = [
+  static columns = [
     `key`,
     `toImport`,
     `name`,
@@ -16,20 +15,26 @@ export default class Languages extends Map {
     `notes`,
   ]
 
-  csvOptions = {
-    columns:        this.columns,
-    from:           2,
-    skipEmptyLines: true,
-    trim:           true,
+  constructor(csv) {
+    super()
+    this.csv = csv
+    this.convert()
   }
 
   convert() {
 
-    this.records = this.records.filter(record => record.toImport)
+    const records = parseCSV(this.csv, {
+      columns:          Languages.columns,
+      from:             2,
+      relaxColumnCount: true,
+      skipEmptyLines:   true,
+      trim:             true,
+    })
+    .filter(record => record.toImport)
 
-    for (const record of this.records) {
-      const lang = this.convertRecord(record)
-      this.set(lang.key, lang)
+    for (const record of records) {
+      const language = this.convertRecord(record)
+      this.set(language.key, language)
     }
 
     return this
@@ -42,11 +47,6 @@ export default class Languages extends Map {
 
   json() {
     return Array.from(this.values())
-  }
-
-  async readCSV(filePath) {
-    this.csv     = await readFile(filePath, `utf8`)
-    this.records = parseCSV(this.csv, this.csvOptions)
   }
 
 }

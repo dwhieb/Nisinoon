@@ -5,13 +5,35 @@
 import { google } from 'googleapis'
 import path       from 'node:path'
 
-const mimeType = `text/csv`
-
 export default class Drive {
 
   dataFolderID = `15fBZsPI_RyCU78H0FLf0lYuhLUR8wy2G`
 
   languagesSpreadsheetID = `1jQZqMrzW4f_tdyG_DTV_jT9c_iFSvwIPhmLp0EWh3Wk`
+
+  async getComponentsData(lang) {
+
+    const query        = `'${ this.dataFolderID }' in parents`
+    const spreadsheets = await this.getFilesOrFolders(query)
+    const spreadsheet  = spreadsheets.find(sheet => sheet.name === lang)
+
+    if (!spreadsheet) {
+      throw new Error(`Missing spreadsheet. Possible name mismatch.`)
+    }
+
+    const { data: { values: components } } = await this.sheetsClient.spreadsheets.values.get({
+      range:         `Components`,
+      spreadsheetId: spreadsheet.id,
+    })
+
+    const { data: { values: tokens } } = await this.sheetsClient.spreadsheets.values.get({
+      range:         `Tokens`,
+      spreadsheetId: spreadsheet.id,
+    })
+
+    return { components, tokens }
+
+  }
 
   async getFilesOrFolders(query) {
 
@@ -19,7 +41,7 @@ export default class Drive {
 
     const getNextPage = async pageToken => {
 
-      const { data } = await this.client.files.list({
+      const { data } = await this.driveClient.files.list({
         pageToken,
         q: query,
       })
@@ -39,27 +61,13 @@ export default class Drive {
   }
 
   async getLanguagesData() {
-    const { data } = await this.getSpreadsheetByID(this.languagesSpreadsheetID)
-    return data
-  }
 
-  getSpreadsheetByID(fileId) {
-    return this.client.files.export({ fileId, mimeType })
-  }
+    const res = await this.sheetsClient.spreadsheets.values.get({
+      range:         `Languages`,
+      spreadsheetId: this.languagesSpreadsheetID,
+    })
 
-  async getSpreadsheetByName(name) {
-
-    const query        = `'${ this.dataFolderID }' in parents`
-    const spreadsheets = await this.getFilesOrFolders(query)
-    const spreadsheet  = spreadsheets.find(sheet => sheet.name === name)
-
-    if (!spreadsheet) {
-      throw new Error(`Missing spreadsheet. Possible name mismatch.`)
-    }
-
-    const { data } = await this.client.files.export({ fileId: spreadsheet.id, mimeType })
-
-    return data
+    return res.data.values
 
   }
 
@@ -72,9 +80,14 @@ export default class Drive {
 
     const authClient = await authConfig.getClient()
 
-    this.client = google.drive({
+    this.driveClient = google.drive({
       auth:    authClient,
       version: `v3`,
+    })
+
+    this.sheetsClient = google.sheets({
+      auth:    authClient,
+      version: `v4`,
     })
 
   }
