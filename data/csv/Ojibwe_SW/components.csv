@@ -1,0 +1,90 @@
+ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
+1,Valentine,RV2002,0088,ciw,,chip1241,-aaso,OJ:3,,,,,,NG,,final,AI
+2,Valentine,RV2002,0108,ciw,,chip1241,-adengw-,OJ:3,,,,,,face,,medial
+3,Valentine,RV2002,0107,ciw,,chip1241,-akokw-,OJ:3,,,,,,pail,,medial,INCORP
+4,Valentine,RV2002,0087,ciw,,chip1241,-azh-,OJ:3,,,,,,skin,,medial
+5,Valentine,RV2002,0087,ciw,,chip1241,-azhag-,OJ:3,,,,,,skin,,medial
+6,Valentine,RV2002,0088,ciw,,chip1241,-iingw-,OJ:3,,,,,,face,,medial
+7,Costa,DJC2013,0221,ciw,,chip1241,-kana,OJ:4,,,,,,path,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+8,Valentine,RV2002,0088,ciw,,chip1241,-kw-,OJ:3,,,,,,NG,,medial
+9,Valentine,RV2002,0088,ciw,,chip1241,-kw-e-,OJ:3,,,,,,NG,,medial
+10,Valentine,RV2002,0087,ciw,,chip1241,-ndib-,OJ:3,,,,,,head,,medial
+11,Denny,JPD1977,0131,ciw,,chip1241,ā,OJ:5,,,,,,NG,,final,II,,ABSTR
+12,Denny,JPD1978a,0311,ciw,,chip1241,ā,OJ:5,,,,,,spatial,,final,II,,ABSTR
+13,Denny,JPD1978a,0316,ciw,,chip1241,āciwan,OJ:5,,,,,,stream,,final,unk.,,CONCR
+14,Valentine,RV2002,0106,ciw,,chip1241,agaas-,OJ:3,,,,,,small,,initial
+15,Denny,JPD1978a,0317,ciw,,chip1241,ahikan ,OJ:5,,,,,,NG,,final,unk.
+16,Denny,JPD1978a,0316,ciw,,chip1241,ākam,OJ:5,,,,,,NG,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'body of water'
+17,Denny,JPD1978a,0311,ciw,,chip1241,akāss,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'small'
+18,Denny,JPD1978a,0317,ciw,,chip1241,ākkw,OJ:5,,,,,,NG,,medial
+19,Denny,JPD1978a,0315,ciw,,chip1241,ākonak,OJ:5,,,,,,snow (fallen),,medial
+20,Valentine,RV2002,0096,ciw,,chip1241,akw-,OJ:3,,,,,,NG,,initial,RR
+21,Denny,JPD1978a,0315,ciw,,chip1241,amo,OJ:5,,,,,,make its way,,final,unk.,,CONCR,,,,,,,mo
+22,Denny,JPD1977,0131,ciw,,chip1241,an,OJ:5,,,,,,NG,,final,II,,ABSTR
+23,Denny,JPD1978a,0321,ciw,,chip1241,anipē,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'lean'
+24,Valentine,RV2002,0096,ciw,,chip1241,apiich-,OJ:3,,,,,,NG,,initial,RR
+25,Valentine,RV2002,0096,ciw,,chip1241,apiit-,OJ:3,,,,,,NG,,initial,RR
+26,Valentine,RV2002,0106,ciw,,chip1241,apiiz-,OJ:3,,,,,,to such extent (speed),,initial,RR
+27,Denny,JPD1978a,0309,ciw,,chip1241,āpikk,OJ:5,,,,,,mineral solid ,,medial
+28,Denny,JPD1978a,0307,ciw,,chip1241,appakat ,OJ:5,,,,,,NG,,initial
+29,Denny,JPD1978a,0307,ciw,,chip1241,āšk,OJ:5,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'waves'
+30,Denny,JPD1978a,0311,ciw,,chip1241,at,OJ:5,,,,,,stative,,final,II,,ABSTR
+31,Valentine,RV2002,0096,ciw,,chip1241,ayaapiich-,OJ:3,,,,,,NG,,initial,RR
+32,Valentine,RV2002,0096,ciw,,chip1241,ayindan-,OJ:3,,,,,,in such place,,initial,RR,Y
+33,Valentine,RV2002,0103,ciw,,chip1241,babiizig-,OJ:3,,,,,,curly,,initial
+34,Denny,JPD1978a,0316,ciw,,chip1241,cīk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'along' or 'near'?
+35,Valentine,RV2002,0096,ciw,,chip1241,daN-,OJ:3,,,,,,in such place,,initial,RR
+36,Valentine,RV2002,0096,ciw,,chip1241,daS(w)-,OJ:3,,,,,,so many,,initial,RR,,,,,,,,,endaS(w)-,initial change
+37,Valentine,RV2002,0088,ciw,,chip1241,dewkwe,OJ:3,,,,,,have a headache,,initial
+38,Denny,JPD1978a,0313,ciw,,chip1241,ē,OJ:5,,,,,,NG,,final,II,,ABSTR
+39,Valentine,RV2002,0096,ciw,,chip1241,gagiib(w),OJ:3,,,,,,shut,,initial,,Y
+40,Valentine,RV2002,0096,ciw,,chip1241,gagwaazigw-,OJ:3,,,,,,have weight,,initial,,Y
+41,Valentine,RV2002,0096,ciw,,chip1241,gib(w)-,OJ:3,,,,,,shut,,initial
+42,Valentine,RV2002,0087,ciw,,chip1241,gizhiib-,OJ:3,,,,,,itchy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,likely 'itchy'
+43,Denny,JPD1978a,0316,ciw,,chip1241,iciwan,OJ:5,,,,,,NG,,final,unk.,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'flow'
+44,Denny,JPD1978a,0310,ciw,,chip1241,in,OJ:5,,,,,,NG,,final,II,,ABSTR
+45,Valentine,RV2002,0096,ciw,,chip1241,iN-,OJ:3,,,,,,NG,,initial,RR
+46,Denny,JPD1978a,0316,ciw,,chip1241,ipīk,OJ:5,,,,,,NG,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'water'
+47,Denny,JPD1978a,0318,ciw,,chip1241,isi,OJ:5,,,,,,NG,,final,II,,ABSTR
+48,Denny,JPD1978a,0318,ciw,,chip1241,išiwēp ,OJ:5,,,,,,happen thus,,initial
+49,Denny,JPD1978a,0309,ciw,,chip1241,išp,OJ:5,,,,,,high,,initial
+50,Denny,JPD1978a,0313,ciw,,chip1241,iss,OJ:5,,,,-hθ-,,become,,final,unk.,,CONCR
+51,Denny,JPD1978a,0315,ciw,,chip1241,kaw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'frozen'
+52,Denny,JPD1978a,0315,ciw,,chip1241,kk,OJ:5,,,,,,lots of ,,final,unk.,,CONCR
+53,Denny,JPD1978a,0315,ciw,,chip1241,kwayakko,OJ:5,,,,,,NG,,initial
+54,Valentine,RV2002,0088,ciw,,chip1241,makadew-,OJ:3,,,,,,black,,initial
+55,Denny,JPD1978a,0315,ciw,,chip1241,mankatē ,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'wide' or related
+57,Denny,JPD1978a,0308,ciw,,chip1241,maškaw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'hard'
+58,Denny,JPD1978a,0315,ciw,,chip1241,māt,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'begin'
+59,Denny,JPD1978a,0318,ciw,,chip1241,mino,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'good'
+60,Valentine,RV2002,0112,ciw,,chip1241,miskw-,OJ:3,,,,,,red,,initial
+61,Denny,JPD1978a,0315,ciw,,chip1241,nāninkittāw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'several directions'?
+62,Goddard,IG1980,0145,ciw,,chip1241,nassaw-,OJ:1,,,,*θaʔθaw-,*θaʔθaw-,fork(ed),,initial,,,,,,,,,,,,,,,,,,,,,,,,,"just given as ""Ojibwe""; asked IG; he said SW",,MAM
+63,Denny,JPD1978a,0316,ciw,,chip1241,nāw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'middle'
+64,Denny,JPD1978a,0310,ciw,,chip1241,nīš,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'two'
+65,Denny,JPD1978a,0317,ciw,,chip1241,nisi,OJ:5,,,,,,NG,,final,unk.
+66,Denny,JPD1978a,0316,ciw,,chip1241,nīss,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'down' or 'along'?
+67,Denny,JPD1978a,0305,ciw,,chip1241,niššwāsso,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'eight'
+68,Denny,JPD1978a,0321,ciw,,chip1241,omp,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'up'
+69,Denny,JPD1978a,0310,ciw,,chip1241,ōn,OJ:5,,,,,,NG,,final,II
+70,Denny,JPD1978a,0315,ciw,,chip1241,onāt,OJ:5,,,,,,NG,,initial
+71,Denny,JPD1978a,0308,ciw,,chip1241,ošāss,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'slippery'
+72,Denny,JPD1977,0131,ciw,,chip1241,oššāš,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'slippery'
+73,Denny,JPD1978a,0318,ciw,,chip1241,pakam,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'arrive'
+74,Denny,JPD1978a,0309,ciw,,chip1241,pāss,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'fissure' or related
+76,Denny,JPD1978a,0308,ciw,,chip1241,pēnkw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'dry'
+77,Denny,JPD1978a,0316,ciw,,chip1241,pīc,OJ:5,,,,,,NG,,initial,,,,,,,,,,pīt,,,,,,,,,,,,,,,VMN: likely 'this way' or 'toward'
+78,Denny,JPD1978a,0315,ciw,,chip1241,pīss,OJ:5,,,,,,NG,,initial
+79,Denny,JPD1978a,0317,ciw,,chip1241,pīss,OJ:5,,,,,,rain ,,final,unk.,,CONCR
+80,Denny,JPD1978a,0321,ciw,,chip1241,pit,OJ:5,,,,,,NG,,final,unk.,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'go'
+81,Denny,JPD1978a,0307,ciw,,chip1241,pōn,OJ:5,,,,,,NG,,initial
+82,Denny,JPD1978a,0315,ciw,,chip1241,ppo,OJ:5,,,,,,snow,,final,unk.,,CONCR
+83,Denny,JPD1978a,0317,ciw,,chip1241,takk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'cold'
+85,Denny,JPD1978a,0308,ciw,,chip1241,tipp,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'damp'
+86,Denny,JPD1978a,0315,ciw,,chip1241,ttaw,OJ:5,,,,,,NG,,final,TRANS
+87,Denny,JPD1978a,0315,ciw,,chip1241,ttōn,OJ:5,,,,,,NG,,final,TRANS
+88,Valentine,RV2002,0087,ciw,,chip1241,waab-,OJ:3,,,,,,white,,initial
+89,Valentine,RV2002,0087,ciw,,chip1241,waabizhag-,OJ:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"complex initial seen in verb for being bald - ""a state of the head characterized by white skin""."
+90,Denny,JPD1978a,0317,ciw,,chip1241,wāss,OJ:5,,,,,,"bright, shiny",,initial
+91,Valentine,RV2002,0096,ciw,,chip1241,zag-,OJ:3,,,,,,"hold onto, grab",,initial
+92,Valentine,RV2002,0106,ciw,,chip1241,zhoom-,OJ:3,,,,,,smile,,initial
