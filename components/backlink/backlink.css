@@ -1,3 +1,6 @@
 .backlink {
-  font-size: large;
+  float:         right;
+  font-size:     large;
+  line-height:   2.9;     /* matches height of h2 */
+  margin-inline: 0.25em;
 }

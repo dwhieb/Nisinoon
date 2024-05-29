@@ -1,5 +1,10 @@
 :is(h1, h2) {
   padding-block: 0.5em 0em;
+
+  & + * {
+    clear: both;
+  }
+
 }
 
 h1 {
