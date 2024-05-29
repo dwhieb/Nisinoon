@@ -5,7 +5,6 @@ assets/scripts
 assets/styles
 credentials.json
 data/credentials.json
-issues.csv
 node_modules/
 sprites.hbs
 temp.js
