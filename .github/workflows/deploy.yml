@@ -65,6 +65,7 @@ jobs:
       - name: Copy data
         uses: peaceiris/actions-gh-pages@v4
         with:
+          enable_jekyll:  true
           exclude_assets: '**.js,credentials.json,issues.csv'
           github_token:   ${{ secrets.GITHUB_TOKEN }}
           publish_branch: data
