@@ -1,0 +1,11 @@
+Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
+1,Goddard,IG1980,0154,,,,*-ən,PEA:1,,,,,,"hold, handle",,final,TI
+2,Goddard,IG1979a,0098,,,,*-əpəyē-,PEA:1,,,,*-epy-e·-,,water,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM,
+3,Goddard,IG1980,0154,,,,*-əs,PEA:1,,,,,,heat,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,I think PEA (instead of PA?)? double dash
+4,Goddard,IG1980,0154,,,,*-əš,PEA:1,,,,,,cut,,final,TI
+5,Goddard,IG1980,0144,,,,*-īnswī,PEA:1,,,,*-inso,*-inso,be named,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+6,Goddard,IG1980,0144,,,,*ər-,PEA:1,,,,*eθ-,*eθ-,thus,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+7,Goddard,IG1980,0148,,,,*kwakwān-,PEA:1,,,,*kaka·nw-,*kaka·nw-,long (pl.),,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+8,Goddard,IG1980,0148,,,,*kwən-,PEA:1,,,,*kenw-,*kenw-,long,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+9,Goddard,IG1980,0150,,,,*nēw-,PEA:1,,,,*nēw-,,see,,initial,TA,,,,,,,,,,,,,,,,,,,,,,,,I think PEA (instead of PA?)? translation may be 'see him' -SL
+10,Goddard,IG1979a,0099,,,,*pā-,PEA:1,,,,*pya·-,,come,,initial,,,,,,,,,,,,,,,,,,,,,,,,,not clear if initial or stem,,MAM

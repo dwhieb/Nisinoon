@@ -1,0 +1,30 @@
+Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
+5,Brittain,JB2003,"0028,0031,0033",nsk,,west2626,-â,C-N:2,,,,,,NG,,final,AI,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+24,Brittain,JB2003,0034,nsk,,west2626,-âhpi,C-N:2,,,,,,laugh,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+28,Brittain,JB1999a,0036,nsk,,west2626,-âht,C-N:2,,,,,,NG,,final,TI,,,,,,,,,,,wâpâht,,,V,TI,see,,JB1999a;0036
+7,Brittain,JB2003,0029,nsk,,west2626,-âp,C-N:2,,,,,,light,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+10,Brittain,JB2003,0031,nsk,,west2626,-âp,C-N:2,,,,,,water,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+16,Brittain,JB2003,0031,nsk,,west2626,-âpu,C-N:2,,,,,,rabbit,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+13,Brittain,JB2003,0031,nsk,,west2626,-âsâm,C-N:2,,,,,,snowshoe,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+25,Brittain,JB2003,0035,nsk,,west2626,-atîhkw,C-N:2,,,,,,caribou,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+11,Brittain,JB2003,0031,nsk,,west2626,-îht,C-N:2,,,,,,caus,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+2,Brittain,JB2003,"0028,0029",nsk,,west2626,-im,C-N:2,,,,,,do by means of facial activity,,final,TA,,,,,,,,,,,wâpim,,,V,TA,see,,JB2003:0028,,,,,,,,,,,,,,,,,,,,,,,,MAM
+27,Brittain,JB1999a,0036,nsk,,west2626,-im,C-N:2,,,,,,NG,,final,TA,,ABSTR,,,,,,,,,wâpim,,,V,TA,see,,JB1999a;0036
+29,Brittain,JB1999a,0036,nsk,,west2626,-isk,C-N:2,,,,,,goose,,final,N,,,,,,,,,,,wâpisk,,,N,,snow goose,,JB1999a;0036
+4,Brittain,JB2003,0028,nsk,,west2626,-min,C-N:2,,,,,,berry,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+19,Brittain,JB2003,0032,nsk,,west2626,-s,C-N:2,,,,,,do by blade,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+21,Brittain,JB2003,0032,nsk,,west2626,-su,C-N:2,,,,,,NG,,final,AI,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+17,Brittain,JB2003,0031,nsk,,west2626,-swâ,C-N:2,,,,,,do by blade,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+14,Brittain,JB2003,0031,nsk,,west2626,-tîhkw,C-N:2,,,,,,caribou,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+20,Brittain,JB2003,0032,nsk,,west2626,mîchi,C-N:2,,,,,,eat,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+18,Brittain,JB2003,0032,nsk,,west2626,mîhchâtw,C-N:2,,,,,,many,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+3,Brittain,JB2003,0028,nsk,,west2626,mw,C-N:2,,,,,,eat,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+6,Brittain,JB2003,0029,nsk,,west2626,nâh,C-N:2,,,,,,good,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+8,Brittain,JB2003,0031,nsk,,west2626,nitû,C-N:2,,,,,,hunt,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+15,Brittain,JB2003,0031,nsk,,west2626,pâhkun,C-N:2,,,,,,skin,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+23,Brittain,JB2003,0034,nsk,,west2626,pâhpi-,C-N:2,,,,,,laugh,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+22,Brittain,JB2003,0033,nsk,,west2626,pîhch,C-N:2,,,,,,inside,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+9,Brittain,JB2003,0031,nsk,,west2626,pikistuw,C-N:2,,,,,,drop,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+12,Brittain,JB2003,0031,nsk,,west2626,pûst,C-N:2,,,,,,put on,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+1,Brittain,JB2003,0028,nsk,,west2626,wâp-,C-N:2,,,,,,light,,initial,,,,,,,,,,,,wâpim,,,V,TA,see,,JB2003;0028,,,,,,,,,,,,,,,,,,,,,,,,MAM
+26,Brittain,JB1999a,0036,nsk,,west2626,wâp-,C-N:2,,,,,,white,,initial,,,,,,,,,,,,wâpim,,,V,TA,see,,JB1999a;0036,wâpâht,,,V,TI,see,,JB1999a;0036,wâpisk,,,N,,snow goose,,JB1999a;0036
