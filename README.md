@@ -59,7 +59,7 @@ You can create credentials and download the JSON file for them [here](https://co
 - Version number is for the *data*, not the website.
 - The website deploys on pushes to `main`.
   - If you need a guard against early deployment, use development branches.
-- To trigger deployment of the data to Zenodo, create a release.
+- To trigger deployment of the data to Zenodo, create a release **FROM THE `DATA` BRANCH**.
 
 ## Page Variables
 
