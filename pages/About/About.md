@@ -82,7 +82,7 @@ If you see an error in this bibliography, or would like to suggest any additions
 
 ## How to Cite this Project {{> backlink/backlink }} {#how-to-cite}
 
-> Macaulay, Monica, Hunter T. Lockwood, Daniel W. Hieber. 2024. *Nisinoon: The Algonquian Components Database*. <https://nisinoon.net>.
+> Macaulay, Monica, Hunter T. Lockwood, Daniel W. Hieber. 2024. *Nisinoon: The Algonquian Components Database*. <https://nisinoon.net>. DOI: [10.5281/zenodo.11459862][data-doi].
 
 ## Former Team Members {{> backlink/backlink }} {#former-team-members}
 
@@ -109,6 +109,7 @@ If you see an error in this bibliography, or would like to suggest any additions
 {.bulleted .list}
 
 <!-- LINKS -->
+[data-doi]:       https://doi.org/10.5281/zenodo.11459862
 [nisinoon-entry]: https://ojibwe.lib.umn.edu/main-entry/nisinoon-vii
 [website-danny]:  https://github.com/dwhieb
 [website-hunter]: https://miamioh.edu/myaamia-center/about/staff-faculty-affiliates/lockwood/index.html
