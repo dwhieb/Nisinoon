@@ -54,10 +54,12 @@ In order to access files from the Nisinoon project using the Google Drive API, t
 
 You can create credentials and download the JSON file for them [here](https://console.cloud.google.com/iam-admin/serviceaccounts/details/104392651974587359187/keys?project=digital-linguistics&supportedpurview=project).
 
-## Release Workflow
+## Release & Versioning
 
-1. Increment version number.
-2. Create a GitHub release to trigger deployment to Azure.
+- Version number is for the *data*, not the website.
+- The website deploys on pushes to `main`.
+  - If you need a guard against early deployment, use development branches.
+- To trigger deployment of the data to Zenodo, create a release.
 
 ## Page Variables
 

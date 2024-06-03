@@ -1,3 +1,5 @@
+# On pushes to `main`, deploys website to Azure, and copies data to `data` branch.
+#
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure:             https://github.com/Azure/actions
 
@@ -42,7 +44,7 @@ jobs:
       - name: Build app
         run:  npm run build
 
-      - name: Check for only in tests
+      - name: Check for "only" in tests
         run:  npm run stop-only
 
       - name: Run E2E tests
@@ -56,3 +58,11 @@ jobs:
           slot-name:       Production
           package:         .
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C789F3DAFFFF45EA89AA17889914203C }}
+
+      - name: Copy data
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          exclude_assets: '**.js,credentials.json,issues.csv'
+          github_token:   ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: data
+          publish_dir:    data
