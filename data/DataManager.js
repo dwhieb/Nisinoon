@@ -2,6 +2,7 @@ import Components     from './Components.js'
 import Drive          from './Drive.js'
 import Languages      from './Languages.js'
 import ndjson         from '../database/NDJSON.js'
+import Orthographies  from './Orthographies.js'
 import { outputFile } from 'fs-extra'
 import path           from 'node:path'
 import ProgressBar    from 'progress'
@@ -15,7 +16,7 @@ export default class DataManager {
 
   static csvDir = path.resolve(import.meta.dirname, `csv`)
 
-  static jsonDir = path.resolve(import.meta.dirname, `ndjson`)
+  static jsonDir = path.resolve(import.meta.dirname, `json`)
 
   /**
    * Convert all the token and component data for all languages and save the data to NDJSON files.
@@ -48,7 +49,7 @@ export default class DataManager {
     const components     = new Components(componentsCSV, tokensCSV, key)
     const jsonPath       = path.resolve(DataManager.jsonDir, `${ key }.ndjson`)
 
-    await ndjson.write(components.json(), jsonPath)
+    await ndjson.write(components, jsonPath)
 
   }
 
@@ -64,7 +65,24 @@ export default class DataManager {
 
     const jsonPath = path.resolve(DataManager.jsonDir, `languages.ndjson`)
 
-    await ndjson.write(this.languages.json(), jsonPath)
+    await ndjson.write(this.languages, jsonPath)
+
+  }
+
+  /**
+   * Converts the orthographies CSV and saves the data to an NDJSON file.
+   */
+  async convertOrthographies() {
+
+    const csvPath = path.resolve(DataManager.csvDir, `orthographies.csv`)
+    const csv     = await readFile(csvPath, `utf8`)
+
+    this.orthographies = new Orthographies(csv)
+
+    const jsonPath = path.resolve(DataManager.jsonDir, `orthographies.json`)
+    const json     = JSON.stringify(this.orthographies)
+
+    await outputFile(jsonPath, json)
 
   }
 
@@ -135,6 +153,15 @@ export default class DataManager {
     const csvPath = path.resolve(DataManager.csvDir, `languages.csv`)
 
     await outputFile(csvPath, csv)
+
+  }
+
+  async fetchOrthographiesKey() {
+
+    const csv               = await this.drive.getOrthographiesData()
+    const orthographiesPath = path.resolve(DataManager.csvDir, `orthographies.csv`)
+
+    await outputFile(orthographiesPath, csv)
 
   }
 

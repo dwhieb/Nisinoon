@@ -11,6 +11,8 @@ export default class Drive {
 
   languagesSpreadsheetID = `1jQZqMrzW4f_tdyG_DTV_jT9c_iFSvwIPhmLp0EWh3Wk`
 
+  orthographyKeyID = `1b_Iy1mkWaGbJAcNo8BWpQDWxy7c_reSUsbrtbJ4a1Pc`
+
   async getComponentsData(lang) {
 
     const query        = `'${ this.dataFolderID }' in parents`
@@ -68,6 +70,17 @@ export default class Drive {
     })
 
     return res.data.values
+
+  }
+
+  async getOrthographiesData() {
+
+    const { data } = await this.driveClient.files.export({
+      fileId:   this.orthographyKeyID,
+      mimeType: `text/csv`,
+    })
+
+    return data
 
   }
 

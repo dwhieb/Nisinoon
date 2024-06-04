@@ -120,7 +120,7 @@ export default class Components extends Map {
 
   }
 
-  json() {
+  toJSON() {
     return Array.from(this.values())
   }
 

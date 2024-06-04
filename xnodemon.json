@@ -5,6 +5,7 @@
     "**/*.test.js",
     "assets/scripts",
     "assets/styles",
+    "data/json/orthographies.json",
     "sprites.hbs"
   ]
 }

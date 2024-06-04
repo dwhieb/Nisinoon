@@ -45,7 +45,7 @@ export default class Languages extends Map {
     return { key }
   }
 
-  json() {
+  toJSON() {
     return Array.from(this.values())
   }
 
