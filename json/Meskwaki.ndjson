@@ -1,625 +1,625 @@
-{"id":"1"}
-{"id":"2"}
-{"id":"3"}
-{"id":"4"}
-{"id":"5"}
-{"id":"6"}
-{"id":"7"}
-{"id":"8"}
-{"id":"9"}
-{"id":"10"}
-{"id":"11"}
-{"id":"12"}
-{"id":"13"}
-{"id":"14"}
-{"id":"15"}
-{"id":"16"}
-{"id":"17"}
-{"id":"18"}
-{"id":"19"}
-{"id":"20"}
-{"id":"21"}
-{"id":"22"}
-{"id":"23"}
-{"id":"24"}
-{"id":"25"}
-{"id":"26"}
-{"id":"27"}
-{"id":"28"}
-{"id":"29"}
-{"id":"31"}
-{"id":"32"}
-{"id":"33"}
-{"id":"34"}
-{"id":"35"}
-{"id":"36"}
-{"id":"37"}
-{"id":"38"}
-{"id":"39"}
-{"id":"40"}
-{"id":"41"}
-{"id":"42"}
-{"id":"43"}
-{"id":"45"}
-{"id":"46"}
-{"id":"47"}
-{"id":"48"}
-{"id":"49"}
-{"id":"50"}
-{"id":"51"}
-{"id":"52"}
-{"id":"53"}
-{"id":"54"}
-{"id":"55"}
-{"id":"57"}
-{"id":"58"}
-{"id":"59"}
-{"id":"60"}
-{"id":"61"}
-{"id":"62"}
-{"id":"64"}
-{"id":"65"}
-{"id":"66"}
-{"id":"67"}
-{"id":"68"}
-{"id":"69"}
-{"id":"70"}
-{"id":"71"}
-{"id":"72"}
-{"id":"74"}
-{"id":"75"}
-{"id":"76"}
-{"id":"77"}
-{"id":"78"}
-{"id":"79"}
-{"id":"80"}
-{"id":"81"}
-{"id":"82"}
-{"id":"83"}
-{"id":"84"}
-{"id":"85"}
-{"id":"86"}
-{"id":"87"}
-{"id":"88"}
-{"id":"89"}
-{"id":"90"}
-{"id":"91"}
-{"id":"92"}
-{"id":"93"}
-{"id":"94"}
-{"id":"95"}
-{"id":"96"}
-{"id":"97"}
-{"id":"98"}
-{"id":"99"}
-{"id":"100"}
-{"id":"101"}
-{"id":"102"}
-{"id":"103"}
-{"id":"104"}
-{"id":"105"}
-{"id":"107"}
-{"id":"108"}
-{"id":"109"}
-{"id":"110"}
-{"id":"111"}
-{"id":"112"}
-{"id":"113"}
-{"id":"114"}
-{"id":"115"}
-{"id":"116"}
-{"id":"117"}
-{"id":"118"}
-{"id":"120"}
-{"id":"121"}
-{"id":"122"}
-{"id":"123"}
-{"id":"124"}
-{"id":"125"}
-{"id":"126"}
-{"id":"127"}
-{"id":"128"}
-{"id":"129"}
-{"id":"130"}
-{"id":"131"}
-{"id":"132"}
-{"id":"133"}
-{"id":"134"}
-{"id":"135"}
-{"id":"136"}
-{"id":"137"}
-{"id":"138"}
-{"id":"139"}
-{"id":"140"}
-{"id":"141"}
-{"id":"142"}
-{"id":"143"}
-{"id":"144"}
-{"id":"145"}
-{"id":"146"}
-{"id":"147"}
-{"id":"148"}
-{"id":"149"}
-{"id":"150"}
-{"id":"152"}
-{"id":"153"}
-{"id":"154"}
-{"id":"155"}
-{"id":"156"}
-{"id":"157"}
-{"id":"158"}
-{"id":"159"}
-{"id":"160"}
-{"id":"161"}
-{"id":"162"}
-{"id":"163"}
-{"id":"164"}
-{"id":"165"}
-{"id":"166"}
-{"id":"167"}
-{"id":"168"}
-{"id":"169"}
-{"id":"170"}
-{"id":"171"}
-{"id":"172"}
-{"id":"173"}
-{"id":"174"}
-{"id":"175"}
-{"id":"176"}
-{"id":"177"}
-{"id":"178"}
-{"id":"179"}
-{"id":"180"}
-{"id":"181"}
-{"id":"182"}
-{"id":"183"}
-{"id":"184"}
-{"id":"186"}
-{"id":"187"}
-{"id":"188"}
-{"id":"189"}
-{"id":"190"}
-{"id":"191"}
-{"id":"192"}
-{"id":"193"}
-{"id":"194"}
-{"id":"195"}
-{"id":"196"}
-{"id":"197"}
-{"id":"198"}
-{"id":"199"}
-{"id":"200"}
-{"id":"201"}
-{"id":"202"}
-{"id":"203"}
-{"id":"204"}
-{"id":"205"}
-{"id":"206"}
-{"id":"207"}
-{"id":"208"}
-{"id":"209"}
-{"id":"210"}
-{"id":"211"}
-{"id":"212"}
-{"id":"213"}
-{"id":"214"}
-{"id":"215"}
-{"id":"216"}
-{"id":"217"}
-{"id":"218"}
-{"id":"219"}
-{"id":"220"}
-{"id":"221"}
-{"id":"222"}
-{"id":"223"}
-{"id":"224"}
-{"id":"225"}
-{"id":"226"}
-{"id":"227"}
-{"id":"228"}
-{"id":"229"}
-{"id":"230"}
-{"id":"231"}
-{"id":"232"}
-{"id":"233"}
-{"id":"234"}
-{"id":"235"}
-{"id":"236"}
-{"id":"238"}
-{"id":"239"}
-{"id":"240"}
-{"id":"241"}
-{"id":"242"}
-{"id":"243"}
-{"id":"244"}
-{"id":"245"}
-{"id":"246"}
-{"id":"247"}
-{"id":"248"}
-{"id":"249"}
-{"id":"250"}
-{"id":"251"}
-{"id":"252"}
-{"id":"253"}
-{"id":"254"}
-{"id":"255"}
-{"id":"256"}
-{"id":"257"}
-{"id":"258"}
-{"id":"259"}
-{"id":"260"}
-{"id":"261"}
-{"id":"262"}
-{"id":"263"}
-{"id":"264"}
-{"id":"267"}
-{"id":"270"}
-{"id":"271"}
-{"id":"274"}
-{"id":"276"}
-{"id":"278"}
-{"id":"282"}
-{"id":"283"}
-{"id":"284"}
-{"id":"285"}
-{"id":"286"}
-{"id":"287"}
-{"id":"288"}
-{"id":"289"}
-{"id":"290"}
-{"id":"291"}
-{"id":"292"}
-{"id":"293"}
-{"id":"294"}
-{"id":"295"}
-{"id":"296"}
-{"id":"297"}
-{"id":"298"}
-{"id":"299"}
-{"id":"300"}
-{"id":"301"}
-{"id":"302"}
-{"id":"303"}
-{"id":"304"}
-{"id":"305"}
-{"id":"306"}
-{"id":"307"}
-{"id":"308"}
-{"id":"309"}
-{"id":"310"}
-{"id":"311"}
-{"id":"312"}
-{"id":"313"}
-{"id":"314"}
-{"id":"315"}
-{"id":"316"}
-{"id":"317"}
-{"id":"318"}
-{"id":"319"}
-{"id":"320"}
-{"id":"321"}
-{"id":"322"}
-{"id":"324"}
-{"id":"325"}
-{"id":"326"}
-{"id":"327"}
-{"id":"328"}
-{"id":"329"}
-{"id":"330"}
-{"id":"331"}
-{"id":"332"}
-{"id":"333"}
-{"id":"334"}
-{"id":"335"}
-{"id":"336"}
-{"id":"337"}
-{"id":"338"}
-{"id":"339"}
-{"id":"340"}
-{"id":"341"}
-{"id":"342"}
-{"id":"343"}
-{"id":"344"}
-{"id":"345"}
-{"id":"346"}
-{"id":"347"}
-{"id":"348"}
-{"id":"349"}
-{"id":"350"}
-{"id":"351"}
-{"id":"352"}
-{"id":"353"}
-{"id":"354"}
-{"id":"355"}
-{"id":"356"}
-{"id":"357"}
-{"id":"358"}
-{"id":"359"}
-{"id":"360"}
-{"id":"361"}
-{"id":"362"}
-{"id":"363"}
-{"id":"364"}
-{"id":"365"}
-{"id":"366"}
-{"id":"367"}
-{"id":"368"}
-{"id":"369"}
-{"id":"370"}
-{"id":"371"}
-{"id":"372"}
-{"id":"373"}
-{"id":"374"}
-{"id":"375"}
-{"id":"376"}
-{"id":"377"}
-{"id":"378"}
-{"id":"379"}
-{"id":"380"}
-{"id":"381"}
-{"id":"382"}
-{"id":"383"}
-{"id":"384"}
-{"id":"385"}
-{"id":"386"}
-{"id":"387"}
-{"id":"388"}
-{"id":"389"}
-{"id":"390"}
-{"id":"391"}
-{"id":"392"}
-{"id":"393"}
-{"id":"394"}
-{"id":"395"}
-{"id":"396"}
-{"id":"397"}
-{"id":"398"}
-{"id":"399"}
-{"id":"400"}
-{"id":"401"}
-{"id":"402"}
-{"id":"403"}
-{"id":"404"}
-{"id":"405"}
-{"id":"406"}
-{"id":"407"}
-{"id":"408"}
-{"id":"409"}
-{"id":"410"}
-{"id":"411"}
-{"id":"412"}
-{"id":"413"}
-{"id":"414"}
-{"id":"415"}
-{"id":"416"}
-{"id":"417"}
-{"id":"418"}
-{"id":"419"}
-{"id":"420"}
-{"id":"421"}
-{"id":"422"}
-{"id":"423"}
-{"id":"424"}
-{"id":"425"}
-{"id":"426"}
-{"id":"427"}
-{"id":"428"}
-{"id":"429"}
-{"id":"430"}
-{"id":"431"}
-{"id":"432"}
-{"id":"433"}
-{"id":"434"}
-{"id":"435"}
-{"id":"436"}
-{"id":"437"}
-{"id":"438"}
-{"id":"439"}
-{"id":"440"}
-{"id":"441"}
-{"id":"442"}
-{"id":"443"}
-{"id":"444"}
-{"id":"445"}
-{"id":"446"}
-{"id":"447"}
-{"id":"448"}
-{"id":"449"}
-{"id":"450"}
-{"id":"451"}
-{"id":"452"}
-{"id":"453"}
-{"id":"454"}
-{"id":"455"}
-{"id":"456"}
-{"id":"457"}
-{"id":"458"}
-{"id":"459"}
-{"id":"460"}
-{"id":"461"}
-{"id":"462"}
-{"id":"463"}
-{"id":"464"}
-{"id":"465"}
-{"id":"466"}
-{"id":"467"}
-{"id":"468"}
-{"id":"469"}
-{"id":"470"}
-{"id":"471"}
-{"id":"472"}
-{"id":"473"}
-{"id":"474"}
-{"id":"475"}
-{"id":"476"}
-{"id":"477"}
-{"id":"478"}
-{"id":"479"}
-{"id":"480"}
-{"id":"481"}
-{"id":"482"}
-{"id":"483"}
-{"id":"484"}
-{"id":"485"}
-{"id":"486"}
-{"id":"487"}
-{"id":"488"}
-{"id":"489"}
-{"id":"490"}
-{"id":"491"}
-{"id":"492"}
-{"id":"493"}
-{"id":"494"}
-{"id":"495"}
-{"id":"496"}
-{"id":"497"}
-{"id":"498"}
-{"id":"499"}
-{"id":"500"}
-{"id":"501"}
-{"id":"502"}
-{"id":"503"}
-{"id":"504"}
-{"id":"505"}
-{"id":"506"}
-{"id":"507"}
-{"id":"508"}
-{"id":"509"}
-{"id":"510"}
-{"id":"511"}
-{"id":"512"}
-{"id":"513"}
-{"id":"514"}
-{"id":"515"}
-{"id":"516"}
-{"id":"517"}
-{"id":"518"}
-{"id":"519"}
-{"id":"520"}
-{"id":"521"}
-{"id":"522"}
-{"id":"523"}
-{"id":"524"}
-{"id":"525"}
-{"id":"526"}
-{"id":"527"}
-{"id":"528"}
-{"id":"529"}
-{"id":"530"}
-{"id":"531"}
-{"id":"532"}
-{"id":"533"}
-{"id":"534"}
-{"id":"535"}
-{"id":"536"}
-{"id":"537"}
-{"id":"538"}
-{"id":"539"}
-{"id":"540"}
-{"id":"541"}
-{"id":"542"}
-{"id":"543"}
-{"id":"544"}
-{"id":"545"}
-{"id":"546"}
-{"id":"547"}
-{"id":"548"}
-{"id":"549"}
-{"id":"550"}
-{"id":"551"}
-{"id":"552"}
-{"id":"553"}
-{"id":"554"}
-{"id":"555"}
-{"id":"556"}
-{"id":"557"}
-{"id":"558"}
-{"id":"559"}
-{"id":"560"}
-{"id":"561"}
-{"id":"562"}
-{"id":"563"}
-{"id":"564"}
-{"id":"565"}
-{"id":"566"}
-{"id":"567"}
-{"id":"568"}
-{"id":"569"}
-{"id":"570"}
-{"id":"571"}
-{"id":"572"}
-{"id":"573"}
-{"id":"574"}
-{"id":"575"}
-{"id":"576"}
-{"id":"577"}
-{"id":"578"}
-{"id":"579"}
-{"id":"580"}
-{"id":"581"}
-{"id":"582"}
-{"id":"583"}
-{"id":"584"}
-{"id":"585"}
-{"id":"586"}
-{"id":"587"}
-{"id":"588"}
-{"id":"589"}
-{"id":"590"}
-{"id":"591"}
-{"id":"592"}
-{"id":"593"}
-{"id":"594"}
-{"id":"595"}
-{"id":"596"}
-{"id":"597"}
-{"id":"598"}
-{"id":"599"}
-{"id":"600"}
-{"id":"601"}
-{"id":"602"}
-{"id":"603"}
-{"id":"604"}
-{"id":"605"}
-{"id":"606"}
-{"id":"607"}
-{"id":"608"}
-{"id":"609"}
-{"id":"610"}
-{"id":"611"}
-{"id":"612"}
-{"id":"613"}
-{"id":"614"}
-{"id":"615"}
-{"id":"616"}
-{"id":"617"}
-{"id":"618"}
-{"id":"619"}
-{"id":"620"}
-{"id":"621"}
-{"id":"622"}
-{"id":"623"}
-{"id":"624"}
-{"id":"625"}
-{"id":"626"}
-{"id":"627"}
-{"id":"628"}
-{"id":"629"}
-{"id":"630"}
-{"id":"631"}
-{"id":"632"}
-{"id":"633"}
-{"id":"634"}
-{"id":"635"}
-{"id":"636"}
-{"id":"637"}
-{"id":"638"}
-{"id":"639"}
-{"id":"640"}
-{"id":"641"}
-{"id":"642"}
-{"id":"643"}
-{"id":"644"}
-{"id":"645"}
-{"id":"646"}
-{"id":"647"}
+{"form":"mahkw-","id":"1"}
+{"form":"nep-","id":"2"}
+{"form":"waapešk-","id":"3"}
+{"form":"-esi-","id":"4"}
+{"form":"kiišk-","id":"5"}
+{"form":"-ešw-","id":"6"}
+{"form":"-inamešk-","id":"7"}
+{"form":"-ee-","id":"8"}
+{"form":"-ikwee-","id":"9"}
+{"form":"-(e)šw-","id":"10"}
+{"form":"-ay-","id":"11"}
+{"form":"nepiw-","id":"12"}
+{"form":"-aahkw-","id":"13"}
+{"form":"pekow-","id":"14"}
+{"form":"-iikwee-","id":"15"}
+{"form":"-šin-","id":"16"}
+{"form":"asenaapee-","id":"17"}
+{"form":"-i-neniw-","id":"18"}
+{"form":"miihk-","id":"19"}
+{"form":"-em-","id":"20"}
+{"form":"miihkem-","id":"21"}
+{"form":"-ehkweew-","id":"22"}
+{"form":"pyeet-","id":"23"}
+{"form":"-aamo-","id":"24"}
+{"form":"nemat-","id":"25"}
+{"form":"-api-","id":"26"}
+{"form":"naakataw-","id":"27"}
+{"form":"-eenem-","id":"28"}
+{"form":"niimiw-","id":"29"}
+{"form":"-isen-","id":"31"}
+{"form":"atameew-","id":"32"}
+{"form":"aamanow-","id":"33"}
+{"form":"-iteehee-","id":"34"}
+{"form":"nemasw-","id":"35"}
+{"form":"-isaa-","id":"36"}
+{"form":"moowečiwiyaakw-","id":"37"}
+{"form":"-eton-","id":"38"}
+{"form":"-Ø-","id":"39"}
+{"form":"aahkweew-","id":"40"}
+{"form":"-i-naakosi-","id":"41"}
+{"form":"amee-","id":"42"}
+{"form":"","id":"43"}
+{"form":"","id":"45"}
+{"form":"","id":"46"}
+{"form":"","id":"47"}
+{"form":"","id":"48"}
+{"form":"","id":"49"}
+{"form":"","id":"50"}
+{"form":"","id":"51"}
+{"form":"","id":"52"}
+{"form":"","id":"53"}
+{"form":"","id":"54"}
+{"form":"","id":"55"}
+{"form":"","id":"57"}
+{"form":"-isaa-","id":"58"}
+{"form":"","id":"59"}
+{"form":"","id":"60"}
+{"form":"","id":"61"}
+{"form":"","id":"62"}
+{"form":"","id":"64"}
+{"form":"","id":"65"}
+{"form":"","id":"66"}
+{"form":"","id":"67"}
+{"form":"","id":"68"}
+{"form":"","id":"69"}
+{"form":"","id":"70"}
+{"form":"","id":"71"}
+{"form":"","id":"72"}
+{"form":"","id":"74"}
+{"form":"","id":"75"}
+{"form":"","id":"76"}
+{"form":"","id":"77"}
+{"form":"","id":"78"}
+{"form":"","id":"79"}
+{"form":"","id":"80"}
+{"form":"","id":"81"}
+{"form":"","id":"82"}
+{"form":"","id":"83"}
+{"form":"","id":"84"}
+{"form":"","id":"85"}
+{"form":"","id":"86"}
+{"form":"","id":"87"}
+{"form":"","id":"88"}
+{"form":"","id":"89"}
+{"form":"","id":"90"}
+{"form":"","id":"91"}
+{"form":"","id":"92"}
+{"form":"","id":"93"}
+{"form":"","id":"94"}
+{"form":"","id":"95"}
+{"form":"","id":"96"}
+{"form":"","id":"97"}
+{"form":"","id":"98"}
+{"form":"kiiš-","id":"99"}
+{"form":"","id":"100"}
+{"form":"","id":"101"}
+{"form":"","id":"102"}
+{"form":"","id":"103"}
+{"form":"","id":"104"}
+{"form":"kiikeenow-","id":"105"}
+{"form":"otooteeweniw-","id":"107"}
+{"form":"","id":"108"}
+{"form":"nepači-","id":"109"}
+{"form":"-h","id":"110"}
+{"form":"-əno(s)","id":"111"}
+{"form":"-eeha","id":"112"}
+{"form":"kwāp-","id":"113"}
+{"form":"akwā-","id":"114"}
+{"form":"tan-","id":"115"}
+{"form":"tas-","id":"116"}
+{"form":"atōt","id":"117"}
+{"form":"tōt","id":"118"}
+{"form":"-pahu-","id":"120"}
+{"form":"akōsi-","id":"121"}
+{"form":"-æčkā-","id":"122"}
+{"form":"æn-","id":"123"}
+{"form":"wīt-","id":"124"}
+{"form":"-pä-","id":"125"}
+{"form":"pyät-","id":"126"}
+{"form":"-kætu-","id":"127"}
+{"form":"-hpw-","id":"128"}
+{"form":"kīhk-","id":"129"}
+{"form":"ut-","id":"130"}
+{"form":"pyā-","id":"131"}
+{"form":"-āpæhk-","id":"132"}
+{"form":"-w-","id":"133"}
+{"form":"-w-","id":"134"}
+{"form":"pōhk-","id":"135"}
+{"form":"pōhkw-","id":"136"}
+{"form":"wīk-","id":"137"}
+{"form":"-wäwä-","id":"138"}
+{"form":"asæn-","id":"139"}
+{"form":"-yā-","id":"140"}
+{"form":"mæht-","id":"141"}
+{"form":"mætāt","id":"142"}
+{"form":"-ætčä-","id":"143"}
+{"form":"-ikä-","id":"144"}
+{"form":"pīt-","id":"145"}
+{"form":"kæht-","id":"146"}
+{"form":"-ætī-","id":"147"}
+{"form":"-ætisu-","id":"148"}
+{"form":"-tiyä-","id":"149"}
+{"form":"nækut-","id":"150"}
+{"form":"-āp-","id":"152"}
+{"form":"mat-","id":"153"}
+{"form":"-æn-","id":"154"}
+{"form":"-n-","id":"155"}
+{"form":"-an-","id":"156"}
+{"form":"-ān-","id":"157"}
+{"form":"-wæn-","id":"158"}
+{"form":"-īn-","id":"159"}
+{"form":"an-","id":"160"}
+{"form":"an-","id":"161"}
+{"form":"kīn-","id":"162"}
+{"form":"kōn-","id":"163"}
+{"form":"man-","id":"164"}
+{"form":"nīkān-","id":"165"}
+{"form":"pæn-","id":"166"}
+{"form":"pōn-","id":"167"}
+{"form":"takyän-","id":"168"}
+{"form":"wan-","id":"169"}
+{"form":"wīn-","id":"170"}
+{"form":"wīnan-","id":"171"}
+{"form":"-atæn-","id":"172"}
+{"form":"-än-","id":"173"}
+{"form":"-nan-","id":"174"}
+{"form":"-s-","id":"175"}
+{"form":"-s-","id":"176"}
+{"form":"-sæn-","id":"177"}
+{"form":"-čin-","id":"178"}
+{"form":"-čim-","id":"179"}
+{"form":"-ās-","id":"180"}
+{"form":"-īs-","id":"181"}
+{"form":"mætās-","id":"182"}
+{"form":"pakis-","id":"183"}
+{"form":"pakōs-","id":"184"}
+{"form":"wāpas-","id":"186"}
+{"form":"mæs-","id":"187"}
+{"form":"nōn-","id":"188"}
+{"form":"nōt-","id":"189"}
+{"form":"wīn-","id":"190"}
+{"form":"wīt-","id":"191"}
+{"form":"ahkōw-","id":"192"}
+{"form":"kīčuw-","id":"193"}
+{"form":"näw-","id":"194"}
+{"form":"kīw-","id":"195"}
+{"form":"-usä-","id":"196"}
+{"form":"-ō-","id":"197"}
+{"form":"pīw-","id":"198"}
+{"form":"ānw-","id":"199"}
+{"form":"-ah-","id":"200"}
+{"form":"-īh-","id":"201"}
+{"form":"-tukæ","id":"202"}
+{"form":"ahkw-","id":"203"}
+{"form":"apw-","id":"204"}
+{"form":"päkw-","id":"205"}
+{"form":"tčahkw-","id":"206"}
+{"form":"nīč-","id":"207"}
+{"form":"nīčw-","id":"208"}
+{"form":"nīčō-","id":"209"}
+{"form":"-api-","id":"210"}
+{"form":"-kāpā-","id":"211"}
+{"form":"-hpu-","id":"212"}
+{"form":"amw-","id":"213"}
+{"form":"mænw-","id":"214"}
+{"form":"-æsikä-","id":"215"}
+{"form":"-ækuni","id":"216"}
+{"form":"-īnæmw-","id":"217"}
+{"form":"pæmw-","id":"218"}
+{"form":"-tawakay-","id":"219"}
+{"form":"-īnakay-","id":"220"}
+{"form":"-ay-","id":"221"}
+{"form":"-yā-","id":"222"}
+{"form":"-īwi-","id":"223"}
+{"form":"-čkačy-","id":"224"}
+{"form":"asæny-","id":"225"}
+{"form":"-æki","id":"226"}
+{"form":"-ky-","id":"227"}
+{"form":"ačä-","id":"228"}
+{"form":"-āmu-","id":"229"}
+{"form":"-ōtä-","id":"230"}
+{"form":"-āčōwi-","id":"231"}
+{"form":"-an-","id":"232"}
+{"form":"-ān-","id":"233"}
+{"form":"-at-","id":"234"}
+{"form":"-āt-","id":"235"}
+{"form":"-atō-","id":"236"}
+{"form":"-nætčä-","id":"238"}
+{"form":"-an-","id":"239"}
+{"form":"-ān-","id":"240"}
+{"form":"-ākan-","id":"241"}
+{"form":"-mæčōh-","id":"242"}
+{"form":"pæmit-","id":"243"}
+{"form":"-apahkw-","id":"244"}
+{"form":"kačk-","id":"245"}
+{"form":"-āhpænä-","id":"246"}
+{"form":"tačk-","id":"247"}
+{"form":"-nākan-","id":"248"}
+{"form":"-awi-","id":"249"}
+{"form":"-äwi-","id":"250"}
+{"form":"-äwä-","id":"251"}
+{"form":"-īyaw-","id":"252"}
+{"form":"ātčimu-","id":"253"}
+{"form":"-æmičy-","id":"254"}
+{"form":"-āmičy-","id":"255"}
+{"form":"-ihk-","id":"256"}
+{"form":"-ōhk-","id":"257"}
+{"form":"-æčk-","id":"258"}
+{"form":"uwīyäh-","id":"259"}
+{"form":"-āhkä-","id":"260"}
+{"form":"-tō-","id":"261"}
+{"form":"-htō-","id":"262"}
+{"form":"-ātä-","id":"263"}
+{"form":"-wæn-","id":"264"}
+{"form":"-ah-","id":"267"}
+{"form":"tōt-","id":"270"}
+{"form":"ā-","id":"271"}
+{"form":"i-","id":"274"}
+{"form":"æn-","id":"276"}
+{"form":"ahpīht-","id":"278"}
+{"form":"-ækin-","id":"282"}
+{"form":"-čin-","id":"283"}
+{"form":"-tčin-","id":"284"}
+{"form":"-ætun-","id":"285"}
+{"form":"-atahw-","id":"286"}
+{"form":"waap-","id":"287"}
+{"form":"-am-","id":"288"}
+{"form":"-at-","id":"289"}
+{"form":"-esi-","id":"290"}
+{"form":"-at-","id":"291"}
+{"form":"naam-","id":"292"}
+{"form":"-aamehk-","id":"293"}
+{"form":"-aamehkw-","id":"294"}
+{"form":"-aatowee","id":"295"}
+{"form":"-kaapawi-","id":"296"}
+{"form":"šaapw-","id":"297"}
+{"form":"naaw-","id":"298"}
+{"form":"nanaaw-","id":"299"}
+{"form":"wāpi-","id":"300"}
+{"form":"meškw-","id":"301"}
+{"form":"-esi-","id":"302"}
+{"form":"-aa-","id":"303"}
+{"form":"pan-","id":"304"}
+{"form":"-en","id":"305"}
+{"form":"-en","id":"306"}
+{"form":"-am","id":"307"}
+{"form":"-at","id":"308"}
+{"form":"-eškaw","id":"309"}
+{"form":"-ešk","id":"310"}
+{"form":"mešk-","id":"311"}
+{"form":"-etonee-","id":"312"}
+{"form":"-ekwaam","id":"313"}
+{"form":"-eenem-","id":"314"}
+{"form":"ahp-","id":"315"}
+{"form":"takw-","id":"316"}
+{"form":"kek-","id":"317"}
+{"form":"-anasitee-","id":"318"}
+{"form":"-ikaapaa-","id":"319"}
+{"form":"-aahkee-","id":"320"}
+{"form":"ahkamik","id":"321"}
+{"form":"waapan","id":"322"}
+{"form":"nyeew","id":"324"}
+{"form":"iw","id":"325"}
+{"form":"i","id":"326"}
+{"form":"pehkotee","id":"327"}
+{"form":"s","id":"328"}
+{"form":"ee","id":"329"}
+{"form":"saak","id":"330"}
+{"form":"ehn","id":"331"}
+{"form":"ERROR: Orthography  not recognized.","id":"332"}
+{"form":"ERROR: Orthography  not recognized.","id":"333"}
+{"form":"ERROR: Orthography  not recognized.","id":"334"}
+{"form":"ERROR: Orthography  not recognized.","id":"335"}
+{"form":"ERROR: Orthography  not recognized.","id":"336"}
+{"form":"ERROR: Orthography  not recognized.","id":"337"}
+{"form":"ERROR: Orthography  not recognized.","id":"338"}
+{"form":"ERROR: Orthography  not recognized.","id":"339"}
+{"form":"ERROR: Orthography  not recognized.","id":"340"}
+{"form":"ERROR: Orthography  not recognized.","id":"341"}
+{"form":"ERROR: Orthography  not recognized.","id":"342"}
+{"form":"ERROR: Orthography  not recognized.","id":"343"}
+{"form":"ERROR: Orthography  not recognized.","id":"344"}
+{"form":"ERROR: Orthography  not recognized.","id":"345"}
+{"form":"ERROR: Orthography  not recognized.","id":"346"}
+{"form":"ERROR: Orthography  not recognized.","id":"347"}
+{"form":"ERROR: Orthography  not recognized.","id":"348"}
+{"form":"ERROR: Orthography  not recognized.","id":"349"}
+{"form":"ERROR: Orthography  not recognized.","id":"350"}
+{"form":"ERROR: Orthography  not recognized.","id":"351"}
+{"form":"ERROR: Orthography  not recognized.","id":"352"}
+{"form":"ERROR: Orthography  not recognized.","id":"353"}
+{"form":"ERROR: Orthography  not recognized.","id":"354"}
+{"form":"ERROR: Orthography  not recognized.","id":"355"}
+{"form":"ERROR: Orthography  not recognized.","id":"356"}
+{"form":"ERROR: Orthography  not recognized.","id":"357"}
+{"form":"ERROR: Orthography  not recognized.","id":"358"}
+{"form":"ERROR: Orthography  not recognized.","id":"359"}
+{"form":"ERROR: Orthography  not recognized.","id":"360"}
+{"form":"ERROR: Orthography  not recognized.","id":"361"}
+{"form":"ERROR: Orthography  not recognized.","id":"362"}
+{"form":"ERROR: Orthography  not recognized.","id":"363"}
+{"form":"ERROR: Orthography  not recognized.","id":"364"}
+{"form":"ERROR: Orthography  not recognized.","id":"365"}
+{"form":"ERROR: Orthography  not recognized.","id":"366"}
+{"form":"ERROR: Orthography  not recognized.","id":"367"}
+{"form":"ERROR: Orthography  not recognized.","id":"368"}
+{"form":"ERROR: Orthography  not recognized.","id":"369"}
+{"form":"ERROR: Orthography  not recognized.","id":"370"}
+{"form":"ERROR: Orthography  not recognized.","id":"371"}
+{"form":"ERROR: Orthography  not recognized.","id":"372"}
+{"form":"ERROR: Orthography  not recognized.","id":"373"}
+{"form":"ERROR: Orthography  not recognized.","id":"374"}
+{"form":"ERROR: Orthography  not recognized.","id":"375"}
+{"form":"ERROR: Orthography  not recognized.","id":"376"}
+{"form":"ERROR: Orthography  not recognized.","id":"377"}
+{"form":"ERROR: Orthography  not recognized.","id":"378"}
+{"form":"ERROR: Orthography  not recognized.","id":"379"}
+{"form":"ERROR: Orthography  not recognized.","id":"380"}
+{"form":"ERROR: Orthography  not recognized.","id":"381"}
+{"form":"ERROR: Orthography  not recognized.","id":"382"}
+{"form":"ERROR: Orthography  not recognized.","id":"383"}
+{"form":"ERROR: Orthography  not recognized.","id":"384"}
+{"form":"ERROR: Orthography  not recognized.","id":"385"}
+{"form":"ERROR: Orthography  not recognized.","id":"386"}
+{"form":"ERROR: Orthography  not recognized.","id":"387"}
+{"form":"ERROR: Orthography  not recognized.","id":"388"}
+{"form":"ERROR: Orthography  not recognized.","id":"389"}
+{"form":"ERROR: Orthography  not recognized.","id":"390"}
+{"form":"ERROR: Orthography  not recognized.","id":"391"}
+{"form":"ERROR: Orthography  not recognized.","id":"392"}
+{"form":"ERROR: Orthography  not recognized.","id":"393"}
+{"form":"ERROR: Orthography  not recognized.","id":"394"}
+{"form":"ERROR: Orthography  not recognized.","id":"395"}
+{"form":"ERROR: Orthography  not recognized.","id":"396"}
+{"form":"ERROR: Orthography  not recognized.","id":"397"}
+{"form":"ERROR: Orthography  not recognized.","id":"398"}
+{"form":"ERROR: Orthography  not recognized.","id":"399"}
+{"form":"ERROR: Orthography  not recognized.","id":"400"}
+{"form":"ERROR: Orthography  not recognized.","id":"401"}
+{"form":"ERROR: Orthography  not recognized.","id":"402"}
+{"form":"ERROR: Orthography  not recognized.","id":"403"}
+{"form":"ERROR: Orthography  not recognized.","id":"404"}
+{"form":"ERROR: Orthography  not recognized.","id":"405"}
+{"form":"ERROR: Orthography  not recognized.","id":"406"}
+{"form":"ERROR: Orthography  not recognized.","id":"407"}
+{"form":"ERROR: Orthography  not recognized.","id":"408"}
+{"form":"ERROR: Orthography  not recognized.","id":"409"}
+{"form":"ERROR: Orthography  not recognized.","id":"410"}
+{"form":"ERROR: Orthography  not recognized.","id":"411"}
+{"form":"ERROR: Orthography  not recognized.","id":"412"}
+{"form":"ERROR: Orthography  not recognized.","id":"413"}
+{"form":"ERROR: Orthography  not recognized.","id":"414"}
+{"form":"ERROR: Orthography  not recognized.","id":"415"}
+{"form":"ERROR: Orthography  not recognized.","id":"416"}
+{"form":"ERROR: Orthography  not recognized.","id":"417"}
+{"form":"ERROR: Orthography  not recognized.","id":"418"}
+{"form":"ERROR: Orthography  not recognized.","id":"419"}
+{"form":"ERROR: Orthography  not recognized.","id":"420"}
+{"form":"ERROR: Orthography  not recognized.","id":"421"}
+{"form":"ERROR: Orthography  not recognized.","id":"422"}
+{"form":"ERROR: Orthography  not recognized.","id":"423"}
+{"form":"ERROR: Orthography  not recognized.","id":"424"}
+{"form":"ERROR: Orthography  not recognized.","id":"425"}
+{"form":"ERROR: Orthography  not recognized.","id":"426"}
+{"form":"ERROR: Orthography  not recognized.","id":"427"}
+{"form":"ERROR: Orthography  not recognized.","id":"428"}
+{"form":"ERROR: Orthography  not recognized.","id":"429"}
+{"form":"ERROR: Orthography  not recognized.","id":"430"}
+{"form":"ERROR: Orthography  not recognized.","id":"431"}
+{"form":"ERROR: Orthography  not recognized.","id":"432"}
+{"form":"ERROR: Orthography  not recognized.","id":"433"}
+{"form":"ERROR: Orthography  not recognized.","id":"434"}
+{"form":"ERROR: Orthography  not recognized.","id":"435"}
+{"form":"ERROR: Orthography  not recognized.","id":"436"}
+{"form":"ERROR: Orthography  not recognized.","id":"437"}
+{"form":"ERROR: Orthography  not recognized.","id":"438"}
+{"form":"ERROR: Orthography  not recognized.","id":"439"}
+{"form":"ERROR: Orthography  not recognized.","id":"440"}
+{"form":"ERROR: Orthography  not recognized.","id":"441"}
+{"form":"ERROR: Orthography  not recognized.","id":"442"}
+{"form":"ERROR: Orthography  not recognized.","id":"443"}
+{"form":"ERROR: Orthography  not recognized.","id":"444"}
+{"form":"ERROR: Orthography  not recognized.","id":"445"}
+{"form":"ERROR: Orthography  not recognized.","id":"446"}
+{"form":"ERROR: Orthography  not recognized.","id":"447"}
+{"form":"ERROR: Orthography  not recognized.","id":"448"}
+{"form":"ERROR: Orthography  not recognized.","id":"449"}
+{"form":"ERROR: Orthography  not recognized.","id":"450"}
+{"form":"ERROR: Orthography  not recognized.","id":"451"}
+{"form":"ERROR: Orthography  not recognized.","id":"452"}
+{"form":"ERROR: Orthography  not recognized.","id":"453"}
+{"form":"ERROR: Orthography  not recognized.","id":"454"}
+{"form":"ERROR: Orthography  not recognized.","id":"455"}
+{"form":"ERROR: Orthography  not recognized.","id":"456"}
+{"form":"ERROR: Orthography  not recognized.","id":"457"}
+{"form":"ERROR: Orthography  not recognized.","id":"458"}
+{"form":"ERROR: Orthography  not recognized.","id":"459"}
+{"form":"ERROR: Orthography  not recognized.","id":"460"}
+{"form":"ERROR: Orthography  not recognized.","id":"461"}
+{"form":"ERROR: Orthography  not recognized.","id":"462"}
+{"form":"ERROR: Orthography  not recognized.","id":"463"}
+{"form":"ERROR: Orthography  not recognized.","id":"464"}
+{"form":"ERROR: Orthography  not recognized.","id":"465"}
+{"form":"ERROR: Orthography  not recognized.","id":"466"}
+{"form":"ERROR: Orthography  not recognized.","id":"467"}
+{"form":"ERROR: Orthography  not recognized.","id":"468"}
+{"form":"ERROR: Orthography  not recognized.","id":"469"}
+{"form":"ERROR: Orthography  not recognized.","id":"470"}
+{"form":"ERROR: Orthography  not recognized.","id":"471"}
+{"form":"ERROR: Orthography  not recognized.","id":"472"}
+{"form":"ERROR: Orthography  not recognized.","id":"473"}
+{"form":"ERROR: Orthography  not recognized.","id":"474"}
+{"form":"ERROR: Orthography  not recognized.","id":"475"}
+{"form":"ERROR: Orthography  not recognized.","id":"476"}
+{"form":"ERROR: Orthography  not recognized.","id":"477"}
+{"form":"ERROR: Orthography  not recognized.","id":"478"}
+{"form":"ERROR: Orthography  not recognized.","id":"479"}
+{"form":"ERROR: Orthography  not recognized.","id":"480"}
+{"form":"ERROR: Orthography  not recognized.","id":"481"}
+{"form":"ERROR: Orthography  not recognized.","id":"482"}
+{"form":"ERROR: Orthography  not recognized.","id":"483"}
+{"form":"ERROR: Orthography  not recognized.","id":"484"}
+{"form":"ERROR: Orthography  not recognized.","id":"485"}
+{"form":"ERROR: Orthography  not recognized.","id":"486"}
+{"form":"ERROR: Orthography  not recognized.","id":"487"}
+{"form":"ERROR: Orthography  not recognized.","id":"488"}
+{"form":"ERROR: Orthography  not recognized.","id":"489"}
+{"form":"ERROR: Orthography  not recognized.","id":"490"}
+{"form":"ERROR: Orthography  not recognized.","id":"491"}
+{"form":"ERROR: Orthography  not recognized.","id":"492"}
+{"form":"ERROR: Orthography  not recognized.","id":"493"}
+{"form":"ERROR: Orthography  not recognized.","id":"494"}
+{"form":"ERROR: Orthography  not recognized.","id":"495"}
+{"form":"ERROR: Orthography  not recognized.","id":"496"}
+{"form":"ERROR: Orthography  not recognized.","id":"497"}
+{"form":"ERROR: Orthography  not recognized.","id":"498"}
+{"form":"ERROR: Orthography  not recognized.","id":"499"}
+{"form":"ERROR: Orthography  not recognized.","id":"500"}
+{"form":"ERROR: Orthography  not recognized.","id":"501"}
+{"form":"ERROR: Orthography  not recognized.","id":"502"}
+{"form":"ERROR: Orthography  not recognized.","id":"503"}
+{"form":"ERROR: Orthography  not recognized.","id":"504"}
+{"form":"ERROR: Orthography  not recognized.","id":"505"}
+{"form":"ERROR: Orthography  not recognized.","id":"506"}
+{"form":"ERROR: Orthography  not recognized.","id":"507"}
+{"form":"ERROR: Orthography  not recognized.","id":"508"}
+{"form":"ERROR: Orthography  not recognized.","id":"509"}
+{"form":"ERROR: Orthography  not recognized.","id":"510"}
+{"form":"ERROR: Orthography  not recognized.","id":"511"}
+{"form":"ERROR: Orthography  not recognized.","id":"512"}
+{"form":"ERROR: Orthography  not recognized.","id":"513"}
+{"form":"ERROR: Orthography  not recognized.","id":"514"}
+{"form":"ERROR: Orthography  not recognized.","id":"515"}
+{"form":"ERROR: Orthography  not recognized.","id":"516"}
+{"form":"ERROR: Orthography  not recognized.","id":"517"}
+{"form":"ERROR: Orthography  not recognized.","id":"518"}
+{"form":"ERROR: Orthography  not recognized.","id":"519"}
+{"form":"ERROR: Orthography  not recognized.","id":"520"}
+{"form":"ERROR: Orthography  not recognized.","id":"521"}
+{"form":"ERROR: Orthography  not recognized.","id":"522"}
+{"form":"ERROR: Orthography  not recognized.","id":"523"}
+{"form":"ERROR: Orthography  not recognized.","id":"524"}
+{"form":"ERROR: Orthography  not recognized.","id":"525"}
+{"form":"ERROR: Orthography  not recognized.","id":"526"}
+{"form":"ERROR: Orthography  not recognized.","id":"527"}
+{"form":"ERROR: Orthography  not recognized.","id":"528"}
+{"form":"ERROR: Orthography  not recognized.","id":"529"}
+{"form":"ERROR: Orthography  not recognized.","id":"530"}
+{"form":"ERROR: Orthography  not recognized.","id":"531"}
+{"form":"ERROR: Orthography  not recognized.","id":"532"}
+{"form":"ERROR: Orthography  not recognized.","id":"533"}
+{"form":"ERROR: Orthography  not recognized.","id":"534"}
+{"form":"ERROR: Orthography  not recognized.","id":"535"}
+{"form":"ERROR: Orthography  not recognized.","id":"536"}
+{"form":"ERROR: Orthography  not recognized.","id":"537"}
+{"form":"ERROR: Orthography  not recognized.","id":"538"}
+{"form":"ERROR: Orthography  not recognized.","id":"539"}
+{"form":"ERROR: Orthography  not recognized.","id":"540"}
+{"form":"ERROR: Orthography  not recognized.","id":"541"}
+{"form":"ERROR: Orthography  not recognized.","id":"542"}
+{"form":"ERROR: Orthography  not recognized.","id":"543"}
+{"form":"ERROR: Orthography  not recognized.","id":"544"}
+{"form":"ERROR: Orthography  not recognized.","id":"545"}
+{"form":"ERROR: Orthography  not recognized.","id":"546"}
+{"form":"ERROR: Orthography  not recognized.","id":"547"}
+{"form":"ERROR: Orthography  not recognized.","id":"548"}
+{"form":"ERROR: Orthography  not recognized.","id":"549"}
+{"form":"ERROR: Orthography  not recognized.","id":"550"}
+{"form":"ERROR: Orthography  not recognized.","id":"551"}
+{"form":"ERROR: Orthography  not recognized.","id":"552"}
+{"form":"ERROR: Orthography  not recognized.","id":"553"}
+{"form":"ERROR: Orthography  not recognized.","id":"554"}
+{"form":"ERROR: Orthography  not recognized.","id":"555"}
+{"form":"ERROR: Orthography  not recognized.","id":"556"}
+{"form":"ERROR: Orthography  not recognized.","id":"557"}
+{"form":"ERROR: Orthography  not recognized.","id":"558"}
+{"form":"ERROR: Orthography  not recognized.","id":"559"}
+{"form":"ERROR: Orthography  not recognized.","id":"560"}
+{"form":"ERROR: Orthography  not recognized.","id":"561"}
+{"form":"ERROR: Orthography  not recognized.","id":"562"}
+{"form":"ERROR: Orthography  not recognized.","id":"563"}
+{"form":"ERROR: Orthography  not recognized.","id":"564"}
+{"form":"ERROR: Orthography  not recognized.","id":"565"}
+{"form":"ERROR: Orthography  not recognized.","id":"566"}
+{"form":"ERROR: Orthography  not recognized.","id":"567"}
+{"form":"ERROR: Orthography  not recognized.","id":"568"}
+{"form":"ERROR: Orthography  not recognized.","id":"569"}
+{"form":"ERROR: Orthography  not recognized.","id":"570"}
+{"form":"ERROR: Orthography  not recognized.","id":"571"}
+{"form":"ERROR: Orthography  not recognized.","id":"572"}
+{"form":"ERROR: Orthography  not recognized.","id":"573"}
+{"form":"ERROR: Orthography  not recognized.","id":"574"}
+{"form":"ERROR: Orthography  not recognized.","id":"575"}
+{"form":"ERROR: Orthography  not recognized.","id":"576"}
+{"form":"ERROR: Orthography  not recognized.","id":"577"}
+{"form":"ERROR: Orthography  not recognized.","id":"578"}
+{"form":"ERROR: Orthography  not recognized.","id":"579"}
+{"form":"ERROR: Orthography  not recognized.","id":"580"}
+{"form":"ERROR: Orthography  not recognized.","id":"581"}
+{"form":"ERROR: Orthography  not recognized.","id":"582"}
+{"form":"ERROR: Orthography  not recognized.","id":"583"}
+{"form":"ERROR: Orthography  not recognized.","id":"584"}
+{"form":"ERROR: Orthography  not recognized.","id":"585"}
+{"form":"ERROR: Orthography  not recognized.","id":"586"}
+{"form":"ERROR: Orthography  not recognized.","id":"587"}
+{"form":"ERROR: Orthography  not recognized.","id":"588"}
+{"form":"ERROR: Orthography  not recognized.","id":"589"}
+{"form":"ERROR: Orthography  not recognized.","id":"590"}
+{"form":"ERROR: Orthography  not recognized.","id":"591"}
+{"form":"ERROR: Orthography  not recognized.","id":"592"}
+{"form":"ERROR: Orthography  not recognized.","id":"593"}
+{"form":"ERROR: Orthography  not recognized.","id":"594"}
+{"form":"ERROR: Orthography  not recognized.","id":"595"}
+{"form":"ERROR: Orthography  not recognized.","id":"596"}
+{"form":"ERROR: Orthography  not recognized.","id":"597"}
+{"form":"ERROR: Orthography  not recognized.","id":"598"}
+{"form":"ERROR: Orthography  not recognized.","id":"599"}
+{"form":"ERROR: Orthography  not recognized.","id":"600"}
+{"form":"ERROR: Orthography  not recognized.","id":"601"}
+{"form":"ERROR: Orthography  not recognized.","id":"602"}
+{"form":"ERROR: Orthography  not recognized.","id":"603"}
+{"form":"ERROR: Orthography  not recognized.","id":"604"}
+{"form":"ERROR: Orthography  not recognized.","id":"605"}
+{"form":"ERROR: Orthography  not recognized.","id":"606"}
+{"form":"ERROR: Orthography  not recognized.","id":"607"}
+{"form":"ERROR: Orthography  not recognized.","id":"608"}
+{"form":"ERROR: Orthography  not recognized.","id":"609"}
+{"form":"ERROR: Orthography  not recognized.","id":"610"}
+{"form":"ERROR: Orthography  not recognized.","id":"611"}
+{"form":"ERROR: Orthography  not recognized.","id":"612"}
+{"form":"ERROR: Orthography  not recognized.","id":"613"}
+{"form":"ERROR: Orthography  not recognized.","id":"614"}
+{"form":"ERROR: Orthography  not recognized.","id":"615"}
+{"form":"ERROR: Orthography  not recognized.","id":"616"}
+{"form":"ERROR: Orthography  not recognized.","id":"617"}
+{"form":"ERROR: Orthography  not recognized.","id":"618"}
+{"form":"ERROR: Orthography  not recognized.","id":"619"}
+{"form":"ERROR: Orthography  not recognized.","id":"620"}
+{"form":"ERROR: Orthography  not recognized.","id":"621"}
+{"form":"ERROR: Orthography  not recognized.","id":"622"}
+{"form":"ERROR: Orthography  not recognized.","id":"623"}
+{"form":"ERROR: Orthography  not recognized.","id":"624"}
+{"form":"ERROR: Orthography  not recognized.","id":"625"}
+{"form":"ERROR: Orthography  not recognized.","id":"626"}
+{"form":"ERROR: Orthography  not recognized.","id":"627"}
+{"form":"ERROR: Orthography  not recognized.","id":"628"}
+{"form":"ERROR: Orthography  not recognized.","id":"629"}
+{"form":"ERROR: Orthography  not recognized.","id":"630"}
+{"form":"ERROR: Orthography  not recognized.","id":"631"}
+{"form":"ERROR: Orthography  not recognized.","id":"632"}
+{"form":"ERROR: Orthography  not recognized.","id":"633"}
+{"form":"ERROR: Orthography  not recognized.","id":"634"}
+{"form":"ERROR: Orthography  not recognized.","id":"635"}
+{"form":"ERROR: Orthography  not recognized.","id":"636"}
+{"form":"ERROR: Orthography  not recognized.","id":"637"}
+{"form":"ERROR: Orthography  not recognized.","id":"638"}
+{"form":"ERROR: Orthography  not recognized.","id":"639"}
+{"form":"ERROR: Orthography  not recognized.","id":"640"}
+{"form":"ERROR: Orthography  not recognized.","id":"641"}
+{"form":"ERROR: Orthography  not recognized.","id":"642"}
+{"form":"ERROR: Orthography  not recognized.","id":"643"}
+{"form":"ERROR: Orthography  not recognized.","id":"644"}
+{"form":"ERROR: Orthography  not recognized.","id":"645"}
+{"form":"ERROR: Orthography  not recognized.","id":"646"}
+{"form":"ERROR: Orthography  not recognized.","id":"647"}
