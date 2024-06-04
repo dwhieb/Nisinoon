@@ -1,13 +1,13 @@
 import Issues                from './Issues.js'
+import ndjson                from '../database/NDJSON.js'
 import { parse as parseCSV } from 'csv-parse/sync'
+import path                  from 'node:path'
 
 const issues = new Issues
 
 await issues.load()
 
 export default class Components extends Map {
-
-  csv = {}
 
   static columns = {
     abstractFinal:     `Final: concrete / abstract`,
@@ -50,23 +50,22 @@ export default class Components extends Map {
     trim:             true,
   }
 
-  constructor(componentsCSV, tokensCSV, language) {
+  static jsonDir = path.resolve(import.meta.dirname, `./json`)
+
+  constructor(language) {
     super()
-    this.csv.components = componentsCSV
-    this.csv.tokens     = tokensCSV
-    this.language       = language
-    this.convert()
+    this.language = language
   }
 
-  convert() {
+  convert(componentsCSV, tokensCSV) {
 
-    const componentRecords = parseCSV(this.csv.components, Components.csvOptions)
-    const tokenRecords     = parseCSV(this.csv.tokens, Components.csvOptions)
+    const componentRecords = parseCSV(componentsCSV, Components.csvOptions)
+    const tokenRecords     = parseCSV(tokensCSV, Components.csvOptions)
 
     const records = new Map
     const cols    = Components.columns
 
-    // Create Map of records
+    // Create Map of record IDs => records
     for (const record of componentRecords) {
       records.set(record[cols.id], record)
     }
@@ -118,6 +117,11 @@ export default class Components extends Map {
 
     return { id }
 
+  }
+
+  save() {
+    const jsonPath = path.join(Components.jsonDir, `${ this.language }.ndjson`)
+    return ndjson.write(this.values(), jsonPath)
   }
 
   toJSON() {

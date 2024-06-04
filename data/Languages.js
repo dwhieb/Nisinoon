@@ -1,4 +1,6 @@
+import ndjson                from '../database/NDJSON.js'
 import { parse as parseCSV } from 'csv-parse/sync'
+import path                  from 'node:path'
 
 export default class Languages extends Map {
 
@@ -15,15 +17,11 @@ export default class Languages extends Map {
     `notes`,
   ]
 
-  constructor(csv) {
-    super()
-    this.csv = csv
-    this.convert()
-  }
+  static jsonPath = path.resolve(import.meta.dirname, `./json/languages.ndjson`)
 
-  convert() {
+  convert(csv) {
 
-    const records = parseCSV(this.csv, {
+    const records = parseCSV(csv, {
       columns:          Languages.columns,
       from:             2,
       relaxColumnCount: true,
@@ -43,6 +41,20 @@ export default class Languages extends Map {
 
   convertRecord({ key }) {
     return { key }
+  }
+
+  async load() {
+
+    const languages = await ndjson.read(Languages.jsonPath)
+
+    for (const lang of languages) {
+      this.set(lang.key, lang)
+    }
+
+  }
+
+  save() {
+    return ndjson.write(this.values(), Languages.jsonPath)
   }
 
   toJSON() {

@@ -1,4 +1,7 @@
 import { parse as parseCSV } from 'csv-parse/sync'
+import path                  from 'node:path'
+
+import { outputFile, readJSON } from 'fs-extra/esm'
 
 const PROJECT     = `Project Orthography`
 const commaRegExp = /,\s*/gv
@@ -11,15 +14,13 @@ export default class Orthographies extends Map {
     trim:           true,
   }
 
-  constructor(csv) {
-    super()
-    this.csv = csv
-    this.convert()
-  }
+  static csvPath = path.resolve(import.meta.dirname, `./csv/orthographies.csv`)
 
-  async convert() {
+  static jsonPath = path.resolve(import.meta.dirname, `./json/orthographies.json`)
 
-    const records          = parseCSV(this.csv, this.csvOptions)
+  convert(csv) {
+
+    const records          = parseCSV(csv, this.csvOptions)
     const orthographyNames = Object.keys(records[0]).slice(1)
 
     for (const ortho of orthographyNames) {
@@ -40,7 +41,7 @@ export default class Orthographies extends Map {
 
       }, new Map)
 
-      transliterationRules.toJSON = function() {
+      transliterationRules.toJSON = function toJSON() {
         return Object.fromEntries(this)
       }
 
@@ -52,8 +53,34 @@ export default class Orthographies extends Map {
 
   }
 
+  async load() {
+
+    const data = await readJSON(Orthographies.jsonPath)
+
+    for (const [ortho, rules] of Object.entries(data)) {
+      this.set(ortho, new Map(Object.entries(rules)))
+    }
+
+  }
+
+  save() {
+    const json = JSON.stringify(this)
+    return outputFile(Orthographies.jsonPath, json)
+  }
+
   toJSON() {
     return Object.fromEntries(this)
+  }
+
+  /**
+   * Transliterates a string from the specified orthography to the project orthography.
+   * @param {String} ortho The orthography to transliterate from.
+   * @param {String} data  The string to transliterate.
+   * @return {String}
+   */
+  transliterate(ortho, data) {
+
+
   }
 
 }

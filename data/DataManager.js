@@ -3,7 +3,7 @@ import Drive          from './Drive.js'
 import Languages      from './Languages.js'
 import ndjson         from '../database/NDJSON.js'
 import Orthographies  from './Orthographies.js'
-import { outputFile } from 'fs-extra'
+import { outputFile } from 'fs-extra/esm'
 import path           from 'node:path'
 import ProgressBar    from 'progress'
 import { readFile }   from 'node:fs/promises'
@@ -13,6 +13,10 @@ import wait           from '../utilities/wait.js'
 export default class DataManager {
 
   drive = new Drive
+
+  languages = new Languages
+
+  orthographies = new Orthographies
 
   static csvDir = path.resolve(import.meta.dirname, `csv`)
 
@@ -42,14 +46,15 @@ export default class DataManager {
    */
   async convertLanguageComponents(key) {
 
+    const components     = new Components(key)
     const componentsPath = path.resolve(DataManager.csvDir, `${ key }/components.csv`)
     const tokensPath     = path.resolve(DataManager.csvDir, `${ key }/tokens.csv`)
     const componentsCSV  = await readFile(componentsPath, `utf8`)
     const tokensCSV      = await readFile(tokensPath, `utf8`)
-    const components     = new Components(componentsCSV, tokensCSV, key)
-    const jsonPath       = path.resolve(DataManager.jsonDir, `${ key }.ndjson`)
 
-    await ndjson.write(components, jsonPath)
+    components.convert(componentsCSV, tokensCSV)
+
+    await components.save()
 
   }
 
@@ -61,11 +66,9 @@ export default class DataManager {
     const csvPath = path.resolve(DataManager.csvDir, `languages.csv`)
     const csv     = await readFile(csvPath, `utf8`)
 
-    this.languages = new Languages(csv)
+    this.languages.convert(csv)
 
-    const jsonPath = path.resolve(DataManager.jsonDir, `languages.ndjson`)
-
-    await ndjson.write(this.languages, jsonPath)
+    await this.languages.save()
 
   }
 
@@ -77,12 +80,9 @@ export default class DataManager {
     const csvPath = path.resolve(DataManager.csvDir, `orthographies.csv`)
     const csv     = await readFile(csvPath, `utf8`)
 
-    this.orthographies = new Orthographies(csv)
+    this.orthographies.convert(csv)
 
-    const jsonPath = path.resolve(DataManager.jsonDir, `orthographies.json`)
-    const json     = JSON.stringify(this.orthographies)
-
-    await outputFile(jsonPath, json)
+    await this.orthographies.save()
 
   }
 
@@ -174,17 +174,20 @@ export default class DataManager {
 
   /**
    * Load the languages data from the NDJSON file to a Map.
+   * @returns {Promise}
    */
   async loadLanguages() {
+    await this.languages.load()
+    return this.languages
+  }
 
-    const jsonPath = path.resolve(DataManager.jsonDir, `languages.ndjson`)
-    const data     = await ndjson.read(jsonPath)
-
-    this.languages = data.reduce((map, lang) => {
-      map.set(lang.key, lang)
-      return map
-    }, new Map)
-
+  /**
+   * Load the orthographies data from the JSON file to a Map.
+   * @returns {Promise}
+   */
+  async loadOrthographies() {
+    await this.orthographies.load()
+    return this.orthographies
   }
 
 }
