@@ -1,7 +1,6 @@
 import Components     from './Components.js'
 import Drive          from './Drive.js'
 import Languages      from './Languages.js'
-import ndjson         from '../database/NDJSON.js'
 import Orthographies  from './Orthographies.js'
 import { outputFile } from 'fs-extra/esm'
 import path           from 'node:path'
@@ -27,7 +26,7 @@ export default class DataManager {
    */
   async convertAllComponents() {
 
-    if (!this.languages) await this.loadLanguages()
+    await this.languages.load()
 
     const progressBar = new ProgressBar(`:bar`, {
       total: this.languages.size,
@@ -55,6 +54,8 @@ export default class DataManager {
     components.convert(componentsCSV, tokensCSV)
 
     await components.save()
+
+    return components
 
   }
 
@@ -170,24 +171,6 @@ export default class DataManager {
    */
   initialize() {
     return this.drive.initialize()
-  }
-
-  /**
-   * Load the languages data from the NDJSON file to a Map.
-   * @returns {Promise}
-   */
-  async loadLanguages() {
-    await this.languages.load()
-    return this.languages
-  }
-
-  /**
-   * Load the orthographies data from the JSON file to a Map.
-   * @returns {Promise}
-   */
-  async loadOrthographies() {
-    await this.orthographies.load()
-    return this.orthographies
   }
 
 }

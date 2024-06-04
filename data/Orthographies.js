@@ -1,5 +1,6 @@
 import { parse as parseCSV } from 'csv-parse/sync'
 import path                  from 'node:path'
+import { Transliterator }    from '@digitallinguistics/transliterate'
 
 import { outputFile, readJSON } from 'fs-extra/esm'
 
@@ -13,6 +14,8 @@ export default class Orthographies extends Map {
     skipEmptyLines: true,
     trim:           true,
   }
+
+  transliterators = new Map
 
   static csvPath = path.resolve(import.meta.dirname, `./csv/orthographies.csv`)
 
@@ -80,6 +83,20 @@ export default class Orthographies extends Map {
    */
   transliterate(ortho, data) {
 
+    const rules = this.get(ortho)
+
+    if (!rules) {
+      return `ERROR: Orthography ${ ortho } not recognized.`
+    }
+
+    let transliterate = this.transliterators.get(ortho)
+
+    if (!transliterate) {
+      transliterate = new Transliterator(rules)
+      this.transliterators.set(ortho, transliterate)
+    }
+
+    return transliterate(data)
 
   }
 

@@ -1,22 +1,18 @@
-UNMATCHED_COMPONENT-Blackfoot-undefined,UNMATCHED_COMPONENT,Blackfoot: The component ID for token yosstsikina does not exist.
-UNMATCHED_COMPONENT-Cree_Innu-,UNMATCHED_COMPONENT,Cree_Innu: The component ID for token tsuku·- does not exist.
+UNMATCHED_COMPONENT-Cree_Innu-,UNMATCHED_COMPONENT,Cree_Innu: The component ID for token undefined does not exist.
 MISSING_TOKEN-Cree_Innu-218,MISSING_TOKEN,Cree_Innu: Component 218 does not have any tokens.
 MISSING_TOKEN-Cree_Innu-202,MISSING_TOKEN,Cree_Innu: Component 202 does not have any tokens.
-UNMATCHED_COMPONENT-Cree_Moose_Swampy-undefined,UNMATCHED_COMPONENT,Cree_Moose_Swampy: The component ID for token wîyat does not exist.
 MISSING_TOKEN-Cree_Plains-588,MISSING_TOKEN,Cree_Plains: Component 588 does not have any tokens.
-UNMATCHED_COMPONENT-Delaware_Unami-undefined,UNMATCHED_COMPONENT,Delaware_Unami: The component ID for token  does not exist.
-UNMATCHED_COMPONENT-Kickapoo-290,UNMATCHED_COMPONENT,Kickapoo: The component ID for token -iikwee- does not exist.
-UNMATCHED_COMPONENT-Menominee-undefined,UNMATCHED_COMPONENT,Menominee: The component ID for token wāp- does not exist.
-UNMATCHED_COMPONENT-Meskwaki-,UNMATCHED_COMPONENT,Meskwaki: The component ID for token -api- does not exist.
+UNMATCHED_COMPONENT-Kickapoo-290,UNMATCHED_COMPONENT,Kickapoo: The component ID for token undefined does not exist.
+UNMATCHED_COMPONENT-Meskwaki-,UNMATCHED_COMPONENT,Meskwaki: The component ID for token undefined does not exist.
 MISSING_TOKEN-Meskwaki-30,MISSING_TOKEN,Meskwaki: Component 30 does not have any tokens.
 MISSING_TOKEN-Meskwaki-106,MISSING_TOKEN,Meskwaki: Component 106 does not have any tokens.
-UNMATCHED_COMPONENT-Ojibwe_SW-56,UNMATCHED_COMPONENT,Ojibwe_SW: The component ID for token maškaw does not exist.
-UNMATCHED_COMPONENT-Ojibwe_SW-75,UNMATCHED_COMPONENT,Ojibwe_SW: The component ID for token pīc does not exist.
-UNMATCHED_COMPONENT-Ojibwe_SW-84,UNMATCHED_COMPONENT,Ojibwe_SW: The component ID for token ttōn does not exist.
+UNMATCHED_COMPONENT-Ojibwe_SW-56,UNMATCHED_COMPONENT,Ojibwe_SW: The component ID for token undefined does not exist.
+UNMATCHED_COMPONENT-Ojibwe_SW-75,UNMATCHED_COMPONENT,Ojibwe_SW: The component ID for token undefined does not exist.
+UNMATCHED_COMPONENT-Ojibwe_SW-84,UNMATCHED_COMPONENT,Ojibwe_SW: The component ID for token undefined does not exist.
 MISSING_TOKEN-Ojibwe_SW-90,MISSING_TOKEN,Ojibwe_SW: Component 90 does not have any tokens.
 MISSING_TOKEN-Ojibwe_SW-91,MISSING_TOKEN,Ojibwe_SW: Component 91 does not have any tokens.
 MISSING_TOKEN-Ojibwe_SW-92,MISSING_TOKEN,Ojibwe_SW: Component 92 does not have any tokens.
-UNMATCHED_COMPONENT-Potawatomi-,UNMATCHED_COMPONENT,Potawatomi: The component ID for token  does not exist.
+UNMATCHED_COMPONENT-Potawatomi-,UNMATCHED_COMPONENT,Potawatomi: The component ID for token undefined does not exist.
 MISSING_TOKEN-Potawatomi-284,MISSING_TOKEN,Potawatomi: Component 284 does not have any tokens.
 MISSING_TOKEN-Potawatomi-283,MISSING_TOKEN,Potawatomi: Component 283 does not have any tokens.
 MISSING_TOKEN-Potawatomi-289,MISSING_TOKEN,Potawatomi: Component 289 does not have any tokens.
@@ -454,7 +450,7 @@ MISSING_TOKEN-Potawatomi-433,MISSING_TOKEN,Potawatomi: Component 433 does not ha
 MISSING_TOKEN-Potawatomi-434,MISSING_TOKEN,Potawatomi: Component 434 does not have any tokens.
 MISSING_TOKEN-Potawatomi-436,MISSING_TOKEN,Potawatomi: Component 436 does not have any tokens.
 MISSING_TOKEN-Potawatomi-439,MISSING_TOKEN,Potawatomi: Component 439 does not have any tokens.
-UNMATCHED_COMPONENT-Proto_Algonquian-,UNMATCHED_COMPONENT,Proto_Algonquian: The component ID for token *meʔtekw- does not exist.
+UNMATCHED_COMPONENT-Proto_Algonquian-,UNMATCHED_COMPONENT,Proto_Algonquian: The component ID for token undefined does not exist.
 MISSING_TOKEN-Proto_Algonquian-271,MISSING_TOKEN,Proto_Algonquian: Component 271 does not have any tokens.
 MISSING_TOKEN-Proto_Algonquian-273,MISSING_TOKEN,Proto_Algonquian: Component 273 does not have any tokens.
 MISSING_TOKEN-Proto_Algonquian-328,MISSING_TOKEN,Proto_Algonquian: Component 328 does not have any tokens.
@@ -504,4 +500,3 @@ MISSING_TOKEN-Proto_Algonquian-1358,MISSING_TOKEN,Proto_Algonquian: Component 13
 MISSING_TOKEN-Proto_Algonquian-1730,MISSING_TOKEN,Proto_Algonquian: Component 1730 does not have any tokens.
 MISSING_TOKEN-Proto_Algonquian-1731,MISSING_TOKEN,Proto_Algonquian: Component 1731 does not have any tokens.
 MISSING_TOKEN-Proto_Algonquian-1944,MISSING_TOKEN,Proto_Algonquian: Component 1944 does not have any tokens.
-UNMATCHED_COMPONENT-Wampanoag-undefined,UNMATCHED_COMPONENT,Wampanoag: The component ID for token pashp- does not exist.

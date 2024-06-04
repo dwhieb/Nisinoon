@@ -1,46 +1,58 @@
-import Issues                from './Issues.js'
-import ndjson                from '../database/NDJSON.js'
-import { parse as parseCSV } from 'csv-parse/sync'
-import path                  from 'node:path'
+import Issues                        from './Issues.js'
+import ndjson                        from '../database/NDJSON.js'
+import Orthographies                 from './Orthographies.js'
+import { outputFile }                from 'fs-extra/esm'
+import { parse as parseCSV }         from 'csv-parse/sync'
+import path                          from 'node:path'
+import { stringify as stringifyCSV } from 'csv-stringify/sync'
 
-const issues = new Issues
+const issues        = new Issues
+const orthographies = new Orthographies
 
 await issues.load()
+await orthographies.load()
+
+const transliterationColumns = [
+  { header: `Language`, key: `language` },
+  { header: `Orthography`, key: `orthography` },
+  { header: `Original Orthography`, key: `originalOrthography` },
+  { header: `Project Orthography`, key: `projectOrthography` },
+]
 
 export default class Components extends Map {
 
   static columns = {
-    abstractFinal:     `Final: concrete / abstract`,
-    baseCategory:      `Base Category (if secondary)`,
-    citationKey:       `Source Code`,
-    componentID:       `Component ID`,
-    componentOf:       `Formative/component occurs in what component(s)`,
-    components:        `Contains`,
-    deverbal:          `Deverbal (y/n)`,
-    etymon:            `PA form (original orthography)`,
-    firstCheck:        `1st check done`,
-    form:              `Form (original orthography)`,
-    gloss:             `Translation`,
-    id:                `ID`,
-    locator:           `Page #`,
-    matchAI:           `Match AI`,
-    matchII:           `Match II`,
-    matchTA:           `Match TA`,
-    matchTI:           `Match TI`,
-    notes:             `Comments`,
-    orthography:       `Orthography Key Code`,
-    reduplicated:      `Initial: Reduplicated`,
-    secondaryFinal:    `Final: secondary (y/n/b)`,
-    secondCheck:       `2nd check done`,
-    slot:              `Component Type`,
-    speaker:           `Speaker`,
-    stemCategory:      `Stem category`,
-    stemGloss:         `Stem translation`,
-    stemSubcategory:   `Stem subcategory`,
-    stemTranscription: `Component occurs in stem (orig. orth)`,
-    stemUR:            `Stem UR`,
-    subcategory:       `Subcategory`,
-    UR:                `UR (if given; if different)`,
+    abstractFinal:       `Final: concrete / abstract`,
+    baseCategory:        `Base Category (if secondary)`,
+    citationKey:         `Source Code`,
+    componentID:         `Component ID`,
+    componentOf:         `Formative/component occurs in what component(s)`,
+    components:          `Contains`,
+    deverbal:            `Deverbal (y/n)`,
+    etymon:              `PA form (original orthography)`,
+    firstCheck:          `1st check done`,
+    gloss:               `Translation`,
+    id:                  `ID`,
+    locator:             `Page #`,
+    matchAI:             `Match AI`,
+    matchII:             `Match II`,
+    matchTA:             `Match TA`,
+    matchTI:             `Match TI`,
+    notes:               `Comments`,
+    originalOrthography: `Form (original orthography)`,
+    orthography:         `Orthography Key Code`,
+    reduplicated:        `Initial: Reduplicated`,
+    secondaryFinal:      `Final: secondary (y/n/b)`,
+    secondCheck:         `2nd check done`,
+    slot:                `Component Type`,
+    speaker:             `Speaker`,
+    stemCategory:        `Stem category`,
+    stemGloss:           `Stem translation`,
+    stemSubcategory:     `Stem subcategory`,
+    stemTranscription:   `Component occurs in stem (orig. orth)`,
+    stemUR:              `Stem UR`,
+    subcategory:         `Subcategory`,
+    UR:                  `UR (if given; if different)`,
   }
 
   static csvOptions = {
@@ -51,6 +63,8 @@ export default class Components extends Map {
   }
 
   static jsonDir = path.resolve(import.meta.dirname, `./json`)
+
+  transliterations = []
 
   constructor(language) {
     super()
@@ -106,7 +120,8 @@ export default class Components extends Map {
 
     }
 
-    issues.save() // Don't await the promise, to keep convert() method sync
+    return this.saveTransliterations()
+    .then(issues.save())
 
   }
 
@@ -115,13 +130,38 @@ export default class Components extends Map {
     const cols = Components.columns
     const id   = record[cols.id]
 
-    return { id }
+    // Form
+    const original = record[cols.originalOrthography]
+    const ortho    = record[cols.orthography]
+    const form     = orthographies.transliterate(ortho, original)
+
+    this.transliterations.push({
+      language:            this.language,
+      originalOrthography: original.replaceAll(`-`, `\u2011`),
+      orthography:         ortho,
+      projectOrthography:  form.replaceAll(`-`, `\u2011`),
+    })
+
+    return { form, id }
 
   }
 
   save() {
     const jsonPath = path.join(Components.jsonDir, `${ this.language }.ndjson`)
     return ndjson.write(this.values(), jsonPath)
+  }
+
+  async saveTransliterations() {
+
+    const csv = stringifyCSV(this.transliterations, {
+      bom:     true,
+      columns: transliterationColumns,
+    })
+
+    const transliterationsPath = path.resolve(import.meta.dirname, `./transliterations/${ this.language }.csv`)
+
+    await outputFile(transliterationsPath, csv, `utf8`)
+
   }
 
   toJSON() {
