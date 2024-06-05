@@ -1,5 +1,6 @@
 .env
 .npm
+.vscode
 **/credentials.json
 assets/scripts
 assets/styles
