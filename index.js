@@ -1,11 +1,11 @@
 import * as handlers           from './pages/index.js'
 import Database                from './data/Database.js'
+import dotenv                  from 'dotenv/config'
 import express                 from 'express'
 import handleUncaughtException from './app/errors.js'
 import hbs                     from './app/handlebars.js'
 import helmet                  from './middleware/helmet.js'
 import issueLink               from './middleware/issue-link.js'
-import { loadEnvFile }         from 'node:process'
 import locals                  from './app/locals.js'
 import logger                  from './middleware/logger.js'
 import markdownEngine          from './app/markdown.js'
@@ -14,7 +14,7 @@ import serveStatic             from './middleware/static.js'
 import vary                    from './middleware/vary.js'
 
 // Load environment variables
-if (!process.env.NODE_ENV) loadEnvFile()
+if (!process.env.NODE_ENV) dotenv.config()
 
 // Handle uncaught errors
 process.on(`uncaughtException`, handleUncaughtException)
@@ -58,5 +58,6 @@ app.use(handlers.ServerError)
 app.listen(process.env.PORT, () => {
   console.info(`\nServer started. Press Ctrl+C to terminate.
   ENV:  ${ process.env.NODE_ENV }
+  NODE: ${ process.version }
   PORT: ${ process.env.PORT }\n`)
 })
