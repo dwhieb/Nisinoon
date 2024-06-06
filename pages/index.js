@@ -1,9 +1,9 @@
 import { kebabCase, pascalCase } from 'change-case'
 
+export * from './Component/Component.js'
 export * from './Error/Error.js'
 export * from './Research/Research.js'
-export * from './Component/Component.js'
-export * from './Components/Components.js'
+export * from './Search/Search.js'
 
 export function page(title) {
   return function handler(req, res) {

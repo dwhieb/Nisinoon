@@ -1,4 +1,4 @@
 .help-text {
-  font-size:     smaller;
-  padding-block: 0.25em;
+  font-size: smaller;
+  padding:   var(--text-padding-sm);
 }

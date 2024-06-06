@@ -6,7 +6,7 @@
 
 A multilingual dictionary database of Algonquian derivational morphemes {.subtitle}
 
-[Explore the Nisinoon database here.](/components) {.db-link}
+[Explore the Nisinoon database here.](/search) {.db-link}
 
 <figure class=textile>
   <img alt='A rectangular textile hand made by Angela Waupochick for the Nisinoon project, displaying a top-down view of two trillium flowers at opposite corners of a pink square in the center, bordered by side views of two trillium flowers along the top and bottom. Photo by Rodney Schreiner.' src=/images/textile.jpg>
@@ -26,7 +26,7 @@ This project is an NSF-funded cross-linguistic database of the components which 
 2. To provide a basis for comprehensive reconstruction of Proto-Algonquian.
 {.list .numbered}
 
-This database is be a web-based, open-access, centralized resource for Algonquian word components, providing community members and linguists with a set of data that has previously been difficult to access. [Explore the database here.](/components)
+This database is be a web-based, open-access, centralized resource for Algonquian word components, providing community members and linguists with a set of data that has previously been difficult to access. [Explore the database here.](/search)
 
 </section>
 

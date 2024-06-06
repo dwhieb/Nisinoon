@@ -1,5 +1,5 @@
 label {
-  font-size:     smaller;
-  font-weight:   bold;
-  padding-block: 0.25em;
+  font-size:   smaller;
+  font-weight: bold;
+  padding:     var(--text-padding-sm);
 }
