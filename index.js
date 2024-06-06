@@ -14,7 +14,7 @@ import serveStatic             from './middleware/static.js'
 import vary                    from './middleware/vary.js'
 
 // Load environment variables
-loadEnvFile()
+if (!process.env.NODE_ENV) loadEnvFile()
 
 // Handle uncaught errors
 process.on(`uncaughtException`, handleUncaughtException)
