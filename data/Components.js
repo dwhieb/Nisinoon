@@ -77,10 +77,11 @@ export default class Components extends Map {
     const componentRecords = parseCSV(componentsCSV, Components.csvOptions)
     const tokenRecords     = parseCSV(tokensCSV, Components.csvOptions)
 
-    if (componentRecords.length === tokenRecords.length) {
-      const susPath = path.resolve(import.meta.dirname, `./sus.txt`)
-      await appendFile(susPath, `${ this.language }\n`, `utf8`)
-    }
+    // Uncomment to generate a list of languages with the same number of tokens and components.
+    // if (componentRecords.length === tokenRecords.length) {
+    //   const susPath = path.resolve(import.meta.dirname, `./sus.txt`)
+    //   await appendFile(susPath, `${ this.language }\n`, `utf8`)
+    // }
 
     const records = new Map
     const cols    = Components.columns
@@ -126,8 +127,8 @@ export default class Components extends Map {
 
     }
 
-    return this.saveTransliterations()
-    .then(issues.save())
+    await this.saveTransliterations()
+    await issues.save()
 
   }
 
