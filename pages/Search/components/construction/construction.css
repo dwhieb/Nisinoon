@@ -1,0 +1,7 @@
+.construction {
+  align-self:       stretch;
+  background-color: #FE5000;
+  color:            white;
+  padding:          var(--text-padding);
+  text-align:       center;
+}
