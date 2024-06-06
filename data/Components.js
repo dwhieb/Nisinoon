@@ -154,7 +154,7 @@ export default class Components extends Map {
   }
 
   save() {
-    const jsonPath = path.join(Components.jsonDir, `${ this.language }.ndjson`)
+    const jsonPath = path.join(Components.jsonDir, `components/${ this.language }.ndjson`)
     return ndjson.write(this.values(), jsonPath)
   }
 
