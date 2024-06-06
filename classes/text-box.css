@@ -1,0 +1,27 @@
+.text-box {
+
+  border:        0.075em solid #AAA;
+  border-radius: var(--border-radius);
+  padding:       var(--text-padding-sm);
+
+  &::placeholder {
+    color:      #AAA;
+    font-style: italic;
+  }
+
+  @media (prefers-color-scheme: dark) {
+
+    border: 0.125em solid var(--off-white);
+
+    &:focus-visible {
+      box-shadow: 0px 0px 3px 3px var(--off-white);
+      outline:    none;
+    }
+
+    &::placeholder {
+      color: #CCC;
+    }
+
+  }
+
+}

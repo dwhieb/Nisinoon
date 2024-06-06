@@ -18,6 +18,10 @@
 @import 'headings.css';
 @import 'link.css';
 
+:root {
+  --border-radius: 0.25em;
+}
+
 body {
 
   align-items:             center;

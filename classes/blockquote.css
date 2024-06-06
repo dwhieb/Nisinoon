@@ -2,7 +2,7 @@
 .prose blockquote {
 
   background-color: var(--ice-light);
-  border-radius:    0.25em;
+  border-radius:    var(--border-radius);
   margin:           var(--text-padding);
   padding:          var(--text-padding);
 

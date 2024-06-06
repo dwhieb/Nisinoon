@@ -3,19 +3,22 @@
   <search>
     <form method=post>
       <label for=search-box>Quick Search</label>
-      <input
-        autocomplete=on
-        autocorrect=off
-        enterkeyhint=search
-        id=search-box
-        inputmode=search
-        name=q
-        placeholder='e.g. "atimw-" or "dog"'
-        spellcheck=false
-        type=search
-      >
-      <button type=submit>Search</button>
-      <span>Quickly search for a component (in any orthography) or definition.</span>
+      <div class=search-controls>
+        <input
+          autocomplete=on
+          autocorrect=off
+          class=text-box
+          enterkeyhint=search
+          id=search-box
+          inputmode=search
+          name=q
+          placeholder='e.g. “atimw-” or “dog”'
+          spellcheck=false
+          type=search
+        >
+        <button class=button type=submit>Search</button>
+      </div>
+      <span class=help-text>Quickly search for a component or definition in any orthography.</span>
     </form>
   </search>
 

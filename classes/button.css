@@ -1,0 +1,25 @@
+.button {
+
+  background-color: hsl(90deg 34% 45%);
+  border-radius:    var(--border-radius);
+  box-shadow:       inset 0px 0px 3px 2px hsl(90deg 34% 55%),
+                    1px 1px 2px #CCC;
+  color:            white;
+  cursor:           pointer;
+  font-weight:      500;
+  padding:          var(--text-padding);
+  text-align:       center;
+  transition:       0.2s background-color ease-in-out;
+  white-space:      nowrap;
+  word-break:       keep-all;
+
+  &:hover {
+    background-color: hsl(90deg 34% 35%);
+  }
+
+  &:active {
+    background-color: hsl(90deg 34% 25%);
+    box-shadow:       inset 0px 1px 2px #000;
+  }
+
+}

@@ -1,9 +1,18 @@
-@import 'construction/construction.css';
+/* Classes */
+@import 'button.css';
+@import 'help-text.css';
 @import 'label.css';
 @import 'pre.css';
+@import 'text-box.css';
 
-.components-page {
-  p {
-    text-align: center;
-  }
+/* Components */
+@import 'construction/construction.css';
+
+.search-controls {
+  flex-direction: row;
+  column-gap:     0.5em;
+}
+
+.text-box {
+  flex-grow: 1;
 }
