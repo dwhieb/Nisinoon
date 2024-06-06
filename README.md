@@ -68,3 +68,11 @@ You can create credentials and download the JSON file for them [here](https://co
 | `{PageName}` | The page name. Used by Handlebars to check for the current page. |
 | `cssClass`   | The value to use in `<main class={name}-page>`.                  |
 | `title`      | The page title. Will be displayed in the browser tab.            |
+
+## Environment Variables
+
+| Variable   | Description                          |
+| ---------- | ------------------------------------ |
+| `DATABASE` | `testing` (fixtures) \| `production` |
+| `NODE_ENV` | `localhost` \| `CI` \| `production`  |
+| `PORT`     | The port to connect to.              |

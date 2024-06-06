@@ -155,16 +155,30 @@ export default class Components extends Map {
 
   async load() {
 
-    const filenames = await readdir(Components.dataDir)
+    if (process.env.DATABASE === `testing`) {
 
-    for (const filename of filenames) {
+      const filePath = path.resolve(import.meta.dirname, `../test/fixtures/components.ndjson`)
 
-      const components = await ndjson.read(path.join(Components.dataDir, filename))
+      await this.loadLanguage(filePath)
 
-      for (const component of components) {
-        this.set(component.id, component)
+    } else {
+
+      const filenames = await readdir(Components.dataDir)
+
+      for (const filename of filenames) {
+        await this.loadLanguage(path.join(Components.dataDir, filename))
       }
 
+    }
+
+  }
+
+  async loadLanguage(filePath) {
+
+    const components = await ndjson.read(filePath)
+
+    for (const component of components) {
+      this.set(component.id, component)
     }
 
   }

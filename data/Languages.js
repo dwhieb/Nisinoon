@@ -17,8 +17,6 @@ export default class Languages extends Map {
     `notes`,
   ]
 
-  static jsonPath = path.resolve(import.meta.dirname, `./json/languages.ndjson`)
-
   convert(csv) {
 
     const records = parseCSV(csv, {
@@ -43,9 +41,16 @@ export default class Languages extends Map {
     return { key }
   }
 
+  get jsonPath() {
+    return path.resolve(
+      import.meta.dirname,
+      process.env.DATABASE === `testing` ? `../test/fixtures/languages.ndjson` : `./json/languages.ndjson`,
+    )
+  }
+
   async load() {
 
-    const languages = await ndjson.read(Languages.jsonPath)
+    const languages = await ndjson.read(this.jsonPath)
 
     for (const lang of languages) {
       this.set(lang.key, lang)
@@ -54,7 +59,7 @@ export default class Languages extends Map {
   }
 
   save() {
-    return ndjson.write(this.values(), Languages.jsonPath)
+    return ndjson.write(this.values(), this.jsonPath)
   }
 
   toJSON() {

@@ -1,1 +1,7 @@
-.component-page {}
+.component-page {
+
+  & h1 {
+    word-break: keep-all;
+  }
+
+}

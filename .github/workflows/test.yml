@@ -10,6 +10,7 @@ on:
   workflow_dispatch:
 
 env:
+  DATABASE: testing
   NODE_ENV: CI
   PORT:     3002
 

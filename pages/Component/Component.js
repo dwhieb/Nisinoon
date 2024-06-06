@@ -1,17 +1,15 @@
-import db from '../../database/index.js'
-
 export function Component(req, res) {
 
   const { componentID } = req.params
-  const component       = db.index.get(componentID)
+  const component       = req.app.db.index.get(componentID)
 
   if (!component) {
 
     const status = 404
 
-    res.status = status
-
-    return res.render(`Error/Error.md`, {
+    return res
+    .status(status)
+    .render(`Error/Error.md`, {
       cssClass: `error`,
       Error:    true,
       message:  `A component with ID <code>${ componentID }</code> does not exist.`,

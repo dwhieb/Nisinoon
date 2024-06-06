@@ -1,5 +1,5 @@
-import Components from '../data/Components.js'
-import Languages  from '../data/Languages.js'
+import Components from './Components.js'
+import Languages  from './Languages.js'
 
 export default class Database {
 
