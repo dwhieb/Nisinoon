@@ -4,8 +4,8 @@
   <body>
     {{> components/skip-link/skip-link }}
     {{> components/nav/nav }}
-    {{#if Components }}
-      {{> Components/components/construction/construction }}
+    {{#if construction }}
+      {{> construction/construction }}
     {{/if}}
     {{> components/issue-link/issue-link }}
     {{{ body }}}{{!-- This is actually <main> but express-handlebars calls this variable `body`. --}}
