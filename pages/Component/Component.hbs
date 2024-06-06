@@ -1,6 +1,8 @@
 <main id=main class=component-page>
 
-  <h1>{{ language }}: <i class=inex>{{ component.form }}</i></h1>
+  {{#with component }}
+    <h1>{{ language }}: <i class=inex>{{ form }}</i></h1>
+  {{/with}}
 
   <pre><code>{{ json }}</code></pre>
 

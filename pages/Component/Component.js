@@ -1,20 +1,33 @@
+import db from '../../database/index.js'
+
 export function Component(req, res) {
 
-  const component = {
-    form: `-a·mɛhk-`,
-    id:   1234,
-  }
+  const { componentID } = req.params
+  const component       = db.index.get(componentID)
 
-  const language = `Menominee`
+  if (!component) {
+
+    const status = 404
+
+    res.status = status
+
+    return res.render(`Error/Error.md`, {
+      cssClass: `error`,
+      Error:    true,
+      message:  `A component with ID <code>${ componentID }</code> does not exist.`,
+      status,
+      title:    `Component Not Found`,
+    })
+
+  }
 
   res.render(`Component/Component`, {
     component,
     Component:    true,
     construction: true,
     json:         JSON.stringify(component, null, 2),
-    language,
     pageCSS:      res.app.locals.styles.Component,
-    title:        `${ language }: ${ component.form }`,
+    title:        `${ component.language }: ${ component.form }`,
   })
 
 }

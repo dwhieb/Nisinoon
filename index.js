@@ -47,7 +47,7 @@ app.get(`/grammar`, handlers.md(`Grammar`))
 app.get(`/research`, handlers.md(`Research`))
 app.get(`/research/:pub`, handlers.Research)
 app.get(`/components`, handlers.Components)
-app.get(`/components/:component`, handlers.Component)
+app.get(`/components/:componentID`, handlers.Component)
 app.use(handlers.PageNotFound)
 app.use(handlers.ServerError)
 
