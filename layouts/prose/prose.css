@@ -1,3 +1,10 @@
+@import 'abbreviation.css';
+@import 'backlink/backlink.css';
+@import 'cite.css';
+@import 'lists.css';
+@import 'references-list.css';
+@import 'table.css';
+
 .figure {
 
   counter-increment: figures;

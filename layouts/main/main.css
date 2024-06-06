@@ -13,27 +13,10 @@
 @import 'components/skip-link/skip-link.css';
 
 /* Global Classes */
-@import 'abbreviation.css';
-@import 'blockquote.css';
-@import 'caption.css';
-@import 'code.css';
-@import 'cite.css';
-@import 'definition.css';
 @import 'emphasis.css';
 @import 'external-link.css';
-@import 'figure.css';
-@import 'gloss.css';
-@import 'inline-example.css';
 @import 'headings.css';
 @import 'link.css';
-@import 'lists.css';
-@import 'pre.css';
-@import 'references-list.css';
-@import 'table.css';
-
-/* Global Components */
-@import 'backlink/backlink.css';
-@import 'construction/construction.css';
 
 body {
 

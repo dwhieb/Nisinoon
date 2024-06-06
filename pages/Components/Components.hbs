@@ -1,6 +1,23 @@
 <main class=components-page id=main>
 
-  <h1>Search the Database</h1>
+  <search>
+    <form method=post>
+      <label for=search-box>Quick Search</label>
+      <input
+        autocomplete=on
+        autocorrect=off
+        enterkeyhint=search
+        id=search-box
+        inputmode=search
+        name=q
+        placeholder='e.g. "atimw-" or "dog"'
+        spellcheck=false
+        type=search
+      >
+      <button type=submit>Search</button>
+      <span>Quickly search for a component (in any orthography) or definition.</span>
+    </form>
+  </search>
 
 </main>
 

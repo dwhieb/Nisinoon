@@ -1,7 +1,12 @@
+@import 'caption.css';
+@import 'definition.css';
 @import 'ex-header.css';
 @import 'ex-source.css';
 @import 'example.css';
 @import 'examples.css';
+@import 'figure.css';
+@import 'gloss.css';
+@import 'inline-example.css';
 @import 'interlinear.css';
 
 :root {
