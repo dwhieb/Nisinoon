@@ -150,7 +150,6 @@ ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Component Key,Form (or
 154,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,,isttsiip,BF:1,,,,,,itch,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 155,Armoskaite,SA2010,"0061, 0068",bla,,siks1238,,itap-,BF:1,,,,,,toward; to,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 157,Barrie & Dunham,MB_JD2008,0036,bla,,siks1238,,ittsi,BF:1,,,,,,belly,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-158,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,,iyosstsikina,BF:1,,,,,,fibrous,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 159,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,,máak,BF:1,,,,,,arrange,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: could this be a typo or allomorph for yáak-?,,MAM
 160,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,,maan,BF:1,,,,,,new,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 161,Bliss et al. ,HB_ET_AL2012,0008,bla,,siks1238,,matt-,BF:1,,,,,,again,,initial
@@ -203,4 +202,4 @@ ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Component Key,Form (or
 213,Barrie & Dunham,MB_JD2008,"0019,0037",bla,,siks1238,,yáak,BF:1,,,,,,"change shape of, shape, arrange",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: Defined as ""XSUBJ change shape of YOBJ as a ZMED"" and also ""XSUBJ change shape of Y’s ZMED""; assuming this is an initial because it precedes a medial.",,MAM
 214,Armoskaite,SA2010,0060,bla,,siks1238,,yaam-,BF:1,,,,,,twisted,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 215,Genee,IXG2013,0108,bla,,siks1238,,yisskskip,BF:1,,,,,,tie,,initial,INTR.
-216,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,,yosstsikina,BF:1,,,,,,fibrous,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: cf iyosstsikina, but listed separately in the same appendix table so I'll leave it in.",,MAM
+216,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,,yosstsikina,BF:1,,,,,,fibrous,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: cf iyosstsikina, listed separately in the same appendix table.",,MAM
