@@ -16,7 +16,7 @@ The following pages can be easily edited on GitHub:
 The following pages should **not** be edited manually:
 
 - Error
-- Search/Database
+- Components/Search/Database
 - Component
 
 To edit a page, follow these steps:

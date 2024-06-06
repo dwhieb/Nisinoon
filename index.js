@@ -46,7 +46,7 @@ app.get(`/bibliography`, handlers.md(`Bibliography`))
 app.get(`/grammar`, handlers.md(`Grammar`))
 app.get(`/research`, handlers.md(`Research`))
 app.get(`/research/:pub`, handlers.Research)
-app.get(`/search`, handlers.Search)
+app.get(`/components`, handlers.Components)
 app.use(handlers.PageNotFound)
 app.use(handlers.ServerError)
 
