@@ -1,4 +1,4 @@
-import ndjson                from '../database/NDJSON.js'
+import ndjson                from './NDJSON.js'
 import { parse as parseCSV } from 'csv-parse/sync'
 import path                  from 'node:path'
 

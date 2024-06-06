@@ -45,15 +45,15 @@ export default class DataManager {
    */
   async convertLanguageComponents(key) {
 
-    const components     = new Components(key)
+    const components     = new Components
     const componentsPath = path.resolve(DataManager.csvDir, `${ key }/components.csv`)
     const tokensPath     = path.resolve(DataManager.csvDir, `${ key }/tokens.csv`)
     const componentsCSV  = await readFile(componentsPath, `utf8`)
     const tokensCSV      = await readFile(tokensPath, `utf8`)
 
-    await components.convert(componentsCSV, tokensCSV)
+    await components.convert(key, componentsCSV, tokensCSV)
 
-    await components.save()
+    await components.save(key)
 
     return components
 

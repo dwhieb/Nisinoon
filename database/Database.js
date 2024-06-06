@@ -1,18 +1,21 @@
-import ndjson from './NDJSON.js'
-import path   from 'node:path'
+import Components from '../data/Components.js'
+import Languages  from '../data/Languages.js'
 
 export default class Database {
 
-  #data = []
+  components = new Components
 
-  #dataPath = path.resolve(import.meta.dirname, `./data.ndjson`)
+  languages = new Languages
 
   async initialize() {
-    this.#data = await ndjson.read(this.#dataPath)
+
+    await this.languages.load()
+    await this.components.load()
+
   }
 
   search(filterFunction) {
-    return this.#data.filter(filterFunction)
+    return this.components.filter(filterFunction)
   }
 
 }

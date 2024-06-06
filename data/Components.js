@@ -1,10 +1,10 @@
-import { appendFile }                from 'node:fs/promises'
 import Issues                        from './Issues.js'
-import ndjson                        from '../database/NDJSON.js'
+import ndjson                        from './NDJSON.js'
 import Orthographies                 from './Orthographies.js'
 import { outputFile }                from 'fs-extra/esm'
 import { parse as parseCSV }         from 'csv-parse/sync'
 import path                          from 'node:path'
+import { readdir }                   from 'node:fs/promises'
 import { stringify as stringifyCSV } from 'csv-stringify/sync'
 
 const issues        = new Issues
@@ -63,24 +63,20 @@ export default class Components extends Map {
     trim:             true,
   }
 
-  static jsonDir = path.resolve(import.meta.dirname, `./json`)
+  static dataDir = path.resolve(import.meta.dirname, `./json/components`)
 
   transliterations = []
 
-  constructor(language) {
-    super()
-    this.language = language
-  }
-
-  async convert(componentsCSV, tokensCSV) {
+  async convert(language, componentsCSV, tokensCSV) {
 
     const componentRecords = parseCSV(componentsCSV, Components.csvOptions)
     const tokenRecords     = parseCSV(tokensCSV, Components.csvOptions)
 
     // Uncomment to generate a list of languages with the same number of tokens and components.
     // if (componentRecords.length === tokenRecords.length) {
-    //   const susPath = path.resolve(import.meta.dirname, `./sus.txt`)
-    //   await appendFile(susPath, `${ this.language }\n`, `utf8`)
+    //   const { appendFile } = await import(`node:fs/promises`)
+    //   const susPath        = path.resolve(import.meta.dirname, `./sus.txt`)
+    //   await appendFile(susPath, `${ language }\n`, `utf8`)
     // }
 
     const records = new Map
@@ -100,8 +96,8 @@ export default class Components extends Map {
       if (!component) {
         const type        = `UNMATCHED_COMPONENT`
         const componentID = record[cols.componentID]
-        const id          = `${ type }-${ this.language }-${ componentID }`
-        const details     = `${ this.language }: The component ID for token ${ record[cols.form] } does not exist.`
+        const id          = `${ type }-${ language }-${ componentID }`
+        const details     = `${ language }: The component ID for token ${ record[cols.form] } does not exist.`
         issues.set(id, { details, id, type })
         continue
       }
@@ -117,25 +113,25 @@ export default class Components extends Map {
       if (!Array.isArray(record.tokens)) {
         const type        = `MISSING_TOKEN`
         const componentID = record[cols.id]
-        const id          = `${ type }-${ this.language }-${ componentID }`
-        const details     = `${ this.language }: Component ${ componentID } does not have any tokens.`
+        const id          = `${ type }-${ language }-${ componentID }`
+        const details     = `${ language }: Component ${ componentID } does not have any tokens.`
         issues.set(id, { details, id, type })
         continue
       }
 
-      this.set(record[cols.id], this.convertRecord(record))
+      this.set(record[cols.id], this.convertRecord(language, record))
 
     }
 
-    await this.saveTransliterations()
+    await this.saveTransliterations(language)
     await issues.save()
 
   }
 
-  convertRecord(record) {
+  convertRecord(language, record) {
 
     const cols = Components.columns
-    const id   = record[cols.id]
+    const id   = `${ language }-${ record[cols.id] }`
 
     // Form
     const original = record[cols.originalOrthography]
@@ -143,29 +139,49 @@ export default class Components extends Map {
     const form     = orthographies.transliterate(ortho, original)
 
     this.transliterations.push({
-      language:            this.language,
+      language,
       originalOrthography: original.replaceAll(`-`, `\u2011`),
       orthography:         ortho,
       projectOrthography:  form.replaceAll(`-`, `\u2011`),
     })
 
-    return { form, id }
+    return {
+      form,
+      id,
+      language,
+    }
 
   }
 
-  save() {
-    const jsonPath = path.join(Components.jsonDir, `components/${ this.language }.ndjson`)
+  async load() {
+
+    const filenames = await readdir(Components.dataDir)
+
+    for (const filename of filenames) {
+
+      const components = await ndjson.read(path.join(Components.dataDir, filename))
+
+      for (const component of components) {
+        this.set(component.id, component)
+      }
+
+    }
+
+  }
+
+  save(language) {
+    const jsonPath = path.join(Components.dataDir, `${ language }.ndjson`)
     return ndjson.write(this.values(), jsonPath)
   }
 
-  async saveTransliterations() {
+  async saveTransliterations(language) {
 
     const csv = stringifyCSV(this.transliterations, {
       bom:     true,
       columns: transliterationColumns,
     })
 
-    const transliterationsPath = path.resolve(import.meta.dirname, `./transliterations/${ this.language }.csv`)
+    const transliterationsPath = path.resolve(import.meta.dirname, `./transliterations/${ language }.csv`)
 
     await outputFile(transliterationsPath, csv, `utf8`)
 
