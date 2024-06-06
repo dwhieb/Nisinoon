@@ -1,3 +1,4 @@
+import { appendFile }                from 'node:fs/promises'
 import Issues                        from './Issues.js'
 import ndjson                        from '../database/NDJSON.js'
 import Orthographies                 from './Orthographies.js'
@@ -71,10 +72,15 @@ export default class Components extends Map {
     this.language = language
   }
 
-  convert(componentsCSV, tokensCSV) {
+  async convert(componentsCSV, tokensCSV) {
 
     const componentRecords = parseCSV(componentsCSV, Components.csvOptions)
     const tokenRecords     = parseCSV(tokensCSV, Components.csvOptions)
+
+    if (componentRecords.length === tokenRecords.length) {
+      const susPath = path.resolve(import.meta.dirname, `./sus.txt`)
+      await appendFile(susPath, `${ this.language }\n`, `utf8`)
+    }
 
     const records = new Map
     const cols    = Components.columns

@@ -51,7 +51,7 @@ export default class DataManager {
     const componentsCSV  = await readFile(componentsPath, `utf8`)
     const tokensCSV      = await readFile(tokensPath, `utf8`)
 
-    components.convert(componentsCSV, tokensCSV)
+    await components.convert(componentsCSV, tokensCSV)
 
     await components.save()
 
@@ -93,7 +93,7 @@ export default class DataManager {
    */
   async fetchAllComponents() {
 
-    if (!this.languages) await this.loadLanguages()
+    await this.languages.load()
 
     const progressBar = new ProgressBar(`:bar`, {
       total: this.languages.size,
