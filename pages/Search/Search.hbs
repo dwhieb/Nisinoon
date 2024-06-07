@@ -37,7 +37,7 @@
           <tbody>
             {{#each components as |component|}}
               <tr>
-                <td class=language>{{ language }}</td>
+                <td class=language>{{ displayLanguage }}</td>
                 <td class=form><a class=link href='/components/{{ id }}'>{{ form }}</a></td>
                 <td class=UR><a class=link href='/components/{{ id }}'>{{#if UR}}/{{ UR }}/{{/if}}</a></td>
                 <td class=definition>{{#if definition}}‘{{ definition }}’{{else}}&#8212;{{/if}}</td>
