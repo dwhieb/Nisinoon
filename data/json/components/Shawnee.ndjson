@@ -1,32 +1,32 @@
-{"definition":"","displayLanguage":"Shawnee","form":"-aal-ak-","id":"Shawnee-1","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"-api","id":"Shawnee-2","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"-čaal-","id":"Shawnee-3","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"-čaal-ee","id":"Shawnee-4","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"-kaapawi-","id":"Shawnee-5","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"-mi","id":"Shawnee-6","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"-waa-","id":"Shawnee-7","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"-wil-","id":"Shawnee-8","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"-ʔh-","id":"Shawnee-9","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"-ʔpani","id":"Shawnee-10","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"hoθaam-","id":"Shawnee-11","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"kaʔk-","id":"Shawnee-12","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"kaʔk-","id":"Shawnee-13","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"kiiškw-","id":"Shawnee-14","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"kiit·-","id":"Shawnee-15","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"kišk-","id":"Shawnee-16","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"kiʔkiit·-","id":"Shawnee-17","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"leep-","id":"Shawnee-18","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"lʔθaw-","id":"Shawnee-19","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"mškw-","id":"Shawnee-20","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"peʔš-","id":"Shawnee-21","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"šaʔšaak-","id":"Shawnee-22","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"šaʔšaakw-","id":"Shawnee-23","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"waal-ʔ-ak-","id":"Shawnee-24","language":"Shawnee","UR":""}
-{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-25","language":"Shawnee","UR":"-aalak-"}
-{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-26","language":"Shawnee","UR":"-ah-"}
-{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-27","language":"Shawnee","UR":"-at·-"}
-{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-28","language":"Shawnee","UR":"-ee-"}
-{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-29","language":"Shawnee","UR":"-iikin-"}
-{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-30","language":"Shawnee","UR":"mak-"}
-{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-31","language":"Shawnee","UR":"mʔkat·eew-"}
-{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-32","language":"Shawnee","UR":"peekw-"}
+{"definition":"","displayLanguage":"Shawnee","form":"-aal-ak-","id":"Shawnee-1","language":"Shawnee","tokens":[{"form":"-a·l-ak-","gloss":"hole","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"-api","id":"Shawnee-2","language":"Shawnee","tokens":[{"form":"-api","gloss":"tying, catching, drawing in, pulling up","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"-čaal-","id":"Shawnee-3","language":"Shawnee","tokens":[{"form":"-ča·l-","gloss":"nose","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"-čaal-ee","id":"Shawnee-4","language":"Shawnee","tokens":[{"form":"-ča·l-e·","gloss":"nose","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"-kaapawi-","id":"Shawnee-5","language":"Shawnee","tokens":[{"form":"-ka·pawi-","gloss":"stand","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"-mi","id":"Shawnee-6","language":"Shawnee","tokens":[{"form":"-mi","gloss":"berry, nut","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"-waa-","id":"Shawnee-7","language":"Shawnee","tokens":[{"form":"-waa-","gloss":"skin, hide","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"-wil-","id":"Shawnee-8","language":"Shawnee","tokens":[{"form":"-wil-","gloss":"horn","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"-ʔh-","id":"Shawnee-9","language":"Shawnee","tokens":[{"form":"-ʔh-","gloss":"instrumental","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"-ʔpani","id":"Shawnee-10","language":"Shawnee","tokens":[{"form":"-ʔpani","gloss":"vulva","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"hoθaam-","id":"Shawnee-11","language":"Shawnee","tokens":[{"form":"hoθa·m-","gloss":"too much","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"kaʔk-","id":"Shawnee-12","language":"Shawnee","tokens":[{"form":"kaʔk-","gloss":"dry, rough","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"kaʔk-","id":"Shawnee-13","language":"Shawnee","tokens":[{"form":"kaʔk-","gloss":"scrape, shave","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"kiiškw-","id":"Shawnee-14","language":"Shawnee","tokens":[{"form":"ki·škw-","gloss":"day, sky","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"kiit·-","id":"Shawnee-15","language":"Shawnee","tokens":[{"form":"ki·t-","gloss":"grind, sharp, sharpen","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"kišk-","id":"Shawnee-16","language":"Shawnee","tokens":[{"form":"kišk-","gloss":"sever, cut through","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"kiʔkiit·-","id":"Shawnee-17","language":"Shawnee","tokens":[{"form":"kiʔki·t-","gloss":"sore, inflamed","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"leep-","id":"Shawnee-18","language":"Shawnee","tokens":[{"form":"le·p-","gloss":"tapering at base","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"lʔθaw-","id":"Shawnee-19","language":"Shawnee","tokens":[{"form":"lʔθaw-","gloss":"fork(ed)","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"mškw-","id":"Shawnee-20","language":"Shawnee","tokens":[{"form":"mškw-","gloss":"red","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"peʔš-","id":"Shawnee-21","language":"Shawnee","tokens":[{"form":"peʔš-","gloss":"touch","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"šaʔšaak-","id":"Shawnee-22","language":"Shawnee","tokens":[{"form":"šaʔša·k-","gloss":"stripped","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"šaʔšaakw-","id":"Shawnee-23","language":"Shawnee","tokens":[{"form":"šaʔša·kw-","gloss":"break","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"waal-ʔ-ak-","id":"Shawnee-24","language":"Shawnee","tokens":[{"form":"wa·l-ʔ-ak-","gloss":"hollow","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-25","language":"Shawnee","tokens":[{"form":"","gloss":"hole","UR":"-a·lak-"}],"UR":"-aalak-"}
+{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-26","language":"Shawnee","tokens":[{"form":"","gloss":"by tool","UR":"-ah-"}],"UR":"-ah-"}
+{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-27","language":"Shawnee","tokens":[{"form":"","gloss":"NG","UR":"-at-"}],"UR":"-at·-"}
+{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-28","language":"Shawnee","tokens":[{"form":"","gloss":"NG","UR":"-e·-"}],"UR":"-ee-"}
+{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-29","language":"Shawnee","tokens":[{"form":"","gloss":"forehead","UR":"-i·kin-"}],"UR":"-iikin-"}
+{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-30","language":"Shawnee","tokens":[{"form":"","gloss":"big (pl.)","UR":"mak-"}],"UR":"mak-"}
+{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-31","language":"Shawnee","tokens":[{"form":"","gloss":"black","UR":"mʔkate·w-"}],"UR":"mʔkat·eew-"}
+{"definition":"","displayLanguage":"Shawnee","form":"","id":"Shawnee-32","language":"Shawnee","tokens":[{"form":"","gloss":"dry","UR":"pe·kw-"}],"UR":"peekw-"}

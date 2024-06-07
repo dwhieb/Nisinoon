@@ -52,7 +52,6 @@ export default class DataManager {
     const tokensCSV      = await readFile(tokensPath, `utf8`)
 
     await components.convert(key, componentsCSV, tokensCSV)
-
     await components.save(key)
 
     return components

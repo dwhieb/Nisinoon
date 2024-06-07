@@ -1,5 +1,5 @@
-{"definition":"","displayLanguage":"Common Delaware","form":"*/-aahkw-/","id":"Delaware_Common-1","language":"Delaware_Common","UR":""}
-{"definition":"","displayLanguage":"Common Delaware","form":"*/-əsii-/","id":"Delaware_Common-2","language":"Delaware_Common","UR":""}
-{"definition":"","displayLanguage":"Common Delaware","form":"*/payaxk-/","id":"Delaware_Common-3","language":"Delaware_Common","UR":""}
-{"definition":"","displayLanguage":"Common Delaware","form":"*/tahkw-/","id":"Delaware_Common-4","language":"Delaware_Common","UR":""}
-{"definition":"","displayLanguage":"Common Delaware","form":"/-təhwən-/","id":"Delaware_Common-5","language":"Delaware_Common","UR":""}
+{"definition":"","displayLanguage":"Common Delaware","form":"*/-aahkw-/","id":"Delaware_Common-1","language":"Delaware_Common","tokens":[{"form":"*/-āhkw-/","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Common Delaware","form":"*/-əsii-/","id":"Delaware_Common-2","language":"Delaware_Common","tokens":[{"form":"*/-əsī-/","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Common Delaware","form":"*/payaxk-/","id":"Delaware_Common-3","language":"Delaware_Common","tokens":[{"form":"*/payaxk-/","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Common Delaware","form":"*/tahkw-/","id":"Delaware_Common-4","language":"Delaware_Common","tokens":[{"form":"*/tahkw-/","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Common Delaware","form":"/-təhwən-/","id":"Delaware_Common-5","language":"Delaware_Common","tokens":[{"form":"/-təhwən-/","gloss":"branch","UR":""}],"UR":""}

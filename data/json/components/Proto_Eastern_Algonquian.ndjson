@@ -1,10 +1,10 @@
-{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*-ən","id":"Proto_Eastern_Algonquian-1","language":"Proto_Eastern_Algonquian","UR":""}
-{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*-əpəyee-","id":"Proto_Eastern_Algonquian-2","language":"Proto_Eastern_Algonquian","UR":""}
-{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*-əs","id":"Proto_Eastern_Algonquian-3","language":"Proto_Eastern_Algonquian","UR":""}
-{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*-əš","id":"Proto_Eastern_Algonquian-4","language":"Proto_Eastern_Algonquian","UR":""}
-{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*-īnswī","id":"Proto_Eastern_Algonquian-5","language":"Proto_Eastern_Algonquian","UR":""}
-{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*ər-","id":"Proto_Eastern_Algonquian-6","language":"Proto_Eastern_Algonquian","UR":""}
-{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*kwakwān-","id":"Proto_Eastern_Algonquian-7","language":"Proto_Eastern_Algonquian","UR":""}
-{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*kwən-","id":"Proto_Eastern_Algonquian-8","language":"Proto_Eastern_Algonquian","UR":""}
-{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*nēw-","id":"Proto_Eastern_Algonquian-9","language":"Proto_Eastern_Algonquian","UR":""}
-{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*paa-","id":"Proto_Eastern_Algonquian-10","language":"Proto_Eastern_Algonquian","UR":""}
+{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*-ən","id":"Proto_Eastern_Algonquian-1","language":"Proto_Eastern_Algonquian","tokens":[{"form":"*-ən","gloss":"hold, handle","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*-əpəyee-","id":"Proto_Eastern_Algonquian-2","language":"Proto_Eastern_Algonquian","tokens":[{"form":"*-əpəyē-","gloss":"water","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*-əs","id":"Proto_Eastern_Algonquian-3","language":"Proto_Eastern_Algonquian","tokens":[{"form":"*-əs","gloss":"heat","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*-əš","id":"Proto_Eastern_Algonquian-4","language":"Proto_Eastern_Algonquian","tokens":[{"form":"*-əš","gloss":"cut","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*-īnswī","id":"Proto_Eastern_Algonquian-5","language":"Proto_Eastern_Algonquian","tokens":[{"form":"*-īnswī","gloss":"be named","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*ər-","id":"Proto_Eastern_Algonquian-6","language":"Proto_Eastern_Algonquian","tokens":[{"form":"*ər-","gloss":"thus","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*kwakwān-","id":"Proto_Eastern_Algonquian-7","language":"Proto_Eastern_Algonquian","tokens":[{"form":"*kwakwān-","gloss":"long (pl.)","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*kwən-","id":"Proto_Eastern_Algonquian-8","language":"Proto_Eastern_Algonquian","tokens":[{"form":"*kwən-","gloss":"long","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*nēw-","id":"Proto_Eastern_Algonquian-9","language":"Proto_Eastern_Algonquian","tokens":[{"form":"*nēw-","gloss":"see","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Proto-Eastern Algonquian","form":"*paa-","id":"Proto_Eastern_Algonquian-10","language":"Proto_Eastern_Algonquian","tokens":[{"form":"*pā-","gloss":"come","UR":""}],"UR":""}

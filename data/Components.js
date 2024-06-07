@@ -115,7 +115,8 @@ export default class Components extends Map {
         continue
       }
 
-      this.set(record[cols.id], this.convertRecord(language, record))
+      const data = this.convertRecord(language, record)
+      this.set(record[cols.id], data)
 
     }
 
@@ -129,6 +130,9 @@ export default class Components extends Map {
     const cols  = Components.columns
     const id    = `${ language }-${ record[cols.id] }`
     const ortho = record[cols.orthography]
+
+    // Language
+    const displayLanguage = languages.get(language).name
 
     // Form
     const sourceForm = record[cols.originalOrthography]
@@ -144,6 +148,10 @@ export default class Components extends Map {
     // Definition
     const definition = (record[cols.definition] ?? ``).replaceAll(`NG`, ``)
 
+    // Tokens
+    const tokens = record.tokens.map(this.convertToken)
+
+    // Save/Return the converted data
     this.transliterations.push({
       language,
       originalOrthography: sourceForm.replaceAll(`-`, `\u2011`),
@@ -151,17 +159,26 @@ export default class Components extends Map {
       projectOrthography:  form.replaceAll(`-`, `\u2011`),
     })
 
-    // Language
-    const displayLanguage = languages.get(language).name
-
     return {
       definition,
       displayLanguage,
       form,
       id,
       language,
+      tokens,
       UR,
     }
+
+  }
+
+  convertToken(token) {
+
+    const cols  = Components.columns
+    const form  = token[cols.originalOrthography]
+    const gloss = token[cols.gloss]
+    const UR    = token[cols.UR]
+
+    return { form, gloss, UR }
 
   }
 
