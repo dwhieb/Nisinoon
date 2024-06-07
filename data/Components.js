@@ -23,6 +23,18 @@ const transliterationColumns = [
   { header: `Project Orthography`, key: `projectOrthography` },
 ]
 
+function cleanGloss(gl) {
+  if (!gl) return ``
+  if (gl === `NG`) return ``
+  return gl
+}
+
+function cleanUR(UR) {
+  return UR
+  .replace(/^\//v, ``)
+  .replace(/\/$/v, ``)
+}
+
 export default class Components extends Map {
 
   static columns = {
@@ -140,13 +152,10 @@ export default class Components extends Map {
 
     // UR
     const sourceUR = record[cols.UR]
-
-    const UR = orthographies.transliterate(ortho, sourceUR)
-    .replace(/^\//v, ``)
-    .replace(/\/$/v, ``)
+    const UR       = orthographies.transliterate(ortho, cleanUR(sourceUR))
 
     // Definition
-    const definition = (record[cols.definition] ?? ``).replaceAll(`NG`, ``)
+    const definition = cleanGloss(record[cols.definition])
 
     // Tokens
     const tokens = record.tokens.map(this.convertToken)
@@ -175,8 +184,8 @@ export default class Components extends Map {
 
     const cols  = Components.columns
     const form  = token[cols.originalOrthography]
-    const gloss = token[cols.gloss]
-    const UR    = token[cols.UR]
+    const gloss = cleanGloss(token[cols.gloss])
+    const UR    = cleanUR(token[cols.UR])
 
     return { form, gloss, UR }
 

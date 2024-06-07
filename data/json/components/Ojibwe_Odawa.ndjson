@@ -5,7 +5,7 @@
 {"definition":"","displayLanguage":"Odawa","form":"-(i)piih-","id":"Ojibwe_Odawa-5","language":"Ojibwe_Odawa","tokens":[{"form":"-(i)bi:h-","gloss":"write","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-(i)pimitee(w)-","id":"Ojibwe_Odawa-6","language":"Ojibwe_Odawa","tokens":[{"form":"-(i)bimide:(w)-","gloss":"oil","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-(i)poo-","id":"Ojibwe_Odawa-7","language":"Ojibwe_Odawa","tokens":[{"form":"-(i)bo:-","gloss":"cause using a sawing motion","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-(i)t-","id":"Ojibwe_Odawa-8","language":"Ojibwe_Odawa","tokens":[{"form":"-(i)d-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-(i)t-","id":"Ojibwe_Odawa-8","language":"Ojibwe_Odawa","tokens":[{"form":"-(i)d-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-(i)toon-","id":"Ojibwe_Odawa-9","language":"Ojibwe_Odawa","tokens":[{"form":"-(i)do:n-","gloss":"mouth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-(i)kaapawi-","id":"Ojibwe_Odawa-10","language":"Ojibwe_Odawa","tokens":[{"form":"-(i)ga:bawi-","gloss":"stand","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-(i)kaat-","id":"Ojibwe_Odawa-11","language":"Ojibwe_Odawa","tokens":[{"form":"-(i)ga:d-","gloss":"leg","UR":""}],"UR":""}
@@ -30,12 +30,12 @@
 {"definition":"","displayLanguage":"Odawa","form":"-(i)wi-","id":"Ojibwe_Odawa-30","language":"Ojibwe_Odawa","tokens":[{"form":"-(i)wi-","gloss":"take","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-(i)sit-","id":"Ojibwe_Odawa-31","language":"Ojibwe_Odawa","tokens":[{"form":"-(i)zid-","gloss":"foot","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-(o)h-","id":"Ojibwe_Odawa-32","language":"Ojibwe_Odawa","tokens":[{"form":"-(o)h-","gloss":"cause","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-∅","id":"Ojibwe_Odawa-33","language":"Ojibwe_Odawa","tokens":[{"form":"-∅","gloss":"NG","UR":""},{"form":"-∅","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-∅","id":"Ojibwe_Odawa-33","language":"Ojibwe_Odawa","tokens":[{"form":"-∅","gloss":"","UR":""},{"form":"-∅","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-∅","id":"Ojibwe_Odawa-34","language":"Ojibwe_Odawa","tokens":[{"form":"-∅","gloss":"cause by heat","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-∅","id":"Ojibwe_Odawa-35","language":"Ojibwe_Odawa","tokens":[{"form":"-∅","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-∅","id":"Ojibwe_Odawa-35","language":"Ojibwe_Odawa","tokens":[{"form":"-∅","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aa","id":"Ojibwe_Odawa-36","language":"Ojibwe_Odawa","tokens":[{"form":"-ā","gloss":"propriétés spatiales","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aa-","id":"Ojibwe_Odawa-37","language":"Ojibwe_Odawa","tokens":[{"form":"-ā-","gloss":"spatial","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-aa","id":"Ojibwe_Odawa-38","language":"Ojibwe_Odawa","tokens":[{"form":"-a:","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-aa","id":"Ojibwe_Odawa-38","language":"Ojibwe_Odawa","tokens":[{"form":"-a:","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aapiik-","id":"Ojibwe_Odawa-39","language":"Ojibwe_Odawa","tokens":[{"form":"-a:bi:g-","gloss":"rope, string","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aapik·-","id":"Ojibwe_Odawa-40","language":"Ojibwe_Odawa","tokens":[{"form":"-a:bik-","gloss":"metal, stone","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aapik·w-","id":"Ojibwe_Odawa-41","language":"Ojibwe_Odawa","tokens":[{"form":"-a:bikw-","gloss":"money","UR":""}],"UR":""}
@@ -55,13 +55,13 @@
 {"definition":"","displayLanguage":"Odawa","form":"-aawah-","id":"Ojibwe_Odawa-55","language":"Ojibwe_Odawa","tokens":[{"form":"-a:wah-","gloss":"child","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aapiik-","id":"Ojibwe_Odawa-56","language":"Ojibwe_Odawa","tokens":[{"form":"-aabiig-","gloss":"stringlike","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aapoo","id":"Ojibwe_Odawa-57","language":"Ojibwe_Odawa","tokens":[{"form":"-aaboo","gloss":"liquide","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-aakam-","id":"Ojibwe_Odawa-58","language":"Ojibwe_Odawa","tokens":[{"form":"-aagam-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-aakam-","id":"Ojibwe_Odawa-58","language":"Ojibwe_Odawa","tokens":[{"form":"-aagam-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aak·w-","id":"Ojibwe_Odawa-59","language":"Ojibwe_Odawa","tokens":[{"form":"-aakw-","gloss":"thoroughness, intensity","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-aaš·i","id":"Ojibwe_Odawa-60","language":"Ojibwe_Odawa","tokens":[{"form":"-aashi","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-aaš·i","id":"Ojibwe_Odawa-60","language":"Ojibwe_Odawa","tokens":[{"form":"-aashi","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aawikan-","id":"Ojibwe_Odawa-61","language":"Ojibwe_Odawa","tokens":[{"form":"-aawigan-","gloss":"back","UR":""},{"form":"-aawigan-","gloss":"back","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-apinoočiinh-","id":"Ojibwe_Odawa-62","language":"Ojibwe_Odawa","tokens":[{"form":"-abino:ji:nh-","gloss":"child","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aačiwan","id":"Ojibwe_Odawa-63","language":"Ojibwe_Odawa","tokens":[{"form":"-āciwan","gloss":"stream","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-at","id":"Ojibwe_Odawa-64","language":"Ojibwe_Odawa","tokens":[{"form":"-ad","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-at","id":"Ojibwe_Odawa-64","language":"Ojibwe_Odawa","tokens":[{"form":"-ad","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ak","id":"Ojibwe_Odawa-65","language":"Ojibwe_Odawa","tokens":[{"form":"-ag","gloss":"old","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-akah-","id":"Ojibwe_Odawa-66","language":"Ojibwe_Odawa","tokens":[{"form":"-agah-","gloss":"use axe","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-akanaam-","id":"Ojibwe_Odawa-67","language":"Ojibwe_Odawa","tokens":[{"form":"-agana:m-","gloss":"cause using violent action","UR":""},{"form":"-agana:m-","gloss":"cause using violent action","UR":""}],"UR":""}
@@ -73,16 +73,16 @@
 {"definition":"","displayLanguage":"Odawa","form":"-ah(w)","id":"Ojibwe_Odawa-73","language":"Ojibwe_Odawa","tokens":[{"form":"-ah(w)","gloss":"cause using an instrument","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aham-","id":"Ojibwe_Odawa-74","language":"Ojibwe_Odawa","tokens":[{"form":"-aham-","gloss":"cause using an instrument","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ahw-","id":"Ojibwe_Odawa-75","language":"Ojibwe_Odawa","tokens":[{"form":"-ahw-","gloss":"cause using an instrument","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-ak-","id":"Ojibwe_Odawa-76","language":"Ojibwe_Odawa","tokens":[{"form":"-ak-","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-ak·wee-","id":"Ojibwe_Odawa-77","language":"Ojibwe_Odawa","tokens":[{"form":"-akkwē-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-ak-","id":"Ojibwe_Odawa-76","language":"Ojibwe_Odawa","tokens":[{"form":"-ak-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-ak·wee-","id":"Ojibwe_Odawa-77","language":"Ojibwe_Odawa","tokens":[{"form":"-akkwē-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ak·ošiwee","id":"Ojibwe_Odawa-78","language":"Ojibwe_Odawa","tokens":[{"form":"-akožiwe:","gloss":"paddle","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-am","id":"Ojibwe_Odawa-79","language":"Ojibwe_Odawa","tokens":[{"form":"-am","gloss":"cause","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-am-","id":"Ojibwe_Odawa-80","language":"Ojibwe_Odawa","tokens":[{"form":"-am-","gloss":"eat","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-am-","id":"Ojibwe_Odawa-81","language":"Ojibwe_Odawa","tokens":[{"form":"-am-","gloss":"cause using the mouth/teeth","UR":""},{"form":"-am-","gloss":"cause using the mouth/teeth","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-am-","id":"Ojibwe_Odawa-82","language":"Ojibwe_Odawa","tokens":[{"form":"-am-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-am-","id":"Ojibwe_Odawa-82","language":"Ojibwe_Odawa","tokens":[{"form":"-am-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-am-","id":"Ojibwe_Odawa-83","language":"Ojibwe_Odawa","tokens":[{"form":"-am-","gloss":"use mouth, teeth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-amaw","id":"Ojibwe_Odawa-84","language":"Ojibwe_Odawa","tokens":[{"form":"-amaw","gloss":"benefactive","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-an","id":"Ojibwe_Odawa-85","language":"Ojibwe_Odawa","tokens":[{"form":"-an","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-an","id":"Ojibwe_Odawa-85","language":"Ojibwe_Odawa","tokens":[{"form":"-an","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-an","id":"Ojibwe_Odawa-86","language":"Ojibwe_Odawa","tokens":[{"form":"-an","gloss":"cause w/instrument","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-antam-","id":"Ojibwe_Odawa-87","language":"Ojibwe_Odawa","tokens":[{"form":"-andam-","gloss":"cause using the mouth/teeth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-anok·ii","id":"Ojibwe_Odawa-88","language":"Ojibwe_Odawa","tokens":[{"form":"-anoki:","gloss":"work","UR":""}],"UR":""}
@@ -101,7 +101,7 @@
 {"definition":"","displayLanguage":"Odawa","form":"-as·̌k·w-","id":"Ojibwe_Odawa-101","language":"Ojibwe_Odawa","tokens":[{"form":"-aškw-","gloss":"head","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-at-","id":"Ojibwe_Odawa-102","language":"Ojibwe_Odawa","tokens":[{"form":"-at","gloss":"état","UR":""},{"form":"-at-","gloss":"state","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aat·-","id":"Ojibwe_Odawa-103","language":"Ojibwe_Odawa","tokens":[{"form":"-ātt-","gloss":"solar/lunar energy","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-aw-","id":"Ojibwe_Odawa-104","language":"Ojibwe_Odawa","tokens":[{"form":"-aw-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-aw-","id":"Ojibwe_Odawa-104","language":"Ojibwe_Odawa","tokens":[{"form":"-aw-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ayaa","id":"Ojibwe_Odawa-105","language":"Ojibwe_Odawa","tokens":[{"form":"-ayaa","gloss":"have","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-aš-","id":"Ojibwe_Odawa-106","language":"Ojibwe_Odawa","tokens":[{"form":"-azh-","gloss":"skin","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-pah","id":"Ojibwe_Odawa-107","language":"Ojibwe_Odawa","tokens":[{"form":"-bah","gloss":"run","UR":""}],"UR":""}
@@ -127,23 +127,23 @@
 {"definition":"","displayLanguage":"Odawa","form":"-poon-","id":"Ojibwe_Odawa-127","language":"Ojibwe_Odawa","tokens":[{"form":"-bo:n-","gloss":"cause using a sawing motion","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-poon-","id":"Ojibwe_Odawa-128","language":"Ojibwe_Odawa","tokens":[{"form":"-bo:n-","gloss":"plow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-č̌aaN-","id":"Ojibwe_Odawa-129","language":"Ojibwe_Odawa","tokens":[{"form":"-ča·N-","gloss":"nose","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-t","id":"Ojibwe_Odawa-130","language":"Ojibwe_Odawa","tokens":[{"form":"-d","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-t-","id":"Ojibwe_Odawa-131","language":"Ojibwe_Odawa","tokens":[{"form":"-d-","gloss":"NG","UR":""},{"form":"-d-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-t","id":"Ojibwe_Odawa-130","language":"Ojibwe_Odawa","tokens":[{"form":"-d","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-t-","id":"Ojibwe_Odawa-131","language":"Ojibwe_Odawa","tokens":[{"form":"-d-","gloss":"","UR":""},{"form":"-d-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-taapaatam-","id":"Ojibwe_Odawa-132","language":"Ojibwe_Odawa","tokens":[{"form":"-da:ba:dam-","gloss":"drag","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-taapaan-","id":"Ojibwe_Odawa-133","language":"Ojibwe_Odawa","tokens":[{"form":"-da:ba:n-","gloss":"drag","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-taapii","id":"Ojibwe_Odawa-134","language":"Ojibwe_Odawa","tokens":[{"form":"-da:bi:","gloss":"drag","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-taamik·an-","id":"Ojibwe_Odawa-135","language":"Ojibwe_Odawa","tokens":[{"form":"-daamikan-","gloss":"chin","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-tee","id":"Ojibwe_Odawa-136","language":"Ojibwe_Odawa","tokens":[{"form":"-de","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-tee","id":"Ojibwe_Odawa-137","language":"Ojibwe_Odawa","tokens":[{"form":"-de:","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-tee","id":"Ojibwe_Odawa-136","language":"Ojibwe_Odawa","tokens":[{"form":"-de","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-tee","id":"Ojibwe_Odawa-137","language":"Ojibwe_Odawa","tokens":[{"form":"-de:","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-teeh-","id":"Ojibwe_Odawa-138","language":"Ojibwe_Odawa","tokens":[{"form":"-deh-","gloss":"heart","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-tinamaankan-","id":"Ojibwe_Odawa-139","language":"Ojibwe_Odawa","tokens":[{"form":"-dinamaangan-","gloss":"shoulder","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-toontan-","id":"Ojibwe_Odawa-140","language":"Ojibwe_Odawa","tokens":[{"form":"-doondan-","gloss":"heel","UR":""}],"UR":""}
 {"definition":"medial","displayLanguage":"Odawa","form":"-toos·k·wan-","id":"Ojibwe_Odawa-141","language":"Ojibwe_Odawa","tokens":[{"form":"-dooskwan-","gloss":"elbow","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-ee","id":"Ojibwe_Odawa-142","language":"Ojibwe_Odawa","tokens":[{"form":"-e","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-ee","id":"Ojibwe_Odawa-142","language":"Ojibwe_Odawa","tokens":[{"form":"-e","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ee-","id":"Ojibwe_Odawa-143","language":"Ojibwe_Odawa","tokens":[{"form":"-ē","gloss":"procés","UR":""},{"form":"-ē-","gloss":"process","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-ee-","id":"Ojibwe_Odawa-144","language":"Ojibwe_Odawa","tokens":[{"form":"-ē-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-ee-","id":"Ojibwe_Odawa-144","language":"Ojibwe_Odawa","tokens":[{"form":"-ē-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ee-","id":"Ojibwe_Odawa-145","language":"Ojibwe_Odawa","tokens":[{"form":"-ē-","gloss":"process","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-ee-","id":"Ojibwe_Odawa-146","language":"Ojibwe_Odawa","tokens":[{"form":"-e:-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-ee-","id":"Ojibwe_Odawa-146","language":"Ojibwe_Odawa","tokens":[{"form":"-e:-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-eek-","id":"Ojibwe_Odawa-147","language":"Ojibwe_Odawa","tokens":[{"form":"-e:g-","gloss":"sheet, cloth, paper","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-eenti","id":"Ojibwe_Odawa-148","language":"Ojibwe_Odawa","tokens":[{"form":"-e:ndi","gloss":"be away","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-eenim-","id":"Ojibwe_Odawa-149","language":"Ojibwe_Odawa","tokens":[{"form":"-enim-","gloss":"act with mind","UR":""}],"UR":""}
@@ -152,8 +152,8 @@
 {"definition":"","displayLanguage":"Odawa","form":"-kah-","id":"Ojibwe_Odawa-152","language":"Ojibwe_Odawa","tokens":[{"form":"-gah-","gloss":"cause using an axe/instrument","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-kaham-","id":"Ojibwe_Odawa-153","language":"Ojibwe_Odawa","tokens":[{"form":"-gaham-","gloss":"cause using an axe/instrument","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-kahw-","id":"Ojibwe_Odawa-154","language":"Ojibwe_Odawa","tokens":[{"form":"-gahw-","gloss":"cause using an axe/instrument","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-kam-","id":"Ojibwe_Odawa-155","language":"Ojibwe_Odawa","tokens":[{"form":"-gam-","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-kan","id":"Ojibwe_Odawa-156","language":"Ojibwe_Odawa","tokens":[{"form":"-gan","gloss":"NG","UR":""},{"form":"-gan","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-kam-","id":"Ojibwe_Odawa-155","language":"Ojibwe_Odawa","tokens":[{"form":"-gam-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-kan","id":"Ojibwe_Odawa-156","language":"Ojibwe_Odawa","tokens":[{"form":"-gan","gloss":"","UR":""},{"form":"-gan","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ki","id":"Ojibwe_Odawa-157","language":"Ojibwe_Odawa","tokens":[{"form":"-gi","gloss":"pousser","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-kiiwee","id":"Ojibwe_Odawa-158","language":"Ojibwe_Odawa","tokens":[{"form":"-gi:we:","gloss":"go home","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-kiisis·w-","id":"Ojibwe_Odawa-159","language":"Ojibwe_Odawa","tokens":[{"form":"-gi:zisw-","gloss":"moon","UR":""}],"UR":""}
@@ -162,9 +162,9 @@
 {"definition":"","displayLanguage":"Odawa","form":"-kišaa-","id":"Ojibwe_Odawa-162","language":"Ojibwe_Odawa","tokens":[{"form":"-giža:-","gloss":"care","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-h-","id":"Ojibwe_Odawa-163","language":"Ojibwe_Odawa","tokens":[{"form":"-h-","gloss":"causative","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-h-","id":"Ojibwe_Odawa-164","language":"Ojibwe_Odawa","tokens":[{"form":"-h-","gloss":"cause","UR":""},{"form":"-h-","gloss":"cause","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-hk·ee","id":"Ojibwe_Odawa-165","language":"Ojibwe_Odawa","tokens":[{"form":"-hke","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-hk·ee","id":"Ojibwe_Odawa-165","language":"Ojibwe_Odawa","tokens":[{"form":"-hke","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-i","id":"Ojibwe_Odawa-166","language":"Ojibwe_Odawa","tokens":[{"form":"-i","gloss":"avoir","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-i","id":"Ojibwe_Odawa-167","language":"Ojibwe_Odawa","tokens":[{"form":"-i","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-i","id":"Ojibwe_Odawa-167","language":"Ojibwe_Odawa","tokens":[{"form":"-i","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-iti","id":"Ojibwe_Odawa-168","language":"Ojibwe_Odawa","tokens":[{"form":"-idi","gloss":"reflexive reciprocal","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ikw-","id":"Ojibwe_Odawa-169","language":"Ojibwe_Odawa","tokens":[{"form":"-igw-","gloss":"pass","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ih-","id":"Ojibwe_Odawa-170","language":"Ojibwe_Odawa","tokens":[{"form":"-ih-","gloss":"causative","UR":""}],"UR":""}
@@ -172,17 +172,17 @@
 {"definition":"","displayLanguage":"Odawa","form":"-ik·w-","id":"Ojibwe_Odawa-172","language":"Ojibwe_Odawa","tokens":[{"form":"-ikw-","gloss":"head","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-im","id":"Ojibwe_Odawa-173","language":"Ojibwe_Odawa","tokens":[{"form":"-im","gloss":"use speech","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-imo-","id":"Ojibwe_Odawa-174","language":"Ojibwe_Odawa","tokens":[{"form":"-imo-","gloss":"speak (languages)","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-in","id":"Ojibwe_Odawa-175","language":"Ojibwe_Odawa","tokens":[{"form":"-in","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-in","id":"Ojibwe_Odawa-176","language":"Ojibwe_Odawa","tokens":[{"form":"-in","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-in","id":"Ojibwe_Odawa-175","language":"Ojibwe_Odawa","tokens":[{"form":"-in","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-in","id":"Ojibwe_Odawa-176","language":"Ojibwe_Odawa","tokens":[{"form":"-in","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-in-","id":"Ojibwe_Odawa-177","language":"Ojibwe_Odawa","tokens":[{"form":"-in","gloss":"événement","UR":""},{"form":"-in-","gloss":"event","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-in-","id":"Ojibwe_Odawa-178","language":"Ojibwe_Odawa","tokens":[{"form":"-in-","gloss":"cause","UR":""},{"form":"-in-","gloss":"cause","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-in-","id":"Ojibwe_Odawa-179","language":"Ojibwe_Odawa","tokens":[{"form":"-in-","gloss":"use the hand(s); grasp","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-ǐn-","id":"Ojibwe_Odawa-180","language":"Ojibwe_Odawa","tokens":[{"form":"-ǐn-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-ǐn-","id":"Ojibwe_Odawa-180","language":"Ojibwe_Odawa","tokens":[{"form":"-ǐn-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-inam-","id":"Ojibwe_Odawa-181","language":"Ojibwe_Odawa","tokens":[{"form":"-inam-","gloss":"cause","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-inkwaam","id":"Ojibwe_Odawa-182","language":"Ojibwe_Odawa","tokens":[{"form":"-ingwa:m","gloss":"sleep","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-is·-","id":"Ojibwe_Odawa-183","language":"Ojibwe_Odawa","tokens":[{"form":"-is-","gloss":"fall","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-iš·k·-","id":"Ojibwe_Odawa-184","language":"Ojibwe_Odawa","tokens":[{"form":"-ishk-","gloss":"use foot or body","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-isi-","id":"Ojibwe_Odawa-185","language":"Ojibwe_Odawa","tokens":[{"form":"-isi-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-isi-","id":"Ojibwe_Odawa-185","language":"Ojibwe_Odawa","tokens":[{"form":"-isi-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-is·̌i-","id":"Ojibwe_Odawa-186","language":"Ojibwe_Odawa","tokens":[{"form":"-iši-","gloss":"spend...season","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-išiweep-","id":"Ojibwe_Odawa-187","language":"Ojibwe_Odawa","tokens":[{"form":"-išiwēp-","gloss":"to happen thus","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-it-","id":"Ojibwe_Odawa-188","language":"Ojibwe_Odawa","tokens":[{"form":"-it-","gloss":"heating","UR":""}],"UR":""}
@@ -193,8 +193,8 @@
 {"definition":"","displayLanguage":"Odawa","form":"-isam-","id":"Ojibwe_Odawa-193","language":"Ojibwe_Odawa","tokens":[{"form":"-izam-","gloss":"cause using heat","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-išam-","id":"Ojibwe_Odawa-194","language":"Ojibwe_Odawa","tokens":[{"form":"-ižam-","gloss":"cause using a cutting edge","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-iš-","id":"Ojibwe_Odawa-195","language":"Ojibwe_Odawa","tokens":[{"form":"-izh-","gloss":"use cutting edge","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-isi","id":"Ojibwe_Odawa-196","language":"Ojibwe_Odawa","tokens":[{"form":"-izi","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-isi-","id":"Ojibwe_Odawa-197","language":"Ojibwe_Odawa","tokens":[{"form":"-izi-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-isi","id":"Ojibwe_Odawa-196","language":"Ojibwe_Odawa","tokens":[{"form":"-izi","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-isi-","id":"Ojibwe_Odawa-197","language":"Ojibwe_Odawa","tokens":[{"form":"-izi-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-isw-","id":"Ojibwe_Odawa-198","language":"Ojibwe_Odawa","tokens":[{"form":"-izw-","gloss":"cause using heat","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-išw-","id":"Ojibwe_Odawa-199","language":"Ojibwe_Odawa","tokens":[{"form":"-ižw-","gloss":"cause using a cutting edge","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-čiwan","id":"Ojibwe_Odawa-200","language":"Ojibwe_Odawa","tokens":[{"form":"-jiwan","gloss":"flow","UR":""}],"UR":""}
@@ -218,15 +218,15 @@
 {"definition":"","displayLanguage":"Odawa","form":"-konak-","id":"Ojibwe_Odawa-218","language":"Ojibwe_Odawa","tokens":[{"form":"-konak-","gloss":"day","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-m-","id":"Ojibwe_Odawa-219","language":"Ojibwe_Odawa","tokens":[{"form":"-m-","gloss":"smell","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-m-","id":"Ojibwe_Odawa-220","language":"Ojibwe_Odawa","tokens":[{"form":"-m-","gloss":"cause using speech","UR":""},{"form":"-m-","gloss":"cause using speech","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-mak-","id":"Ojibwe_Odawa-221","language":"Ojibwe_Odawa","tokens":[{"form":"-mak-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-mak-","id":"Ojibwe_Odawa-221","language":"Ojibwe_Odawa","tokens":[{"form":"-mak-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-mak·isin-","id":"Ojibwe_Odawa-222","language":"Ojibwe_Odawa","tokens":[{"form":"-makizin-","gloss":"shoe","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-mas·̌k·ik·iw-","id":"Ojibwe_Odawa-223","language":"Ojibwe_Odawa","tokens":[{"form":"-maškikiw-","gloss":"medicine","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-mo","id":"Ojibwe_Odawa-224","language":"Ojibwe_Odawa","tokens":[{"form":"-mo","gloss":"parler, activité orale","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-mo","id":"Ojibwe_Odawa-225","language":"Ojibwe_Odawa","tokens":[{"form":"-mo","gloss":"speak","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-mokos·k·-","id":"Ojibwe_Odawa-226","language":"Ojibwe_Odawa","tokens":[{"form":"-mogosk-","gloss":"bother","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-n","id":"Ojibwe_Odawa-227","language":"Ojibwe_Odawa","tokens":[{"form":"-n","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-n","id":"Ojibwe_Odawa-227","language":"Ojibwe_Odawa","tokens":[{"form":"-n","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-n-","id":"Ojibwe_Odawa-228","language":"Ojibwe_Odawa","tokens":[{"form":"-n-","gloss":"resemble","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-N-","id":"Ojibwe_Odawa-229","language":"Ojibwe_Odawa","tokens":[{"form":"-N-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-N-","id":"Ojibwe_Odawa-229","language":"Ojibwe_Odawa","tokens":[{"form":"-N-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-naas·̌k·aw-","id":"Ojibwe_Odawa-230","language":"Ojibwe_Odawa","tokens":[{"form":"-na:škaw-","gloss":"chase","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ntam-","id":"Ojibwe_Odawa-231","language":"Ojibwe_Odawa","tokens":[{"form":"-ndam-","gloss":"cause using speech","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ntipee-","id":"Ojibwe_Odawa-232","language":"Ojibwe_Odawa","tokens":[{"form":"-ndibe:-","gloss":"head","UR":""}],"UR":""}
@@ -234,7 +234,7 @@
 {"definition":"","displayLanguage":"Odawa","form":"-ninkwiihikan-","id":"Ojibwe_Odawa-234","language":"Ojibwe_Odawa","tokens":[{"form":"-ningwiihigan-","gloss":"wing","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ns·","id":"Ojibwe_Odawa-235","language":"Ojibwe_Odawa","tokens":[{"form":"-ns","gloss":"diminutive","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ns·wi","id":"Ojibwe_Odawa-236","language":"Ojibwe_Odawa","tokens":[{"form":"-nswi","gloss":"équivalent négatif de -kaa","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-oo","id":"Ojibwe_Odawa-237","language":"Ojibwe_Odawa","tokens":[{"form":"-o:","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-oo","id":"Ojibwe_Odawa-237","language":"Ojibwe_Odawa","tokens":[{"form":"-o:","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-ootee","id":"Ojibwe_Odawa-238","language":"Ojibwe_Odawa","tokens":[{"form":"-o:de:","gloss":"crawl","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-oom-","id":"Ojibwe_Odawa-239","language":"Ojibwe_Odawa","tokens":[{"form":"-o:m-","gloss":"carry on the back","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-oontam-","id":"Ojibwe_Odawa-240","language":"Ojibwe_Odawa","tokens":[{"form":"-o:ndam-","gloss":"carry on the back","UR":""}],"UR":""}
@@ -266,8 +266,8 @@
 {"definition":"","displayLanguage":"Odawa","form":"-t·-","id":"Ojibwe_Odawa-266","language":"Ojibwe_Odawa","tokens":[{"form":"-t-","gloss":"hear","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-t·oo-","id":"Ojibwe_Odawa-267","language":"Ojibwe_Odawa","tokens":[{"form":"-to:-","gloss":"cause","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-t·ook-","id":"Ojibwe_Odawa-268","language":"Ojibwe_Odawa","tokens":[{"form":"-toog-","gloss":"ears","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-w","id":"Ojibwe_Odawa-269","language":"Ojibwe_Odawa","tokens":[{"form":"-w","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-w","id":"Ojibwe_Odawa-270","language":"Ojibwe_Odawa","tokens":[{"form":"-w","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-w","id":"Ojibwe_Odawa-269","language":"Ojibwe_Odawa","tokens":[{"form":"-w","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-w","id":"Ojibwe_Odawa-270","language":"Ojibwe_Odawa","tokens":[{"form":"-w","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-waapi","id":"Ojibwe_Odawa-271","language":"Ojibwe_Odawa","tokens":[{"form":"-wa:bi","gloss":"see","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-wat","id":"Ojibwe_Odawa-272","language":"Ojibwe_Odawa","tokens":[{"form":"-wad","gloss":"cause","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-wat-","id":"Ojibwe_Odawa-273","language":"Ojibwe_Odawa","tokens":[{"form":"-wad-","gloss":"cause by cold","UR":""}],"UR":""}
@@ -275,23 +275,23 @@
 {"definition":"","displayLanguage":"Odawa","form":"-wiiwik·waan-","id":"Ojibwe_Odawa-275","language":"Ojibwe_Odawa","tokens":[{"form":"-wi:wikwa:n-","gloss":"hat","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-witoo-","id":"Ojibwe_Odawa-276","language":"Ojibwe_Odawa","tokens":[{"form":"-wido:-","gloss":"transport","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-wiis·iny-","id":"Ojibwe_Odawa-277","language":"Ojibwe_Odawa","tokens":[{"form":"-wiisiny-","gloss":"eat","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-win","id":"Ojibwe_Odawa-278","language":"Ojibwe_Odawa","tokens":[{"form":"-win","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-win","id":"Ojibwe_Odawa-278","language":"Ojibwe_Odawa","tokens":[{"form":"-win","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-win-","id":"Ojibwe_Odawa-279","language":"Ojibwe_Odawa","tokens":[{"form":"-win-","gloss":"transport","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-yaa","id":"Ojibwe_Odawa-280","language":"Ojibwe_Odawa","tokens":[{"form":"-ya:","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-yaa-","id":"Ojibwe_Odawa-281","language":"Ojibwe_Odawa","tokens":[{"form":"-yaa-","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-si","id":"Ojibwe_Odawa-282","language":"Ojibwe_Odawa","tokens":[{"form":"-zi","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-so","id":"Ojibwe_Odawa-283","language":"Ojibwe_Odawa","tokens":[{"form":"-zo","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"-so","id":"Ojibwe_Odawa-284","language":"Ojibwe_Odawa","tokens":[{"form":"-zo","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-yaa","id":"Ojibwe_Odawa-280","language":"Ojibwe_Odawa","tokens":[{"form":"-ya:","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-yaa-","id":"Ojibwe_Odawa-281","language":"Ojibwe_Odawa","tokens":[{"form":"-yaa-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-si","id":"Ojibwe_Odawa-282","language":"Ojibwe_Odawa","tokens":[{"form":"-zi","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-so","id":"Ojibwe_Odawa-283","language":"Ojibwe_Odawa","tokens":[{"form":"-zo","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"-so","id":"Ojibwe_Odawa-284","language":"Ojibwe_Odawa","tokens":[{"form":"-zo","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-so-","id":"Ojibwe_Odawa-285","language":"Ojibwe_Odawa","tokens":[{"form":"-zo-","gloss":"middle voice","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"-šooniyaa-","id":"Ojibwe_Odawa-286","language":"Ojibwe_Odawa","tokens":[{"form":"-žo:niya:-","gloss":"money","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"(naa)niipawi","id":"Ojibwe_Odawa-287","language":"Ojibwe_Odawa","tokens":[{"form":"(na:)ni:bawi","gloss":"stand","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"∅","id":"Ojibwe_Odawa-288","language":"Ojibwe_Odawa","tokens":[{"form":"∅","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"∅-","id":"Ojibwe_Odawa-289","language":"Ojibwe_Odawa","tokens":[{"form":"∅-","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ā","id":"Ojibwe_Odawa-290","language":"Ojibwe_Odawa","tokens":[{"form":"ā","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"aa","id":"Ojibwe_Odawa-291","language":"Ojibwe_Odawa","tokens":[{"form":"ā","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ā","id":"Ojibwe_Odawa-292","language":"Ojibwe_Odawa","tokens":[{"form":"ā","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"∅","id":"Ojibwe_Odawa-288","language":"Ojibwe_Odawa","tokens":[{"form":"∅","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"∅-","id":"Ojibwe_Odawa-289","language":"Ojibwe_Odawa","tokens":[{"form":"∅-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ā","id":"Ojibwe_Odawa-290","language":"Ojibwe_Odawa","tokens":[{"form":"ā","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"aa","id":"Ojibwe_Odawa-291","language":"Ojibwe_Odawa","tokens":[{"form":"ā","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ā","id":"Ojibwe_Odawa-292","language":"Ojibwe_Odawa","tokens":[{"form":"ā","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aa","id":"Ojibwe_Odawa-293","language":"Ojibwe_Odawa","tokens":[{"form":"ā","gloss":"spatial","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"aa","id":"Ojibwe_Odawa-294","language":"Ojibwe_Odawa","tokens":[{"form":"ā","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"aa","id":"Ojibwe_Odawa-294","language":"Ojibwe_Odawa","tokens":[{"form":"ā","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aakami","id":"Ojibwe_Odawa-295","language":"Ojibwe_Odawa","tokens":[{"form":"a:gami","gloss":"liquid, water","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aanaw-","id":"Ojibwe_Odawa-296","language":"Ojibwe_Odawa","tokens":[{"form":"a:naw-","gloss":"be unable","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aanik·oo-","id":"Ojibwe_Odawa-297","language":"Ojibwe_Odawa","tokens":[{"form":"a:niko:-","gloss":"be linked","UR":""}],"UR":""}
@@ -319,7 +319,7 @@
 {"definition":"","displayLanguage":"Odawa","form":"akim-","id":"Ojibwe_Odawa-319","language":"Ojibwe_Odawa","tokens":[{"form":"agim-","gloss":"count","UR":""},{"form":"agim-","gloss":"count","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"akwaa-","id":"Ojibwe_Odawa-320","language":"Ojibwe_Odawa","tokens":[{"form":"agwa:-","gloss":"be outside of water/fire","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"akwaa-","id":"Ojibwe_Odawa-321","language":"Ojibwe_Odawa","tokens":[{"form":"agwaa-","gloss":"ashore","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ah","id":"Ojibwe_Odawa-322","language":"Ojibwe_Odawa","tokens":[{"form":"ah","gloss":"NG","UR":""},{"form":"akāccatē","gloss":"narrow","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ah","id":"Ojibwe_Odawa-322","language":"Ojibwe_Odawa","tokens":[{"form":"ah","gloss":"","UR":""},{"form":"akāccatē","gloss":"narrow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ah-","id":"Ojibwe_Odawa-323","language":"Ojibwe_Odawa","tokens":[{"form":"ah-","gloss":"by instrument","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aha-","id":"Ojibwe_Odawa-324","language":"Ojibwe_Odawa","tokens":[{"form":"aha-","gloss":"follow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ahatō","id":"Ojibwe_Odawa-325","language":"Ojibwe_Odawa","tokens":[{"form":"ahadō","gloss":"follow","UR":""}],"UR":""}
@@ -333,7 +333,7 @@
 {"definition":"","displayLanguage":"Odawa","form":"akaač·itee","id":"Ojibwe_Odawa-333","language":"Ojibwe_Odawa","tokens":[{"form":"akāccitē","gloss":"narrow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ak·ačik-","id":"Ojibwe_Odawa-334","language":"Ojibwe_Odawa","tokens":[{"form":"akajig-","gloss":"reflect","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aakam","id":"Ojibwe_Odawa-335","language":"Ojibwe_Odawa","tokens":[{"form":"ākam","gloss":"liquid","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"aakami","id":"Ojibwe_Odawa-336","language":"Ojibwe_Odawa","tokens":[{"form":"ākami","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"aakami","id":"Ojibwe_Odawa-336","language":"Ojibwe_Odawa","tokens":[{"form":"ākami","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"akint","id":"Ojibwe_Odawa-337","language":"Ojibwe_Odawa","tokens":[{"form":"akint","gloss":"count","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"āk·is-","id":"Ojibwe_Odawa-338","language":"Ojibwe_Odawa","tokens":[{"form":"ākiz-","gloss":"with fire","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"āk·isam","id":"Ojibwe_Odawa-339","language":"Ojibwe_Odawa","tokens":[{"form":"ākizam","gloss":"with fire","UR":""}],"UR":""}
@@ -347,7 +347,7 @@
 {"definition":"","displayLanguage":"Odawa","form":"ak·on","id":"Ojibwe_Odawa-347","language":"Ojibwe_Odawa","tokens":[{"form":"akkon","gloss":"be lit","UR":""},{"form":"akkon","gloss":"be lit","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ak·w","id":"Ojibwe_Odawa-348","language":"Ojibwe_Odawa","tokens":[{"form":"akkw","gloss":"so far","UR":""},{"form":"akkw","gloss":"so far","UR":""},{"form":"akkw","gloss":"so far","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ak·w","id":"Ojibwe_Odawa-349","language":"Ojibwe_Odawa","tokens":[{"form":"akkw","gloss":"sky","UR":""},{"form":"akkw","gloss":"sky","UR":""},{"form":"akkw","gloss":"sky","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"aak·w","id":"Ojibwe_Odawa-350","language":"Ojibwe_Odawa","tokens":[{"form":"ākkw","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"aak·w","id":"Ojibwe_Odawa-350","language":"Ojibwe_Odawa","tokens":[{"form":"ākkw","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aak·w","id":"Ojibwe_Odawa-351","language":"Ojibwe_Odawa","tokens":[{"form":"ākkw","gloss":"organic solid","UR":""},{"form":"ākkw","gloss":"organic solid","UR":""},{"form":"ākkw","gloss":"organic solid","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aak·wee","id":"Ojibwe_Odawa-352","language":"Ojibwe_Odawa","tokens":[{"form":"ākkwē","gloss":"forest, brush","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aak·wee","id":"Ojibwe_Odawa-353","language":"Ojibwe_Odawa","tokens":[{"form":"ākkwē","gloss":"woods","UR":""},{"form":"ākkwē","gloss":"woods","UR":""},{"form":"ākkwē","gloss":"woods","UR":""}],"UR":""}
@@ -358,11 +358,11 @@
 {"definition":"","displayLanguage":"Odawa","form":"akoot","id":"Ojibwe_Odawa-358","language":"Ojibwe_Odawa","tokens":[{"form":"akōt","gloss":"hang","UR":""},{"form":"akōt","gloss":"hang","UR":""},{"form":"akōt","gloss":"hang","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"akoot","id":"Ojibwe_Odawa-359","language":"Ojibwe_Odawa","tokens":[{"form":"akōt","gloss":"hang","UR":""},{"form":"akōt","gloss":"hang","UR":""},{"form":"akōt","gloss":"hang","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ak·w-","id":"Ojibwe_Odawa-360","language":"Ojibwe_Odawa","tokens":[{"form":"akw-","gloss":"be (so) long","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"akwaa","id":"Ojibwe_Odawa-361","language":"Ojibwe_Odawa","tokens":[{"form":"akwā","gloss":"NG","UR":""},{"form":"akwā","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"akwaa","id":"Ojibwe_Odawa-361","language":"Ojibwe_Odawa","tokens":[{"form":"akwā","gloss":"","UR":""},{"form":"akwā","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"akwint","id":"Ojibwe_Odawa-362","language":"Ojibwe_Odawa","tokens":[{"form":"akwint","gloss":"immersed","UR":""},{"form":"akwint","gloss":"immersed","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"akwiint","id":"Ojibwe_Odawa-363","language":"Ojibwe_Odawa","tokens":[{"form":"akwīnt","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"akwiint","id":"Ojibwe_Odawa-363","language":"Ojibwe_Odawa","tokens":[{"form":"akwīnt","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"akwiint","id":"Ojibwe_Odawa-364","language":"Ojibwe_Odawa","tokens":[{"form":"akwīnt","gloss":"immersed","UR":""},{"form":"akwīnt","gloss":"immersed","UR":""},{"form":"akwīnt","gloss":"immersed","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"akwīt","id":"Ojibwe_Odawa-365","language":"Ojibwe_Odawa","tokens":[{"form":"akwīt","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"akwīt","id":"Ojibwe_Odawa-365","language":"Ojibwe_Odawa","tokens":[{"form":"akwīt","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"am","id":"Ojibwe_Odawa-366","language":"Ojibwe_Odawa","tokens":[{"form":"am","gloss":"by mouth","UR":""},{"form":"am-","gloss":"by mouth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"am-","id":"Ojibwe_Odawa-367","language":"Ojibwe_Odawa","tokens":[{"form":"am-","gloss":"eat","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"amo","id":"Ojibwe_Odawa-368","language":"Ojibwe_Odawa","tokens":[{"form":"amo","gloss":"make its way","UR":""},{"form":"amo","gloss":"make it's way","UR":""}],"UR":""}
@@ -371,13 +371,13 @@
 {"definition":"","displayLanguage":"Odawa","form":"antam","id":"Ojibwe_Odawa-371","language":"Ojibwe_Odawa","tokens":[{"form":"andam","gloss":"by mouth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aneem-","id":"Ojibwe_Odawa-372","language":"Ojibwe_Odawa","tokens":[{"form":"anem","gloss":"in the mouth","UR":""},{"form":"anem-","gloss":"in the mouth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aneemtam","id":"Ojibwe_Odawa-373","language":"Ojibwe_Odawa","tokens":[{"form":"anemdam","gloss":"in the mouth","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"anikaaw","id":"Ojibwe_Odawa-374","language":"Ojibwe_Odawa","tokens":[{"form":"anikāw","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"anikaaw","id":"Ojibwe_Odawa-374","language":"Ojibwe_Odawa","tokens":[{"form":"anikāw","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aanik·oo","id":"Ojibwe_Odawa-375","language":"Ojibwe_Odawa","tokens":[{"form":"ānikkō","gloss":"to join","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"anikok·w","id":"Ojibwe_Odawa-376","language":"Ojibwe_Odawa","tokens":[{"form":"anikokkw","gloss":"so big","UR":""},{"form":"anikokkw","gloss":"so big","UR":""},{"form":"anikokkw","gloss":"so big","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"anikw","id":"Ojibwe_Odawa-377","language":"Ojibwe_Odawa","tokens":[{"form":"anikw","gloss":"weigh","UR":""},{"form":"anikw","gloss":"weigh","UR":""},{"form":"anikw","gloss":"weigh","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ānim","id":"Ojibwe_Odawa-378","language":"Ojibwe_Odawa","tokens":[{"form":"ānim","gloss":"wind","UR":""},{"form":"ānim","gloss":"wind","UR":""},{"form":"ānim","gloss":"wind","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"anim-","id":"Ojibwe_Odawa-379","language":"Ojibwe_Odawa","tokens":[{"form":"anim-","gloss":"away","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"animik·ī","id":"Ojibwe_Odawa-380","language":"Ojibwe_Odawa","tokens":[{"form":"animikkī","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"animik·ī","id":"Ojibwe_Odawa-380","language":"Ojibwe_Odawa","tokens":[{"form":"animikkī","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"animik·oo-","id":"Ojibwe_Odawa-381","language":"Ojibwe_Odawa","tokens":[{"form":"animiko:-","gloss":"be faced away","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"animw-","id":"Ojibwe_Odawa-382","language":"Ojibwe_Odawa","tokens":[{"form":"animw-","gloss":"dog","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aankot","id":"Ojibwe_Odawa-383","language":"Ojibwe_Odawa","tokens":[{"form":"ānkot","gloss":"spread out","UR":""},{"form":"ānkot","gloss":"spread out","UR":""}],"UR":""}
@@ -387,15 +387,15 @@
 {"definition":"","displayLanguage":"Odawa","form":"aant","id":"Ojibwe_Odawa-387","language":"Ojibwe_Odawa","tokens":[{"form":"ānt","gloss":"to colour","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aant","id":"Ojibwe_Odawa-388","language":"Ojibwe_Odawa","tokens":[{"form":"ānt","gloss":"colored","UR":""},{"form":"ānt","gloss":"colored","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapan","id":"Ojibwe_Odawa-389","language":"Ojibwe_Odawa","tokens":[{"form":"āpan","gloss":"to dawn","UR":""},{"form":"āpan","gloss":"to dawn","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"āpan","id":"Ojibwe_Odawa-390","language":"Ojibwe_Odawa","tokens":[{"form":"āpan","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"āpan","id":"Ojibwe_Odawa-390","language":"Ojibwe_Odawa","tokens":[{"form":"āpan","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapat","id":"Ojibwe_Odawa-391","language":"Ojibwe_Odawa","tokens":[{"form":"āpat","gloss":"useful","UR":""},{"form":"āpat","gloss":"useful","UR":""},{"form":"āpat","gloss":"useful","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"āpat","id":"Ojibwe_Odawa-392","language":"Ojibwe_Odawa","tokens":[{"form":"āpat","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"āpat","id":"Ojibwe_Odawa-392","language":"Ojibwe_Odawa","tokens":[{"form":"āpat","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapat","id":"Ojibwe_Odawa-393","language":"Ojibwe_Odawa","tokens":[{"form":"āpat","gloss":"useful for","UR":""},{"form":"āpat","gloss":"useful for","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapat·","id":"Ojibwe_Odawa-394","language":"Ojibwe_Odawa","tokens":[{"form":"āpatt","gloss":"to smoke","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapat·","id":"Ojibwe_Odawa-395","language":"Ojibwe_Odawa","tokens":[{"form":"āpatt","gloss":"smoke","UR":""},{"form":"āpatt","gloss":"smoke","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapaaw","id":"Ojibwe_Odawa-396","language":"Ojibwe_Odawa","tokens":[{"form":"āpāw","gloss":"wetted","UR":""},{"form":"āpāw","gloss":"wetted","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapii","id":"Ojibwe_Odawa-397","language":"Ojibwe_Odawa","tokens":[{"form":"āpī","gloss":"string","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"aapii","id":"Ojibwe_Odawa-398","language":"Ojibwe_Odawa","tokens":[{"form":"āpī","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"aapii","id":"Ojibwe_Odawa-398","language":"Ojibwe_Odawa","tokens":[{"form":"āpī","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ap·iit·-","id":"Ojibwe_Odawa-399","language":"Ojibwe_Odawa","tokens":[{"form":"api:t-","gloss":"be in the process of, continue","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapiik","id":"Ojibwe_Odawa-400","language":"Ojibwe_Odawa","tokens":[{"form":"āpīk","gloss":"1d, flexible","UR":""},{"form":"āpīk","gloss":"1D flexible","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapiik","id":"Ojibwe_Odawa-401","language":"Ojibwe_Odawa","tokens":[{"form":"āpīk","gloss":"1D flexible objects","UR":""}],"UR":""}
@@ -407,10 +407,10 @@
 {"definition":"","displayLanguage":"Odawa","form":"aapoot","id":"Ojibwe_Odawa-407","language":"Ojibwe_Odawa","tokens":[{"form":"āpōt","gloss":"be carried away by current","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapoot","id":"Ojibwe_Odawa-408","language":"Ojibwe_Odawa","tokens":[{"form":"āpōt","gloss":"water current","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapoot","id":"Ojibwe_Odawa-409","language":"Ojibwe_Odawa","tokens":[{"form":"āpōt","gloss":"carried by current","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ap·akat","id":"Ojibwe_Odawa-410","language":"Ojibwe_Odawa","tokens":[{"form":"appakat","gloss":"NG","UR":""},{"form":"appakat","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ap·akat","id":"Ojibwe_Odawa-410","language":"Ojibwe_Odawa","tokens":[{"form":"appakat","gloss":"","UR":""},{"form":"appakat","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ap·iič·","id":"Ojibwe_Odawa-411","language":"Ojibwe_Odawa","tokens":[{"form":"appīcc","gloss":"so far","UR":""},{"form":"appīcc","gloss":"so far","UR":""},{"form":"appīcc","gloss":"so far","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ap·it","id":"Ojibwe_Odawa-412","language":"Ojibwe_Odawa","tokens":[{"form":"appit","gloss":"fly","UR":""},{"form":"appit","gloss":"fly","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ap·it","id":"Ojibwe_Odawa-413","language":"Ojibwe_Odawa","tokens":[{"form":"appit","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ap·it","id":"Ojibwe_Odawa-413","language":"Ojibwe_Odawa","tokens":[{"form":"appit","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ap·it·","id":"Ojibwe_Odawa-414","language":"Ojibwe_Odawa","tokens":[{"form":"appitt","gloss":"fly","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ap·iit·","id":"Ojibwe_Odawa-415","language":"Ojibwe_Odawa","tokens":[{"form":"appītt","gloss":"so high","UR":""},{"form":"appītt","gloss":"so high","UR":""},{"form":"appītt","gloss":"so high","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aapw","id":"Ojibwe_Odawa-416","language":"Ojibwe_Odawa","tokens":[{"form":"āpw","gloss":"warm weather","UR":""},{"form":"āpw","gloss":"warm weather","UR":""},{"form":"āpw","gloss":"warm weather","UR":""}],"UR":""}
@@ -424,15 +424,15 @@
 {"definition":"","displayLanguage":"Odawa","form":"ašk","id":"Ojibwe_Odawa-424","language":"Ojibwe_Odawa","tokens":[{"form":"ašk","gloss":"grass","UR":""},{"form":"ašk","gloss":"grass","UR":""},{"form":"ašk","gloss":"grass","UR":""},{"form":"ašk","gloss":"grass","UR":""},{"form":"ašk","gloss":"grass","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"āšk","id":"Ojibwe_Odawa-425","language":"Ojibwe_Odawa","tokens":[{"form":"āšk","gloss":"wave movement","UR":""},{"form":"āšk","gloss":"wave movement","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aašk","id":"Ojibwe_Odawa-426","language":"Ojibwe_Odawa","tokens":[{"form":"āšk","gloss":"movement of waves","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"aškwaa","id":"Ojibwe_Odawa-427","language":"Ojibwe_Odawa","tokens":[{"form":"aškwā","gloss":"NG","UR":""},{"form":"aškwā","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"aškwaa","id":"Ojibwe_Odawa-427","language":"Ojibwe_Odawa","tokens":[{"form":"aškwā","gloss":"","UR":""},{"form":"aškwā","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"as·̌k·waa-","id":"Ojibwe_Odawa-428","language":"Ojibwe_Odawa","tokens":[{"form":"aškwa:-","gloss":"finish","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ās·o","id":"Ojibwe_Odawa-429","language":"Ojibwe_Odawa","tokens":[{"form":"āso","gloss":"by the heat of the sun","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"as·̌p·-","id":"Ojibwe_Odawa-430","language":"Ojibwe_Odawa","tokens":[{"form":"ašp-","gloss":"high","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aas·","id":"Ojibwe_Odawa-431","language":"Ojibwe_Odawa","tokens":[{"form":"āss","gloss":"to be blown","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aas·","id":"Ojibwe_Odawa-432","language":"Ojibwe_Odawa","tokens":[{"form":"āss","gloss":"be blown","UR":""},{"form":"āss","gloss":"be blown","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"aššawē","id":"Ojibwe_Odawa-433","language":"Ojibwe_Odawa","tokens":[{"form":"aššawē","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"aššawē","id":"Ojibwe_Odawa-433","language":"Ojibwe_Odawa","tokens":[{"form":"aššawē","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aš·awee-","id":"Ojibwe_Odawa-434","language":"Ojibwe_Odawa","tokens":[{"form":"aššawē","gloss":"on its side","UR":""},{"form":"aššawē-","gloss":"on its side","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"at","id":"Ojibwe_Odawa-435","language":"Ojibwe_Odawa","tokens":[{"form":"at","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"at","id":"Ojibwe_Odawa-435","language":"Ojibwe_Odawa","tokens":[{"form":"at","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"at","id":"Ojibwe_Odawa-436","language":"Ojibwe_Odawa","tokens":[{"form":"at","gloss":"to freeze","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"at","id":"Ojibwe_Odawa-437","language":"Ojibwe_Odawa","tokens":[{"form":"at","gloss":"state","UR":""},{"form":"at","gloss":"state","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"at","id":"Ojibwe_Odawa-438","language":"Ojibwe_Odawa","tokens":[{"form":"at","gloss":"freeze","UR":""},{"form":"at","gloss":"freeze","UR":""}],"UR":""}
@@ -447,7 +447,7 @@
 {"definition":"","displayLanguage":"Odawa","form":"aat·","id":"Ojibwe_Odawa-447","language":"Ojibwe_Odawa","tokens":[{"form":"ātt","gloss":"heated by sun","UR":""},{"form":"ātt","gloss":"heated by sun","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aat·","id":"Ojibwe_Odawa-448","language":"Ojibwe_Odawa","tokens":[{"form":"ātt","gloss":"sun's heat","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aat·","id":"Ojibwe_Odawa-449","language":"Ojibwe_Odawa","tokens":[{"form":"ātt","gloss":"solar/lunar energy","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"aat·awaa","id":"Ojibwe_Odawa-450","language":"Ojibwe_Odawa","tokens":[{"form":"āttawā","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"aat·awaa","id":"Ojibwe_Odawa-450","language":"Ojibwe_Odawa","tokens":[{"form":"āttawā","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aat·awaa-","id":"Ojibwe_Odawa-451","language":"Ojibwe_Odawa","tokens":[{"form":"āttawā","gloss":"right side up","UR":""},{"form":"āttawā-","gloss":"right side up","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"aw","id":"Ojibwe_Odawa-452","language":"Ojibwe_Odawa","tokens":[{"form":"aw","gloss":"by instrument","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"awa","id":"Ojibwe_Odawa-453","language":"Ojibwe_Odawa","tokens":[{"form":"awa","gloss":"by instrument","UR":""}],"UR":""}
@@ -488,7 +488,7 @@
 {"definition":"","displayLanguage":"Odawa","form":"piN","id":"Ojibwe_Odawa-488","language":"Ojibwe_Odawa","tokens":[{"form":"biN","gloss":"pull","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pis·k·-","id":"Ojibwe_Odawa-489","language":"Ojibwe_Odawa","tokens":[{"form":"bisk-","gloss":"fold","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"piso","id":"Ojibwe_Odawa-490","language":"Ojibwe_Odawa","tokens":[{"form":"bizo","gloss":"pull","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pm-","id":"Ojibwe_Odawa-491","language":"Ojibwe_Odawa","tokens":[{"form":"bm-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pm-","id":"Ojibwe_Odawa-491","language":"Ojibwe_Odawa","tokens":[{"form":"bm-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"po-","id":"Ojibwe_Odawa-492","language":"Ojibwe_Odawa","tokens":[{"form":"bo-","gloss":"saw","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pook·w-","id":"Ojibwe_Odawa-493","language":"Ojibwe_Odawa","tokens":[{"form":"bo:kw-","gloss":"be broken (stick-like things)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"poon-","id":"Ojibwe_Odawa-494","language":"Ojibwe_Odawa","tokens":[{"form":"bo:n-","gloss":"stop","UR":""}],"UR":""}
@@ -499,10 +499,10 @@
 {"definition":"","displayLanguage":"Odawa","form":"čaak","id":"Ojibwe_Odawa-499","language":"Ojibwe_Odawa","tokens":[{"form":"cāk","gloss":"completely","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"čii","id":"Ojibwe_Odawa-500","language":"Ojibwe_Odawa","tokens":[{"form":"cī","gloss":"3D differentiated","UR":""},{"form":"cī","gloss":"3D differentiated","UR":""},{"form":"cī","gloss":"3D differentiated","UR":""},{"form":"cī","gloss":"3D differentiated","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"čiinkw","id":"Ojibwe_Odawa-501","language":"Ojibwe_Odawa","tokens":[{"form":"cīnkw","gloss":"rumble","UR":""},{"form":"cīnkw","gloss":"rumble","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"čiišiwak","id":"Ojibwe_Odawa-502","language":"Ojibwe_Odawa","tokens":[{"form":"cīnkw","gloss":"NG","UR":""},{"form":"cīšiwak","gloss":"mud","UR":""},{"form":"cīškiwak","gloss":"mud","UR":""},{"form":"cīškiwak","gloss":"mud","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"čiišiwak","id":"Ojibwe_Odawa-502","language":"Ojibwe_Odawa","tokens":[{"form":"cīnkw","gloss":"","UR":""},{"form":"cīšiwak","gloss":"mud","UR":""},{"form":"cīškiwak","gloss":"mud","UR":""},{"form":"cīškiwak","gloss":"mud","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"čiwan","id":"Ojibwe_Odawa-503","language":"Ojibwe_Odawa","tokens":[{"form":"ciwan","gloss":"to flow as current","UR":""},{"form":"ciwan","gloss":"to flow as current","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"čurved, bent","id":"Ojibwe_Odawa-504","language":"Ojibwe_Odawa","tokens":[{"form":"curved, bent","gloss":"curved","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"t","id":"Ojibwe_Odawa-505","language":"Ojibwe_Odawa","tokens":[{"form":"d","gloss":"NG","UR":""},{"form":"d","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"t","id":"Ojibwe_Odawa-505","language":"Ojibwe_Odawa","tokens":[{"form":"d","gloss":"","UR":""},{"form":"d","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"taank-","id":"Ojibwe_Odawa-506","language":"Ojibwe_Odawa","tokens":[{"form":"da:ng-","gloss":"touch","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"taas·̌k·-","id":"Ojibwe_Odawa-507","language":"Ojibwe_Odawa","tokens":[{"form":"da:šk-","gloss":"in two, be (split) (in two)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"taaš·k·-","id":"Ojibwe_Odawa-508","language":"Ojibwe_Odawa","tokens":[{"form":"daashk-","gloss":"split","UR":""},{"form":"daashk-","gloss":"split","UR":""}],"UR":""}
@@ -516,15 +516,15 @@
 {"definition":"","displayLanguage":"Odawa","form":"tak·w-","id":"Ojibwe_Odawa-516","language":"Ojibwe_Odawa","tokens":[{"form":"dakw-","gloss":"be siezed","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"tak·w-","id":"Ojibwe_Odawa-517","language":"Ojibwe_Odawa","tokens":[{"form":"dakw-","gloss":"tight(ly)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"tawk·-","id":"Ojibwe_Odawa-518","language":"Ojibwe_Odawa","tokens":[{"form":"dawk-","gloss":"short","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"tee","id":"Ojibwe_Odawa-519","language":"Ojibwe_Odawa","tokens":[{"form":"de","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"tee","id":"Ojibwe_Odawa-519","language":"Ojibwe_Odawa","tokens":[{"form":"de","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"teew-","id":"Ojibwe_Odawa-520","language":"Ojibwe_Odawa","tokens":[{"form":"de:w-","gloss":"throb, ache","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ee","id":"Ojibwe_Odawa-521","language":"Ojibwe_Odawa","tokens":[{"form":"e","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ee","id":"Ojibwe_Odawa-522","language":"Ojibwe_Odawa","tokens":[{"form":"ē","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ee","id":"Ojibwe_Odawa-523","language":"Ojibwe_Odawa","tokens":[{"form":"ē","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ē","id":"Ojibwe_Odawa-524","language":"Ojibwe_Odawa","tokens":[{"form":"ē","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ee","id":"Ojibwe_Odawa-521","language":"Ojibwe_Odawa","tokens":[{"form":"e","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ee","id":"Ojibwe_Odawa-522","language":"Ojibwe_Odawa","tokens":[{"form":"ē","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ee","id":"Ojibwe_Odawa-523","language":"Ojibwe_Odawa","tokens":[{"form":"ē","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ē","id":"Ojibwe_Odawa-524","language":"Ojibwe_Odawa","tokens":[{"form":"ē","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ee","id":"Ojibwe_Odawa-525","language":"Ojibwe_Odawa","tokens":[{"form":"ē","gloss":"process","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"een(im)","id":"Ojibwe_Odawa-526","language":"Ojibwe_Odawa","tokens":[{"form":"e:n(im)","gloss":"think/use the mind","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"eeee","id":"Ojibwe_Odawa-527","language":"Ojibwe_Odawa","tokens":[{"form":"ee","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"eeee","id":"Ojibwe_Odawa-527","language":"Ojibwe_Odawa","tokens":[{"form":"ee","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"eek","id":"Ojibwe_Odawa-528","language":"Ojibwe_Odawa","tokens":[{"form":"ēk","gloss":"sheetlike","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"eentākosi","id":"Ojibwe_Odawa-529","language":"Ojibwe_Odawa","tokens":[{"form":"endāgozi","gloss":"by thought","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"eentākwat","id":"Ojibwe_Odawa-530","language":"Ojibwe_Odawa","tokens":[{"form":"endāgwad","gloss":"by thought","UR":""}],"UR":""}
@@ -565,13 +565,13 @@
 {"definition":"","displayLanguage":"Odawa","form":"h","id":"Ojibwe_Odawa-565","language":"Ojibwe_Odawa","tokens":[{"form":"h","gloss":"causing","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"h","id":"Ojibwe_Odawa-566","language":"Ojibwe_Odawa","tokens":[{"form":"h","gloss":"instrumental","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ha","id":"Ojibwe_Odawa-567","language":"Ojibwe_Odawa","tokens":[{"form":"ha","gloss":"flooded","UR":""},{"form":"ha","gloss":"flooded","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"i","id":"Ojibwe_Odawa-568","language":"Ojibwe_Odawa","tokens":[{"form":"i","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"i","id":"Ojibwe_Odawa-569","language":"Ojibwe_Odawa","tokens":[{"form":"i","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ǐ","id":"Ojibwe_Odawa-570","language":"Ojibwe_Odawa","tokens":[{"form":"ǐ","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"i","id":"Ojibwe_Odawa-568","language":"Ojibwe_Odawa","tokens":[{"form":"i","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"i","id":"Ojibwe_Odawa-569","language":"Ojibwe_Odawa","tokens":[{"form":"i","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ǐ","id":"Ojibwe_Odawa-570","language":"Ojibwe_Odawa","tokens":[{"form":"ǐ","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ii","id":"Ojibwe_Odawa-571","language":"Ojibwe_Odawa","tokens":[{"form":"ī","gloss":"movement processes","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ii","id":"Ojibwe_Odawa-572","language":"Ojibwe_Odawa","tokens":[{"form":"ī","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"i-","id":"Ojibwe_Odawa-573","language":"Ojibwe_Odawa","tokens":[{"form":"i-","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"it","id":"Ojibwe_Odawa-574","language":"Ojibwe_Odawa","tokens":[{"form":"id","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ii","id":"Ojibwe_Odawa-572","language":"Ojibwe_Odawa","tokens":[{"form":"ī","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"i-","id":"Ojibwe_Odawa-573","language":"Ojibwe_Odawa","tokens":[{"form":"i-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"it","id":"Ojibwe_Odawa-574","language":"Ojibwe_Odawa","tokens":[{"form":"id","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"itee","id":"Ojibwe_Odawa-575","language":"Ojibwe_Odawa","tokens":[{"form":"ide","gloss":"by heat","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ih","id":"Ojibwe_Odawa-576","language":"Ojibwe_Odawa","tokens":[{"form":"ih","gloss":"causing","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ih","id":"Ojibwe_Odawa-577","language":"Ojibwe_Odawa","tokens":[{"form":"ih","gloss":"cause","UR":""}],"UR":""}
@@ -583,21 +583,21 @@
 {"definition":"","displayLanguage":"Odawa","form":"iik","id":"Ojibwe_Odawa-583","language":"Ojibwe_Odawa","tokens":[{"form":"īk","gloss":"2D","UR":""},{"form":"īk","gloss":"2D","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ik·-","id":"Ojibwe_Odawa-584","language":"Ojibwe_Odawa","tokens":[{"form":"ik-","gloss":"on the body (specialized for wearing clothes)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ik·am","id":"Ojibwe_Odawa-585","language":"Ojibwe_Odawa","tokens":[{"form":"ikam","gloss":"on the body (specialized for wearing clothes)","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ikam","id":"Ojibwe_Odawa-586","language":"Ojibwe_Odawa","tokens":[{"form":"ikam","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ikam","id":"Ojibwe_Odawa-586","language":"Ojibwe_Odawa","tokens":[{"form":"ikam","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ik·aw","id":"Ojibwe_Odawa-587","language":"Ojibwe_Odawa","tokens":[{"form":"ikaw","gloss":"on the body (specialized for wearing clothes)","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ik·itoo","id":"Ojibwe_Odawa-588","language":"Ojibwe_Odawa","tokens":[{"form":"ikkitō","gloss":"NG","UR":""},{"form":"ikkitō","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ik·itoo","id":"Ojibwe_Odawa-588","language":"Ojibwe_Odawa","tokens":[{"form":"ikkitō","gloss":"","UR":""},{"form":"ikkitō","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ik·otaan","id":"Ojibwe_Odawa-589","language":"Ojibwe_Odawa","tokens":[{"form":"ikkotān","gloss":"to cut it","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ik·o-","id":"Ojibwe_Odawa-590","language":"Ojibwe_Odawa","tokens":[{"form":"iko-","gloss":"cut","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ik·otam","id":"Ojibwe_Odawa-591","language":"Ojibwe_Odawa","tokens":[{"form":"ikodam","gloss":"cut","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ik·oN","id":"Ojibwe_Odawa-592","language":"Ojibwe_Odawa","tokens":[{"form":"ikoN","gloss":"cut","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ǐm","id":"Ojibwe_Odawa-593","language":"Ojibwe_Odawa","tokens":[{"form":"ǐm","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ǐm","id":"Ojibwe_Odawa-593","language":"Ojibwe_Odawa","tokens":[{"form":"ǐm","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ǐm","id":"Ojibwe_Odawa-594","language":"Ojibwe_Odawa","tokens":[{"form":"ǐm","gloss":"speak","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ǐm-","id":"Ojibwe_Odawa-595","language":"Ojibwe_Odawa","tokens":[{"form":"im","gloss":"by speech","UR":""},{"form":"ǐm-","gloss":"by speech","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"imo","id":"Ojibwe_Odawa-596","language":"Ojibwe_Odawa","tokens":[{"form":"imo","gloss":"(agent) by speech","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"in","id":"Ojibwe_Odawa-597","language":"Ojibwe_Odawa","tokens":[{"form":"in","gloss":"thither","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"in","id":"Ojibwe_Odawa-598","language":"Ojibwe_Odawa","tokens":[{"form":"in","gloss":"NG","UR":""},{"form":"in","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"in","id":"Ojibwe_Odawa-598","language":"Ojibwe_Odawa","tokens":[{"form":"in","gloss":"","UR":""},{"form":"in","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"in","id":"Ojibwe_Odawa-599","language":"Ojibwe_Odawa","tokens":[{"form":"in","gloss":"by hand","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"in","id":"Ojibwe_Odawa-600","language":"Ojibwe_Odawa","tokens":[{"form":"in","gloss":"NG","UR":""},{"form":"in","gloss":"NG","UR":""},{"form":"in","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"in","id":"Ojibwe_Odawa-600","language":"Ojibwe_Odawa","tokens":[{"form":"in","gloss":"","UR":""},{"form":"in","gloss":"","UR":""},{"form":"in","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"in","id":"Ojibwe_Odawa-601","language":"Ojibwe_Odawa","tokens":[{"form":"in","gloss":"event","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"in-","id":"Ojibwe_Odawa-602","language":"Ojibwe_Odawa","tokens":[{"form":"in-","gloss":"by sight","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"in-","id":"Ojibwe_Odawa-603","language":"Ojibwe_Odawa","tokens":[{"form":"in-","gloss":"by hand","UR":""}],"UR":""}
@@ -662,30 +662,30 @@
 {"definition":"","displayLanguage":"Odawa","form":"k","id":"Ojibwe_Odawa-662","language":"Ojibwe_Odawa","tokens":[{"form":"k","gloss":"seep","UR":""},{"form":"k","gloss":"seep","UR":""},{"form":"k","gloss":"seep","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"k","id":"Ojibwe_Odawa-663","language":"Ojibwe_Odawa","tokens":[{"form":"k","gloss":"grow","UR":""},{"form":"k","gloss":"grow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"k","id":"Ojibwe_Odawa-664","language":"Ojibwe_Odawa","tokens":[{"form":"k","gloss":"to grow","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"kakaanwaak·o","id":"Ojibwe_Odawa-665","language":"Ojibwe_Odawa","tokens":[{"form":"kakānwākko","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"kakaanwaak·o","id":"Ojibwe_Odawa-665","language":"Ojibwe_Odawa","tokens":[{"form":"kakānwākko","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kami","id":"Ojibwe_Odawa-666","language":"Ojibwe_Odawa","tokens":[{"form":"kami","gloss":"[body of] liquid","UR":""},{"form":"kami","gloss":"(body of) liquid","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kami","id":"Ojibwe_Odawa-667","language":"Ojibwe_Odawa","tokens":[{"form":"kami","gloss":"liquid","UR":""},{"form":"kami","gloss":"liquid","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kaat","id":"Ojibwe_Odawa-668","language":"Ojibwe_Odawa","tokens":[{"form":"kāt","gloss":"to be done to","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kaat","id":"Ojibwe_Odawa-669","language":"Ojibwe_Odawa","tokens":[{"form":"kāt","gloss":"done to","UR":""},{"form":"kāt","gloss":"done to","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"kaat","id":"Ojibwe_Odawa-670","language":"Ojibwe_Odawa","tokens":[{"form":"kāt","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"kaat","id":"Ojibwe_Odawa-670","language":"Ojibwe_Odawa","tokens":[{"form":"kāt","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kaw","id":"Ojibwe_Odawa-671","language":"Ojibwe_Odawa","tokens":[{"form":"kaw","gloss":"to go over and down","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"kaw","id":"Ojibwe_Odawa-672","language":"Ojibwe_Odawa","tokens":[{"form":"kaw","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"k·ee-","id":"Ojibwe_Odawa-673","language":"Ojibwe_Odawa","tokens":[{"form":"ke-","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"kēsip","id":"Ojibwe_Odawa-674","language":"Ojibwe_Odawa","tokens":[{"form":"kēsip","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"kīk·āntī","id":"Ojibwe_Odawa-675","language":"Ojibwe_Odawa","tokens":[{"form":"kīkkāntī","gloss":"NG","UR":""},{"form":"kīkkāntī","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"kaw","id":"Ojibwe_Odawa-672","language":"Ojibwe_Odawa","tokens":[{"form":"kaw","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"k·ee-","id":"Ojibwe_Odawa-673","language":"Ojibwe_Odawa","tokens":[{"form":"ke-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"kēsip","id":"Ojibwe_Odawa-674","language":"Ojibwe_Odawa","tokens":[{"form":"kēsip","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"kīk·āntī","id":"Ojibwe_Odawa-675","language":"Ojibwe_Odawa","tokens":[{"form":"kīkkāntī","gloss":"","UR":""},{"form":"kīkkāntī","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kimiwan","id":"Ojibwe_Odawa-676","language":"Ojibwe_Odawa","tokens":[{"form":"kimiwan","gloss":"to rain","UR":""},{"form":"kimiwan","gloss":"to rain","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kimiwan","id":"Ojibwe_Odawa-677","language":"Ojibwe_Odawa","tokens":[{"form":"kimiwan","gloss":"be raining","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kiin","id":"Ojibwe_Odawa-678","language":"Ojibwe_Odawa","tokens":[{"form":"kīn","gloss":"sharp","UR":""},{"form":"kīn","gloss":"sharp","UR":""},{"form":"kīn","gloss":"sharp","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kinip","id":"Ojibwe_Odawa-679","language":"Ojibwe_Odawa","tokens":[{"form":"kinip","gloss":"quick","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"kinip","id":"Ojibwe_Odawa-680","language":"Ojibwe_Odawa","tokens":[{"form":"kinip","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"kinip","id":"Ojibwe_Odawa-680","language":"Ojibwe_Odawa","tokens":[{"form":"kinip","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kint","id":"Ojibwe_Odawa-681","language":"Ojibwe_Odawa","tokens":[{"form":"kint","gloss":"priced","UR":""},{"form":"kint","gloss":"priced","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kinw","id":"Ojibwe_Odawa-682","language":"Ojibwe_Odawa","tokens":[{"form":"kinw","gloss":"long","UR":""},{"form":"kinw","gloss":"long","UR":""},{"form":"kinw","gloss":"long","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"kinw","id":"Ojibwe_Odawa-683","language":"Ojibwe_Odawa","tokens":[{"form":"kinw","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"kinw","id":"Ojibwe_Odawa-683","language":"Ojibwe_Odawa","tokens":[{"form":"kinw","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kipook·","id":"Ojibwe_Odawa-684","language":"Ojibwe_Odawa","tokens":[{"form":"kipōkk","gloss":"damp","UR":""},{"form":"kipōkk","gloss":"damp","UR":""},{"form":"kipōkk","gloss":"damp","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"kipōk·","id":"Ojibwe_Odawa-685","language":"Ojibwe_Odawa","tokens":[{"form":"kipōkk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"kipōk·","id":"Ojibwe_Odawa-685","language":"Ojibwe_Odawa","tokens":[{"form":"kipōkk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kip·ak","id":"Ojibwe_Odawa-686","language":"Ojibwe_Odawa","tokens":[{"form":"kippak","gloss":"thick","UR":""},{"form":"kippak","gloss":"thick","UR":""},{"form":"kippak","gloss":"thick","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kiš","id":"Ojibwe_Odawa-687","language":"Ojibwe_Odawa","tokens":[{"form":"kiš","gloss":"hot","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"kiiš","id":"Ojibwe_Odawa-688","language":"Ojibwe_Odawa","tokens":[{"form":"kīš","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"kiiš","id":"Ojibwe_Odawa-688","language":"Ojibwe_Odawa","tokens":[{"form":"kīš","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kiišik","id":"Ojibwe_Odawa-689","language":"Ojibwe_Odawa","tokens":[{"form":"kīšik","gloss":"be day","UR":""},{"form":"kīšik","gloss":"be day","UR":""},{"form":"kīšik","gloss":"be day","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kiišik","id":"Ojibwe_Odawa-690","language":"Ojibwe_Odawa","tokens":[{"form":"kīšik","gloss":"day","UR":""},{"form":"kīšik","gloss":"day","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kīšik","id":"Ojibwe_Odawa-691","language":"Ojibwe_Odawa","tokens":[{"form":"kīšik","gloss":"day (meteorological event)","UR":""}],"UR":""}
@@ -696,7 +696,7 @@
 {"definition":"","displayLanguage":"Odawa","form":"k·","id":"Ojibwe_Odawa-696","language":"Ojibwe_Odawa","tokens":[{"form":"kk","gloss":"move by body or foot","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"k·","id":"Ojibwe_Odawa-697","language":"Ojibwe_Odawa","tokens":[{"form":"kk","gloss":"lots of","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"k·aat","id":"Ojibwe_Odawa-698","language":"Ojibwe_Odawa","tokens":[{"form":"kkāt","gloss":"thrown","UR":""},{"form":"kkāt","gloss":"thrown","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"k·o","id":"Ojibwe_Odawa-699","language":"Ojibwe_Odawa","tokens":[{"form":"kko","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"k·o","id":"Ojibwe_Odawa-699","language":"Ojibwe_Odawa","tokens":[{"form":"kko","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"k·ot","id":"Ojibwe_Odawa-700","language":"Ojibwe_Odawa","tokens":[{"form":"kkot","gloss":"cutting","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"k·ot","id":"Ojibwe_Odawa-701","language":"Ojibwe_Odawa","tokens":[{"form":"kkot","gloss":"be cut","UR":""},{"form":"kkot","gloss":"be cut","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"k·oot","id":"Ojibwe_Odawa-702","language":"Ojibwe_Odawa","tokens":[{"form":"kkōt","gloss":"caused to be","UR":""},{"form":"kkōt","gloss":"caused to be","UR":""}],"UR":""}
@@ -705,14 +705,14 @@
 {"definition":"","displayLanguage":"Odawa","form":"kosikw","id":"Ojibwe_Odawa-705","language":"Ojibwe_Odawa","tokens":[{"form":"kosikw","gloss":"heavy","UR":""},{"form":"kosikw","gloss":"heavy","UR":""},{"form":"kosikw","gloss":"heavy","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kotako","id":"Ojibwe_Odawa-706","language":"Ojibwe_Odawa","tokens":[{"form":"kotako","gloss":"roll","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"kweek·","id":"Ojibwe_Odawa-707","language":"Ojibwe_Odawa","tokens":[{"form":"kwēkk","gloss":"to change","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"kweek·","id":"Ojibwe_Odawa-708","language":"Ojibwe_Odawa","tokens":[{"form":"kwēkk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"kweek·","id":"Ojibwe_Odawa-708","language":"Ojibwe_Odawa","tokens":[{"form":"kwēkk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ma-","id":"Ojibwe_Odawa-709","language":"Ojibwe_Odawa","tokens":[{"form":"ma-","gloss":"by smell","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"maat-","id":"Ojibwe_Odawa-710","language":"Ojibwe_Odawa","tokens":[{"form":"ma:d-","gloss":"start","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"maačaa-","id":"Ojibwe_Odawa-711","language":"Ojibwe_Odawa","tokens":[{"form":"ma:ja:-","gloss":"away","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"maačiiw","id":"Ojibwe_Odawa-712","language":"Ojibwe_Odawa","tokens":[{"form":"mācīw","gloss":"NG","UR":""},{"form":"mācīw","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"maačiiw","id":"Ojibwe_Odawa-712","language":"Ojibwe_Odawa","tokens":[{"form":"mācīw","gloss":"","UR":""},{"form":"mācīw","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mākosi","id":"Ojibwe_Odawa-713","language":"Ojibwe_Odawa","tokens":[{"form":"māgozi","gloss":"by smell","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mākwat","id":"Ojibwe_Odawa-714","language":"Ojibwe_Odawa","tokens":[{"form":"māgwad","gloss":"by smell","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"mak","id":"Ojibwe_Odawa-715","language":"Ojibwe_Odawa","tokens":[{"form":"mak","gloss":"NG","UR":""},{"form":"mak","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"mak","id":"Ojibwe_Odawa-715","language":"Ojibwe_Odawa","tokens":[{"form":"mak","gloss":"","UR":""},{"form":"mak","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mak·ateew-","id":"Ojibwe_Odawa-716","language":"Ojibwe_Odawa","tokens":[{"form":"makade:w-","gloss":"black","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mak·atee","id":"Ojibwe_Odawa-717","language":"Ojibwe_Odawa","tokens":[{"form":"makkatē","gloss":"black","UR":""},{"form":"makkatē","gloss":"black","UR":""},{"form":"makkatē","gloss":"black","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"maakw","id":"Ojibwe_Odawa-718","language":"Ojibwe_Odawa","tokens":[{"form":"mākw","gloss":"smell","UR":""},{"form":"mākw","gloss":"smell","UR":""},{"form":"mākw","gloss":"smell","UR":""}],"UR":""}
@@ -726,14 +726,14 @@
 {"definition":"","displayLanguage":"Odawa","form":"mank-","id":"Ojibwe_Odawa-726","language":"Ojibwe_Odawa","tokens":[{"form":"mang-","gloss":"big","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mank-","id":"Ojibwe_Odawa-727","language":"Ojibwe_Odawa","tokens":[{"form":"mang-","gloss":"big","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mank","id":"Ojibwe_Odawa-728","language":"Ojibwe_Odawa","tokens":[{"form":"mank","gloss":"big","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"mank","id":"Ojibwe_Odawa-729","language":"Ojibwe_Odawa","tokens":[{"form":"mank","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"mank","id":"Ojibwe_Odawa-729","language":"Ojibwe_Odawa","tokens":[{"form":"mank","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mank-","id":"Ojibwe_Odawa-730","language":"Ojibwe_Odawa","tokens":[{"form":"mank-","gloss":"big","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mankatee","id":"Ojibwe_Odawa-731","language":"Ojibwe_Odawa","tokens":[{"form":"mankatē","gloss":"wide","UR":""},{"form":"mankatē","gloss":"wide","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mankitee","id":"Ojibwe_Odawa-732","language":"Ojibwe_Odawa","tokens":[{"form":"mankitē","gloss":"wide","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"maš·k·os·iiw","id":"Ojibwe_Odawa-733","language":"Ojibwe_Odawa","tokens":[{"form":"mashkosiiw","gloss":"green","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"maškaw","id":"Ojibwe_Odawa-734","language":"Ojibwe_Odawa","tokens":[{"form":"maškaw","gloss":"NG","UR":""},{"form":"maškaw","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"maškik·ii","id":"Ojibwe_Odawa-735","language":"Ojibwe_Odawa","tokens":[{"form":"maškikkī","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"māt","id":"Ojibwe_Odawa-736","language":"Ojibwe_Odawa","tokens":[{"form":"māt","gloss":"NG","UR":""},{"form":"māt","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"maškaw","id":"Ojibwe_Odawa-734","language":"Ojibwe_Odawa","tokens":[{"form":"maškaw","gloss":"","UR":""},{"form":"maškaw","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"maškik·ii","id":"Ojibwe_Odawa-735","language":"Ojibwe_Odawa","tokens":[{"form":"maškikkī","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"māt","id":"Ojibwe_Odawa-736","language":"Ojibwe_Odawa","tokens":[{"form":"māt","gloss":"","UR":""},{"form":"māt","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mič·","id":"Ojibwe_Odawa-737","language":"Ojibwe_Odawa","tokens":[{"form":"micc","gloss":"big","UR":""},{"form":"micc","gloss":"big","UR":""},{"form":"micc","gloss":"big","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"miiš·-","id":"Ojibwe_Odawa-738","language":"Ojibwe_Odawa","tokens":[{"form":"miish-","gloss":"hair","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"minak","id":"Ojibwe_Odawa-739","language":"Ojibwe_Odawa","tokens":[{"form":"minag","gloss":"berry, round thing","UR":""}],"UR":""}
@@ -741,12 +741,12 @@
 {"definition":"","displayLanguage":"Odawa","form":"minak","id":"Ojibwe_Odawa-741","language":"Ojibwe_Odawa","tokens":[{"form":"minak","gloss":"equi-dimensional object","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"minak","id":"Ojibwe_Odawa-742","language":"Ojibwe_Odawa","tokens":[{"form":"minak","gloss":"3D homogenous","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"minook·ami","id":"Ojibwe_Odawa-743","language":"Ojibwe_Odawa","tokens":[{"form":"minōkkami","gloss":"be spring","UR":""},{"form":"minōkkami","gloss":"be spring","UR":""},{"form":"minōkkami","gloss":"be spring","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"minw","id":"Ojibwe_Odawa-744","language":"Ojibwe_Odawa","tokens":[{"form":"minw","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"minw","id":"Ojibwe_Odawa-744","language":"Ojibwe_Odawa","tokens":[{"form":"minw","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"minw-","id":"Ojibwe_Odawa-745","language":"Ojibwe_Odawa","tokens":[{"form":"minw-","gloss":"good","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"minw-","id":"Ojibwe_Odawa-746","language":"Ojibwe_Odawa","tokens":[{"form":"minw-","gloss":"cooked","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mis·̌k·aw-","id":"Ojibwe_Odawa-747","language":"Ojibwe_Odawa","tokens":[{"form":"miškaw-","gloss":"firm","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mis·̌k·awat-","id":"Ojibwe_Odawa-748","language":"Ojibwe_Odawa","tokens":[{"form":"miškawad-","gloss":"frozen","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"miskopī","id":"Ojibwe_Odawa-749","language":"Ojibwe_Odawa","tokens":[{"form":"miskopī","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"miskopī","id":"Ojibwe_Odawa-749","language":"Ojibwe_Odawa","tokens":[{"form":"miskopī","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"miskw","id":"Ojibwe_Odawa-750","language":"Ojibwe_Odawa","tokens":[{"form":"miskw","gloss":"red","UR":""},{"form":"miskw","gloss":"red","UR":""},{"form":"miskw","gloss":"red","UR":""},{"form":"miskw","gloss":"red","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mis·k·w-","id":"Ojibwe_Odawa-751","language":"Ojibwe_Odawa","tokens":[{"form":"miskw-","gloss":"red","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mis·k·w-","id":"Ojibwe_Odawa-752","language":"Ojibwe_Odawa","tokens":[{"form":"miskw-","gloss":"be red","UR":""}],"UR":""}
@@ -756,8 +756,8 @@
 {"definition":"","displayLanguage":"Odawa","form":"mook·","id":"Ojibwe_Odawa-756","language":"Ojibwe_Odawa","tokens":[{"form":"mōkk","gloss":"come suddenly to","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mooškin","id":"Ojibwe_Odawa-757","language":"Ojibwe_Odawa","tokens":[{"form":"mōškin","gloss":"filled","UR":""},{"form":"mōškin","gloss":"filled","UR":""},{"form":"mōškin","gloss":"filled","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"mooskinee","id":"Ojibwe_Odawa-758","language":"Ojibwe_Odawa","tokens":[{"form":"mōskinē","gloss":"full","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ms·k·o-","id":"Ojibwe_Odawa-759","language":"Ojibwe_Odawa","tokens":[{"form":"msko-","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"N","id":"Ojibwe_Odawa-760","language":"Ojibwe_Odawa","tokens":[{"form":"N","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ms·k·o-","id":"Ojibwe_Odawa-759","language":"Ojibwe_Odawa","tokens":[{"form":"msko-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"N","id":"Ojibwe_Odawa-760","language":"Ojibwe_Odawa","tokens":[{"form":"N","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"naa-","id":"Ojibwe_Odawa-761","language":"Ojibwe_Odawa","tokens":[{"form":"na:-","gloss":"fetch","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"naap-","id":"Ojibwe_Odawa-762","language":"Ojibwe_Odawa","tokens":[{"form":"na:b-","gloss":"fit in/on","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"naank-","id":"Ojibwe_Odawa-763","language":"Ojibwe_Odawa","tokens":[{"form":"na:ng-","gloss":"light","UR":""}],"UR":""}
@@ -769,7 +769,7 @@
 {"definition":"","displayLanguage":"Odawa","form":"naakw","id":"Ojibwe_Odawa-769","language":"Ojibwe_Odawa","tokens":[{"form":"nākw","gloss":"look","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nākw","id":"Ojibwe_Odawa-770","language":"Ojibwe_Odawa","tokens":[{"form":"nākw","gloss":"look; appear","UR":""},{"form":"nākw","gloss":"look","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nak·wee-","id":"Ojibwe_Odawa-771","language":"Ojibwe_Odawa","tokens":[{"form":"nakwe-","gloss":"at crossroad","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"nānīs·","id":"Ojibwe_Odawa-772","language":"Ojibwe_Odawa","tokens":[{"form":"nānīss","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"nānīs·","id":"Ojibwe_Odawa-772","language":"Ojibwe_Odawa","tokens":[{"form":"nānīss","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"naank","id":"Ojibwe_Odawa-773","language":"Ojibwe_Odawa","tokens":[{"form":"nānk","gloss":"light","UR":""},{"form":"nānk","gloss":"light","UR":""},{"form":"nānk","gloss":"light","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nantakoot","id":"Ojibwe_Odawa-774","language":"Ojibwe_Odawa","tokens":[{"form":"nantakōt","gloss":"fall from a height","UR":""},{"form":"nantakōt","gloss":"fall from a height","UR":""},{"form":"nantakōt","gloss":"fall from a height","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"napak","id":"Ojibwe_Odawa-775","language":"Ojibwe_Odawa","tokens":[{"form":"napak","gloss":"flat","UR":""},{"form":"napak","gloss":"flat","UR":""},{"form":"napak","gloss":"flat","UR":""}],"UR":""}
@@ -778,11 +778,11 @@
 {"definition":"","displayLanguage":"Odawa","form":"naaw","id":"Ojibwe_Odawa-778","language":"Ojibwe_Odawa","tokens":[{"form":"nāw","gloss":"middle","UR":""},{"form":"nāw","gloss":"middle","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nawat-","id":"Ojibwe_Odawa-779","language":"Ojibwe_Odawa","tokens":[{"form":"nawad-","gloss":"grabbed","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"naawak·wee","id":"Ojibwe_Odawa-780","language":"Ojibwe_Odawa","tokens":[{"form":"nāwakkwē","gloss":"be noon","UR":""},{"form":"nāwakkwē","gloss":"be noon","UR":""},{"form":"nāwakkwē","gloss":"be noon","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"npee-","id":"Ojibwe_Odawa-781","language":"Ojibwe_Odawa","tokens":[{"form":"nbe-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"npee-","id":"Ojibwe_Odawa-781","language":"Ojibwe_Odawa","tokens":[{"form":"nbe-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"neekw-","id":"Ojibwe_Odawa-782","language":"Ojibwe_Odawa","tokens":[{"form":"ne:gw-","gloss":"be in/on","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"nēkaw","id":"Ojibwe_Odawa-783","language":"Ojibwe_Odawa","tokens":[{"form":"nēkaw","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"neekaw","id":"Ojibwe_Odawa-784","language":"Ojibwe_Odawa","tokens":[{"form":"nēkaw","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"neeko","id":"Ojibwe_Odawa-785","language":"Ojibwe_Odawa","tokens":[{"form":"nēko","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"nēkaw","id":"Ojibwe_Odawa-783","language":"Ojibwe_Odawa","tokens":[{"form":"nēkaw","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"neekaw","id":"Ojibwe_Odawa-784","language":"Ojibwe_Odawa","tokens":[{"form":"nēkaw","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"neeko","id":"Ojibwe_Odawa-785","language":"Ojibwe_Odawa","tokens":[{"form":"nēko","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"neekw","id":"Ojibwe_Odawa-786","language":"Ojibwe_Odawa","tokens":[{"form":"nēkw","gloss":"in, under","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"neekw-","id":"Ojibwe_Odawa-787","language":"Ojibwe_Odawa","tokens":[{"form":"nēkw-","gloss":"in, under","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"niimi-","id":"Ojibwe_Odawa-788","language":"Ojibwe_Odawa","tokens":[{"form":"ni:mi-","gloss":"dance","UR":""}],"UR":""}
@@ -797,30 +797,30 @@
 {"definition":"","displayLanguage":"Odawa","form":"niišw-","id":"Ojibwe_Odawa-797","language":"Ojibwe_Odawa","tokens":[{"form":"niizhw-","gloss":"two","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nik·aat","id":"Ojibwe_Odawa-798","language":"Ojibwe_Odawa","tokens":[{"form":"nikkāt","gloss":"called","UR":""},{"form":"nikkāt","gloss":"called","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"niinam","id":"Ojibwe_Odawa-799","language":"Ojibwe_Odawa","tokens":[{"form":"nīnam","gloss":"weak","UR":""},{"form":"nīnam","gloss":"weak","UR":""},{"form":"nīnam","gloss":"weak","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ninko","id":"Ojibwe_Odawa-800","language":"Ojibwe_Odawa","tokens":[{"form":"ninko","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"nipī","id":"Ojibwe_Odawa-801","language":"Ojibwe_Odawa","tokens":[{"form":"nipī","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"nipii","id":"Ojibwe_Odawa-802","language":"Ojibwe_Odawa","tokens":[{"form":"nipī","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ninko","id":"Ojibwe_Odawa-800","language":"Ojibwe_Odawa","tokens":[{"form":"ninko","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"nipī","id":"Ojibwe_Odawa-801","language":"Ojibwe_Odawa","tokens":[{"form":"nipī","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"nipii","id":"Ojibwe_Odawa-802","language":"Ojibwe_Odawa","tokens":[{"form":"nipī","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nipooteew","id":"Ojibwe_Odawa-803","language":"Ojibwe_Odawa","tokens":[{"form":"nipōtēw","gloss":"lonely","UR":""},{"form":"nipōtēw","gloss":"lonely","UR":""},{"form":"nipōtēw","gloss":"lonely","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nis·-","id":"Ojibwe_Odawa-804","language":"Ojibwe_Odawa","tokens":[{"form":"nis-","gloss":"loose","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"niišo","id":"Ojibwe_Odawa-805","language":"Ojibwe_Odawa","tokens":[{"form":"nīšo","gloss":"NG","UR":""},{"form":"nīšo","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"niišo","id":"Ojibwe_Odawa-805","language":"Ojibwe_Odawa","tokens":[{"form":"nīšo","gloss":"","UR":""},{"form":"nīšo","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"niis·","id":"Ojibwe_Odawa-806","language":"Ojibwe_Odawa","tokens":[{"form":"nīss","gloss":"down","UR":""},{"form":"nīss","gloss":"down","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"nis·aak·o","id":"Ojibwe_Odawa-807","language":"Ojibwe_Odawa","tokens":[{"form":"nissākko","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"nis·aak·o","id":"Ojibwe_Odawa-807","language":"Ojibwe_Odawa","tokens":[{"form":"nissākko","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nis·oot","id":"Ojibwe_Odawa-808","language":"Ojibwe_Odawa","tokens":[{"form":"nissōt","gloss":"trapped","UR":""},{"form":"nissōt","gloss":"trapped","UR":""},{"form":"nissōt","gloss":"trapped","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nis·w-","id":"Ojibwe_Odawa-809","language":"Ojibwe_Odawa","tokens":[{"form":"nisw-","gloss":"three","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"nit·am","id":"Ojibwe_Odawa-810","language":"Ojibwe_Odawa","tokens":[{"form":"nittam","gloss":"NG","UR":""},{"form":"nittam","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"nit·am","id":"Ojibwe_Odawa-810","language":"Ojibwe_Odawa","tokens":[{"form":"nittam","gloss":"","UR":""},{"form":"nittam","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nook·-","id":"Ojibwe_Odawa-811","language":"Ojibwe_Odawa","tokens":[{"form":"no:k-","gloss":"soft","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nook·","id":"Ojibwe_Odawa-812","language":"Ojibwe_Odawa","tokens":[{"form":"nōkk","gloss":"soft","UR":""},{"form":"nōkk","gloss":"soft","UR":""},{"form":"nōkk","gloss":"soft","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"nōk·","id":"Ojibwe_Odawa-813","language":"Ojibwe_Odawa","tokens":[{"form":"nōkk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"nōk·","id":"Ojibwe_Odawa-813","language":"Ojibwe_Odawa","tokens":[{"form":"nōkk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"nootin","id":"Ojibwe_Odawa-814","language":"Ojibwe_Odawa","tokens":[{"form":"nōtin","gloss":"windy","UR":""},{"form":"nōtin","gloss":"windy","UR":""},{"form":"nōtin","gloss":"windy","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"o","id":"Ojibwe_Odawa-815","language":"Ojibwe_Odawa","tokens":[{"form":"o","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"o","id":"Ojibwe_Odawa-815","language":"Ojibwe_Odawa","tokens":[{"form":"o","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"oonak","id":"Ojibwe_Odawa-816","language":"Ojibwe_Odawa","tokens":[{"form":"o:nag","gloss":"canoe, boat","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"otaap·-","id":"Ojibwe_Odawa-817","language":"Ojibwe_Odawa","tokens":[{"form":"oda:p-","gloss":"picked up","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"otam","id":"Ojibwe_Odawa-818","language":"Ojibwe_Odawa","tokens":[{"form":"odam","gloss":"by speech","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ōm","id":"Ojibwe_Odawa-819","language":"Ojibwe_Odawa","tokens":[{"form":"ōm","gloss":"carry on the back","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ōm-","id":"Ojibwe_Odawa-820","language":"Ojibwe_Odawa","tokens":[{"form":"ōm-","gloss":"carry on the back","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ompw-","id":"Ojibwe_Odawa-821","language":"Ojibwe_Odawa","tokens":[{"form":"ombw-","gloss":"up(ward)","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"omōtay","id":"Ojibwe_Odawa-822","language":"Ojibwe_Odawa","tokens":[{"form":"omōtay","gloss":"NG","UR":""},{"form":"omōtay","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"omp","id":"Ojibwe_Odawa-823","language":"Ojibwe_Odawa","tokens":[{"form":"omp","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"omōtay","id":"Ojibwe_Odawa-822","language":"Ojibwe_Odawa","tokens":[{"form":"omōtay","gloss":"","UR":""},{"form":"omōtay","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"omp","id":"Ojibwe_Odawa-823","language":"Ojibwe_Odawa","tokens":[{"form":"omp","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"onaa","id":"Ojibwe_Odawa-824","language":"Ojibwe_Odawa","tokens":[{"form":"onā","gloss":"level","UR":""},{"form":"onā-","gloss":"level","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"onaakoš·i","id":"Ojibwe_Odawa-825","language":"Ojibwe_Odawa","tokens":[{"form":"onākošši","gloss":"be evening","UR":""},{"form":"onākošši","gloss":"be evening","UR":""},{"form":"onākošši","gloss":"be evening","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"onč","id":"Ojibwe_Odawa-826","language":"Ojibwe_Odawa","tokens":[{"form":"onc","gloss":"a certain place","UR":""},{"form":"onc-","gloss":"a certain place","UR":""}],"UR":""}
@@ -828,25 +828,25 @@
 {"definition":"","displayLanguage":"Odawa","form":"ōntam","id":"Ojibwe_Odawa-828","language":"Ojibwe_Odawa","tokens":[{"form":"ōndam","gloss":"carry on the back","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"onišiš·","id":"Ojibwe_Odawa-829","language":"Ojibwe_Odawa","tokens":[{"form":"onišišš","gloss":"fine","UR":""},{"form":"onišišš","gloss":"fine, good","UR":""},{"form":"onišišš","gloss":"fine","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ont","id":"Ojibwe_Odawa-830","language":"Ojibwe_Odawa","tokens":[{"form":"ont","gloss":"boil","UR":""},{"form":"ont","gloss":"boil","UR":""},{"form":"ont","gloss":"boil","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ont","id":"Ojibwe_Odawa-831","language":"Ojibwe_Odawa","tokens":[{"form":"ont","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ont","id":"Ojibwe_Odawa-831","language":"Ojibwe_Odawa","tokens":[{"form":"ont","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"osaaw","id":"Ojibwe_Odawa-832","language":"Ojibwe_Odawa","tokens":[{"form":"osāw","gloss":"brown/yellow","UR":""},{"form":"osāw","gloss":"brown/yellow","UR":""},{"form":"osāw","gloss":"brown/yellow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ošaawaškw","id":"Ojibwe_Odawa-833","language":"Ojibwe_Odawa","tokens":[{"form":"ošāwaškw","gloss":"blue/green","UR":""},{"form":"ošāwaškw","gloss":"blue/green","UR":""},{"form":"ošāwaškw","gloss":"blue/green","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"ošipiihi","id":"Ojibwe_Odawa-834","language":"Ojibwe_Odawa","tokens":[{"form":"ošipīhi","gloss":"NG","UR":""},{"form":"ošipīhi","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"ošipiihi","id":"Ojibwe_Odawa-834","language":"Ojibwe_Odawa","tokens":[{"form":"ošipīhi","gloss":"","UR":""},{"form":"ošipīhi","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"oškin","id":"Ojibwe_Odawa-835","language":"Ojibwe_Odawa","tokens":[{"form":"oškin","gloss":"filled","UR":""},{"form":"oškin","gloss":"filled","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"osaam-","id":"Ojibwe_Odawa-836","language":"Ojibwe_Odawa","tokens":[{"form":"oza:m-","gloss":"too much","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"ošaawaš·k·w-","id":"Ojibwe_Odawa-837","language":"Ojibwe_Odawa","tokens":[{"form":"ozhaawashkw-","gloss":"blue, green","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pak","id":"Ojibwe_Odawa-838","language":"Ojibwe_Odawa","tokens":[{"form":"pak","gloss":"leaf","UR":""},{"form":"pak","gloss":"leaf","UR":""},{"form":"pak","gloss":"leaf","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"paak","id":"Ojibwe_Odawa-839","language":"Ojibwe_Odawa","tokens":[{"form":"pāk","gloss":"to swell","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"paak","id":"Ojibwe_Odawa-840","language":"Ojibwe_Odawa","tokens":[{"form":"pāk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"paak","id":"Ojibwe_Odawa-840","language":"Ojibwe_Odawa","tokens":[{"form":"pāk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pakam","id":"Ojibwe_Odawa-841","language":"Ojibwe_Odawa","tokens":[{"form":"pakam","gloss":"begin to storm < arrive","UR":""},{"form":"pakam","gloss":"begin to storm, arrive","UR":""},{"form":"pakam","gloss":"begin to storm, arrive","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pakaškan","id":"Ojibwe_Odawa-842","language":"Ojibwe_Odawa","tokens":[{"form":"pakaškan","gloss":"rotten","UR":""},{"form":"pakaškan","gloss":"rotten","UR":""},{"form":"pakaškan","gloss":"rotten","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"paak·","id":"Ojibwe_Odawa-843","language":"Ojibwe_Odawa","tokens":[{"form":"pākk","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"paak·","id":"Ojibwe_Odawa-844","language":"Ojibwe_Odawa","tokens":[{"form":"pākk","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pak·o","id":"Ojibwe_Odawa-845","language":"Ojibwe_Odawa","tokens":[{"form":"pakko","gloss":"NG","UR":""},{"form":"pakko","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"paak·","id":"Ojibwe_Odawa-843","language":"Ojibwe_Odawa","tokens":[{"form":"pākk","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"paak·","id":"Ojibwe_Odawa-844","language":"Ojibwe_Odawa","tokens":[{"form":"pākk","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pak·o","id":"Ojibwe_Odawa-845","language":"Ojibwe_Odawa","tokens":[{"form":"pakko","gloss":"","UR":""},{"form":"pakko","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pak·opii","id":"Ojibwe_Odawa-846","language":"Ojibwe_Odawa","tokens":[{"form":"pakkopī","gloss":"extend","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"paako","id":"Ojibwe_Odawa-847","language":"Ojibwe_Odawa","tokens":[{"form":"pāko","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"paako","id":"Ojibwe_Odawa-847","language":"Ojibwe_Odawa","tokens":[{"form":"pāko","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pakonee","id":"Ojibwe_Odawa-848","language":"Ojibwe_Odawa","tokens":[{"form":"pakonē","gloss":"having a hole","UR":""},{"form":"pakonē","gloss":"having a hole","UR":""},{"form":"pakonē","gloss":"having a hole","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pakonē","id":"Ojibwe_Odawa-849","language":"Ojibwe_Odawa","tokens":[{"form":"pakonē","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pakonē","id":"Ojibwe_Odawa-849","language":"Ojibwe_Odawa","tokens":[{"form":"pakonē","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pank","id":"Ojibwe_Odawa-850","language":"Ojibwe_Odawa","tokens":[{"form":"pank","gloss":"still out < fall","UR":""},{"form":"pank","gloss":"still out, fall","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pank","id":"Ojibwe_Odawa-851","language":"Ojibwe_Odawa","tokens":[{"form":"pank","gloss":"go down","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pankan","id":"Ojibwe_Odawa-852","language":"Ojibwe_Odawa","tokens":[{"form":"pankan","gloss":"still out","UR":""}],"UR":""}
@@ -854,35 +854,35 @@
 {"definition":"","displayLanguage":"Odawa","form":"papiiw","id":"Ojibwe_Odawa-854","language":"Ojibwe_Odawa","tokens":[{"form":"papīw","gloss":"small (pl.)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"paap·iiw","id":"Ojibwe_Odawa-855","language":"Ojibwe_Odawa","tokens":[{"form":"pāppīw","gloss":"to scatter bits","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pasakw","id":"Ojibwe_Odawa-856","language":"Ojibwe_Odawa","tokens":[{"form":"pasakw","gloss":"sticky","UR":""},{"form":"pasakw","gloss":"sticky","UR":""},{"form":"pasakw","gloss":"sticky","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pasakw","id":"Ojibwe_Odawa-857","language":"Ojibwe_Odawa","tokens":[{"form":"pasakw","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pāšk","id":"Ojibwe_Odawa-858","language":"Ojibwe_Odawa","tokens":[{"form":"pāšk","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"paašk","id":"Ojibwe_Odawa-859","language":"Ojibwe_Odawa","tokens":[{"form":"pāšk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pasakw","id":"Ojibwe_Odawa-857","language":"Ojibwe_Odawa","tokens":[{"form":"pasakw","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pāšk","id":"Ojibwe_Odawa-858","language":"Ojibwe_Odawa","tokens":[{"form":"pāšk","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"paašk","id":"Ojibwe_Odawa-859","language":"Ojibwe_Odawa","tokens":[{"form":"pāšk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"paat·","id":"Ojibwe_Odawa-860","language":"Ojibwe_Odawa","tokens":[{"form":"pātt","gloss":"dried","UR":""},{"form":"pātt","gloss":"dried","UR":""},{"form":"pātt","gloss":"dried","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"paat·iin","id":"Ojibwe_Odawa-861","language":"Ojibwe_Odawa","tokens":[{"form":"pāttīn","gloss":"many","UR":""},{"form":"pāttīn","gloss":"many","UR":""},{"form":"pāttīn","gloss":"many","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"peeš·ow","id":"Ojibwe_Odawa-862","language":"Ojibwe_Odawa","tokens":[{"form":"pēššow","gloss":"near","UR":""},{"form":"pēššow","gloss":"near","UR":""},{"form":"pēššow","gloss":"near","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pii","id":"Ojibwe_Odawa-863","language":"Ojibwe_Odawa","tokens":[{"form":"pī","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pīč","id":"Ojibwe_Odawa-864","language":"Ojibwe_Odawa","tokens":[{"form":"pīc","gloss":"NG","UR":""},{"form":"pīc","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pīko","id":"Ojibwe_Odawa-865","language":"Ojibwe_Odawa","tokens":[{"form":"pīko","gloss":"NG","UR":""},{"form":"pīko","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pii","id":"Ojibwe_Odawa-863","language":"Ojibwe_Odawa","tokens":[{"form":"pī","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pīč","id":"Ojibwe_Odawa-864","language":"Ojibwe_Odawa","tokens":[{"form":"pīc","gloss":"","UR":""},{"form":"pīc","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pīko","id":"Ojibwe_Odawa-865","language":"Ojibwe_Odawa","tokens":[{"form":"pīko","gloss":"","UR":""},{"form":"pīko","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pim","id":"Ojibwe_Odawa-866","language":"Ojibwe_Odawa","tokens":[{"form":"pim","gloss":"along","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pīmisko","id":"Ojibwe_Odawa-867","language":"Ojibwe_Odawa","tokens":[{"form":"pīmisko","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"piimiskošk","id":"Ojibwe_Odawa-868","language":"Ojibwe_Odawa","tokens":[{"form":"pīmiskošk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pīmisko","id":"Ojibwe_Odawa-867","language":"Ojibwe_Odawa","tokens":[{"form":"pīmisko","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"piimiskošk","id":"Ojibwe_Odawa-868","language":"Ojibwe_Odawa","tokens":[{"form":"pīmiskošk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"piin","id":"Ojibwe_Odawa-869","language":"Ojibwe_Odawa","tokens":[{"form":"pīn","gloss":"clean","UR":""},{"form":"pīn","gloss":"clean","UR":""},{"form":"pīn","gloss":"clean","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pīn","id":"Ojibwe_Odawa-870","language":"Ojibwe_Odawa","tokens":[{"form":"pīn","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pīn","id":"Ojibwe_Odawa-870","language":"Ojibwe_Odawa","tokens":[{"form":"pīn","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"piint","id":"Ojibwe_Odawa-871","language":"Ojibwe_Odawa","tokens":[{"form":"pīnt","gloss":"enclosed","UR":""},{"form":"pīnt","gloss":"enclosed","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"piint","id":"Ojibwe_Odawa-872","language":"Ojibwe_Odawa","tokens":[{"form":"pīnt","gloss":"inside","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pipoon","id":"Ojibwe_Odawa-873","language":"Ojibwe_Odawa","tokens":[{"form":"pipōn","gloss":"be winter","UR":""},{"form":"pipōn","gloss":"be winter","UR":""},{"form":"pipōn","gloss":"be winter","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pipoonak","id":"Ojibwe_Odawa-874","language":"Ojibwe_Odawa","tokens":[{"form":"pipōnak","gloss":"years","UR":""},{"form":"pipōnak","gloss":"years","UR":""},{"form":"pipōnak","gloss":"years","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pišiš·iko","id":"Ojibwe_Odawa-875","language":"Ojibwe_Odawa","tokens":[{"form":"pišiššiko","gloss":"NG","UR":""},{"form":"pišiššiko","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pišiš·iko","id":"Ojibwe_Odawa-875","language":"Ojibwe_Odawa","tokens":[{"form":"pišiššiko","gloss":"","UR":""},{"form":"pišiššiko","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pisk","id":"Ojibwe_Odawa-876","language":"Ojibwe_Odawa","tokens":[{"form":"pisk","gloss":"back","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pisk","id":"Ojibwe_Odawa-877","language":"Ojibwe_Odawa","tokens":[{"form":"pisk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pisk","id":"Ojibwe_Odawa-877","language":"Ojibwe_Odawa","tokens":[{"form":"pisk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"piskan","id":"Ojibwe_Odawa-878","language":"Ojibwe_Odawa","tokens":[{"form":"piskan","gloss":"catch fire","UR":""},{"form":"piskan","gloss":"catch fire","UR":""},{"form":"piskan","gloss":"catch fire","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"piskan","id":"Ojibwe_Odawa-879","language":"Ojibwe_Odawa","tokens":[{"form":"piskan","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"piskan","id":"Ojibwe_Odawa-879","language":"Ojibwe_Odawa","tokens":[{"form":"piskan","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"piis·","id":"Ojibwe_Odawa-880","language":"Ojibwe_Odawa","tokens":[{"form":"pīss","gloss":"in bits","UR":""},{"form":"pīss","gloss":"in bits","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"piis·","id":"Ojibwe_Odawa-881","language":"Ojibwe_Odawa","tokens":[{"form":"pīss","gloss":"to rain","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"pit","id":"Ojibwe_Odawa-882","language":"Ojibwe_Odawa","tokens":[{"form":"pit","gloss":"move","UR":""},{"form":"pit","gloss":"move","UR":""},{"form":"pit","gloss":"move","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"piit·oo","id":"Ojibwe_Odawa-883","language":"Ojibwe_Odawa","tokens":[{"form":"pīttō","gloss":"double","UR":""},{"form":"pīttō","gloss":"double","UR":""},{"form":"pīttō","gloss":"double","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"pīt·ō","id":"Ojibwe_Odawa-884","language":"Ojibwe_Odawa","tokens":[{"form":"pīttō","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"poon","id":"Ojibwe_Odawa-885","language":"Ojibwe_Odawa","tokens":[{"form":"pōn","gloss":"NG","UR":""},{"form":"pōn","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"pīt·ō","id":"Ojibwe_Odawa-884","language":"Ojibwe_Odawa","tokens":[{"form":"pīttō","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"poon","id":"Ojibwe_Odawa-885","language":"Ojibwe_Odawa","tokens":[{"form":"pōn","gloss":"","UR":""},{"form":"pōn","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"p·it","id":"Ojibwe_Odawa-886","language":"Ojibwe_Odawa","tokens":[{"form":"ppit","gloss":"tied","UR":""},{"form":"ppit","gloss":"tied","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"p·o","id":"Ojibwe_Odawa-887","language":"Ojibwe_Odawa","tokens":[{"form":"ppo","gloss":"to snow","UR":""},{"form":"ppo","gloss":"to snow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"p·okw","id":"Ojibwe_Odawa-888","language":"Ojibwe_Odawa","tokens":[{"form":"ppokw","gloss":"taste","UR":""},{"form":"ppokw","gloss":"taste","UR":""}],"UR":""}
@@ -891,53 +891,53 @@
 {"definition":"","displayLanguage":"Odawa","form":"s·","id":"Ojibwe_Odawa-891","language":"Ojibwe_Odawa","tokens":[{"form":"s","gloss":"blow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"s·-","id":"Ojibwe_Odawa-892","language":"Ojibwe_Odawa","tokens":[{"form":"s-","gloss":"place","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"sak","id":"Ojibwe_Odawa-893","language":"Ojibwe_Odawa","tokens":[{"form":"sak","gloss":"connected","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"saak","id":"Ojibwe_Odawa-894","language":"Ojibwe_Odawa","tokens":[{"form":"sāk","gloss":"NG","UR":""},{"form":"sāk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"saak","id":"Ojibwe_Odawa-894","language":"Ojibwe_Odawa","tokens":[{"form":"sāk","gloss":"","UR":""},{"form":"sāk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"saakit","id":"Ojibwe_Odawa-895","language":"Ojibwe_Odawa","tokens":[{"form":"sākit","gloss":"come out","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"saakit","id":"Ojibwe_Odawa-896","language":"Ojibwe_Odawa","tokens":[{"form":"sākit","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"saakit","id":"Ojibwe_Odawa-896","language":"Ojibwe_Odawa","tokens":[{"form":"sākit","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"šak·","id":"Ojibwe_Odawa-897","language":"Ojibwe_Odawa","tokens":[{"form":"šakk","gloss":"damp","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"šak·","id":"Ojibwe_Odawa-898","language":"Ojibwe_Odawa","tokens":[{"form":"šakk","gloss":"NG","UR":""},{"form":"šakk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"šak·","id":"Ojibwe_Odawa-898","language":"Ojibwe_Odawa","tokens":[{"form":"šakk","gloss":"","UR":""},{"form":"šakk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"sanak","id":"Ojibwe_Odawa-899","language":"Ojibwe_Odawa","tokens":[{"form":"sanak","gloss":"difficult","UR":""},{"form":"sanak","gloss":"difficult","UR":""},{"form":"sanak","gloss":"difficult","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"sanak","id":"Ojibwe_Odawa-900","language":"Ojibwe_Odawa","tokens":[{"form":"sanak","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"šaš·","id":"Ojibwe_Odawa-901","language":"Ojibwe_Odawa","tokens":[{"form":"šašš","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"sanak","id":"Ojibwe_Odawa-900","language":"Ojibwe_Odawa","tokens":[{"form":"sanak","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"šaš·","id":"Ojibwe_Odawa-901","language":"Ojibwe_Odawa","tokens":[{"form":"šašš","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"šaaš·","id":"Ojibwe_Odawa-902","language":"Ojibwe_Odawa","tokens":[{"form":"šašš","gloss":"slip","UR":""},{"form":"šāšš","gloss":"slip","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"sas·wē","id":"Ojibwe_Odawa-903","language":"Ojibwe_Odawa","tokens":[{"form":"sasswē","gloss":"NG","UR":""},{"form":"sasswē","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"sas·wē","id":"Ojibwe_Odawa-903","language":"Ojibwe_Odawa","tokens":[{"form":"sasswē","gloss":"","UR":""},{"form":"sasswē","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"s·itō","id":"Ojibwe_Odawa-904","language":"Ojibwe_Odawa","tokens":[{"form":"sidō","gloss":"place","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"siik","id":"Ojibwe_Odawa-905","language":"Ojibwe_Odawa","tokens":[{"form":"sīk","gloss":"wrinkled","UR":""},{"form":"sīk","gloss":"wrinkled","UR":""},{"form":"sīk","gloss":"wrinkled","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"siik","id":"Ojibwe_Odawa-906","language":"Ojibwe_Odawa","tokens":[{"form":"sīk","gloss":"pour","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"siik","id":"Ojibwe_Odawa-907","language":"Ojibwe_Odawa","tokens":[{"form":"sīk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"siik","id":"Ojibwe_Odawa-907","language":"Ojibwe_Odawa","tokens":[{"form":"sīk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"s·̌im","id":"Ojibwe_Odawa-908","language":"Ojibwe_Odawa","tokens":[{"form":"šim","gloss":"place","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"s·in","id":"Ojibwe_Odawa-909","language":"Ojibwe_Odawa","tokens":[{"form":"sin","gloss":"place","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"s·̌in","id":"Ojibwe_Odawa-910","language":"Ojibwe_Odawa","tokens":[{"form":"šin","gloss":"place","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"šīpā","id":"Ojibwe_Odawa-911","language":"Ojibwe_Odawa","tokens":[{"form":"šīpā","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"siit·aakan","id":"Ojibwe_Odawa-912","language":"Ojibwe_Odawa","tokens":[{"form":"sīttākan","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"šīpā","id":"Ojibwe_Odawa-911","language":"Ojibwe_Odawa","tokens":[{"form":"šīpā","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"siit·aakan","id":"Ojibwe_Odawa-912","language":"Ojibwe_Odawa","tokens":[{"form":"sīttākan","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"siiw","id":"Ojibwe_Odawa-913","language":"Ojibwe_Odawa","tokens":[{"form":"sīw","gloss":"sour","UR":""},{"form":"sīw","gloss":"sour","UR":""},{"form":"sīw","gloss":"sour","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"sīw","id":"Ojibwe_Odawa-914","language":"Ojibwe_Odawa","tokens":[{"form":"sīw","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"sīw","id":"Ojibwe_Odawa-914","language":"Ojibwe_Odawa","tokens":[{"form":"sīw","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"šk","id":"Ojibwe_Odawa-915","language":"Ojibwe_Odawa","tokens":[{"form":"šk","gloss":"moved in configuration","UR":""},{"form":"šk","gloss":"moved in configuration","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"šk","id":"Ojibwe_Odawa-916","language":"Ojibwe_Odawa","tokens":[{"form":"šk","gloss":"to be in a configuration as a result of movement","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"šk","id":"Ojibwe_Odawa-917","language":"Ojibwe_Odawa","tokens":[{"form":"šk","gloss":"moved by body or foot","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"škot","id":"Ojibwe_Odawa-918","language":"Ojibwe_Odawa","tokens":[{"form":"škot","gloss":"caused to be by body/foot","UR":""},{"form":"škōt","gloss":"caused to be by body/foot","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"soonk","id":"Ojibwe_Odawa-919","language":"Ojibwe_Odawa","tokens":[{"form":"sōnk","gloss":"strong","UR":""},{"form":"sōnk","gloss":"strong","UR":""},{"form":"sōnk","gloss":"strong","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"šop","id":"Ojibwe_Odawa-920","language":"Ojibwe_Odawa","tokens":[{"form":"šop","gloss":"NG","UR":""},{"form":"šōp","gloss":"NG","UR":""},{"form":"šōp","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"šop","id":"Ojibwe_Odawa-920","language":"Ojibwe_Odawa","tokens":[{"form":"šop","gloss":"","UR":""},{"form":"šōp","gloss":"","UR":""},{"form":"šōp","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"šooškw","id":"Ojibwe_Odawa-921","language":"Ojibwe_Odawa","tokens":[{"form":"šoškw","gloss":"smooth","UR":""},{"form":"šōškw","gloss":"smooth","UR":""},{"form":"šōškw","gloss":"smooth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"s·","id":"Ojibwe_Odawa-922","language":"Ojibwe_Odawa","tokens":[{"form":"ss","gloss":"becoming","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"s·","id":"Ojibwe_Odawa-923","language":"Ojibwe_Odawa","tokens":[{"form":"ss","gloss":"become","UR":""},{"form":"ss","gloss":"become","UR":""},{"form":"ss","gloss":"become","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"s·ak","id":"Ojibwe_Odawa-924","language":"Ojibwe_Odawa","tokens":[{"form":"ssak","gloss":"processed, wood","UR":""},{"form":"ssak","gloss":"processed wood","UR":""},{"form":"ssak","gloss":"processed wood","UR":""},{"form":"ssak","gloss":"processed wood","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"t","id":"Ojibwe_Odawa-925","language":"Ojibwe_Odawa","tokens":[{"form":"t","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"t","id":"Ojibwe_Odawa-925","language":"Ojibwe_Odawa","tokens":[{"form":"t","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"tak·","id":"Ojibwe_Odawa-926","language":"Ojibwe_Odawa","tokens":[{"form":"takk","gloss":"cold","UR":""},{"form":"takk","gloss":"cold","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"tak·","id":"Ojibwe_Odawa-927","language":"Ojibwe_Odawa","tokens":[{"form":"takk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"tak·","id":"Ojibwe_Odawa-927","language":"Ojibwe_Odawa","tokens":[{"form":"takk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"tak·ee","id":"Ojibwe_Odawa-928","language":"Ojibwe_Odawa","tokens":[{"form":"takkē","gloss":"cool weather","UR":""},{"form":"takkē","gloss":"cool weather","UR":""},{"form":"takkē","gloss":"cool weather","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"tak·w","id":"Ojibwe_Odawa-929","language":"Ojibwe_Odawa","tokens":[{"form":"takkw","gloss":"short","UR":""},{"form":"takkw","gloss":"short","UR":""},{"form":"takkw","gloss":"short","UR":""},{"form":"takkw","gloss":"short","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"tako","id":"Ojibwe_Odawa-930","language":"Ojibwe_Odawa","tokens":[{"form":"tako","gloss":"be permanently at","UR":""},{"form":"tako","gloss":"be permanently at","UR":""},{"form":"tako","gloss":"be permanently at","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"tako","id":"Ojibwe_Odawa-931","language":"Ojibwe_Odawa","tokens":[{"form":"tako","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"tako","id":"Ojibwe_Odawa-931","language":"Ojibwe_Odawa","tokens":[{"form":"tako","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"tako","id":"Ojibwe_Odawa-932","language":"Ojibwe_Odawa","tokens":[{"form":"tako","gloss":"be in a place naturally or permanently","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"takos·","id":"Ojibwe_Odawa-933","language":"Ojibwe_Odawa","tokens":[{"form":"takoss","gloss":"arrive","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"takw","id":"Ojibwe_Odawa-934","language":"Ojibwe_Odawa","tokens":[{"form":"takw","gloss":"with","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"tap·-","id":"Ojibwe_Odawa-935","language":"Ojibwe_Odawa","tokens":[{"form":"tapp","gloss":"through an opening","UR":""},{"form":"tapp","gloss":"through an opening","UR":""},{"form":"tapp-","gloss":"through an opening","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"teet·eewaak·ohi","id":"Ojibwe_Odawa-936","language":"Ojibwe_Odawa","tokens":[{"form":"tēttēwākkohi","gloss":"NG","UR":""},{"form":"tēttēwākkohi","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"teet·eewaak·ohi","id":"Ojibwe_Odawa-936","language":"Ojibwe_Odawa","tokens":[{"form":"tēttēwākkohi","gloss":"","UR":""},{"form":"tēttēwākkohi","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"tipik·","id":"Ojibwe_Odawa-937","language":"Ojibwe_Odawa","tokens":[{"form":"tipikk","gloss":"be night","UR":""},{"form":"tipikk","gloss":"be night","UR":""},{"form":"tipikk","gloss":"","UR":""},{"form":"tipikk","gloss":"be night","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"tipisko","id":"Ojibwe_Odawa-938","language":"Ojibwe_Odawa","tokens":[{"form":"tipisko","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"tipiškoo","id":"Ojibwe_Odawa-939","language":"Ojibwe_Odawa","tokens":[{"form":"tipiškō","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"tit·ip","id":"Ojibwe_Odawa-940","language":"Ojibwe_Odawa","tokens":[{"form":"tittip","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"tipisko","id":"Ojibwe_Odawa-938","language":"Ojibwe_Odawa","tokens":[{"form":"tipisko","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"tipiškoo","id":"Ojibwe_Odawa-939","language":"Ojibwe_Odawa","tokens":[{"form":"tipiškō","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"tit·ip","id":"Ojibwe_Odawa-940","language":"Ojibwe_Odawa","tokens":[{"form":"tittip","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"w","id":"Ojibwe_Odawa-941","language":"Ojibwe_Odawa","tokens":[{"form":"w","gloss":"be characterized by or as","UR":""},{"form":"w","gloss":"be characterized by or as","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"waap(is·k·)-","id":"Ojibwe_Odawa-942","language":"Ojibwe_Odawa","tokens":[{"form":"wa:b(isk)-","gloss":"pale (white)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"waapi","id":"Ojibwe_Odawa-943","language":"Ojibwe_Odawa","tokens":[{"form":"wa:bi","gloss":"see","UR":""}],"UR":""}
@@ -947,7 +947,7 @@
 {"definition":"","displayLanguage":"Odawa","form":"wāpi-","id":"Ojibwe_Odawa-947","language":"Ojibwe_Odawa","tokens":[{"form":"wābi-","gloss":"white","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"waak","id":"Ojibwe_Odawa-948","language":"Ojibwe_Odawa","tokens":[{"form":"wāk","gloss":"bent","UR":""},{"form":"wāk","gloss":"bent","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"waan","id":"Ojibwe_Odawa-949","language":"Ojibwe_Odawa","tokens":[{"form":"wān","gloss":"concave","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"waap","id":"Ojibwe_Odawa-950","language":"Ojibwe_Odawa","tokens":[{"form":"wāp","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"waap","id":"Ojibwe_Odawa-950","language":"Ojibwe_Odawa","tokens":[{"form":"wāp","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"wāp-","id":"Ojibwe_Odawa-951","language":"Ojibwe_Odawa","tokens":[{"form":"wāp-","gloss":"blanc","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"waapan","id":"Ojibwe_Odawa-952","language":"Ojibwe_Odawa","tokens":[{"form":"wāpan","gloss":"dawn","UR":""},{"form":"wāpan","gloss":"dawn","UR":""},{"form":"wāpan","gloss":"dawn","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"waapišk","id":"Ojibwe_Odawa-953","language":"Ojibwe_Odawa","tokens":[{"form":"wāpišk","gloss":"white","UR":""},{"form":"wāpišk","gloss":"white","UR":""},{"form":"wāpišk","gloss":"white","UR":""}],"UR":""}
@@ -967,11 +967,11 @@
 {"definition":"","displayLanguage":"Odawa","form":"witō","id":"Ojibwe_Odawa-967","language":"Ojibwe_Odawa","tokens":[{"form":"widō","gloss":"transport","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"wiN","id":"Ojibwe_Odawa-968","language":"Ojibwe_Odawa","tokens":[{"form":"wiN","gloss":"transport","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"wiin","id":"Ojibwe_Odawa-969","language":"Ojibwe_Odawa","tokens":[{"form":"wīn","gloss":"dirty","UR":""},{"form":"wīn","gloss":"dirty","UR":""},{"form":"wīn","gloss":"dirty","UR":""},{"form":"wīn","gloss":"dirty","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"wīni","id":"Ojibwe_Odawa-970","language":"Ojibwe_Odawa","tokens":[{"form":"wīni","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"wīni","id":"Ojibwe_Odawa-970","language":"Ojibwe_Odawa","tokens":[{"form":"wīni","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"wiiškop","id":"Ojibwe_Odawa-971","language":"Ojibwe_Odawa","tokens":[{"form":"wīškop","gloss":"sweet","UR":""},{"form":"wīškop","gloss":"sweet","UR":""},{"form":"wīškop","gloss":"sweet","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"wiis·ak","id":"Ojibwe_Odawa-972","language":"Ojibwe_Odawa","tokens":[{"form":"wīssak","gloss":"bitter","UR":""},{"form":"wīssak","gloss":"bitter","UR":""},{"form":"wīssak","gloss":"bitter","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"wīs·ak","id":"Ojibwe_Odawa-973","language":"Ojibwe_Odawa","tokens":[{"form":"wīssak","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"yaa","id":"Ojibwe_Odawa-974","language":"Ojibwe_Odawa","tokens":[{"form":"yā","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"wīs·ak","id":"Ojibwe_Odawa-973","language":"Ojibwe_Odawa","tokens":[{"form":"wīssak","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"yaa","id":"Ojibwe_Odawa-974","language":"Ojibwe_Odawa","tokens":[{"form":"yā","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"yaapii","id":"Ojibwe_Odawa-975","language":"Ojibwe_Odawa","tokens":[{"form":"yāpī","gloss":"stringlike","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"saapw-","id":"Ojibwe_Odawa-976","language":"Ojibwe_Odawa","tokens":[{"form":"za:bw-","gloss":"penetrate","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"šaakanaas·̌i-","id":"Ojibwe_Odawa-977","language":"Ojibwe_Odawa","tokens":[{"form":"ža:gana:ši-","gloss":"english","UR":""}],"UR":""}
@@ -981,12 +981,12 @@
 {"definition":"","displayLanguage":"Odawa","form":"sas·wee-","id":"Ojibwe_Odawa-981","language":"Ojibwe_Odawa","tokens":[{"form":"zaswe:-","gloss":"scattered","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"sasoo-","id":"Ojibwe_Odawa-982","language":"Ojibwe_Odawa","tokens":[{"form":"zazo:-","gloss":"rubbed","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"seek-","id":"Ojibwe_Odawa-983","language":"Ojibwe_Odawa","tokens":[{"form":"ze:g-","gloss":"afraid","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"zero","id":"Ojibwe_Odawa-984","language":"Ojibwe_Odawa","tokens":[{"form":"zero","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"zero","id":"Ojibwe_Odawa-984","language":"Ojibwe_Odawa","tokens":[{"form":"zero","gloss":"","UR":""}],"UR":""}
 {"definition":"initial","displayLanguage":"Odawa","form":"šoom-","id":"Ojibwe_Odawa-985","language":"Ojibwe_Odawa","tokens":[{"form":"zhoom-","gloss":"smile","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"sii-","id":"Ojibwe_Odawa-986","language":"Ojibwe_Odawa","tokens":[{"form":"zi:-","gloss":"sour","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"šiip-","id":"Ojibwe_Odawa-987","language":"Ojibwe_Odawa","tokens":[{"form":"ži:b-","gloss":"stretch","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"siik-","id":"Ojibwe_Odawa-988","language":"Ojibwe_Odawa","tokens":[{"form":"zi:g-","gloss":"pour out (intransitive)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"siin-","id":"Ojibwe_Odawa-989","language":"Ojibwe_Odawa","tokens":[{"form":"zi:n-","gloss":"squeezed","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Odawa","form":"siis·ipaak·watw-","id":"Ojibwe_Odawa-990","language":"Ojibwe_Odawa","tokens":[{"form":"zi:siba:kwadw-","gloss":"sugar","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"so","id":"Ojibwe_Odawa-991","language":"Ojibwe_Odawa","tokens":[{"form":"zo","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Odawa","form":"","id":"Ojibwe_Odawa-","language":"Ojibwe_Odawa","tokens":[{"form":"","gloss":"along","UR":"/bim/"},{"form":"","gloss":"walk","UR":"/ose/"},{"form":"","gloss":"grasp","UR":"/dakw/"},{"form":"","gloss":"with mouth","UR":"/amd/"},{"form":"","gloss":"broken","UR":"/bōkw/"},{"form":"","gloss":"arm","UR":"/nike/"},{"form":"","gloss":"fall","UR":"/sǐn/"},{"form":"","gloss":"foot","UR":"/zide/"},{"form":"","gloss":"thus","UR":"/in/"},{"form":"","gloss":"grass, hay; herbs","UR":"/-aškw-e:/"},{"form":"","gloss":"grass, hay; herbs","UR":"/-iškw-e:/"},{"form":"","gloss":"nose","UR":"/-ja:n-e:/"},{"form":"","gloss":"head","UR":"/-ndib-e:/"},{"form":"","gloss":"head","UR":"/-ikw-e:/"},{"form":"","gloss":"eye(s)","UR":"/-ški:nžigw-e:/"},{"form":"","gloss":"eye(s)","UR":"/-i:ngw-e:/"},{"form":"","gloss":"face","UR":"/-de:ngw-e:/"},{"form":"","gloss":"face","UR":"/-i:ngw-e:/"},{"form":"","gloss":"ear(s)","UR":"/-tawag-e:/"},{"form":"","gloss":"ear(s)","UR":"/-š-e:/"},{"form":"","gloss":"body","UR":"/-waž-e:/"},{"form":"","gloss":"leg(s)","UR":"/-ga:d-e:/"},{"form":"","gloss":"(one's own) child(ren)","UR":"/-a:waso/"},{"form":"","gloss":"(fire)wood","UR":"/nis-e:/"}],"UR":"nis·-ee"}
+{"definition":"","displayLanguage":"Odawa","form":"so","id":"Ojibwe_Odawa-991","language":"Ojibwe_Odawa","tokens":[{"form":"zo","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Odawa","form":"","id":"Ojibwe_Odawa-","language":"Ojibwe_Odawa","tokens":[{"form":"","gloss":"along","UR":"bim"},{"form":"","gloss":"walk","UR":"ose"},{"form":"","gloss":"grasp","UR":"dakw"},{"form":"","gloss":"with mouth","UR":"amd"},{"form":"","gloss":"broken","UR":"bōkw"},{"form":"","gloss":"arm","UR":"nike"},{"form":"","gloss":"fall","UR":"sǐn"},{"form":"","gloss":"foot","UR":"zide"},{"form":"","gloss":"thus","UR":"in"},{"form":"","gloss":"grass, hay; herbs","UR":"-aškw-e:"},{"form":"","gloss":"grass, hay; herbs","UR":"-iškw-e:"},{"form":"","gloss":"nose","UR":"-ja:n-e:"},{"form":"","gloss":"head","UR":"-ndib-e:"},{"form":"","gloss":"head","UR":"-ikw-e:"},{"form":"","gloss":"eye(s)","UR":"-ški:nžigw-e:"},{"form":"","gloss":"eye(s)","UR":"-i:ngw-e:"},{"form":"","gloss":"face","UR":"-de:ngw-e:"},{"form":"","gloss":"face","UR":"-i:ngw-e:"},{"form":"","gloss":"ear(s)","UR":"-tawag-e:"},{"form":"","gloss":"ear(s)","UR":"-š-e:"},{"form":"","gloss":"body","UR":"-waž-e:"},{"form":"","gloss":"leg(s)","UR":"-ga:d-e:"},{"form":"","gloss":"(one's own) child(ren)","UR":"-a:waso"},{"form":"","gloss":"(fire)wood","UR":"nis-e:"}],"UR":"nis·-ee"}

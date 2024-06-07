@@ -1,9 +1,9 @@
 {"definition":"","displayLanguage":"Innu","form":"aapiišii-","id":"Cree_Innu-1","language":"Cree_Innu","tokens":[{"form":"apishi-","gloss":"small","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-tuul-","id":"Cree_Innu-2","language":"Cree_Innu","tokens":[{"form":"-tun-","gloss":"mouth","UR":""},{"form":"-tun-","gloss":"mouth","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-ee","id":"Cree_Innu-3","language":"Cree_Innu","tokens":[{"form":"-e","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-ee","id":"Cree_Innu-3","language":"Cree_Innu","tokens":[{"form":"-e","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"maamiič-","id":"Cree_Innu-4","language":"Cree_Innu","tokens":[{"form":"mamitsh-","gloss":"big","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-puuaam-","id":"Cree_Innu-6","language":"Cree_Innu","tokens":[{"form":"-pitun-","gloss":"arm","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"kaaluu-","id":"Cree_Innu-7","language":"Cree_Innu","tokens":[{"form":"kanu-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"kaaluu-","id":"Cree_Innu-7","language":"Cree_Innu","tokens":[{"form":"kanu-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-tiič-","id":"Cree_Innu-8","language":"Cree_Innu","tokens":[{"form":"-titsh-","gloss":"hand","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"uuiišaauu-","id":"Cree_Innu-9","language":"Cree_Innu","tokens":[{"form":"uishau-","gloss":"yellow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-aapiit-","id":"Cree_Innu-10","language":"Cree_Innu","tokens":[{"form":"-apit-","gloss":"tooth","UR":""}],"UR":""}
@@ -37,29 +37,29 @@
 {"definition":"","displayLanguage":"Innu","form":"-tiikuuaaii-","id":"Cree_Innu-41","language":"Cree_Innu","tokens":[{"form":"-tikuai-","gloss":"armpit","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"maaškuu","id":"Cree_Innu-42","language":"Cree_Innu","tokens":[{"form":"mashku","gloss":"hard","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-štiikuuaan","id":"Cree_Innu-43","language":"Cree_Innu","tokens":[{"form":"-shkatai-","gloss":"belly","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-ee","id":"Cree_Innu-44","language":"Cree_Innu","tokens":[{"form":"-e","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-ee","id":"Cree_Innu-44","language":"Cree_Innu","tokens":[{"form":"-e","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-ii","id":"Cree_Innu-45","language":"Cree_Innu","tokens":[{"form":"-i","gloss":"causative","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"niip","id":"Cree_Innu-46","language":"Cree_Innu","tokens":[{"form":"nip","gloss":"die","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-ii","id":"Cree_Innu-47","language":"Cree_Innu","tokens":[{"form":"-i","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-ii","id":"Cree_Innu-47","language":"Cree_Innu","tokens":[{"form":"-i","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"uut","id":"Cree_Innu-48","language":"Cree_Innu","tokens":[{"form":"ut","gloss":"take","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-iin","id":"Cree_Innu-49","language":"Cree_Innu","tokens":[{"form":"-in","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-iin","id":"Cree_Innu-49","language":"Cree_Innu","tokens":[{"form":"-in","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"piitaa","id":"Cree_Innu-50","language":"Cree_Innu","tokens":[{"form":"pita","gloss":"thin","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-uu","id":"Cree_Innu-51","language":"Cree_Innu","tokens":[{"form":"-u","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-uu","id":"Cree_Innu-51","language":"Cree_Innu","tokens":[{"form":"-u","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"iitaaš","id":"Cree_Innu-52","language":"Cree_Innu","tokens":[{"form":"itash","gloss":"numerous","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"niimiitaauuees·eečii","id":"Cree_Innu-53","language":"Cree_Innu","tokens":[{"form":"nimitauessetshi","gloss":"toward middle marsh","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-paataa","id":"Cree_Innu-54","language":"Cree_Innu","tokens":[{"form":"-pata","gloss":"running","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-uu","id":"Cree_Innu-55","language":"Cree_Innu","tokens":[{"form":"-u","gloss":"be","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-ii","id":"Cree_Innu-56","language":"Cree_Innu","tokens":[{"form":"-i","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-ii","id":"Cree_Innu-56","language":"Cree_Innu","tokens":[{"form":"-i","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-uuee","id":"Cree_Innu-57","language":"Cree_Innu","tokens":[{"form":"-ue","gloss":"antip.","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-uuee","id":"Cree_Innu-58","language":"Cree_Innu","tokens":[{"form":"-ue","gloss":"antip.","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-uu","id":"Cree_Innu-59","language":"Cree_Innu","tokens":[{"form":"-u","gloss":"be","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-šii","id":"Cree_Innu-60","language":"Cree_Innu","tokens":[{"form":"-sham","gloss":"snowshoe","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"aatuus·","id":"Cree_Innu-61","language":"Cree_Innu","tokens":[{"form":"atuss","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"taakuušii","id":"Cree_Innu-62","language":"Cree_Innu","tokens":[{"form":"takushi","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"niip","id":"Cree_Innu-63","language":"Cree_Innu","tokens":[{"form":"nip","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-ee","id":"Cree_Innu-64","language":"Cree_Innu","tokens":[{"form":"-e","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-n","id":"Cree_Innu-65","language":"Cree_Innu","tokens":[{"form":"-n","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-aa","id":"Cree_Innu-66","language":"Cree_Innu","tokens":[{"form":"-a","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"aatuus·","id":"Cree_Innu-61","language":"Cree_Innu","tokens":[{"form":"atuss","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"taakuušii","id":"Cree_Innu-62","language":"Cree_Innu","tokens":[{"form":"takushi","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"niip","id":"Cree_Innu-63","language":"Cree_Innu","tokens":[{"form":"nip","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-ee","id":"Cree_Innu-64","language":"Cree_Innu","tokens":[{"form":"-e","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-n","id":"Cree_Innu-65","language":"Cree_Innu","tokens":[{"form":"-n","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-aa","id":"Cree_Innu-66","language":"Cree_Innu","tokens":[{"form":"-a","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"aapaa","id":"Cree_Innu-67","language":"Cree_Innu","tokens":[{"form":"apa","gloss":"melt","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-šuu","id":"Cree_Innu-68","language":"Cree_Innu","tokens":[{"form":"-shtikuan","gloss":"head","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-tee","id":"Cree_Innu-69","language":"Cree_Innu","tokens":[{"form":"-te","gloss":"by heat","UR":""}],"UR":""}
@@ -73,11 +73,11 @@
 {"definition":"","displayLanguage":"Innu","form":"-iikaauu","id":"Cree_Innu-77","language":"Cree_Innu","tokens":[{"form":"-ikau","gloss":"with ax","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"niipaa","id":"Cree_Innu-78","language":"Cree_Innu","tokens":[{"form":"nipa","gloss":"by night","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-piic","id":"Cree_Innu-79","language":"Cree_Innu","tokens":[{"form":"-pic","gloss":"dragging a sleigh","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-ii","id":"Cree_Innu-80","language":"Cree_Innu","tokens":[{"form":"-i","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-ii","id":"Cree_Innu-80","language":"Cree_Innu","tokens":[{"form":"-i","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"aakuun","id":"Cree_Innu-81","language":"Cree_Innu","tokens":[{"form":"akun","gloss":"cover","UR":""},{"form":"akun-","gloss":"couvrir","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-uu","id":"Cree_Innu-82","language":"Cree_Innu","tokens":[{"form":"-u","gloss":"with instrument","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"miinuueeliit","id":"Cree_Innu-83","language":"Cree_Innu","tokens":[{"form":"minueńit","gloss":"like","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-aa","id":"Cree_Innu-84","language":"Cree_Innu","tokens":[{"form":"-a","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-aa","id":"Cree_Innu-84","language":"Cree_Innu","tokens":[{"form":"-a","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-š","id":"Cree_Innu-85","language":"Cree_Innu","tokens":[{"form":"-šec-","gloss":"escarpement","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-aameeš-","id":"Cree_Innu-86","language":"Cree_Innu","tokens":[{"form":"-amesh-","gloss":"fish","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-meeš-","id":"Cree_Innu-87","language":"Cree_Innu","tokens":[{"form":"-mesh-","gloss":"fish","UR":""}],"UR":""}
@@ -85,7 +85,7 @@
 {"definition":"","displayLanguage":"Innu","form":"-piim-","id":"Cree_Innu-89","language":"Cree_Innu","tokens":[{"form":"-pici-","gloss":"en traînant un toboggan","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"čiinuu","id":"Cree_Innu-90","language":"Cree_Innu","tokens":[{"form":"tshinu","gloss":"long","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-aapeek","id":"Cree_Innu-91","language":"Cree_Innu","tokens":[{"form":"-apek","gloss":"stringlike","UR":""},{"form":"-apek-","gloss":"threadlike","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-aan","id":"Cree_Innu-92","language":"Cree_Innu","tokens":[{"form":"-an","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-aan","id":"Cree_Innu-92","language":"Cree_Innu","tokens":[{"form":"-an","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"miičiim","id":"Cree_Innu-93","language":"Cree_Innu","tokens":[{"form":"mitshim","gloss":"hold","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-aapiišk","id":"Cree_Innu-94","language":"Cree_Innu","tokens":[{"form":"-apishk","gloss":"mineral","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-aaii","id":"Cree_Innu-95","language":"Cree_Innu","tokens":[{"form":"-ai","gloss":"with instrument","UR":""}],"UR":""}
@@ -94,12 +94,12 @@
 {"definition":"","displayLanguage":"Innu","form":"-tiitaa","id":"Cree_Innu-98","language":"Cree_Innu","tokens":[{"form":"-tita","gloss":"by movement","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"miiš","id":"Cree_Innu-99","language":"Cree_Innu","tokens":[{"form":"mish","gloss":"big","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-iipee","id":"Cree_Innu-100","language":"Cree_Innu","tokens":[{"form":"-ipe","gloss":"flowing liquid","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-aa","id":"Cree_Innu-101","language":"Cree_Innu","tokens":[{"form":"-a","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-aa","id":"Cree_Innu-101","language":"Cree_Innu","tokens":[{"form":"-a","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-šeeč-","id":"Cree_Innu-102","language":"Cree_Innu","tokens":[{"form":"-sh","gloss":"diminutive","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-peemaak-","id":"Cree_Innu-103","language":"Cree_Innu","tokens":[{"form":"-pemak-","gloss":"leaf","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"kuušiikuu","id":"Cree_Innu-104","language":"Cree_Innu","tokens":[{"form":"kushiku","gloss":"heavy","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-aakuunaač","id":"Cree_Innu-105","language":"Cree_Innu","tokens":[{"form":"-akunatsh","gloss":"snow","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-iiš","id":"Cree_Innu-106","language":"Cree_Innu","tokens":[{"form":"-ish","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-iiš","id":"Cree_Innu-106","language":"Cree_Innu","tokens":[{"form":"-ish","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"nuuč","id":"Cree_Innu-107","language":"Cree_Innu","tokens":[{"form":"nutsh","gloss":"hunt","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-aačaakaašuu","id":"Cree_Innu-108","language":"Cree_Innu","tokens":[{"form":"-atshakashu","gloss":"mink","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"šiišuu","id":"Cree_Innu-109","language":"Cree_Innu","tokens":[{"form":"shishu","gloss":"cover with","UR":""}],"UR":""}
@@ -125,10 +125,10 @@
 {"definition":"","displayLanguage":"Innu","form":"wîči- -m","id":"Cree_Innu-129","language":"Cree_Innu","tokens":[{"form":"wîci- -m","gloss":"applicative","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-štaw","id":"Cree_Innu-130","language":"Cree_Innu","tokens":[{"form":"-šk-","gloss":"avec le corps, les pieds, à pied","UR":""},{"form":"-štaw","gloss":"applicative","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-štam","id":"Cree_Innu-131","language":"Cree_Innu","tokens":[{"form":"-šk-","gloss":"avec le corps, les pieds","UR":""},{"form":"-štam","gloss":"applicative","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"am-","id":"Cree_Innu-132","language":"Cree_Innu","tokens":[{"form":"am-","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"at-","id":"Cree_Innu-133","language":"Cree_Innu","tokens":[{"form":"at-","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"iši-","id":"Cree_Innu-134","language":"Cree_Innu","tokens":[{"form":"iši-","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"â-","id":"Cree_Innu-135","language":"Cree_Innu","tokens":[{"form":"â-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"am-","id":"Cree_Innu-132","language":"Cree_Innu","tokens":[{"form":"am-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"at-","id":"Cree_Innu-133","language":"Cree_Innu","tokens":[{"form":"at-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"iši-","id":"Cree_Innu-134","language":"Cree_Innu","tokens":[{"form":"iši-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"â-","id":"Cree_Innu-135","language":"Cree_Innu","tokens":[{"form":"â-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"mamên-","id":"Cree_Innu-136","language":"Cree_Innu","tokens":[{"form":"mamên-","gloss":"on and off","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"ûtân-","id":"Cree_Innu-137","language":"Cree_Innu","tokens":[{"form":"ûtân-","gloss":"to rain","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"čînikwân-","id":"Cree_Innu-138","language":"Cree_Innu","tokens":[{"form":"cînikwân-","gloss":"round","UR":""}],"UR":""}
@@ -146,7 +146,7 @@
 {"definition":"","displayLanguage":"Innu","form":"âmišk-","id":"Cree_Innu-150","language":"Cree_Innu","tokens":[{"form":"âmišk-","gloss":"pebbles","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"atâwak-","id":"Cree_Innu-151","language":"Cree_Innu","tokens":[{"form":"atâwak-","gloss":"hill","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"âpušt-","id":"Cree_Innu-152","language":"Cree_Innu","tokens":[{"form":"âpušt-","gloss":"burnt area","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"ê-","id":"Cree_Innu-153","language":"Cree_Innu","tokens":[{"form":"ê-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"ê-","id":"Cree_Innu-153","language":"Cree_Innu","tokens":[{"form":"ê-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"mak-","id":"Cree_Innu-154","language":"Cree_Innu","tokens":[{"form":"mak-","gloss":"big","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"pîkw-","id":"Cree_Innu-155","language":"Cree_Innu","tokens":[{"form":"pîkw-","gloss":"broken","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"pakunê-","id":"Cree_Innu-156","language":"Cree_Innu","tokens":[{"form":"pakunê-","gloss":"have a hole","UR":""}],"UR":""}
@@ -155,13 +155,13 @@
 {"definition":"","displayLanguage":"Innu","form":"papakunê-","id":"Cree_Innu-161","language":"Cree_Innu","tokens":[{"form":"papakunê-","gloss":"have a hole","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"âkunač-","id":"Cree_Innu-163","language":"Cree_Innu","tokens":[{"form":"âkunac-","gloss":"snow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"šiku-","id":"Cree_Innu-164","language":"Cree_Innu","tokens":[{"form":"šiku-","gloss":"ice","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"ši-","id":"Cree_Innu-165","language":"Cree_Innu","tokens":[{"form":"ši-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"ši-","id":"Cree_Innu-165","language":"Cree_Innu","tokens":[{"form":"ši-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"milu-","id":"Cree_Innu-166","language":"Cree_Innu","tokens":[{"form":"milu-","gloss":"good","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"čîkâ-","id":"Cree_Innu-167","language":"Cree_Innu","tokens":[{"form":"cîkâ-","gloss":"clear","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"čikâ-","id":"Cree_Innu-168","language":"Cree_Innu","tokens":[{"form":"cikâ-","gloss":"cleft","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"usê-","id":"Cree_Innu-170","language":"Cree_Innu","tokens":[{"form":"usê-","gloss":"ridge shape","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"as·êk-","id":"Cree_Innu-171","language":"Cree_Innu","tokens":[{"form":"assêk-","gloss":"muskeg","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-i-","id":"Cree_Innu-172","language":"Cree_Innu","tokens":[{"form":"-i-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-i-","id":"Cree_Innu-172","language":"Cree_Innu","tokens":[{"form":"-i-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-âkan","id":"Cree_Innu-173","language":"Cree_Innu","tokens":[{"form":"-âkan","gloss":"patientive nominal","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-kan","id":"Cree_Innu-174","language":"Cree_Innu","tokens":[{"form":"-kan","gloss":"patientive nominal","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-u","id":"Cree_Innu-175","language":"Cree_Innu","tokens":[{"form":"-u","gloss":"REL","UR":""}],"UR":""}
@@ -180,17 +180,17 @@
 {"definition":"by toboggan","displayLanguage":"Innu","form":"pats·","id":"Cree_Innu-188","language":"Cree_Innu","tokens":[{"form":"pats·","gloss":"en tobaganne","UR":""}],"UR":""}
 {"definition":"hang","displayLanguage":"Innu","form":"ku","id":"Cree_Innu-189","language":"Cree_Innu","tokens":[{"form":"ku","gloss":"suspend","UR":""}],"UR":""}
 {"definition":"saw","displayLanguage":"Innu","form":"pu","id":"Cree_Innu-190","language":"Cree_Innu","tokens":[{"form":"pu","gloss":"scie","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"i","id":"Cree_Innu-191","language":"Cree_Innu","tokens":[{"form":"i","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"uu","id":"Cree_Innu-192","language":"Cree_Innu","tokens":[{"form":"u·","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"ee","id":"Cree_Innu-193","language":"Cree_Innu","tokens":[{"form":"e·","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"u","id":"Cree_Innu-194","language":"Cree_Innu","tokens":[{"form":"u","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"aa","id":"Cree_Innu-195","language":"Cree_Innu","tokens":[{"form":"a·","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"taa","id":"Cree_Innu-196","language":"Cree_Innu","tokens":[{"form":"ta·","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"i","id":"Cree_Innu-191","language":"Cree_Innu","tokens":[{"form":"i","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"uu","id":"Cree_Innu-192","language":"Cree_Innu","tokens":[{"form":"u·","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"ee","id":"Cree_Innu-193","language":"Cree_Innu","tokens":[{"form":"e·","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"u","id":"Cree_Innu-194","language":"Cree_Innu","tokens":[{"form":"u","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"aa","id":"Cree_Innu-195","language":"Cree_Innu","tokens":[{"form":"a·","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"taa","id":"Cree_Innu-196","language":"Cree_Innu","tokens":[{"form":"ta·","gloss":"","UR":""}],"UR":""}
 {"definition":"attach","displayLanguage":"Innu","form":"aapikaat","id":"Cree_Innu-197","language":"Cree_Innu","tokens":[{"form":"a·pika·t","gloss":"attache","UR":""}],"UR":""}
 {"definition":"sew","displayLanguage":"Innu","form":"kwaat","id":"Cree_Innu-198","language":"Cree_Innu","tokens":[{"form":"kwa·t","gloss":"coud","UR":""}],"UR":""}
 {"definition":"dole out with tongs","displayLanguage":"Innu","form":"kut","id":"Cree_Innu-199","language":"Cree_Innu","tokens":[{"form":"kut","gloss":"dole au couteau croche","UR":""}],"UR":""}
 {"definition":"cut","displayLanguage":"Innu","form":"š","id":"Cree_Innu-200","language":"Cree_Innu","tokens":[{"form":"š","gloss":"coupe","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"am","id":"Cree_Innu-201","language":"Cree_Innu","tokens":[{"form":"am","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"am","id":"Cree_Innu-201","language":"Cree_Innu","tokens":[{"form":"am","gloss":"","UR":""}],"UR":""}
 {"definition":"arranged in space","displayLanguage":"Innu","form":"aay-","id":"Cree_Innu-203","language":"Cree_Innu","tokens":[{"form":"a·y-","gloss":"disposé dans l'espace","UR":""}],"UR":""}
 {"definition":"place, put","displayLanguage":"Innu","form":"ast-","id":"Cree_Innu-204","language":"Cree_Innu","tokens":[{"form":"ast-","gloss":"placé","UR":""}],"UR":""}
 {"definition":"take something away","displayLanguage":"Innu","form":"aaw-","id":"Cree_Innu-205","language":"Cree_Innu","tokens":[{"form":"a·w-","gloss":"emporte quelque chose","UR":""}],"UR":""}
@@ -247,7 +247,7 @@
 {"definition":"","displayLanguage":"Innu","form":"-kâpû","id":"Cree_Innu-256","language":"Cree_Innu","tokens":[{"form":"-kâpû","gloss":"standing","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"taškam-","id":"Cree_Innu-257","language":"Cree_Innu","tokens":[{"form":"taškam-","gloss":"d'un bord à l'autre","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-as·ek-","id":"Cree_Innu-258","language":"Cree_Innu","tokens":[{"form":"-assek-","gloss":"savane","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-i-","id":"Cree_Innu-260","language":"Cree_Innu","tokens":[{"form":"-i-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-i-","id":"Cree_Innu-260","language":"Cree_Innu","tokens":[{"form":"-i-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-piči-","id":"Cree_Innu-261","language":"Cree_Innu","tokens":[{"form":"-pic-","gloss":"en traînant un toboggan","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"nîpâ-","id":"Cree_Innu-262","language":"Cree_Innu","tokens":[{"form":"nîpâ-","gloss":"de nuit","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"čišû-","id":"Cree_Innu-263","language":"Cree_Innu","tokens":[{"form":"cišû-","gloss":"exaspéré","UR":""}],"UR":""}
@@ -310,7 +310,7 @@
 {"definition":"","displayLanguage":"Innu","form":"utit-","id":"Cree_Innu-324","language":"Cree_Innu","tokens":[{"form":"utit-","gloss":"parvenir","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"wesâm-","id":"Cree_Innu-325","language":"Cree_Innu","tokens":[{"form":"wesâm-","gloss":"trop","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"nûm-","id":"Cree_Innu-326","language":"Cree_Innu","tokens":[{"form":"nûm-","gloss":"en partie, incomplètement","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-t-","id":"Cree_Innu-328","language":"Cree_Innu","tokens":[{"form":"-šk-","gloss":"NG","UR":""},{"form":"-t-","gloss":"avec la bouche","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-t-","id":"Cree_Innu-328","language":"Cree_Innu","tokens":[{"form":"-šk-","gloss":"","UR":""},{"form":"-t-","gloss":"avec la bouche","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-patwâ-","id":"Cree_Innu-329","language":"Cree_Innu","tokens":[{"form":"-patwâ-","gloss":"en courant, en véhicule à roues","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-kâši-","id":"Cree_Innu-330","language":"Cree_Innu","tokens":[{"form":"-kâši-","gloss":"à pied dans l'eau","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-škâ-","id":"Cree_Innu-331","language":"Cree_Innu","tokens":[{"form":"-šin-","gloss":"couché, en tombant, en se heurtant au passage, à pied","UR":""},{"form":"-škâ-","gloss":"en canot, à la nage","UR":""}],"UR":""}
@@ -351,7 +351,7 @@
 {"definition":"","displayLanguage":"Innu","form":"-âwk-","id":"Cree_Innu-376","language":"Cree_Innu","tokens":[{"form":"-âwk-","gloss":"montagne","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-šek-","id":"Cree_Innu-377","language":"Cree_Innu","tokens":[{"form":"-pwâm(e)-","gloss":"thigh","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-šiku-","id":"Cree_Innu-378","language":"Cree_Innu","tokens":[{"form":"-shu","gloss":"by heat","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"-atâwk-","id":"Cree_Innu-379","language":"Cree_Innu","tokens":[{"form":"-atâwk-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"-atâwk-","id":"Cree_Innu-379","language":"Cree_Innu","tokens":[{"form":"-atâwk-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"pim-","id":"Cree_Innu-380","language":"Cree_Innu","tokens":[{"form":"pim-","gloss":"mouvement non-orienté","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"papâm-","id":"Cree_Innu-381","language":"Cree_Innu","tokens":[{"form":"papâm-","gloss":"mouvement non-orienté","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"-šk-","id":"Cree_Innu-382","language":"Cree_Innu","tokens":[{"form":"-šin-","gloss":"au contact, d'un objet, d'une surface","UR":""}],"UR":""}
@@ -409,22 +409,22 @@
 {"definition":"","displayLanguage":"Innu","form":"-kâpû-","id":"Cree_Innu-436","language":"Cree_Innu","tokens":[{"form":"-kâpû-","gloss":"posture","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"aa","id":"Cree_Innu-437","language":"Cree_Innu","tokens":[{"form":"a·","gloss":"extrinsic property, stative","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"kam","id":"Cree_Innu-438","language":"Cree_Innu","tokens":[{"form":"kam","gloss":"liquid","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"aa","id":"Cree_Innu-439","language":"Cree_Innu","tokens":[{"form":"a·","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"misi","id":"Cree_Innu-440","language":"Cree_Innu","tokens":[{"form":"misi","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"waačee","id":"Cree_Innu-441","language":"Cree_Innu","tokens":[{"form":"wa·ce·","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"takotaawi","id":"Cree_Innu-442","language":"Cree_Innu","tokens":[{"form":"takota·wi","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"šaapo·","id":"Cree_Innu-443","language":"Cree_Innu","tokens":[{"form":"ša·po·","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"waašee","id":"Cree_Innu-444","language":"Cree_Innu","tokens":[{"form":"wa·še·","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"čiisseek","id":"Cree_Innu-445","language":"Cree_Innu","tokens":[{"form":"ci·sse·k","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"ministikw","id":"Cree_Innu-446","language":"Cree_Innu","tokens":[{"form":"ministikw","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"piineekw","id":"Cree_Innu-447","language":"Cree_Innu","tokens":[{"form":"pi·ne·kw","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"piik","id":"Cree_Innu-448","language":"Cree_Innu","tokens":[{"form":"pi·k","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"piičišeey","id":"Cree_Innu-449","language":"Cree_Innu","tokens":[{"form":"pi·ciše·y","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"minw","id":"Cree_Innu-450","language":"Cree_Innu","tokens":[{"form":"minw","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"ošk","id":"Cree_Innu-451","language":"Cree_Innu","tokens":[{"form":"ošk","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"aa","id":"Cree_Innu-439","language":"Cree_Innu","tokens":[{"form":"a·","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"misi","id":"Cree_Innu-440","language":"Cree_Innu","tokens":[{"form":"misi","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"waačee","id":"Cree_Innu-441","language":"Cree_Innu","tokens":[{"form":"wa·ce·","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"takotaawi","id":"Cree_Innu-442","language":"Cree_Innu","tokens":[{"form":"takota·wi","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"šaapo·","id":"Cree_Innu-443","language":"Cree_Innu","tokens":[{"form":"ša·po·","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"waašee","id":"Cree_Innu-444","language":"Cree_Innu","tokens":[{"form":"wa·še·","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"čiisseek","id":"Cree_Innu-445","language":"Cree_Innu","tokens":[{"form":"ci·sse·k","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"ministikw","id":"Cree_Innu-446","language":"Cree_Innu","tokens":[{"form":"ministikw","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"piineekw","id":"Cree_Innu-447","language":"Cree_Innu","tokens":[{"form":"pi·ne·kw","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"piik","id":"Cree_Innu-448","language":"Cree_Innu","tokens":[{"form":"pi·k","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"piičišeey","id":"Cree_Innu-449","language":"Cree_Innu","tokens":[{"form":"pi·ciše·y","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"minw","id":"Cree_Innu-450","language":"Cree_Innu","tokens":[{"form":"minw","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"ošk","id":"Cree_Innu-451","language":"Cree_Innu","tokens":[{"form":"ošk","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"aatik","id":"Cree_Innu-452","language":"Cree_Innu","tokens":[{"form":"a·tik","gloss":"sticks, evergreen trees","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"paasti","id":"Cree_Innu-453","language":"Cree_Innu","tokens":[{"form":"pa·sti","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"paasti","id":"Cree_Innu-453","language":"Cree_Innu","tokens":[{"form":"pa·sti","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"šeek","id":"Cree_Innu-454","language":"Cree_Innu","tokens":[{"form":"še·k","gloss":"rocky outcropping, rocky hill","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Innu","form":"šiit","id":"Cree_Innu-455","language":"Cree_Innu","tokens":[{"form":"ši·t","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Innu","form":"šiit","id":"Cree_Innu-455","language":"Cree_Innu","tokens":[{"form":"ši·t","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"aaškw","id":"Cree_Innu-456","language":"Cree_Innu","tokens":[{"form":"a·škw","gloss":"trunks, limbs of trees or animals","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Innu","form":"ee","id":"Cree_Innu-457","language":"Cree_Innu","tokens":[{"form":"e·","gloss":"process","UR":""}],"UR":""}
