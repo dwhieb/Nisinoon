@@ -29,6 +29,7 @@ export default class Components extends Map {
     componentID:         `Component ID`,
     componentOf:         `Formative/component occurs in what component(s)`,
     components:          `Contains`,
+    definition:          `Project Definition`,
     deverbal:            `Deverbal (y/n)`,
     etymon:              `PA form (original orthography)`,
     firstCheck:          `1st check done`,
@@ -146,6 +147,7 @@ export default class Components extends Map {
     })
 
     return {
+      definition: record[cols.definition],
       form,
       id,
       language,
