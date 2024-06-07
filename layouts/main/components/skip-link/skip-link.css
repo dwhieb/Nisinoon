@@ -5,6 +5,7 @@
   margin:             1em;
   position:           absolute;
   padding:            var(--text-padding);
+  z-index:            1;
 
   @media (prefers-color-scheme: dark) {
     background-color: var(--off-black);
