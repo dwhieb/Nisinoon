@@ -1,4 +1,5 @@
 .help-text {
+  color:     #AAA;
   font-size: smaller;
   padding:   var(--text-padding-sm);
 }

@@ -26,7 +26,6 @@
 
 .results {
 
-  inline-size:   max(max-content, 100%);
   margin:        0;
   margin-inline: auto;
 
@@ -52,8 +51,9 @@
 }
 
 search {
-  align-self: center;
-  margin:     1em;
+  align-self:      center;
+  margin:          1em;
+  max-inline-size: 30em;
 }
 
 .search-controls {

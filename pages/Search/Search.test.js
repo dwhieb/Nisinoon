@@ -38,7 +38,12 @@ describe(`Search`, function() {
 
     it(`Forms (Source)`)
 
-    it(`Definition (Project)`)
+    it.only(`Definition (Project)`, function() {
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`think`)
+      cy.get(`form`).submit()
+      cy.get(`.results tbody tr`).should(`have.length`, 1)
+    })
 
     it(`Definitions (Source)`)
 
