@@ -8,7 +8,22 @@
 /* Components */
 @import 'construction/construction.css';
 
-.form {
+:root {
+  --cell-border: 1px solid #CCC;
+}
+
+/* Cell-Specific Styles */
+/* bottom border */
+.bb {
+  border-block-end: var(--cell-border);
+}
+
+/* centered text */
+.c {
+  text-align: center;
+}
+
+:is(.form, .source-forms) {
   white-space: nowrap;
 }
 
@@ -26,11 +41,11 @@
 
 .results {
 
-  margin:        0;
-  margin-inline: auto;
+  margin:          0;
+  min-inline-size: 100%;
 
   & td {
-    border-block: 1px solid #CCC;
+    border-block: var(--cell-border)
   }
 
   & th {
@@ -64,7 +79,7 @@ search {
 }
 
 tbody {
-  border-inline: 1px solid #CCC;
+  border-inline: var(--cell-border)
 }
 
 .text-box {

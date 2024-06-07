@@ -29,18 +29,51 @@
       <div class=results-wrapper>
         <table class=results>
           <thead>
-            <th>Language</th>
-            <th>Form</th>
-            <th>UR</th>
-            <th>Definition</th>
+            <tr>
+              <th></th>
+              <th></th>
+              <th></th>
+              <th></th>
+              <th class='bb c' colspan=3>Sources</th>
+            </tr>
+            <tr>
+              <th>Language</th>
+              <th>Form</th>
+              <th>UR</th>
+              <th>Definition</th>
+              <th>Forms</th>
+              <th>URs</th>
+              <th>Glosses</th>
+            </tr>
           </thead>
           <tbody>
-            {{#each components as |component|}}
+            {{#each components as |component| }}
               <tr>
                 <td class=language>{{ displayLanguage }}</td>
                 <td class=form><a class=link href='/components/{{ id }}'>{{ form }}</a></td>
                 <td class=UR><a class=link href='/components/{{ id }}'>{{#if UR}}/{{ UR }}/{{/if}}</a></td>
-                <td class=definition>{{#if definition}}‘{{ definition }}’{{else}}&#8212;{{/if}}</td>
+                <td class=definition>{{#if definition }}‘{{ definition }}’{{else}}&#8212;{{/if}}</td>
+                <td class=source-forms>
+                  <ul>
+                    {{#each tokens as |token| }}
+                      <li>{{ form }}</li>
+                    {{/each}}
+                  </ul>
+                </td>
+                <td class=source-URs>
+                  <ul>
+                    {{#each tokens as |token| }}
+                      <li>{{#if UR }}/{{ UR }}/{{/if}}</li>
+                    {{/each}}
+                  </ul>
+                </td>
+                <td class=source-glosses>
+                  <ul>
+                    {{#each tokens as |token| }}
+                      <li>{{#if gloss }}‘{{ gloss }}’{{else}}&#8212;{{/if}}</li>
+                    {{/each}}
+                  </ul>
+                </td>
               </tr>
             {{/each}}
           </tbody>
