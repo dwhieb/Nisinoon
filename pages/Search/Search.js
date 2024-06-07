@@ -1,16 +1,19 @@
 export function Search(req, res) {
 
+  const { db } = req.app
+
   const context = {
-    construction: true,
-    pageCSS:      res.app.locals.styles.Search,
-    Search:       true,
-    title:        `Search`,
+    construction:  true,
+    numComponents: db.index.size.toLocaleString(),
+    numLanguages:  db.languages.size.toLocaleString(),
+    pageCSS:       res.app.locals.styles.Search,
+    Search:        true,
+    title:         `Search`,
   }
 
   if (`q` in req.query) {
 
-    const { q }  = req.query
-    const { db } = req.app
+    const { q } = req.query
 
     if (q === ``) context.components = db.components
     else context.components = req.app.db.search(q.trim())

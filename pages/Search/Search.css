@@ -78,6 +78,22 @@ search {
   justify-content: center;
 }
 
+.stats {
+
+  align-self:            center;
+  display:               grid;
+  grid-template-columns: auto auto;
+
+  * {
+    padding: var(--text-padding);
+  }
+
+  dt {
+    font-weight: bold;
+  }
+
+}
+
 .text-box {
   flex-grow: 1;
 }

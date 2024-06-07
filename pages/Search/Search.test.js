@@ -67,7 +67,7 @@ describe(`Search`, function() {
 
     it(`Definitions (Source)`, function() {
       cy.visit(`/search`)
-      cy.get(`#search-box`).type(`purposeful`)
+      cy.get(`#search-box`).type(`motorisé`)
       cy.get(`form`).submit()
       cy.get(`.results tbody tr`).should(`have.length`, 3)
     })

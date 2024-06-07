@@ -22,7 +22,14 @@
     </form>
   </search>
 
-  {{#if (isTruthy components) }}
+  {{#unless (isTruthy components) }}
+    <dl class=stats>
+      <dt># of languages</dt>
+      <dd>{{ numLanguages }}</dd>
+      <dt># of components</dt>
+      <dd>{{ numComponents }}</dd>
+    </dl>
+  {{else}}
     {{#unless components}}
       <p class=no-results>No results found.</p>
     {{else}}
@@ -80,7 +87,7 @@
         </table>
       </div>
     {{/unless}}
-  {{/if}}
+  {{/unless}}
 
 </main>
 
