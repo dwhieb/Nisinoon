@@ -31,12 +31,14 @@
           <thead>
             <th>Language</th>
             <th>Form</th>
+            <th>Definition</th>
           </thead>
           <tbody>
             {{#each components as |component|}}
               <tr>
                 <td class=language>{{ language }}</td>
                 <td class=form><a class=link href='/components/{{ id }}'>{{ form }}</a></td>
+                <td class=definition>‘{{ definition }}’</td>
               </tr>
             {{/each}}
           </tbody>
