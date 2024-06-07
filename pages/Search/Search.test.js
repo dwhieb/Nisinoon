@@ -44,16 +44,33 @@ describe(`Search`, function() {
       cy.get(`.results tbody tr`).should(`have.length`, 1)
     })
 
-    it(`Forms (Source)`)
-
     it(`Definition (Project)`, function() {
       cy.visit(`/search`)
-      cy.get(`#search-box`).type(`think`)
+      cy.get(`#search-box`).type(`motorize`)
       cy.get(`form`).submit()
       cy.get(`.results tbody tr`).should(`have.length`, 1)
     })
 
-    it(`Definitions (Source)`)
+    it(`Forms (Source)`, function() {
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`gan̈ba8i`)
+      cy.get(`form`).submit()
+      cy.get(`.results tbody tr`).should(`have.length`, 1)
+    })
+
+    it(`URs (Source)`, function() {
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`iinoo'ei`)
+      cy.get(`form`).submit()
+      cy.get(`.results tbody tr`).should(`have.length`, 1)
+    })
+
+    it(`Definitions (Source)`, function() {
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`purposeful`)
+      cy.get(`form`).submit()
+      cy.get(`.results tbody tr`).should(`have.length`, 3)
+    })
 
   })
 

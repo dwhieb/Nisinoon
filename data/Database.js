@@ -1,3 +1,5 @@
+/* eslint func-names: "off", prefer-arrow-callback: "off" */
+
 import Components from './Components.js'
 import Languages  from './Languages.js'
 
@@ -16,9 +18,23 @@ export default class Database {
   }
 
   search(query) {
-    return this.components.filter(({ definition, form, UR }) => form?.includes(query)
-      || definition?.includes(query)
-      || UR?.includes(query))
+    return this.components.filter(function({
+      definition,
+      form,
+      tokens,
+      UR,
+    }) {
+      return definition?.includes(query)
+      || form?.includes(query)
+      || UR?.includes(query)
+      || tokens.some(function({ form, gloss, UR }) {
+
+        return form?.includes(query)
+        || gloss?.includes(query)
+        || UR?.includes(query)
+
+      })
+    })
   }
 
 }

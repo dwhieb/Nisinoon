@@ -78,10 +78,6 @@ search {
   justify-content: center;
 }
 
-tbody {
-  border-inline: var(--cell-border)
-}
-
 .text-box {
   flex-grow: 1;
 }
