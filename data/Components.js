@@ -1,4 +1,5 @@
 import Issues                        from './Issues.js'
+import Languages                     from './Languages.js'
 import ndjson                        from './NDJSON.js'
 import Orthographies                 from './Orthographies.js'
 import { outputFile }                from 'fs-extra/esm'
@@ -8,10 +9,14 @@ import { readdir }                   from 'node:fs/promises'
 import { stringify as stringifyCSV } from 'csv-stringify/sync'
 
 const issues        = new Issues
+const languages     = new Languages
 const orthographies = new Orthographies
 
 await issues.load()
+await languages.load()
 await orthographies.load()
+
+console.log(languages)
 
 const transliterationColumns = [
   { header: `Language`, key: `language` },
@@ -72,16 +77,8 @@ export default class Components extends Map {
 
     const componentRecords = parseCSV(componentsCSV, Components.csvOptions)
     const tokenRecords     = parseCSV(tokensCSV, Components.csvOptions)
-
-    // Uncomment to generate a list of languages with the same number of tokens and components.
-    // if (componentRecords.length === tokenRecords.length) {
-    //   const { appendFile } = await import(`node:fs/promises`)
-    //   const susPath        = path.resolve(import.meta.dirname, `./sus.txt`)
-    //   await appendFile(susPath, `${ language }\n`, `utf8`)
-    // }
-
-    const records = new Map
-    const cols    = Components.columns
+    const records          = new Map
+    const cols             = Components.columns
 
     // Create Map of record IDs => records
     for (const record of componentRecords) {

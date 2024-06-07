@@ -39,8 +39,8 @@ export default class Languages extends Map {
 
   }
 
-  convertRecord({ key }) {
-    return { key }
+  convertRecord({ key, name }) {
+    return { key, name }
   }
 
   async load() {

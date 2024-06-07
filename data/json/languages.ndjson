@@ -1,41 +1,41 @@
-{"key":"Abenaki"}
-{"key":"Abenaki_Eastern"}
-{"key":"Abenaki_Western"}
-{"key":"Arapaho"}
-{"key":"Blackfoot"}
-{"key":"Cheyenne"}
-{"key":"Cree_Atikamekw"}
-{"key":"Cree_East"}
-{"key":"Cree_Innu"}
-{"key":"Cree_Moose_Swampy"}
-{"key":"Cree_Naskapi_Western"}
-{"key":"Cree_Northern_East"}
-{"key":"Cree_Plains"}
-{"key":"Cree_Southern_East"}
-{"key":"Cree_Swampy"}
-{"key":"Delaware_Common"}
-{"key":"Delaware_Munsee"}
-{"key":"Delaware_Unami"}
-{"key":"Kickapoo"}
-{"key":"Menominee"}
-{"key":"Meskwaki"}
-{"key":"Miami_Illinois"}
-{"key":"Mikmaq"}
-{"key":"Narragansett"}
-{"key":"Ojibwe_Algonquin"}
-{"key":"Ojibwe_Common"}
-{"key":"Ojibwe_Eastern"}
-{"key":"Ojibwe_Nipissing"}
-{"key":"Ojibwe_NW"}
-{"key":"Ojibwe_Odawa"}
-{"key":"Ojibwe_Severn"}
-{"key":"Ojibwe_SW"}
-{"key":"Passamaquoddy_Maliseet"}
-{"key":"Potawatomi"}
-{"key":"Powhatan"}
-{"key":"Proto_Algonquian"}
-{"key":"Proto_Central_Algonquian"}
-{"key":"Proto_Central_Eastern_Algonquian"}
-{"key":"Proto_Eastern_Algonquian"}
-{"key":"Shawnee"}
-{"key":"Wampanoag"}
+{"key":"Abenaki","name":"Abenaki"}
+{"key":"Abenaki_Eastern","name":"Eastern Abenaki"}
+{"key":"Abenaki_Western","name":"Western Abenaki"}
+{"key":"Arapaho","name":"Arapaho"}
+{"key":"Blackfoot","name":"Blackfoot"}
+{"key":"Cheyenne","name":"Cheyenne"}
+{"key":"Cree_Atikamekw","name":"Atikamekw"}
+{"key":"Cree_East","name":"East Cree"}
+{"key":"Cree_Innu","name":"Innu"}
+{"key":"Cree_Moose_Swampy","name":"Moose-Swampy Cree"}
+{"key":"Cree_Naskapi_Western","name":"Western Naskapi"}
+{"key":"Cree_Northern_East","name":"Northern East Cree"}
+{"key":"Cree_Plains","name":"Plains Cree"}
+{"key":"Cree_Southern_East","name":"Southern East Cree"}
+{"key":"Cree_Swampy","name":"Swampy Cree"}
+{"key":"Delaware_Common","name":"Common Delaware"}
+{"key":"Delaware_Munsee","name":"Munsee"}
+{"key":"Delaware_Unami","name":"Unami"}
+{"key":"Kickapoo","name":"Kickapoo"}
+{"key":"Menominee","name":"Menominee"}
+{"key":"Meskwaki","name":"Meskwaki"}
+{"key":"Miami_Illinois","name":"Miami-Illinois"}
+{"key":"Mikmaq","name":"Mi’kmaq"}
+{"key":"Narragansett","name":"Narragansett"}
+{"key":"Ojibwe_Algonquin","name":"Algonquin"}
+{"key":"Ojibwe_Common","name":"Common Ojibwe"}
+{"key":"Ojibwe_Eastern","name":"Eastern Ojibwe"}
+{"key":"Ojibwe_Nipissing","name":"Nipissing"}
+{"key":"Ojibwe_NW","name":"Northwestern Ojibwe"}
+{"key":"Ojibwe_Odawa","name":"Odawa"}
+{"key":"Ojibwe_Severn","name":"Severn Ojibwe"}
+{"key":"Ojibwe_SW","name":"Southwestern Ojibwe"}
+{"key":"Passamaquoddy_Maliseet","name":"Passamaquoddy-Maliseet"}
+{"key":"Potawatomi","name":"Potawatomi"}
+{"key":"Powhatan","name":"Powhatan"}
+{"key":"Proto_Algonquian","name":"Proto-Algonquian"}
+{"key":"Proto_Central_Algonquian","name":"Proto-Central Algonquian"}
+{"key":"Proto_Central_Eastern_Algonquian","name":"Proto-Central Eastern Algonquian"}
+{"key":"Proto_Eastern_Algonquian","name":"Proto-Eastern Algonquian"}
+{"key":"Shawnee","name":"Shawnee"}
+{"key":"Wampanoag","name":"Wampanoag"}
