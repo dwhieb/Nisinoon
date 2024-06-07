@@ -11,10 +11,6 @@ const htmlOptions = {
   tag:     `li`,
 }
 
-function isTruthy(val) {
-  return Boolean(val)
-}
-
 function inlineExample(str) {
   return `<i class=inex>${ replaceHyphens(str) }</i>`
 }
@@ -58,7 +54,6 @@ const hbs = new ExpressHandlebars({
   helpers:       {
     igl:  interlinear,
     inex: inlineExample,
-    isTruthy,
     section,
     tln:  translation,
   },

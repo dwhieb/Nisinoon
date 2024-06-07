@@ -39,6 +39,11 @@
   text-align: center;
 }
 
+.num-results {
+  margin-inline: auto;
+  text-align:    center;
+}
+
 .results {
 
   margin:          0;

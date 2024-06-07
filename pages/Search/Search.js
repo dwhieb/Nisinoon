@@ -18,6 +18,9 @@ export function Search(req, res) {
     if (q === ``) context.components = db.components
     else context.components = req.app.db.search(q.trim())
 
+    context.results    = true
+    context.numResults = context.components.length.toLocaleString()
+
   }
 
   res.render(`Search/Search`, context)
