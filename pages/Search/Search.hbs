@@ -38,7 +38,7 @@
               <tr>
                 <td class=language>{{ language }}</td>
                 <td class=form><a class=link href='/components/{{ id }}'>{{ form }}</a></td>
-                <td class=definition>{{#if definition}}‘{{ definition }}’{{/if}}</td>
+                <td class=definition>{{#if definition}}‘{{ definition }}’{{else}}&#8212;{{/if}}</td>
               </tr>
             {{/each}}
           </tbody>

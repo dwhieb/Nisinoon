@@ -13,7 +13,10 @@ export default class Issues extends Map {
   async load() {
 
     const csv     = await readFile(Issues.filePath, `utf8`)
-    const records = parseCSV(csv, { columns: Issues.columns })
+    const records = parseCSV(csv, {
+      columns: Issues.columns,
+      trim:    true,
+    })
 
     for (const record of records) {
       this.set(record.id, record)

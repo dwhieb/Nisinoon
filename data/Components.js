@@ -139,6 +139,9 @@ export default class Components extends Map {
     const ortho    = record[cols.orthography]
     const form     = orthographies.transliterate(ortho, original)
 
+    // Definition
+    const definition = (record[cols.definition] ?? ``).replaceAll(`NG`, ``)
+
     this.transliterations.push({
       language,
       originalOrthography: original.replaceAll(`-`, `\u2011`),
@@ -147,7 +150,7 @@ export default class Components extends Map {
     })
 
     return {
-      definition: record[cols.definition],
+      definition,
       form,
       id,
       language,
