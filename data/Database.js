@@ -16,7 +16,9 @@ export default class Database {
   }
 
   search(query) {
-    return this.components.filter(({ definition, form }) => form?.includes(query) || definition?.includes(query))
+    return this.components.filter(({ definition, form, UR }) => form?.includes(query)
+      || definition?.includes(query)
+      || UR?.includes(query))
   }
 
 }
