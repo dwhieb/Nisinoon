@@ -131,20 +131,27 @@ export default class Components extends Map {
 
   convertRecord(language, record) {
 
-    const cols = Components.columns
-    const id   = `${ language }-${ record[cols.id] }`
+    const cols  = Components.columns
+    const id    = `${ language }-${ record[cols.id] }`
+    const ortho = record[cols.orthography]
 
     // Form
-    const original = record[cols.originalOrthography]
-    const ortho    = record[cols.orthography]
-    const form     = orthographies.transliterate(ortho, original)
+    const sourceForm = record[cols.originalOrthography]
+    const form       = orthographies.transliterate(ortho, sourceForm)
+
+    // UR
+    const sourceUR = record[cols.UR]
+
+    const UR = orthographies.transliterate(ortho, sourceUR)
+    .replace(/^\//v, ``)
+    .replace(/\/$/v, ``)
 
     // Definition
     const definition = (record[cols.definition] ?? ``).replaceAll(`NG`, ``)
 
     this.transliterations.push({
       language,
-      originalOrthography: original.replaceAll(`-`, `\u2011`),
+      originalOrthography: sourceForm.replaceAll(`-`, `\u2011`),
       orthography:         ortho,
       projectOrthography:  form.replaceAll(`-`, `\u2011`),
     })
@@ -154,6 +161,7 @@ export default class Components extends Map {
       form,
       id,
       language,
+      UR,
     }
 
   }
