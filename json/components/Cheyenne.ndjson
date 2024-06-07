@@ -2,7 +2,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-'ahtá","id":"Cheyenne-2","language":"Cheyenne","tokens":[{"form":"-'ahtá","gloss":"taste","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'asé","id":"Cheyenne-3","language":"Cheyenne","tokens":[{"form":"-'asé","gloss":"belly","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'ȧsené","id":"Cheyenne-4","language":"Cheyenne","tokens":[{"form":"-'ȧsené","gloss":"taste","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-'eemá","id":"Cheyenne-5","language":"Cheyenne","tokens":[{"form":"-'eemá","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-'eemá","id":"Cheyenne-5","language":"Cheyenne","tokens":[{"form":"-'eemá","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'éémá","id":"Cheyenne-6","language":"Cheyenne","tokens":[{"form":"-'éémá","gloss":"snot, mucus; runny nose","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'esé","id":"Cheyenne-7","language":"Cheyenne","tokens":[{"form":"-'esé","gloss":"rump, buttocks, anus, ass, butt","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'esó","id":"Cheyenne-8","language":"Cheyenne","tokens":[{"form":"-'esó","gloss":"long, length","UR":""}],"UR":""}
@@ -11,7 +11,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-'évá","id":"Cheyenne-11","language":"Cheyenne","tokens":[{"form":"-'évá","gloss":"wife","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'éxané","id":"Cheyenne-12","language":"Cheyenne","tokens":[{"form":"-'éxané","gloss":"eye","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'ha(me)","id":"Cheyenne-13","language":"Cheyenne","tokens":[{"form":"-'ha(me)","gloss":"livestock, especially horses; cattle","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-'hamé","id":"Cheyenne-14","language":"Cheyenne","tokens":[{"form":"-'hamé","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-'hamé","id":"Cheyenne-14","language":"Cheyenne","tokens":[{"form":"-'hamé","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'háononá","id":"Cheyenne-15","language":"Cheyenne","tokens":[{"form":"-'háononá","gloss":"popliteal (back of knee)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'kėstané","id":"Cheyenne-16","language":"Cheyenne","tokens":[{"form":"-'kėstané","gloss":"vagina","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'óhtá ??","id":"Cheyenne-17","language":"Cheyenne","tokens":[{"form":"-'óhtá ??","gloss":"declare s.t. to be","UR":""}],"UR":""}
@@ -23,9 +23,9 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-'šeme","id":"Cheyenne-23","language":"Cheyenne","tokens":[{"form":"-'šeme","gloss":"make loud noise","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'sestsé","id":"Cheyenne-24","language":"Cheyenne","tokens":[{"form":"-'sestsé","gloss":"cause s.t. to","UR":"-'sehté"}],"UR":"-'sehté"}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'sevó","id":"Cheyenne-25","language":"Cheyenne","tokens":[{"form":"-'sevó","gloss":"flow","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-'tá","id":"Cheyenne-26","language":"Cheyenne","tokens":[{"form":"-'tá","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-'tá","id":"Cheyenne-26","language":"Cheyenne","tokens":[{"form":"-'tá","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'tósané","id":"Cheyenne-27","language":"Cheyenne","tokens":[{"form":"-'tósané","gloss":"to(ward) people??","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-'tov","id":"Cheyenne-28","language":"Cheyenne","tokens":[{"form":"-'tov","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-'tov","id":"Cheyenne-28","language":"Cheyenne","tokens":[{"form":"-'tov","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-'xove","id":"Cheyenne-29","language":"Cheyenne","tokens":[{"form":"-'xove","gloss":"time","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-(a)eta","id":"Cheyenne-30","language":"Cheyenne","tokens":[{"form":"-(a)eta","gloss":"size, weight","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-(é)ve","id":"Cheyenne-31","language":"Cheyenne","tokens":[{"form":"-(é)ve","gloss":"be","UR":""}],"UR":""}
@@ -79,8 +79,8 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-an","id":"Cheyenne-79","language":"Cheyenne","tokens":[{"form":"-an","gloss":"by hand","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-aná","id":"Cheyenne-80","language":"Cheyenne","tokens":[{"form":"-aná","gloss":"hungry","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ané","id":"Cheyenne-81","language":"Cheyenne","tokens":[{"form":"-ané","gloss":"make","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-ané","id":"Cheyenne-82","language":"Cheyenne","tokens":[{"form":"-ané","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-anéne","id":"Cheyenne-83","language":"Cheyenne","tokens":[{"form":"-anéne","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-ané","id":"Cheyenne-82","language":"Cheyenne","tokens":[{"form":"-ané","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-anéne","id":"Cheyenne-83","language":"Cheyenne","tokens":[{"form":"-anéne","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-áno'xe","id":"Cheyenne-84","language":"Cheyenne","tokens":[{"form":"-áno'xe","gloss":"sleep","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ao'ó","id":"Cheyenne-85","language":"Cheyenne","tokens":[{"form":"-ao'ó","gloss":"size, amount","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-as","id":"Cheyenne-86","language":"Cheyenne","tokens":[{"form":"-as","gloss":"cut (instrumental final)","UR":""}],"UR":""}
@@ -103,14 +103,14 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-é","id":"Cheyenne-103","language":"Cheyenne","tokens":[{"form":"-é","gloss":"singular animate noun final","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-e'é","id":"Cheyenne-104","language":"Cheyenne","tokens":[{"form":"-e'é","gloss":"woman","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-e'é","id":"Cheyenne-105","language":"Cheyenne","tokens":[{"form":"-e'é","gloss":"liver","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-e'ėstahe","id":"Cheyenne-106","language":"Cheyenne","tokens":[{"form":"-e'ėstahe","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-e'ėstahe","id":"Cheyenne-106","language":"Cheyenne","tokens":[{"form":"-e'ėstahe","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-e'há","id":"Cheyenne-107","language":"Cheyenne","tokens":[{"form":"-e'há","gloss":"fly","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-e'hahe","id":"Cheyenne-108","language":"Cheyenne","tokens":[{"form":"-e'hahe","gloss":"voice","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-e'haná","id":"Cheyenne-109","language":"Cheyenne","tokens":[{"form":"-e'haná","gloss":"eat","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-e'pé","id":"Cheyenne-110","language":"Cheyenne","tokens":[{"form":"-e'pé","gloss":"rib","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-e'sevó","id":"Cheyenne-111","language":"Cheyenne","tokens":[{"form":"-e'sevó","gloss":"flow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ee'e","id":"Cheyenne-112","language":"Cheyenne","tokens":[{"form":"-ee'e","gloss":"feather, quill","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-eeh","id":"Cheyenne-113","language":"Cheyenne","tokens":[{"form":"-eeh","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-eeh","id":"Cheyenne-113","language":"Cheyenne","tokens":[{"form":"-eeh","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-eehe","id":"Cheyenne-114","language":"Cheyenne","tokens":[{"form":"-eehe","gloss":"move camp","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-éen","id":"Cheyenne-115","language":"Cheyenne","tokens":[{"form":"-éen","gloss":"snow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-éená","id":"Cheyenne-116","language":"Cheyenne","tokens":[{"form":"-éená","gloss":"snow","UR":""}],"UR":""}
@@ -121,7 +121,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-ehahtsé","id":"Cheyenne-121","language":"Cheyenne","tokens":[{"form":"-ehahtsé","gloss":"cause s.t. to lie, set s.t., place s.t.","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-éhamá","id":"Cheyenne-122","language":"Cheyenne","tokens":[{"form":"-éhamá","gloss":"husband","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ehasené","id":"Cheyenne-123","language":"Cheyenne","tokens":[{"form":"-ehasené","gloss":"place thing, position things, set things","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-ehe","id":"Cheyenne-124","language":"Cheyenne","tokens":[{"form":"-ehe","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-ehe","id":"Cheyenne-124","language":"Cheyenne","tokens":[{"form":"-ehe","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ehné","id":"Cheyenne-125","language":"Cheyenne","tokens":[{"form":"-ehné","gloss":"walk","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ehóhtá","id":"Cheyenne-126","language":"Cheyenne","tokens":[{"form":"-ehóhtá","gloss":"at s.t., to s.t., approach s.t.","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ehót","id":"Cheyenne-127","language":"Cheyenne","tokens":[{"form":"-ehót","gloss":"at s.o., to s.o.","UR":""}],"UR":""}
@@ -129,7 +129,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-emas","id":"Cheyenne-129","language":"Cheyenne","tokens":[{"form":"-emas","gloss":"shoot s.o.","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-emȧxestá","id":"Cheyenne-130","language":"Cheyenne","tokens":[{"form":"-emȧxestá","gloss":"shoot s.t.","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ene","id":"Cheyenne-131","language":"Cheyenne","tokens":[{"form":"-ene","gloss":"overnight","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-ené","id":"Cheyenne-132","language":"Cheyenne","tokens":[{"form":"-ené","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-ené","id":"Cheyenne-132","language":"Cheyenne","tokens":[{"form":"-ené","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-éné","id":"Cheyenne-133","language":"Cheyenne","tokens":[{"form":"-éné","gloss":"face","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ene'ho'tá","id":"Cheyenne-134","language":"Cheyenne","tokens":[{"form":"-ene'ho'tá","gloss":"room","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-énehe","id":"Cheyenne-135","language":"Cheyenne","tokens":[{"form":"-énehe","gloss":"taste","UR":""}],"UR":""}
@@ -162,18 +162,18 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-háahpe'emenoo'e","id":"Cheyenne-162","language":"Cheyenne","tokens":[{"form":"-háahpe'emenoo'e","gloss":"be large berry-shaped","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-haéné","id":"Cheyenne-163","language":"Cheyenne","tokens":[{"form":"-haéné","gloss":"teary eyed","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-hahtá","id":"Cheyenne-164","language":"Cheyenne","tokens":[{"form":"-hahtá","gloss":"foot, feet","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-hahtsé","id":"Cheyenne-165","language":"Cheyenne","tokens":[{"form":"-hahtsé","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-hahtsé","id":"Cheyenne-165","language":"Cheyenne","tokens":[{"form":"-hahtsé","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-hane'é","id":"Cheyenne-166","language":"Cheyenne","tokens":[{"form":"-hane'é","gloss":"nape (back of neck)","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-hasené","id":"Cheyenne-167","language":"Cheyenne","tokens":[{"form":"-hasené","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-hasené","id":"Cheyenne-167","language":"Cheyenne","tokens":[{"form":"-hasené","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-he-tsénoone","id":"Cheyenne-168","language":"Cheyenne","tokens":[{"form":"-he-tsénoone","gloss":"wing, have wings","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-he'evoné","id":"Cheyenne-169","language":"Cheyenne","tokens":[{"form":"-he'evoné","gloss":"nipple(s)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-he'konamá","id":"Cheyenne-170","language":"Cheyenne","tokens":[{"form":"-he'konamá","gloss":"bone, foot","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-he'oná","id":"Cheyenne-171","language":"Cheyenne","tokens":[{"form":"-he'oná","gloss":"hand","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-he'pa'oná","id":"Cheyenne-172","language":"Cheyenne","tokens":[{"form":"-he'pa'oná","gloss":"back, spine","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-hestoha","id":"Cheyenne-173","language":"Cheyenne","tokens":[{"form":"-hestoha","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-hestoha","id":"Cheyenne-173","language":"Cheyenne","tokens":[{"form":"-hestoha","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-hestȯxe","id":"Cheyenne-174","language":"Cheyenne","tokens":[{"form":"-hestȯxe","gloss":"so many in number","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-hevá'sé","id":"Cheyenne-175","language":"Cheyenne","tokens":[{"form":"-hevá'sé","gloss":"tailbone, tail","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-hkóhtá","id":"Cheyenne-176","language":"Cheyenne","tokens":[{"form":"-hkóhtá","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-hkóhtá","id":"Cheyenne-176","language":"Cheyenne","tokens":[{"form":"-hkóhtá","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-hkosé","id":"Cheyenne-177","language":"Cheyenne","tokens":[{"form":"-hkosé","gloss":"finger, toe, claw","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-hné","id":"Cheyenne-178","language":"Cheyenne","tokens":[{"form":"-hné","gloss":"motion, walk","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ho'otse'ohe","id":"Cheyenne-179","language":"Cheyenne","tokens":[{"form":"-ho'otse'ohe","gloss":"work arrive [sic], arrive at point in work","UR":""}],"UR":""}
@@ -183,23 +183,23 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-hosé","id":"Cheyenne-183","language":"Cheyenne","tokens":[{"form":"-hosé","gloss":"penis","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-hót","id":"Cheyenne-184","language":"Cheyenne","tokens":[{"form":"-hót","gloss":"come to s.o.","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-hotoná'eoná","id":"Cheyenne-185","language":"Cheyenne","tokens":[{"form":"-hotoná'eoná","gloss":"joint(s)","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-hoxeoná","id":"Cheyenne-186","language":"Cheyenne","tokens":[{"form":"-hoxeoná","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-hoxeoná","id":"Cheyenne-186","language":"Cheyenne","tokens":[{"form":"-hoxeoná","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-hoxȯheoná","id":"Cheyenne-187","language":"Cheyenne","tokens":[{"form":"-hoxȯheoná","gloss":"sock(s) - wear","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-ht","id":"Cheyenne-188","language":"Cheyenne","tokens":[{"form":"-ht","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-ht","id":"Cheyenne-188","language":"Cheyenne","tokens":[{"form":"-ht","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-htaahe'oná","id":"Cheyenne-189","language":"Cheyenne","tokens":[{"form":"-htaahe'oná","gloss":"fist","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-htáhá","id":"Cheyenne-190","language":"Cheyenne","tokens":[{"form":"-htáhá","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-htáhá","id":"Cheyenne-190","language":"Cheyenne","tokens":[{"form":"-htáhá","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-htáhpé","id":"Cheyenne-191","language":"Cheyenne","tokens":[{"form":"-htáhpé","gloss":"brain","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-htȧhtoónoná","id":"Cheyenne-192","language":"Cheyenne","tokens":[{"form":"-htȧhtoónoná","gloss":"spine, backbone","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-htatamóoná","id":"Cheyenne-193","language":"Cheyenne","tokens":[{"form":"-htatamóoná","gloss":"shoulder","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-htátseemá","id":"Cheyenne-194","language":"Cheyenne","tokens":[{"form":"-htátseemá","gloss":"nostril(s)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-htatseoná","id":"Cheyenne-195","language":"Cheyenne","tokens":[{"form":"-htatseoná","gloss":"shoulderblade","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-htóo'oná","id":"Cheyenne-196","language":"Cheyenne","tokens":[{"form":"-htóo'oná","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-htóo'oná","id":"Cheyenne-196","language":"Cheyenne","tokens":[{"form":"-htóo'oná","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-htove","id":"Cheyenne-197","language":"Cheyenne","tokens":[{"form":"-htove","gloss":"impersonal verb suffix","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-htsé'ooná","id":"Cheyenne-198","language":"Cheyenne","tokens":[{"form":"-htsé'ooná","gloss":"elbow, rod (of engine)","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-htséá","id":"Cheyenne-199","language":"Cheyenne","tokens":[{"form":"-htséá","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-htséá","id":"Cheyenne-199","language":"Cheyenne","tokens":[{"form":"-htséá","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-htséstoná","id":"Cheyenne-200","language":"Cheyenne","tokens":[{"form":"-htséstoná","gloss":"heel","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-htsetooná","id":"Cheyenne-201","language":"Cheyenne","tokens":[{"form":"-htsetooná","gloss":"palate","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-m","id":"Cheyenne-202","language":"Cheyenne","tokens":[{"form":"-m","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-m","id":"Cheyenne-202","language":"Cheyenne","tokens":[{"form":"-m","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ma'","id":"Cheyenne-203","language":"Cheyenne","tokens":[{"form":"-ma'","gloss":"page, paper. of something made of paper","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ma'e'ó'tsé","id":"Cheyenne-204","language":"Cheyenne","tokens":[{"form":"-ma'e'ó'tsé","gloss":"paper - do to s.t.","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ma'ehá","id":"Cheyenne-205","language":"Cheyenne","tokens":[{"form":"-ma'ehá","gloss":"paper lie","UR":""}],"UR":""}
@@ -221,7 +221,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-méohe","id":"Cheyenne-221","language":"Cheyenne","tokens":[{"form":"-méohe","gloss":"run, strain, thrust","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-mestȯtse","id":"Cheyenne-222","language":"Cheyenne","tokens":[{"form":"-mestȯtse","gloss":"bag, pouch","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-mo","id":"Cheyenne-223","language":"Cheyenne","tokens":[{"form":"-mo","gloss":"you","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-mo","id":"Cheyenne-224","language":"Cheyenne","tokens":[{"form":"-mo","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-mo","id":"Cheyenne-224","language":"Cheyenne","tokens":[{"form":"-mo","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-momé'šėhahtá","id":"Cheyenne-225","language":"Cheyenne","tokens":[{"form":"-momé'šėhahtá","gloss":"furry-footed","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-mosé","id":"Cheyenne-226","language":"Cheyenne","tokens":[{"form":"-mosé","gloss":"do housework","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-mósé","id":"Cheyenne-227","language":"Cheyenne","tokens":[{"form":"-mósé","gloss":"handed","UR":""}],"UR":""}
@@ -248,8 +248,8 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-nóno'e","id":"Cheyenne-248","language":"Cheyenne","tokens":[{"form":"-nóno'e","gloss":"appear, look","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-noo'ȯtse","id":"Cheyenne-249","language":"Cheyenne","tokens":[{"form":"-noo'ȯtse","gloss":"song","UR":"-noot"}],"UR":"-noot"}
 {"definition":"","displayLanguage":"Cheyenne","form":"-nóohe","id":"Cheyenne-250","language":"Cheyenne","tokens":[{"form":"-nóohe","gloss":"look like, appear as","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-nóone","id":"Cheyenne-251","language":"Cheyenne","tokens":[{"form":"-nóone","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-noónó","id":"Cheyenne-252","language":"Cheyenne","tokens":[{"form":"-noónó","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-nóone","id":"Cheyenne-251","language":"Cheyenne","tokens":[{"form":"-nóone","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-noónó","id":"Cheyenne-252","language":"Cheyenne","tokens":[{"form":"-noónó","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-not","id":"Cheyenne-253","language":"Cheyenne","tokens":[{"form":"-not","gloss":"kill s.o.","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-nót","id":"Cheyenne-254","language":"Cheyenne","tokens":[{"form":"-nót","gloss":"sew","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-notová","id":"Cheyenne-255","language":"Cheyenne","tokens":[{"form":"-notová","gloss":"neck","UR":""}],"UR":""}
@@ -293,9 +293,9 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-o'tsé","id":"Cheyenne-293","language":"Cheyenne","tokens":[{"form":"-o'tsé","gloss":"camp","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-o'tsé","id":"Cheyenne-294","language":"Cheyenne","tokens":[{"form":"-o'tsé","gloss":"place s.t., keep s.t., put s.t.","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-o'xe","id":"Cheyenne-295","language":"Cheyenne","tokens":[{"form":"-o'xe","gloss":"carry load (especially game) on back","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-o'xé'tov","id":"Cheyenne-296","language":"Cheyenne","tokens":[{"form":"-o'xé'tov","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-o'xé'tov","id":"Cheyenne-296","language":"Cheyenne","tokens":[{"form":"-o'xé'tov","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-o'xem","id":"Cheyenne-297","language":"Cheyenne","tokens":[{"form":"-o'xem","gloss":"haul s.o., pack s.o.","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-oe","id":"Cheyenne-298","language":"Cheyenne","tokens":[{"form":"-oe","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-oe","id":"Cheyenne-298","language":"Cheyenne","tokens":[{"form":"-oe","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óé","id":"Cheyenne-299","language":"Cheyenne","tokens":[{"form":"-óé","gloss":"liquid, water","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óé","id":"Cheyenne-300","language":"Cheyenne","tokens":[{"form":"-óé","gloss":"stand","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óé","id":"Cheyenne-301","language":"Cheyenne","tokens":[{"form":"-óé","gloss":"stand, stick out","UR":""}],"UR":""}
@@ -313,9 +313,9 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-óeotse","id":"Cheyenne-313","language":"Cheyenne","tokens":[{"form":"-óeotse","gloss":"liquid, water","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-oese","id":"Cheyenne-314","language":"Cheyenne","tokens":[{"form":"-oese","gloss":"with quick action, on the spot","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-oése","id":"Cheyenne-315","language":"Cheyenne","tokens":[{"form":"-oése","gloss":"hang, float","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-óeše","id":"Cheyenne-316","language":"Cheyenne","tokens":[{"form":"-óeše","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-óeše","id":"Cheyenne-316","language":"Cheyenne","tokens":[{"form":"-óeše","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óešé'tov","id":"Cheyenne-317","language":"Cheyenne","tokens":[{"form":"-óešé'tov","gloss":"alight on s.o., land on s.o.","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-oésená","id":"Cheyenne-318","language":"Cheyenne","tokens":[{"form":"-oésená","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-oésená","id":"Cheyenne-318","language":"Cheyenne","tokens":[{"form":"-oésená","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óešévaen","id":"Cheyenne-319","language":"Cheyenne","tokens":[{"form":"-óešévaen","gloss":"place s.o. quickly","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-oest","id":"Cheyenne-320","language":"Cheyenne","tokens":[{"form":"-oest","gloss":"instantly, rapidly, quickly","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-oestá","id":"Cheyenne-321","language":"Cheyenne","tokens":[{"form":"-oestá","gloss":"wear a dress","UR":""}],"UR":""}
@@ -330,7 +330,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-óhkėha'e","id":"Cheyenne-330","language":"Cheyenne","tokens":[{"form":"-óhkėha'e","gloss":"cap","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ohohtsé","id":"Cheyenne-331","language":"Cheyenne","tokens":[{"form":"-ohohtsé","gloss":"tracks","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ohomó'he","id":"Cheyenne-332","language":"Cheyenne","tokens":[{"form":"-ohomó'he","gloss":"dance","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-ohoné","id":"Cheyenne-333","language":"Cheyenne","tokens":[{"form":"-ohoné","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-ohoné","id":"Cheyenne-333","language":"Cheyenne","tokens":[{"form":"-ohoné","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ohóné","id":"Cheyenne-334","language":"Cheyenne","tokens":[{"form":"-ohóné","gloss":"sign, use hand motions","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ohoo'e","id":"Cheyenne-335","language":"Cheyenne","tokens":[{"form":"-ohoo'e","gloss":"wade, swim","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ohóot","id":"Cheyenne-336","language":"Cheyenne","tokens":[{"form":"-ohóot","gloss":"gift s.o., charismatize s.o.","UR":""}],"UR":""}
@@ -345,16 +345,16 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-óhtá","id":"Cheyenne-345","language":"Cheyenne","tokens":[{"form":"-óhtá","gloss":"by mouth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óhta'hané","id":"Cheyenne-346","language":"Cheyenne","tokens":[{"form":"-óhta'hané","gloss":"tell story","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ohtȧhé","id":"Cheyenne-347","language":"Cheyenne","tokens":[{"form":"-ohtȧhé","gloss":"design","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-ohtóvá","id":"Cheyenne-348","language":"Cheyenne","tokens":[{"form":"-ohtóvá","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-ohtóvá","id":"Cheyenne-348","language":"Cheyenne","tokens":[{"form":"-ohtóvá","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ohtsé","id":"Cheyenne-349","language":"Cheyenne","tokens":[{"form":"-ohtsé","gloss":"go","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ohtsé","id":"Cheyenne-350","language":"Cheyenne","tokens":[{"form":"-ohtsé","gloss":"slow process","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-ȯhtsé","id":"Cheyenne-351","language":"Cheyenne","tokens":[{"form":"-ȯhtsé","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-ȯhtsé","id":"Cheyenne-351","language":"Cheyenne","tokens":[{"form":"-ȯhtsé","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-om","id":"Cheyenne-352","language":"Cheyenne","tokens":[{"form":"-om","gloss":"by mouth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óma'","id":"Cheyenne-353","language":"Cheyenne","tokens":[{"form":"-óma'","gloss":"ground, land, earth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óma'é","id":"Cheyenne-354","language":"Cheyenne","tokens":[{"form":"-óma'é","gloss":"paint","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óma'o'e","id":"Cheyenne-355","language":"Cheyenne","tokens":[{"form":"-óma'o'e","gloss":"ground, land, earth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óma'ȯxová","id":"Cheyenne-356","language":"Cheyenne","tokens":[{"form":"-óma'ȯxová","gloss":"plow ground","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-ome","id":"Cheyenne-357","language":"Cheyenne","tokens":[{"form":"-ome","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-ome","id":"Cheyenne-357","language":"Cheyenne","tokens":[{"form":"-ome","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ome","id":"Cheyenne-358","language":"Cheyenne","tokens":[{"form":"-ome","gloss":"lodge, dwelling, house","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óme","id":"Cheyenne-359","language":"Cheyenne","tokens":[{"form":"-óme","gloss":"belly","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-omené","id":"Cheyenne-360","language":"Cheyenne","tokens":[{"form":"-omené","gloss":"have lodge","UR":""}],"UR":""}
@@ -365,7 +365,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-onené","id":"Cheyenne-365","language":"Cheyenne","tokens":[{"form":"-onené","gloss":"tooth, teeth","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óneo'e","id":"Cheyenne-366","language":"Cheyenne","tokens":[{"form":"-óneo'e","gloss":"length (ropelike)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ónoo'e","id":"Cheyenne-367","language":"Cheyenne","tokens":[{"form":"-ónoo'e","gloss":"sit","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-onóvá","id":"Cheyenne-368","language":"Cheyenne","tokens":[{"form":"-onóvá","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-onóvá","id":"Cheyenne-368","language":"Cheyenne","tokens":[{"form":"-onóvá","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ónová","id":"Cheyenne-369","language":"Cheyenne","tokens":[{"form":"-ónová","gloss":"talk","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-onóvá","id":"Cheyenne-370","language":"Cheyenne","tokens":[{"form":"-onóvá","gloss":"hang dry meat","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-oo'e","id":"Cheyenne-371","language":"Cheyenne","tokens":[{"form":"-oo'e","gloss":"sit, be (there), occupy, reside","UR":"-oe"}],"UR":"-oe"}
@@ -386,7 +386,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-ósané","id":"Cheyenne-386","language":"Cheyenne","tokens":[{"form":"-ósané","gloss":"people","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ose","id":"Cheyenne-387","language":"Cheyenne","tokens":[{"form":"-ose","gloss":"cold","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ose","id":"Cheyenne-388","language":"Cheyenne","tokens":[{"form":"-ose","gloss":"hill","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-osé","id":"Cheyenne-389","language":"Cheyenne","tokens":[{"form":"-osé","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-osé","id":"Cheyenne-389","language":"Cheyenne","tokens":[{"form":"-osé","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ósé","id":"Cheyenne-390","language":"Cheyenne","tokens":[{"form":"-ósé","gloss":"finger, hand, claw","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ótané","id":"Cheyenne-391","language":"Cheyenne","tokens":[{"form":"-ótané","gloss":"burrow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-otóhtá","id":"Cheyenne-392","language":"Cheyenne","tokens":[{"form":"-otóhtá","gloss":"carry s.t. in the mouth","UR":""}],"UR":""}
@@ -397,7 +397,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-otse'ohe","id":"Cheyenne-397","language":"Cheyenne","tokens":[{"form":"-otse'ohe","gloss":"work","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-otsehe","id":"Cheyenne-398","language":"Cheyenne","tokens":[{"form":"-otsehe","gloss":"smoke","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ová","id":"Cheyenne-399","language":"Cheyenne","tokens":[{"form":"-ová","gloss":"hide, fur","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-ová","id":"Cheyenne-400","language":"Cheyenne","tokens":[{"form":"-ová","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-ová","id":"Cheyenne-400","language":"Cheyenne","tokens":[{"form":"-ová","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ová","id":"Cheyenne-401","language":"Cheyenne","tokens":[{"form":"-ová","gloss":"ceremony, mysterious, sacred, spiritual ??","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óvahe","id":"Cheyenne-402","language":"Cheyenne","tokens":[{"form":"-óvahe","gloss":"group, class","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óvátó","id":"Cheyenne-403","language":"Cheyenne","tokens":[{"form":"-óvátó","gloss":"group, class","UR":""}],"UR":""}
@@ -411,9 +411,9 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-ȯxe'ohe","id":"Cheyenne-411","language":"Cheyenne","tokens":[{"form":"-ȯxe'ohe","gloss":"written, be of a certain time","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-oxom","id":"Cheyenne-412","language":"Cheyenne","tokens":[{"form":"-oxom","gloss":"feed s.o., feed s.o. to death","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-óxovéstavá","id":"Cheyenne-413","language":"Cheyenne","tokens":[{"form":"-óxovéstavá","gloss":"travel","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-sané","id":"Cheyenne-414","language":"Cheyenne","tokens":[{"form":"-sané","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-sané","id":"Cheyenne-414","language":"Cheyenne","tokens":[{"form":"-sané","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-sané","id":"Cheyenne-415","language":"Cheyenne","tokens":[{"form":"-sané","gloss":"dress","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-še","id":"Cheyenne-416","language":"Cheyenne","tokens":[{"form":"-še","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-še","id":"Cheyenne-416","language":"Cheyenne","tokens":[{"form":"-še","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-še'še","id":"Cheyenne-417","language":"Cheyenne","tokens":[{"form":"-še'še","gloss":"drink","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-šeeoná","id":"Cheyenne-418","language":"Cheyenne","tokens":[{"form":"-šeeoná","gloss":"chest","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-šené","id":"Cheyenne-419","language":"Cheyenne","tokens":[{"form":"-šené","gloss":"chest (of body)","UR":""}],"UR":""}
@@ -423,16 +423,16 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-škosé","id":"Cheyenne-423","language":"Cheyenne","tokens":[{"form":"-škosé","gloss":"finger, toe","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-só","id":"Cheyenne-424","language":"Cheyenne","tokens":[{"form":"-só","gloss":"urinate","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-só'é","id":"Cheyenne-425","language":"Cheyenne","tokens":[{"form":"-só'é","gloss":"crotch","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-sóme","id":"Cheyenne-426","language":"Cheyenne","tokens":[{"form":"-sóme","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-sóme","id":"Cheyenne-426","language":"Cheyenne","tokens":[{"form":"-sóme","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-sóohtsé","id":"Cheyenne-427","language":"Cheyenne","tokens":[{"form":"-sóohtsé","gloss":"urinate","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-sta'né","id":"Cheyenne-428","language":"Cheyenne","tokens":[{"form":"-sta'né","gloss":"umbilical cord, navel","UR":"-hta'né"}],"UR":"-hta'né"}
 {"definition":"","displayLanguage":"Cheyenne","form":"-stáhá","id":"Cheyenne-429","language":"Cheyenne","tokens":[{"form":"-stáhá","gloss":"heart","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-stóo'oná","id":"Cheyenne-430","language":"Cheyenne","tokens":[{"form":"-stóo'oná","gloss":"jaw","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-stósėhahtsé","id":"Cheyenne-431","language":"Cheyenne","tokens":[{"form":"-stósėhahtsé","gloss":"drag s.t., pull s.t.","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-stósem","id":"Cheyenne-432","language":"Cheyenne","tokens":[{"form":"-stósem","gloss":"drag s.o.","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-sts","id":"Cheyenne-433","language":"Cheyenne","tokens":[{"form":"-sts","gloss":"NG","UR":"-ht"}],"UR":"-ht"}
-{"definition":"","displayLanguage":"Cheyenne","form":"-t","id":"Cheyenne-434","language":"Cheyenne","tokens":[{"form":"-t","gloss":"NG","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-ta'ta'","id":"Cheyenne-435","language":"Cheyenne","tokens":[{"form":"-ta'ta'","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-sts","id":"Cheyenne-433","language":"Cheyenne","tokens":[{"form":"-sts","gloss":"","UR":"-ht"}],"UR":"-ht"}
+{"definition":"","displayLanguage":"Cheyenne","form":"-t","id":"Cheyenne-434","language":"Cheyenne","tokens":[{"form":"-t","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-ta'ta'","id":"Cheyenne-435","language":"Cheyenne","tokens":[{"form":"-ta'ta'","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ta'xevá","id":"Cheyenne-436","language":"Cheyenne","tokens":[{"form":"-ta'xevá","gloss":"testicle","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-tanahá","id":"Cheyenne-437","language":"Cheyenne","tokens":[{"form":"-tanahá","gloss":"breast, udder","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-tane","id":"Cheyenne-438","language":"Cheyenne","tokens":[{"form":"-tane","gloss":"person, man","UR":""}],"UR":""}
@@ -445,12 +445,12 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-tseena'ó","id":"Cheyenne-445","language":"Cheyenne","tokens":[{"form":"-tseena'ó","gloss":"wings spread","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-tsénoná","id":"Cheyenne-446","language":"Cheyenne","tokens":[{"form":"-tsénoná","gloss":"armpit","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-tsénooná","id":"Cheyenne-447","language":"Cheyenne","tokens":[{"form":"-tsénooná","gloss":"wing","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-va'há","id":"Cheyenne-448","language":"Cheyenne","tokens":[{"form":"-va'há","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-va'há","id":"Cheyenne-448","language":"Cheyenne","tokens":[{"form":"-va'há","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-váen","id":"Cheyenne-449","language":"Cheyenne","tokens":[{"form":"-váen","gloss":"quickly","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-váen","id":"Cheyenne-450","language":"Cheyenne","tokens":[{"form":"-váen","gloss":"quickly","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-váhtá","id":"Cheyenne-451","language":"Cheyenne","tokens":[{"form":"-váhtá","gloss":"persuade; urge; cause to by speaking","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-vám","id":"Cheyenne-452","language":"Cheyenne","tokens":[{"form":"-vám","gloss":"persuade; urge; cause to by speaking","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"-vávaóesem","id":"Cheyenne-453","language":"Cheyenne","tokens":[{"form":"-vávaóesem","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"-vávaóesem","id":"Cheyenne-453","language":"Cheyenne","tokens":[{"form":"-vávaóesem","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ve","id":"Cheyenne-454","language":"Cheyenne","tokens":[{"form":"-ve","gloss":"be","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-ve","id":"Cheyenne-455","language":"Cheyenne","tokens":[{"form":"-ve","gloss":"be","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-vé'henosé","id":"Cheyenne-456","language":"Cheyenne","tokens":[{"form":"-vé'henosé","gloss":"eyebrow, eyelash","UR":""}],"UR":""}
@@ -470,7 +470,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"-xó'é","id":"Cheyenne-470","language":"Cheyenne","tokens":[{"form":"-xó'é","gloss":"genital area, crotch","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"-xónetam","id":"Cheyenne-471","language":"Cheyenne","tokens":[{"form":"-xónetam","gloss":"filthy, dirty, unclean","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"'(š)-","id":"Cheyenne-472","language":"Cheyenne","tokens":[{"form":"'(š)-","gloss":"free","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"'esó","id":"Cheyenne-473","language":"Cheyenne","tokens":[{"form":"'esó","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"'esó","id":"Cheyenne-473","language":"Cheyenne","tokens":[{"form":"'esó","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"'heóneve","id":"Cheyenne-474","language":"Cheyenne","tokens":[{"form":"'heóneve","gloss":"characterized as","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"á'(k)av-","id":"Cheyenne-475","language":"Cheyenne","tokens":[{"form":"á'(k)av-","gloss":"droop, hang down","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"a'e'h-","id":"Cheyenne-476","language":"Cheyenne","tokens":[{"form":"a'e'h-","gloss":"separate, aside","UR":""}],"UR":""}
@@ -567,7 +567,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"héhpoh-","id":"Cheyenne-567","language":"Cheyenne","tokens":[{"form":"héhpoh-","gloss":"frighten","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"héhpohe-","id":"Cheyenne-568","language":"Cheyenne","tokens":[{"form":"héhpohe-","gloss":"scared","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"héne'h-","id":"Cheyenne-569","language":"Cheyenne","tokens":[{"form":"héne'h-","gloss":"stiff","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"hénóme","id":"Cheyenne-570","language":"Cheyenne","tokens":[{"form":"hénóme","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"hénóme","id":"Cheyenne-570","language":"Cheyenne","tokens":[{"form":"hénóme","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"heóm-","id":"Cheyenne-571","language":"Cheyenne","tokens":[{"form":"heóm-","gloss":"excessive","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"heóv-","id":"Cheyenne-572","language":"Cheyenne","tokens":[{"form":"heóv-","gloss":"yellow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"heš-","id":"Cheyenne-573","language":"Cheyenne","tokens":[{"form":"heš-","gloss":"that way","UR":""}],"UR":""}
@@ -730,7 +730,7 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"néham-","id":"Cheyenne-730","language":"Cheyenne","tokens":[{"form":"néham-","gloss":"sneak up","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"nėhp-","id":"Cheyenne-731","language":"Cheyenne","tokens":[{"form":"nėhp-","gloss":"cover, block, close, obstruct","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"nėhpa'é-","id":"Cheyenne-732","language":"Cheyenne","tokens":[{"form":"nėhpa'é-","gloss":"obstruct","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"ném-","id":"Cheyenne-733","language":"Cheyenne","tokens":[{"form":"ném-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Cheyenne","form":"ném-","id":"Cheyenne-733","language":"Cheyenne","tokens":[{"form":"ném-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"néma'-","id":"Cheyenne-734","language":"Cheyenne","tokens":[{"form":"néma'-","gloss":"circle, around, circular, revolve","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"néma'e-","id":"Cheyenne-735","language":"Cheyenne","tokens":[{"form":"néma'e-","gloss":"circular, around, revolve","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"nenóv-","id":"Cheyenne-736","language":"Cheyenne","tokens":[{"form":"nenóv-","gloss":"shortly","UR":""}],"UR":""}
@@ -966,8 +966,8 @@
 {"definition":"","displayLanguage":"Cheyenne","form":"xanov-","id":"Cheyenne-966","language":"Cheyenne","tokens":[{"form":"xanov-","gloss":"straight","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"xo'-","id":"Cheyenne-967","language":"Cheyenne","tokens":[{"form":"xo'-","gloss":"salve (put on)","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Cheyenne","form":"xó'xon-","id":"Cheyenne-968","language":"Cheyenne","tokens":[{"form":"xó'xon-","gloss":"dent","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Cheyenne","form":"","id":"Cheyenne-969","language":"Cheyenne","tokens":[{"form":"","gloss":"NG","UR":"-omevót"}],"UR":"-omevót"}
-{"definition":"","displayLanguage":"Cheyenne","form":"","id":"Cheyenne-970","language":"Cheyenne","tokens":[{"form":"","gloss":"NG","UR":"-omó(n)"}],"UR":"-omó(n)"}
-{"definition":"","displayLanguage":"Cheyenne","form":"","id":"Cheyenne-971","language":"Cheyenne","tokens":[{"form":"","gloss":"NG","UR":"-omo(s)"}],"UR":"-omo(s)"}
-{"definition":"","displayLanguage":"Cheyenne","form":"","id":"Cheyenne-972","language":"Cheyenne","tokens":[{"form":"","gloss":"NG","UR":"-htéá"}],"UR":"-htéá"}
+{"definition":"","displayLanguage":"Cheyenne","form":"","id":"Cheyenne-969","language":"Cheyenne","tokens":[{"form":"","gloss":"","UR":"-omevót"}],"UR":"-omevót"}
+{"definition":"","displayLanguage":"Cheyenne","form":"","id":"Cheyenne-970","language":"Cheyenne","tokens":[{"form":"","gloss":"","UR":"-omó(n)"}],"UR":"-omó(n)"}
+{"definition":"","displayLanguage":"Cheyenne","form":"","id":"Cheyenne-971","language":"Cheyenne","tokens":[{"form":"","gloss":"","UR":"-omo(s)"}],"UR":"-omo(s)"}
+{"definition":"","displayLanguage":"Cheyenne","form":"","id":"Cheyenne-972","language":"Cheyenne","tokens":[{"form":"","gloss":"","UR":"-htéá"}],"UR":"-htéá"}
 {"definition":"","displayLanguage":"Cheyenne","form":"","id":"Cheyenne-973","language":"Cheyenne","tokens":[{"form":"","gloss":"lie","UR":"-(e)šená"}],"UR":"-(e)šená"}

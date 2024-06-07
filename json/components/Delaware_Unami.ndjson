@@ -1,9 +1,9 @@
 {"definition":"","displayLanguage":"Unami","form":"ERROR: Orthography UNK not recognized.","id":"Delaware_Unami-1","language":"Delaware_Unami","tokens":[{"form":"-gapawin","gloss":"stand, step","UR":""}],"UR":"ERROR: Orthography UNK not recognized."}
 {"definition":"","displayLanguage":"Unami","form":"-t·hun-","id":"Delaware_Unami-2","language":"Delaware_Unami","tokens":[{"form":"-thun-","gloss":"branch","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Unami","form":"ERROR: Orthography UNK not recognized.","id":"Delaware_Unami-3","language":"Delaware_Unami","tokens":[{"form":"wak-","gloss":"bend","UR":""}],"UR":"ERROR: Orthography UNK not recognized."}
-{"definition":"","displayLanguage":"Unami","form":"wǝnt·ee-","id":"Delaware_Unami-4","language":"Delaware_Unami","tokens":[{"form":"wǝnte·-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Unami","form":"wǝnt·ee-","id":"Delaware_Unami-4","language":"Delaware_Unami","tokens":[{"form":"wǝnte·-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Unami","form":"ERROR: Orthography UNK not recognized.","id":"Delaware_Unami-5","language":"Delaware_Unami","tokens":[{"form":"woak-","gloss":"bend","UR":""}],"UR":"ERROR: Orthography UNK not recognized."}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-6","language":"Delaware_Unami","tokens":[{"form":"","gloss":"NG","UR":"pa·htamwe·w-"}],"UR":"p·aaht·amweew-"}
+{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-6","language":"Delaware_Unami","tokens":[{"form":"","gloss":"","UR":"pa·htamwe·w-"}],"UR":"p·aaht·amweew-"}
 {"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-7","language":"Delaware_Unami","tokens":[{"form":"","gloss":"cornmeal, mush","UR":"-asa·pa·n-"}],"UR":"-as·aap·aan-"}
 {"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-8","language":"Delaware_Unami","tokens":[{"form":"","gloss":"act on quickly","UR":"-hlat-"}],"UR":"-hlat·-"}
 {"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-9","language":"Delaware_Unami","tokens":[{"form":"","gloss":"bad","UR":"mat-"}],"UR":"mat·-"}
@@ -14,5 +14,5 @@
 {"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-14","language":"Delaware_Unami","tokens":[{"form":"","gloss":"dirty","UR":"ni·sk-"}],"UR":"niis·k·-"}
 {"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-15","language":"Delaware_Unami","tokens":[{"form":"","gloss":"wash","UR":"kǝši·-"}],"UR":"k·ǝšii-"}
 {"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-16","language":"Delaware_Unami","tokens":[{"form":"","gloss":"by hand","UR":"-ǝn-"}],"UR":"-ǝn-"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-17","language":"Delaware_Unami","tokens":[{"form":"","gloss":"NG","UR":"-wa·kan"}],"UR":"-waak·an"}
+{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-17","language":"Delaware_Unami","tokens":[{"form":"","gloss":"","UR":"-wa·kan"}],"UR":"-waak·an"}
 {"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-18","language":"Delaware_Unami","tokens":[{"form":"","gloss":"applicative","UR":"-lax-"}],"UR":"-lax-"}
