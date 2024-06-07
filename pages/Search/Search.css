@@ -39,11 +39,11 @@ blockquote p {
 }
 
 h2 {
-  font-size:  x-large;
   text-align: center;
 }
 
 #main {
+  align-items:     center;
   align-self:      stretch;
   max-inline-size: 100%;
   padding:         0;
@@ -88,7 +88,6 @@ h2 {
 }
 
 search {
-  align-self:      center;
   margin:          1em;
   max-inline-size: 30em;
 }
@@ -102,7 +101,6 @@ search {
 
 .stats {
 
-  align-self:            center;
   display:               grid;
   grid-template-columns: auto auto;
 
