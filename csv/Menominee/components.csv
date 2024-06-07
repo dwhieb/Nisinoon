@@ -1,14 +1,14 @@
 ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
-1,Bloomfield,LB1925b,0150,mez,,meno1252,-'kw-,MN:4,,,,,,eye,,medial
-2,Goddard,IG1965,0213,mez,,meno1252,-a·mɛhk-,MN:2,,,,*a·meHk-,,"earth, soil",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-3,Goddard,IG1965,0213,mez,,meno1252,-a·mɛhkw-,MN:2,,,,*a·meHkw-,,"earth, soil",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-4,Goddard,IG1967b,0074,mez,,meno1252,-a·n,MN:1,,,,,,NG,,final,N,,,,,,,,,,,wa·nɛhka·n-,,,N,,pit,,IG1967b;0074,,,,,,"""AI verbs with final -ɛ·- form nouns in -a·n"" (with replacement of ɛ· by a·)."
-5,Goddard,IG1965,0219,mez,,meno1252,-a·n-ak,MN:2,,,,*wa·θ-,,hole,,medial,,,,,,,,,,,,,,,,,,,,,,,Y,,"""medial with deverbal root""",,MAM
-6,Goddard,IG1980,0144,mez,,meno1252,-ahkonɛ·-,MN:1,,,,*-eθe·-,,blaze,,final,II,,,,,,,,,,,,,,,,,,,,,,,,"Not explicit that it's an II final, but the PA source is.",,MAM
-7,Bloomfield,LB1927b,0401,mez,,meno1252,-ak-,MN:4,,,,,,NG,,postmedial
-8,Goddard,IG1965,0212,mez,,meno1252,-amami,MN:2,,,,,,suffer pain,,final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-9,Bloomfield,LB1924,0343,mez,,meno1252,-äniht,MN:6,,,,,,think of inanimate thing,,final,TI
-10,Bloomfield,LB1927b,0398,mez,,meno1252,-ātaʔnōhkä-,MN:4,,,,,,NG,,final
+1,Bloomfield,LB1925b,0150,mez,,meno1252,-'kw-,MN:4,,,,,,eye,eye,medial
+2,Goddard,IG1965,0213,mez,,meno1252,-a·mɛhk-,MN:2,,,,*a·meHk-,,"earth, soil","earth, soil",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+3,Goddard,IG1965,0213,mez,,meno1252,-a·mɛhkw-,MN:2,,,,*a·meHkw-,,"earth, soil","earth, soil",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+4,Goddard,IG1967b,0074,mez,,meno1252,-a·n,MN:1,,,,,,NG,NG,final,N,,,,,,,,,,,wa·nɛhka·n-,,,N,,pit,,IG1967b;0074,,,,,,"""AI verbs with final -ɛ·- form nouns in -a·n"" (with replacement of ɛ· by a·)."
+5,Goddard,IG1965,0219,mez,,meno1252,-a·n-ak,MN:2,,,,*wa·θ-,,hole,hole,medial,,,,,,,,,,,,,,,,,,,,,,,Y,,"""medial with deverbal root""",,MAM
+6,Goddard,IG1980,0144,mez,,meno1252,-ahkonɛ·-,MN:1,,,,*-eθe·-,,blaze,blaze,final,II,,,,,,,,,,,,,,,,,,,,,,,,"Not explicit that it's an II final, but the PA source is.",,MAM
+7,Bloomfield,LB1927b,0401,mez,,meno1252,-ak-,MN:4,,,,,,NG,NG,postmedial
+8,Goddard,IG1965,0212,mez,,meno1252,-amami,MN:2,,,,,,suffer pain,suffer pain,final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+9,Bloomfield,LB1924,0343,mez,,meno1252,-äniht,MN:6,,,,,,think of inanimate thing,think of inanimate thing,final,TI
+10,Bloomfield,LB1927b,0398,mez,,meno1252,-ātaʔnōhkä-,MN:4,,,,,,NG,NG,final
 11,Bloomfield,LB1927b,0398,mez,,meno1252,-aʔnōhkä-,MN:4,,,,,,NG,,final
 12,Goddard,IG1965,0214,mez,,meno1252,-čya·N-,MN:2,,,,*-čya·θ-,,nose,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 13,Bloomfield,LB1924,0341,mez,,meno1252,-ehk-,MN:6,,,,,,by foot or body-movement,,final,,,,,,,,,,-eck-,,,,,,,,,,,,,,,does not say what type of final (from other sources: TI)
