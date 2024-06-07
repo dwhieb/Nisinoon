@@ -1,6 +1,6 @@
-{"definition":"","form":"-kot-","id":"Cree_East-1","language":"Cree_East","UR":""}
-{"definition":"","form":"-yi","id":"Cree_East-2","language":"Cree_East","UR":""}
-{"definition":"","form":"čiič-","id":"Cree_East-3","language":"Cree_East","UR":""}
-{"definition":"","form":"paahp-","id":"Cree_East-4","language":"Cree_East","UR":""}
-{"definition":"","form":"pahkope-","id":"Cree_East-5","language":"Cree_East","UR":""}
-{"definition":"","form":"payehk-","id":"Cree_East-6","language":"Cree_East","UR":""}
+{"definition":"","displayLanguage":"East Cree","form":"-kot-","id":"Cree_East-1","language":"Cree_East","tokens":[{"form":"-kot-","gloss":"nose","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"East Cree","form":"-yi","id":"Cree_East-2","language":"Cree_East","tokens":[{"form":"-yi","gloss":"self-initiated body movement","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"East Cree","form":"čiič-","id":"Cree_East-3","language":"Cree_East","tokens":[{"form":"chiich-","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"East Cree","form":"paahp-","id":"Cree_East-4","language":"Cree_East","tokens":[{"form":"paahp-","gloss":"laugh","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"East Cree","form":"pahkope-","id":"Cree_East-5","language":"Cree_East","tokens":[{"form":"pahkope-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"East Cree","form":"payehk-","id":"Cree_East-6","language":"Cree_East","tokens":[{"form":"payehk-","gloss":"clean","UR":""}],"UR":""}

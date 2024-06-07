@@ -1,29 +1,29 @@
-{"definition":"","form":"-aa","id":"Cree_Naskapi_Western-5","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-aahpi","id":"Cree_Naskapi_Western-24","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-aaht","id":"Cree_Naskapi_Western-28","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-aap","id":"Cree_Naskapi_Western-7","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-aap","id":"Cree_Naskapi_Western-10","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-aapu","id":"Cree_Naskapi_Western-16","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-aasaam","id":"Cree_Naskapi_Western-13","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-atiihkw","id":"Cree_Naskapi_Western-25","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-iiht","id":"Cree_Naskapi_Western-11","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-im","id":"Cree_Naskapi_Western-2","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-im","id":"Cree_Naskapi_Western-27","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-isk","id":"Cree_Naskapi_Western-29","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-min","id":"Cree_Naskapi_Western-4","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-s","id":"Cree_Naskapi_Western-19","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-su","id":"Cree_Naskapi_Western-21","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-swaa","id":"Cree_Naskapi_Western-17","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"-tiihkw","id":"Cree_Naskapi_Western-14","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"miiči","id":"Cree_Naskapi_Western-20","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"miihčaatw","id":"Cree_Naskapi_Western-18","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"mw","id":"Cree_Naskapi_Western-3","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"naah","id":"Cree_Naskapi_Western-6","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"nituu","id":"Cree_Naskapi_Western-8","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"paahkun","id":"Cree_Naskapi_Western-15","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"paahpi-","id":"Cree_Naskapi_Western-23","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"piihč","id":"Cree_Naskapi_Western-22","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"pikistuw","id":"Cree_Naskapi_Western-9","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"puust","id":"Cree_Naskapi_Western-12","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"waap-","id":"Cree_Naskapi_Western-1","language":"Cree_Naskapi_Western","UR":""}
-{"definition":"","form":"waap-","id":"Cree_Naskapi_Western-26","language":"Cree_Naskapi_Western","UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-aa","id":"Cree_Naskapi_Western-5","language":"Cree_Naskapi_Western","tokens":[{"form":"-â","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-aahpi","id":"Cree_Naskapi_Western-24","language":"Cree_Naskapi_Western","tokens":[{"form":"-âhpi","gloss":"laugh","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-aaht","id":"Cree_Naskapi_Western-28","language":"Cree_Naskapi_Western","tokens":[{"form":"-âht","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-aap","id":"Cree_Naskapi_Western-7","language":"Cree_Naskapi_Western","tokens":[{"form":"-âp","gloss":"light","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-aap","id":"Cree_Naskapi_Western-10","language":"Cree_Naskapi_Western","tokens":[{"form":"-âp","gloss":"water","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-aapu","id":"Cree_Naskapi_Western-16","language":"Cree_Naskapi_Western","tokens":[{"form":"-âpu","gloss":"rabbit","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-aasaam","id":"Cree_Naskapi_Western-13","language":"Cree_Naskapi_Western","tokens":[{"form":"-âsâm","gloss":"snowshoe","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-atiihkw","id":"Cree_Naskapi_Western-25","language":"Cree_Naskapi_Western","tokens":[{"form":"-atîhkw","gloss":"caribou","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-iiht","id":"Cree_Naskapi_Western-11","language":"Cree_Naskapi_Western","tokens":[{"form":"-îht","gloss":"caus","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-im","id":"Cree_Naskapi_Western-2","language":"Cree_Naskapi_Western","tokens":[{"form":"-im","gloss":"do by means of facial activity","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-im","id":"Cree_Naskapi_Western-27","language":"Cree_Naskapi_Western","tokens":[{"form":"-im","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-isk","id":"Cree_Naskapi_Western-29","language":"Cree_Naskapi_Western","tokens":[{"form":"-isk","gloss":"goose","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-min","id":"Cree_Naskapi_Western-4","language":"Cree_Naskapi_Western","tokens":[{"form":"-min","gloss":"berry","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-s","id":"Cree_Naskapi_Western-19","language":"Cree_Naskapi_Western","tokens":[{"form":"-s","gloss":"do by blade","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-su","id":"Cree_Naskapi_Western-21","language":"Cree_Naskapi_Western","tokens":[{"form":"-su","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-swaa","id":"Cree_Naskapi_Western-17","language":"Cree_Naskapi_Western","tokens":[{"form":"-swâ","gloss":"do by blade","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"-tiihkw","id":"Cree_Naskapi_Western-14","language":"Cree_Naskapi_Western","tokens":[{"form":"-tîhkw","gloss":"caribou","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"miiči","id":"Cree_Naskapi_Western-20","language":"Cree_Naskapi_Western","tokens":[{"form":"mîchi","gloss":"eat","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"miihčaatw","id":"Cree_Naskapi_Western-18","language":"Cree_Naskapi_Western","tokens":[{"form":"mîhchâtw","gloss":"many","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"mw","id":"Cree_Naskapi_Western-3","language":"Cree_Naskapi_Western","tokens":[{"form":"mw","gloss":"eat","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"naah","id":"Cree_Naskapi_Western-6","language":"Cree_Naskapi_Western","tokens":[{"form":"nâh","gloss":"good","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"nituu","id":"Cree_Naskapi_Western-8","language":"Cree_Naskapi_Western","tokens":[{"form":"nitû","gloss":"hunt","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"paahkun","id":"Cree_Naskapi_Western-15","language":"Cree_Naskapi_Western","tokens":[{"form":"pâhkun","gloss":"skin","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"paahpi-","id":"Cree_Naskapi_Western-23","language":"Cree_Naskapi_Western","tokens":[{"form":"pâhpi-","gloss":"laugh","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"piihč","id":"Cree_Naskapi_Western-22","language":"Cree_Naskapi_Western","tokens":[{"form":"pîhch","gloss":"inside","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"pikistuw","id":"Cree_Naskapi_Western-9","language":"Cree_Naskapi_Western","tokens":[{"form":"pikistuw","gloss":"drop","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"puust","id":"Cree_Naskapi_Western-12","language":"Cree_Naskapi_Western","tokens":[{"form":"pûst","gloss":"put on","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"waap-","id":"Cree_Naskapi_Western-1","language":"Cree_Naskapi_Western","tokens":[{"form":"wâp-","gloss":"light","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Western Naskapi","form":"waap-","id":"Cree_Naskapi_Western-26","language":"Cree_Naskapi_Western","tokens":[{"form":"wâp-","gloss":"white","UR":""}],"UR":""}

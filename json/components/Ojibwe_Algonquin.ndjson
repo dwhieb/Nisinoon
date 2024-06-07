@@ -1,19 +1,19 @@
-{"definition":"","form":"-(aan)aapik·-","id":"Ojibwe_Algonquin-1","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-aakonee-","id":"Ojibwe_Algonquin-2","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-aak·ikan-","id":"Ojibwe_Algonquin-3","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-aawak-","id":"Ojibwe_Algonquin-4","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-aw","id":"Ojibwe_Algonquin-5","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-toos·k·wan-","id":"Ojibwe_Algonquin-6","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-ikan","id":"Ojibwe_Algonquin-7","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-ikaniwi","id":"Ojibwe_Algonquin-8","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-ikeē","id":"Ojibwe_Algonquin-9","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-iweē","id":"Ojibwe_Algonquin-10","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-iwi","id":"Ojibwe_Algonquin-11","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-nāniwan","id":"Ojibwe_Algonquin-12","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-ns","id":"Ojibwe_Algonquin-13","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-nš","id":"Ojibwe_Algonquin-14","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"-ō","id":"Ojibwe_Algonquin-15","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"payeek·-","id":"Ojibwe_Algonquin-16","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"pīt","id":"Ojibwe_Algonquin-17","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"pootaak·wee-","id":"Ojibwe_Algonquin-18","language":"Ojibwe_Algonquin","UR":""}
-{"definition":"","form":"šeekw-","id":"Ojibwe_Algonquin-19","language":"Ojibwe_Algonquin","UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-(aan)aapik·-","id":"Ojibwe_Algonquin-1","language":"Ojibwe_Algonquin","tokens":[{"form":"-(aan)aabik-","gloss":"rock","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-aakonee-","id":"Ojibwe_Algonquin-2","language":"Ojibwe_Algonquin","tokens":[{"form":"-aagone-","gloss":"snow","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-aak·ikan-","id":"Ojibwe_Algonquin-3","language":"Ojibwe_Algonquin","tokens":[{"form":"-aakigan-","gloss":"back","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-aawak-","id":"Ojibwe_Algonquin-4","language":"Ojibwe_Algonquin","tokens":[{"form":"-aawag-","gloss":"sand","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-aw","id":"Ojibwe_Algonquin-5","language":"Ojibwe_Algonquin","tokens":[{"form":"-aw","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-toos·k·wan-","id":"Ojibwe_Algonquin-6","language":"Ojibwe_Algonquin","tokens":[{"form":"-dooskwan-","gloss":"elbow","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-ikan","id":"Ojibwe_Algonquin-7","language":"Ojibwe_Algonquin","tokens":[{"form":"-igan","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-ikaniwi","id":"Ojibwe_Algonquin-8","language":"Ojibwe_Algonquin","tokens":[{"form":"-iganiwi","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-ikeē","id":"Ojibwe_Algonquin-9","language":"Ojibwe_Algonquin","tokens":[{"form":"-igē","gloss":"unspecified objects, unspecified persons","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-iweē","id":"Ojibwe_Algonquin-10","language":"Ojibwe_Algonquin","tokens":[{"form":"-iwē","gloss":"unspecified persons","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-iwi","id":"Ojibwe_Algonquin-11","language":"Ojibwe_Algonquin","tokens":[{"form":"-iwi","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-nāniwan","id":"Ojibwe_Algonquin-12","language":"Ojibwe_Algonquin","tokens":[{"form":"-nāniwan","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-ns","id":"Ojibwe_Algonquin-13","language":"Ojibwe_Algonquin","tokens":[{"form":"-ns","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-nš","id":"Ojibwe_Algonquin-14","language":"Ojibwe_Algonquin","tokens":[{"form":"-nš","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"-ō","id":"Ojibwe_Algonquin-15","language":"Ojibwe_Algonquin","tokens":[{"form":"-ō","gloss":"NG","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"payeek·-","id":"Ojibwe_Algonquin-16","language":"Ojibwe_Algonquin","tokens":[{"form":"bayek-","gloss":"clean","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"pīt","id":"Ojibwe_Algonquin-17","language":"Ojibwe_Algonquin","tokens":[{"form":"bīd","gloss":"bring","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"pootaak·wee-","id":"Ojibwe_Algonquin-18","language":"Ojibwe_Algonquin","tokens":[{"form":"boodaakwe-","gloss":"in water","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Algonquin","form":"šeekw-","id":"Ojibwe_Algonquin-19","language":"Ojibwe_Algonquin","tokens":[{"form":"zhegw-","gloss":"under","UR":""}],"UR":""}
