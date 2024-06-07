@@ -45,6 +45,8 @@ export default class Languages extends Map {
 
   async load() {
 
+    if (this.size) return
+
     const languages = await ndjson.read(Languages.jsonPath)
 
     for (const lang of languages) {

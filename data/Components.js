@@ -16,8 +16,6 @@ await issues.load()
 await languages.load()
 await orthographies.load()
 
-console.log(languages)
-
 const transliterationColumns = [
   { header: `Language`, key: `language` },
   { header: `Orthography`, key: `orthography` },
@@ -153,8 +151,12 @@ export default class Components extends Map {
       projectOrthography:  form.replaceAll(`-`, `\u2011`),
     })
 
+    // Language
+    const displayLanguage = languages.get(language).name
+
     return {
       definition,
+      displayLanguage,
       form,
       id,
       language,
