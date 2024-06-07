@@ -9,6 +9,7 @@ export function Search(req, res) {
     pageCSS:       res.app.locals.styles.Search,
     Search:        true,
     title:         `Search`,
+    url:           req.originalUrl,
   }
 
   if (`q` in req.query) {

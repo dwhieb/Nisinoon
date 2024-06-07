@@ -1,9 +1,9 @@
+blockquote,
 .blockquote,
 .prose blockquote {
 
   background-color: var(--ice-light);
   border-radius:    var(--border-radius);
-  margin:           var(--text-padding);
   padding:          var(--text-padding);
 
   @media (prefers-color-scheme: dark) {

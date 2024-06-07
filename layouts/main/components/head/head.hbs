@@ -6,9 +6,9 @@
   <title>Nisinoon | {{ title }}</title>
 
   {{!-- Metadata --}}
-  <meta name=author content='{{ meta.author.name }}'>
-  <meta name=description content='{{ meta.description }}'>
-  <meta name=keywords content='{{#each meta.keywords}}{{#if @last}}{{@this}}{{else}}{{@this}}, {{/if}}{{/each}}'>
+  <meta name=author content='{{ package.author.name }}'>
+  <meta name=description content='{{ package.description }}'>
+  <meta name=keywords content='{{#each package.keywords}}{{#if @last}}{{@this}}{{else}}{{@this}}, {{/if}}{{/each}}'>
   <meta name=rating content=general>
   <meta name=robots content='index,follow'>
 
@@ -17,7 +17,7 @@
   <link rel=license href=https://github.com/dwhieb/Nisinoon/blob/main/LICENSE>
 
   {{!-- Facebook Sharing --}}
-  <meta property=og:description content='{{ meta.description }}'>
+  <meta property=og:description content='{{ package.description }}'>
   <meta property=og:image content=https://nisinoon.net/images/textile.jpg>
   <meta property=og:image:alt content='trillium textile applique'>
   <meta property=og:image:height content=4553>

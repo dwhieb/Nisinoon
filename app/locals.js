@@ -1,11 +1,15 @@
-import path from 'node:path'
+import path         from 'node:path'
+import { readJSON } from 'fs-extra/esm'
 
 import { readdir, readFile } from 'node:fs/promises'
 
 // Add metadata
-const metaPath = path.resolve(import.meta.dirname, `../package.json`)
-const json     = await readFile(metaPath, `utf8`)
-const meta     = JSON.parse(json)
+const metaPath = path.resolve(import.meta.dirname, `../meta.json`)
+const meta     = await readJSON(metaPath)
+
+// Add package information
+const packagePath = path.resolve(import.meta.dirname, `../package.json`)
+const packageInfo = await readJSON(packagePath)
 
 // Add CSS
 const cssDir   = path.resolve(import.meta.dirname, `../assets/styles`)
@@ -28,6 +32,7 @@ const year = (new Date).getFullYear()
 export default {
   mainJS,
   meta,
+  'package': packageInfo,
   styles,
   year,
 }
