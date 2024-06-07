@@ -14,7 +14,8 @@ describe(`Search`, function() {
     cy.contains(`.no-results`, `No results found.`)
   })
 
-  it(`all results`, function() {
+  // Loads all results in the database.
+  it.skip(`all results`, function() {
     cy.visit(`/search`)
     cy.get(`form`).submit()
     cy.get(`.results tbody tr`).should(`have.length`, 10)
@@ -22,7 +23,7 @@ describe(`Search`, function() {
 
   it(`some results`, function() {
     cy.visit(`/search`)
-    cy.get(`#search-box`).type(`aan`)
+    cy.get(`#search-box`).type(`atimw`)
     cy.get(`form`).submit()
     cy.get(`.results tbody tr`).should(`have.length`, 2)
   })
@@ -34,6 +35,13 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`aamæhk`)
       cy.get(`form`).submit()
       cy.get(`.results tbody tr`).should(`have.length`, 2)
+    })
+
+    it(`UR (Project)`, function() {
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`αhso`)
+      cy.get(`form`).submit()
+      cy.get(`.results tbody tr`).should(`have.length`, 1)
     })
 
     it(`Forms (Source)`)
