@@ -18,9 +18,32 @@
         >
         <button class=button type=submit>Search</button>
       </div>
-      <span class=help-text>Quickly search for a component or definition in any orthography.</span>
+      <span class=help-text>Searches components (in any orthography) and definitions.</span>
     </form>
   </search>
+
+  {{#if (isTruthy components) }}
+    {{#unless components}}
+      <p class=no-results>No results found.</p>
+    {{else}}
+      <div class=results-wrapper>
+        <table class=results>
+          <thead>
+            <th>Language</th>
+            <th>Form</th>
+          </thead>
+          <tbody>
+            {{#each components as |component|}}
+              <tr>
+                <td class=language>{{ language }}</td>
+                <td class=form><a class=link href='/components/{{ id }}'>{{ form }}</a></td>
+              </tr>
+            {{/each}}
+          </tbody>
+        </table>
+      </div>
+    {{/unless}}
+  {{/if}}
 
 </main>
 

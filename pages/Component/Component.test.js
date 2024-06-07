@@ -2,7 +2,7 @@ describe(`Component`, function() {
 
   it(`renders`, function() {
 
-    cy.visit(`/components/Menominee-1`)
+    cy.visit(`/components/Menominee-3`)
     cy.title().should(`equal`, `Nisinoon | Menominee: -aamæhkw-`)
     cy.get(`h1`).should(`have.text`, `Menominee: -aamæhkw-`)
 

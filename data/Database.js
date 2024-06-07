@@ -15,8 +15,8 @@ export default class Database {
     this.components = Array.from(this.index.values())
   }
 
-  search(filterFunction) {
-    return this.components.filter(filterFunction)
+  search(query) {
+    return this.components.filter(({ form }) => form.includes(query))
   }
 
 }

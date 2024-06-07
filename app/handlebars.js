@@ -11,6 +11,10 @@ const htmlOptions = {
   tag:     `li`,
 }
 
+function isTruthy(val) {
+  return Boolean(val)
+}
+
 function inlineExample(str) {
   return `<i class=inex>${ replaceHyphens(str) }</i>`
 }
@@ -24,7 +28,9 @@ function interlinear(cssClasses, opts) {
   const scription = opts.fn(this)
   const dlx       = scription2dlx(scription, dlxOptions)
   const html      = dlx2html(dlx, htmlOptions)
+
   return `<ol class='examples ${ cssClasses }'>${ html }</ol>`
+
 }
 
 function translation(str) {
@@ -52,6 +58,7 @@ const hbs = new ExpressHandlebars({
   helpers:       {
     igl:  interlinear,
     inex: inlineExample,
+    isTruthy,
     section,
     tln:  translation,
   },

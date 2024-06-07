@@ -1,6 +1,7 @@
 @import 'code.css';
 @import 'construction/construction.css';
 @import 'inline-example.css';
+@import 'pre.css';
 
 .component-page {
 

@@ -8,9 +8,63 @@
 /* Components */
 @import 'construction/construction.css';
 
+.form {
+  white-space: nowrap;
+}
+
+#main {
+  align-self:      stretch;
+  max-inline-size: 100%;
+  padding:         0;
+}
+
+.no-results {
+  font-size:  xx-large;
+  padding:    var(--text-padding-lg);
+  text-align: center;
+}
+
+.results {
+
+  inline-size:   max(max-content, 100%);
+  margin:        0;
+  margin-inline: auto;
+
+  & td {
+    border-block: 1px solid #CCC;
+  }
+
+  & th {
+    font-weight: bold;
+  }
+
+  :is(td, th) {
+    word-break: keep-all;
+    padding:    var(--text-padding);
+  }
+
+}
+
+.results-wrapper {
+  inline-size:     100%;
+  max-inline-size: 100%;
+  overflow-x:      auto;
+}
+
+search {
+  align-self: center;
+  margin:     1em;
+}
+
 .search-controls {
-  flex-direction: row;
-  column-gap:     0.5em;
+  flex-direction:  row;
+  flex-wrap:       wrap;
+  gap:             0.5em;
+  justify-content: center;
+}
+
+tbody {
+  border-inline: 1px solid #CCC;
 }
 
 .text-box {
