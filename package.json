@@ -33,7 +33,8 @@
     "run-cypress": "cypress run",
     "start": "node index.js",
     "stop-only": "stop-only --folder pages",
-    "test": "start-test http://localhost:3002 run-cypress"
+    "test": "start-test http://localhost:3002 run-cypress",
+    "version": "node build/updateDocs.js"
   },
   "devDependencies": {
     "@digitallinguistics/eslint-config": "^0.5.2",
@@ -61,7 +62,8 @@
     "stop-only": "^3.3.1",
     "stylelint": "^16.5.0",
     "stylelint-config-standard": "^36.0.0",
-    "svgstore": "^3.0.1"
+    "svgstore": "^3.0.1",
+    "yaml": "^2.4.3"
   },
   "dependencies": {
     "@digitallinguistics/dlx2html": "^0.3.1",

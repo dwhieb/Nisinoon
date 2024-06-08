@@ -60,6 +60,7 @@ You can create credentials and download the JSON file for them [here](https://co
 - The website deploys on pushes to `main`.
   - If you need a guard against early deployment, use development branches.
 - To trigger deployment of the data to Zenodo, create a release **FROM THE `DATA` BRANCH**.
+- Dates and versions in documentation (license, citation) and Express locals (via `meta.json`) are updated automatically when `npm version` is run. (See the `version` script in `package.json`.)
 
 ## Page Variables
 
