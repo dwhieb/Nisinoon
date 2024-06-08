@@ -214,8 +214,6 @@ export default class Components extends Map {
 
     const cols    = Components.columns
     const isProto = language.includes(`Proto`)
-    const gloss   = cleanGloss(token[cols.gloss])
-    const UR      = cleanUR(token[cols.UR])
 
     // Form
     let form = token[cols.originalOrthography]
@@ -224,6 +222,15 @@ export default class Components extends Map {
       form = cleanProto(form)
       form = `*${ form }`
     }
+
+    // UR
+    const UR = cleanUR(token[cols.UR])
+
+    // Proto-Algonquian
+    const PA = token[cols.proto]
+
+    // Gloss
+    const gloss = cleanGloss(token[cols.gloss])
 
     // Bibliography
     const source = token[cols.sourceCode]
@@ -239,6 +246,7 @@ export default class Components extends Map {
       bibliography,
       form,
       gloss,
+      PA,
       UR,
     }
 
