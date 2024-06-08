@@ -160,6 +160,7 @@ export default class Components extends Map {
     component.id = `${ language }-${ record[cols.id] }`
 
     // Language
+    component.language        = language
     component.displayLanguage = languages.get(language).name
 
     // Only convert these fields if the orthography is known
