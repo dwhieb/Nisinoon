@@ -196,7 +196,7 @@ export default class Components extends Map {
     component.type = record[cols.type]
 
     // Tokens
-    component.tokens = record.tokens.map(this.convertToken)
+    component.tokens = record.tokens.map(token => this.convertToken(token, language))
 
     // Save/Return the converted data
     this.transliterations.push({
@@ -210,12 +210,20 @@ export default class Components extends Map {
 
   }
 
-  convertToken(token) {
+  convertToken(token, language) {
 
-    const cols  = Components.columns
-    const form  = token[cols.originalOrthography]
-    const gloss = cleanGloss(token[cols.gloss])
-    const UR    = cleanUR(token[cols.UR])
+    const cols    = Components.columns
+    const isProto = language.includes(`Proto`)
+    const gloss   = cleanGloss(token[cols.gloss])
+    const UR      = cleanUR(token[cols.UR])
+
+    // Form
+    let form = token[cols.originalOrthography]
+
+    if (isProto && form) {
+      form = cleanProto(form)
+      form = `*${ form }`
+    }
 
     // Bibliography
     const source = token[cols.sourceCode]
