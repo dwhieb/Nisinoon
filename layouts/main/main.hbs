@@ -4,13 +4,12 @@
   <body>
     {{> components/skip-link/skip-link }}
     {{> components/nav/nav }}
-    {{#if construction }}
-      {{> construction/construction }}
-    {{/if}}
+    {{#if construction }}{{> construction/construction }}{{/if}}
     {{> components/issue-link/issue-link }}
     {{{ body }}}{{!-- This is actually <main> but express-handlebars calls this variable `body`. --}}
     {{> components/footer/footer }}
     {{> components/sprites/sprites }}
-    <script async type=module>{{{ mainJS }}}</script>
+    <script async type=module>{{{ js.main }}}</script>
+    {{{ sections.scripts }}}{{!-- Page-specific JS --}}
   </body>
 </html>

@@ -6,8 +6,8 @@ import { outputFile } from 'fs-extra/esm'
 import path           from 'node:path'
 import ProgressBar    from 'progress'
 import { readFile }   from 'node:fs/promises'
+import { setTimeout } from 'node:timers/promises'
 import stringifyCSV   from './stringifyCSV.js'
-import wait           from '../utilities/wait.js'
 
 export default class DataManager {
 
@@ -110,7 +110,7 @@ export default class DataManager {
 
             waitTime *= 2
             console.warn(`\nHit rate limit. Retrying after ${ waitTime }ms.`)
-            await wait(waitTime)
+            await setTimeout(waitTime)
             await makeRequest()
 
           } else {

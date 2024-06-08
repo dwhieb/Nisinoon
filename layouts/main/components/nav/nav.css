@@ -19,6 +19,7 @@
   }
 
   & button {
+    cursor:  pointer;
     display: flex;
   }
 

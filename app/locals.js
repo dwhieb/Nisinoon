@@ -22,15 +22,22 @@ for (const file of cssFiles) {
   styles[name]   = await readFile(filePath, `utf8`)
 }
 
-// Add JS for app shell
-const mainJSPath = path.resolve(import.meta.dirname, `../assets/scripts/main.js`)
-const mainJS     = await readFile(mainJSPath, `utf8`)
+// Add JS
+const jsDir      = path.resolve(import.meta.dirname, `../assets/scripts`)
+const jsFiles    = await readdir(jsDir)
+const js         = {}
+
+for (const file of jsFiles) {
+  const name     = path.basename(file, `.js`)
+  const filePath = path.join(jsDir, file)
+  js[name]       = await readFile(filePath, `utf8`)
+}
 
 // Add other constants
 const year = (new Date).getFullYear()
 
 export default {
-  mainJS,
+  js,
   meta,
   'package': packageInfo,
   styles,

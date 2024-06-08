@@ -29,8 +29,13 @@
 }
 
 .citation {
+  align-items:     center;
   margin-inline:   auto;
   max-inline-size: var(--measure);
+}
+
+.copy-button {
+  margin: 0.5em;
 }
 
 blockquote p {
