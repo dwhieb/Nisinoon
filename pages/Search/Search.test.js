@@ -21,10 +21,12 @@ describe(`Search`, function() {
     cy.get(`.results tbody tr`).should(`have.length`, 10)
   })
 
-  it(`some results`, function() {
+  it(`some results + repopulates search box`, function() {
+    const search = `atimw`
     cy.visit(`/search`)
-    cy.get(`#search-box`).type(`atimw`)
+    cy.get(`#search-box`).type(search)
     cy.get(`form`).submit()
+    cy.get(`#search-box`).should(`have.value`, search)
     cy.get(`.num-results`).should(`include.text`, 2)
     cy.get(`.results tbody tr`).should(`have.length`, 2)
   })
