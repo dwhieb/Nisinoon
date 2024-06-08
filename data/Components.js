@@ -46,7 +46,6 @@ export default class Components extends Map {
     components:          `Contains`,
     definition:          `Project Definition`,
     deverbal:            `Deverbal (y/n)`,
-    etymon:              `PA form (original orthography)`,
     firstCheck:          `1st check done`,
     gloss:               `Translation`,
     id:                  `ID`,
@@ -58,6 +57,7 @@ export default class Components extends Map {
     originalOrthography: `Form (original orthography)`,
     orthography:         `Orthography Key Code`,
     pages:               `Page #`,
+    proto:               `PA form (original orthography)`,
     reduplicated:        `Initial: Reduplicated`,
     secondaryFinal:      `Final: secondary (y/n/b)`,
     secondCheck:         `2nd check done`,
@@ -160,6 +160,9 @@ export default class Components extends Map {
     const sourceUR = record[cols.UR]
     const UR       = orthographies.transliterate(ortho, cleanUR(sourceUR))
 
+    // Proto-Algonquian
+    const PA = orthographies.transliterate(ortho, record[cols.proto])
+
     // Definition
     const definition = cleanGloss(record[cols.definition])
 
@@ -173,6 +176,7 @@ export default class Components extends Map {
       form,
       id,
       language,
+      PA,
       type,
       UR,
     }
