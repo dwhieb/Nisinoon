@@ -30,6 +30,14 @@ function cleanGloss(gl) {
   return gl
 }
 
+function cleanProto(form) {
+  return form
+  .replace(/^\//v, ``)
+  .replace(/\/$/v, ``)
+  .replace(/^-\*/v, `-`)
+  .replace(/^\*/v, ``)
+}
+
 function cleanUR(UR) {
   return UR
   .replace(/^\//v, ``)
@@ -158,8 +166,11 @@ export default class Components extends Map {
     if (ortho !== `UNK`) {
 
       // Form
-      const sourceForm = record[cols.originalOrthography]
-      component.form = orthographies.transliterate(ortho, sourceForm)
+      let form = record[cols.originalOrthography]
+      if (isProto) form = cleanProto(form)
+      form = orthographies.transliterate(ortho, form)
+      if (isProto && form) form = `*${ form }`
+      component.form = form
 
       // UR
       const sourceUR = record[cols.UR]
@@ -169,8 +180,7 @@ export default class Components extends Map {
       let PA = record[cols.proto]
 
       if (PA) {
-        PA = PA.replace(/^\//v, ``).replace(/\/$/v, ``)
-        PA = PA.replace(/^\*/v, ``)
+        PA = cleanProto(PA)
         PA = orthographies.transliterate(ortho, PA)
         PA = `*${ PA }`
       }
