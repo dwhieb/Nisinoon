@@ -1,16 +1,16 @@
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"-aanik·w-","id":"Ojibwe_Severn-1","language":"Ojibwe_Severn","tokens":[{"form":"-aanikw-","gloss":"hair","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"-kot-","id":"Ojibwe_Severn-2","language":"Ojibwe_Severn","tokens":[{"form":"-god-","gloss":"nose","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"-čaap-","id":"Ojibwe_Severn-3","language":"Ojibwe_Severn","tokens":[{"form":"-jaab-","gloss":"eye","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"-nkwaami","id":"Ojibwe_Severn-4","language":"Ojibwe_Severn","tokens":[{"form":"-ngwaami","gloss":"","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"-ns","id":"Ojibwe_Severn-5","language":"Ojibwe_Severn","tokens":[{"form":"-ns","gloss":"","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"-nš","id":"Ojibwe_Severn-6","language":"Ojibwe_Severn","tokens":[{"form":"-nš","gloss":"","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"-š·t·ikwaan-","id":"Ojibwe_Severn-7","language":"Ojibwe_Severn","tokens":[{"form":"-shtigwaan-","gloss":"head","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"akaas·-","id":"Ojibwe_Severn-8","language":"Ojibwe_Severn","tokens":[{"form":"agaas-","gloss":"short","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"aniipiiw-","id":"Ojibwe_Severn-9","language":"Ojibwe_Severn","tokens":[{"form":"aniibiiw-","gloss":"green","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"payeek·-","id":"Ojibwe_Severn-10","language":"Ojibwe_Severn","tokens":[{"form":"bayek-","gloss":"clean","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"taaš·k·-","id":"Ojibwe_Severn-11","language":"Ojibwe_Severn","tokens":[{"form":"daashk-","gloss":"cut","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"tit·ipaanawee-","id":"Ojibwe_Severn-12","language":"Ojibwe_Severn","tokens":[{"form":"ditibaanawe-","gloss":"curly","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"tit·ipan-","id":"Ojibwe_Severn-13","language":"Ojibwe_Severn","tokens":[{"form":"ditiban-","gloss":"curly","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"kinak-","id":"Ojibwe_Severn-14","language":"Ojibwe_Severn","tokens":[{"form":"ginag-","gloss":"itchy","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"ošaawaš·k·w-","id":"Ojibwe_Severn-15","language":"Ojibwe_Severn","tokens":[{"form":"ozhaawashkw-","gloss":"blue, green","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Severn Ojibwe","form":"šoow-","id":"Ojibwe_Severn-16","language":"Ojibwe_Severn","tokens":[{"form":"zhoow-","gloss":"smile","UR":""}],"UR":""}
+{"componentID":"1","definition":"","displayLanguage":"Severn Ojibwe","form":"-aanik·w-","id":"Ojibwe_Severn-1","language":"Ojibwe_Severn","tokens":[{"form":"-aanikw-","gloss":"hair","UR":""}],"UR":""}
+{"componentID":"2","definition":"","displayLanguage":"Severn Ojibwe","form":"-kot-","id":"Ojibwe_Severn-2","language":"Ojibwe_Severn","tokens":[{"form":"-god-","gloss":"nose","UR":""}],"UR":""}
+{"componentID":"3","definition":"","displayLanguage":"Severn Ojibwe","form":"-čaap-","id":"Ojibwe_Severn-3","language":"Ojibwe_Severn","tokens":[{"form":"-jaab-","gloss":"eye","UR":""}],"UR":""}
+{"componentID":"4","definition":"","displayLanguage":"Severn Ojibwe","form":"-nkwaami","id":"Ojibwe_Severn-4","language":"Ojibwe_Severn","tokens":[{"form":"-ngwaami","gloss":"","UR":""}],"UR":""}
+{"componentID":"5","definition":"","displayLanguage":"Severn Ojibwe","form":"-ns","id":"Ojibwe_Severn-5","language":"Ojibwe_Severn","tokens":[{"form":"-ns","gloss":"","UR":""}],"UR":""}
+{"componentID":"6","definition":"","displayLanguage":"Severn Ojibwe","form":"-nš","id":"Ojibwe_Severn-6","language":"Ojibwe_Severn","tokens":[{"form":"-nš","gloss":"","UR":""}],"UR":""}
+{"componentID":"7","definition":"","displayLanguage":"Severn Ojibwe","form":"-š·t·ikwaan-","id":"Ojibwe_Severn-7","language":"Ojibwe_Severn","tokens":[{"form":"-shtigwaan-","gloss":"head","UR":""}],"UR":""}
+{"componentID":"8","definition":"","displayLanguage":"Severn Ojibwe","form":"akaas·-","id":"Ojibwe_Severn-8","language":"Ojibwe_Severn","tokens":[{"form":"agaas-","gloss":"short","UR":""}],"UR":""}
+{"componentID":"9","definition":"","displayLanguage":"Severn Ojibwe","form":"aniipiiw-","id":"Ojibwe_Severn-9","language":"Ojibwe_Severn","tokens":[{"form":"aniibiiw-","gloss":"green","UR":""}],"UR":""}
+{"componentID":"10","definition":"","displayLanguage":"Severn Ojibwe","form":"payeek·-","id":"Ojibwe_Severn-10","language":"Ojibwe_Severn","tokens":[{"form":"bayek-","gloss":"clean","UR":""}],"UR":""}
+{"componentID":"11","definition":"","displayLanguage":"Severn Ojibwe","form":"taaš·k·-","id":"Ojibwe_Severn-11","language":"Ojibwe_Severn","tokens":[{"form":"daashk-","gloss":"cut","UR":""}],"UR":""}
+{"componentID":"12","definition":"","displayLanguage":"Severn Ojibwe","form":"tit·ipaanawee-","id":"Ojibwe_Severn-12","language":"Ojibwe_Severn","tokens":[{"form":"ditibaanawe-","gloss":"curly","UR":""}],"UR":""}
+{"componentID":"13","definition":"","displayLanguage":"Severn Ojibwe","form":"tit·ipan-","id":"Ojibwe_Severn-13","language":"Ojibwe_Severn","tokens":[{"form":"ditiban-","gloss":"curly","UR":""}],"UR":""}
+{"componentID":"14","definition":"","displayLanguage":"Severn Ojibwe","form":"kinak-","id":"Ojibwe_Severn-14","language":"Ojibwe_Severn","tokens":[{"form":"ginag-","gloss":"itchy","UR":""}],"UR":""}
+{"componentID":"15","definition":"","displayLanguage":"Severn Ojibwe","form":"ošaawaš·k·w-","id":"Ojibwe_Severn-15","language":"Ojibwe_Severn","tokens":[{"form":"ozhaawashkw-","gloss":"blue, green","UR":""}],"UR":""}
+{"componentID":"16","definition":"","displayLanguage":"Severn Ojibwe","form":"šoow-","id":"Ojibwe_Severn-16","language":"Ojibwe_Severn","tokens":[{"form":"zhoow-","gloss":"smile","UR":""}],"UR":""}
