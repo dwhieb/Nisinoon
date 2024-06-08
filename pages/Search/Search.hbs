@@ -45,9 +45,11 @@
               <th></th>
               <th></th>
               <th></th>
+              <th></th>
               <th class='bb c' colspan=3>Sources</th>
             </tr>
             <tr>
+              <th>ID</th>
               <th>Language</th>
               <th>Form</th>
               <th>UR</th>
@@ -60,6 +62,7 @@
           <tbody>
             {{#each components as |component| }}
               <tr>
+                <td class=component-id>{{ componentID }}</td>
                 <td class=language>{{ displayLanguage }}</td>
                 <td class=form><a class=link href='/components/{{ id }}'>{{ form }}</a></td>
                 <td class=UR><a class=link href='/components/{{ id }}'>{{#if UR}}/{{ UR }}/{{/if}}</a></td>
