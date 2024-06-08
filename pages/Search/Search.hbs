@@ -41,19 +41,23 @@
         <table class=results>
           <thead>
             <tr>
-              <th></th>
-              <th></th>
-              <th></th>
-              <th></th>
-              <th></th>
-              <th class='bb c' colspan=3>Sources</th>
+              <th></th>{{!-- Component ID --}}
+              <th></th>{{!-- Display Language --}}
+              <th></th>{{!-- Component Form (Project Orthography) --}}
+              <th></th>{{!-- Component UR (Project Orthography) --}}
+              <th></th>{{!-- Project Definition --}}
+              <th></th>{{!-- Component Type --}}
+              <th class='bb c' colspan=3>Sources</th>{{!-- Token Fields --}}
             </tr>
             <tr>
+              {{!-- Component Fields --}}
               <th>ID</th>
               <th>Language</th>
               <th>Form</th>
               <th>UR</th>
               <th>Definition</th>
+              <th>Type</th>
+              {{!-- Token Fields --}}
               <th>Forms</th>
               <th>URs</th>
               <th>Glosses</th>
@@ -67,6 +71,7 @@
                 <td class=form><a class=link href='/components/{{ id }}'>{{ form }}</a></td>
                 <td class=UR><a class=link href='/components/{{ id }}'>{{#if UR}}/{{ UR }}/{{/if}}</a></td>
                 <td class=definition>{{#if definition }}‘{{ definition }}’{{else}}&#8212;{{/if}}</td>
+                <td class=component-type>{{ type }}</td>
                 <td class=source-forms>
                   <ul>
                     {{#each tokens as |token| }}
