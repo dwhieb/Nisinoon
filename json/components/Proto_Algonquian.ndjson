@@ -8,7 +8,7 @@
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-(e)ˀleewa","id":"Proto_Algonquian-8","language":"Proto_Algonquian","tokens":[{"form":"*-(e)ˀle·wa","gloss":"bird","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-(ii-)nkeθ-","id":"Proto_Algonquian-9","language":"Proto_Algonquian","tokens":[{"form":"*-(i·-)nkeθ-","gloss":"forehead","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-aa pane","id":"Proto_Algonquian-10","language":"Proto_Algonquian","tokens":[{"form":"*-a: pane","gloss":"dawn","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-11","language":"Proto_Algonquian","tokens":[{"form":"*-a:-w","gloss":"undergoer","UR":""}],"UR":"ERROR: Orthography  not recognized."}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-11","language":"Proto_Algonquian","tokens":[{"form":"*-a:-w","gloss":"undergoer","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-aahkwahki","id":"Proto_Algonquian-12","language":"Proto_Algonquian","tokens":[{"form":"*-a:hkwahki","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-aahtekw","id":"Proto_Algonquian-13","language":"Proto_Algonquian","tokens":[{"form":"*-a:htekw","gloss":"stick, wood, tree","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-aakan","id":"Proto_Algonquian-14","language":"Proto_Algonquian","tokens":[{"form":"*-a:kan","gloss":"undergoer","UR":""}],"UR":""}
@@ -17,9 +17,9 @@
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-aameHk-","id":"Proto_Algonquian-17","language":"Proto_Algonquian","tokens":[{"form":"*-a:meHk-","gloss":"earth, soil","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-aameHkw-","id":"Proto_Algonquian-18","language":"Proto_Algonquian","tokens":[{"form":"*-a:meHkw-","gloss":"earth, soil","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-aankw-","id":"Proto_Algonquian-19","language":"Proto_Algonquian","tokens":[{"form":"*-a:nkw-","gloss":"sibling-in-law of same sex","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-20","language":"Proto_Algonquian","tokens":[{"form":"*-a:p","gloss":"look","UR":""}],"UR":"ERROR: Orthography  not recognized."}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-20","language":"Proto_Algonquian","tokens":[{"form":"*-a:p","gloss":"look","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-aapam","id":"Proto_Algonquian-21","language":"Proto_Algonquian","tokens":[{"form":"*-a:pam","gloss":"look at","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-22","language":"Proto_Algonquian","tokens":[{"form":"*-a:pant","gloss":"look at","UR":""}],"UR":"ERROR: Orthography  not recognized."}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-22","language":"Proto_Algonquian","tokens":[{"form":"*-a:pant","gloss":"look at","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-aapeew","id":"Proto_Algonquian-23","language":"Proto_Algonquian","tokens":[{"form":"*-a:pe:w","gloss":"male, man","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-aapeθk-","id":"Proto_Algonquian-24","language":"Proto_Algonquian","tokens":[{"form":"*-a:peθk-","gloss":"stone, metal","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-aapeθkwi","id":"Proto_Algonquian-25","language":"Proto_Algonquian","tokens":[{"form":"*-a:peθkwi","gloss":"rock, stone","UR":""}],"UR":""}
@@ -300,7 +300,7 @@
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-htaawakee-","id":"Proto_Algonquian-341","language":"Proto_Algonquian","tokens":[{"form":"*-hta:wake:-","gloss":"ear","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-htaampy-","id":"Proto_Algonquian-342","language":"Proto_Algonquian","tokens":[{"form":"*-hta·mpy-","gloss":"nape","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-htawak(ay)i","id":"Proto_Algonquian-343","language":"Proto_Algonquian","tokens":[{"form":"*-htawak(ay)i","gloss":"ear","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-344","language":"Proto_Algonquian","tokens":[{"form":"*-htawak(ay)i","gloss":"ear","UR":""}],"UR":"ERROR: Orthography  not recognized."}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-344","language":"Proto_Algonquian","tokens":[{"form":"*-htawak(ay)i","gloss":"ear","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-htoo","id":"Proto_Algonquian-345","language":"Proto_Algonquian","tokens":[{"form":"*-hto:","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-htooškwani","id":"Proto_Algonquian-346","language":"Proto_Algonquian","tokens":[{"form":"*-hto:škwani","gloss":"elbow","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-htoo","id":"Proto_Algonquian-347","language":"Proto_Algonquian","tokens":[{"form":"*-htoo","gloss":"","UR":""}],"UR":""}
@@ -448,7 +448,7 @@
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-pali","id":"Proto_Algonquian-507","language":"Proto_Algonquian","tokens":[{"form":"*-pali","gloss":"move","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-pee","id":"Proto_Algonquian-508","language":"Proto_Algonquian","tokens":[{"form":"*-pe:","gloss":"sleep","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-pee","id":"Proto_Algonquian-509","language":"Proto_Algonquian","tokens":[{"form":"*-pee","gloss":"sleep","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-510","language":"Proto_Algonquian","tokens":[{"form":"*-pexkwane:-","gloss":"back","UR":""}],"UR":"ERROR: Orthography  not recognized."}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-510","language":"Proto_Algonquian","tokens":[{"form":"*-pexkwane:-","gloss":"back","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-piso","id":"Proto_Algonquian-511","language":"Proto_Algonquian","tokens":[{"form":"*-piso","gloss":"move without obstruction, glide","UR":""},{"form":"*-piso","gloss":"move without obstruction, glide","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-piso","id":"Proto_Algonquian-512","language":"Proto_Algonquian","tokens":[{"form":"*-piso","gloss":"be tied","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*-po","id":"Proto_Algonquian-514","language":"Proto_Algonquian","tokens":[{"form":"*-po","gloss":"eat","UR":""}],"UR":""}
@@ -1194,8 +1194,8 @@
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*keehtee-","id":"Proto_Algonquian-1337","language":"Proto_Algonquian","tokens":[{"form":"*ke:hte:-","gloss":"old","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*keek-","id":"Proto_Algonquian-1338","language":"Proto_Algonquian","tokens":[{"form":"*ke:k-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*keekyaat-","id":"Proto_Algonquian-1339","language":"Proto_Algonquian","tokens":[{"form":"*ke:kya:t-","gloss":"nearly, almost","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-1340","language":"Proto_Algonquian","tokens":[{"form":"*ke:ma:w-","gloss":"","UR":""}],"UR":"ERROR: Orthography  not recognized."}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-1341","language":"Proto_Algonquian","tokens":[{"form":"*ke:sip-","gloss":"","UR":""}],"UR":"ERROR: Orthography  not recognized."}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-1340","language":"Proto_Algonquian","tokens":[{"form":"*ke:ma:w-","gloss":"","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-1341","language":"Proto_Algonquian","tokens":[{"form":"*ke:sip-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*keešk-","id":"Proto_Algonquian-1342","language":"Proto_Algonquian","tokens":[{"form":"*ke:šk-","gloss":"sever","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*keehšawi-","id":"Proto_Algonquian-1343","language":"Proto_Algonquian","tokens":[{"form":"*ke·hšawi-","gloss":"loose","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*keehtee-","id":"Proto_Algonquian-1344","language":"Proto_Algonquian","tokens":[{"form":"*ke·hte·-","gloss":"old","UR":""},{"form":"*ke·hte·-","gloss":"old","UR":""}],"UR":""}
@@ -1291,7 +1291,7 @@
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*kiišk-","id":"Proto_Algonquian-1453","language":"Proto_Algonquian","tokens":[{"form":"*ki:šk-","gloss":"cut through, sever","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*kiit-","id":"Proto_Algonquian-1454","language":"Proto_Algonquian","tokens":[{"form":"*ki:t-","gloss":"sore","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*kiiw-","id":"Proto_Algonquian-1455","language":"Proto_Algonquian","tokens":[{"form":"*ki:w-","gloss":"around, turning, returning","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-1456","language":"Proto_Algonquian","tokens":[{"form":"*ki:wa:t-","gloss":"around, turning, returning","UR":""}],"UR":"ERROR: Orthography  not recognized."}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-1456","language":"Proto_Algonquian","tokens":[{"form":"*ki:wa:t-","gloss":"around, turning, returning","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*kiiči-","id":"Proto_Algonquian-1457","language":"Proto_Algonquian","tokens":[{"form":"*ki·či-","gloss":"sore, sharpen","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*kiihk-","id":"Proto_Algonquian-1458","language":"Proto_Algonquian","tokens":[{"form":"*ki·hk-","gloss":"berate, injure, spite, suffer","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*kiihsaači-","id":"Proto_Algonquian-1459","language":"Proto_Algonquian","tokens":[{"form":"*ki·hsa·či-","gloss":"trouble","UR":""}],"UR":""}
@@ -1348,8 +1348,8 @@
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*kosekw-","id":"Proto_Algonquian-1514","language":"Proto_Algonquian","tokens":[{"form":"*kosekw-","gloss":"heavy","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*koškw-","id":"Proto_Algonquian-1515","language":"Proto_Algonquian","tokens":[{"form":"*koškw-","gloss":"start(le), awaken","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*kotee","id":"Proto_Algonquian-1516","language":"Proto_Algonquian","tokens":[{"form":"*kote:","gloss":"aloft","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-1517","language":"Proto_Algonquian","tokens":[{"form":"*kotekw-","gloss":"to circle","UR":""}],"UR":"ERROR: Orthography  not recognized."}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-1518","language":"Proto_Algonquian","tokens":[{"form":"*kotekw-","gloss":"suffer","UR":""}],"UR":"ERROR: Orthography  not recognized."}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-1517","language":"Proto_Algonquian","tokens":[{"form":"*kotekw-","gloss":"to circle","UR":""}],"UR":""}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-1518","language":"Proto_Algonquian","tokens":[{"form":"*kotekw-","gloss":"suffer","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*koʔ-","id":"Proto_Algonquian-1519","language":"Proto_Algonquian","tokens":[{"form":"*koʔ-","gloss":"to fear","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*koθe","id":"Proto_Algonquian-1520","language":"Proto_Algonquian","tokens":[{"form":"*koθe","gloss":"nose","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*koθk-","id":"Proto_Algonquian-1521","language":"Proto_Algonquian","tokens":[{"form":"*koθk-","gloss":"turn over, flip over","UR":""}],"UR":""}
@@ -1618,7 +1618,7 @@
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*naa-","id":"Proto_Algonquian-1805","language":"Proto_Algonquian","tokens":[{"form":"*na:-","gloss":"fetch","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*na:kw","id":"Proto_Algonquian-1806","language":"Proto_Algonquian","tokens":[{"form":"*na:kw","gloss":"appear, look, be seen","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*na:pe","id":"Proto_Algonquian-1807","language":"Proto_Algonquian","tokens":[{"form":"*na:pe","gloss":"initial, man, person","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-1808","language":"Proto_Algonquian","tokens":[{"form":"*na:pe:-","gloss":"male","UR":""}],"UR":"ERROR: Orthography  not recognized."}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-1808","language":"Proto_Algonquian","tokens":[{"form":"*na:pe:-","gloss":"male","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*naat-","id":"Proto_Algonquian-1809","language":"Proto_Algonquian","tokens":[{"form":"*na:t-","gloss":"fetch","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*naaθ-","id":"Proto_Algonquian-1810","language":"Proto_Algonquian","tokens":[{"form":"*na:θ-","gloss":"fetch","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*naači-","id":"Proto_Algonquian-1811","language":"Proto_Algonquian","tokens":[{"form":"*na·či-","gloss":"fetch,seek","UR":""}],"UR":""}
@@ -1679,7 +1679,7 @@
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*nehšihkeew-","id":"Proto_Algonquian-1869","language":"Proto_Algonquian","tokens":[{"form":"*nehšihke·w-","gloss":"alone","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*nehtaaw-","id":"Proto_Algonquian-1870","language":"Proto_Algonquian","tokens":[{"form":"*nehta·w-","gloss":"good at, able, well","UR":""},{"form":"*nehta·w-","gloss":"be good at, accustomed to","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*nekamo-","id":"Proto_Algonquian-1872","language":"Proto_Algonquian","tokens":[{"form":"*nekamo-","gloss":"sing","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-1873","language":"Proto_Algonquian","tokens":[{"form":"*neki-","gloss":"to shake","UR":""}],"UR":"ERROR: Orthography  not recognized."}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-1873","language":"Proto_Algonquian","tokens":[{"form":"*neki-","gloss":"to shake","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*nekikw-","id":"Proto_Algonquian-1874","language":"Proto_Algonquian","tokens":[{"form":"*nekikw-","gloss":"otter","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*nekotw-","id":"Proto_Algonquian-1875","language":"Proto_Algonquian","tokens":[{"form":"*nekotw-","gloss":"one","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*nekotw-","id":"Proto_Algonquian-1876","language":"Proto_Algonquian","tokens":[{"form":"*nekotw-","gloss":"one","UR":""}],"UR":""}
@@ -1975,7 +1975,7 @@
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*šekači-","id":"Proto_Algonquian-2187","language":"Proto_Algonquian","tokens":[{"form":"*šekači-","gloss":"impatient, reckless","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*šekat-","id":"Proto_Algonquian-2188","language":"Proto_Algonquian","tokens":[{"form":"*šekat-","gloss":"impatient, reckless","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*šeki-","id":"Proto_Algonquian-2189","language":"Proto_Algonquian","tokens":[{"form":"*šeki-","gloss":"urinate","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Proto-Algonquian","form":"ERROR: Orthography  not recognized.","id":"Proto_Algonquian-2190","language":"Proto_Algonquian","tokens":[{"form":"*sekw-","gloss":"to spit","UR":""}],"UR":"ERROR: Orthography  not recognized."}
+{"definition":"","displayLanguage":"Proto-Algonquian","form":"","id":"Proto_Algonquian-2190","language":"Proto_Algonquian","tokens":[{"form":"*sekw-","gloss":"to spit","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*šenk-","id":"Proto_Algonquian-2191","language":"Proto_Algonquian","tokens":[{"form":"*šenk-","gloss":"","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*šešaw-","id":"Proto_Algonquian-2192","language":"Proto_Algonquian","tokens":[{"form":"*šešaw-","gloss":"rub, smear","UR":""}],"UR":""}
 {"definition":"","displayLanguage":"Proto-Algonquian","form":"*seʔsw(ee)-","id":"Proto_Algonquian-2193","language":"Proto_Algonquian","tokens":[{"form":"*seʔsw(e·)-","gloss":"scatter, sprinkle","UR":""}],"UR":""}

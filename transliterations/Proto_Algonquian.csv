@@ -8,7 +8,7 @@ Proto_Algonquian,PA:4,*‑(e)ʔle:wa,*‑(e)ʔleewa
 Proto_Algonquian,PA:6,*‑(e)ˀle·wa,*‑(e)ˀleewa
 Proto_Algonquian,PA:6,*‑(i·‑)nkeθ‑,*‑(ii‑)nkeθ‑
 Proto_Algonquian,PA:4,*‑a: pane,*‑aa pane
-Proto_Algonquian,,*‑a:‑w,ERROR: Orthography  not recognized.
+Proto_Algonquian,,*‑a:‑w,
 Proto_Algonquian,PA:4,*‑a:hkwahki,*‑aahkwahki
 Proto_Algonquian,PA:4,*‑a:htekw,*‑aahtekw
 Proto_Algonquian,PA:4,*‑a:kan,*‑aakan
@@ -17,9 +17,9 @@ Proto_Algonquian,PA:4,*‑a:m,*‑aam
 Proto_Algonquian,PA:4,*‑a:meHk‑,*‑aameHk‑
 Proto_Algonquian,PA:4,*‑a:meHkw‑,*‑aameHkw‑
 Proto_Algonquian,PA:4,*‑a:nkw‑,*‑aankw‑
-Proto_Algonquian,,*‑a:p,ERROR: Orthography  not recognized.
+Proto_Algonquian,,*‑a:p,
 Proto_Algonquian,PA:4,*‑a:pam,*‑aapam
-Proto_Algonquian,,*‑a:pant,ERROR: Orthography  not recognized.
+Proto_Algonquian,,*‑a:pant,
 Proto_Algonquian,PA:4,*‑a:pe:w,*‑aapeew
 Proto_Algonquian,PA:4,*‑a:peθk‑,*‑aapeθk‑
 Proto_Algonquian,PA:4,*‑a:peθkwi,*‑aapeθkwi
@@ -300,7 +300,7 @@ Proto_Algonquian,PA:4,*‑ht‑,*‑ht‑
 Proto_Algonquian,PA:4,*‑hta:wake:‑,*‑htaawakee‑
 Proto_Algonquian,PA:2,*‑hta·mpy‑,*‑htaampy‑
 Proto_Algonquian,PA:6,*‑htawak(ay)i,*‑htawak(ay)i
-Proto_Algonquian,,*‑htawak(ay)i,ERROR: Orthography  not recognized.
+Proto_Algonquian,,*‑htawak(ay)i,
 Proto_Algonquian,PA:4,*‑hto:,*‑htoo
 Proto_Algonquian,PA:4,*‑hto:škwani,*‑htooškwani
 Proto_Algonquian,PA:1,*‑htoo,*‑htoo
@@ -448,7 +448,7 @@ Proto_Algonquian,PA:1,*‑pali,*‑pali
 Proto_Algonquian,PA:1,*‑pali,*‑pali
 Proto_Algonquian,PA:4,*‑pe:,*‑pee
 Proto_Algonquian,PA:1,*‑pee,*‑pee
-Proto_Algonquian,,*‑pexkwane:‑,ERROR: Orthography  not recognized.
+Proto_Algonquian,,*‑pexkwane:‑,
 Proto_Algonquian,PA:1,*‑piso,*‑piso
 Proto_Algonquian,PA:2,*‑piso,*‑piso
 Proto_Algonquian,PA:1,*‑po,*‑po
@@ -1194,8 +1194,8 @@ Proto_Algonquian,PA:4,*ke:h‑,*keeh‑
 Proto_Algonquian,PA:4,*ke:hte:‑,*keehtee‑
 Proto_Algonquian,PA:4,*ke:k‑,*keek‑
 Proto_Algonquian,PA:4,*ke:kya:t‑,*keekyaat‑
-Proto_Algonquian,,*ke:ma:w‑,ERROR: Orthography  not recognized.
-Proto_Algonquian,,*ke:sip‑,ERROR: Orthography  not recognized.
+Proto_Algonquian,,*ke:ma:w‑,
+Proto_Algonquian,,*ke:sip‑,
 Proto_Algonquian,PA:4,*ke:šk‑,*keešk‑
 Proto_Algonquian,PA:6,*ke·hšawi‑,*keehšawi‑
 Proto_Algonquian,PA:6,*ke·hte·‑,*keehtee‑
@@ -1291,7 +1291,7 @@ Proto_Algonquian,PA:4,*ki:šeʔθw,*kiišeʔθw
 Proto_Algonquian,PA:4,*ki:šk‑,*kiišk‑
 Proto_Algonquian,PA:4,*ki:t‑,*kiit‑
 Proto_Algonquian,PA:4,*ki:w‑,*kiiw‑
-Proto_Algonquian,,*ki:wa:t‑,ERROR: Orthography  not recognized.
+Proto_Algonquian,,*ki:wa:t‑,
 Proto_Algonquian,PA:6,*ki·či‑,*kiiči‑
 Proto_Algonquian,PA:6,*ki·hk‑,*kiihk‑
 Proto_Algonquian,PA:6,*ki·hsa·či‑,*kiihsaači‑
@@ -1348,8 +1348,8 @@ Proto_Algonquian,PA:4,*kos‑,*kos‑
 Proto_Algonquian,PA:4,*kosekw‑,*kosekw‑
 Proto_Algonquian,PA:4,*koškw‑,*koškw‑
 Proto_Algonquian,PA:4,*kote:,*kotee
-Proto_Algonquian,,*kotekw‑,ERROR: Orthography  not recognized.
-Proto_Algonquian,,*kotekw‑,ERROR: Orthography  not recognized.
+Proto_Algonquian,,*kotekw‑,
+Proto_Algonquian,,*kotekw‑,
 Proto_Algonquian,PA:4,*koʔ‑,*koʔ‑
 Proto_Algonquian,PA:4,*koθe,*koθe
 Proto_Algonquian,PA:4,*koθk‑,*koθk‑
@@ -1618,7 +1618,7 @@ Proto_Algonquian,PA:6,*n,*n
 Proto_Algonquian,PA:4,*na:‑,*naa‑
 Proto_Algonquian,PA:6,*na:kw,*na:kw
 Proto_Algonquian,PA:6,*na:pe,*na:pe
-Proto_Algonquian,,*na:pe:‑,ERROR: Orthography  not recognized.
+Proto_Algonquian,,*na:pe:‑,
 Proto_Algonquian,PA:4,*na:t‑,*naat‑
 Proto_Algonquian,PA:4,*na:θ‑,*naaθ‑
 Proto_Algonquian,PA:6,*na·či‑,*naači‑
@@ -1679,7 +1679,7 @@ Proto_Algonquian,PA:6,*nehset(aw)‑,*nehset(aw)‑
 Proto_Algonquian,PA:6,*nehšihke·w‑,*nehšihkeew‑
 Proto_Algonquian,PA:6,*nehta·w‑,*nehtaaw‑
 Proto_Algonquian,PA:6,*nekamo‑,*nekamo‑
-Proto_Algonquian,,*neki‑,ERROR: Orthography  not recognized.
+Proto_Algonquian,,*neki‑,
 Proto_Algonquian,PA:6,*nekikw‑,*nekikw‑
 Proto_Algonquian,PA:1,*nekotw‑,*nekotw‑
 Proto_Algonquian,PA:4,*nekotw‑,*nekotw‑
@@ -1975,7 +1975,7 @@ Proto_Algonquian,PA:6,*šek‑,*šek‑
 Proto_Algonquian,PA:6,*šekači‑,*šekači‑
 Proto_Algonquian,PA:6,*šekat‑,*šekat‑
 Proto_Algonquian,PA:6,*šeki‑,*šeki‑
-Proto_Algonquian,,*sekw‑,ERROR: Orthography  not recognized.
+Proto_Algonquian,,*sekw‑,
 Proto_Algonquian,PA:6,*šenk‑,*šenk‑
 Proto_Algonquian,PA:6,*šešaw‑,*šešaw‑
 Proto_Algonquian,PA:6,*seʔsw(e·)‑,*seʔsw(ee)‑
