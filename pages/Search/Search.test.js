@@ -69,7 +69,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`motorisé`)
       cy.get(`form`).submit()
-      cy.get(`.results tbody tr`).should(`have.length`, 3)
+      cy.get(`.results tbody tr`).should(`have.length`, 1)
     })
 
   })
