@@ -14,7 +14,7 @@ describe(`Search`, function() {
     cy.contains(`.no-results`, `No results found.`)
   })
 
-  // Loads all results in the database.
+  // Long-running test. Loads all results in the database.
   it.skip(`all results`, function() {
     cy.visit(`/search`)
     cy.get(`form`).submit()
@@ -32,6 +32,14 @@ describe(`Search`, function() {
   })
 
   describe(`Quick Search`, function() {
+
+    it(`case insensitive`, function() {
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`ATIMW`)
+      cy.get(`form`).submit()
+      cy.get(`.num-results`).should(`include.text`, 2)
+      cy.get(`.results tbody tr`).should(`have.length`, 2)
+    })
 
     it(`Form (Project)`, function() {
       cy.visit(`/search`)

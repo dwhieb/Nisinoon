@@ -18,6 +18,9 @@ export default class Database {
   }
 
   search(query) {
+
+    query = query.toLowerCase()
+
     return this.components.filter(function({
       definition,
       form,
@@ -25,22 +28,23 @@ export default class Database {
       tokens,
       UR,
     }) {
-      return definition?.includes(query)
-      || form?.includes(query)
-      || PA?.includes(query)
-      || UR?.includes(query)
+      return definition?.toLowerCase().includes(query)
+      || form?.toLowerCase().includes(query)
+      || PA?.toLowerCase().includes(query)
+      || UR?.toLowerCase().includes(query)
       || tokens.some(function({
         form,
         gloss,
         PA,
         UR,
       }) {
-        return form?.includes(query)
-        || gloss?.includes(query)
-        || PA?.includes(query)
-        || UR?.includes(query)
+        return form?.toLowerCase().includes(query)
+        || gloss?.toLowerCase().includes(query)
+        || PA?.toLowerCase().includes(query)
+        || UR?.toLowerCase().includes(query)
       })
     })
+
   }
 
 }
