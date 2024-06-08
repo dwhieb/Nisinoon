@@ -21,11 +21,13 @@ export default class Database {
     return this.components.filter(function({
       definition,
       form,
+      PA,
       tokens,
       UR,
     }) {
       return definition?.includes(query)
       || form?.includes(query)
+      || PA?.includes(query)
       || UR?.includes(query)
       || tokens.some(function({ form, gloss, UR }) {
 
