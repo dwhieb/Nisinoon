@@ -3,7 +3,6 @@ export function Search(req, res) {
   const { db } = req.app
 
   const context = {
-    construction:  true,
     numComponents: db.index.size.toLocaleString(),
     numLanguages:  db.languages.size.toLocaleString(),
     pageCSS:       res.app.locals.styles.Search,
