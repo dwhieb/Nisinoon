@@ -1,18 +1,18 @@
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-1","language":"Delaware_Unami","tokens":[{"form":"-gapawin","gloss":"stand, step","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Unami","form":"-t·hun-","id":"Delaware_Unami-2","language":"Delaware_Unami","tokens":[{"form":"-thun-","gloss":"branch","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-3","language":"Delaware_Unami","tokens":[{"form":"wak-","gloss":"bend","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Unami","form":"wǝnt·ee-","id":"Delaware_Unami-4","language":"Delaware_Unami","tokens":[{"form":"wǝnte·-","gloss":"","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-5","language":"Delaware_Unami","tokens":[{"form":"woak-","gloss":"bend","UR":""}],"UR":""}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-6","language":"Delaware_Unami","tokens":[{"form":"","gloss":"","UR":"pa·htamwe·w-"}],"UR":"p·aaht·amweew-"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-7","language":"Delaware_Unami","tokens":[{"form":"","gloss":"cornmeal, mush","UR":"-asa·pa·n-"}],"UR":"-as·aap·aan-"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-8","language":"Delaware_Unami","tokens":[{"form":"","gloss":"act on quickly","UR":"-hlat-"}],"UR":"-hlat·-"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-9","language":"Delaware_Unami","tokens":[{"form":"","gloss":"bad","UR":"mat-"}],"UR":"mat·-"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-10","language":"Delaware_Unami","tokens":[{"form":"","gloss":"medicine","UR":"-a·pasi·hkan"}],"UR":"-aap·as·iihk·an"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-11","language":"Delaware_Unami","tokens":[{"form":"","gloss":"finger(s)","UR":"-ǝlǝnč-"}],"UR":"-ǝlǝnč-"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-12","language":"Delaware_Unami","tokens":[{"form":"","gloss":"act on by tool","UR":"-ah-"}],"UR":"-ah-"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-13","language":"Delaware_Unami","tokens":[{"form":"","gloss":"act on by fingers","UR":"-ǝlǝnčah-"}],"UR":"-ǝlǝnčah-"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-14","language":"Delaware_Unami","tokens":[{"form":"","gloss":"dirty","UR":"ni·sk-"}],"UR":"niis·k·-"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-15","language":"Delaware_Unami","tokens":[{"form":"","gloss":"wash","UR":"kǝši·-"}],"UR":"k·ǝšii-"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-16","language":"Delaware_Unami","tokens":[{"form":"","gloss":"by hand","UR":"-ǝn-"}],"UR":"-ǝn-"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-17","language":"Delaware_Unami","tokens":[{"form":"","gloss":"","UR":"-wa·kan"}],"UR":"-waak·an"}
-{"definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-18","language":"Delaware_Unami","tokens":[{"form":"","gloss":"applicative","UR":"-lax-"}],"UR":"-lax-"}
+{"componentID":"1","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-1","language":"Delaware_Unami","tokens":[{"form":"-gapawin","gloss":"stand, step","UR":""}],"UR":""}
+{"componentID":"2","definition":"","displayLanguage":"Unami","form":"-t·hun-","id":"Delaware_Unami-2","language":"Delaware_Unami","tokens":[{"form":"-thun-","gloss":"branch","UR":""}],"UR":""}
+{"componentID":"3","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-3","language":"Delaware_Unami","tokens":[{"form":"wak-","gloss":"bend","UR":""}],"UR":""}
+{"componentID":"4","definition":"","displayLanguage":"Unami","form":"wǝnt·ee-","id":"Delaware_Unami-4","language":"Delaware_Unami","tokens":[{"form":"wǝnte·-","gloss":"","UR":""}],"UR":""}
+{"componentID":"5","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-5","language":"Delaware_Unami","tokens":[{"form":"woak-","gloss":"bend","UR":""}],"UR":""}
+{"componentID":"6","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-6","language":"Delaware_Unami","tokens":[{"form":"","gloss":"","UR":"pa·htamwe·w-"}],"UR":"p·aaht·amweew-"}
+{"componentID":"7","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-7","language":"Delaware_Unami","tokens":[{"form":"","gloss":"cornmeal, mush","UR":"-asa·pa·n-"}],"UR":"-as·aap·aan-"}
+{"componentID":"8","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-8","language":"Delaware_Unami","tokens":[{"form":"","gloss":"act on quickly","UR":"-hlat-"}],"UR":"-hlat·-"}
+{"componentID":"9","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-9","language":"Delaware_Unami","tokens":[{"form":"","gloss":"bad","UR":"mat-"}],"UR":"mat·-"}
+{"componentID":"10","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-10","language":"Delaware_Unami","tokens":[{"form":"","gloss":"medicine","UR":"-a·pasi·hkan"}],"UR":"-aap·as·iihk·an"}
+{"componentID":"11","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-11","language":"Delaware_Unami","tokens":[{"form":"","gloss":"finger(s)","UR":"-ǝlǝnč-"}],"UR":"-ǝlǝnč-"}
+{"componentID":"12","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-12","language":"Delaware_Unami","tokens":[{"form":"","gloss":"act on by tool","UR":"-ah-"}],"UR":"-ah-"}
+{"componentID":"13","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-13","language":"Delaware_Unami","tokens":[{"form":"","gloss":"act on by fingers","UR":"-ǝlǝnčah-"}],"UR":"-ǝlǝnčah-"}
+{"componentID":"14","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-14","language":"Delaware_Unami","tokens":[{"form":"","gloss":"dirty","UR":"ni·sk-"}],"UR":"niis·k·-"}
+{"componentID":"15","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-15","language":"Delaware_Unami","tokens":[{"form":"","gloss":"wash","UR":"kǝši·-"}],"UR":"k·ǝšii-"}
+{"componentID":"16","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-16","language":"Delaware_Unami","tokens":[{"form":"","gloss":"by hand","UR":"-ǝn-"}],"UR":"-ǝn-"}
+{"componentID":"17","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-17","language":"Delaware_Unami","tokens":[{"form":"","gloss":"","UR":"-wa·kan"}],"UR":"-waak·an"}
+{"componentID":"18","definition":"","displayLanguage":"Unami","form":"","id":"Delaware_Unami-18","language":"Delaware_Unami","tokens":[{"form":"","gloss":"applicative","UR":"-lax-"}],"UR":"-lax-"}
