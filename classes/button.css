@@ -8,6 +8,7 @@
   border-radius:    var(--border-radius);
   box-shadow:       inset 0px 0px 3px 2px hsl(var(--gray-hue) var(--gray-saturation) 95%),
                     1px 1px 2px #CCC;
+  color:            black;
   cursor:           pointer;
   font-weight:      500;
   padding:          var(--text-padding);
