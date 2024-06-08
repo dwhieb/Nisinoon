@@ -8,6 +8,7 @@ import path                          from 'node:path'
 import { readdir }                   from 'node:fs/promises'
 import { stringify as stringifyCSV } from 'csv-stringify/sync'
 
+const commaRegExp   = /,\s*/gv
 const issues        = new Issues
 const languages     = new Languages
 const orthographies = new Orthographies
@@ -40,7 +41,6 @@ export default class Components extends Map {
   static columns = {
     abstractFinal:       `Final: concrete / abstract`,
     baseCategory:        `Base Category (if secondary)`,
-    citationKey:         `Source Code`,
     componentID:         `Component ID`,
     componentOf:         `Formative/component occurs in what component(s)`,
     components:          `Contains`,
@@ -50,7 +50,6 @@ export default class Components extends Map {
     firstCheck:          `1st check done`,
     gloss:               `Translation`,
     id:                  `ID`,
-    locator:             `Page #`,
     matchAI:             `Match AI`,
     matchII:             `Match II`,
     matchTA:             `Match TA`,
@@ -58,9 +57,11 @@ export default class Components extends Map {
     notes:               `Comments`,
     originalOrthography: `Form (original orthography)`,
     orthography:         `Orthography Key Code`,
+    pages:               `Page #`,
     reduplicated:        `Initial: Reduplicated`,
     secondaryFinal:      `Final: secondary (y/n/b)`,
     secondCheck:         `2nd check done`,
+    sourceCode:          `Source Code`,
     speaker:             `Speaker`,
     stemCategory:        `Stem category`,
     stemGloss:           `Stem translation`,
@@ -165,8 +166,19 @@ export default class Components extends Map {
     // Component Type
     const type = record[cols.type]
 
+    const component = {
+      componentID,
+      definition,
+      displayLanguage,
+      form,
+      id,
+      language,
+      type,
+      UR,
+    }
+
     // Tokens
-    const tokens = record.tokens.map(this.convertToken)
+    component.tokens = record.tokens.map(token => this.convertToken(token, component))
 
     // Save/Return the converted data
     this.transliterations.push({
@@ -176,28 +188,33 @@ export default class Components extends Map {
       projectOrthography:  form.replaceAll(`-`, `\u2011`),
     })
 
-    return {
-      componentID,
-      definition,
-      displayLanguage,
-      form,
-      id,
-      language,
-      tokens,
-      type,
-      UR,
-    }
+    return component
 
   }
 
-  convertToken(token) {
+  convertToken(token, component) {
 
     const cols  = Components.columns
     const form  = token[cols.originalOrthography]
     const gloss = cleanGloss(token[cols.gloss])
     const UR    = cleanUR(token[cols.UR])
 
-    return { form, gloss, UR }
+    // Bibliography
+    const source = token[cols.sourceCode]
+
+    const pages = token[cols.pages]
+    .split(commaRegExp)
+    .map(Number)
+    .filter(Number.isInteger)
+
+    const bibliography = `${ source }: ${ pages.join(`, `) }`
+
+    return {
+      bibliography,
+      form,
+      gloss,
+      UR,
+    }
 
   }
 
