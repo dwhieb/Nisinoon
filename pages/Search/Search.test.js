@@ -49,7 +49,7 @@ describe(`Search`, function() {
       cy.get(`.results tbody tr`).should(`have.length`, 1)
     })
 
-    it.only(`Proto-Algonquian (Project)`, function() {
+    it(`Proto-Algonquian (Project)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`(aa)ntep`)
       cy.get(`form`).submit()
@@ -81,7 +81,13 @@ describe(`Search`, function() {
       cy.get(`.results tbody tr`).should(`have.length`, 1)
     })
 
-    it(`Proto-Algonquian (Source)`)
+    it(`Proto-Algonquian (Source)`, function() {
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`-eʔs-`)
+      cy.get(`form`).submit()
+      cy.get(`.num-results`).should(`include.text`, 1)
+      cy.get(`.results tbody tr`).should(`have.length`, 1)
+    })
 
     it(`Definitions (Source)`, function() {
       cy.visit(`/search`)

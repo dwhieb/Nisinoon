@@ -29,12 +29,16 @@ export default class Database {
       || form?.includes(query)
       || PA?.includes(query)
       || UR?.includes(query)
-      || tokens.some(function({ form, gloss, UR }) {
-
+      || tokens.some(function({
+        form,
+        gloss,
+        PA,
+        UR,
+      }) {
         return form?.includes(query)
         || gloss?.includes(query)
+        || PA?.includes(query)
         || UR?.includes(query)
-
       })
     })
   }
