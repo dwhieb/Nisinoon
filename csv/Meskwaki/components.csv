@@ -27,6 +27,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 26,Goddard,IG1990a,0456,sac,,mesk1242,-api-,ME:2,,-api-,,,,(anim.) sits,,final,AI,,,,,,,,,,,nemat-api-,,,V,AI,sit upright,,IG1990a;0456,atame·w-api-,,,V,AI,smoke sitting,,IG1990a;0457,masa·n-ika·-api-,V,AI,foot fall asleep as one sits,,IG1990a;0465,,,,,,,,,,,,,,,,,,MAM
 27,Goddard,IG1990a,0456,sac,,mesk1242,na·kataw-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,na·kataw-e·nem-,,,V,TA,keep him/her in mind,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,na·kat- 'follow (inan.) (TI1)',,,MAM
 28,Goddard,IG1990a,"0456,0457,0465",sac,,mesk1242,-e·nem-,ME:2,,-e·nem-,,,,think about (anim.),,final,TA,,,,,,,,,,,,,ki·ke·nowe·nem-,V,TA,think s/he is finished with a clan feast,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+314,Dahlstrom,AD2009,0226,sac,,mesk1242,-e·nem-,ME:2,,,,,,consider,,final,AI
 29,Goddard,IG1990a,0457,sac,,mesk1242,ni·miw-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,ni·miw-ah-,,,V,TI1,sing to accompany dancing,,IG1990a;0457,ni·miw-isen-,,,V,II,it (song) be of the dancing variety,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,Y,ni·mi- 'dance',initial probably means 'dance',,MAM
 30,Goddard,IG1990a,0457,sac,,mesk1242,-ah-,ME:2,,,,,,act on (inan.) by tool,,final,TI1,,,,,,,,,,,ni·miw-ah-,,,V,TI1,sing to accompany dancing,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 31,Goddard,IG1990a,0457,sac,,mesk1242,-isen-,ME:2,,,,,,"(inan.) lies, is",,final,II,,,,,,,,,,,ni·miw-isen-,,,V,II,it (song) be of the dancing variety,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -100,7 +101,6 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 103,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,we·p-,,,,begin,,initial,,,,,,,,,,,,we·pose·-,,,V,AI,NG,,IG1990a;0479,we·pose·-,,,V,AI,NG,,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,MAM
 104,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,-i,,,,NG,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 105,Goddard,IG1990a,0479,sac,,mesk1242,ki·ke·now-,ME:2,,,,,,celebrate a clan feast,,initial,,,,,,,,,,,,,,ki·ke·nowe·nem-,V,TA,think s/he is finished with a clan feast,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,ki·ke·no- 'celebrate a clan feast (AI)',,,MAM
-106,Goddard,IG1990a,0480,sac,,mesk1242,,ME:2,,-e·nem-,,,,think about,,final,TA,,,,,,,,,,,,,ki·ke·nowe·nem-,V,TA,think s/he is finished with a clan feast,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 107,Goddard,IG1990a,0480,sac,,mesk1242,oto·te·weniw-,ME:2,,,,,,have a town,,initial,,,,,,,,,,,,,,oto·te·weniwa·čim-,V,TA,be said of him/her that they have a town,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,oto·te·weni- 'have a town (AI)',,,MAM
 108,Goddard,IG1990a,0480,sac,,mesk1242,,ME:2,,-a·čim-,,,,say about,,final,TA,,,,,,,,,,,,,oto·te·weniwa·čim-,V,TA,be said of him/her that they have a town,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 109,Costa,DJC2013,0200,sac,,mesk1242,nepači-,ME:2,,,,,,by cold,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,MAM
@@ -191,7 +191,6 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 197,Bloomfield,LB1925a,0228,sac,,mesk1242,-ō-,ME:1,,,,,,carry on back,,final
 198,Bloomfield,LB1925a,0228,sac,,mesk1242,pīw-,ME:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says ""historic"""
 199,Bloomfield,LB1925a,0228,sac,,mesk1242,ānw-,ME:1,,,,,,fail,,initial
-200,Bloomfield,LB1925a,0228,sac,,mesk1242,-ah-,ME:1,,,,,,by tool,,final
 201,Bloomfield,LB1925a,0228,sac,,mesk1242,-īh-,ME:1,,,,,,diminutive,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"marked as ""suffix"""
 202,Bloomfield,LB1925a,0229,sac,,mesk1242,-tuge,ME:1,,,,,,NG,,final
 203,Bloomfield,LB1925a,0229,sac,,mesk1242,ahkw-,ME:1,,,,,,so far,,initial
@@ -201,7 +200,6 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 207,Bloomfield,LB1925a,0229,sac,,mesk1242,nīc-,ME:1,,,,,,two,,initial
 208,Bloomfield,LB1925a,0229,sac,,mesk1242,nīcw-,ME:1,,,,,,two,,initial
 209,Bloomfield,LB1925a,0229,sac,,mesk1242,nīcō-,ME:1,,,,,,two,,initial
-210,Bloomfield,LB1925a,0229,sac,,mesk1242,-api-,ME:1,,,,,,sit,,final
 211,Bloomfield,LB1925a,0229,sac,,mesk1242,-gāpā-,ME:1,,,,,,stand,,final 
 212,Bloomfield,LB1925a,0229,sac,,mesk1242,-hpu-,ME:1,,,,,,eat,,final
 213,Bloomfield,LB1925a,0229,sac,,mesk1242,amw-,ME:1,,,,,,eat,,initial
@@ -293,7 +291,6 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 311,Dahlstrom,AD2009,"0225,0233",sac,,mesk1242,mešk-,ME:2,,,,,,open,,initial
 312,Dahlstrom,AD2009,"0225,0233",sac,,mesk1242,-etone·-,ME:2,,,,,,mouth,,medial,INCORP
 313,Dahlstrom,AD2009,0225,sac,,mesk1242,-ekwa·m,ME:2,,,,,,sleep,,final,AI
-314,Dahlstrom,AD2009,0226,sac,,mesk1242,-e·nem-,ME:2,,,,,,consider,,final,AI
 315,Dahlstrom,AD2009,"0229,0233,0235,0237",sac,,mesk1242,ahp-,ME:2,,ahp-,,,,on,,initial,,,,,,,,,,,,ahpe·nemo-,,,V,AI+O,depend on,,AD2009;0229,ahpapi-,,,V,AI+O,sit on,,AG2009;0229,ahpeka·-,,,V,AI+O,dance on,,AG2009;0229,ahp-ihw-,V,TA,pile (e.g. brush) on top of him/her,,IG1990a;0470
 316,Dahlstrom,AD2009,"0229,0236,0237",sac,,mesk1242,takw-,ME:2,,,,,,together with,,initial,,,,,,,,,,,,takwi·-,,,V,AI+O,join,,AD2009;0229,tawkisen-,,,V,AI+O,lie together with [INAN. SUBJ],,AG2009;0229
 317,Dahlstrom,AD2009,"0229,0237",sac,,mesk1242,kek-,ME:2,,,,,,having,,initial,,,,,,,,,,,,kekišin-,,,V,AI+O,"lie having, be buried with",,AD2009;0229,kekate·mo-,,,V,AI+O,weep holding,,AG2009;0229

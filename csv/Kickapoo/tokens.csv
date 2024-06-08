@@ -71,7 +71,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 55,Voorhis,PV1977,0046,kic,,kick1244,-aapataani-,KP:1,,,,,,"look X, appear to be X",,final,AI,,,,,,,,,,,men-waapataani-,,,V,AI,"be good looking, be pleasing to look at (=look good/right/correct?)",,PV1977;0046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: The ? is in-text.
 56,Voorhis,PV1977,0046,kic,,kick1244,-aapataani-,KP:1,,,,,,"look X, appear to be X",,final,II,,,,,,,,,,,eecinoaapataani-,,,V,II,look easy,,PV1977;0046,men-waapataani-,,,V,AI,"be good looking, be pleasing to look at (=look good/right/correct?)",,PV1977;0046,,,,,,,,,,,,,,,,,,,,,,,,,GVM: The ? is in-text.
 57,Voorhis,PV1988,0146,kic,,kick1244,-aapatam-,KP:1,,,,,,see or look at it; think it looks so,,final,TI,,,,,,,-aapam-
-57,Voorhis,PV1977,0045.0052,kic,,kick1244,-aapatam-,KP:1,,,,,,look at it; think it looks X,,final,TI,,,,,,,-aapam-,,,,(w)aapatam-,,,V,TI,look at it,,PV1977;0045,metaaθaapatam-,,,V,TI,"like to look at him/it, enjoy looking at him/it",,PV1977;0053,pesikwaapatam-,,,V,TI,think it looks straight,,PV1977;0055
+57,Voorhis,PV1977,"0045,0052",kic,,kick1244,-aapatam-,KP:1,,,,,,look at it; think it looks X,,final,TI,,,,,,,-aapam-,,,,(w)aapatam-,,,V,TI,look at it,,PV1977;0045,metaaθaapatam-,,,V,TI,"like to look at him/it, enjoy looking at him/it",,PV1977;0053,pesikwaapatam-,,,V,TI,think it looks straight,,PV1977;0055
 58,Voorhis,PV1983,0084,kic,,kick1244,-aapehk-,KP:1,,,,,,"stone, metal, glass",,medial,CLASS,,,,,,,,,,,kaaθiaapehkahw-,,,V,TA,"wipe him (stone, metal, glass) by tool",,PV1983;0084,kaaθiaapehkaham-,,,V,TI,"wipe it (stone, metal, glass) by tool",,PV1983;0084
 58,Voorhis,PV1988,0146,kic,,kick1244,-aapehk- ,KP:1,,,,,,"stone, metal, glass",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 59,Voorhis,PV1988,0146,kic,,kick1244,-aapehkw-,KP:1,,,,,,metal,,final,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -421,7 +421,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 288,Voorhis,PV1988,0028,kic,,kick1244,-iihtiiθ-,KP:1,,,,,,(male) friend,,medial,AnimDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 289,Voorhis,PV1983,"0081,0085",kic,,kick1244,-iikwee-,KP:1,,,,,,"face, eye",,medial,,,,,,,,,,,,isiikweepi-,,,V,AI,sit with one's face to that place (relative) = sit facing that place (relative),,PV1983;0082,kekiepiikweeskaa-,,,V,AI,close one's eyes,,PV1983;0081,kookiikween-,,,V,TA,wash his face by hand,,PV1983;0081,,,,,,,,,-aanakiikwee-
 289,Voorhis,PV1988,0152,kic,,kick1244,-iikwee- ,KP:1,,,,,,"face, eye",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-290,Voorhis,PV1977,0043,kic,,kick1244,-iikwee- ,KP:1,,,,,,face,,medial,,,,,,,,,,,,kaaθiikweehoon-,,,N,ii,"face towel, napkin",,PV1977;0043,kookiikween-,,,V,TA,wash his face by hand,,PV1977;0043
+289,Voorhis,PV1977,0043,kic,,kick1244,-iikwee- ,KP:1,,,,,,face,,medial,,,,,,,,,,,,kaaθiikweehoon-,,,N,ii,"face towel, napkin",,PV1977;0043,kookiikween-,,,V,TA,wash his face by hand,,PV1977;0043
 291,Voorhis,PV1977,0051,kic,,kick1244,-iimikat-,KP:1,,,,,,go,,final,II,,,,,,,,,,,anemiimikat-,,,V,II,go along/in that direction,,PV1977;0050
 292,Voorhis,PV1988,0029,kic,,kick1244,-iinani-,KP:1,,,,,,tongue,,medial,InanDep
 293,Voorhis,PV1988,0029,kic,,kick1244,-iinemw-,KP:1,,,,,,"sister-in-law (of a man), man's brother's wife, wife's sister, brother-in-law (of a woman), woman's sister's husband, husband's brother",,medial,AnimDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM

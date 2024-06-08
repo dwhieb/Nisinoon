@@ -567,7 +567,7 @@ Component ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form
 547,Wolfart,HCW1969a,"0235,0236",crk,,plai1258,-tot-,C-P:2,,,,,,NG,,final,TI,,ABSTR,Y,AI,,,,,-totaw-
 548,Cook & Muehlbauer,CC_JM2010,0039,crk,,plai1258,-totaw-,C-P:1,,,,,,NG,,final,TA,,ABSTR,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 549,Wolfart,HCW1973a,0074,crk,,plai1258,-totaw-,C-P:2,,,,,,NG,,final,TA,,ABSTR,,,,,,,,-tot-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,derive transitive verbs from AI stems,,GVM
-550,Wolfart,HCW1969a,0235.0236,crk,,plai1258,-totaw-,C-P:2,,,,,,NG,,final,TA,,ABSTR,Y,AI,,,,,,-tot-
+550,Wolfart,HCW1969a,"0235,0236",crk,,plai1258,-totaw-,C-P:2,,,,,,NG,,final,TA,,ABSTR,Y,AI,,,,,,-tot-
 551,Wolfart,HCW1973a,0067,crk,,plai1258,-w-,C-P:2,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""not only is this -w- homonymous with the agentive -w-; there may also be some connection with the inflectional -w-""",,GVM
 552,Wolfart,HCW1973a,0069,crk,,plai1258,-w-,C-P:2,,,,,,agentive,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,freely formed from AI verbs,,GVM
 553,Wolfart,HCW1969a,0213,crk,,plai1258,-w-,C-P:2,,,,,,agentive,,final,N,,,Y,TI,,,,,,,,,,,,,omāhamw-,,,V,TI,"one who canoes downriver, voyageur",,HCW1969a;0213

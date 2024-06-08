@@ -1,3 +1,3 @@
-{"componentID":"1","definition":"","displayLanguage":"Narragansett","form":"","id":"Narragansett-1","language":"Narragansett","tokens":[{"form":"","gloss":"wood","UR":"-āhkw-"}],"type":"medial","UR":"-āhkw-"}
-{"componentID":"2","definition":"","displayLanguage":"Narragansett","form":"","id":"Narragansett-2","language":"Narragansett","tokens":[{"form":"","gloss":"long, tall","UR":"kwən-"}],"type":"initial","UR":"kwən-"}
-{"componentID":"3","definition":"","displayLanguage":"Narragansett","form":"","id":"Narragansett-3","language":"Narragansett","tokens":[{"form":"","gloss":"short","UR":"tayahkw-"}],"type":"initial","UR":"tayahkw-"}
+{"componentID":"1","definition":"","displayLanguage":"Narragansett","form":"","id":"Narragansett-1","language":"Narragansett","type":"medial","UR":"-āhkw-","tokens":[{"bibliography":"IG1971: 143","form":"","gloss":"wood","UR":"-āhkw-"}]}
+{"componentID":"2","definition":"","displayLanguage":"Narragansett","form":"","id":"Narragansett-2","language":"Narragansett","type":"initial","UR":"kwən-","tokens":[{"bibliography":"IG1971: 143","form":"","gloss":"long, tall","UR":"kwən-"}]}
+{"componentID":"3","definition":"","displayLanguage":"Narragansett","form":"","id":"Narragansett-3","language":"Narragansett","type":"initial","UR":"tayahkw-","tokens":[{"bibliography":"IG1971: 143","form":"","gloss":"short","UR":"tayahkw-"}]}
