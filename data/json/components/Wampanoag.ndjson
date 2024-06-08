@@ -1,3 +1,3 @@
-{"componentID":"1","definition":"","displayLanguage":"Wampanoag","form":"-kompau","id":"Wampanoag-1","language":"Wampanoag","tokens":[{"form":"-kompau","gloss":"stand","UR":""}],"UR":""}
-{"componentID":"2","definition":"","displayLanguage":"Wampanoag","form":"əs-","id":"Wampanoag-2","language":"Wampanoag","tokens":[{"form":"əs-","gloss":"","UR":""}],"UR":""}
-{"componentID":"3","definition":"","displayLanguage":"Wampanoag","form":"pašp-","id":"Wampanoag-3","language":"Wampanoag","tokens":[{"form":"pashp-","gloss":"","UR":""}],"UR":""}
+{"componentID":"1","definition":"","displayLanguage":"Wampanoag","form":"-kompau","id":"Wampanoag-1","language":"Wampanoag","tokens":[{"form":"-kompau","gloss":"stand","UR":""}],"type":"final","UR":""}
+{"componentID":"2","definition":"","displayLanguage":"Wampanoag","form":"əs-","id":"Wampanoag-2","language":"Wampanoag","tokens":[{"form":"əs-","gloss":"","UR":""}],"type":"initial","UR":""}
+{"componentID":"3","definition":"","displayLanguage":"Wampanoag","form":"pašp-","id":"Wampanoag-3","language":"Wampanoag","tokens":[{"form":"pashp-","gloss":"","UR":""}],"type":"initial","UR":""}

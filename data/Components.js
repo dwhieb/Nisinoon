@@ -61,7 +61,6 @@ export default class Components extends Map {
     reduplicated:        `Initial: Reduplicated`,
     secondaryFinal:      `Final: secondary (y/n/b)`,
     secondCheck:         `2nd check done`,
-    slot:                `Component Type`,
     speaker:             `Speaker`,
     stemCategory:        `Stem category`,
     stemGloss:           `Stem translation`,
@@ -69,6 +68,7 @@ export default class Components extends Map {
     stemTranscription:   `Component occurs in stem (orig. orth)`,
     stemUR:              `Stem UR`,
     subcategory:         `Subcategory`,
+    type:                `Component Type`,
     UR:                  `UR (if given; if different)`,
   }
 
@@ -162,6 +162,9 @@ export default class Components extends Map {
     // Definition
     const definition = cleanGloss(record[cols.definition])
 
+    // Component Type
+    const type = record[cols.type]
+
     // Tokens
     const tokens = record.tokens.map(this.convertToken)
 
@@ -181,6 +184,7 @@ export default class Components extends Map {
       id,
       language,
       tokens,
+      type,
       UR,
     }
 
