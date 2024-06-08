@@ -25,6 +25,7 @@ describe(`Search`, function() {
     cy.visit(`/search`)
     cy.get(`#search-box`).type(`atimw`)
     cy.get(`form`).submit()
+    cy.get(`.num-results`).should(`include.text`, 2)
     cy.get(`.results tbody tr`).should(`have.length`, 2)
   })
 
@@ -34,6 +35,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`aamæhk`)
       cy.get(`form`).submit()
+      cy.get(`.num-results`).should(`include.text`, 2)
       cy.get(`.results tbody tr`).should(`have.length`, 2)
     })
 
@@ -41,6 +43,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`αhso`)
       cy.get(`form`).submit()
+      cy.get(`.num-results`).should(`include.text`, 1)
       cy.get(`.results tbody tr`).should(`have.length`, 1)
     })
 
@@ -48,6 +51,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`motorize`)
       cy.get(`form`).submit()
+      cy.get(`.num-results`).should(`include.text`, 1)
       cy.get(`.results tbody tr`).should(`have.length`, 1)
     })
 
@@ -55,6 +59,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`gan̈ba8i`)
       cy.get(`form`).submit()
+      cy.get(`.num-results`).should(`include.text`, 1)
       cy.get(`.results tbody tr`).should(`have.length`, 1)
     })
 
@@ -62,6 +67,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`iinoo'ei`)
       cy.get(`form`).submit()
+      cy.get(`.num-results`).should(`include.text`, 1)
       cy.get(`.results tbody tr`).should(`have.length`, 1)
     })
 
@@ -69,6 +75,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`motorisé`)
       cy.get(`form`).submit()
+      cy.get(`.num-results`).should(`include.text`, 1)
       cy.get(`.results tbody tr`).should(`have.length`, 1)
     })
 
