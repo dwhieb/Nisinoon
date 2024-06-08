@@ -86,7 +86,8 @@ export default class Orthographies extends Map {
     const rules = this.get(ortho)
 
     if (!rules) {
-      return `ERROR: Orthography ${ ortho } not recognized.`
+      // return `ERROR: Orthography ${ ortho } not recognized.` // Use this for finding missing orthographies.
+      return ``
     }
 
     let transliterate = this.transliterators.get(ortho)
