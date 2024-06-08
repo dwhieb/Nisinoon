@@ -178,7 +178,7 @@ export default class Components extends Map {
     }
 
     // Tokens
-    component.tokens = record.tokens.map(token => this.convertToken(token, component))
+    component.tokens = record.tokens.map(this.convertToken)
 
     // Save/Return the converted data
     this.transliterations.push({
@@ -192,7 +192,7 @@ export default class Components extends Map {
 
   }
 
-  convertToken(token, component) {
+  convertToken(token) {
 
     const cols  = Components.columns
     const form  = token[cols.originalOrthography]

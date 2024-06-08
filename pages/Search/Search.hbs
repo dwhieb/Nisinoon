@@ -47,7 +47,7 @@
               <th></th>{{!-- Component UR (Project Orthography) --}}
               <th></th>{{!-- Project Definition --}}
               <th></th>{{!-- Component Type --}}
-              <th class='bb c' colspan=3>Sources</th>{{!-- Token Fields --}}
+              <th class='bb c' colspan=4>Sources</th>{{!-- Token Fields --}}
             </tr>
             <tr>
               {{!-- Component Fields --}}
@@ -61,6 +61,7 @@
               <th>Forms</th>
               <th>URs</th>
               <th>Glosses</th>
+              <th>Bibliography</th>
             </tr>
           </thead>
           <tbody>
@@ -90,6 +91,13 @@
                   <ul>
                     {{#each tokens as |token| }}
                       <li>{{#if gloss }}‘{{ gloss }}’{{else}}&#8212;{{/if}}</li>
+                    {{/each}}
+                  </ul>
+                </td>
+                <td class=bibliography>
+                  <ul>
+                    {{#each tokens as |token| }}
+                      <li>{{ bibliography }}</li>
                     {{/each}}
                   </ul>
                 </td>
