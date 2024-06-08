@@ -1,6 +1,6 @@
-{"componentID":"1","definition":"","displayLanguage":"East Cree","form":"-kot-","id":"Cree_East-1","language":"Cree_East","tokens":[{"form":"-kot-","gloss":"nose","UR":""}],"UR":""}
-{"componentID":"2","definition":"","displayLanguage":"East Cree","form":"-yi","id":"Cree_East-2","language":"Cree_East","tokens":[{"form":"-yi","gloss":"self-initiated body movement","UR":""}],"UR":""}
-{"componentID":"3","definition":"","displayLanguage":"East Cree","form":"čiič-","id":"Cree_East-3","language":"Cree_East","tokens":[{"form":"chiich-","gloss":"","UR":""}],"UR":""}
-{"componentID":"4","definition":"","displayLanguage":"East Cree","form":"paahp-","id":"Cree_East-4","language":"Cree_East","tokens":[{"form":"paahp-","gloss":"laugh","UR":""}],"UR":""}
-{"componentID":"5","definition":"","displayLanguage":"East Cree","form":"pahkope-","id":"Cree_East-5","language":"Cree_East","tokens":[{"form":"pahkope-","gloss":"","UR":""}],"UR":""}
-{"componentID":"6","definition":"","displayLanguage":"East Cree","form":"payehk-","id":"Cree_East-6","language":"Cree_East","tokens":[{"form":"payehk-","gloss":"clean","UR":""}],"UR":""}
+{"componentID":"1","definition":"","displayLanguage":"East Cree","form":"-kot-","id":"Cree_East-1","language":"Cree_East","tokens":[{"form":"-kot-","gloss":"nose","UR":""}],"type":"medial","UR":""}
+{"componentID":"2","definition":"","displayLanguage":"East Cree","form":"-yi","id":"Cree_East-2","language":"Cree_East","tokens":[{"form":"-yi","gloss":"self-initiated body movement","UR":""}],"type":"final","UR":""}
+{"componentID":"3","definition":"","displayLanguage":"East Cree","form":"čiič-","id":"Cree_East-3","language":"Cree_East","tokens":[{"form":"chiich-","gloss":"","UR":""}],"type":"initial","UR":""}
+{"componentID":"4","definition":"","displayLanguage":"East Cree","form":"paahp-","id":"Cree_East-4","language":"Cree_East","tokens":[{"form":"paahp-","gloss":"laugh","UR":""}],"type":"initial","UR":""}
+{"componentID":"5","definition":"","displayLanguage":"East Cree","form":"pahkope-","id":"Cree_East-5","language":"Cree_East","tokens":[{"form":"pahkope-","gloss":"","UR":""}],"type":"initial","UR":""}
+{"componentID":"6","definition":"","displayLanguage":"East Cree","form":"payehk-","id":"Cree_East-6","language":"Cree_East","tokens":[{"form":"payehk-","gloss":"clean","UR":""}],"type":"initial","UR":""}

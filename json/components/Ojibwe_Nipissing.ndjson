@@ -1,4 +1,4 @@
-{"componentID":"1","definition":"","displayLanguage":"Nipissing","form":"-pit","id":"Ojibwe_Nipissing-1","language":"Ojibwe_Nipissing","tokens":[{"form":"-bid","gloss":"by pulling action, by hand","UR":""}],"UR":""}
-{"componentID":"2","definition":"","displayLanguage":"Nipissing","form":"-čaan-","id":"Ojibwe_Nipissing-2","language":"Ojibwe_Nipissing","tokens":[{"form":"-jaan-","gloss":"nose","UR":""}],"UR":""}
-{"componentID":"3","definition":"","displayLanguage":"Nipissing","form":"akaas·-","id":"Ojibwe_Nipissing-3","language":"Ojibwe_Nipissing","tokens":[{"form":"agaas-","gloss":"small","UR":""}],"UR":""}
-{"componentID":"4","definition":"","displayLanguage":"Nipissing","form":"piin-","id":"Ojibwe_Nipissing-4","language":"Ojibwe_Nipissing","tokens":[{"form":"biin-","gloss":"clean","UR":""}],"UR":""}
+{"componentID":"1","definition":"","displayLanguage":"Nipissing","form":"-pit","id":"Ojibwe_Nipissing-1","language":"Ojibwe_Nipissing","tokens":[{"form":"-bid","gloss":"by pulling action, by hand","UR":""}],"type":"final","UR":""}
+{"componentID":"2","definition":"","displayLanguage":"Nipissing","form":"-čaan-","id":"Ojibwe_Nipissing-2","language":"Ojibwe_Nipissing","tokens":[{"form":"-jaan-","gloss":"nose","UR":""}],"type":"medial","UR":""}
+{"componentID":"3","definition":"","displayLanguage":"Nipissing","form":"akaas·-","id":"Ojibwe_Nipissing-3","language":"Ojibwe_Nipissing","tokens":[{"form":"agaas-","gloss":"small","UR":""}],"type":"initial","UR":""}
+{"componentID":"4","definition":"","displayLanguage":"Nipissing","form":"piin-","id":"Ojibwe_Nipissing-4","language":"Ojibwe_Nipissing","tokens":[{"form":"biin-","gloss":"clean","UR":""}],"type":"initial","UR":""}
