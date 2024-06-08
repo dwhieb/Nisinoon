@@ -140,8 +140,13 @@ export default class Components extends Map {
   convertRecord(language, record) {
 
     const cols  = Components.columns
-    const id    = `${ language }-${ record[cols.id] }`
     const ortho = record[cols.orthography]
+
+    // Component ID (unique within the language)
+    const componentID = record[cols.id]
+
+    // Global ID (unique within the database)
+    const id = `${ language }-${ record[cols.id] }`
 
     // Language
     const displayLanguage = languages.get(language).name
@@ -169,6 +174,7 @@ export default class Components extends Map {
     })
 
     return {
+      componentID,
       definition,
       displayLanguage,
       form,
