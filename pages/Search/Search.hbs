@@ -45,6 +45,7 @@
               <th></th>{{!-- Display Language --}}
               <th></th>{{!-- Component Form (Project Orthography) --}}
               <th></th>{{!-- Component UR (Project Orthography) --}}
+              <th></th>{{!-- Proto-Algonquian Form (Project Orthography) --}}
               <th></th>{{!-- Project Definition --}}
               <th></th>{{!-- Component Type --}}
               <th class='bb c' colspan=4>Sources</th>{{!-- Token Fields --}}
@@ -55,6 +56,7 @@
               <th>Language</th>
               <th>Form</th>
               <th>UR</th>
+              <th>Proto-Algonquian</th>
               <th>Definition</th>
               <th>Type</th>
               {{!-- Token Fields --}}
@@ -71,6 +73,7 @@
                 <td class=language>{{ displayLanguage }}</td>
                 <td class=form><a class=link href='/components/{{ id }}'>{{ form }}</a></td>
                 <td class=UR><a class=link href='/components/{{ id }}'>{{#if UR}}/{{ UR }}/{{/if}}</a></td>
+                <td class=PA>{{ PA }}</td>
                 <td class=definition>{{#if definition }}‘{{ definition }}’{{else}}&#8212;{{/if}}</td>
                 <td class=component-type>{{ type }}</td>
                 <td class=source-forms>

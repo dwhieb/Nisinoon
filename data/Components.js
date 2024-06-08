@@ -140,46 +140,50 @@ export default class Components extends Map {
 
   convertRecord(language, record) {
 
-    const cols  = Components.columns
-    const ortho = record[cols.orthography]
+    const cols      = Components.columns
+    const ortho     = record[cols.orthography]
+    const isProto   = language.includes(`Proto`)
+    const component = {}
 
     // Component ID (unique within the language)
-    const componentID = record[cols.id]
+    component.componentID = record[cols.id]
 
     // Global ID (unique within the database)
-    const id = `${ language }-${ record[cols.id] }`
+    component.id = `${ language }-${ record[cols.id] }`
 
     // Language
-    const displayLanguage = languages.get(language).name
+    component.displayLanguage = languages.get(language).name
 
-    // Form
-    const sourceForm = record[cols.originalOrthography]
-    const form       = orthographies.transliterate(ortho, sourceForm)
+    // Only convert these fields if the orthography is known
+    if (ortho !== `UNK`) {
 
-    // UR
-    const sourceUR = record[cols.UR]
-    const UR       = orthographies.transliterate(ortho, cleanUR(sourceUR))
+      // Form
+      const sourceForm = record[cols.originalOrthography]
+      component.form = orthographies.transliterate(ortho, sourceForm)
 
-    // Proto-Algonquian
-    const PA = orthographies.transliterate(ortho, record[cols.proto])
+      // UR
+      const sourceUR = record[cols.UR]
+      component.UR = orthographies.transliterate(ortho, cleanUR(sourceUR))
+
+      // Proto-Algonquian
+      let PA = record[cols.proto]
+
+      if (PA) {
+        PA = PA.replace(/^\//v, ``).replace(/\/$/v, ``)
+        PA = PA.replace(/^\*/v, ``)
+        PA = orthographies.transliterate(ortho, PA)
+        PA = `*${ PA }`
+      }
+
+      component.PA = PA
+
+    }
 
     // Definition
-    const definition = cleanGloss(record[cols.definition])
+    component.definition = cleanGloss(record[cols.definition])
 
     // Component Type
-    const type = record[cols.type]
-
-    const component = {
-      componentID,
-      definition,
-      displayLanguage,
-      form,
-      id,
-      language,
-      PA,
-      type,
-      UR,
-    }
+    component.type = record[cols.type]
 
     // Tokens
     component.tokens = record.tokens.map(this.convertToken)
@@ -187,9 +191,9 @@ export default class Components extends Map {
     // Save/Return the converted data
     this.transliterations.push({
       language,
-      originalOrthography: sourceForm.replaceAll(`-`, `\u2011`),
+      originalOrthography: record[cols.originalOrthography].replaceAll(`-`, `\u2011`),
       orthography:         ortho,
-      projectOrthography:  form.replaceAll(`-`, `\u2011`),
+      projectOrthography:  component.form?.replaceAll(`-`, `\u2011`),
     })
 
     return component

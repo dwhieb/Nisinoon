@@ -83,6 +83,8 @@ export default class Orthographies extends Map {
    */
   transliterate(ortho, data) {
 
+    if (ortho === `UNK`) return ``
+
     const rules = this.get(ortho)
 
     if (!rules) {

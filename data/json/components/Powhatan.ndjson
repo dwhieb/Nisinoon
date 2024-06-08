@@ -1,2 +1,2 @@
-{"componentID":"1","definition":"","displayLanguage":"Powhatan","form":"","id":"Powhatan-1","language":"Powhatan","PA":"","type":"final","UR":"","tokens":[{"bibliography":"IG1980: 145","form":"-utteindg","gloss":"finger","UR":""}]}
-{"componentID":"2","definition":"","displayLanguage":"Powhatan","form":"","id":"Powhatan-2","language":"Powhatan","PA":"","type":"final","UR":"","tokens":[{"bibliography":"IG1980: 145","form":"-tteindg","gloss":"","UR":""}]}
+{"componentID":"1","id":"Powhatan-1","displayLanguage":"Powhatan","definition":"","type":"final","tokens":[{"bibliography":"IG1980: 145","form":"-utteindg","gloss":"finger","UR":""}]}
+{"componentID":"2","id":"Powhatan-2","displayLanguage":"Powhatan","definition":"","type":"final","tokens":[{"bibliography":"IG1980: 145","form":"-tteindg","gloss":"","UR":""}]}
