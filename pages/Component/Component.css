@@ -9,7 +9,19 @@
 @import 'inline-example.css';
 @import 'label.css';
 @import 'pre.css';
-/* @import 'visually-hidden.css'; */
+
+:is(.metadata, .notes) {
+
+  overflow-x: auto;
+  max-width:  100%;
+  width:      45em;
+
+  & code {
+    white-space: pre;
+    word-break:  keep-all;
+  }
+
+}
 
 article {
   flex-direction:  row;
@@ -72,19 +84,6 @@ legend {
 #main {
   max-inline-size: min(60em, 100%);
   row-gap:         1em;
-}
-
-.metadata {
-
-  max-width:  100%;
-  overflow-x: auto;
-  width:      fit-content;
-
-  & code {
-    white-space: pre;
-    word-break:  keep-all;
-  }
-
 }
 
 .page-title {
