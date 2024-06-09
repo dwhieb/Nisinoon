@@ -7,15 +7,23 @@
 @import 'inline-example.css';
 @import 'pre.css';
 
+.button-wrapper {
+  align-items: center;
+}
+
 .json {
 
-  & summary {
-    cursor: pointer;
+  .button {
+    margin: 0.5em;
   }
 
   & h2 {
     display:     inline;
     font-weight: bold;
+  }
+
+  & summary {
+    cursor: pointer;
   }
 
 }
