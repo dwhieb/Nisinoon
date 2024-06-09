@@ -56,7 +56,8 @@ export default class Components extends Map {
     deverbal:            `Deverbal (y/n)`,
     firstCheck:          `1st check done`,
     gloss:               `Translation`,
-    id:                  `ID`,
+    glottocode:          `Glottocode`,
+    ID:                  `ID`,
     ISO:                 `ISO code`,
     matchAI:             `Match AI`,
     matchII:             `Match II`,
@@ -102,7 +103,7 @@ export default class Components extends Map {
 
     // Create Map of record IDs => records
     for (const record of componentRecords) {
-      records.set(record[cols.id], record)
+      records.set(record[cols.ID], record)
     }
 
     // Assign tokens to components
@@ -114,9 +115,9 @@ export default class Components extends Map {
       if (!component) {
         const type        = `UNMATCHED_COMPONENT`
         const componentID = record[cols.componentID]
-        const id          = `${ type }-${ language }-${ componentID }`
+        const ID          = `${ type }-${ language }-${ componentID }`
         const details     = `${ language }: The component ID for token ${ record[cols.form] } does not exist.`
-        issues.set(id, { details, id, type })
+        issues.set(ID, { details, ID, type })
         continue
       }
 
@@ -130,15 +131,15 @@ export default class Components extends Map {
       // Check for (and skip) components without tokens
       if (!Array.isArray(record.tokens)) {
         const type        = `MISSING_TOKEN`
-        const componentID = record[cols.id]
-        const id          = `${ type }-${ language }-${ componentID }`
+        const componentID = record[cols.ID]
+        const ID          = `${ type }-${ language }-${ componentID }`
         const details     = `${ language }: Component ${ componentID } does not have any tokens.`
-        issues.set(id, { details, id, type })
+        issues.set(ID, { details, ID, type })
         continue
       }
 
       const data = this.convertRecord(language, record)
-      this.set(record[cols.id], data)
+      this.set(record[cols.ID], data)
 
     }
 
@@ -155,14 +156,17 @@ export default class Components extends Map {
     const component = {}
 
     // Component ID (unique within the language)
-    component.componentID = record[cols.id]
+    component.componentID = record[cols.ID]
 
     // Global ID (unique within the database)
-    component.id = `${ language }-${ record[cols.id] }`
+    component.ID = `${ language }-${ record[cols.ID] }`
 
     // Language
     component.language        = language
     component.displayLanguage = languages.get(language).name
+
+    // Glottocode
+    component.glottocode = record[cols.glottocode]
 
     // ISO 639-3
     component.ISO = record[cols.ISO]
@@ -283,7 +287,7 @@ export default class Components extends Map {
     const components = await ndjson.read(filePath)
 
     for (const component of components) {
-      this.set(component.id, component)
+      this.set(component.ID, component)
     }
 
   }

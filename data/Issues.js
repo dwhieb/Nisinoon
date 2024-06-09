@@ -6,7 +6,7 @@ import { stringify as stringifyCSV } from 'csv-stringify/sync'
 
 export default class Issues extends Map {
 
-  static columns = [`id`, `type`, `details`]
+  static columns = [`ID`, `type`, `details`]
 
   static filePath = path.resolve(import.meta.dirname, `issues.csv`)
 
@@ -19,7 +19,7 @@ export default class Issues extends Map {
     })
 
     for (const record of records) {
-      this.set(record.id, record)
+      this.set(record.ID, record)
     }
 
   }
