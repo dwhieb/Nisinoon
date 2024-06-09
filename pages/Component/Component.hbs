@@ -8,32 +8,44 @@
     <fieldset>
       <legend class=label>Basics</legend>
       <dl>
+
         <dt>Form</dt>
         <dd>{{#if form }}{{ form }}{{else}}—{{/if}}</dd>
+
         <dt>UR</dt>
         <dd>{{#if UR }}{{ UR }}{{else}}—{{/if}}</dd>
+
         <dt>Proto-Algonquian</dt>
         <dd>{{#if PA }}{{ PA }}{{else}}—{{/if}}</dd>
+
         <dt>Definition</dt>
         <dd>{{#if definition }}‘{{ definition }}’{{else}}—{{/if}}</dd>
+
         <dt>Component Type</dt>
         <dd>{{#if type }}{{ type }}{{else}}—{{/if}}</dd>
+
         <dt>Subcategory</dt>
         <dd>{{#if subcategory }}{{ subcategory }}{{else}}—{{/if}}</dd>
+
       </dl>
     </fieldset>
 
     <fieldset>
       <legend class=label>Language</legend>
       <dl>
+
         <dt>Language</dt>
         <dd>{{ displayLanguage }}</dd>
+
         <dt>Dialect</dt>
         <dd>{{#if dialect }}{{ dialect }}{{else}}—{{/if}}</dd>
+
         <dt>Glottocode</dt>
         <dd>{{#if Glottocode }}<a class=link href='https://glottolog.org/resource/languoid/id/{{ Glottocode }}' rel='noopener noreferrer' target=_blank>{{ Glottocode }} <svg class=external-link><use href=#external-link></svg></a>{{else}}—{{/if}}</dd>
+
         <dt>ISO 639-3</dt>
         <dd>{{#if ISO }}<a class=link href='https://www.ethnologue.com/language/{{ ISO }}/' rel='noopener noreferrer' target=_blank>{{ ISO }} <svg class=external-link><use href=#external-link></svg></a>{{else}}—{{/if}}</dd>
+
       </dl>
     </fieldset>
 
@@ -45,13 +57,19 @@
     <fieldset>
       <legend class=label>Additional Info</legend>
       <dl>
+
         <dt>ID</dt>
         <dd><code>{{ ID }}</code></dd>
-        <dt>Reduplicated Initial</dt>
+
+        <dt>Initial: Reduplicated</dt>
         <dd>
           <span class=visually-hidden>{{#if reduplicated }}true{{else}}false{{/if}}</span>
           <input type=checkbox {{#if reduplicated }}checked{{/if}} inert>
         </dd>
+
+        <dt>Final: Concrete/Abstract</dt>
+        <dd>{{#if specificity }}{{ specificity }}{{else}}—{{/if}}</dd>
+
       </dl>
     </fieldset>
 
