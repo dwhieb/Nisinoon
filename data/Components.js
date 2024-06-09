@@ -57,6 +57,7 @@ export default class Components extends Map {
     firstCheck:          `1st check done`,
     gloss:               `Translation`,
     id:                  `ID`,
+    ISO:                 `ISO code`,
     matchAI:             `Match AI`,
     matchII:             `Match II`,
     matchTA:             `Match TA`,
@@ -162,6 +163,9 @@ export default class Components extends Map {
     // Language
     component.language        = language
     component.displayLanguage = languages.get(language).name
+
+    // ISO 639-3
+    component.ISO = record[cols.ISO]
 
     // Only convert these fields if the orthography is known
     if (ortho !== `UNK`) {
