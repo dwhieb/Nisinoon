@@ -10,7 +10,13 @@
   <meta name=description content='{{ package.description }}'>
   <meta name=keywords content='{{#each package.keywords}}{{#if @last}}{{@this}}{{else}}{{@this}}, {{/if}}{{/each}}'>
   <meta name=rating content=general>
-  <meta name=robots content='index,follow'>
+
+  {{#unless Component }}
+    <meta name=robots content='index,follow'>
+  {{else}}
+    <meta name=robots content'noindex,follow'>
+  {{/unless}}
+
 
   {{!-- Linked Metadata --}}
   <link rel=author href=https://danielhieber.info>
