@@ -28,6 +28,8 @@
       <dl>
         <dt>Language</dt>
         <dd>{{ displayLanguage }}</dd>
+        <dt>ISO 639-3</dt>
+        <dd>{{#if ISO }}<a class=link href='https://www.ethnologue.com/language/{{ ISO }}/' rel='noopener noreferrer' target=_blank>{{ ISO }} <svg class=external-link><use href=#external-link></svg></a>{{else}}—{{/if}}</dd>
       </dl>
     </fieldset>
 
