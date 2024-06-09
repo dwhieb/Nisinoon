@@ -236,12 +236,20 @@ export default class Components extends Map {
     // Bibliography
     const source = token[cols.sourceCode]
 
-    const pages = token[cols.pages]
-    .split(commaRegExp)
-    .map(Number)
-    .filter(Number.isInteger)
+    let   bibliography = source
+    const pages        = token[cols.pages]
 
-    const bibliography = `${ source }: ${ pages.join(`, `) }`
+    if (pages) {
+
+      bibliography += `: `
+
+      bibliography += token[cols.pages]
+      .split(commaRegExp)
+      .map(Number)
+      .filter(Number.isInteger)
+      .join(`, `)
+
+    }
 
     return {
       bibliography,
