@@ -211,6 +211,9 @@ export default class Components extends Map {
     // Subcategory
     component.subcategory = record[cols.subcategory]
 
+    // Reduplicated Initial
+    component.reduplicated = record[cols.reduplicated] === `Y`
+
     // Tokens
     component.tokens = record.tokens.map(token => this.convertToken(token, language))
 
