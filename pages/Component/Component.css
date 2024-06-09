@@ -7,10 +7,19 @@
 @import 'inline-example.css';
 @import 'pre.css';
 
-.component-page {
+.json {
 
-  & h1 {
-    word-break: keep-all;
+  & summary {
+    cursor: pointer;
   }
 
+  & h2 {
+    display:     inline;
+    font-weight: bold;
+  }
+
+}
+
+.page-title {
+  word-break: keep-all;
 }

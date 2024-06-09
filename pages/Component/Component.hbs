@@ -1,7 +1,7 @@
 <main id=main class=component-page>
 
   {{#with component }}
-    <h1>{{ displayLanguage }}: <i class=inex>{{ form }}</i></h1>
+    <h1 class=page-title>{{ displayLanguage }}: <i class=inex>{{ form }}</i></h1>
   {{/with}}
 
   <section class=citation>
@@ -14,7 +14,10 @@
 
   </section>
 
-  <pre><code>{{ json }}</code></pre>
+  <details class=json>
+    <summary><h2>View JSON</h2></summary>
+    <pre><code>{{ json }}</code></pre>
+  </details>
 
 </main>
 
