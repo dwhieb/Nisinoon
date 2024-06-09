@@ -227,6 +227,14 @@ export default class Components extends Map {
 
     }
 
+    // Matches
+    component.matches = {
+      AI: record[cols.matchAI],
+      II: record[cols.matchII],
+      TA: record[cols.matchTA],
+      TI: record[cols.matchTI],
+    }
+
     // Tokens
     component.tokens = record.tokens.map(token => this.convertToken(token, language))
 
