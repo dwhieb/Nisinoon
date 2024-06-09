@@ -1,8 +1,9 @@
 .external-link {
 
-  block-size:  0.75em;
-  color:       black;
-  inline-size: 0.75em;
+  block-size:          0.75em;
+  color:               black;
+  inline-size:         0.75em;
+  margin-inline-start: 0.125em;
 
   @media (prefers-color-scheme: dark) {
     color: var(--off-white);
