@@ -26,6 +26,7 @@ export function Component(req, res) {
     json:         JSON.stringify(component, null, 2),
     pageCSS:      res.app.locals.styles.Component,
     title:        `${ component.displayLanguage }: ${ component.form }`,
+    url:          req.originalUrl,
   })
 
 }

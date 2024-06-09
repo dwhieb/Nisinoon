@@ -4,6 +4,14 @@
     <h1>{{ displayLanguage }}: <i class=inex>{{ form }}</i></h1>
   {{/with}}
 
+  <section class=citation>
+
+    <h2>How to Cite this Component</h2>
+
+    <blockquote class=blockquote data-hook=citation><p>Monica Macaulay & Hunter T. Lockwood. {{ meta.releaseYear}}. "{{ component.form }}". In <cite>Nisinoon: The Algonquian Components Database</cite> v{{ package.version }}. DOI: <a class=link href=https://doi.org/10.5281/zenodo.11459862>10.5281/zenodo.11459862</a>. URL: <a class=link href='https://nisinoon.net{{ url }}'>https://nisinoon.net{{ url }}</a>.</p></blockquote>
+
+  </section>
+
   <pre><code>{{ json }}</code></pre>
 
 </main>

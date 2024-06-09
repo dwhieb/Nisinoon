@@ -1,0 +1,12 @@
+.citation {
+
+  align-items:     center;
+  margin-inline:   auto;
+  max-inline-size: var(--measure);
+
+  & p {
+    margin-inline-start: 1em;
+    text-indent:         -1em;
+  }
+
+}

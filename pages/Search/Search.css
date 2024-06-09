@@ -1,6 +1,8 @@
 /* Classes */
 @import 'blockquote.css';
 @import 'button.css';
+@import 'citation.css';
+@import 'cite.css';
 @import 'help-text.css';
 @import 'label.css';
 @import 'pre.css';
@@ -28,19 +30,8 @@
   white-space: nowrap;
 }
 
-.citation {
-  align-items:     center;
-  margin-inline:   auto;
-  max-inline-size: var(--measure);
-}
-
 .copy-button {
   margin: 0.5em;
-}
-
-blockquote p {
-  margin-inline-start: 1em;
-  text-indent:         -1em;
 }
 
 h2 {
