@@ -24,7 +24,7 @@
   text-align: center;
 }
 
-:is(.form, .source-forms) {
+:is(.form, .PA, .source-forms, .source-PA, .source-URs, .UR) {
   white-space: nowrap;
 }
 
