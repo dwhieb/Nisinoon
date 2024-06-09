@@ -1,5 +1,6 @@
 @import 'blockquote.css';
 @import 'button.css';
+@import 'checkbox.css';
 @import 'citation.css';
 @import 'cite.css';
 @import 'code.css';
@@ -37,9 +38,9 @@ dt {
 fieldset {
   border:        1px solid #CCC;
   border-radius: var(--border-radius);
-  max-width:     calc(40em/2);
+  max-width:     calc(55em/2);
   padding:       0.25em 1em 0.5em;
-  width:         calc(45em/2);
+  width:         calc(60em/2);
 }
 
 .json {
@@ -65,6 +66,10 @@ fieldset {
 
 legend {
   padding: var(--text-padding-sm);
+}
+
+#main {
+  max-inline-size: min(60em, 100%);
 }
 
 .page-title {

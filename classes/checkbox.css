@@ -1,0 +1,5 @@
+[type=checkbox] {
+  all:          revert;
+  accent-color: var(--berry-blue);
+  margin:       0;
+}
