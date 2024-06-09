@@ -235,6 +235,9 @@ export default class Components extends Map {
       TI: record[cols.matchTI],
     }
 
+    // Notes
+    component.notes = record[cols.notes]
+
     // Tokens
     component.tokens = record.tokens.map(token => this.convertToken(token, language))
 
