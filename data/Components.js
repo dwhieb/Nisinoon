@@ -54,6 +54,7 @@ export default class Components extends Map {
     components:          `Contains`,
     definition:          `Project Definition`,
     deverbal:            `Deverbal (y/n)`,
+    dialect:             `Dialect`,
     firstCheck:          `1st check done`,
     gloss:               `Translation`,
     Glottocode:          `Glottocode`,
@@ -164,6 +165,9 @@ export default class Components extends Map {
     // Language
     component.language        = language
     component.displayLanguage = languages.get(language).name
+
+    // Dialect
+    component.dialect = record[cols.dialect]
 
     // Glottocode
     component.Glottocode = record[cols.Glottocode]
