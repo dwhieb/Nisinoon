@@ -47,7 +47,6 @@ function cleanUR(UR) {
 export default class Components extends Map {
 
   static columns = {
-    abstractFinal:       `Final: concrete / abstract`,
     baseCategory:        `Base Category (if secondary)`,
     componentID:         `Component ID`,
     componentOf:         `Formative/component occurs in what component(s)`,
@@ -74,6 +73,7 @@ export default class Components extends Map {
     secondCheck:         `2nd check done`,
     sourceCode:          `Source Code`,
     speaker:             `Speaker`,
+    specificity:         `Final: concrete / abstract`,
     stemCategory:        `Stem category`,
     stemGloss:           `Stem translation`,
     stemSubcategory:     `Stem subcategory`,
@@ -213,6 +213,9 @@ export default class Components extends Map {
 
     // Reduplicated Initial
     component.reduplicated = record[cols.reduplicated] === `Y`
+
+    // Final Specificity
+    component.specificity = record[cols.specificity]
 
     // Tokens
     component.tokens = record.tokens.map(token => this.convertToken(token, language))

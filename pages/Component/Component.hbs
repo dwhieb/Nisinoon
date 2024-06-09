@@ -48,7 +48,10 @@
         <dt>ID</dt>
         <dd><code>{{ ID }}</code></dd>
         <dt>Reduplicated Initial</dt>
-        <dd><input type=checkbox {{#if reduplicated }}checked{{/if}} inert></dd>
+        <dd>
+          <span class=visually-hidden>{{#if reduplicated }}true{{else}}false{{/if}}</span>
+          <input type=checkbox {{#if reduplicated }}checked{{/if}} inert>
+        </dd>
       </dl>
     </fieldset>
 

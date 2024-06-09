@@ -9,6 +9,7 @@
 @import 'inline-example.css';
 @import 'label.css';
 @import 'pre.css';
+/* @import 'visually-hidden.css'; */
 
 article {
   flex-direction:  row;
