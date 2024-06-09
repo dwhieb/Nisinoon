@@ -51,7 +51,21 @@
 
     <fieldset>
       <legend class=label>Matches</legend>
-      <dl></dl>
+      <dl>
+
+        <dt>AI</dt>
+        <dd>{{#if matches.AI }}{{ matches.AI }}{{else}}—{{/if}}</dd>
+
+        <dt>II</dt>
+        <dd>{{#if matches.II }}{{ matches.II }}{{else}}—{{/if}}</dd>
+
+        <dt>TA</dt>
+        <dd>{{#if matches.TA }}{{ matches.TA }}{{else}}—{{/if}}</dd>
+
+        <dt>TI</dt>
+        <dd>{{#if matches.TI }}{{ matches.TI }}{{else}}—{{/if}}</dd>
+
+      </dl>
     </fieldset>
 
     <fieldset>

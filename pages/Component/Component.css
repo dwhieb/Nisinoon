@@ -71,6 +71,7 @@ legend {
 
 #main {
   max-inline-size: min(60em, 100%);
+  row-gap:         1em;
 }
 
 .page-title {
