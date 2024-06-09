@@ -5,10 +5,41 @@
 @import 'code.css';
 @import 'construction/construction.css';
 @import 'inline-example.css';
+@import 'label.css';
 @import 'pre.css';
+
+article {
+  flex-direction:  row;
+  flex-wrap:       wrap;
+  justify-content: space-evenly;
+  gap:             1em;
+}
 
 .button-wrapper {
   align-items: center;
+}
+
+dl {
+  column-gap:            0.5em;
+  display:               grid;
+  grid-template-columns: auto auto;
+  justify-content:       flex-start;
+}
+
+dt {
+  font-weight: bold;
+}
+
+:is(dt, dd) {
+  padding: var(--text-padding-sm);
+}
+
+fieldset {
+  border:        1px solid #CCC;
+  border-radius: var(--border-radius);
+  max-width:     calc(56.5em/2);
+  padding:       0.25em 1em 0.5em;
+  width:         calc(60em/2);
 }
 
 .json {
@@ -28,6 +59,15 @@
 
 }
 
+legend {
+  padding: var(--text-padding-sm);
+}
+
+#main {
+  max-inline-size: 60em;
+}
+
 .page-title {
+  width:      100%;
   word-break: keep-all;
 }

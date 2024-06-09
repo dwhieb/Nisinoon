@@ -77,7 +77,7 @@
                 <td class=form><a class=link href='/components/{{ id }}'>{{ form }}</a></td>
                 <td class=UR><a class=link href='/components/{{ id }}'>{{#if UR}}/{{ UR }}/{{/if}}</a></td>
                 <td class=PA>{{ PA }}</td>
-                <td class=definition>{{#if definition }}‘{{ definition }}’{{else}}&#8212;{{/if}}</td>
+                <td class=definition>{{#if definition }}‘{{ definition }}’{{else}}—{{/if}}</td>
                 <td class=component-type>{{ type }}</td>
                 <td class=source-forms>
                   <ul>
@@ -103,7 +103,7 @@
                 <td class=source-glosses>
                   <ul>
                     {{#each tokens as |token| }}
-                      <li>{{#if gloss }}‘{{ gloss }}’{{else}}&#8212;{{/if}}</li>
+                      <li>{{#if gloss }}‘{{ gloss }}’{{else}}—{{/if}}</li>
                     {{/each}}
                   </ul>
                 </td>
