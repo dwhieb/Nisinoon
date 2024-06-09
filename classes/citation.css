@@ -3,6 +3,7 @@
   align-items:     center;
   margin-inline:   auto;
   max-inline-size: var(--measure);
+  word-break:      break-word;
 
   .button {
     margin: 0.5em;

@@ -53,6 +53,10 @@ fieldset {
     font-weight: bold;
   }
 
+  & pre {
+    overflow-y: auto;
+  }
+
   & summary {
     cursor: pointer;
   }
@@ -64,7 +68,7 @@ legend {
 }
 
 #main {
-  max-inline-size: 60em;
+  max-inline-size: min(60em, 100%);
 }
 
 .page-title {
