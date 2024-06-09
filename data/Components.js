@@ -54,6 +54,7 @@ export default class Components extends Map {
     definition:          `Project Definition`,
     deverbal:            `Deverbal (y/n)`,
     dialect:             `Dialect`,
+    finalType:           `Final: secondary (y/n/b)`,
     firstCheck:          `1st check done`,
     gloss:               `Translation`,
     Glottocode:          `Glottocode`,
@@ -69,7 +70,6 @@ export default class Components extends Map {
     pages:               `Page #`,
     proto:               `PA form (original orthography)`,
     reduplicated:        `Initial: Reduplicated`,
-    secondaryFinal:      `Final: secondary (y/n/b)`,
     secondCheck:         `2nd check done`,
     sourceCode:          `Source Code`,
     speaker:             `Speaker`,
@@ -211,11 +211,21 @@ export default class Components extends Map {
     // Subcategory
     component.subcategory = record[cols.subcategory]
 
-    // Reduplicated Initial
+    // Initial: Reduplicated
     component.reduplicated = record[cols.reduplicated] === `Y`
 
-    // Final Specificity
+    // Final: Concrete/Abstract
     component.specificity = record[cols.specificity]
+
+    // Final: Primary/Secondary
+    if (component.type === `final`) {
+
+      const finalType = record[cols.finalType]
+
+      component.primary   = finalType === `B` || !finalType
+      component.secondary = finalType === `B` || finalType === `Y`
+
+    }
 
     // Tokens
     component.tokens = record.tokens.map(token => this.convertToken(token, language))
