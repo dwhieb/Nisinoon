@@ -74,6 +74,19 @@ legend {
   row-gap:         1em;
 }
 
+.metadata {
+
+  max-width:  100%;
+  overflow-x: auto;
+  width:      fit-content;
+
+  & code {
+    white-space: pre;
+    word-break:  keep-all;
+  }
+
+}
+
 .page-title {
   width:      100%;
   word-break: keep-all;

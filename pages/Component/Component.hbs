@@ -41,10 +41,10 @@
         <dd>{{#if dialect }}{{ dialect }}{{else}}—{{/if}}</dd>
 
         <dt>Glottocode</dt>
-        <dd>{{#if Glottocode }}<a class=link href='https://glottolog.org/resource/languoid/id/{{ Glottocode }}' rel='noopener noreferrer' target=_blank>{{ Glottocode }} <svg class=external-link><use href=#external-link></svg></a>{{else}}—{{/if}}</dd>
+        <dd>{{#if Glottocode }}<code><a class=link href='https://glottolog.org/resource/languoid/id/{{ Glottocode }}' rel='noopener noreferrer' target=_blank>{{ Glottocode }} <svg class=external-link><use href=#external-link></svg></a></code>{{else}}—{{/if}}</dd>
 
         <dt>ISO 639-3</dt>
-        <dd>{{#if ISO }}<a class=link href='https://www.ethnologue.com/language/{{ ISO }}/' rel='noopener noreferrer' target=_blank>{{ ISO }} <svg class=external-link><use href=#external-link></svg></a>{{else}}—{{/if}}</dd>
+        <dd>{{#if ISO }}<code><a class=link href='https://www.ethnologue.com/language/{{ ISO }}/' rel='noopener noreferrer' target=_blank>{{ ISO }} <svg class=external-link><use href=#external-link></svg></a></code>{{else}}—{{/if}}</dd>
 
       </dl>
     </fieldset>
@@ -72,9 +72,6 @@
       <legend class=label>Additional Info</legend>
       <dl>
 
-        <dt>ID</dt>
-        <dd><code>{{ ID }}</code></dd>
-
         {{#if (is type 'initial') }}
           <dt>Initial: Reduplicated</dt>
           <dd>
@@ -101,6 +98,19 @@
           </dd>
 
         {{/if}}
+
+      </dl>
+    </fieldset>
+
+    <fieldset class=metadata>
+      <legend class=label>Metadata</legend>
+      <dl>
+
+        <dt>ID</dt>
+        <dd><code>{{ ID }}</code></dd>
+
+        <dt>URL</dt>
+        <dd><code><a class=link href=https://nisinoon.net{{ ../url }}>https://nisinoon.net{{ ../url }}</a></code></dd>
 
       </dl>
     </fieldset>
