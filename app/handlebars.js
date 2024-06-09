@@ -29,6 +29,10 @@ function interlinear(cssClasses, opts) {
 
 }
 
+function is(a, b) {
+  return a == b
+}
+
 function translation(str) {
   return `<span class=tln>‘${ str }’</span>`
 }
@@ -54,6 +58,7 @@ const hbs = new ExpressHandlebars({
   helpers:       {
     igl:  interlinear,
     inex: inlineExample,
+    is,
     section,
     tln:  translation,
   },

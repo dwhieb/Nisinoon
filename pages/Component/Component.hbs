@@ -61,14 +61,32 @@
         <dt>ID</dt>
         <dd><code>{{ ID }}</code></dd>
 
-        <dt>Initial: Reduplicated</dt>
-        <dd>
-          <span class=visually-hidden>{{#if reduplicated }}true{{else}}false{{/if}}</span>
-          <input type=checkbox {{#if reduplicated }}checked{{/if}} inert>
-        </dd>
+        {{#if (is type 'initial') }}
+          <dt>Initial: Reduplicated</dt>
+          <dd>
+            <span class=visually-hidden>{{#if reduplicated }}true{{else}}false{{/if}}</span>
+            <input type=checkbox {{#if reduplicated }}checked{{/if}} inert>
+          </dd>
+        {{/if}}
 
-        <dt>Final: Concrete/Abstract</dt>
-        <dd>{{#if specificity }}{{ specificity }}{{else}}—{{/if}}</dd>
+        {{#if (is type 'final') }}
+
+          <dt>Final: Concrete/Abstract</dt>
+          <dd>{{#if specificity }}{{ specificity }}{{else}}—{{/if}}</dd>
+
+          <dt>Final: Primary</td>
+          <dd>
+            <span class=visually-hidden>{{#if primary }}true{{else}}false{{/if}}</span>
+            <input type=checkbox {{#if primary }}checked{{/if}} inert>
+          </dd>
+
+          <dt>Final: Secondary</td>
+          <dd>
+            <span class=visually-hidden>{{#if secondary }}true{{else}}false{{/if}}</span>
+            <input type=checkbox {{#if secondary }}checked{{/if}} inert>
+          </dd>
+
+        {{/if}}
 
       </dl>
     </fieldset>
