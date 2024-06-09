@@ -56,7 +56,7 @@ export default class Components extends Map {
     deverbal:            `Deverbal (y/n)`,
     firstCheck:          `1st check done`,
     gloss:               `Translation`,
-    glottocode:          `Glottocode`,
+    Glottocode:          `Glottocode`,
     ID:                  `ID`,
     ISO:                 `ISO code`,
     matchAI:             `Match AI`,
@@ -166,7 +166,7 @@ export default class Components extends Map {
     component.displayLanguage = languages.get(language).name
 
     // Glottocode
-    component.glottocode = record[cols.glottocode]
+    component.Glottocode = record[cols.Glottocode]
 
     // ISO 639-3
     component.ISO = record[cols.ISO]
