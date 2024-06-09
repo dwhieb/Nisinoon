@@ -196,6 +196,9 @@ export default class Components extends Map {
     // Component Type
     component.type = record[cols.type]
 
+    // Subcategory
+    component.subcategory = record[cols.subcategory]
+
     // Tokens
     component.tokens = record.tokens.map(token => this.convertToken(token, language))
 
