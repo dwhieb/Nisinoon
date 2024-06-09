@@ -50,6 +50,7 @@
               <th></th>{{!-- Proto-Algonquian Form (Project Orthography) --}}
               <th></th>{{!-- Project Definition --}}
               <th></th>{{!-- Component Type --}}
+              <th></th>{{!-- Subcategory --}}
               <th class='bb c' colspan=5>Sources</th>{{!-- Token Fields --}}
             </tr>
             <tr>
@@ -61,6 +62,7 @@
               <th>Proto-Algonquian</th>
               <th>Definition</th>
               <th>Type</th>
+              <th>Subcategory</th>
               {{!-- Token Fields --}}
               <th>Forms</th>
               <th>URs</th>
@@ -79,6 +81,7 @@
                 <td class=PA>{{ PA }}</td>
                 <td class=definition>{{#if definition }}‘{{ definition }}’{{else}}—{{/if}}</td>
                 <td class=component-type>{{ type }}</td>
+                <td class=subcategory>{{ subcategory }}</td>
                 <td class=source-forms>
                   <ul>
                     {{#each tokens as |token| }}
