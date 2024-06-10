@@ -56,9 +56,6 @@ function groupColumns(record, ...colTypes) {
     for (const letteredColumn of letteredColumns) {
 
       const [, letter] = letteredColumn.split(`-`)
-
-      if (!letter) console.error(record[Components.columns.ISO], letteredColumn)
-
       const i          = letterToIndex(letter)
       const data       = record[letteredColumn]
 

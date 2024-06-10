@@ -145,6 +145,34 @@
       </fieldset>
     {{/if}}
 
+    {{#if stems }}
+      <fieldset class=stems>
+        <legend class=label>Stems</legend>
+        <table>
+          <thead>
+            <th>Form</th>
+            <th class=stem-category>Category</th>
+            <th class=stem-subcategory>Subcategory</th>
+            <th>Gloss</th>
+            <th class=stem-secondary>Secondary<br>Derivation</th>
+            <th>Source</th>
+          </thead>
+          <tbody>
+            {{#each stems }}
+              <tr>
+                <td>{{ form }}</td>
+                <td class=stem-category>{{#if category }}{{ category }}{{/if}}</td>
+                <td class=stem-subcategory>{{#if subcategory }}{{ subcategory }}{{/if}}</td>
+                <td>{{#if gloss }}‘{{ gloss }}’{{/if}}</td>
+                <td class=stem-secondary><input type=checkbox {{#if secondary }}checked{{/if}} inert></td>
+                <td>{{#if source }}{{ source }}{{/if}}</td>
+              </tr>
+            {{/each}}
+          </tbody>
+        </table>
+      </fieldset>
+    {{/if}}
+
     <fieldset class=metadata>
       <legend class=label>Metadata</legend>
       <dl>
