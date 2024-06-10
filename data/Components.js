@@ -77,13 +77,22 @@ function letterToIndex(letter) {
   return letter.toLowerCase().charCodeAt(0) - 97
 }
 
+class Allomorph {
+  constructor(form, condition) {
+    this.form = form
+    if (condition) this.condition = condition
+  }
+}
+
 export default class Components extends Map {
 
   static columns = {
+    allomorph:           `Allomorph`,
     baseCategory:        `Base Category (if secondary)`,
     componentID:         `Component ID`,
     componentOf:         `Formative/component occurs in what component(s)`,
     components:          `Contains`,
+    condition:           `Condition`,
     definition:          `Project Definition`,
     deverbal:            `Deverbal (y/n)`,
     deverbalFrom:        `Deverbal from`,
@@ -261,7 +270,6 @@ export default class Components extends Map {
 
     }
 
-
     // Base Category
     if (component.secondary) {
       component.baseCategories = groupColumns(record, cols.baseCategory)
@@ -275,6 +283,12 @@ export default class Components extends Map {
       TA: record[cols.matchTA],
       TI: record[cols.matchTI],
     }
+
+    // Allomorphs
+    const allomorphs = groupColumns(record, cols.allomorph, cols.condition)
+    .map(data => new Allomorph(data[cols.allomorph], data[cols.condition]))
+
+    if (allomorphs.length) component.allomorphs = allomorphs
 
     // Deverbal
     component.deverbal = record[cols.deverbal] === `Y`
