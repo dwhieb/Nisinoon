@@ -1,4 +1,4 @@
-Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Base Category (if secondary)-B,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Allomorph-B,Allomorph-C,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Component occurs in stem (orig. orth)-D,Component occurs in stem (proj. orth)-D,Stem UR-D,Stem category-D,Stem subcategory-D,Stem translation-D,Secondary stem-D,Stem Source-D,Formative/component occurs in what component(s)-A,Formative/component occurs in what component(s)-B,Formative/component occurs in what component(s)-C,Formative/component occurs in what component(s)-D,Contains component (enter)-A,Contains formative (enter)-A,Contains formative (enter)-B,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
+Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Base Category (if secondary)-B,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Allomorph-B,Allomorph-C,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Component occurs in stem (orig. orth)-D,Component occurs in stem (proj. orth)-D,Stem UR-D,Stem category-D,Stem subcategory-D,Stem translation-D,Secondary stem-D,Stem Source-D,Formative/component occurs in what component(s)-A,Formative/component occurs in what component(s)-B,Formative/component occurs in what component(s)-C,Formative/component occurs in what component(s)-D,Contains component (enter)-A,Contains formative (enter)-A,Contains formative (enter)-B,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
 1,Haas,HM1967a,0063,alg,,algo1256,-*eʔθw-,PA:6,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,*ki·šekw-,,,N,,"day, sky",,HM1967a;0063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: These four are listed as possible components within the stem
 2,Siebert,FS1941,0301,alg,,algo1256,-axkamekwe,PA:6,,,,,,ground,,final
 3,Goddard,IG1979a,0108,alg,,algo1256,-kašy-,PA:6,,,,,,"(finger) nail, claw, hoof",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Suggested by Hamp 1976,,MAM
@@ -442,8 +442,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 441,Aubin,GA1975b,0083,alg,,algo1256,*-lenyiw,PA:4,,,,,,man,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.107
 441,Bloomfield,LB1946,0107,alg,,algo1256,*-lenyiw,PA:1,,,,,,man,,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*elenyiw- 'man',,,MAM
 443,Aubin,GA1975b,0083,alg,,algo1256,*-leskwa,PA:4,,,,,,gland (tonsil),,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ge41.305
-444,Bloomfield,LB1946,"0090,0091",alg,,algo1256,*-m,PA:1,,,,,,act by speech on an animate object,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-444,Bloomfield,LB1946,0112,alg,,algo1256,*-m,PA:1,,,,,,"by speech, by thought",,final,TA,,,,,,,,,*-nt,,,,,kiihkaam-,,,V,TA,,,LB1946;0112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+446,Bloomfield,LB1946,"0090,0091",alg,,algo1256,*-m,PA:1,,,,,,act by speech on an animate object,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+446,Bloomfield,LB1946,0112,alg,,algo1256,*-m,PA:1,,,,,,"by speech, by thought",,final,TA,,,,,,,,,*-nt,,,,,kiihkaam-,,,V,TA,,,LB1946;0112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 445,Bloomfield,LB1946,0109,alg,,algo1256,*-m,PA:1,,,,,,NG,,final,TA,,,,,,,,,*-nt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 447,Bloomfield,LB1946,0112,alg,,algo1256,*-m,PA:1,,,,,,NG,,final,TA,,,,,,,,,*-ot,,,,,aačim-,,,V,TA,tell of,,LB1946;0112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""peculiar""",,MAM
 448,Bloomfield,LB1946,0113,alg,,algo1256,*-m,PA:1,,,,,,NG,,final,TA,,,Y,AI,,,,,,,,,,wiixpeem-,,,V,TA,sleep with,,LB1946;0113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,added to AI stems with root wiit- 'along with',,MAM
@@ -457,14 +457,14 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 453,Costa,DJC2001,0263,alg,,algo1256,*-mina,PA:6,,,,,,"berry, nut",,final,N
 455,Goddard,IG1979a,0075,alg,,algo1256,*-min-,PA:6,,,,,,berry,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 455,Aubin,GA1975b,0093,alg,,algo1256,*-min-,PA:4,,,,,,"berry, fruit nut",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sb67b.56
-459,Aubin,GA1975b,0093,alg,,algo1256,*-mina-,PA:4,,,,,,berry,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*min-,Sb67b.54
+455,Aubin,GA1975b,0093,alg,,algo1256,*-mina-,PA:4,,,,,,berry,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*min-,Sb67b.54
 460,Aubin,GA1975b,0094,alg,,algo1256,*-mo:te:,PA:4,,,,,,"bag, sack",,medial,,,,,,,,,,,*-mo:tye:-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,perhaps *-mo:tye:-'. Sb67b.53
 461,Aubin,GA1975b,0094,alg,,algo1256,*-mo:tye:-,PA:4,,,,,,bag,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sb67b.56
 462,Aubin,GA1975b,0095,alg,,algo1256,*-mya:-,PA:4,,,,,,smell,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B125.139
 464,Aubin,GA1975b,0096,alg,,algo1256,*-n,,,,,,,by sight,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.115
 464,Bloomfield,LB1946,0115,alg,,algo1256,*-n,PA:1,,,,,,"by sight, perception",,final,TI,,,,,,,,*-naw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-,Aubin,GA1975b,0096,alg,,algo1256,*-n,PA:4,,,,,,"action, product, or instrument",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"noun final forming actions, products,and instruments from Al stems'. B146.106"
-,Bloomfield,LB1946,0106,alg,,algo1256,*-n,PA:1,,,,,,"actions, products, instruments",,final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+463,Aubin,GA1975b,0096,alg,,algo1256,*-n,PA:4,,,,,,"action, product, or instrument",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"noun final forming actions, products,and instruments from Al stems'. B146.106"
+463,Bloomfield,LB1946,0106,alg,,algo1256,*-n,PA:1,,,,,,"actions, products, instruments",,final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 467,Aubin,GA1975b,0098,alg,,algo1256,*-naw,PA:4,,,,,,by sight,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.115
 467,Bloomfield,LB1946,0115,alg,,algo1256,*-naw,PA:1,,,,,,"by sight, perception",,final,TA,,,,,,,,,*-n,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 469,Aubin,GA1975b,0098,alg,,algo1256,*-naθ-,PA:4,,,,,,assail,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B125.148
@@ -538,7 +538,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 537,Aubin,GA1975b,0142,alg,,algo1256,*-šky-,PA:4,,,,,,"hair, leaf, foilage",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ha58.246
 538,Bloomfield,LB1946,0109,alg,,algo1256,*-so,PA:1,,,,,,middle reflexive,,final,AI,,,,,,,*-tee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 538,Aubin,GA1975b,0139,alg,,algo1256,*-so,PA:4,,,,,,reflexive,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AI middle reflexive final' B146.109
-540,Aubin,GA1975b,0142,alg,,algo1256,*-štikwa:n-,PA:4,,,,,,head,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.117
+541,Aubin,GA1975b,0142,alg,,algo1256,*-štikwa:n-,PA:4,,,,,,head,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.117
 541,Bloomfield,LB1946,0117,alg,,algo1256,*-štikwaan-,PA:1,,,,,,head,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 542,Bloomfield,LB1946,0114,alg,,algo1256,*-sw,PA:1,,,,,,by heat,,final,TA,,,,,,,,,*-s,,,,,wensw-,,,V,TA,bring to boiling,,LB1946;0114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of *-esw?,,MAM
 543,Bloomfield,LB1946,"0109,0112",alg,,algo1256,*-t,PA:1,,,,,,NG,,final,TI,,,,,,,,*-θ,,,,,,piintwikee-,,,,,,,LB1946;0112,miikaat-,,,,,fight,,LB1946;0112,nooçkwaat-,,,,,,,LB1946;0112,,,,,,,,,,,,,,,,,,,,MAM
@@ -546,10 +546,10 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 545,Goddard,IG1965,0217,alg,,algo1256,*-ta·hpixkani,PA:6,,,,,,"jaw, chin",,final
 546,Aubin,GA1975a,0184,alg,,algo1256,*-ta·na,PA:2,,,,,,daughter,,medial
 547,Bloomfield,LB1946,0119,alg,,algo1256,*-tala,PA:1,,,,,,NG,,premedial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not clear if this is PA or just in Fox,,MAM
-548,Aubin,GA1975b,0144,alg,,algo1256,*-te:,PA:4,,,,,,reflexive,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,II middle reflexive final' B146.109
-549,Aubin,GA1975b,0144,alg,,algo1256,*-te:h-,PA:4,,,,,,heart,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.104
+550,Aubin,GA1975b,0144,alg,,algo1256,*-te:,PA:4,,,,,,reflexive,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,II middle reflexive final' B146.109
 550,Bloomfield,LB1946,0109,alg,,algo1256,*-tee,PA:1,,,,,,middle reflexive,,final,II,,,,,,*-so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 551,Bloomfield,LB1946,"0104,0117",alg,,algo1256,*-teeh-,PA:1,,,,,,heart,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+551,Aubin,GA1975b,0144,alg,,algo1256,*-te:h-,PA:4,,,,,,heart,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.104
 552,Goddard,IG1990a,0466,alg,,algo1256,*-temp-,PA:6,,,,,,brain,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 553,Goddard,IG1979a,0108,alg,,algo1256,*-temp-,PA:6,,,,,,brain,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In dependent N,,MAM
 554,Aubin,GA1975b,0145,alg,,algo1256,*-tempe:-,PA:4,,,,,,brain,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mc35b.145
@@ -564,11 +564,11 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 565,Goddard,IG1990a,"0463,0473",alg,,algo1256,*-w,PA:6,,,,,,NG,,final,N,,ABSTR,,,,,,,,*-∅-,"/ w, y ___",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 566,Aubin,GA1975b,0149,alg,,algo1256,*-w,PA:4,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,noun final added to intr. verb stems to form agent nouns'. B146.106
 567,Aubin,GA1975b,0149,alg,,algo1256,*-w,PA:4,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.105
-,Bloomfield,LB1946,0106,alg,,algo1256,*-w,PA:1,,,,,,agent,,final,N,,,Y,II,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""freely added to intr. verb stems""",,MAM
-,Bloomfield,LB1946,0103,alg,,algo1256,*-w,PA:1,,,,,,agent noun,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+562,Bloomfield,LB1946,0106,alg,,algo1256,*-w,PA:1,,,,,,agent,,final,N,,,Y,II,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""freely added to intr. verb stems""",,MAM
+562,Bloomfield,LB1946,0103,alg,,algo1256,*-w,PA:1,,,,,,agent noun,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 568,Goddard,IG1990a,0459,alg,,algo1256,*-w-,PA:6,,,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-wi-,,,,,,,,,,,MAM
 570,Goddard,IG1965,0218,alg,,algo1256,*-w-,PA:6,,,,,,NG,,final,N
-,Goddard,IG1990a,0473,alg,,algo1256,*-w-,PA:6,,,,,,agentive,,final,N,,,Y,V,,,,,,*-∅-,/ w ___,,,*ni·ki·hekw-∅-,,,N,,,,IG1990a;0473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+562,Goddard,IG1990a,0473,alg,,algo1256,*-w-,PA:6,,,,,,agentive,,final,N,,,Y,V,,,,,,*-∅-,/ w ___,,,*ni·ki·hekw-∅-,,,N,,,,IG1990a;0473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 571,Aubin,GA1975b,0155,alg,,algo1256,*-we:we:k-,PA:4,,,,,,noise,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.118
 572,Goddard,IG1990a,0463,alg,,algo1256,*-we·-,PA:6,,,,,,"make sound, speak",,final,AI,,,,,,,,,,,,,,*ketem-we·-,,,,AI,speak pitifully,,IG1990a;0463,*ketema·k-we·-,,,,AI,NG,,IG1990a;0463,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 573,Goddard,IG1990a,0468,alg,,algo1256,*-we·(w)-,PA:6,,,,,,noise,,medial,,,,,,,,,,,*-we·we·k-,,*-we·w-e·,*-we·k-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-we·k- from *-we·(w)- + *-ak-,,MAM
@@ -878,8 +878,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 877,Hewson,JH_nd-a,0019,alg,,algo1256,*alehθ-,PA:6,,,,,,ordinary,,initial
 878,Hewson,JH_nd-a,0019,alg,,algo1256,*aliw-,PA:6,,,,,,"surpass, too much",,initial
 879,Hewson,JH_nd-b,0047,alg,,algo1256,*alo:so,PA:4,,,,,,smoke,,final,AI
-,Hewson,JH_nd-b,0047,alg,,algo1256,*alo:θkan,PA:4,,,,,,raspberry
-,Hewson,JH_nd-a,0020,alg,,algo1256,*alo·θkan-,PA:6,,,,,,raspberry,,initial
+881,Hewson,JH_nd-b,0047,alg,,algo1256,*alo:θkan,PA:4,,,,,,raspberry
+881,Hewson,JH_nd-a,0020,alg,,algo1256,*alo·θkan-,PA:6,,,,,,raspberry,,initial
 882,Hewson,JH_nd-a,0020,alg,,algo1256,*alw(aw)-,PA:6,,,,,,"rest, cease",,initial
 883,Hewson,JH_nd-b,0047,alg,,algo1256,*am,PA:4,,,,,,"eat, bite, mouth; see",,final,TI
 884,Hewson,JH_nd-a,0020,alg,,algo1256,*amači-,PA:6,,,,,,"awake, arouse",,initial
@@ -910,9 +910,9 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 909,Hewson,JH_nd-a,0021,alg,,algo1256,*ans-,PA:6,,,,,,"pile, bundle",,initial
 910,Hewson,JH_nd-b,0047,alg,,algo1256,*ant,PA:4,,,,,,"eat, bite, mouth; see",,final,TI
 911,Hewson,JH_nd-b,0056,alg,,algo1256,*ant,PA:4,,,,,,"eat, strike",,final,TI
-,Hewson,JH_nd-b,0057,alg,,algo1256,*ap,PA:4,,,,,,sit
+914,Hewson,JH_nd-b,0057,alg,,algo1256,*ap,PA:4,,,,,,sit
+914,Aubin,GA1975b,0012,alg,,algo1256,*ap-,PA:4,,,,,,sit,,initial,,,,,,,,,,,,,,,*api-,,,V,AI,sit,,GA1975b;0012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,He73.157; *api- B146.103
 913,Hewson,JH_nd-a,0022,alg,,algo1256,*ap-,PA:6,,,,,,"braid, weave, tie",,initial
-,Aubin,GA1975b,0012,alg,,algo1256,*ap-,PA:4,,,,,,sit,,initial,,,,,,,,,,,,,,,*api-,,,V,AI,sit,,GA1975b;0012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,He73.157; *api- B146.103
 915,Hewson,JH_nd-a,0023,alg,,algo1256,*ap(iw)-,PA:6,,,,,,heat,,initial
 916,Hewson,JH_nd-a,0023,alg,,algo1256,*ap(iw)-,PA:6,,,,,,sit,,initial
 917,Hewson,JH_nd-b,0058,alg,,algo1256,*apahk,PA:4,,,,,,wall
@@ -981,8 +981,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 980,Hewson,JH_nd-a,0036,alg,,algo1256,*axk(w)-,PA:6,,,,,,"so far, to completion",,initial
 981,Hewson,JH_nd-b,0067,alg,,algo1256,*axkamik,PA:4,,,,,,"ground, land"
 982,Hewson,JH_nd-b,0068,alg,,algo1256,*axkaše:,PA:4,,,,,,coals
-,Hewson,JH_nd-b,0068,alg,,algo1256,*axkehkw,PA:4,,,,,,"kettle, container"
-,Hewson,JH_nd-a,0039,alg,,algo1256,*axkehkw-,PA:6,,,,,,kettle,,initial
+984,Hewson,JH_nd-b,0068,alg,,algo1256,*axkehkw,PA:4,,,,,,"kettle, container"
+984,Hewson,JH_nd-a,0039,alg,,algo1256,*axkehkw-,PA:6,,,,,,kettle,,initial
 985,Hewson,JH_nd-b,0068,alg,,algo1256,*axkesen(e:),PA:4,,,,,,"shoe, footware"
 986,Hewson,JH_nd-b,0069,alg,,algo1256,*axkihki,PA:4,,,,,,"woods, forest"
 987,Hewson,JH_nd-b,0069,alg,,algo1256,*axkw(a:),PA:4,,,,,,sky
@@ -1003,8 +1003,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1002,Hewson,JH_nd-a,0043,alg,,algo1256,*aye·θkw-,PA:6,,,,,,"tired, stiff",,initial
 1003,Bloomfield,LB1946,0123,alg,,algo1256,*ayyeeθ-,PA:1,,,,,,"thither, thus (of plural objects)",,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,reduplicated form of *eθ-; suppletive for plural,,MAM
 1004,Aubin,GA1975b,0012,alg,,algo1256,*aʔ-,PA:4,,,,,,to place,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120
-,Hewson,JH_nd-b,0058,alg,,algo1256,*aʔči,PA:4,,,,,,"place, arrange"
-,Hewson,JH_nd-a,0026,alg,,algo1256,*aʔči-,PA:6,,,,,,place,,initial
+1006,Hewson,JH_nd-b,0058,alg,,algo1256,*aʔči,PA:4,,,,,,"place, arrange"
+1006,Hewson,JH_nd-a,0026,alg,,algo1256,*aʔči-,PA:6,,,,,,place,,initial
 1007,Hewson,JH_nd-b,0058,alg,,algo1256,*aʔl,PA:4,,,,,,"place, arrange",,final,TA
 1007,Aubin,GA1975b,0012,alg,,algo1256,*aʔl-,PA:4,,,,,,to place,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.109
 1009,Hewson,JH_nd-a,0024,alg,,algo1256,*aʔlap-,PA:6,,,,,,net,,initial
@@ -1013,7 +1013,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1012,Hewson,JH_nd-a,0024,alg,,algo1256,*aʔšawe·-,PA:6,,,,,,on one side,,initial
 1013,Hewson,JH_nd-a,0024,alg,,algo1256,*aʔsen(y)-,PA:6,,,,,,stone,,initial
 1014,Goddard,IG1990a,0454,alg,,algo1256,*aʔsena·pe·-,PA:6,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*aɂsena·pe·w-,,,MAM
-,Hewson,JH_nd-b,0059,alg,,algo1256,*aʔseny,PA:4,,,,,,stone
+1016,Hewson,JH_nd-b,0059,alg,,algo1256,*aʔseny,PA:4,,,,,,stone
 1016,Costa,DJC2001,0258,alg,,algo1256,*aʔseny-,PA:6,,,,,,stone,,initial
 1016,Goddard,IG1990a,0453,alg,,algo1256,*aʔseny-,PA:6,,,,,,stone,,initial,,,,,,,,,,,*aʔsen-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"in discussion of loss of stem-final post-consonantal semivowel - so might be a stem, not an initial? ",,MAM
 1018,Hewson,JH_nd-a,0025,alg,,algo1256,*aʔši(či)-,PA:6,,,,,,"against, close to, near, transverse",,initial
@@ -1041,11 +1041,11 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1040,Bloomfield,LB1946,0120,alg,,algo1256,*aθaam-,PA:1,,,,,,underneeth,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 1041,Cowan,WC1969,0029,alg,,algo1256,*aθam-,PA:6,,,,,,underneath,,initial
 1042,Hewson,JH_nd-a,0031,alg,,algo1256,*aθe-,PA:6,,,,,,begin,,initial
-,Pentland,DP2005,0326,alg,,algo1256,*aθem-,PA:6,,,,,,away from speaker,,initial
-,Hewson,JH_nd-a,0031,alg,,algo1256,*aθem-,PA:6,,,,,,"yon way, face down",,initial
-,Hewson,JH_nd-b,0065,alg,,algo1256,*aθemw,PA:4,,,,,,"dog, horse"
-,Goddard,IG1980,0144,alg,,algo1256,*aθemw-,PA:2,,,,,,dog,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-,Hewson,JH_nd-a,0033,alg,,algo1256,*aθemw-,PA:6,,,,,,dog,,initial
+1043,Pentland,DP2005,0326,alg,,algo1256,*aθem-,PA:6,,,,,,away from speaker,,initial
+1043,Hewson,JH_nd-a,0031,alg,,algo1256,*aθem-,PA:6,,,,,,"yon way, face down",,initial
+1046,Hewson,JH_nd-b,0065,alg,,algo1256,*aθemw,PA:4,,,,,,"dog, horse"
+1046,Goddard,IG1980,0144,alg,,algo1256,*aθemw-,PA:2,,,,,,dog,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+1046,Hewson,JH_nd-a,0033,alg,,algo1256,*aθemw-,PA:6,,,,,,dog,,initial
 1048,Goddard,IG1990a,0461,alg,,algo1256,*aθet-,PA:6,,,,,,be rotten,,initial,,,,,,,,,,,*aθetw-,,,,*aθet-,,,,II,be rotten,,IG1990a;0461,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*aθet- 'be rotten',,,MAM
 1049,Aubin,GA1975b,0015,alg,,algo1256,*aθk-,PA:4,,,,,,"watch, lie in ambush",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sb41.300
 1049,Siebert,FS1941,0300,alg,,algo1256,*aθk-,PA:6,,,,,,"watch, lie in ambush",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Probably a stem?
@@ -1122,14 +1122,14 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1121,Hewson,JH_nd-b,0091,alg,,algo1256,*ela:kan(e:),PA:4,,,,,,dish
 240,Hewson,JH_nd-b,0091,alg,,algo1256,*elaw,PA:4,,,,,,shoot,,final,TA,,,,,,,,,*el
 1123,Hewson,JH_nd-a,0048,alg,,algo1256,*elekohk(w)-,PA:6,,,,,,so far,,initial
-,Hewson,JH_nd-b,0091,alg,,algo1256,*elen,PA:4,,,,,,ordinary
-,Goddard,IG1979a,0112,alg,,algo1256,*elen-,PA:6,,,,,,ordinary,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-,Goddard,IG1965,0216,alg,,algo1256,*elen-,PA:6,,,,,,ordinary,,initial
-,Hewson,JH_nd-a,0049,alg,,algo1256,*elen-,PA:6,,,,,,"ordinary, Indian",,initial
-,Aubin,GA1975b,0023,alg,,algo1256,*elen-,PA:4,,,,,,"ordinary, plain",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120
-,Bloomfield,LB1946,"0105,0119,0120",alg,,algo1256,*elen-,PA:1,,,,,,"ordinary, plain",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-,Hewson,JH_nd-b,0091,alg,,algo1256,*elenyiw,PA:4,,,,,,"human being, person"
-,Hewson,JH_nd-a,0049,alg,,algo1256,*elenyiw-,PA:6,,,,,,man,,initial
+1125,Hewson,JH_nd-b,0091,alg,,algo1256,*elen,PA:4,,,,,,ordinary
+1125,Goddard,IG1979a,0112,alg,,algo1256,*elen-,PA:6,,,,,,ordinary,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+1125,Goddard,IG1965,0216,alg,,algo1256,*elen-,PA:6,,,,,,ordinary,,initial
+1125,Hewson,JH_nd-a,0049,alg,,algo1256,*elen-,PA:6,,,,,,"ordinary, Indian",,initial
+1125,Aubin,GA1975b,0023,alg,,algo1256,*elen-,PA:4,,,,,,"ordinary, plain",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120
+1125,Bloomfield,LB1946,"0105,0119,0120",alg,,algo1256,*elen-,PA:1,,,,,,"ordinary, plain",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+1130,Hewson,JH_nd-b,0091,alg,,algo1256,*elenyiw,PA:4,,,,,,"human being, person"
+1130,Hewson,JH_nd-a,0049,alg,,algo1256,*elenyiw-,PA:6,,,,,,man,,initial
 1132,Hewson,JH_nd-b,0093,alg,,algo1256,*eminšy,PA:4,,,,,,tree
 245,Hewson,JH_nd-b,0093,alg,,algo1256,*en,PA:4,,,,,,by hand,,final,TA,,,,,,,,,*en
 246,Hewson,JH_nd-b,0093,alg,,algo1256,*en,PA:4,,,,,,by hand,,final,TI,,,,,,,,*en
@@ -1167,9 +1167,9 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1166,Aubin,GA1975b,0025,alg,,algo1256,*eskwi-,PA:4,,,,,,"aside, apart, differently",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ge41.309
 1167,Hewson,JH_nd-b,0104,alg,,algo1256,*eso,PA:4,,,,,,by heat,,final,AI,,,,,,,*ete:,*esw,*es
 1168,Hewson,JH_nd-b,0111,alg,,algo1256,*eso,PA:4,,,,,,reflexive,,final,AI,,,Y
-,Hewson,JH_nd-b,0121,alg,,algo1256,*ešp,PA:4,,,,,,high up
-,Aubin,GA1975b,0027,alg,,algo1256,*ešp-,PA:4,,,,,,high,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120
-,Bloomfield,LB1946,0120,alg,,algo1256,*ešp-,PA:1,,,,,,high,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+1170,Hewson,JH_nd-b,0121,alg,,algo1256,*ešp,PA:4,,,,,,high up
+1170,Aubin,GA1975b,0027,alg,,algo1256,*ešp-,PA:4,,,,,,high,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120
+1170,Bloomfield,LB1946,0120,alg,,algo1256,*ešp-,PA:1,,,,,,high,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 1172,Hewson,JH_nd-a,0054,alg,,algo1256,*ešp(aw)-,PA:6,,,,,,high,,initial
 1173,Hewson,JH_nd-b,0104,alg,,algo1256,*esw,PA:4,,,,,,by heat,,final,TA,,,,,,*eso,*ete:,,*es
 1174,Hewson,JH_nd-b,0115,alg,,algo1256,*ešw,PA:4,,,,,,by cutting edge,,final,TA,,,,,,,,,*eš
@@ -1269,8 +1269,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1268,Hewson,JH_nd-b,0167,alg,,algo1256,*ka:t(e:),PA:4,,,,,,feet and legs
 1269,Hewson,JH_nd-b,0168,alg,,algo1256,*ka:te:,PA:4,,,,,,middle,,final,II,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*ete:
 1270,Aubin,GA1975b,0040,alg,,algo1256,*ka:w-,PA:4,,,,,,prickly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.255
-,Cowan,WC1969,0030,alg,,algo1256,*ka·hk-,PA:6,,,,,,dry
-,Goddard,IG1965,0215,alg,,algo1256,*ka·hk-,PA:6,,,,,,dry,,initial
+1271,Cowan,WC1969,0030,alg,,algo1256,*ka·hk-,PA:6,,,,,,dry
+1271,Goddard,IG1965,0215,alg,,algo1256,*ka·hk-,PA:6,,,,,,dry,,initial
 1273,Hewson,JH_nd-a,0064,alg,,algo1256,*ka·hk(aw)-,PA:6,,,,,,dry up,,initial
 1274,Hewson,JH_nd-a,0064,alg,,algo1256,*ka·nči-,PA:6,,,,,,push,,initial
 1275,Hewson,JH_nd-a,0064,alg,,algo1256,*ka·ns-,PA:6,,,,,,push,,initial
@@ -1318,8 +1318,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1317,Aubin,GA1975b,0045,alg,,algo1256,*kape:-,PA:4,,,,,,"for the full duration of, for all the length of",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.253
 1317,Pentland,DP2005,0327,alg,,algo1256,*kape·-,PA:6,,,,,,"for the duration of, across (time or space)",,initial
 ,Hewson,JH_nd-a,0070,alg,,algo1256,*kašk-,PA:6,,,,,,"close, manage, control",,initial
-,Aubin,GA1975b,0045,alg,,algo1256,*kašk-,PA:4,,,,,,"closed up, blocked",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.253
-,Aubin,GA1975b,0045,alg,,algo1256,*kašk-,PA:4,,,,,,"manage, deal with, can",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.253
+1321,Aubin,GA1975b,0045,alg,,algo1256,*kašk-,PA:4,,,,,,"closed up, blocked",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.253
+1320,Aubin,GA1975b,0045,alg,,algo1256,*kašk-,PA:4,,,,,,"manage, deal with, can",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.253
 1322,Hewson,JH_nd-b,0171,alg,,algo1256,*kašy(e:),PA:4,,,,,,"nails, claws"
 1323,Aubin,GA1975b,0046,alg,,algo1256,*kat-,PA:4,,,,,,negative,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.254
 1324,Pentland,DP2005,0328,alg,,algo1256,*kat(a)w-,PA:6,,,,,,"desire, want to, intend",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: This is spelled and defined a bit differently from *kataw- earlier in the source, but seem to generally be the same."

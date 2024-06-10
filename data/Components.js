@@ -56,6 +56,9 @@ function groupColumns(record, ...colTypes) {
     for (const letteredColumn of letteredColumns) {
 
       const [, letter] = letteredColumn.split(`-`)
+
+      if (!letter) console.error(record[Components.columns.ISO], letteredColumn)
+
       const i          = letterToIndex(letter)
       const data       = record[letteredColumn]
 
@@ -77,10 +80,29 @@ function letterToIndex(letter) {
   return letter.toLowerCase().charCodeAt(0) - 97
 }
 
+function parsePages(pagesString) {
+  return pagesString
+  .split(commaRegExp)
+  .map(Number)
+  .filter(Number.isInteger)
+  .join(`, `)
+}
+
 class Allomorph {
   constructor(form, condition) {
     this.form = form
     if (condition) this.condition = condition
+  }
+}
+
+class Matches {
+  constructor({
+    AI, II, TA, TI,
+  }) {
+    if (AI) this.AI = AI
+    if (II) this.II = II
+    if (TA) this.TA = TA
+    if (TI) this.TI = TI
   }
 }
 
@@ -118,9 +140,11 @@ export default class Components extends Map {
     speaker:             `Speaker`,
     specificity:         `Final: concrete / abstract`,
     stemCategory:        `Stem category`,
+    stemForm:            `Component occurs in stem (orig. orth)`,
     stemGloss:           `Stem translation`,
+    stemSecondary:       `Secondary stem`,
+    stemSource:          `Stem Source`,
     stemSubcategory:     `Stem subcategory`,
-    stemTranscription:   `Component occurs in stem (orig. orth)`,
     stemUR:              `Stem UR`,
     subcategory:         `Subcategory`,
     type:                `Component Type`,
@@ -270,25 +294,11 @@ export default class Components extends Map {
 
     }
 
-    // Base Category
+    // Base Categories
     if (component.secondary) {
       component.baseCategories = groupColumns(record, cols.baseCategory)
       .map(({ [cols.baseCategory]: baseCategory }) => baseCategory)
     }
-
-    // Matches
-    component.matches = {
-      AI: orthographies.transliterate(ortho, record[cols.matchAI]),
-      II: orthographies.transliterate(ortho, record[cols.matchII]),
-      TA: orthographies.transliterate(ortho, record[cols.matchTA]),
-      TI: orthographies.transliterate(ortho, record[cols.matchTI]),
-    }
-
-    // Allomorphs
-    const allomorphs = groupColumns(record, cols.allomorph, cols.condition)
-    .map(data => new Allomorph(orthographies.transliterate(ortho, data[cols.allomorph]), data[cols.condition]))
-
-    if (allomorphs.length) component.allomorphs = allomorphs
 
     // Deverbal
     component.deverbal = record[cols.deverbal] === `Y`
@@ -296,6 +306,61 @@ export default class Components extends Map {
     if (component.deverbal) {
       component.deverbalFrom = record[cols.deverbalFrom]
     }
+
+    // Matches
+    component.matches = new Matches({
+      AI: orthographies.transliterate(ortho, record[cols.matchAI]),
+      II: orthographies.transliterate(ortho, record[cols.matchII]),
+      TA: orthographies.transliterate(ortho, record[cols.matchTA]),
+      TI: orthographies.transliterate(ortho, record[cols.matchTI]),
+    })
+
+    // Allomorphs
+    const allomorphs = groupColumns(record, cols.allomorph, cols.condition)
+    .map(data => new Allomorph(orthographies.transliterate(ortho, data[cols.allomorph]), data[cols.condition]))
+
+    if (allomorphs.length) component.allomorphs = allomorphs
+
+    // Stems
+    const stems = groupColumns(
+      record,
+      cols.stemCategory,
+      cols.stemForm,
+      cols.stemGloss,
+      cols.stemSecondary,
+      cols.stemSource,
+      cols.stemSubcategory,
+      cols.stemUR,
+    ).map(({
+      [cols.stemCategory]:    category,
+      [cols.stemForm]:        form,
+      [cols.stemGloss]:       gloss,
+      [cols.stemSecondary]:   secondary,
+      [cols.stemSource]:      rawSource,
+      [cols.stemSubcategory]: subcategory,
+      [cols.stemUR]:          UR,
+    }) => {
+
+      const stem = {
+        category,
+        form:      orthographies.transliterate(ortho, form),
+        gloss,
+        secondary: secondary === `Y`,
+        subcategory,
+        UR,
+      }
+
+      if (rawSource) {
+        const [source, pages] = rawSource.split(`;`)
+        if (pages) stem.source = `${ source }: ${ parsePages(pages) }`
+        else stem.source = source
+      }
+
+      return stem
+
+    })
+
+    if (stems.length) component.stems = stems
 
     // Notes
     component.notes = record[cols.notes]
@@ -344,15 +409,8 @@ export default class Components extends Map {
     const pages        = token[cols.pages]
 
     if (pages) {
-
       bibliography += `: `
-
-      bibliography += token[cols.pages]
-      .split(commaRegExp)
-      .map(Number)
-      .filter(Number.isInteger)
-      .join(`, `)
-
+      bibliography += parsePages(token[cols.pages])
     }
 
     return {
