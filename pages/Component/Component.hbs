@@ -97,6 +97,11 @@
             <input type=checkbox {{#if secondary }}checked{{/if}} inert>
           </dd>
 
+          {{#if secondary }}
+            <dt>Base Categories</dt>
+            <dd>{{#if baseCategories }}{{#each baseCategories }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}{{else}}—{{/if}}</dd>
+          {{/if}}
+
         {{/if}}
 
         <dt>Deverbal</dt>
