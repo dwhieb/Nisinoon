@@ -93,6 +93,7 @@ legend {
 table {
 
   & th {
+    text-align:      center;
     font-weight:     500;
     text-decoration: underline;
     vertical-align:  bottom;
@@ -104,8 +105,13 @@ table {
 
 }
 
-.stems {
-  align-items: center;
+.stem-form {
+  white-space: nowrap;
+  word-break:  keep-all;
+}
+
+.stems table {
+  margin-inline: auto;
 }
 
 :is(.stem-category, .stem-secondary, .stem-subcategory) {

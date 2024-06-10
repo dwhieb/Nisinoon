@@ -151,16 +151,16 @@
         <table>
           <thead>
             <th>Form</th>
-            <th class=stem-category>Category</th>
-            <th class=stem-subcategory>Subcategory</th>
+            <th>Category</th>
+            <th>Subcategory</th>
             <th>Gloss</th>
-            <th class=stem-secondary>Secondary<br>Derivation</th>
+            <th>Secondary<br>Derivation</th>
             <th>Source</th>
           </thead>
           <tbody>
             {{#each stems }}
               <tr>
-                <td>{{ form }}</td>
+                <td class=stem-form>{{ form }}</td>
                 <td class=stem-category>{{#if category }}{{ category }}{{/if}}</td>
                 <td class=stem-subcategory>{{#if subcategory }}{{ subcategory }}{{/if}}</td>
                 <td>{{#if gloss }}‘{{ gloss }}’{{/if}}</td>
