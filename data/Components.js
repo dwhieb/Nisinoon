@@ -235,6 +235,9 @@ export default class Components extends Map {
       TI: record[cols.matchTI],
     }
 
+    // Deverbal
+    component.deverbal = record[cols.deverbal] === `Y`
+
     // Notes
     component.notes = record[cols.notes]
 
