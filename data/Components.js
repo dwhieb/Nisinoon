@@ -286,7 +286,7 @@ export default class Components extends Map {
 
     // Allomorphs
     const allomorphs = groupColumns(record, cols.allomorph, cols.condition)
-    .map(data => new Allomorph(data[cols.allomorph], data[cols.condition]))
+    .map(data => new Allomorph(orthographies.transliterate(ortho, data[cols.allomorph]), data[cols.condition]))
 
     if (allomorphs.length) component.allomorphs = allomorphs
 
