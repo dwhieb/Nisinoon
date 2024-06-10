@@ -53,6 +53,7 @@ export default class Components extends Map {
     components:          `Contains`,
     definition:          `Project Definition`,
     deverbal:            `Deverbal (y/n)`,
+    deverbalFrom:        `Deverbal from`,
     dialect:             `Dialect`,
     finalType:           `Final: secondary (y/n/b)`,
     firstCheck:          `1st check done`,
@@ -237,6 +238,10 @@ export default class Components extends Map {
 
     // Deverbal
     component.deverbal = record[cols.deverbal] === `Y`
+
+    if (component.deverbal) {
+      component.deverbalFrom = record[cols.deverbalFrom]
+    }
 
     // Notes
     component.notes = record[cols.notes]
