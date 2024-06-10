@@ -17,6 +17,10 @@
   width:         100%;
 }
 
+.allomorphs {
+  align-items: flex-start;
+}
+
 article {
   flex-direction:  row;
   flex-wrap:       wrap;
