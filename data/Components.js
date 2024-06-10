@@ -278,10 +278,10 @@ export default class Components extends Map {
 
     // Matches
     component.matches = {
-      AI: record[cols.matchAI],
-      II: record[cols.matchII],
-      TA: record[cols.matchTA],
-      TI: record[cols.matchTI],
+      AI: orthographies.transliterate(ortho, record[cols.matchAI]),
+      II: orthographies.transliterate(ortho, record[cols.matchII]),
+      TA: orthographies.transliterate(ortho, record[cols.matchTA]),
+      TI: orthographies.transliterate(ortho, record[cols.matchTI]),
     }
 
     // Allomorphs
