@@ -99,6 +99,17 @@
 
         {{/if}}
 
+        <dt>Deverbal</dt>
+        <dd>
+          <span class=visually-hidden>{{#if deverbal }}true{{else}}false{{/if}}</span>
+          <input type=checkbox {{#if deverbal }}checked{{/if}} inert>
+        </dd>
+
+        {{#if deverbal }}
+          <dt>Deverbal From</dt>
+          <dd>{{#if deverbalFrom }}{{ deverbalFrom }}{{else}}—{{/if}}</dd>
+        {{/if}}
+
       </dl>
     </fieldset>
 
