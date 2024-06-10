@@ -118,10 +118,32 @@
       </dl>
     </fieldset>
 
-    <fieldset class=notes>
-      <legend class=label>Notes</legend>
-      <p>{{#if notes }}{{ notes }}{{else}}—{{/if}}</p>
-    </fieldset>
+    {{#if allomorphs }}
+      <fieldset class=allomorphs>
+        <legend class=label>Allomorphs</legend>
+        <table>
+          <thead>
+            <th>Form</th>
+            <th>Condition</th>
+          </thead>
+          <tbody>
+            {{#each allomorphs }}
+              <tr>
+                <td>{{ form }}</td>
+                <td>{{#if condition }}{{ condition }}{{else}}—{{/if}}</td>
+              </tr>
+            {{/each}}
+          </tbody>
+        </table>
+      </fieldset>
+    {{/if}}
+
+    {{#if notes }}
+      <fieldset class=notes>
+        <legend class=label>Notes</legend>
+        <p>{{#if notes }}{{ notes }}{{else}}—{{/if}}</p>
+      </fieldset>
+    {{/if}}
 
     <fieldset class=metadata>
       <legend class=label>Metadata</legend>
@@ -131,7 +153,7 @@
         <dd><code>{{ ID }}</code></dd>
 
         <dt>URL</dt>
-        <dd><code><a class=link href=https://nisinoon.net{{ ../url }}>https://nisinoon.net{{ ../url }}</a></code></dd>
+        <dd><code><a class=link href=https://nisinoon.net{{ @root/url }}>https://nisinoon.net{{ @root/url }}</a></code></dd>
 
       </dl>
     </fieldset>

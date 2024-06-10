@@ -10,15 +10,14 @@
 @import 'label.css';
 @import 'pre.css';
 
-:is(.metadata, .notes) {
+.allomorphs {
 
-  overflow-x: auto;
-  max-width:  100%;
-  width:      45em;
+  & thead {
+    font-weight: 500;
+  }
 
-  & code {
-    white-space: pre;
-    word-break:  keep-all;
+  :is(td, th) {
+    padding: var(--text-padding);
   }
 
 }
@@ -84,6 +83,17 @@ legend {
 #main {
   max-inline-size: min(60em, 100%);
   row-gap:         1em;
+}
+
+.metadata {
+
+  overflow-x: auto;
+
+  & code {
+    white-space: pre;
+    word-break:  keep-all;
+  }
+
 }
 
 .page-title {
