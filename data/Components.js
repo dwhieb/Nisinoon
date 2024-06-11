@@ -103,6 +103,24 @@ class Matches {
   }
 }
 
+class Token {
+  constructor({
+    bibliography,
+    form,
+    gloss,
+    PA,
+    speaker,
+    UR,
+  }) {
+    if (bibliography) this.bibliography = bibliography
+    if (form) this.form = form
+    if (gloss) this.gloss = gloss
+    if (PA) this.PA = PA
+    if (speaker) this.speaker = speaker
+    if (UR) this.UR = UR
+  }
+}
+
 export default class Components extends Map {
 
   static columns = {
@@ -439,14 +457,14 @@ export default class Components extends Map {
     // Speaker
     const speaker = token[cols.speaker]
 
-    return {
+    return new Token({
       bibliography,
       form,
       gloss,
       PA,
       speaker,
       UR,
-    }
+    })
 
   }
 
