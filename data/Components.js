@@ -423,13 +423,13 @@ export default class Components extends Map {
 
   }
 
-  convertToken(token, language) {
+  convertToken(record, language) {
 
     const cols    = Components.columns
     const isProto = language.includes(`Proto`)
 
     // Form
-    let form = token[cols.originalOrthography]
+    let form = record[cols.originalOrthography]
 
     if (isProto && form) {
       form = cleanProto(form)
@@ -437,30 +437,30 @@ export default class Components extends Map {
     }
 
     // UR
-    const UR = cleanUR(token[cols.UR])
+    const UR = cleanUR(record[cols.UR])
 
     // Proto-Algonquian
-    const PA = token[cols.proto]
+    const PA = record[cols.proto]
 
     // Gloss
-    const gloss = cleanGloss(token[cols.gloss])
+    const gloss = cleanGloss(record[cols.gloss])
 
     // Bibliography
-    const source = token[cols.sourceCode]
+    const source = record[cols.sourceCode]
 
     let   bibliography = source
-    const pages        = token[cols.pages]
+    const pages        = record[cols.pages]
 
     if (pages) {
       bibliography += `: `
-      bibliography += parsePages(token[cols.pages])
+      bibliography += parsePages(record[cols.pages])
     }
 
     // Speaker
-    const speaker = token[cols.speaker]
+    const speaker = record[cols.speaker]
 
     // Notes
-    const notes = token[cols.notes]
+    const notes = record[cols.notes]
 
     return new Token({
       bibliography,

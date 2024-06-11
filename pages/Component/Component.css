@@ -10,7 +10,7 @@
 @import 'label.css';
 @import 'pre.css';
 
-:is(.metadata, .stems) {
+:is(.metadata, .sources, .stems) {
   overflow-x:    auto;
   margin-inline: 1em;
   max-width:     100%;
@@ -107,6 +107,10 @@ table {
     padding: var(--text-padding);
   }
 
+}
+
+.sources th {
+  text-align: left;
 }
 
 .stem-form {

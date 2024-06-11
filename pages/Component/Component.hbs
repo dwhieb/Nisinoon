@@ -215,6 +215,35 @@
       </fieldset>
     {{/if}}
 
+    <fieldset class=sources>
+      <legend class=label>Sources</legend>
+      <table>
+        <thead>
+          <th>Form</th>
+          <th>UR</th>
+          <th>Proto-Algonquian</th>
+          <th>Gloss</th>
+          <th>Bibliography</th>
+          <th>Speaker</th>
+          <th>Notes</th>
+        </thead>
+        <tbody>
+          {{#each tokens as |token| }}
+            {{log token }}
+            <tr>
+              <td>{{ form }}</td>
+              <td>{{ UR }}</td>
+              <td>{{ PA }}</td>
+              <td>{{ gloss }}</td>
+              <td>{{ bibliography }}</td>
+              <td>{{ speaker }}</td>
+              <td>{{ notes }}</td>
+            </tr>
+          {{/each}}
+        </tbody>
+      </table>
+    </fieldset>
+
     <fieldset class=metadata>
       <legend class=label>Metadata</legend>
       <dl>
