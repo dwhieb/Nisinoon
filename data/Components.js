@@ -108,6 +108,7 @@ class Token {
     bibliography,
     form,
     gloss,
+    notes,
     PA,
     speaker,
     UR,
@@ -115,6 +116,7 @@ class Token {
     if (bibliography) this.bibliography = bibliography
     if (form) this.form = form
     if (gloss) this.gloss = gloss
+    if (notes) this.notes = notes
     if (PA) this.PA = PA
     if (speaker) this.speaker = speaker
     if (UR) this.UR = UR
@@ -457,10 +459,14 @@ export default class Components extends Map {
     // Speaker
     const speaker = token[cols.speaker]
 
+    // Notes
+    const notes = token[cols.notes]
+
     return new Token({
       bibliography,
       form,
       gloss,
+      notes,
       PA,
       speaker,
       UR,
