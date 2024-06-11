@@ -69,7 +69,7 @@ function groupColumns(record, ...colTypes) {
 
   }
 
-  return items
+  return items.filter(Boolean)
 
 }
 
@@ -109,9 +109,9 @@ export default class Components extends Map {
     allomorph:           `Allomorph`,
     baseCategory:        `Base Category (if secondary)`,
     componentID:         `Component ID`,
-    componentOf:         `Formative/component occurs in what component(s)`,
     components:          `Contains`,
     condition:           `Condition`,
+    containedIn:         `Formative/component occurs in what component(s)`,
     definition:          `Project Definition`,
     deverbal:            `Deverbal (y/n)`,
     deverbalFrom:        `Deverbal from`,
@@ -275,15 +275,19 @@ export default class Components extends Map {
     // Subcategory
     component.subcategory = record[cols.subcategory]
 
-    // Initial: Reduplicated
-    component.reduplicated = record[cols.reduplicated] === `Y`
+    if (component.type === `initial`) {
 
-    // Final: Concrete/Abstract
-    component.specificity = record[cols.specificity]
+      // Initial: Reduplicated
+      component.reduplicated = record[cols.reduplicated] === `Y`
 
-    // Final: Primary/Secondary
+    }
+
     if (component.type === `final`) {
 
+      // Final: Concrete/Abstract
+      component.specificity = record[cols.specificity]
+
+      // Final: Primary/Secondary
       const finalType = record[cols.finalType]
 
       component.primary   = finalType === `B` || !finalType
@@ -293,8 +297,12 @@ export default class Components extends Map {
 
     // Base Categories
     if (component.secondary) {
-      component.baseCategories = groupColumns(record, cols.baseCategory)
+
+      const baseCategories = groupColumns(record, cols.baseCategory)
       .map(({ [cols.baseCategory]: baseCategory }) => baseCategory)
+
+      if (baseCategories.length) component.baseCategories = baseCategories
+
     }
 
     // Deverbal
@@ -317,6 +325,12 @@ export default class Components extends Map {
     .map(data => new Allomorph(orthographies.transliterate(ortho, data[cols.allomorph]), data[cols.condition]))
 
     if (allomorphs.length) component.allomorphs = allomorphs
+
+    // Cross-References
+    const containedIn = groupColumns(record, cols.containedIn)
+    .map(({ [cols.containedIn]: reference }) => reference)
+
+    if (containedIn.length) component.containedIn = containedIn
 
     // Stems
     const stems = groupColumns(
@@ -360,7 +374,8 @@ export default class Components extends Map {
     if (stems.length) component.stems = stems
 
     // Notes
-    component.notes = record[cols.notes]
+    const notes = record[cols.notes]
+    if (notes) component.notes = notes
 
     // Tokens
     component.tokens = record.tokens.map(token => this.convertToken(token, language))
