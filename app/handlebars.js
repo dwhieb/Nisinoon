@@ -33,6 +33,10 @@ function is(a, b) {
   return a == b
 }
 
+function or(...items) {
+  return items.some(Boolean)
+}
+
 function translation(str) {
   return `<span class=tln>‘${ str }’</span>`
 }
@@ -59,6 +63,7 @@ const hbs = new ExpressHandlebars({
     igl:  interlinear,
     inex: inlineExample,
     is,
+    or,
     section,
     tln:  translation,
   },

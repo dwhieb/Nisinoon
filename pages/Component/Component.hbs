@@ -138,6 +138,48 @@
       </fieldset>
     {{/if}}
 
+    {{#if (or containedIn components formatives) }}
+      <fieldset>
+        <legend class=label>Cross-References</legend>
+        <dl>
+
+          {{#if containedIn }}
+            <dt>Contained In</dt>
+            <dd>
+              <ul>
+                {{#each containedIn }}
+                  <li>{{ this }}</li>
+                {{/each}}
+              </ul>
+            </dd>
+          {{/if}}
+
+          {{#if components }}
+            <dt>Contains Components</dt>
+            <dd>
+              <ul>
+                {{#each components }}
+                  <li>{{ this }}</li>
+                {{/each}}
+              </ul>
+            </dd>
+          {{/if}}
+
+          {{#if formatives }}
+            <dt>Contains Formatives</dt>
+            <dd>
+              <ul>
+                {{#each formatives }}
+                  <li>{{ this }}</li>
+                {{/each}}
+              </ul>
+            </dd>
+          {{/if}}
+
+        </dl>
+      </fieldset>
+    {{/if}}
+
     {{#if notes }}
       <fieldset class=notes>
         <legend class=label>Notes</legend>
