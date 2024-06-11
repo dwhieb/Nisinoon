@@ -9,7 +9,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 8,Goddard,IG1965,0215,alg,,algo1256,*-(e)ˀle·wa,PA:6,,,,,,bird,,final,N
 9,Goddard,IG1979a,0108,alg,,algo1256,*-(i·-)nkeθ-,PA:6,,,,,,forehead,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 10,Aubin,GA1975b,0004,alg,,algo1256,*-a: pane,PA:4,,,,,,dawn,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,B146.111,,MAM
-11,Aubin,GA1975b,0006,alg,,algo1256,*-a:-w,,,,,,,undergoer,,final,N,,,,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,suffix added to TA verb stems to form nouns of undergoer'. MAM: not sure why written with two dashes. B146.106,,MAM
+11,Aubin,GA1975b,0006,alg,,algo1256,*-a:-w,PA:4,,,,,,undergoer,,final,N,,,,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,suffix added to TA verb stems to form nouns of undergoer'. MAM: not sure why written with two dashes. B146.106,,MAM
 12,Aubin,GA1975b,0001,alg,,algo1256,*-a:hkwahki,PA:4,,,,,,NG,,final,unk.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.212,,MAM
 13,Aubin,GA1975b,0002,alg,,algo1256,*-a:htekw,PA:4,,,,,,"stick, wood, tree",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bl46.106,,MAM
 14,Aubin,GA1975b,0002,alg,,algo1256,*-a:kan,PA:4,,,,,,undergoer,,final,N,,,,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bl46.106; 'extended noun final added to TA stems to form undergoers',,MAM
@@ -18,9 +18,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 17,Aubin,GA1975b,0003,alg,,algo1256,*-a:meHk-,PA:4,,,,,,"earth, soil",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.213,,MAM
 18,Aubin,GA1975b,0003,alg,,algo1256,*-a:meHkw-,PA:4,,,,,,"earth, soil",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.213,,MAM
 19,Aubin,GA1975b,0004,alg,,algo1256,*-a:nkw-,PA:4,,,,,,sibling-in-law of same sex,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.213,,MAM
-20,Aubin,GA1975b,0004,alg,,algo1256,*-a:p,,,,,,,look,,final,unk.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,look (suffix)' B146.92,,MAM
+20,Aubin,GA1975b,0004,alg,,algo1256,*-a:p,PA:4,,,,,,look,,final,unk.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,look (suffix)' B146.92,,MAM
 21,Aubin,GA1975b,0004,alg,,algo1256,*-a:pam,PA:4,,,,,,look at,,final,TA,,,,,,,,,,,,,,*wa:pam-,,,V,TA,look,,GA1975b;0161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*JS not sure if this is page 4 or 161* B146.104; *wa:pam- B146.104,,MAM
-22,Aubin,GA1975b,0004,alg,,algo1256,*-a:pant,,,,,,,look at,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,B146.113,,MAM
+22,Aubin,GA1975b,0004,alg,,algo1256,*-a:pant,PA:4,,,,,,look at,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,B146.113,,MAM
 23,Aubin,GA1975b,0004,alg,,algo1256,*-a:pe:w,PA:4,,,,,,"male, man",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,B146.107,,MAM
 24,Aubin,GA1975b,0004,alg,,algo1256,*-a:peθk-,PA:4,,,,,,"stone, metal",,medial,,,,,,,,,,,,,,,*-a:peθkaham-,,,V,TI,lock,,GA1975b;0004,*ki:ška:peθkya:-,,,V,,be a cut-off rock,,GA1975b;0069,,,,,,,,,,,,,,,,,,,,,,,,,,B146.117; *-a:peθkaham- He73.159; *ki:ška:peθkya:- B146.118 ,,MAM
 25,Aubin,GA1975b,0005,alg,,algo1256,*-a:peθkwi,PA:4,,,,,,"rock, stone",,final,unk.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,presumably N final Sb41.300,,MAM
@@ -302,7 +302,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 341,Aubin,GA1975b,0031,alg,,algo1256,*-hta:wake:-,PA:4,,,,,,ear,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mc35b.143
 342,Costa,DJC2013,0217,alg,,algo1256,*-hta·mpy-,PA:2,,,,,,nape,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Costa does not call it a medial but it's a dependent N form so I'm guessing,,HTL,MAM
 343,Goddard,IG1965,0218,alg,,algo1256,*-htawak(ay)i,PA:6,,,,,,ear,,final
-344,Aubin,GA1975b,0031,alg,,algo1256,*-htawak(ay)i,,,,,,,ear,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.218
+344,Aubin,GA1975b,0031,alg,,algo1256,*-htawak(ay)i,PA:4,,,,,,ear,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.218
 345,Aubin,GA1975b,0031,alg,,algo1256,*-hto:,PA:4,,,,,,NG,,final,TI,,,,,,,,,,,,,,*ešihto:-,,,V,TI,make so,,GA1975b;0026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pseudo-TI final' B146.111; *ešihto:- B146.115
 346,Aubin,GA1975b,0031,alg,,algo1256,*-hto:škwani,PA:4,,,,,,elbow,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ge41.309
 347,Bloomfield,LB1946,0095,alg,,algo1256,*-htoo,PA:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"pseudo-transitive, ""namely intr. verbs formed mostly with [this suffix] and taking implied objects""",,MAM
@@ -395,8 +395,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 440,Bloomfield,LB1946,0108,alg,,algo1256,*-kyee,PA:1,,,,,,action on indefinite animate objects,"indefinite object, animate",final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 441,Bloomfield,LB1946,0107,alg,,algo1256,*-lenyiw,PA:1,,,,,,man,,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*elenyiw- 'man',,,MAM
 443,Aubin,GA1975b,0083,alg,,algo1256,*-leskwa,PA:4,,,,,,gland (tonsil),,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ge41.305
-446,Bloomfield,LB1946,0112,alg,,algo1256,*-m,PA:1,,,,,,"by speech, by thought",,final,TA,,,,,,,,,*-nt,,,,,kiihkaam-,,,V,TA,,,LB1946;0112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 445,Bloomfield,LB1946,0109,alg,,algo1256,*-m,PA:1,,,,,,NG,,final,TA,,,,,,,,,*-nt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+446,Bloomfield,LB1946,0112,alg,,algo1256,*-m,PA:1,,,,,,"by speech, by thought",,final,TA,,,,,,,,,*-nt,,,,,kiihkaam-,,,V,TA,,,LB1946;0112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 447,Bloomfield,LB1946,0112,alg,,algo1256,*-m,PA:1,,,,,,NG,,final,TA,,,,,,,,,*-ot,,,,,aačim-,,,V,TA,tell of,,LB1946;0112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""peculiar""",,MAM
 448,Bloomfield,LB1946,0113,alg,,algo1256,*-m,PA:1,,,,,,NG,,final,TA,,,Y,AI,,,,,,,,,,wiixpeem-,,,V,TA,sleep with,,LB1946;0113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,added to AI stems with root wiit- 'along with',,MAM
 449,Aubin,GA1975b,0084,alg,,algo1256,*-m,PA:4,,,,,,NG,,final,TA,,,,,,,,,,,,,,*nemesk-a-m-,,,V,TA,make an insulting gesture to someone's face.,,GA1975b;0101,*wi:xpe:m-,,,V,TA,sleep with,,GA1975b;0161,,,,,,,,,,,,,,,,,,,,,,,,,,B146.109; *nemesk-a-m- Ge41.306; *wi:xpe:m- B146.113
@@ -440,8 +440,6 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 497,Costa,DJC2001,0282,alg,,algo1256,*-o·θ-,PA:6,,,,,,boat,,initial
 498,Aubin,GA1975b,0119,alg,,algo1256,*-ohθe:,PA:4,,,,,,walk,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.111
 499,Bloomfield,LB1946,0111,alg,,algo1256,*-ohθee,PA:1,,,,,,walk,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-500,Bloomfield,LB1946,0113,alg,,algo1256,*-oom,PA:1,,,,,,carry on one's back,,final,TA,,,,,,,,,*-oont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""A common extended form""",,MAM
-501,Bloomfield,LB1946,0113,alg,,algo1256,*-oont,PA:1,,,,,,carry on one's back,,final,TI,,,,,,,,*-oom,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""A common extended form""",,MAM
 502,Bloomfield,LB1946,0112,alg,,algo1256,*-ot,PA:1,,,,,,NG,,final,TI,,,,,,,,*-m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""peculiar""",,MAM
 503,Goddard,IG1979a,0075,alg,,algo1256,*-oθ-,PA:6,,,,,,canoe,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 504,Aubin,GA1975b,0126,alg,,algo1256,*-pahto:,PA:4,,,,,,run,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.91
@@ -450,7 +448,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 507,Brittain & Acton,JB_SA2014,0475,alg,,algo1256,*-pali,PA:1,,,,,,move,,final,AI
 508,Aubin,GA1975b,0127,alg,,algo1256,*-pe:,PA:4,,,,,,sleep,,final,,,,,,,,,,,,,,,*wi:xpe:-,,,V,AI,sleep with others,,GA1975b;0161,*wi:xpe:m-,,,V,TA,sleep with,,GA1975b;0161,,,,,,,,,,,,,,,,,,,,,,,,,,B146.91; *wi:xpe:- B146.113; *wi:xpe:m- B146.113
 509,Bloomfield,LB1946,0091,alg,,algo1256,*-pee,PA:1,,,,,,sleep,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-510,Aubin,GA1975b,0131,alg,,algo1256,*-pexkwane:-,,,,,,,back,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mc35b.157
+510,Aubin,GA1975b,0131,alg,,algo1256,*-pexkwane:-,PA:4,,,,,,back,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mc35b.157
 511,Bloomfield,LB1946,0104,alg,,algo1256,*-piso,PA:1,,,,,,"move without obstruction, glide",,final,AI,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 512,Goddard,IG1980,0144,alg,,algo1256,*-piso,PA:2,,,,,,be tied,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 514,Bloomfield,LB1946,"0091,0109",alg,,algo1256,*-po,PA:1,,,,,,eat; middle reflexive,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,p. 91 defines as 'eat'; p. 109 says middle reflexive,,MAM
@@ -480,8 +478,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 545,Goddard,IG1965,0217,alg,,algo1256,*-ta·hpixkani,PA:6,,,,,,"jaw, chin",,final
 546,Aubin,GA1975a,0184,alg,,algo1256,*-ta·na,PA:2,,,,,,daughter,,medial
 547,Bloomfield,LB1946,0119,alg,,algo1256,*-tala,PA:1,,,,,,NG,,premedial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not clear if this is PA or just in Fox,,MAM
-551,Bloomfield,LB1946,"0104,0117",alg,,algo1256,*-teeh-,PA:1,,,,,,heart,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 550,Bloomfield,LB1946,0109,alg,,algo1256,*-tee,PA:1,,,,,,middle reflexive,,final,II,,,,,,*-so,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+551,Bloomfield,LB1946,"0104,0117",alg,,algo1256,*-teeh-,PA:1,,,,,,heart,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 552,Goddard,IG1990a,0466,alg,,algo1256,*-temp-,PA:6,,,,,,brain,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 553,Goddard,IG1979a,0108,alg,,algo1256,*-temp-,PA:6,,,,,,brain,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In dependent N,,MAM
 554,Aubin,GA1975b,0145,alg,,algo1256,*-tempe:-,PA:4,,,,,,brain,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mc35b.145
@@ -490,8 +488,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 557,Bloomfield,LB1946,"0109,0112",alg,,algo1256,*-too,PA:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,ešihtoo-,,,V,TI,,,LB1946;0108,pyeetoo-,,,,,,,LB1946;0112,kyaatoo-,,,,,hide,,LB1946;0109,,,,,,,,,,,,,,,,,,pseudo-transitive,,MAM
 558,Bloomfield,LB1946,0111,alg,,algo1256,*-too,PA:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"pseudo-transitive. ""Transitive verb finals or instrumentals go in pairs""",,MAM
 559,Bloomfield,LB1946,0112,alg,,algo1256,*-too,PA:1,,,,,,NG,,final,TI,,,B,AI,,,,,,,,,,*pyeetoo-,,,V,TI,,,LB1946;0112,*kyaatoo-,,,V,TI,hide,,LB1946;0109,*naate-,,,V,TI,fetch,,LB1946;0110,,,,,,,,,,,,,,,,,,"pseudo-transitive inanimate. ""Transitive verb finals or instrumentals go in pairs""; ; ""in secondary use it is added to an. intr. stems in -ee; this vowel is replaced in some words by aa, in others by a""; *naate- is ""an odd pseudo-tr. inan.""",,MAM
-562,Bloomfield,LB1946,0106,alg,,algo1256,*-w,PA:1,,,,,,agent,,final,N,,,Y,II,AI,,,,,*-∅-,/ w ___,,,*ni·ki·hekw-∅-,,,N,,,,IG1990a;0473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""freely added to intr. verb stems""",,MAM
 561,Bloomfield,LB1946,"0105,0118",alg,,algo1256,*-w,PA:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+562,Bloomfield,LB1946,0106,alg,,algo1256,*-w,PA:1,,,,,,agent,,final,N,,,Y,II,AI,,,,,*-∅-,/ w ___,,,*ni·ki·hekw-∅-,,,N,,,,IG1990a;0473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""freely added to intr. verb stems""",,MAM
 563,Bloomfield,LB1946,0117,alg,,algo1256,*-w,PA:1,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 564,Bloomfield,LB1946,0121,alg,,algo1256,*-w,PA:1,,,,,,NG,,postradical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*kepw-,,,,,,,,,,,MAM
 565,Goddard,IG1990a,"0463,0473",alg,,algo1256,*-w,PA:6,,,,,,NG,,final,N,,ABSTR,,,,,,,,*-∅-,"/ w, y ___",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -579,18 +577,15 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 655,Aubin,GA1975b,0007,alg,,algo1256,*a-,PA:4,,,,,,to eat,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.119
 656,Hewson,JH_nd-b,0001,alg,,algo1256,*a:č(i),PA:4,,,,,,"permanence, lifestyle",,postinitial
 657,Hewson,JH_nd-b,0002,alg,,algo1256,*a:čyem,PA:4,,,,,,talk,,final,TA,,,,,,,,,*a:čyet
-658,Hewson,JH_nd-b,0002,alg,,algo1256,*a:čyem(w)(i),PA:4,,,,,,talk,,final
 659,Hewson,JH_nd-b,0002,alg,,algo1256,*a:čyet,PA:4,,,,,,talk,,final,TI,,,,,,,,*a:čyem
 660,Hewson,JH_nd-b,0002,alg,,algo1256,*a:h,PA:4,,,,,,move on water,,final,TI,,,,,,,,*a:hw
 661,Hewson,JH_nd-b,0003,alg,,algo1256,*a:hkiw,PA:4,,,,,,hill,,final,N
 662,Aubin,GA1975b,0001,alg,,algo1256,*a:hkw-,PA:4,,,,,,intense,,initial,,,,,,,,,,,,,,,*a:hkw-e:lem-,,,V,TA,have an intense attitude towards,,GA1975b;0001,*a:hkw-e:lent-,,,V,TI,have an intense attitude towards,,GA1975b;0001,*a:hkw-epy-,,,N,,intense liquid,,GA1975b;0001,,,,,,,,,,,,,,,,,,Go65.212; *a:hkw-e:lem- Go65.212; *a:hkw-e:lent- Go65.212; *a:hkw-epy- Go65.212,,MAM
 663,Hewson,JH_nd-b,0004,alg,,algo1256,*a:hpi,PA:4,,,,,,"laugh, play",,final,AI
-664,Hewson,JH_nd-b,0004,alg,,algo1256,*a:htewk(e:),PA:4,,,,,,"tree, wood",,final,N
 665,Hewson,JH_nd-b,0002,alg,,algo1256,*a:hw,PA:4,,,,,,move on water,,final,TA,,,,,,,,,*a:h
 666,Hewson,JH_nd-b,0005,alg,,algo1256,*a:k,PA:4,,,,,,"land, country",,final,N
 667,Aubin,GA1975b,0002,alg,,algo1256,*a:k(a)w-,PA:4,,,,,,"beyond, behind",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.212,,MAM
 668,Hewson,JH_nd-b,0005,alg,,algo1256,*a:kam(y),PA:4,,,,,,water,,medial
-669,Hewson,JH_nd-b,0005,alg,,algo1256,*a:kame:,PA:4,,,,,,water,,medial
 670,Hewson,JH_nd-b,0006,alg,,algo1256,*a:kan(e:),PA:4,,,,,,NG,,final,N
 671,Hewson,JH_nd-b,0006,alg,,algo1256,*a:kem,PA:4,,,,,,snowshoe,,medial
 672,Aubin,GA1975b,0002,alg,,algo1256,*a:kim-,PA:4,,,,,,"snow, white",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bl46.117-8; missing a dash at the beginning?,,MAM
@@ -600,7 +595,6 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 676,Hewson,JH_nd-b,0008,alg,,algo1256,*a:laxkw,PA:4,,,,,,cloud
 677,Hewson,JH_nd-b,0008,alg,,algo1256,*a:lwi(we:),PA:4,,,,,,tail of animal
 678,Aubin,GA1975b,0003,alg,,algo1256,*a:me:-,PA:4,,,,,,to fish,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Sb67b.56; ""verbal""",,MAM
-679,Hewson,JH_nd-b,0008,alg,,algo1256,*a:mehkw,PA:4,,,,,,"earth, soil, ground"
 680,Hewson,JH_nd-b,0009,alg,,algo1256,*a:mo:,PA:4,,,,,,flee,,final,AI
 681,Aubin,GA1975b,0003,alg,,algo1256,*a:mpat-,PA:4,,,,,,cane,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go67b.88,,MAM
 682,Hewson,JH_nd-b,0009,alg,,algo1256,*a:n,PA:4,,,,,,NG,,final,N
@@ -820,8 +814,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 909,Hewson,JH_nd-a,0021,alg,,algo1256,*ans-,PA:6,,,,,,"pile, bundle",,initial
 910,Hewson,JH_nd-b,0047,alg,,algo1256,*ant,PA:4,,,,,,"eat, bite, mouth; see",,final,TI
 911,Hewson,JH_nd-b,0056,alg,,algo1256,*ant,PA:4,,,,,,"eat, strike",,final,TI
-914,Aubin,GA1975b,0012,alg,,algo1256,*ap-,PA:4,,,,,,sit,,initial,,,,,,,,,,,,,,,*api-,,,V,AI,sit,,GA1975b;0012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,He73.157; *api- B146.103
 913,Hewson,JH_nd-a,0022,alg,,algo1256,*ap-,PA:6,,,,,,"braid, weave, tie",,initial
+914,Aubin,GA1975b,0012,alg,,algo1256,*ap-,PA:4,,,,,,sit,,initial,,,,,,,,,,,,,,,*api-,,,V,AI,sit,,GA1975b;0012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,He73.157; *api- B146.103
 915,Hewson,JH_nd-a,0023,alg,,algo1256,*ap(iw)-,PA:6,,,,,,heat,,initial
 916,Hewson,JH_nd-a,0023,alg,,algo1256,*ap(iw)-,PA:6,,,,,,sit,,initial
 917,Hewson,JH_nd-b,0058,alg,,algo1256,*apahk,PA:4,,,,,,wall
@@ -1188,7 +1182,6 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1316,Hewson,JH_nd-a,0070,alg,,algo1256,*kap(e·)-,PA:6,,,,,,pass,,initial
 1317,Aubin,GA1975b,0045,alg,,algo1256,*kape:-,PA:4,,,,,,"for the full duration of, for all the length of; for the duration of, across (time or space)",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.253
 1320,Aubin,GA1975b,0045,alg,,algo1256,*kašk-,PA:4,,,,,,"manage, deal with, can",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.253
-1319,Hewson,JH_nd-a,0070,alg,,algo1256,*kašk-,PA:6,,,,,,"close, manage, control",,initial
 1321,Aubin,GA1975b,0045,alg,,algo1256,*kašk-,PA:4,,,,,,"closed up, blocked",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.253
 1322,Hewson,JH_nd-b,0171,alg,,algo1256,*kašy(e:),PA:4,,,,,,"nails, claws"
 1323,Aubin,GA1975b,0046,alg,,algo1256,*kat-,PA:4,,,,,,negative,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.254
@@ -1206,8 +1199,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1337,Aubin,GA1975b,0048,alg,,algo1256,*ke:hte:-,PA:4,,,,,,old,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.258
 1338,Aubin,GA1975b,0048,alg,,algo1256,*ke:k-,PA:4,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.261
 1339,Aubin,GA1975b,0049,alg,,algo1256,*ke:kya:t-,PA:4,,,,,,"nearly, almost",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.261
-1340,Aubin,GA1975b,0049,alg,,algo1256,*ke:ma:w-,,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.261
-1341,Aubin,GA1975b,0049,alg,,algo1256,*ke:sip-,,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.261
+1340,Aubin,GA1975b,0049,alg,,algo1256,*ke:ma:w-,PA:4,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.261
+1341,Aubin,GA1975b,0049,alg,,algo1256,*ke:sip-,PA:4,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.261
 1342,Aubin,GA1975b,0049,alg,,algo1256,*ke:šk-,PA:4,,,,,,sever,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B125.151
 1343,Hewson,JH_nd-a,0072,alg,,algo1256,*ke·hšawi-,PA:6,,,,,,loose,,initial
 1344,Pentland,DP2005,0327,alg,,algo1256,*ke·hte·-,PA:6,,,,,,old,,initial
@@ -1222,7 +1215,6 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1354,Bloomfield,LB1946,0120,alg,,algo1256,*keeh-,PA:1,,,,,,NG,,initial,Genl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Probably the root for 'additive, limiting'",,MAM
 1355,Aubin,GA1975b,0050,alg,,algo1256,*keHt-,PA:4,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.255
 1356,Hewson,JH_nd-a,0074,alg,,algo1256,*kehtem-,PA:6,,,,,,lazy,,initial
-1357,Pentland,DP2005,0334,alg,,algo1256,*kek-,PA:6,,,,,,having s.t.,,initial
 1358,Hewson,JH_nd-a,0074,alg,,algo1256,*kek-,PA:6,,,,,,have,,initial
 1359,Aubin,GA1975b,0050,alg,,algo1256,*kekye:p-,PA:4,,,,,,absence of a sense,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B125.148
 1360,Hewson,JH_nd-a,0075,alg,,algo1256,*kelaw-,PA:6,,,,,,"lie, speak, talk",,initial
@@ -1303,7 +1295,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1453,Aubin,GA1975b,0069,alg,,algo1256,*ki:šk-,PA:4,,,,,,"cut through, sever",,initial,,,,,,,,,,,,,,,*ki:ška:peθkya:-,,,V,,be a cut-off rock,,GA1975b;0069,*ki:škipot-/*ki:škipo:t-,,,V,,saw,,GA1975b;0071,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120;; *ki:ška:peθkya:- B146.118; *ki:škipot-/*ki:škipo:t- Ho57.264
 1454,Aubin,GA1975b,0071,alg,,algo1256,*ki:t-,PA:4,,,,,,sore,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.264
 1455,Aubin,GA1975b,0071,alg,,algo1256,*ki:w-,PA:4,,,,,,"around, turning, returning",,initial,,,,,,,,,,,,,,,*ki:we:,,,V,AI,return (home),,GA1975b;0072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.264; *ki:we:- Ho57.264
-1456,Aubin,GA1975b,0072,alg,,algo1256,*ki:wa:t-,,,,,,,"around, turning, returning",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,extended form Ho57.264
+1456,Aubin,GA1975b,0072,alg,,algo1256,*ki:wa:t-,PA:4,,,,,,"around, turning, returning",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,extended form Ho57.264
 1457,Hewson,JH_nd-a,0103,alg,,algo1256,*ki·či-,PA:6,,,,,,"sore, sharpen",,initial
 1458,Hewson,JH_nd-a,0092,alg,,algo1256,*ki·hk-,PA:6,,,,,,"berate, injure, spite, suffer",,initial
 1459,Hewson,JH_nd-a,0093,alg,,algo1256,*ki·hsa·či-,PA:6,,,,,,trouble,,initial
@@ -1360,8 +1352,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1514,Aubin,GA1975b,0076,alg,,algo1256,*kosekw-,PA:4,,,,,,heavy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.265
 1515,Aubin,GA1975b,0077,alg,,algo1256,*koškw-,PA:4,,,,,,"start(le), awaken",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.265
 1516,Hewson,JH_nd-b,0181,alg,,algo1256,*kote:,PA:4,,,,,,aloft
-1517,Aubin,GA1975b,0078,alg,,algo1256,*kotekw-,,,,,,,to circle,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ha58.253
-1518,Aubin,GA1975b,0078,alg,,algo1256,*kotekw-,,,,,,,suffer,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.266
+1517,Aubin,GA1975b,0078,alg,,algo1256,*kotekw-,PA:4,,,,,,to circle,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ha58.253
+1518,Aubin,GA1975b,0078,alg,,algo1256,*kotekw-,PA:4,,,,,,suffer,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.266
 1519,Aubin,GA1975b,0076,alg,,algo1256,*koʔ-,PA:4,,,,,,to fear,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120
 1520,Hewson,JH_nd-b,0181,alg,,algo1256,*koθe,PA:4,,,,,,nose
 1521,Aubin,GA1975b,0078,alg,,algo1256,*koθk-,PA:4,,,,,,"turn over, flip over",,initial,,,,,,,,,,,*kohk-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.266
@@ -1628,7 +1620,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1805,Aubin,GA1975b,0096,alg,,algo1256,*na:-,PA:4,,,,,,fetch,,initial,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(TA)' B146.122
 1806,Hewson,JH_nd-b,0193,alg,,algo1256,*na:kw,PA:6,,,,,,"appear, look, be seen",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*naw,*ekw
 1807,Hewson,JH_nd-b,0193,alg,,algo1256,*na:pe,PA:6,,,,,,"initial, man, person"
-1808,Aubin,GA1975b,0096,alg,,algo1256,*na:pe:-,,,,,,,male,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mc35b.135
+1808,Aubin,GA1975b,0096,alg,,algo1256,*na:pe:-,PA:4,,,,,,male,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mc35b.135
 1809,Aubin,GA1975b,0096,alg,,algo1256,*na:t-,PA:4,,,,,,fetch,,initial,,,,,,,,,,,,,,,*na:te-,,,V,AI,fetch,,GA1975b;0096,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,extended root' B146.122; *na:te- B146.115
 1810,Aubin,GA1975b,0096,alg,,algo1256,*na:θ-,PA:4,,,,,,fetch,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(TA)' B146.112
 1811,Hewson,JH_nd-a,0175,alg,,algo1256,*na·či-,PA:6,,,,,,"fetch,seek",,initial
@@ -1689,7 +1681,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1869,Hewson,JH_nd-a,0187,alg,,algo1256,*nehšihke·w-,PA:6,,,,,,alone,,initial
 1870,Pentland,DP2005,0329,alg,,algo1256,*nehta·w-,PA:6,,,,,,"be good at, accustomed to; able, well",,initial
 1872,Hewson,JH_nd-a,0188,alg,,algo1256,*nekamo-,PA:6,,,,,,sing,,initial
-1873,Aubin,GA1975b,0100,,,,*neki-,,,,,,,to shake,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?' Ha58.251
+1873,Aubin,GA1975b,0100,,,,*neki-,PA:4,,,,,,to shake,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,?' Ha58.251
 1874,Hewson,JH_nd-a,0188,alg,,algo1256,*nekikw-,PA:6,,,,,,otter,,initial
 1875,Bloomfield,LB1946,0120,alg,,algo1256,*nekotw-,PA:1,,,,,,one,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 1876,Aubin,GA1975b,0100,alg,,algo1256,*nekotw-,PA:4,,,,,,one,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120
@@ -1760,7 +1752,6 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1941,Hewson,JH_nd-a,0200,alg,,algo1256,*nyi·sa·n-,PA:6,,,,,,dangerous,,initial
 1942,Hewson,JH_nd-a,0201,alg,,algo1256,*nyi·šk-,PA:6,,,,,,"impede, trouble",,initial
 1943,Hewson,JH_nd-b,0199,alg,,algo1256,*o,PA:6,,,,,,middle; do an action,,final,AI,,,Y,TA
-1944,Hewson,JH_nd-b,0198,alg,,algo1256,*o:m,PA:6,,,,,,carry on the back,,final,TA,,,,,,,,,*ont
 1945,Hewson,JH_nd-b,0198,alg,,algo1256,*o:nšye:,PA:6,,,,,,bear offspring
 1946,Hewson,JH_nd-b,0199,alg,,algo1256,*o:te:,PA:6,,,,,,"crawl; household group, dwelling, camp"
 1947,Hewson,JH_nd-b,0199,alg,,algo1256,*o:te:wen,PA:6,,,,,,settlement,,initial
@@ -1986,7 +1977,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 2187,Hewson,JH_nd-a,0263,alg,,algo1256,*šekači-,PA:6,,,,,,"impatient, reckless",,initial
 2188,Hewson,JH_nd-a,0263,alg,,algo1256,*šekat-,PA:6,,,,,,"impatient, reckless",,initial
 2189,Goddard,IG1979a,0119,alg,,algo1256,*šeki-,PA:6,,,,,,urinate,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-2190,Aubin,GA1975b,0138,alg,,algo1256,*sekw-,,,,,,,to spit,,initial,,,,,,,,,,,,,,,*sehkwi,,,V,AI,spit,,GA1975b;0138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S160.236; *sehkw-i- S160.236
+2190,Aubin,GA1975b,0138,alg,,algo1256,*sekw-,PA:4,,,,,,to spit,,initial,,,,,,,,,,,,,,,*sehkwi,,,V,AI,spit,,GA1975b;0138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S160.236; *sehkw-i- S160.236
 2191,Goddard,IG1979a,0117,alg,,algo1256,*šenk-,PA:6,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,might mean 'flat'?,,MAM
 2192,Hewson,JH_nd-a,0263,alg,,algo1256,*šešaw-,PA:6,,,,,,"rub, smear",,initial
 2193,Hewson,JH_nd-a,0257,alg,,algo1256,*seʔsw(e·)-,PA:6,,,,,,"scatter, sprinkle",,initial
