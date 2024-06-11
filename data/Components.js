@@ -436,11 +436,15 @@ export default class Components extends Map {
       bibliography += parsePages(token[cols.pages])
     }
 
+    // Speaker
+    const speaker = token[cols.speaker]
+
     return {
       bibliography,
       form,
       gloss,
       PA,
+      speaker,
       UR,
     }
 
