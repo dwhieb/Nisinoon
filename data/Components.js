@@ -118,6 +118,7 @@ export default class Components extends Map {
     dialect:             `Dialect`,
     finalType:           `Final: secondary (y/n/b)`,
     firstCheck:          `1st check done`,
+    formatives:          `Contains formative (enter)`,
     gloss:               `Translation`,
     Glottocode:          `Glottocode`,
     ID:                  `ID`,
@@ -336,6 +337,11 @@ export default class Components extends Map {
     .map(({ [cols.components]: reference }) => reference)
 
     if (components.length) component.components = components
+
+    const formatives = groupColumns(record, cols.formatives)
+    .map(({ [cols.formatives]: reference }) => reference)
+
+    if (formatives.length) component.formatives = formatives
 
     // Stems
     const stems = groupColumns(
