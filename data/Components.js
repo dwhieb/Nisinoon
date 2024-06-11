@@ -109,7 +109,7 @@ export default class Components extends Map {
     allomorph:           `Allomorph`,
     baseCategory:        `Base Category (if secondary)`,
     componentID:         `Component ID`,
-    components:          `Contains`,
+    components:          `Contains component (enter)`,
     condition:           `Condition`,
     containedIn:         `Formative/component occurs in what component(s)`,
     definition:          `Project Definition`,
@@ -331,6 +331,11 @@ export default class Components extends Map {
     .map(({ [cols.containedIn]: reference }) => reference)
 
     if (containedIn.length) component.containedIn = containedIn
+
+    const components = groupColumns(record, cols.components)
+    .map(({ [cols.components]: reference }) => reference)
+
+    if (components.length) component.components = components
 
     // Stems
     const stems = groupColumns(
