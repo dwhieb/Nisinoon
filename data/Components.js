@@ -352,17 +352,17 @@ export default class Components extends Map {
 
     // Cross-References
     const containedIn = groupColumns(record, cols.containedIn)
-    .map(({ [cols.containedIn]: reference }) => reference)
+    .map(({ [cols.containedIn]: reference }) => orthographies.transliterate(ortho, reference))
 
     if (containedIn.length) component.containedIn = containedIn
 
     const components = groupColumns(record, cols.components)
-    .map(({ [cols.components]: reference }) => reference)
+    .map(({ [cols.components]: reference }) => orthographies.transliterate(ortho, reference))
 
     if (components.length) component.components = components
 
     const formatives = groupColumns(record, cols.formatives)
-    .map(({ [cols.formatives]: reference }) => reference)
+    .map(({ [cols.formatives]: reference }) => orthographies.transliterate(ortho, reference))
 
     if (formatives.length) component.formatives = formatives
 
