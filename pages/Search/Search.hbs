@@ -39,8 +39,9 @@
         <p class=help-text>Click on a form in the table below to view more information about that component.</p>
       </div>
 
-      <div class=results-wrapper>
+      <div aria-labelledby=results-caption class='results-wrapper scroll-shadow' role=region tabindex=0>
         <table class=results>
+          <caption class=visually-hidden id=results-caption><h2>Search Results</h2></caption>
           <thead>
             <tr>
               <th></th>{{!-- Component ID --}}
@@ -51,24 +52,24 @@
               <th></th>{{!-- Project Definition --}}
               <th></th>{{!-- Component Type --}}
               <th></th>{{!-- Subcategory --}}
-              <th class='bb c' colspan=5>Sources</th>{{!-- Token Fields --}}
+              <th class='bb c' colspan=5 scope=col>Sources</th>{{!-- Token Fields --}}
             </tr>
             <tr>
               {{!-- Component Fields --}}
-              <th>ID</th>
-              <th>Language</th>
-              <th>Form</th>
-              <th>UR</th>
-              <th>Proto-Algonquian</th>
-              <th>Definition</th>
-              <th>Type</th>
-              <th>Subcategory</th>
-              {{!-- Token Fields --}}
-              <th>Forms</th>
-              <th>URs</th>
-              <th>Proto-Algonquian</th>
-              <th>Glosses</th>
-              <th>Bibliography</th>
+              <th scope=col>ID</th>
+              <th scope=col>Language</th>
+              <th scope=col>Form</th>
+              <th scope=col>UR</th>
+              <th scope=col>Proto-Algonquian</th>
+              <th scope=col>Definition</th>
+              <th scope=col>Type</th>
+              <th scope=col>Subcategory</th>
+              {{! -- Token Fields --}}
+              <th scope=col>Forms</th>
+              <th scope=col>URs</th>
+              <th scope=col>Proto-Algonquian</th>
+              <th scope=col>Glosses</th>
+              <th scope=col>Bibliography</th>
             </tr>
           </thead>
           <tbody>
