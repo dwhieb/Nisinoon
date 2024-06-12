@@ -287,6 +287,9 @@ export default class Components extends Map {
 
     }
 
+    // Display Form
+    component.displayForm = component.form || component.UR || record[cols.originalOrthography]
+
     // Definition
     component.definition = cleanGloss(record[cols.definition])
 
