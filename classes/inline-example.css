@@ -3,4 +3,5 @@
   display:     inline;
   font-style:  italic;
   user-select: all;
+  word-break:  keep-all;
 }

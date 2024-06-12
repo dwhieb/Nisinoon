@@ -90,8 +90,7 @@ legend {
 }
 
 .page-title {
-  width:      100%;
-  word-break: keep-all;
+  width: 100%;
 }
 
 table {
@@ -111,11 +110,6 @@ table {
 
 .sources th {
   text-align: left;
-}
-
-.stem-form {
-  white-space: nowrap;
-  word-break:  keep-all;
 }
 
 .stems table {

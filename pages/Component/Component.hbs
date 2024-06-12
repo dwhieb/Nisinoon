@@ -10,14 +10,14 @@
       <dl>
 
         <dt>Form</dt>
-        <dd>{{#if form }}{{ form }}{{else}}—{{/if}}</dd>
+        <dd class=txn>{{#if form }}{{ form }}{{else}}—{{/if}}</dd>
 
         <dt>UR</dt>
-        <dd>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</dd>
+        <dd class=txn>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</dd>
 
         {{#unless (is language 'Proto_Algonquian') }}
           <dt>Proto-Algonquian</dt>
-          <dd>{{#if PA }}{{ PA }}{{else}}—{{/if}}</dd>
+          <dd class=txn>{{#if PA }}{{ PA }}{{else}}—{{/if}}</dd>
         {{/unless}}
 
         <dt>Definition</dt>
@@ -56,16 +56,16 @@
       <dl>
 
         <dt>AI</dt>
-        <dd>{{#if matches.AI }}{{ matches.AI }}{{else}}—{{/if}}</dd>
+        <dd class=txn>{{#if matches.AI }}{{ matches.AI }}{{else}}—{{/if}}</dd>
 
         <dt>II</dt>
-        <dd>{{#if matches.II }}{{ matches.II }}{{else}}—{{/if}}</dd>
+        <dd class=txn>{{#if matches.II }}{{ matches.II }}{{else}}—{{/if}}</dd>
 
         <dt>TA</dt>
-        <dd>{{#if matches.TA }}{{ matches.TA }}{{else}}—{{/if}}</dd>
+        <dd class=txn>{{#if matches.TA }}{{ matches.TA }}{{else}}—{{/if}}</dd>
 
         <dt>TI</dt>
-        <dd>{{#if matches.TI }}{{ matches.TI }}{{else}}—{{/if}}</dd>
+        <dd class=txn>{{#if matches.TI }}{{ matches.TI }}{{else}}—{{/if}}</dd>
 
       </dl>
     </fieldset>
@@ -114,7 +114,7 @@
 
         {{#if deverbal }}
           <dt>Deverbal From</dt>
-          <dd>{{#if deverbalFrom }}{{ deverbalFrom }}{{else}}—{{/if}}</dd>
+          <dd class=txn>{{#if deverbalFrom }}{{ deverbalFrom }}{{else}}—{{/if}}</dd>
         {{/if}}
 
       </dl>
@@ -131,7 +131,7 @@
           <tbody>
             {{#each allomorphs }}
               <tr>
-                <td>{{ form }}</td>
+                <td class=txn>{{ form }}</td>
                 <td>{{#if condition }}{{ condition }}{{else}}—{{/if}}</td>
               </tr>
             {{/each}}
@@ -150,7 +150,7 @@
             <dd>
               <ul>
                 {{#each containedIn }}
-                  <li>{{ this }}</li>
+                  <li class=txn>{{ this }}</li>
                 {{/each}}
               </ul>
             </dd>
@@ -161,7 +161,7 @@
             <dd>
               <ul>
                 {{#each components }}
-                  <li>{{ this }}</li>
+                  <li class=txn>{{ this }}</li>
                 {{/each}}
               </ul>
             </dd>
@@ -172,7 +172,7 @@
             <dd>
               <ul>
                 {{#each formatives }}
-                  <li>{{ this }}</li>
+                  <li class=txn>{{ this }}</li>
                 {{/each}}
               </ul>
             </dd>
@@ -204,7 +204,7 @@
           <tbody>
             {{#each stems }}
               <tr>
-                <td class=stem-form>{{ form }}</td>
+                <td class='stem-form txn'>{{ form }}</td>
                 <td class=stem-category>{{#if category }}{{ category }}{{/if}}</td>
                 <td class=stem-subcategory>{{#if subcategory }}{{ subcategory }}{{/if}}</td>
                 <td>{{#if gloss }}‘{{ gloss }}’{{/if}}</td>
@@ -232,10 +232,10 @@
         <tbody>
           {{#each tokens as |token| }}
             <tr>
-              <td>{{ form }}</td>
-              <td>/{{ UR }}/</td>
-              <td>{{ PA }}</td>
-              <td>‘{{ gloss }}’</td>
+              <td class=txn>{{ form }}</td>
+              <td class=txn>{{#if UR }}/{{ UR }}/{{/if}}</td>
+              <td class=txn>{{ PA }}</td>
+              <td>{{#if gloss }}‘{{ gloss }}’{{/if}}</td>
               <td>{{ bibliography }}</td>
               <td>{{ speaker }}</td>
               <td>{{ notes }}</td>
@@ -263,7 +263,7 @@
 
   <section class=citation>
     <h2>How to Cite this Component</h2>
-    <blockquote class=blockquote data-hook=citation><p>Monica Macaulay & Hunter T. Lockwood. {{ meta.releaseYear}}. “{{ component.displayForm }}”. In <cite>Nisinoon: The Algonquian Components Database</cite> v{{ package.version }}. DOI: <a class=link href=https://doi.org/10.5281/zenodo.11459862>10.5281/zenodo.11459862</a>. URL: <a class=link href='https://nisinoon.net{{ url }}'>https://nisinoon.net{{ url }}</a>.</p></blockquote>
+    <blockquote class=blockquote data-hook=citation><p>Monica Macaulay & Hunter T. Lockwood. {{ meta.releaseYear}}. <span class=txn>“{{ component.displayForm }}”</span>. In <cite>Nisinoon: The Algonquian Components Database</cite> v{{ package.version }}. DOI: <a class=link href=https://doi.org/10.5281/zenodo.11459862>10.5281/zenodo.11459862</a>. URL: <a class=link href='https://nisinoon.net{{ url }}'>https://nisinoon.net{{ url }}</a>.</p></blockquote>
     <button class='button copy-citation-button' data-hook=copy-citation type=button>Copy</button>
   </section>
 
