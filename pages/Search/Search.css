@@ -8,8 +8,17 @@
 @import 'pre.css';
 @import 'text-box.css';
 
+/* Utility Classes */
 :root {
   --cell-border: 1px solid #CCC;
+}
+
+.sticky {
+  align-items:     center;
+  inline-size:     calc(100vw - 1em);
+  inset-inline:    0;
+  max-inline-size: calc(100vw - 1em);
+  position:        sticky;
 }
 
 /* Cell-Specific Styles */
@@ -23,16 +32,53 @@
   text-align: center;
 }
 
+/* Multi-Element Styles */
 :is(.form, .PA, .source-forms, .source-PA, .source-URs, .UR) {
   white-space: nowrap;
+}
+
+/* Element-Specific Styles */
+body {
+  inline-size:     fit-content !important;
+  max-inline-size: none;
+  min-inline-size: 100vw;
+  overflow-x:      auto !important;
+}
+
+.citation {
+
+  margin:      0;
+  padding:     1em;
+
+  & blockquote {
+    max-inline-size: 45em;
+  }
+
+}
+
+/* NB: The .sticky class is applied conditionally in the footer Handlebars template. */
+.footer {
+
+  align-self: flex-start;
+  display:    flex;
+
+  > * {
+    max-inline-size: 45em;
+  }
+
 }
 
 h2 {
   text-align: center;
 }
 
+.issue-link {
+  inset-inline-end: 0;
+  position:         sticky;
+}
+
 #main {
-  align-items:     center;
+  align-items:     flex-start;
   align-self:      stretch;
   max-inline-size: 100%;
   padding:         0;
@@ -71,19 +117,19 @@ h2 {
 }
 
 .results-info {
-  margin:          1em;
-  max-inline-size: 30em;
+  padding: 1em;
 }
 
 .results-wrapper {
   inline-size:     100%;
   max-inline-size: 100%;
-  overflow-x:      auto;
 }
 
 search {
-  margin:          1em;
+  display:         flex;
+  flex-direction:  column;
   max-inline-size: 30em;
+  padding:         1em;
 }
 
 .search-controls {
@@ -93,10 +139,15 @@ search {
   justify-content: center;
 }
 
+.search-form {
+  max-inline-size: 30em;
+}
+
 .stats {
 
   display:               grid;
   grid-template-columns: auto auto;
+  justify-content:       center;
 
   * {
     padding: var(--text-padding);

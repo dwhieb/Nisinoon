@@ -6,6 +6,7 @@
   container-type:   inline-size;
   font-size:        1.125em;
   font-weight:      500;
+  inline-size:      100vw; /* Necessary to get sticky positioning of links working correctly. */
 
   & a {
 
@@ -26,6 +27,10 @@
 
   [aria-current] {
     text-decoration: underline;
+  }
+
+  .menu-button {
+    align-self: flex-start;
   }
 
   .menu-icon {

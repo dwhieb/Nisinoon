@@ -1,7 +1,7 @@
 <main class=search-page id=main>
 
-  <search>
-    <form method=get>
+  <search class=sticky>
+    <form class=search-form method=get>
       <label for=search-box>Quick Search</label>
       <div class=search-controls>
         <input
@@ -23,7 +23,7 @@
   </search>
 
   {{#unless results }}
-    <dl class=stats>
+    <dl class='stats sticky'>
       <dt># of languages</dt>
       <dd>{{ numLanguages }}</dd>
       <dt># of components</dt>
@@ -34,7 +34,7 @@
       <p class=no-results>No results found.</p>
     {{else}}
 
-      <div class=results-info>
+      <div class='results-info sticky'>
         <p class=num-results>{{ numResults }} result(s) found.</p>
         <p class=help-text>Click on a form in the table below to view more information about that component.</p>
       </div>
@@ -124,7 +124,7 @@
         </table>
       </div>
 
-      <section class=citation>
+      <section class='citation sticky'>
 
         <h2>How to Cite these Results</h2>
 
