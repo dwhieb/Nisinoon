@@ -1,46 +1,4 @@
-UNMATCHED_COMPONENT-Proto_Algonquian-,UNMATCHED_COMPONENT,Proto_Algonquian: The component ID for token undefined does not exist.
-MISSING_TOKEN-Proto_Algonquian-446,MISSING_TOKEN,Proto_Algonquian: Component 446 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-463,MISSING_TOKEN,Proto_Algonquian: Component 463 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-466,MISSING_TOKEN,Proto_Algonquian: Component 466 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-560,MISSING_TOKEN,Proto_Algonquian: Component 560 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-562,MISSING_TOKEN,Proto_Algonquian: Component 562 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-569,MISSING_TOKEN,Proto_Algonquian: Component 569 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-880,MISSING_TOKEN,Proto_Algonquian: Component 880 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-881,MISSING_TOKEN,Proto_Algonquian: Component 881 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-912,MISSING_TOKEN,Proto_Algonquian: Component 912 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-914,MISSING_TOKEN,Proto_Algonquian: Component 914 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-983,MISSING_TOKEN,Proto_Algonquian: Component 983 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-984,MISSING_TOKEN,Proto_Algonquian: Component 984 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1005,MISSING_TOKEN,Proto_Algonquian: Component 1005 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1006,MISSING_TOKEN,Proto_Algonquian: Component 1006 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1015,MISSING_TOKEN,Proto_Algonquian: Component 1015 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1043,MISSING_TOKEN,Proto_Algonquian: Component 1043 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1044,MISSING_TOKEN,Proto_Algonquian: Component 1044 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1045,MISSING_TOKEN,Proto_Algonquian: Component 1045 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1046,MISSING_TOKEN,Proto_Algonquian: Component 1046 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1047,MISSING_TOKEN,Proto_Algonquian: Component 1047 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1124,MISSING_TOKEN,Proto_Algonquian: Component 1124 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1125,MISSING_TOKEN,Proto_Algonquian: Component 1125 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1126,MISSING_TOKEN,Proto_Algonquian: Component 1126 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1127,MISSING_TOKEN,Proto_Algonquian: Component 1127 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1128,MISSING_TOKEN,Proto_Algonquian: Component 1128 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1129,MISSING_TOKEN,Proto_Algonquian: Component 1129 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1130,MISSING_TOKEN,Proto_Algonquian: Component 1130 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1131,MISSING_TOKEN,Proto_Algonquian: Component 1131 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1169,MISSING_TOKEN,Proto_Algonquian: Component 1169 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1170,MISSING_TOKEN,Proto_Algonquian: Component 1170 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1171,MISSING_TOKEN,Proto_Algonquian: Component 1171 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1271,MISSING_TOKEN,Proto_Algonquian: Component 1271 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1272,MISSING_TOKEN,Proto_Algonquian: Component 1272 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1319,MISSING_TOKEN,Proto_Algonquian: Component 1319 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1320,MISSING_TOKEN,Proto_Algonquian: Component 1320 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1321,MISSING_TOKEN,Proto_Algonquian: Component 1321 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1357,MISSING_TOKEN,Proto_Algonquian: Component 1357 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1358,MISSING_TOKEN,Proto_Algonquian: Component 1358 does not have any tokens.
-MISSING_TOKEN-Proto_Algonquian-1944,MISSING_TOKEN,Proto_Algonquian: Component 1944 does not have any tokens.
-UNMATCHED_COMPONENT-Cree_Atikamekw-281,UNMATCHED_COMPONENT,Cree_Atikamekw: The component ID for token undefined does not exist.
 UNMATCHED_COMPONENT-Cree_Atikamekw-585,UNMATCHED_COMPONENT,Cree_Atikamekw: The component ID for token undefined does not exist.
-UNMATCHED_COMPONENT-Cree_Atikamekw-,UNMATCHED_COMPONENT,Cree_Atikamekw: The component ID for token undefined does not exist.
 UNMATCHED_COMPONENT-Mikmaq-567,UNMATCHED_COMPONENT,Mikmaq: The component ID for token undefined does not exist.
 UNMATCHED_COMPONENT-Potawatomi-,UNMATCHED_COMPONENT,Potawatomi: The component ID for token undefined does not exist.
 MISSING_TOKEN-Potawatomi-284,MISSING_TOKEN,Potawatomi: Component 284 does not have any tokens.
@@ -480,4 +438,3 @@ MISSING_TOKEN-Potawatomi-433,MISSING_TOKEN,Potawatomi: Component 433 does not ha
 MISSING_TOKEN-Potawatomi-434,MISSING_TOKEN,Potawatomi: Component 434 does not have any tokens.
 MISSING_TOKEN-Potawatomi-436,MISSING_TOKEN,Potawatomi: Component 436 does not have any tokens.
 MISSING_TOKEN-Potawatomi-439,MISSING_TOKEN,Potawatomi: Component 439 does not have any tokens.
-MISSING_TOKEN-Proto_Central_Algonquian-212,MISSING_TOKEN,Proto_Central_Algonquian: Component 212 does not have any tokens.
