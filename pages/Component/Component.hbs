@@ -15,8 +15,10 @@
         <dt>UR</dt>
         <dd>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</dd>
 
-        <dt>Proto-Algonquian</dt>
-        <dd>{{#if PA }}{{ PA }}{{else}}—{{/if}}</dd>
+        {{#unless (is language 'Proto_Algonquian') }}
+          <dt>Proto-Algonquian</dt>
+          <dd>{{#if PA }}{{ PA }}{{else}}—{{/if}}</dd>
+        {{/unless}}
 
         <dt>Definition</dt>
         <dd>{{#if definition }}‘{{ definition }}’{{else}}—{{/if}}</dd>
