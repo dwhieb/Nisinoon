@@ -87,6 +87,7 @@ export default class Orthographies extends Map {
 
     const rules = this.get(ortho)
 
+    // Adjust which of these returns is commented out depending on whether you want errors in the output.
     if (!rules) {
       // return `ERROR: Orthography ${ ortho } not recognized.` // Use this for finding missing orthographies.
       return ``

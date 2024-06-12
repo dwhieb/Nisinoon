@@ -13,7 +13,7 @@
         <dd>{{#if form }}{{ form }}{{else}}—{{/if}}</dd>
 
         <dt>UR</dt>
-        <dd>{{#if UR }}{{ UR }}{{else}}—{{/if}}</dd>
+        <dd>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</dd>
 
         <dt>Proto-Algonquian</dt>
         <dd>{{#if PA }}{{ PA }}{{else}}—{{/if}}</dd>
@@ -231,9 +231,9 @@
           {{#each tokens as |token| }}
             <tr>
               <td>{{ form }}</td>
-              <td>{{ UR }}</td>
+              <td>/{{ UR }}/</td>
               <td>{{ PA }}</td>
-              <td>{{ gloss }}</td>
+              <td>‘{{ gloss }}’</td>
               <td>{{ bibliography }}</td>
               <td>{{ speaker }}</td>
               <td>{{ notes }}</td>
