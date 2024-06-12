@@ -21,12 +21,11 @@ export function Component(req, res) {
 
   res.render(`Component/Component`, {
     component,
-    Component:    true,
-    construction: true,
-    json:         JSON.stringify(component, null, 2),
-    pageCSS:      res.app.locals.styles.Component,
-    title:        `${ component.displayLanguage }: ${ component.form }`,
-    url:          req.originalUrl,
+    Component: true,
+    json:      JSON.stringify(component, null, 2),
+    pageCSS:   res.app.locals.styles.Component,
+    title:     `${ component.displayLanguage }: ${ component.form }`,
+    url:       req.originalUrl,
   })
 
 }

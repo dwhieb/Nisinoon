@@ -8,9 +8,6 @@
 @import 'pre.css';
 @import 'text-box.css';
 
-/* Components */
-@import 'construction/construction.css';
-
 :root {
   --cell-border: 1px solid #CCC;
 }
