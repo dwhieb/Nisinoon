@@ -18,10 +18,8 @@ export default class Database {
   }
 
   search(query) {
-
-    query = query.toLowerCase()
-
-    return this.components.filter(function({
+    // NB: Be careful not to alter the original array here.
+    return Array.from(this.components).filter(function({
       definition,
       form,
       PA,
@@ -44,7 +42,6 @@ export default class Database {
         || UR?.toLowerCase().includes(query)
       })
     })
-
   }
 
 }

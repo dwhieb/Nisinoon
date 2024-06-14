@@ -1,0 +1,30 @@
+.pagination {
+
+  & a {
+    padding: var(--text-padding);
+  }
+
+  & li {
+    border:        1px solid #CCC;
+    border-radius: var(--border-radius);
+  }
+
+  & li:has([aria-current]) {
+    background-color: var(--ice-boutique);
+    border-color:     var(--ice-boutique);
+    font-weight:      500;
+  }
+
+  & li:hover:not(:has([aria-current])) {
+    background-color: var(--ice-light);
+  }
+
+  & ol {
+    flex-direction:  row;
+    flex-wrap:       wrap;
+    gap:             0.25em;
+    justify-content: center;
+    padding:         var(--text-padding-lg);
+  }
+
+}
