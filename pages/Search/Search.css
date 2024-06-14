@@ -8,6 +8,9 @@
 @import 'pre.css';
 @import 'text-box.css';
 
+/* Components */
+@import './components/pagination/pagination.css';
+
 /* Utility Classes */
 :root {
   --cell-border: 1px solid #CCC;

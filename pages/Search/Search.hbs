@@ -39,6 +39,8 @@
         <p class=help-text>Click on a form in the table below to view more information about that component.</p>
       </div>
 
+      {{> Search/components/pagination/pagination }}
+
       <div aria-labelledby=results-caption class='results-wrapper scroll-shadow' role=region tabindex=0>
         <table class=results>
           <caption class=visually-hidden id=results-caption><h2>Search Results</h2></caption>
@@ -123,6 +125,8 @@
           </tbody>
         </table>
       </div>
+
+      {{> Search/components/pagination/pagination }}
 
       <section class='citation sticky'>
 
