@@ -43,6 +43,8 @@ export function Search(req, res) {
   const results    = allResults.slice(offset, offset + limit)
   const url        = new URL(req.originalUrl, `${ req.protocol }://${ req.host }`)
 
+  // Pagination
+
   const lastPageOffset = Math.floor(allResults.length / limit) * limit
   const nextPageOffset = Math.min(offset + limit, allResults.length)
   const prevPageOffset = Math.max(offset - limit, 0)
@@ -52,17 +54,44 @@ export function Search(req, res) {
 
   let prevOffset = offset - limit
 
-  while (prevOffset > 0 && prevPages.length <= 5) {
-    prevPages.unshift(changeParam(url, `offset`, prevOffset))
+  while (prevOffset >= 0 && prevPages.length < 5) {
+
+    prevPages.unshift({
+      link:    changeParam(url, `offset`, prevOffset),
+      pageNum: Math.floor(prevOffset / limit) + 1,
+    })
+
     prevOffset -= limit
+
+  }
+
+  const [first] = prevPages
+
+  if (first.pageNum !== 1) {
+    first.jump = true
   }
 
   let nextOffset = offset + limit
 
-  while (nextOffset < allResults.length && nextPages.length <= 5) {
-    nextPages.push(changeParam(url, `offset`, nextOffset))
+  while (nextOffset <= allResults.length && nextPages.length <= 5) {
+
+    nextPages.push({
+      link:    changeParam(url, `offset`, nextOffset),
+      offset:  nextOffset,
+      pageNum: Math.floor(nextOffset / limit) + 1,
+    })
+
     nextOffset += limit
+
   }
+
+  const last = nextPages.at(-1)
+
+  if (last.offset !== lastPageOffset) {
+    last.jump = true
+  }
+
+  // Render page
 
   Object.assign(context, {
     hasResults: true,

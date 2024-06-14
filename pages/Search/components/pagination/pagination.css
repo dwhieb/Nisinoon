@@ -7,10 +7,11 @@
   }
 
   ol {
-    flex-direction: row;
-    flex-wrap:      wrap;
-    gap:            0.25em;
-    padding:        var(--text-padding-lg);
+    flex-direction:  row;
+    flex-wrap:       wrap;
+    gap:             0.25em;
+    justify-content: center;
+    padding:         var(--text-padding-lg);
   }
 
 }

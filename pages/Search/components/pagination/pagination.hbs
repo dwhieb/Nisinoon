@@ -15,12 +15,22 @@
         </a>
       </li>
     {{/unless}}
+    {{#each prevPages }}
+      <li>
+        <a href='{{ link }}'>{{#if jump }}…{{else}}{{ pageNum }}{{/if}}</a>
+      </li>
+    {{/each}}
     <li>
       <a href='{{ url }}'>
         <span aria-hidden=true>{{ currentPage }}</span>
         <span class=visually-hidden>Current Page</span>
       </a>
     </li>
+    {{#each nextPages }}
+      <li>
+        <a href='{{ link }}'>{{#if jump }}…{{else}}{{ pageNum }}{{/if}}</a>
+      </li>
+    {{/each}}
     {{#unless (is endIndex totalResults) }}
       <li>
         <a href='{{ links.nextPage }}'>
