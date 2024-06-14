@@ -22,7 +22,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(search)
       cy.get(`form`).submit()
       cy.get(`#search-box`).should(`have.value`, search)
-      cy.get(`.num-results`).should(`have.text`, `Showing 2 of 2 results.`)
+      cy.get(`.num-results`).should(`have.text`, `Showing results 1–2 of 2.`)
       cy.get(`.results tbody tr`).should(`have.length`, 2)
     })
 
@@ -114,7 +114,7 @@ describe(`Search`, function() {
       cy.get(`.results td`).first().should(`have.text`, 1)
 
       // Showing X of Y results.
-      cy.get(`.num-results`).invoke(`text`).should(`match`, /^Showing 100 of .+? results\.$/v)
+      cy.get(`.num-results`).invoke(`text`).should(`match`, /^Showing results 1–100 of .+?\.$/v)
 
     })
 

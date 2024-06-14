@@ -67,7 +67,7 @@ export function Search(req, res) {
 
   const [first] = prevPages
 
-  if (first.pageNum !== 1) {
+  if (first && first.pageNum !== 1) {
     first.jump = true
   }
 
@@ -87,7 +87,7 @@ export function Search(req, res) {
 
   const last = nextPages.at(-1)
 
-  if (last.offset !== lastPageOffset) {
+  if (last && last.offset !== lastPageOffset) {
     last.jump = true
   }
 
