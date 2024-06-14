@@ -7,31 +7,24 @@ describe(`Search`, function() {
     cy.get(`.results`).should(`not.exist`)
   })
 
-  it(`no results found`, function() {
-    cy.visit(`/search`)
-    cy.get(`#search-box`).type(`bad search`)
-    cy.get(`form`).submit()
-    cy.contains(`.no-results`, `No results found.`)
-  })
-
-  // Long-running test. Loads all results in the database.
-  it.skip(`all results`, function() {
-    cy.visit(`/search`)
-    cy.get(`form`).submit()
-    cy.get(`.results tbody tr`).should(`have.length`, 10)
-  })
-
-  it(`some results + repopulates search box`, function() {
-    const search = `atimw`
-    cy.visit(`/search`)
-    cy.get(`#search-box`).type(search)
-    cy.get(`form`).submit()
-    cy.get(`#search-box`).should(`have.value`, search)
-    cy.get(`.num-results`).should(`include.text`, 2)
-    cy.get(`.results tbody tr`).should(`have.length`, 2)
-  })
-
   describe(`Quick Search`, function() {
+
+    it(`no results found`, function() {
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`bad search`)
+      cy.get(`form`).submit()
+      cy.contains(`.no-results`, `No results found.`)
+    })
+
+    it(`some results + repopulates search box`, function() {
+      const search = `atimw`
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(search)
+      cy.get(`form`).submit()
+      cy.get(`#search-box`).should(`have.value`, search)
+      cy.get(`.num-results`).should(`include.text`, 2)
+      cy.get(`.results tbody tr`).should(`have.length`, 2)
+    })
 
     it(`case insensitive`, function() {
       cy.visit(`/search`)
@@ -103,6 +96,48 @@ describe(`Search`, function() {
       cy.get(`form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
       cy.get(`.results tbody tr`).should(`have.length`, 1)
+    })
+
+  })
+
+  describe.only(`Pagination`, function() {
+
+    it(`defaults`, function() {
+
+      cy.visit(`/search`)
+      cy.get(`form`).submit()
+
+      // Return 100 results by default
+      cy.get(`.results tbody tr`).should(`have.length`, 100)
+
+      // Return first page of results by default
+      cy.get(`.results td`).first().should(`have.text`, 1)
+
+    })
+
+    // NB: Currently testing using querystring.
+    // TODO: Once the "# of Results to Show" dropdown is implemented, test using that instead.
+    it(`limit`, function() {
+      cy.visit(`/search?limit=10&q=`)
+      cy.get(`.results tbody tr`).should(`have.length`, `10`)
+    })
+
+    // NB: Currently testing using querystring.
+    // TODO: Once the "# of Results to Show" dropdown is implemented, test using that instead.
+    // WARNING: Long-running test. Only run as needed.
+    it.skip(`limit: Infinity`, function() {
+      cy.visit(`/search?limit=Infinity&q=`)
+      cy.get(`.results tbody tr`).should(`have.length.of.at.least`, 12000)
+    })
+
+    // NB: Currently testing using querystring
+    // TODO: Once the page links are implemented, test using that instead.
+    it(`offset`, function() {
+      cy.visit(`/search?offset=10&q=`)
+      // NB: The 11th result in the database is currently Eastern Abenaki Component #5.
+      cy.get(`.results td`).first().should(`have.text`, 5)
+      .next()
+      .should(`have.text`, `Eastern Abenaki`)
     })
 
   })
