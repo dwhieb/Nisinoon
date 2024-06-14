@@ -47,18 +47,40 @@ export function Search(req, res) {
   const nextPageOffset = Math.min(offset + limit, allResults.length)
   const prevPageOffset = Math.max(offset - limit, 0)
 
+  const prevPages = []
+  const nextPages = []
+
+  let prevOffset = offset - limit
+
+  while (prevOffset > 0 && prevPages.length <= 5) {
+    prevPages.unshift(changeParam(url, `offset`, prevOffset))
+    prevOffset -= limit
+  }
+
+  let nextOffset = offset + limit
+
+  while (nextOffset < allResults.length && nextPages.length <= 5) {
+    nextPages.push(changeParam(url, `offset`, nextOffset))
+    nextOffset += limit
+  }
+
   Object.assign(context, {
-    endIndex:   Math.min(offset + limit, allResults.length).toLocaleString(),
     hasResults: true,
-    links:      {
-      firstPage: changeParam(url, `offset`, 0),
-      lastPage:  changeParam(url, `offset`, lastPageOffset),
-      nextPage:  changeParam(url, `offset`, nextPageOffset),
-      prevPage:  changeParam(url, `offset`, prevPageOffset),
+    numResults: results.length.toLocaleString(),
+    pagination: {
+      currentPage: Math.floor(offset / limit) + 1,
+      endIndex:    Math.min(offset + limit, allResults.length).toLocaleString(),
+      links:       {
+        firstPage: changeParam(url, `offset`, 0),
+        lastPage:  changeParam(url, `offset`, lastPageOffset),
+        nextPage:  changeParam(url, `offset`, nextPageOffset),
+        prevPage:  changeParam(url, `offset`, prevPageOffset),
+      },
+      nextPages,
+      prevPages,
+      startIndex: (offset + 1).toLocaleString(),
     },
-    numResults:   results.length.toLocaleString(),
     results,
-    startIndex:   (offset + 1).toLocaleString(),
     totalResults: allResults.length.toLocaleString(),
   })
 
