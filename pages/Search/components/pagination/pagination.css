@@ -1,3 +1,5 @@
-.pagination {
-  padding: var(--text-padding-lg);
+.pagination ol {
+  flex-direction: row;
+  flex-wrap:      wrap;
+  padding:        var(--text-padding-lg);
 }

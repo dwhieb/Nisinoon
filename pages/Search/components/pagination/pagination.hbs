@@ -1,3 +1,16 @@
 <nav aria-label=pagination class='pagination sticky'>
-  This is the pagination area.
+  <ol>
+    <li>
+      <a href='{{ links.firstPage }}'>
+        <span aria-hidden=true>«</span>
+        <span class=visually-hidden>First Page</span>
+      </a>
+    </li>
+    <li>
+      <a href='{{ links.lastPage }}'>
+        <span aria-hidden=true>»</span>
+        <span class=visually-hidden>Last Page</span>
+      </a>
+    </li>
+  </ol>
 </nav>

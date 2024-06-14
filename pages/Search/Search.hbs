@@ -30,12 +30,12 @@
       <dd>{{ numComponents }}</dd>
     </dl>
   {{else}}
-    {{#unless components}}
+    {{#unless results }}
       <p class='no-results sticky'>No results found.</p>
     {{else}}
 
       <div class='results-info sticky'>
-        <p class=num-results>Showing {{ resultsShown }} of {{ totalResults }} results.</p>
+        <p class=num-results>Showing results {{ startIndex }}–{{ endIndex }} of {{ totalResults }}.</p>
         <p class=help-text>Click on a form in the table below to view more information about that component.</p>
       </div>
 
@@ -75,7 +75,7 @@
             </tr>
           </thead>
           <tbody>
-            {{#each components as |component| }}
+            {{#each results as |result| }}
               <tr>
                 <td class=component-id>{{ componentID }}</td>
                 <td class=language>{{ displayLanguage }}</td>
