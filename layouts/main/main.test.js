@@ -4,7 +4,7 @@ describe(`App Shell`, function() {
 
     it(`has the current URL`, function() {
       cy.visit(`/research`)
-      cy.get(`.issue-link`)
+      cy.get(`.issue-link a`)
       .should(`have.attr`, `href`)
       .and(`include`, `%2Fresearch`)
     })
