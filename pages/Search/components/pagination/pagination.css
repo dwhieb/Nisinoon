@@ -1,5 +1,16 @@
-.pagination ol {
-  flex-direction: row;
-  flex-wrap:      wrap;
-  padding:        var(--text-padding-lg);
+.pagination {
+
+  li {
+    border:        1px solid #CCC;
+    border-radius: var(--border-radius);
+    padding:       var(--text-padding);
+  }
+
+  ol {
+    flex-direction: row;
+    flex-wrap:      wrap;
+    gap:            0.25em;
+    padding:        var(--text-padding-lg);
+  }
+
 }
