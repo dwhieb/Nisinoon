@@ -27,6 +27,8 @@ export function Search(req, res) {
     return res.render(`Search/Search`, context)
   }
 
+  // NB: offset = # of records to SKIP
+
   let {
     limit = 100,
     offset = 0,
@@ -42,6 +44,8 @@ export function Search(req, res) {
   const url        = new URL(req.originalUrl, `${ req.protocol }://${ req.host }`)
 
   const lastPageOffset = Math.floor(allResults.length / limit) * limit
+  const nextPageOffset = Math.min(offset + limit, allResults.length)
+  const prevPageOffset = Math.max(offset - limit, 0)
 
   Object.assign(context, {
     endIndex:   Math.min(offset + limit, allResults.length).toLocaleString(),
@@ -49,10 +53,12 @@ export function Search(req, res) {
     links:      {
       firstPage: changeParam(url, `offset`, 0),
       lastPage:  changeParam(url, `offset`, lastPageOffset),
+      nextPage:  changeParam(url, `offset`, nextPageOffset),
+      prevPage:  changeParam(url, `offset`, prevPageOffset),
     },
     numResults:   results.length.toLocaleString(),
     results,
-    startIndex:   offset.toLocaleString(),
+    startIndex:   (offset + 1).toLocaleString(),
     totalResults: allResults.length.toLocaleString(),
   })
 

@@ -1,16 +1,32 @@
 <nav aria-label=pagination class='pagination sticky'>
   <ol>
-    <li>
-      <a href='{{ links.firstPage }}'>
-        <span aria-hidden=true>«</span>
-        <span class=visually-hidden>First Page</span>
-      </a>
-    </li>
-    <li>
-      <a href='{{ links.lastPage }}'>
-        <span aria-hidden=true>»</span>
-        <span class=visually-hidden>Last Page</span>
-      </a>
-    </li>
+    {{#unless (is startIndex 1) }}
+      <li>
+        <a href='{{ links.firstPage }}'>
+          <span aria-hidden=true>«</span>
+          <span class=visually-hidden>First Page</span>
+        </a>
+      </li>
+      <li>
+        <a href='{{ links.prevPage }}'>
+          <span aria-hidden=true>‹</span>
+          <span class=visually-hidden>Previous Page</span>
+        </a>
+      </li>
+    {{/unless}}
+    {{#unless (is endIndex totalResults) }}
+      <li>
+        <a href='{{ links.nextPage }}'>
+          <span aria-hidden=true>›</span>
+          <span class=visually-hidden>Next Page</span>
+        </a>
+      </li>
+      <li>
+        <a href='{{ links.lastPage }}'>
+          <span aria-hidden=true>»</span>
+          <span class=visually-hidden>Last Page</span>
+        </a>
+      </li>
+    {{/unless}}
   </ol>
 </nav>
