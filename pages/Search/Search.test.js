@@ -22,7 +22,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(search)
       cy.get(`form`).submit()
       cy.get(`#search-box`).should(`have.value`, search)
-      cy.get(`.num-results`).should(`include.text`, 2)
+      cy.get(`.num-results`).should(`have.text`, `Showing 2 of 2 results.`)
       cy.get(`.results tbody tr`).should(`have.length`, 2)
     })
 
@@ -100,7 +100,7 @@ describe(`Search`, function() {
 
   })
 
-  describe.only(`Pagination`, function() {
+  describe(`Pagination`, function() {
 
     it(`defaults`, function() {
 
@@ -112,6 +112,9 @@ describe(`Search`, function() {
 
       // Return first page of results by default
       cy.get(`.results td`).first().should(`have.text`, 1)
+
+      // Showing X of Y results.
+      cy.get(`.num-results`).invoke(`text`).should(`match`, /^Showing 100 of .+? results\.$/v)
 
     })
 

@@ -25,13 +25,18 @@ export function Search(req, res) {
   offset = Number(offset)
   q      = q.trim().toLowerCase()
 
-  const components = req.app.db.search(q)
-  .slice(offset, offset + limit)
+  let   components   = req.app.db.search(q)
+  const totalResults = components.length.toLocaleString()
+
+  components = components.slice(offset, offset + limit)
+
+  const resultsShown = components.length.toLocaleString()
 
   Object.assign(context, {
     components,
-    numResults: components.length.toLocaleString(),
-    results:    true,
+    hasResults: true,
+    resultsShown,
+    totalResults,
   })
 
   res.render(`Search/Search`, context)

@@ -22,7 +22,7 @@
     </form>
   </search>
 
-  {{#unless results }}
+  {{#unless hasResults }}
     <dl class='stats sticky'>
       <dt># of languages</dt>
       <dd>{{ numLanguages }}</dd>
@@ -31,11 +31,11 @@
     </dl>
   {{else}}
     {{#unless components}}
-      <p class=no-results>No results found.</p>
+      <p class='no-results sticky'>No results found.</p>
     {{else}}
 
       <div class='results-info sticky'>
-        <p class=num-results>{{ numResults }} result(s) found.</p>
+        <p class=num-results>Showing {{ resultsShown }} of {{ totalResults }} results.</p>
         <p class=help-text>Click on a form in the table below to view more information about that component.</p>
       </div>
 
