@@ -1,124 +1,11 @@
 Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Allomorph-B,Condition-B,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Component occurs in stem (orig. orth)-D,Component occurs in stem (proj. orth)-D,Stem UR-D,Stem category-D,Stem subcategory-D,Stem translation-D,Secondary stem-D,Stem Source-D,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
-1,Baraby et al,AMB_ET_AL2002,0002,moe,,mont1268,apishi-,C-I:Standard,,,,,,small,,initial,,,,,,,,,,,,,,apishi-tun-e-,,,V,AI,have a small mouth,,AMB_ET_AL2002;0002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Called a root in the source, ,GVM,MAM
-2,Baraby et al,AMB_ET_AL2002,0002,moe,,mont1268,-tun- ,C-I:Standard,,,,,,mouth,,medial,INCORP,,,,,,,,,,,,,apishi-tun-e-,,,V,AI,have a small mouth,,AMB_ET_AL2002;0002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-2,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-tun- ,C-I:Standard,,,,,,mouth,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Often translated by ""lips"" (lévres) in French", ,GVM,MAM
-3,Baraby et al,AMB_ET_AL2002,"0002,0003",moe,,mont1268,-e ,C-I:Standard,,,,,,NG,,final,,,,,,,,,,,,,,apishi-tun-e-,,,V,AI,have a small mouth,,AMB_ET_AL2002;0002,mamitsh-ashku-puam-e-,,,V,AI,have big thighs,,AMB_ET_AL2002;0002,kanu-ashku-titsh-e-,,,V,AI,have big hands,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,, ,GVM,MAM
-4,Baraby et al,AMB_ET_AL2002,0002,moe,,mont1268,mamitsh-,C-I:Standard,,,,,,big,,initial,,,,,,,,,,,,,,mamitsh-ashku-puam-e-,,,V,AI,have big thighs,,AMB_ET_AL2002;0002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Called a root in the source; double medial, ,GVM,MAM
-6,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-pitun- ,C-I:Standard,,,,,,arm,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-7,Baraby et al,AMB_ET_AL2002,0003,moe,,mont1268,kanu-,C-I:Standard,,,,,,NG,,initial,,,,,,,,,,,,,,kanu-ashku-titsh-e-,,,V,AI,have big hands,,AMB_ET_AL2002;0003,kanu-apetsh-ishit-e-,,,V,AI,have long feet,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,Double medial in example,,,MAM
-8,Baraby et al,AMB_ET_AL2002,"0003,0005",moe,,mont1268,-titsh- ,C-I:Standard,,,,,,hand,,medial,INCORP,,,,,,,,,,,,,kanu-ashku-titsh-e-,,,V,AI,have big hands,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Double medial in example, ,GVM,MAM
-9,Baraby et al,AMB_ET_AL2002,0003,moe,,mont1268,uishau-,C-I:Standard,,,,,,yellow,,initial,,,,,,,,,,,,,,uishau-ashku-apit-e-,,,V,AI,have yellow teeth,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-10,Baraby et al,AMB_ET_AL2002,0003,moe,,mont1269,-apit-,C-I:Standard,,,,,,tooth,,medial,INCORP,,,,,,,,,,,,,uishau-ashku-apit-e-,,,V,AI,have yellow teeth,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM,MAM
-11,Baraby et al,AMB_ET_AL2002,0003,moe,,mont1268,-ishit- ,C-I:Standard,,,,,,foot,,medial,INCORP,,,,,,,,,,,,,kanu-apetsh-ishit-e-,,,V,AI,have long feet,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-13,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-pimiu-,C-I:Revised,,,,,,grease,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-14,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-shkatiku- ,C-I:Standard,,,,,,forehead,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 15,York,FY2010,0070,moe,,mont1268,-pit-,C-I:1,,,,,,signifie que l'action décrite dans l'initiale est faite en tirant quelque chose ou avec des mouvements brusques et rapides,,final,,,,,,,,,,,,,,picite-pit-,,,V,TI,faire de la poussière en courant,,FY2010;0070
-16,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-kash- ,C-I:Standard,,,,,,nail,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nail' as in fingernail, ,GVM,MAM
 17,York,FY2010,"0017,0053,0075,0076",moe,,mont1268,-šk-,C-I:1,,,,,,avec les pieds,,final,TI
-17,Baraby et al,AMB_ET_AL2002,0004,moe,"Western: Betsiamites, Uashat (Sept-Iles)/Maliotenam and Schefferville (Matimekosh)",mont1268,-ssun- ,C-I:Standard,,,,,,nose,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-18,Baraby et al,AMB_ET_AL2002,0004,moe,"Eastern: Lower North Shore communities (Mingan, Natashquan, La Romaine and St-Augustin) and Sheshatshiu (Labrador)",mont1268,-kut- ,C-I:Standard,,,,,,nose,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-19,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-shkassikan- ,C-I:Standard,,,,,,chest,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-21,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-tutsh- ,C-I:Standard,,,,,,ear,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-22,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-apissikan- ,C-I:Standard,,,,,,chin,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-23,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-ap- ,C-I:Standard,,,,,,eye,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Productive; not derived from noun; suppletive, ,GVM,MAM
-24,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-kuei- ,C-I:Standard,,,,,,neck,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-25,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-titiman- ,C-I:Standard,,,,,,shoulder,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-27,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-tushkun-  ,C-I:Standard,,,,,,elbow,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-28,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-shit- ,C-I:Standard,,,,,,foot,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-29,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-shk,C-I:Revised,,,,,,with feet,,final,TI,,CONCR,,,,,,,,,,,ashtue-shk,,,V,TI,to extinguish with feet,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-30,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-tukan- ,C-I:Standard,,,,,,hip,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"From Drapeau 1990: utukan 'tête, col de fémur'", ,GVM,MAM
-31,Baraby et al,AMB_ET_AL2002,0004,moe,"Western: Betsiamites, Uashat (Sept-Iles)/Maliotenam and Schefferville (Matimekosh)",mont1268,-tishi- ,C-I:Standard,,,,,,navel,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-32,Baraby et al,AMB_ET_AL2002,0004,moe,"Eastern: Lower North Shore communities (Mingan, Natashquan, La Romaine and St-Augustin) and Sheshatshiu (Labrador)",mont1268,-tishiap- ,C-I:Standard,,,,,,navel,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-33,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-tshikun- ,C-I:Standard,,,,,,knee,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-34,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-kat- ,C-I:Standard,,,,,,leg,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-35,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-shi,C-I:Revised,,,,,,diminutive,,final,II,,,Y,II,-sh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-36,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-tutan-,C-I:Standard,,,,,,heel,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-37,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-tashtan-,C-I:Standard,,,,,,calf,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-38,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-shetsh-,C-I:Revised,,,,,,cliff,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,compares to N tshissekau 'cliff', 
-39,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-shtikuan- ,C-I:Standard,,,,,,head,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-40,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-pishkueun- ,C-I:Standard,,,,,,hair,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-41,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-tikuai-,C-I:Standard,,,,,,armpit,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-42,Lambert-Bretiere,RLB2020,0102,moe,,mont1268,mashku,C-I:Revised,,,,,,hard,,initial,,,,,,,,,,,,,,mashku-shtikuan-e, ,,V,AI,to be hardheaded,,RLB2020;0102,mashku-e,,,,AI,to be hard,,RLB2020;0102,mashkhu-shtikuan-e-i,,,V,TA,to make someone stubborn,,RLB2020;0103,,,,,,,,,,,,,,, 
-43,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-shkatai- ,C-I:Standard,,,,,,belly,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-44,Lambert-Bretiere,RLB2020,"0102,0107,0108",moe,,mont1268,-e ,C-I:Revised,,,,,,NG,,final,AI,,,,,,,,,,,,,mashku-shtikuan-e , ,,V,AI,to be hardheaded,,RLB2020;0102,mashku-e,,,,AI,to be hard,,RLB2020;0102,mashkhu-shtikuan-e-i,,,V,TA,to make someone stubborn,,RLB2020;0103,nutsh-atshakashu-e,,,V,AI,to hunt mink,RLB2020;0107,,,,,,,, 
-45,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,-i,C-I:Revised,,,,,,causative,,final,TA,,,Y,AI,,,,,,,,,mashkhu-shtikuan-e-i,,,V,TA,to make someone stubborn,,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"L-B lists as ""radical""", 
-46,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,nip,C-I:Revised,,,,,,die,,initial,,,,,,,,,,,,,,nip-i,,,V,AI,to be dead,,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-47,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,-i,C-I:Revised,,,,,,NG,,final,AI,,,,,,,,,,,,,nip-i,,,V,AI,to be dead,,RLB2020;0103,itash-i,,,V,AI,"to be so many, to be numerous",,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,, 
-48,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,ut,C-I:Revised,,,,,,take,,initial,,,,,,,,,,,,,,ut-in,,,V,TA,to take something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-49,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,-in,C-I:Revised,,,,,,NG,,final,TA,,,,,,,,,,,,,ut-in,,,V,TA,to take something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-50,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,pita,C-I:Revised,,,,,,thin,,initial,,,,,,,,,,,,,,pita-u,,,V,TA,to thin something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-51,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,-u,C-I:Revised,,,,,,NG,,final,TA,,,,,,,,,,,,,pita-u,,,V,TA,to thin something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-52,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,itash,C-I:Revised,,,,,,numerous,,initial,,,,,,,,,,,,,,itash-i,,,V,AI,"to be so many, to be numerous",,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-53,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,nimitauessetshi,C-I:Revised,,,,,,toward middle marsh,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,L-B treats as adv, 
-54,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-pata,C-I:Revised,,,,,,running,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-55,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-u,C-I:Revised,,,,,,be,,final,AI,,,Y,N,,-u,,,,,,,auass-u,,,V,AI,to be young,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-56,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-i,C-I:Revised,,,,,,NG,,final,TA,,,,,,,,,,,,,nipa-i,,,V,TA,to kill,,RLB2020;0104,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,, 
-57,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-ue,C-I:Revised,,,,,,antip.,,final,II,,,Y,TA,-ue,,,,,,,,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-58,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-ue,C-I:Revised,,,,,,antip.,,final,AI,,,Y,TA,,-ue,,,,,,,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-59,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-u,C-I:Revised,,,,,,be,,final,II,,,Y,N,-u,,,,,,,,kun-u,,,V,II,to be snow,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-60,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-sham,C-I:Revised,,,,,,snowshoe,,medial,GENERIC,,,,,,,,,,,,,piku-sham-e,,,V,AI,to be broken snowshoes,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-61,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,atuss,C-I:Revised,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"used in ""'he works' [process]""", 
-62,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,takushi,C-I:Revised,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"used in ""'he arrives' [event]""", 
-63,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,nip,C-I:Revised,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"used in ""'he dreams [state]'""", 
-64,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-e ,C-I:Revised,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-65,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-n,C-I:Revised,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-66,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-67,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,apa,C-I:Revised,,,,,,melt,,initial,,,,,,,,,,,,,,apa-shu,,,V,AI,he melts,,RLB2020;0105,,apa-te,,V,II,it melts,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,, 
-68,Lambert-Bretiere,RLB2020,0102,moe,,mont1268,-shtikuan,C-I:Revised,,,,,,head,,medial,,,,,,,,,,,,,,mashku-shtikuan-e, ,,V,AI,to be hardheaded,,RLB2020;0102,mashkhu-shtikuan-e-i,,,,TA,to make someone stubborn,,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,, 
-69,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-te,C-I:Revised,,,,,,by heat,,final,II,,CONCR,,,-shu,,,,,,,,apa-te ,,,V,II,it melts,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-70,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,uishtimu,C-I:Revised,,,,,,dog,,initial,,,,,,,,,,,,,,uishtimu-kan ,,,V,II,it smells like a dog,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-71,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-kan,C-I:Revised,,,,,,smell like,,final,II,,CONCR,,,,,,,,,,,uishtimu-kan ,,,V,II,it smells like a dog,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-72,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,kuishku,C-I:Revised,,,,,,straight,,initial,,,,,,,,,,,,,,kuishku-kute,,,V,AI,he is suspended straight,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-73,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-kute,C-I:Revised,,,,,,suspended,,final,AI,,CONCR,,,,,,,,,,,kuishku-kute,,,V,AI,he is suspended straight,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-74,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,ashtue,C-I:Revised,,,,,,extinguish,,initial,,,,,,,,,,,,,,ashtue-shk,,,V,TI,to extinguish with feet,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-75,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-shikakun- ,C-I:Standard,,,,,,back of the knee,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-76,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,shakutsh,C-I:Revised,,,,,,split,,initial,,,,,,,,,,,,,,shakutsh-ikau,,,V,TA,to split with an ax,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-77,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-ikau,C-I:Revised,,,,,,with ax,,final,TA,,CONCR,,,,,,,,,,,shakutsh-ikau,,,V,TA,to split with an ax,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-78,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,nipa,C-I:Revised,,,,,,by night,,initial,,,,,,,,,,,,,,nipa-pic-i,,,V,AI,to travel by night dragging a sleigh,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-79,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-pic,C-I:Revised,,,,,,dragging a sleigh,,final,,,CONCR,,,,,,,,,,,nipa-pic-i,,,V,AI,to travel by night dragging a sleigh,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-80,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-i,C-I:Revised,,,,,,NG,,final,AI,,ABSTR,,,,,,,,,,,nipa-pic-i,,,V,AI,to travel by night dragging a sleigh,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-81,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,akun,C-I:Revised,,,,,,cover,,initial,,,,,,,,,,,,,,akun-u,,,V,TA,to cover with instrument,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 81,York,FY2010,0017,moe,,mont1268,akun-,C-I:1,,,,,,couvrir,,initial
-82,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-u,C-I:Revised,,,,,,with instrument,,final,TA,,,,,,,,-ai,,,,,akun-u,,,V,TA,to cover with instrument,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"L-B treats final as portmanteau concrete+abstract""", 
-83,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,minueńit,C-I:Revised,,,,,,like,,initial,,,,,,,,,,,,,,minueńit-a,,,V,TI,to like,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-84,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,TI,,,,,,,,,,,,,minueńit-a,,,V,TI,to like,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 85,York,FY2010,0053,moe,,mont1268,-šec-,C-I:1,,,,,,escarpement,,medial
-86,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-amesh-,C-I:Revised,,,,,,fish,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-87,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-mesh-,C-I:Revised,,,,,,fish,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-88,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-pim-,C-I:Revised,,,,,,grease,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 89,York,FY2010,"0005,0059,0060,0072",moe,,mont1268,-pici-,C-I:1,,,,,,en traînant un toboggan,,final,AI
-90,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,tshinu,C-I:Revised,,,,,,long,,initial,,,,,,,,,,,,,,tshinu-apek-an,,,V,II,to be stringlike-long,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-91,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-apek,C-I:Revised,,,,,,stringlike,,medial,CLASS,,,,,,,,,,,,,tshinu-apek-an,,,V,II,to be stringlike-long,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-91,Baraby et al,AMB_ET_AL2002,0003,moe,,mont1268,-apek- ,C-I:Standard,,,,,,threadlike,,medial,CLASS,,,,,,,,,-apetsh-,,,,kanu-apetsh-ishit-e-,,,V,AI,have long feet,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: guessing that this is an allomorph; probably conditioned by following palatal?, ,GVM,MAM
-92,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-an,C-I:Revised,,,,,,NG,,final,II,,,,,,,,,,,,,tshinu-apek-an,,,V,II,to be stringlike-long,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-93,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,mitshim,C-I:Revised,,,,,,hold,,initial,,,,,,,,,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-94,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-apishk,C-I:Revised,,,,,,mineral,,medial,CLASS,,,,,,,,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-95,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-ai,C-I:Revised,,,,,,with instrument,,final,TI,,,,,,,-u,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-96,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,natuai,C-I:Revised,,,,,,split,,initial,,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-97,Lambert-Bretiere,RLB2020,"0107,0108",moe,,mont1268,-ashku,C-I:Revised,,,,,,long rigid,,medial,CLASS,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 108, ex (37): first of two medials", 
-97,Baraby et al,AMB_ET_AL2002,0002,moe,,mont1268,-ashku- ,C-I:Standard,,,,,,"something long, round, wooden, solid",,medial,CLASS,,,,,,,,,,,,,mamitsh-ashku-puam-e-,,,V,AI,have big thighs,,AMB_ET_AL2002;0002,kanu-ashku-titsh-e-,,,V,AI,have big hands,,AMB_ET_AL2002;0003,uishau-ashku-apit-e-,,,V,AI,have yellow teeth,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,Double medial in example, ,GVM,MAM
-98,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-tita,C-I:Revised,,,,,,by movement,,final,AI,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"marked as AIT; in [[natuai-ashku-tita]-pan] ushtashk, ""he has split the handle of his ax""; in abbreviations footnote she says: AIT: animate intransitive-transitive inanimate", 
-99,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,mish,C-I:Revised,,,,,,big,,initial,,,,,,,,,,,,,,mish-ipe-a,,,V,II,to be a high level of liquid,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-100,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-ipe,C-I:Revised,,,,,,flowing liquid,,medial,CLASS,,,,,,,,,,,,,mish-ipe-a,,,V,II,to be a high level of liquid,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-101,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,II,,,,,,,,,,,,,mish-ipe-a,,,V,II,to be a high level of liquid,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-102,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-sh,C-I:Revised,,,,,,diminutive,,final,AI,,,Y,TI,,-shi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-103,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-pemak-,C-I:Revised,,,,,,leaf,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,compares to N nipish 'leaf', 
-104,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,kushiku,C-I:Revised,,,,,,heavy,,initial,,,,,,,,,,,,,,kushiku-akunatsh-ish,,,V,AI,to be snow-heavy,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-105,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-akunatsh,C-I:Revised,,,,,,snow,,medial,GENERIC,,,,,,,,,,,,,kushiku-akunatsh-ish,,,V,AI,to be snow-heavy,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-106,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-ish,C-I:Revised,,,,,,NG,,final,AI,,,,,,,,,,,,,kushiku-akunatsh-ish,,,V,AI,to be snow-heavy,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-107,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,nutsh,C-I:Revised,,,,,,hunt,,initial,,,,,,,,,,,,,,nutsh-atshakashu-e,,,V,AI,to hunt mink,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-108,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-atshakashu,C-I:Revised,,,,,,mink,,medial,GENERIC,,,,,,,,,,,,,nutsh-atshakashu-e,,,V,AI,to hunt mink,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-109,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,shishu,C-I:Revised,,,,,,cover with,,initial,,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-110,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-ńushkuauatsh,C-I:Revised,,,,,,flour,,medial,GENERIC,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-111,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-in,C-I:Revised,,,,,,by hand,,final,TA,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-112,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,matape,C-I:Revised,,,,,,arrive,,initial,,,,,,,,,,,,,,matape-ssek-ai,,,V,TI,to arrive at the marsh on foot,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 113,York,FY2010,"0063,0064,0065,0074",moe,,mont1268,-šin-,C-I:1,,,,,,"au contact, d'un objet, d'une surface",,final,AI,,,,,,-tin-,,,,,,,pašt-âpec-i-šin-,,,V,,être étendu en travers d'un objet long et vertical,,FY2010;0064,âštanitâci-šin-,,,V,AI,s'approcher couché,,FY2010;0064,naškwe-šin-,,,V,AI,"effleurer un objet en tombant, en se frappant, au passage",,FY2010;0065,âmacwe-šk-,,,V,TI,gravir la pente à pied,,FY2010;0063
-113,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-ssek,C-I:Revised,,,,,,marsh,,medial,GENERIC,,,,,,,,,,,,,matape-ssek-ai,,,V,TI,to arrive at the marsh on foot,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-114,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-ai,C-I:Revised,,,,,,by foot,,final,TI,,,,,,,,,,,,,matape-ssek-ai,,,V,TI,to arrive at the marsh on foot,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-115,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,piku,C-I:Revised,,,,,,break,,initial,,,,,,,,,,,,,,piku-sham-e,,,V,AI,to be broken snowshoes,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 116,York,FY2010,"0075,0078",moe,,mont1268,-šek-,C-I:1,,,,,,escarpement rocheux,,medial
-117,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,uak,C-I:Revised,,,,,,bend,,initial,,,,,,,,,,,,,,,,,V,AI,to be crooked fingers,uak-ashku-titsh-e,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-118,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-titsh,C-I:Revised,,,,,,hand,,medial,GENERIC,,,,,,,,,,,,,,,,V,AI,to be crooked fingers,uak-ashku-titsh-e,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 108, ex (37): second of two medials", 
 119,Drapeau,LD2011a,"0059,0061",moe,,mont1268,-ttaw,C-I:1,,,,,,applicative,,final,TA,,,Y,AI,,,,-ttam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,multiple roles (other than those above), 
 120,Drapeau,LD2011a,"0059,0061",moe,,mont1268,-ttam,C-I:1,,,,,,applicative,,final,TI,,,Y,AI,,,-ttaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,multiple roles (other than those above), 
 121,Drapeau,LD2011a,0061,moe,,mont1268,-aw,C-I:1,,,,,,applicative,,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beneficiary, 
@@ -175,48 +62,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 173,Drapeau,LD2011b,0510,moe,,mont1268,-âkan,C-I:1,,,,,,patientive nominal,,final,AI,,,,,,-kan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"LD: ""Note that Western dialects of Cree have different forms for passives of transitives (see Dahlstrom 1991, Wolfart 1991)"""
 174,Drapeau,LD2011b,0510,moe,,mont1268,-kan,C-I:1,,,,,,patientive nominal,,final,TI,,,,,,,-âkan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"LD: ""Note that Western dialects of Cree have different forms for passives of transitives (see Dahlstrom 1991, Wolfart 1991)"""
 175,Junker,MOJ2003a,0326,moe,,mont1268,-u,C-I:1,,,,,,REL,,final,TA,,,Y,,,,,,,,,,,,,V,TA,happy (in relation to),minuenitam-u-,MOJ2003a;0326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,relational
-176,Drapeau,LD1980,"0315,0316",moe,,mont1268,pisti-,C-I:2,,,,,,par erreur,by mistake,initial,,,,,,,,,,,,,,pisti-pali-,,,V,V,move by accident (bouge par mégarde),,LD1980;0316,pisti-puta·-,,,V,TI,saw something by mistake (scie qque chose par erreur),,LD1980;0316,pisti-pat-a·-,,,V,V,go the wrong way (se trompe de route),,LD1980;0319,pisti-pal-i-,,,V,V,move by mistake (bouge par mégarde),,LD1980;0319,,,,,,In French.,,MAM
-177,Drapeau,LD1980,0315,moe,,mont1268,-pali-,C-I:2,,,,,,par le mouvement,by movement,final,V,,,,,,,,,,,,,pisti-pali-,,,V,V,move by accident (bouge par mégarde),,LD1980;0316,,,,V,V,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 178,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-ppun-,C-I:1,,,,,,"year, winter",,medial
-179,Drapeau,LD1980,0317,moe,,mont1268,pal,C-I:2,,,,,,bouge,move,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pal-i-,,,V,V,move straight (bouge droit),,LD1980;0317,pisti-pal-i-,,,V,V,move by mistake (bouge par mégarde),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-180,Drapeau,LD1980,0317,moe,,mont1268,ka·p,C-I:2,,,,,,debout,stand,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-ka·p-u·,,,V,V,stand straight (droit debout),,LD1980;0317,pisti-ka·p-u·-,,,V,V,stand (self) by mistake (se met debout par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-181,Drapeau,LD1980,0317,moe,,mont1268,ap,C-I:2,,,,,,assis,sit,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-ap-i,,,V,V,sit straight (droit assis),,LD1980;0317,pisti-ap-i-,,,V,V,sit by mistake (assis par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-182,Drapeau,LD1980,0317,moe,,mont1268,šin,C-I:2,,,,,,étendu,extend,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-šin,,,V,V,extend straight (droit étendu),,LD1980;0317,pisti-šin-,,,V,V,extend by mistake (étendu par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-183,Drapeau,LD1980,0317,moe,,mont1268,st,C-I:2,,,,,,placé,place,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-st-e·,,,V,V,place right (placé droit),,LD1980;0317,pisti-št-a·-,,,V,V,place by mistake (placé par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-184,Drapeau,LD1980,0317,moe,,mont1268,am,C-I:2,,,,,,installé,install,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-am-u,,,V,V,install right (installé droit),,LD1980;0317,pisti-am-u-,,,V,V,install by mistake (installé par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-185,Drapeau,LD1980,0317,moe,,mont1268,pat,C-I:2,,,,,,motorisé,motorize,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pat-a·,,,V,V,motorize right (motorisé droit),,LD1980;0317,pisti-pat-a·-,,,V,V,go the wrong way (se trompe de route),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-186,Drapeau,LD1980,0317,moe,,mont1268,kaš,C-I:2,,,,,,cuit,cook,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-kaš-i,,,V,V,cook right (cuit droit),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-187,Drapeau,LD1980,0317,moe,,mont1268,t,C-I:2,,,,,,marche,walk/work,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-t-e·,,,V,V,walk straight (marche droit),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-188,Drapeau,LD1980,0317,moe,,mont1268,pats·,C-I:2,,,,,,en tobaganne,by toboggan,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pats·i,,,V,V,go in toboggan (va droit en tobaganne),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-189,Drapeau,LD1980,0317,moe,,mont1268,ku,C-I:2,,,,,,suspend,hang,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-ku-ta·,,,V,V,hang right (suspend qqch droit),,LD1980;0317,pisti-ku-ta·-,,,V,V,hang by mistake (suspend par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-190,Drapeau,LD1980,0317,moe,,mont1268,pu,C-I:2,,,,,,scie,saw,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pu-ta·,,,V,V,saw something right (scie qqch droit),,LD1980;0317,pisti-pu-ta·-,,,V,V,saw by mistake (scie par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-191,Drapeau,LD1980,0317,moe,,mont1268,i,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-pal-i-,,,V,V,move straight (bouge droit),,LD1980;0317,kwi·šku-kaš-i,,,V,V,cook right (cuit droit),,LD1980;0317,kwi·šku-pats·i,,,V,V,go in toboggan (va droit en tobaganne),,LD1980;0317,kwi·šku-ap-i,,,V,V,sit straight (droit assis),,LD1980;0317,,,,,,In French.,,MAM
-192,Drapeau,LD1980,0317,moe,,mont1268,u·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-ka·p-u·,,,V,V,stand straight (droit debout),,LD1980;0317,pisti-ka·p-u·-,,,V,V,stand (self) by mistake (se met debout par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-193,Drapeau,LD1980,0317,moe,,mont1268,e·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-st-e·,,,V,V,place right (placé droit),,LD1980;0317,kwi·šku-t-e·,,,V,V,walk straight (marche droit),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-194,Drapeau,LD1980,0317,moe,,mont1268,u,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-am-u,,,V,V,install right (installé droit),,LD1980;0317,pisti-am-u-,,,V,V,install by error (installé par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-195,Drapeau,LD1980,0317,moe,,mont1268,a·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-pat-a·,,,V,V,motorize right (motorisé droit),,LD1980;0317,pisti-pat-a·-,,,V,V,go the wrong way (se trompe de route),,LD1980;0319,pisti-št-a·-,,,V,V,place by mistake (placé par erreur),,LD1980;0319,,,,,,,,,,,,,,In French.,,MAM
-196,Drapeau,LD1980,0317,moe,,mont1268,ta·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-ku-ta·,,,V,V,hang right (suspend qqch droit),,LD1980;0317,kwi·šku-pu-ta·,,,V,V,saw something right (scie qqch droit),,LD1980;0317,pisti-pu-ta·-,,,V,V,saw by mistake (scie par erreur),,LD1980;0319,pisti-ku-ta·-,,,V,V,hang by mistake (suspend par erreur),,LD1980;0319,,,,,,In French.,,MAM
-197,Drapeau,LD1980,0318,moe,,mont1268,a·pika·t,C-I:2,,,,,,attache,attach,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-a·pika·t-am,,,V,V,attach right (attache qqch droit),,LD1980;0318,pisti-a·pika·t-am-,,,V,V,attach by mistake (attache par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-198,Drapeau,LD1980,0318,moe,,mont1268,kwa·t,C-I:2,,,,,,coud,sew,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-kwa·t-am,,,V,V,sew something right (coud qqch droit),,LD1980;0318,pisti-kwa·t-am-,,,V,V,sew by mistake (coud par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-199,Drapeau,LD1980,0318,moe,,mont1268,kut,C-I:2,,,,,,dole au couteau croche,dole out with tongs,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-kut-am,,,V,V,dole out right with tongs (dole qqch droit au couteau croche),,LD1980;0318,pisti-kut-am-,,,V,V,dole out with tongs by mistake (dole au couteau croche par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-200,Drapeau,LD1980,0318,moe,,mont1268,š,C-I:2,,,,,,coupe,cut,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-š-am,,,V,V,cut something right (coupe qqch droit),,LD1980;0318,pisti-š-am-,,,V,V,cut by mistake (coupe par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-201,Drapeau,LD1980,0318,moe,,mont1268,am,C-I:2,,,,,,NG,NG,final,V,,ABSTR,,,,,,,,,,,kwi·šku-a·pika·t-am,,,V,V,attach right (attache qqch droit),,LD1980;0318,kwi·šku-kwa·t-am-,,,V,V,sew something right (coud qqch droit),,LD1980;0318,kwi·šku-kut-am,,,V,,dole out right with tongs (dole qqch droit au couteau croche),,LD1980;0318,kwi·šku-š-am,,,V,,cut something right (coupe qqch droit),,LD1980;0318,,,,,,In French; Looks like LD is saying this is incompatible with 3s inflection,,MAM
-203,Drapeau,LD1980,0319,moe,,mont1268,a·y-,C-I:2,,,,,,disposé dans l'espace,arranged in space,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-204,Drapeau,LD1980,0319,moe,,mont1268,ast-,C-I:2,,,,,,placé,"place, put",final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-205,Drapeau,LD1980,0319,moe,,mont1268,a·w-,C-I:2,,,,,,emporte quelque chose,take something away,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-206,Drapeau,LD1980,0319,moe,,mont1268,a·st-,C-I:2,,,,,,emporté par le vent,take away by wind,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-207,Drapeau,LD1980,0319,moe,,mont1268,kai-,C-I:2,,,,,,hache,chop,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-208,Drapeau,LD1980,0319,moe,,mont1268,pimi-,C-I:2,,,,,,"croche, en biais","crooked, angled",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-209,Drapeau,LD1980,0319,moe,,mont1268,matsi-,C-I:2,,,,,,"mal, mauvais","bad, evil",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-210,Drapeau,LD1980,0319,moe,,mont1268,na·ku,C-I:2,,,,,,a l'air,have an air or aura,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-211,Drapeau,LD1980,0319,moe,,mont1268,špuku,C-I:2,,,,,,goûte,taste,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-212,Drapeau,LD1980,0319,moe,,mont1268,a·spi,C-I:2,,,,,,habillé,be dressed,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-213,Drapeau,LD1980,0320,moe,,mont1268,kwa·m,C-I:2,,,,,,dort,sleep,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-214,Drapeau,LD1980,0320,moe,,mont1268,eye·sku-,C-I:2,,,,,,être fatigué,to be tired,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-215,Drapeau,LD1980,0320,moe,,mont1268,ta·ku,C-I:2,,,,,,la voix,voice,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-216,Drapeau,LD1980,0320,moe,,mont1268,wa·wa·tsi-,C-I:2,,,,,,tout de travers,"all directions, every which way",initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-217,Drapeau,LD1980,0320,moe,,mont1268,stai,C-I:2,,,,,,coud qqch en place,sew something into place,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-219,Drapeau,LD1980,0320,moe,,mont1268,aku,C-I:2,,,,,,suspend,hang,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
 220,Brittain & Acton,JB_SA2014,0475,moe,,mont1268,-pan,C-I:1,,,,*-pali,,move,,final,II
 221,Brittain & Acton,JB_SA2014,0475,moe,,mont1268,-pan,C-I:1,,,,*-pali,,move,,final,AI
 222,Drapeau & Lambert-Bretiere,LD_RLB2011,"0293,0296,0300,0305",moe,,mont1268,-(â)kam-,C-I:1,,,,,,enclosed liquid,,medial,CLASS
@@ -243,8 +89,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 241,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-assêkw-,C-I:1,,,,,,muskeg,,medial
 242,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-âcikw-,C-I:1,,,,,,otter,,medial
 243,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-aštimw-,C-I:1,,,,,,dog,,medial
-244,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-pitun- ,C-I:Standard,,,,,,arm,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-245,Baraby et al,AMB_ET_AL2002,"0002,0004",moe,,mont1268,-puam- ,C-I:Standard,,,,,,thigh,,medial,INCORP,,,,,,,,,,,,,mamitsh-ashku-puam-e-,,,V,AI,have big thighs,,AMB_ET_AL2002;0002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Double medial in example, ,GVM,MAM
 246,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-(â)ssû-,C-I:1,,,,,,viscous,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 318: ""Could also be considered a verbal classifier. HOwever, it is not included in our count because of its obvious phonological relation to the noun -ašassu- 'mud'"" "
 247,York,FY2013,n/a,moe,,mont1268,âkaw,C-I:1,,,,,,behind,,initial
 247,York,FY2010,0087,moe,,mont1268,âkaw-,C-I:1,,,,,,derrière,,initial
@@ -274,7 +118,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 267,York,FY2010,"0011,0051,0052,0082",moe,,mont1268,-â-,C-I:1,,,,,,réfère à differents états spaciaux,,final,,,ABSTR
 268,York,FY2010,0011,moe,,mont1268,-an-,C-I:1,,,,,,réfère à differents états non spaciaux,,final,,,ABSTR
 269,York,FY2010,0013,moe,,mont1268,alakassi-,C-I:1,,,,,,large,,initial
-270,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-shukun- ,C-I:Standard,,,,,,hip,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 270,Drapeau,LD2011b,0504,moe,,mont1268,šikw-,C-I:1,,,,,,ice,,medial
 271,York,FY2010,"0013,0014,0017,0074",moe,,mont1268,-ay-,C-I:1,,,,,,"avec un coup, avec un instrument",,final,TI,,CONCR,,,-ay-,,-w-
 272,York,FY2010,0014,moe,,mont1268,âyâkatw-,C-I:1,,,,,,bouger,,initial
@@ -307,7 +150,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 300,York,FY2010,"0052,0058,0064",moe,,mont1268,-âpuku-,C-I:1,,,,,,force du courant,,final,AI,,,,,,-âputê-
 301,York,FY2010,"0052,0060,0063,0087",moe,,mont1268,atim-,C-I:1,,,,,,en sens inverse,,initial,,,,,,,,,,,,,,atim-i-škâ-,,,V,AI,s'éloigne en canot,,FY2010;0060,atim-i-pali-,,,V,AI,"s'éloigne au vol, en embarcation, aɛ moteur, à la nage sous l'eau",,Fy2010;0064,atim-api-,,,V,AI,être assis le dos tourné,,FY2010;0069
 302,York,FY2010,"0052,0072,0078",moe,,mont1268,-ay-,C-I:1,,,,,,en franchissant,,final,TI,,,,,,,,,,,,,šâk-âškw-ay-,,,V,TI,sortir du bois,,FY2010;0073,nâtakâm-essek-ay-,,,V,TI,"se diriger de la savane, de la tourbière vers la forêt",,FY2010;0073,nimitâw-ey-âwk-ay-,,,V,TI,s'éloigner de la forêt en direction du large en marchant sur le sable,,FY2010;0074
-303,Drapeau,LD1980,0315,moe,,mont1268,-puta·-,C-I:2,,,,,,scie qque chose,saw something,final,V,,,,,,,,,,,,,pisti-puta·-,,,V,TI,saw something by mistake (scie qque chose par erreur),,LD1980;0316,,,,V,V,,,,,,,,,,,,,,,,,,,,,,,,,"In French; marked as ""complex final""",,MAM
 304,York,FY2010,0053,moe,,mont1268,-pali-,C-I:1,,,,,,mouvement continue,,final,AI
 305,York,FY2010,0053,moe,,mont1268,-pali-,C-I:1,,,,,,mouvement continue,,final,II
 306,York,FY2010,0053,moe,,mont1268,atimati-,C-I:1,,,,,,en sense inverse,,initial,,Y
@@ -364,7 +206,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 361,York,FY2010,0066,moe,,mont1268,-âpa-,C-I:1,,,,,,"par la chaleur, en brûlant",,final,II,,,,,-âpas-
 362,York,FY2010,0066,moe,,mont1268,-âsu-,C-I:1,,,,,,avec/par le vent,,final,AI,,,,,,-âstin-,,,,,,,pâšk-a-tâwk-âšu-,,,V,AI,être complètement déterré par le vent,,FY2010;0066,wemâ-y-âšu-,,,V,AI,être emporté au-delà d'un point par le vent,,FY2010;0066
 363,York,FY2010,"0066,0071",moe,,mont1268,-âstin-,C-I:1,,,,,,avec/par le vent,,final,II,,,,,-âsu-,,,,,,,,pît-âkune-y-âštan-,,,V,II,la neige pénètre avec le vent,,FY2010;0071
-367,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-pishkun- ,C-I:Standard,,,,,,back,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 368,York,FY2010,0070,moe,,mont1268,-n-,C-I:1,,,,,,"réfère à une action effectuée à l'aide des mains ou, par extension, à l'aide des pattes pour les animaux dans des verbs de mouvement libre",,final,,,,,,,,,,,,,,mwešt-na-,,,V,TI,arriver trop tard pour avoir qqch,,FY2010;0071
 369,York,FY2010,0071,moe,,mont1268,-m-,C-I:1,,,,,,"en parlant, avec la voix",,final
 370,York,FY2010,0071,moe,,mont1268,-aštâ-,C-I:1,,,,,,en posant les pieds de telle fac̹on,,final
@@ -376,7 +217,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 375,York,FY2010,"0075,0078",moe,,mont1268,-assu-,C-I:1,,,,,,vase,,medial
 376,York,FY2010,"0075,0078",moe,,mont1268,-âwk-,C-I:1,,,,,,montagne,,medial
 377,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-pwâm(e)-,C-I:1,,,,,,thigh,,medial
-378,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-shu,C-I:Revised,,,,,,by heat,,final,AI,,CONCR,,,,-te,,,,,,,apa-shu ,,,V,AI,he melts,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 379,York,FY2010,0078,moe,,mont1268,-atâwk-,C-I:1,,,,,,NG,,medial
 380,York,FY2010,"0080,0086,0104",moe,,mont1268,pim-,C-I:1,,,,,,mouvement non-orienté,,final
 381,York,FY2010,0081,moe,,mont1268,papâm-,C-I:1,,,,,,mouvement non-orienté,,final,,Y
@@ -433,6 +273,50 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 434,York,FY2010,0093,moe,,mont1268,pîw-,C-I:1,,,,,,épars,,initial
 435,York,FY2010,0097,moe,,mont1268,nâci-,C-I:1,,,,,,aller vers (quelque part/qqch),,initial
 436,York,FY2010,"0097,0107",moe,,mont1268,-kâpû-,C-I:1,,,,,,posture,,final
+176,Drapeau,LD1980,"0315,0316",moe,,mont1268,pisti-,C-I:2,,,,,,par erreur,by mistake,initial,,,,,,,,,,,,,,pisti-pali-,,,V,V,move by accident (bouge par mégarde),,LD1980;0316,pisti-puta·-,,,V,TI,saw something by mistake (scie qque chose par erreur),,LD1980;0316,pisti-pat-a·-,,,V,V,go the wrong way (se trompe de route),,LD1980;0319,pisti-pal-i-,,,V,V,move by mistake (bouge par mégarde),,LD1980;0319,,,,,,In French.,,MAM
+177,Drapeau,LD1980,0315,moe,,mont1268,-pali-,C-I:2,,,,,,par le mouvement,by movement,final,V,,,,,,,,,,,,,pisti-pali-,,,V,V,move by accident (bouge par mégarde),,LD1980;0316,,,,V,V,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+179,Drapeau,LD1980,0317,moe,,mont1268,pal,C-I:2,,,,,,bouge,move,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pal-i-,,,V,V,move straight (bouge droit),,LD1980;0317,pisti-pal-i-,,,V,V,move by mistake (bouge par mégarde),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+180,Drapeau,LD1980,0317,moe,,mont1268,ka·p,C-I:2,,,,,,debout,stand,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-ka·p-u·,,,V,V,stand straight (droit debout),,LD1980;0317,pisti-ka·p-u·-,,,V,V,stand (self) by mistake (se met debout par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+181,Drapeau,LD1980,0317,moe,,mont1268,ap,C-I:2,,,,,,assis,sit,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-ap-i,,,V,V,sit straight (droit assis),,LD1980;0317,pisti-ap-i-,,,V,V,sit by mistake (assis par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+182,Drapeau,LD1980,0317,moe,,mont1268,šin,C-I:2,,,,,,étendu,extend,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-šin,,,V,V,extend straight (droit étendu),,LD1980;0317,pisti-šin-,,,V,V,extend by mistake (étendu par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+183,Drapeau,LD1980,0317,moe,,mont1268,st,C-I:2,,,,,,placé,place,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-st-e·,,,V,V,place right (placé droit),,LD1980;0317,pisti-št-a·-,,,V,V,place by mistake (placé par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+184,Drapeau,LD1980,0317,moe,,mont1268,am,C-I:2,,,,,,installé,install,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-am-u,,,V,V,install right (installé droit),,LD1980;0317,pisti-am-u-,,,V,V,install by mistake (installé par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+185,Drapeau,LD1980,0317,moe,,mont1268,pat,C-I:2,,,,,,motorisé,motorize,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pat-a·,,,V,V,motorize right (motorisé droit),,LD1980;0317,pisti-pat-a·-,,,V,V,go the wrong way (se trompe de route),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+186,Drapeau,LD1980,0317,moe,,mont1268,kaš,C-I:2,,,,,,cuit,cook,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-kaš-i,,,V,V,cook right (cuit droit),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+187,Drapeau,LD1980,0317,moe,,mont1268,t,C-I:2,,,,,,marche,walk/work,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-t-e·,,,V,V,walk straight (marche droit),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+188,Drapeau,LD1980,0317,moe,,mont1268,pats·,C-I:2,,,,,,en tobaganne,by toboggan,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pats·i,,,V,V,go in toboggan (va droit en tobaganne),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+189,Drapeau,LD1980,0317,moe,,mont1268,ku,C-I:2,,,,,,suspend,hang,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-ku-ta·,,,V,V,hang right (suspend qqch droit),,LD1980;0317,pisti-ku-ta·-,,,V,V,hang by mistake (suspend par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+190,Drapeau,LD1980,0317,moe,,mont1268,pu,C-I:2,,,,,,scie,saw,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pu-ta·,,,V,V,saw something right (scie qqch droit),,LD1980;0317,pisti-pu-ta·-,,,V,V,saw by mistake (scie par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+191,Drapeau,LD1980,0317,moe,,mont1268,i,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-pal-i-,,,V,V,move straight (bouge droit),,LD1980;0317,kwi·šku-kaš-i,,,V,V,cook right (cuit droit),,LD1980;0317,kwi·šku-pats·i,,,V,V,go in toboggan (va droit en tobaganne),,LD1980;0317,kwi·šku-ap-i,,,V,V,sit straight (droit assis),,LD1980;0317,,,,,,In French.,,MAM
+192,Drapeau,LD1980,0317,moe,,mont1268,u·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-ka·p-u·,,,V,V,stand straight (droit debout),,LD1980;0317,pisti-ka·p-u·-,,,V,V,stand (self) by mistake (se met debout par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+193,Drapeau,LD1980,0317,moe,,mont1268,e·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-st-e·,,,V,V,place right (placé droit),,LD1980;0317,kwi·šku-t-e·,,,V,V,walk straight (marche droit),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+194,Drapeau,LD1980,0317,moe,,mont1268,u,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-am-u,,,V,V,install right (installé droit),,LD1980;0317,pisti-am-u-,,,V,V,install by error (installé par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+195,Drapeau,LD1980,0317,moe,,mont1268,a·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-pat-a·,,,V,V,motorize right (motorisé droit),,LD1980;0317,pisti-pat-a·-,,,V,V,go the wrong way (se trompe de route),,LD1980;0319,pisti-št-a·-,,,V,V,place by mistake (placé par erreur),,LD1980;0319,,,,,,,,,,,,,,In French.,,MAM
+196,Drapeau,LD1980,0317,moe,,mont1268,ta·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-ku-ta·,,,V,V,hang right (suspend qqch droit),,LD1980;0317,kwi·šku-pu-ta·,,,V,V,saw something right (scie qqch droit),,LD1980;0317,pisti-pu-ta·-,,,V,V,saw by mistake (scie par erreur),,LD1980;0319,pisti-ku-ta·-,,,V,V,hang by mistake (suspend par erreur),,LD1980;0319,,,,,,In French.,,MAM
+197,Drapeau,LD1980,0318,moe,,mont1268,a·pika·t,C-I:2,,,,,,attache,attach,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-a·pika·t-am,,,V,V,attach right (attache qqch droit),,LD1980;0318,pisti-a·pika·t-am-,,,V,V,attach by mistake (attache par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+198,Drapeau,LD1980,0318,moe,,mont1268,kwa·t,C-I:2,,,,,,coud,sew,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-kwa·t-am,,,V,V,sew something right (coud qqch droit),,LD1980;0318,pisti-kwa·t-am-,,,V,V,sew by mistake (coud par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+199,Drapeau,LD1980,0318,moe,,mont1268,kut,C-I:2,,,,,,dole au couteau croche,dole out with tongs,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-kut-am,,,V,V,dole out right with tongs (dole qqch droit au couteau croche),,LD1980;0318,pisti-kut-am-,,,V,V,dole out with tongs by mistake (dole au couteau croche par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+200,Drapeau,LD1980,0318,moe,,mont1268,š,C-I:2,,,,,,coupe,cut,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-š-am,,,V,V,cut something right (coupe qqch droit),,LD1980;0318,pisti-š-am-,,,V,V,cut by mistake (coupe par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+201,Drapeau,LD1980,0318,moe,,mont1268,am,C-I:2,,,,,,NG,NG,final,V,,ABSTR,,,,,,,,,,,kwi·šku-a·pika·t-am,,,V,V,attach right (attache qqch droit),,LD1980;0318,kwi·šku-kwa·t-am-,,,V,V,sew something right (coud qqch droit),,LD1980;0318,kwi·šku-kut-am,,,V,,dole out right with tongs (dole qqch droit au couteau croche),,LD1980;0318,kwi·šku-š-am,,,V,,cut something right (coupe qqch droit),,LD1980;0318,,,,,,In French; Looks like LD is saying this is incompatible with 3s inflection,,MAM
+203,Drapeau,LD1980,0319,moe,,mont1268,a·y-,C-I:2,,,,,,disposé dans l'espace,arranged in space,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+204,Drapeau,LD1980,0319,moe,,mont1268,ast-,C-I:2,,,,,,placé,"place, put",final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+205,Drapeau,LD1980,0319,moe,,mont1268,a·w-,C-I:2,,,,,,emporte quelque chose,take something away,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+206,Drapeau,LD1980,0319,moe,,mont1268,a·st-,C-I:2,,,,,,emporté par le vent,take away by wind,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+207,Drapeau,LD1980,0319,moe,,mont1268,kai-,C-I:2,,,,,,hache,chop,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+208,Drapeau,LD1980,0319,moe,,mont1268,pimi-,C-I:2,,,,,,"croche, en biais","crooked, angled",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+209,Drapeau,LD1980,0319,moe,,mont1268,matsi-,C-I:2,,,,,,"mal, mauvais","bad, evil",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+210,Drapeau,LD1980,0319,moe,,mont1268,na·ku,C-I:2,,,,,,a l'air,have an air or aura,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+211,Drapeau,LD1980,0319,moe,,mont1268,špuku,C-I:2,,,,,,goûte,taste,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+212,Drapeau,LD1980,0319,moe,,mont1268,a·spi,C-I:2,,,,,,habillé,be dressed,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+213,Drapeau,LD1980,0320,moe,,mont1268,kwa·m,C-I:2,,,,,,dort,sleep,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+214,Drapeau,LD1980,0320,moe,,mont1268,eye·sku-,C-I:2,,,,,,être fatigué,to be tired,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+215,Drapeau,LD1980,0320,moe,,mont1268,ta·ku,C-I:2,,,,,,la voix,voice,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+216,Drapeau,LD1980,0320,moe,,mont1268,wa·wa·tsi-,C-I:2,,,,,,tout de travers,"all directions, every which way",initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+217,Drapeau,LD1980,0320,moe,,mont1268,stai,C-I:2,,,,,,coud qqch en place,sew something into place,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+219,Drapeau,LD1980,0320,moe,,mont1268,aku,C-I:2,,,,,,suspend,hang,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+303,Drapeau,LD1980,0315,moe,,mont1268,-puta·-,C-I:2,,,,,,scie qque chose,saw something,final,V,,,,,,,,,,,,,pisti-puta·-,,,V,TI,saw something by mistake (scie qque chose par erreur),,LD1980;0316,,,,V,V,,,,,,,,,,,,,,,,,,,,,,,,,"In French; marked as ""complex final""",,MAM
+218,Drapeau,LD1980,0320,moe,,mont1268,tsukù,C-I:2,,,,,,coule,flow,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
+218,Drapeau,LD1980,0319,moe,,mont1268,tsuku·-,C-I:2,,,,,,coule,flow,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 437,Denny,JPD1974,0339,moe,,mont1268,a·,C-I:3,,,,,,"extrinsic property, stative",,premedial,,,,,,,,,,ya·
 438,Denny,JPD1974,0340,moe,,mont1268,kam,C-I:3,,,,,,liquid,,medial
 439,Denny,JPD1974,0340,moe,,mont1268,a·,C-I:3,,,,,,NG,,final,II
@@ -454,5 +338,121 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 455,Denny,JPD1974,0342,moe,,mont1268,ši·t,C-I:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"VMN: likely means ""tight distribution"""
 456,Denny,JPD1974,0342,moe,,mont1268,a·škw,C-I:3,,,,,,"trunks, limbs of trees or animals",,medial
 457,Denny,JPD1974,0342,moe,,mont1268,e·,C-I:3,,,,,,process,,premedial
-218,Drapeau,LD1980,0320,moe,,mont1268,tsukù,C-I:2,,,,,,coule,flow,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-218,Drapeau,LD1980,0319,moe,,mont1268,tsuku·-,C-I:2,,,,,,coule,flow,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+13,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-pimiu-,C-I:Revised,,,,,,grease,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+29,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-shk,C-I:Revised,,,,,,with feet,,final,TI,,CONCR,,,,,,,,,,,ashtue-shk,,,V,TI,to extinguish with feet,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+35,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-shi,C-I:Revised,,,,,,diminutive,,final,II,,,Y,II,-sh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+38,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-shetsh-,C-I:Revised,,,,,,cliff,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,compares to N tshissekau 'cliff', 
+42,Lambert-Bretiere,RLB2020,0102,moe,,mont1268,mashku,C-I:Revised,,,,,,hard,,initial,,,,,,,,,,,,,,mashku-shtikuan-e, ,,V,AI,to be hardheaded,,RLB2020;0102,mashku-e,,,,AI,to be hard,,RLB2020;0102,mashkhu-shtikuan-e-i,,,V,TA,to make someone stubborn,,RLB2020;0103,,,,,,,,,,,,,,, 
+44,Lambert-Bretiere,RLB2020,"0102,0107,0108",moe,,mont1268,-e ,C-I:Revised,,,,,,NG,,final,AI,,,,,,,,,,,,,mashku-shtikuan-e , ,,V,AI,to be hardheaded,,RLB2020;0102,mashku-e,,,,AI,to be hard,,RLB2020;0102,mashkhu-shtikuan-e-i,,,V,TA,to make someone stubborn,,RLB2020;0103,nutsh-atshakashu-e,,,V,AI,to hunt mink,RLB2020;0107,,,,,,,, 
+45,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,-i,C-I:Revised,,,,,,causative,,final,TA,,,Y,AI,,,,,,,,,mashkhu-shtikuan-e-i,,,V,TA,to make someone stubborn,,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"L-B lists as ""radical""", 
+46,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,nip,C-I:Revised,,,,,,die,,initial,,,,,,,,,,,,,,nip-i,,,V,AI,to be dead,,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+47,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,-i,C-I:Revised,,,,,,NG,,final,AI,,,,,,,,,,,,,nip-i,,,V,AI,to be dead,,RLB2020;0103,itash-i,,,V,AI,"to be so many, to be numerous",,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,, 
+48,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,ut,C-I:Revised,,,,,,take,,initial,,,,,,,,,,,,,,ut-in,,,V,TA,to take something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+49,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,-in,C-I:Revised,,,,,,NG,,final,TA,,,,,,,,,,,,,ut-in,,,V,TA,to take something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+50,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,pita,C-I:Revised,,,,,,thin,,initial,,,,,,,,,,,,,,pita-u,,,V,TA,to thin something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+51,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,-u,C-I:Revised,,,,,,NG,,final,TA,,,,,,,,,,,,,pita-u,,,V,TA,to thin something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+52,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,itash,C-I:Revised,,,,,,numerous,,initial,,,,,,,,,,,,,,itash-i,,,V,AI,"to be so many, to be numerous",,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+53,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,nimitauessetshi,C-I:Revised,,,,,,toward middle marsh,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,L-B treats as adv, 
+54,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-pata,C-I:Revised,,,,,,running,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+55,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-u,C-I:Revised,,,,,,be,,final,AI,,,Y,N,,-u,,,,,,,auass-u,,,V,AI,to be young,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+56,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-i,C-I:Revised,,,,,,NG,,final,TA,,,,,,,,,,,,,nipa-i,,,V,TA,to kill,,RLB2020;0104,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,, 
+57,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-ue,C-I:Revised,,,,,,antip.,,final,II,,,Y,TA,-ue,,,,,,,,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+58,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-ue,C-I:Revised,,,,,,antip.,,final,AI,,,Y,TA,,-ue,,,,,,,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+59,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-u,C-I:Revised,,,,,,be,,final,II,,,Y,N,-u,,,,,,,,kun-u,,,V,II,to be snow,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+60,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-sham,C-I:Revised,,,,,,snowshoe,,medial,GENERIC,,,,,,,,,,,,,piku-sham-e,,,V,AI,to be broken snowshoes,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+61,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,atuss,C-I:Revised,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"used in ""'he works' [process]""", 
+62,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,takushi,C-I:Revised,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"used in ""'he arrives' [event]""", 
+63,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,nip,C-I:Revised,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"used in ""'he dreams [state]'""", 
+64,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-e ,C-I:Revised,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+65,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-n,C-I:Revised,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+66,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+67,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,apa,C-I:Revised,,,,,,melt,,initial,,,,,,,,,,,,,,apa-shu,,,V,AI,he melts,,RLB2020;0105,,apa-te,,V,II,it melts,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,, 
+68,Lambert-Bretiere,RLB2020,0102,moe,,mont1268,-shtikuan,C-I:Revised,,,,,,head,,medial,,,,,,,,,,,,,,mashku-shtikuan-e, ,,V,AI,to be hardheaded,,RLB2020;0102,mashkhu-shtikuan-e-i,,,,TA,to make someone stubborn,,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,, 
+69,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-te,C-I:Revised,,,,,,by heat,,final,II,,CONCR,,,-shu,,,,,,,,apa-te ,,,V,II,it melts,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+70,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,uishtimu,C-I:Revised,,,,,,dog,,initial,,,,,,,,,,,,,,uishtimu-kan ,,,V,II,it smells like a dog,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+71,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-kan,C-I:Revised,,,,,,smell like,,final,II,,CONCR,,,,,,,,,,,uishtimu-kan ,,,V,II,it smells like a dog,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+72,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,kuishku,C-I:Revised,,,,,,straight,,initial,,,,,,,,,,,,,,kuishku-kute,,,V,AI,he is suspended straight,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+73,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-kute,C-I:Revised,,,,,,suspended,,final,AI,,CONCR,,,,,,,,,,,kuishku-kute,,,V,AI,he is suspended straight,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+74,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,ashtue,C-I:Revised,,,,,,extinguish,,initial,,,,,,,,,,,,,,ashtue-shk,,,V,TI,to extinguish with feet,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+76,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,shakutsh,C-I:Revised,,,,,,split,,initial,,,,,,,,,,,,,,shakutsh-ikau,,,V,TA,to split with an ax,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+77,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-ikau,C-I:Revised,,,,,,with ax,,final,TA,,CONCR,,,,,,,,,,,shakutsh-ikau,,,V,TA,to split with an ax,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+78,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,nipa,C-I:Revised,,,,,,by night,,initial,,,,,,,,,,,,,,nipa-pic-i,,,V,AI,to travel by night dragging a sleigh,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+79,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-pic,C-I:Revised,,,,,,dragging a sleigh,,final,,,CONCR,,,,,,,,,,,nipa-pic-i,,,V,AI,to travel by night dragging a sleigh,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+80,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-i,C-I:Revised,,,,,,NG,,final,AI,,ABSTR,,,,,,,,,,,nipa-pic-i,,,V,AI,to travel by night dragging a sleigh,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+81,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,akun,C-I:Revised,,,,,,cover,,initial,,,,,,,,,,,,,,akun-u,,,V,TA,to cover with instrument,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+82,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-u,C-I:Revised,,,,,,with instrument,,final,TA,,,,,,,,-ai,,,,,akun-u,,,V,TA,to cover with instrument,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"L-B treats final as portmanteau concrete+abstract""", 
+83,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,minueńit,C-I:Revised,,,,,,like,,initial,,,,,,,,,,,,,,minueńit-a,,,V,TI,to like,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+84,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,TI,,,,,,,,,,,,,minueńit-a,,,V,TI,to like,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+86,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-amesh-,C-I:Revised,,,,,,fish,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+87,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-mesh-,C-I:Revised,,,,,,fish,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+88,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-pim-,C-I:Revised,,,,,,grease,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+90,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,tshinu,C-I:Revised,,,,,,long,,initial,,,,,,,,,,,,,,tshinu-apek-an,,,V,II,to be stringlike-long,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+91,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-apek,C-I:Revised,,,,,,stringlike,,medial,CLASS,,,,,,,,,,,,,tshinu-apek-an,,,V,II,to be stringlike-long,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+92,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-an,C-I:Revised,,,,,,NG,,final,II,,,,,,,,,,,,,tshinu-apek-an,,,V,II,to be stringlike-long,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+93,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,mitshim,C-I:Revised,,,,,,hold,,initial,,,,,,,,,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+94,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-apishk,C-I:Revised,,,,,,mineral,,medial,CLASS,,,,,,,,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+95,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-ai,C-I:Revised,,,,,,with instrument,,final,TI,,,,,,,-u,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+96,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,natuai,C-I:Revised,,,,,,split,,initial,,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+97,Lambert-Bretiere,RLB2020,"0107,0108",moe,,mont1268,-ashku,C-I:Revised,,,,,,long rigid,,medial,CLASS,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 108, ex (37): first of two medials", 
+98,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-tita,C-I:Revised,,,,,,by movement,,final,AI,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"marked as AIT; in [[natuai-ashku-tita]-pan] ushtashk, ""he has split the handle of his ax""; in abbreviations footnote she says: AIT: animate intransitive-transitive inanimate", 
+99,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,mish,C-I:Revised,,,,,,big,,initial,,,,,,,,,,,,,,mish-ipe-a,,,V,II,to be a high level of liquid,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+100,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-ipe,C-I:Revised,,,,,,flowing liquid,,medial,CLASS,,,,,,,,,,,,,mish-ipe-a,,,V,II,to be a high level of liquid,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+101,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,II,,,,,,,,,,,,,mish-ipe-a,,,V,II,to be a high level of liquid,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+102,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-sh,C-I:Revised,,,,,,diminutive,,final,AI,,,Y,TI,,-shi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+103,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-pemak-,C-I:Revised,,,,,,leaf,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,compares to N nipish 'leaf', 
+104,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,kushiku,C-I:Revised,,,,,,heavy,,initial,,,,,,,,,,,,,,kushiku-akunatsh-ish,,,V,AI,to be snow-heavy,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+105,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-akunatsh,C-I:Revised,,,,,,snow,,medial,GENERIC,,,,,,,,,,,,,kushiku-akunatsh-ish,,,V,AI,to be snow-heavy,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+106,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-ish,C-I:Revised,,,,,,NG,,final,AI,,,,,,,,,,,,,kushiku-akunatsh-ish,,,V,AI,to be snow-heavy,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+107,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,nutsh,C-I:Revised,,,,,,hunt,,initial,,,,,,,,,,,,,,nutsh-atshakashu-e,,,V,AI,to hunt mink,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+108,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-atshakashu,C-I:Revised,,,,,,mink,,medial,GENERIC,,,,,,,,,,,,,nutsh-atshakashu-e,,,V,AI,to hunt mink,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+109,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,shishu,C-I:Revised,,,,,,cover with,,initial,,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+110,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-ńushkuauatsh,C-I:Revised,,,,,,flour,,medial,GENERIC,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+111,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-in,C-I:Revised,,,,,,by hand,,final,TA,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+112,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,matape,C-I:Revised,,,,,,arrive,,initial,,,,,,,,,,,,,,matape-ssek-ai,,,V,TI,to arrive at the marsh on foot,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+113,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-ssek,C-I:Revised,,,,,,marsh,,medial,GENERIC,,,,,,,,,,,,,matape-ssek-ai,,,V,TI,to arrive at the marsh on foot,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+114,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-ai,C-I:Revised,,,,,,by foot,,final,TI,,,,,,,,,,,,,matape-ssek-ai,,,V,TI,to arrive at the marsh on foot,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+115,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,piku,C-I:Revised,,,,,,break,,initial,,,,,,,,,,,,,,piku-sham-e,,,V,AI,to be broken snowshoes,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+117,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,uak,C-I:Revised,,,,,,bend,,initial,,,,,,,,,,,,,,,,,V,AI,to be crooked fingers,uak-ashku-titsh-e,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+118,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-titsh,C-I:Revised,,,,,,hand,,medial,GENERIC,,,,,,,,,,,,,,,,V,AI,to be crooked fingers,uak-ashku-titsh-e,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 108, ex (37): second of two medials", 
+378,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-shu,C-I:Revised,,,,,,by heat,,final,AI,,CONCR,,,,-te,,,,,,,apa-shu ,,,V,AI,he melts,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+1,Baraby et al,AMB_ET_AL2002,0002,moe,,mont1268,apishi-,C-I:Standard,,,,,,small,,initial,,,,,,,,,,,,,,apishi-tun-e-,,,V,AI,have a small mouth,,AMB_ET_AL2002;0002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Called a root in the source, ,GVM,MAM
+2,Baraby et al,AMB_ET_AL2002,0002,moe,,mont1268,-tun- ,C-I:Standard,,,,,,mouth,,medial,INCORP,,,,,,,,,,,,,apishi-tun-e-,,,V,AI,have a small mouth,,AMB_ET_AL2002;0002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+2,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-tun- ,C-I:Standard,,,,,,mouth,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Often translated by ""lips"" (lévres) in French", ,GVM,MAM
+3,Baraby et al,AMB_ET_AL2002,"0002,0003",moe,,mont1268,-e ,C-I:Standard,,,,,,NG,,final,,,,,,,,,,,,,,apishi-tun-e-,,,V,AI,have a small mouth,,AMB_ET_AL2002;0002,mamitsh-ashku-puam-e-,,,V,AI,have big thighs,,AMB_ET_AL2002;0002,kanu-ashku-titsh-e-,,,V,AI,have big hands,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,, ,GVM,MAM
+4,Baraby et al,AMB_ET_AL2002,0002,moe,,mont1268,mamitsh-,C-I:Standard,,,,,,big,,initial,,,,,,,,,,,,,,mamitsh-ashku-puam-e-,,,V,AI,have big thighs,,AMB_ET_AL2002;0002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Called a root in the source; double medial, ,GVM,MAM
+6,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-pitun- ,C-I:Standard,,,,,,arm,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+7,Baraby et al,AMB_ET_AL2002,0003,moe,,mont1268,kanu-,C-I:Standard,,,,,,NG,,initial,,,,,,,,,,,,,,kanu-ashku-titsh-e-,,,V,AI,have big hands,,AMB_ET_AL2002;0003,kanu-apetsh-ishit-e-,,,V,AI,have long feet,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,Double medial in example,,,MAM
+8,Baraby et al,AMB_ET_AL2002,"0003,0005",moe,,mont1268,-titsh- ,C-I:Standard,,,,,,hand,,medial,INCORP,,,,,,,,,,,,,kanu-ashku-titsh-e-,,,V,AI,have big hands,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Double medial in example, ,GVM,MAM
+9,Baraby et al,AMB_ET_AL2002,0003,moe,,mont1268,uishau-,C-I:Standard,,,,,,yellow,,initial,,,,,,,,,,,,,,uishau-ashku-apit-e-,,,V,AI,have yellow teeth,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+10,Baraby et al,AMB_ET_AL2002,0003,moe,,mont1269,-apit-,C-I:Standard,,,,,,tooth,,medial,INCORP,,,,,,,,,,,,,uishau-ashku-apit-e-,,,V,AI,have yellow teeth,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM,MAM
+11,Baraby et al,AMB_ET_AL2002,0003,moe,,mont1268,-ishit- ,C-I:Standard,,,,,,foot,,medial,INCORP,,,,,,,,,,,,,kanu-apetsh-ishit-e-,,,V,AI,have long feet,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+14,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-shkatiku- ,C-I:Standard,,,,,,forehead,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+16,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-kash- ,C-I:Standard,,,,,,nail,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nail' as in fingernail, ,GVM,MAM
+17,Baraby et al,AMB_ET_AL2002,0004,moe,"Western: Betsiamites, Uashat (Sept-Iles)/Maliotenam and Schefferville (Matimekosh)",mont1268,-ssun- ,C-I:Standard,,,,,,nose,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+18,Baraby et al,AMB_ET_AL2002,0004,moe,"Eastern: Lower North Shore communities (Mingan, Natashquan, La Romaine and St-Augustin) and Sheshatshiu (Labrador)",mont1268,-kut- ,C-I:Standard,,,,,,nose,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+19,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-shkassikan- ,C-I:Standard,,,,,,chest,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+21,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-tutsh- ,C-I:Standard,,,,,,ear,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+22,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-apissikan- ,C-I:Standard,,,,,,chin,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+23,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-ap- ,C-I:Standard,,,,,,eye,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Productive; not derived from noun; suppletive, ,GVM,MAM
+24,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-kuei- ,C-I:Standard,,,,,,neck,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+25,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-titiman- ,C-I:Standard,,,,,,shoulder,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+27,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-tushkun-  ,C-I:Standard,,,,,,elbow,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+28,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-shit- ,C-I:Standard,,,,,,foot,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+30,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-tukan- ,C-I:Standard,,,,,,hip,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"From Drapeau 1990: utukan 'tête, col de fémur'", ,GVM,MAM
+31,Baraby et al,AMB_ET_AL2002,0004,moe,"Western: Betsiamites, Uashat (Sept-Iles)/Maliotenam and Schefferville (Matimekosh)",mont1268,-tishi- ,C-I:Standard,,,,,,navel,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+32,Baraby et al,AMB_ET_AL2002,0004,moe,"Eastern: Lower North Shore communities (Mingan, Natashquan, La Romaine and St-Augustin) and Sheshatshiu (Labrador)",mont1268,-tishiap- ,C-I:Standard,,,,,,navel,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+33,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-tshikun- ,C-I:Standard,,,,,,knee,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+34,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-kat- ,C-I:Standard,,,,,,leg,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+36,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-tutan-,C-I:Standard,,,,,,heel,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+37,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-tashtan-,C-I:Standard,,,,,,calf,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+39,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-shtikuan- ,C-I:Standard,,,,,,head,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+40,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-pishkueun- ,C-I:Standard,,,,,,hair,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+41,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-tikuai-,C-I:Standard,,,,,,armpit,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+43,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-shkatai- ,C-I:Standard,,,,,,belly,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+75,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-shikakun- ,C-I:Standard,,,,,,back of the knee,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+91,Baraby et al,AMB_ET_AL2002,0003,moe,,mont1268,-apek- ,C-I:Standard,,,,,,threadlike,,medial,CLASS,,,,,,,,,-apetsh-,,,,kanu-apetsh-ishit-e-,,,V,AI,have long feet,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: guessing that this is an allomorph; probably conditioned by following palatal?, ,GVM,MAM
+97,Baraby et al,AMB_ET_AL2002,0002,moe,,mont1268,-ashku- ,C-I:Standard,,,,,,"something long, round, wooden, solid",,medial,CLASS,,,,,,,,,,,,,mamitsh-ashku-puam-e-,,,V,AI,have big thighs,,AMB_ET_AL2002;0002,kanu-ashku-titsh-e-,,,V,AI,have big hands,,AMB_ET_AL2002;0003,uishau-ashku-apit-e-,,,V,AI,have yellow teeth,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,Double medial in example, ,GVM,MAM
+244,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-pitun- ,C-I:Standard,,,,,,arm,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+245,Baraby et al,AMB_ET_AL2002,"0002,0004",moe,,mont1268,-puam- ,C-I:Standard,,,,,,thigh,,medial,INCORP,,,,,,,,,,,,,mamitsh-ashku-puam-e-,,,V,AI,have big thighs,,AMB_ET_AL2002;0002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Double medial in example, ,GVM,MAM
+270,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-shukun- ,C-I:Standard,,,,,,hip,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
+367,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-pishkun- ,C-I:Standard,,,,,,back,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM

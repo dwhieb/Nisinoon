@@ -154,7 +154,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 148,Beland,JPB1978,0268,atj ,,atik1240,-aspit-,C-A:1,,,,,,tie,,final,TI,,,N,,,,,-aspit-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 149,Beland,JPB1978,0241,atj ,,atik1240,-aspite-,C-A:1,,,,,,tie,,final,II,,,N,,,-aspiso-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,form middle reflexive verbs of primary derivation,,GVM
 150,Beland,JPB1978,0215,atj,,atik1240,-as̀ta:-,C-A:1,,,,,,"set, place ",,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-151,Beland,JPB1978,"0230,0231",atj,,atik1240,-as̀te-,C-A:1,,,,,,"set, sit place",,final,II,,,N,,,-api-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of II -as̀te-, 'to sit, set, place'",,GVM
+151,Beland,JPB1978,"0230,0231",atj,,atik1240,-as̀te-,C-A:1,,,,,,"set, sit, place",,final,II,,,N,,,-api-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of II -as̀te-, 'to sit, set, place'",,GVM
 152,Beland,JPB1978,0147,atj ,,atik1240,-astimw-,C-A:1,,,,,,dog,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 153,Beland,JPB1978,0204,atj,,atik1240,-as̀timw-,C-A:1,,,,,,dog,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""homonymous with medial -as̀timw- 'dog' and is paralleled by the independent stem atimw.",,GVM
 154,Beland,JPB1978,0182,atj,,atik1240,-at-,C-A:1,,,,,,"hill, mountain ",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -165,7 +165,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 159,Beland,JPB1978,"0231,0279",atj,,atik1240,-atin-,C-A:1,,,,,,by cold,,final,II,,,N,,,-aci-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -at-,,,,,,GVM
 160,Beland,JPB1978,0247,atj ,,atik1240,-atin-,C-A:1,,,,,,"hill, mountain",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 161,Beland,JPB1978,0284,atj ,,atik1240,-atin-,C-A:1,,,,,,hill,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Many particle finals w/ concrete meanings correspond to classificatory medials, noun finals or intransitive finals"" ",,GVM
-162,Beland,JPB1978,0247,atj ,,atik1240,-atina:-,C-A:1,,,,,,"hil, mountain",,final,II,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -atin-,II -a:-,,,,,,complex,,GVM
+162,Beland,JPB1978,0247,atj ,,atik1240,-atina:-,C-A:1,,,,,,"hill, mountain",,final,II,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -atin-,II -a:-,,,,,,complex,,GVM
 163,Beland,JPB1978,0260,atj ,,atik1240,-att-,C-A:1,,,,,,"bite, eat",,final,TI,,,N,,,,,-att-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 164,Beland,JPB1978,0269,atj ,,atik1240,-att-,C-A:1,,,,,,"for someone, for something",double object,final,TI,,,Y,AI,,,,-aw-,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 165,Beland,JPB1978,0172,atj,,atik1240,-aw-,C-A:1,,,,,,NG,,postmedial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -606,7 +606,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 582,Beland,JPB1978,0184,atj,,atik1240,-wi:kkwa:ss-,C-A:1,,,,,,bark,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 583,Beland,JPB1978,0195,atj,,atik1240,-win-,C-A:1,,,,,,NG,,final,N,,ABSTR,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"mostly derives abstract nouns, but ""some nouns with this suffix have concrete meanings.""",,GVM
 584,Beland,JPB1978,0209,atj,,atik1240,-y-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-585,Beland,JPB1978,0208,atj,"Weymontachie, Obedjiwan",atik1240,-yekanw-,C-A:1,,,,,,cloth,,final,N,,,B,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-i:k-,-anw-,,,,,,"""the distinction between the two suffixes is no more in used [sic] at Manouane where -yekinw- only has been recorded; both suffixes are found at Weymontachie and at Obedjiwan.""",,GVM
+586,Beland,JPB1978,0208,atj,"Weymontachie, Obedjiwan",atik1240,-yekanw-,C-A:1,,,,,,cloth,,final,N,,,B,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-i:k-,-anw-,,,,,,"""the distinction between the two suffixes is no more in used [sic] at Manouane where -yekinw- only has been recorded; both suffixes are found at Weymontachie and at Obedjiwan.""",,GVM
 586,Beland,JPB1978,0208,atj,"Manouane, Weymontachie, Obedjiwan",atik1240,-yekinw-,C-A:1,,,,,,cloth,,final,N,,,B,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-i:k-,-inw-,,,,,,"""the distinction between the two suffixes is no more in used [sic] at Manouane where -yekinw- only has been recorded; both suffixes are found at Weymontachie and at Obedjiwan.""",,GVM
 587,Beland,JPB1978,0209,atj,,atik1240,-yekw-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 588,Beland,JPB1978,0254,atj ,,atik1240,a:pat-,C-A:1,,,,,,use,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"TA, AI2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM

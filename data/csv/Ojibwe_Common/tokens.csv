@@ -1,30 +1,23 @@
 Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
 1,Valentine,RV2002,0110,,oji,ojib1241,-(g)wegan-,OJ:3,,,,,,neck,,medial
-2,Valentine,RV2001b,0441,,oji,ojib1241,-(i)zi,,,,,,,attributive,,final,AI
 3,Valentine,RV2002,0110,,oji,ojib1241,-(sh)tigwaan-,OJ:3,,,,,,head,,medial
 4,Valentine,RV2002,0099,,oji,ojib1241,-(y)aa,OJ:3,,,,,,NG,,final,II,,,Y,AI
-5,Valentine,RV2001b,0441,,oji,ojib1241,-aa,,,,,,,attributive,,final,II
 6,Valentine,RV2002,0090,,oji,ojib1241,-aa,OJ:3,,,,,,state,,final,II
 7,Valentine,RV2002,0086,,oji,ojib1241,-aabi,OJ:3,,,,,,see,,final,AI
 8,Valentine,RV2002,0110,,oji,ojib1241,-aabid-,OJ:3,,,,,,tooth,,medial
 9,Valentine,RV2002,0088,,oji,ojib1241,-aabiig-,OJ:3,,,,,,stringlike,,medial
 10,Valentine,RV2002,0094,,oji,ojib1241,-aabikw,OJ:3,,,,,,money,,final,unk.,,CONCR
-11,Valentine,RV2001b,0441,,oji,ojib1241,-aagam-,,,,,,,liquid,,medial
 12,Valentine,RV2002,0090,,oji,ojib1241,-aagam-,OJ:3,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,classifier-like. Often has to do with liquids
 13,Valentine,RV2002,0109,,oji,ojib1241,-aagamiingw-,OJ:3,,,,,,eye,,medial
 14,Valentine,RV2002,0109,,oji,ojib1241,-aakigan-,OJ:3,,,,,,chest,,medial
 15,Valentine,RV2002,0088,,oji,ojib1241,-aakw-,OJ:3,,,,,,"organic solid, sticklike",,medial
 16,Valentine,RV2002,0099,,oji,ojib1241,-aakw-,OJ:3,,,,,,polelike,,medial
 17,Valentine,RV2002,0110,,oji,ojib1241,-aanikw-,OJ:3,,,,,,hair,,medial
-18,Valentine,RV2001b,0441,,oji,ojib1241,-aatigw-,,,,,,,wood,,medial
 19,Valentine,RV2002,0109,,oji,ojib1241,-aawigan-,OJ:3,,,,,,back,,medial
-20,Valentine,RV2001b,0446,,oji,ojib1241,-ad,,,,,,,stative,,final,II
-21,Valentine,RV2001b,0441,,oji,ojib1241,-akizin,,,,,,,shoe,,final,N
 22,Valentine,RV2002,0095,,oji,ojib1241,-amikw-,OJ:3,,,,,,beaver,,medial
 23,Valentine,RV2002,0099,,oji,ojib1241,-an,OJ:3,,,,,,NG,,final,II
 24,Valentine,RV2002,0087,,oji,ojib1241,-asaby-,OJ:3,,,,,,net,,medial
 25,Valentine,RV2002,0110,,oji,ojib1241,-ashkad-,OJ:3,,,,,,stomach,,medial
-26,Valentine,RV2001b,0441,,oji,ojib1241,-asimw,,,,,,,dog,,final,NA
 27,Valentine,RV2002,0110,,oji,ojib1241,-azh-,OJ:3,,,,,,skin,,medial
 28,Valentine,RV2002,0109,,oji,ojib1241,-bikwan-,OJ:3,,,,,,back,,medial
 29,Valentine,RV2002,0090,,oji,ojib1241,-de,OJ:3,,,,,,application of heat,,final,II
@@ -32,7 +25,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 31,Valentine,RV2002,0110,,oji,ojib1241,-denaniw-,OJ:3,,,,,,tongue,,medial
 32,Valentine,RV2002,0109,,oji,ojib1241,-diy-,OJ:3,,,,,,rump,,medial
 33,Valentine,RV2002,0086,,oji,ojib1241,-doon-,OJ:3,,,,,,mouth,,medial
-34,Valentine,RV2001b,0450,,oji,ojib1241,-e,,,,,,,attribute of body part,,final,AI
 35,Valentine,RV2002,0085,,oji,ojib1241,-e,OJ:3,,,,,,NG,,final,AI
 36,Valentine,RV2002,0113,,oji,ojib1241,-e,OJ:3,,,,,,NG,,final,AI
 37,Valentine,RV2002,0085,,oji,ojib1241,-gaad-,OJ:3,,,,,,leg,,medial
@@ -55,31 +47,23 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 54,Valentine,RV2002,0106,,oji,ojib1241,-ii(n)gw-,OJ:3,,,,,,face,,medial
 55,Valentine,RV2002,0109,,oji,ojib1241,-iingw-,OJ:3,,,,,,eye,,medial
 56,Valentine,RV2002,0097,,oji,ojib1241,-ikomaan,OJ:3,,,,,,NG,,final,N
-57,Valentine,RV2001b,0446,,oji,ojib1241,-izi,,,,,,,stative,,final,AI
 58,Valentine,RV2002,0099,,oji,ojib1241,-izi,OJ:3,,,,,,NG,,final,AI
 59,Valentine,RV2002,0086,,oji,ojib1241,-jaab-,OJ:3,,,,,,eye,,medial
 60,Valentine,RV2002,0109,,oji,ojib1241,-jaab-,OJ:3,,,,,,face,,medial
 61,Valentine,RV2002,0110,,oji,ojib1241,-jaan-,OJ:3,,,,,,nose,,medial
-62,Valentine,RV2001b,0450,,oji,ojib1241,-kaa,,,,,,,abundance,,final,II,,,Y,N
 63,Valentine,RV2002,0096,,oji,ojib1241,-kawe,OJ:3,,,,,,movement in such a way as to make tracks,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,from Rhodes 1985:239
 64,Valentine,RV2002,0110,,oji,ojib1241,-kw-,OJ:3,,,,,,head,,medial
-65,Valentine,RV2001b,0467,,oji,ojib1241,-magad,,,,,,,NG,,final,II,,,Y,AI,,,,,,,,,,,,,,,,,,,,"GVM: Described as ""ending,"" not final; added here since it seems to be doing what a secondary final does"
 66,Valentine,RV2002,0110,,oji,ojib1241,-misad-,OJ:3,,,,,,stomach,,medial
 67,Valentine,RV2002,0110,,oji,ojib1241,-ndib-,OJ:3,,,,,,head,,medial
 68,Valentine,RV2002,0116,,oji,ojib1241,-ngwashi,OJ:3,,,,,,sleep,,final,unk.,,,,,,,,,,,,,,,,,,,,,,,,general ojibwe
 69,Valentine,RV2002,0098,,oji,ojib1241,-ni,OJ:3,,,,,,self-initiated body movement,,final,AI
-70,Valentine,RV2001b,0450,,oji,ojib1241,-nik-,,,,,,,arm,,medial
 71,Valentine,RV2002,0090,,oji,ojib1241,-nik-,OJ:3,,,,,,arm,,medial
 72,Valentine,RV2002,0086,,oji,ojib1241,-ninjy-,OJ:3,,,,,,hand,,medial
 73,Valentine,RV2002,0109,,oji,ojib1241,-ninjy-,OJ:3,,,,,,"hand, finger",,medial
-74,Valentine,RV2001b,0444,,oji,ojib1241,-se,,,,,,,NG,,final,AI
-75,Valentine,RV2001b,0444,,oji,ojib1241,-se,,,,,,,NG,,final,II
 76,Valentine,RV2002,0099,,oji,ojib1241,-se,OJ:3,,,,,,NG,,final,unk.
 77,Valentine,RV2002,0109,,oji,ojib1241,-sh-,OJ:3,,,,,,ear,,medial
 78,Valentine,RV2002,0110,,oji,ojib1241,-shangwan-,OJ:3,,,,,,nose,,medial
 79,Valentine,RV2002,0099,,oji,ojib1241,-shin,OJ:3,,,,,,NG,,final,unk.
-80,Valentine,RV2001b,0444,,oji,ojib1241,-shkaa,,,,,,,NG,,final,AI
-81,Valentine,RV2001b,0444,,oji,ojib1241,-shkaa,,,,,,,NG,,final,II
 82,Valentine,RV2002,0110,,oji,ojib1241,-shkanzhy-,OJ:3,,,,,,nail,,medial
 83,Valentine,RV2002,0109,,oji,ojib1241,-shkiinzhigw-,OJ:3,,,,,,eye,,medial
 84,Valentine,RV2002,0110,,oji,ojib1241,-shtigwaan-,OJ:3,,,,,,hair,,medial
@@ -87,10 +71,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 86,Valentine,RV2002,0098,,oji,ojib1241,-taa,OJ:3,,,,,,self-initiated body movement,,final,AI
 87,Valentine,RV2002,0109,,oji,ojib1241,-tawag-,OJ:3,,,,,,ear,,medial
 88,Valentine,RV2002,0109,,oji,ojib1241,-toog-,OJ:3,,,,,,ear,,medial
-89,Valentine,RV2001b,"0432,0437,0464",,oji,ojib1241,-wan,,,,,,,NG,,final,II
-90,Valentine,RV2001b,"0441,0444",,oji,ojib1241,-wan,,,,,,,NG,,final,NI
-91,Valentine,RV2001b,"0432,0437,0464",,oji,ojib1241,-wi,,,,,,,NG,,final,AI
-92,Valentine,RV2001b,"0439,0441,0443",,oji,ojib1241,-wi,,,,,,,NG,,final,NA
 93,Valentine,RV2002,0110,,oji,ojib1241,-zhag-,OJ:3,,,,,,skin,,medial
 94,Valentine,RV2002,0110,,oji,ojib1241,-zhagay-,OJ:3,,,,,,skin,,medial
 95,Valentine,RV2002,0085,,oji,ojib1241,-zid-,OJ:3,,,,,,foot,,medial
@@ -119,9 +99,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 118,Valentine,RV2002,0104,,oji,ojib1241,daashk-,OJ:3,,,,,,split,,initial
 119,Valentine,RV2002,0085,,oji,ojib1241,dak-,OJ:3,,,,,,cold,,initial
 120,Valentine,RV2002,0089,,oji,ojib1241,dakw-,OJ:3,,,,,,short,,initial
-121,Valentine,RV2001b,0450,,oji,ojib1241,dew-,,,,,,,sore,,initial
 122,Valentine,RV2002,0085,,oji,ojib1241,dew-,OJ:3,,,,,,sore,,initial
-123,Valentine,RV2001b,0441,,oji,ojib1241,dinow-,,,,,,,kind of,,initial
 124,Valentine,RV2002,0100,,oji,ojib1241,ditib(an)-,OJ:3,,,,,,curly,,initial
 125,Valentine,RV2002,0100,,oji,ojib1241,doom-,OJ:3,,,,,,grease,,initial
 126,Valentine,RV2002,0090,,oji,ojib1241,gaagiij-,OJ:3,,,,,,sore,,initial
@@ -138,7 +116,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 137,Valentine,RV2002,0105,,oji,ojib1241,giziibiigin-,OJ:3,,,,,,wash,,initial
 138,Valentine,RV2002,0096,,oji,ojib1241,gozigw-,OJ:3,,,,,,have weight,,initial
 139,Valentine,RV2002,0096,,oji,ojib1241,gwayak-,OJ:3,,,,,,"straight, true, correct",,initial
-140,Valentine,RV2001b,0435,,oji,ojib1241,iN-,,,,,,,"such, manner, way",,initial,RR
 141,Valentine,RV2002,0096,,oji,ojib1241,iN-,OJ:3,,,,,,NG,,initial,RR
 142,Valentine,RV2002,0089,,oji,ojib1241,jiibw-,OJ:3,,,,,,pointed,,initial
 143,Valentine,RV2002,0100,,oji,ojib1241,maak-,OJ:3,,,,,,lame,,initial
@@ -151,7 +128,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 150,Valentine,RV2002,0089,,oji,ojib1241,miniiw-,OJ:3,,,,,,"infected, full of pus",,initial
 151,Valentine,RV2002,0086,,oji,ojib1241,minw-,OJ:3,,,,,,good,,initial
 152,Valentine,RV2002,0100,,oji,ojib1241,misheyaakw-,OJ:3,,,,,,bare,,initial
-153,Valentine,RV2001b,0441,,oji,ojib1241,miskw-,,,,,,,red,,initial
 154,Valentine,RV2002,0088,,oji,ojib1241,miskw-,OJ:3,,,,,,red,,initial
 155,Valentine,RV2002,0100,,oji,ojib1241,mitaakw-,OJ:3,,,,,,bare,,initial
 156,Valentine,RV2002,0100,,oji,ojib1241,mitask-,OJ:3,,,,,,bare,,initial
@@ -172,7 +148,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 171,Valentine,RV2002,0097,,oji,ojib1241,waag-,OJ:3,,,,,,curved,,initial,,,,,,,,,,,,,,,,,,,,,,,,,general ojibwe
 172,Valentine,RV2002,0096,,oji,ojib1241,waase-,OJ:3,,,,,,NG,,initial
 173,Valentine,RV2002,0093,,oji,ojib1241,web-,OJ:3,,,,,,begin,,initial
-174,Valentine,RV2001b,0450,,oji,ojib1241,wiid-,,,,,,,together,,initial
 175,Valentine,RV2002,0093,,oji,ojib1241,wiid-,OJ:3,,,,,,together,,initial
 176,Valentine,RV2002,0090,,oji,ojib1241,wiisag-,OJ:3,,,,,,sore,,initial
 177,Valentine,RV2002,0085,,oji,ojib1241,zaag-,OJ:3,,,,,,"out(ward), emergent",,initial
@@ -181,3 +156,28 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 180,Valentine,RV2002,0105,,oji,ojib1241,zhoom-,OJ:3,,,,,,smile,,initial
 181,Valentine,RV2002,0105,,oji,ojib1241,zhoow-,OJ:3,,,,,,smile,,initial
 182,Valentine,RV2002,0115,,oji,ojib1241,zoong-,OJ:3,,,,,,strong,,initial
+2,Valentine,RV2001b,0441,,oji,ojib1241,-(i)zi,OJ:11,,,,,,attributive,,final,AI
+5,Valentine,RV2001b,0441,,oji,ojib1241,-aa,OJ:11,,,,,,attributive,,final,II
+11,Valentine,RV2001b,0441,,oji,ojib1241,-aagam-,OJ:11,,,,,,liquid,,medial
+18,Valentine,RV2001b,0441,,oji,ojib1241,-aatigw-,OJ:11,,,,,,wood,,medial
+20,Valentine,RV2001b,0446,,oji,ojib1241,-ad,OJ:11,,,,,,stative,,final,II
+21,Valentine,RV2001b,0441,,oji,ojib1241,-akizin,OJ:11,,,,,,shoe,,final,N
+26,Valentine,RV2001b,0441,,oji,ojib1241,-asimw,OJ:11,,,,,,dog,,final,NA
+34,Valentine,RV2001b,0450,,oji,ojib1241,-e,OJ:11,,,,,,attribute of body part,,final,AI
+57,Valentine,RV2001b,0446,,oji,ojib1241,-izi,OJ:11,,,,,,stative,,final,AI
+62,Valentine,RV2001b,0450,,oji,ojib1241,-kaa,OJ:11,,,,,,abundance,,final,II,,,Y,N
+65,Valentine,RV2001b,0467,,oji,ojib1241,-magad,OJ:11,,,,,,NG,,final,II,,,Y,AI,,,,,,,,,,,,,,,,,,,,"GVM: Described as ""ending,"" not final; added here since it seems to be doing what a secondary final does"
+70,Valentine,RV2001b,0450,,oji,ojib1241,-nik-,OJ:11,,,,,,arm,,medial
+74,Valentine,RV2001b,0444,,oji,ojib1241,-se,OJ:11,,,,,,NG,,final,AI
+75,Valentine,RV2001b,0444,,oji,ojib1241,-se,OJ:11,,,,,,NG,,final,II
+80,Valentine,RV2001b,0444,,oji,ojib1241,-shkaa,OJ:11,,,,,,NG,,final,AI
+81,Valentine,RV2001b,0444,,oji,ojib1241,-shkaa,OJ:11,,,,,,NG,,final,II
+89,Valentine,RV2001b,"0432,0437,0464",,oji,ojib1241,-wan,OJ:11,,,,,,NG,,final,II
+90,Valentine,RV2001b,"0441,0444",,oji,ojib1241,-wan,OJ:11,,,,,,NG,,final,NI
+91,Valentine,RV2001b,"0432,0437,0464",,oji,ojib1241,-wi,OJ:11,,,,,,NG,,final,AI
+92,Valentine,RV2001b,"0439,0441,0443",,oji,ojib1241,-wi,OJ:11,,,,,,NG,,final,NA
+121,Valentine,RV2001b,0450,,oji,ojib1241,dew-,OJ:11,,,,,,sore,,initial
+123,Valentine,RV2001b,0441,,oji,ojib1241,dinow-,OJ:11,,,,,,kind of,,initial
+140,Valentine,RV2001b,0435,,oji,ojib1241,iN-,OJ:11,,,,,,"such, manner, way",,initial,RR
+153,Valentine,RV2001b,0441,,oji,ojib1241,miskw-,OJ:11,,,,,,red,,initial
+174,Valentine,RV2001b,0450,,oji,ojib1241,wiid-,OJ:11,,,,,,together,,initial

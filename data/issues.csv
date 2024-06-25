@@ -438,3 +438,7 @@ MISSING_TOKEN-Potawatomi-433,MISSING_TOKEN,Potawatomi: Component 433 does not ha
 MISSING_TOKEN-Potawatomi-434,MISSING_TOKEN,Potawatomi: Component 434 does not have any tokens.
 MISSING_TOKEN-Potawatomi-436,MISSING_TOKEN,Potawatomi: Component 436 does not have any tokens.
 MISSING_TOKEN-Potawatomi-439,MISSING_TOKEN,Potawatomi: Component 439 does not have any tokens.
+MISSING_TOKEN-Ojibwe_Odawa-776,MISSING_TOKEN,Ojibwe_Odawa: Component 776 does not have any tokens.
+UNMATCHED_COMPONENT-Proto_Algonquian-192,UNMATCHED_COMPONENT,Proto_Algonquian: The component ID for token undefined does not exist.
+UNMATCHED_COMPONENT-Proto_Algonquian-216,UNMATCHED_COMPONENT,Proto_Algonquian: The component ID for token undefined does not exist.
+UNMATCHED_COMPONENT-Proto_Algonquian-298,UNMATCHED_COMPONENT,Proto_Algonquian: The component ID for token undefined does not exist.

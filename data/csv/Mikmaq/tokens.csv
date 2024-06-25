@@ -15,7 +15,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 14,Inglis,SI1986a,0279,mic,,mikm1235,-(ɨ)s,MK:F-S,,,,,,heat,,final,TA,,,,,,,,-ɨs,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
 15,McCulloch,GM2013b,0020,mic,,mikm1235,-∅,MK:1,,,,,,NG,,final,II
 16,McCulloch,GM2013b,0020,mic,,mikm1235,-∅,MK:1,,,,,,NG,,final,TA
-17,Inglis,SI1986a,0101,,,mikm1235,-a,,,,,,,double goal,,final,TA
+17,Inglis,SI1986a,0101,,,mikm1235,-a,MK:F-S,,,,,,double goal,,final,TA
 18,Inglis,SI1986a,0244,mic,,mikm1235,-a,MK:F-S,,,,,,final,,final,AI,,,,,,-a,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
 19,Inglis,SI1986a,0244,mic,,mikm1235,-a,MK:F-S,,,,,,final,,final,II,,,,,-a,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
 20,Inglis,SI1986a,0278,mic,,mikm1235,-a,MK:F-S,,,,,,final,,final,TA,,,,,,,,-a,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
@@ -555,7 +555,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 543,Inglis,SI1986a,0131,mic,,mikm1235,wai-,MK:F-S,,,,,,bead,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 544,Inglis,SI1986a,0131,mic,,mikm1235,waju'-,MK:F-S,,,,,,full,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 545,Inglis,SI1986a,0131,mic,,mikm1235,walqw-,MK:F-S,,,,,,hollow,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-546,Inglis,SI1986a,0131,mic,,mikm1235,waltes-,MK:F-S,,,,,,waltes,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Waltes, also called woltestakun or altestakun is a kind of dice game thought to be of pre-Columbian origin..."" https://www.cbu.ca/indigenous-affairs/mikmaq-resource-centre/miscellany/the-game-of-waltes/","Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+546,Inglis,SI1986a,0131,mic,,mikm1235,waltes-,MK:F-S,,,,,,waltes game,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Waltes, also called woltestakun or altestakun is a kind of dice game thought to be of pre-Columbian origin..."" https://www.cbu.ca/indigenous-affairs/mikmaq-resource-centre/miscellany/the-game-of-waltes/","Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 547,Inglis,SI1986a,0131,mic,,mikm1235,wantaq-,MK:F-S,,,,,,quiet,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 548,Inglis,SI1986a,0131,mic,,mikm1235,wap-,MK:F-S,,,,,,white,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 549,Inglis,SI1986a,0131,mic,,mikm1235,wapn-,MK:F-S,,,,,,dawn,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
