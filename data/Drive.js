@@ -2,8 +2,9 @@
  * A class for interacting with Google Drive
  */
 
-import { google } from 'googleapis'
-import path       from 'node:path'
+import { google }   from 'googleapis'
+import path         from 'node:path'
+import { readFile } from 'node:fs/promises'
 
 export default class Drive {
 
@@ -86,9 +87,15 @@ export default class Drive {
 
   async initialize() {
 
+    if (!process.env.DRIVE_CREDENTIALS) {
+      const json = await readFile(path.resolve(import.meta.dirname, `credentials.json`), `utf8`)
+      process.env.DRIVE_CREDENTIALS = json
+    }
+
     const authConfig = new google.auth.GoogleAuth({
-      keyFile: path.resolve(import.meta.dirname, `credentials.json`),
-      scopes:  [`https://www.googleapis.com/auth/drive`],
+      credentials: JSON.parse(process.env.DRIVE_CREDENTIALS),
+      // keyFile: path.resolve(import.meta.dirname, `credentials.json`),
+      scopes:      [`https://www.googleapis.com/auth/drive`],
     })
 
     const authClient = await authConfig.getClient()

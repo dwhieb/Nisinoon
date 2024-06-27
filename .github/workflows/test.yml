@@ -10,7 +10,6 @@ on:
   workflow_dispatch:
 
 env:
-  DATABASE: testing
   NODE_ENV: CI
   PORT:     3002
 
@@ -38,11 +37,10 @@ jobs:
           key:  ${{ hashFiles('**/package-lock.json') }}
 
       - name: Install dependencies
-        run:  npm ci --force
+        run:  npm ci
 
       - name: Build app
         run:  npm run build
-
 
       - name: Check for only in tests
         run:  npm run stop-only

@@ -1,13 +1,8 @@
-# On pushes to `main`, deploys website to Azure, and copies data to `data` branch.
-#
-# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
-# More GitHub Actions for Azure:             https://github.com/Azure/actions
+# Manually pull latest data, build the site, and deploy to production
 
-name: deploy
+name: update
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 env:
@@ -18,7 +13,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     environment:
       name: 'Production'
@@ -34,18 +29,20 @@ jobs:
         with:
           node-version: '20.x'
 
-      - name: Cache Node.js modules
-        id:   cache
-        uses: actions/cache@v4
-        with:
-          path: '**/node_modules'
-          key:  ${{ hashFiles('**/package-lock.json') }}
-
       - name: Install dependencies
         run:  npm ci
 
+      - name: Update bibliography
+        run:  node bin/updateBibliography.js
+
+      - name: Update database
+        run:  node bin/updateDatabase.js
+
       - name: Build app
         run:  npm run build
+
+      - name: Update docs
+        run:  node bin/updateDocs.js
 
       - name: Check for "only" in tests
         run:  npm run stop-only
@@ -66,7 +63,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           enable_jekyll:  true
-          exclude_assets: '**.js,credentials.json,issues.csv'
+          exclude_assets: '**.js,issues.csv,transliterations/'
           github_token:   ${{ secrets.GITHUB_TOKEN }}
           publish_branch: data
           publish_dir:    data

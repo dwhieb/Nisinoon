@@ -74,6 +74,5 @@ You can create credentials and download the JSON file for them [here](https://co
 
 | Variable   | Description                          |
 | ---------- | ------------------------------------ |
-| `DATABASE` | `testing` (fixtures) \| `production` |
 | `NODE_ENV` | `localhost` \| `CI` \| `production`  |
 | `PORT`     | The port to connect to.              |
