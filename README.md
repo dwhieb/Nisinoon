@@ -4,7 +4,16 @@ Website for the Algonquian Components Project (Nisinoon)
 
 View the project at [Nisinoon.net](https://nisinoon.net).
 
-## How to Update Site Content
+## How to Update the Data on the Website
+
+The following process will fetch the latest bibliography data from Zotero and the latest component data from Google Sheets, update the site with that data, and deploy the new site to production.
+
+1. Go to [this link](https://github.com/dwhieb/Nisinoon/actions/workflows/update.yml).
+2. Click the **Run Workflow** button on the right.
+3. In the popup that appears, keep the default settings and click the green **Run workflow** button.
+4. Then go to [this page](https://github.com/dwhieb/Nisinoon/actions) to watch that the site deployed successfully. You can click into the current run of the "update" process (and then click into "update" once more) for a detailed breakdown of each step in the process as it happens.
+
+## How to Update Text on the Website
 
 The following pages can be easily edited on GitHub:
 

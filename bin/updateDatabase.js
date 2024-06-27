@@ -1,4 +1,4 @@
-import DataManager from './data/DataManager.js'
+import DataManager from '../data/DataManager.js'
 
 const manager = new DataManager
 
