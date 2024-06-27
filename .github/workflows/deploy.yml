@@ -11,9 +11,8 @@ on:
   workflow_dispatch:
 
 env:
-  DRIVE_CREDENTIALS: ${{ secrets.DRIVE_CREDENTIALS }}
-  NODE_ENV:          CI
-  PORT:              3002
+  NODE_ENV: CI
+  PORT:     3002
 
 permissions:
   contents: write

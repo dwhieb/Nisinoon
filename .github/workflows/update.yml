@@ -6,8 +6,9 @@ on:
   workflow_dispatch:
 
 env:
-  NODE_ENV: CI
-  PORT:     3002
+  DRIVE_CREDENTIALS: ${{ secrets.DRIVE_CREDENTIALS }}
+  NODE_ENV:          CI
+  PORT:              3002
 
 permissions:
   contents: write
