@@ -12,6 +12,7 @@ The following process will fetch the latest bibliography data from Zotero and th
 2. Click the **Run Workflow** button on the right.
 3. In the popup that appears, keep the default settings and click the green **Run workflow** button.
 4. Then go to [this page](https://github.com/dwhieb/Nisinoon/actions) to watch that the site deployed successfully. You can click into the current run of the "update" process (and then click into "update" once more) for a detailed breakdown of each step in the process as it happens.
+5. Once the process is done running, you should be able to immediately see the latest changes to the data reflected on the website.
 
 ## How to Update Text on the Website
 
