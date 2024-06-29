@@ -333,11 +333,11 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 295,Goddard,IG1979a,0080,alg,,algo1256,*-exk(aw)-,PA:6,,,,,,act on by foot or body,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 319,Aubin,GA1975b,0025,alg,,algo1256,*-eʔtekw-,PA:4,,,,,,"tree, green wood",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sb67b.56
 320,Aubin,GA1975b,0029,alg,,algo1256,*-eθe,PA:4,,,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.110
-320,Bloomfield,LB1946,0110,alg,,algo1256,*-eθe,PA:1,,,,,,NG,,final,AI,,,,,,,*-ane,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+321,Bloomfield,LB1946,0110,alg,,algo1256,*-eθe,PA:1,,,,,,NG,,final,AI,,,,,,,*-ane,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 322,Goddard,IG1980,0144,alg,,algo1256,*-eθe·-,PA:2,,,,,,"blaze, burn",,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-325,Aubin,GA1975b,0030,alg,,algo1256,*-eθkwe:w,PA:4,,,,,,woman,,final,N,,,,,,,,,,,,,,*eθkwe:w-,,,N,,,,GA1975b;0030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B156.107; eθkwe:w- Sb67b.56
-325,Bloomfield,LB1946,0107,alg,,algo1256,*-eθkweew,PA:1,,,,,,woman,,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*eθkweew- 'woman',,,MAM
+323,Aubin,GA1975b,0030,alg,,algo1256,*-eθkwe:w,PA:4,,,,,,woman,,final,N,,,,,,,,,,,,,,*eθkwe:w-,,,N,,,,GA1975b;0030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B156.107; eθkwe:w- Sb67b.56
 324,Aubin,GA1975b,0030,alg,,algo1256,*-eθkwe:w-,PA:4,,,,,,woman,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.119
+325,Bloomfield,LB1946,0107,alg,,algo1256,*-eθkweew,PA:1,,,,,,woman,,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*eθkweew- 'woman',,,MAM
 326,Bloomfield,LB1946,0119,alg,,algo1256,*-eθkweew-,PA:1,,,,,,woman,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"appears before AI -ee; ""Deverbal medials are largely the same as deverbal noun finals""",,MAM
 327,Bloomfield,LB1946,0111,alg,,algo1256,*-h,PA:1,,,,,,NG,,final,TA,,ABSTR,B,AI,,,,,*-htoo,,,,,*niimyih-,,,V,AI,cause to dance,,LB1946;0112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Transitive verb finals or instrumentals go in pairs""",,MAM
 328,Goddard,IG1990a,0473,alg,,algo1256,*-h,PA:6,,,,,,causative,,final,TA,,,,,,,,,,,,,,*ni·ki·h-,,,V,TA,cause to be born,,IG1990a;0473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -2091,7 +2091,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 2086,Aubin,GA1975b,0132,alg,,algo1256,*pi:nl-,PA:4,,,,,,"enclose, inside",,initial,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA extended root' B146.122
 2087,Aubin,GA1975b,0132,alg,,algo1256,*pi:nt-,PA:4,,,,,,"enclose, inside",,initial,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TI extended root' B146.122
 2088,Hewson,JH_nd-b,0213,alg,,algo1256,*pi:ntaθwa:n(e:),PA:6,,,,,,quiver,,initial
-2089,Hewson,JH_nd-b,0213,alg,,algo1256,*pi:w(ay)(e:),PA:6,,,,,,"particles, hair, feathers",,initial
+2089,Hewson,JH_nd-b,0213,alg,,algo1256,*pi:w(ay)(e:),PA:6,,,,,,"particles, hair, featers",,initial
 2090,Hewson,JH_nd-a,0230,alg,,algo1256,*pi·htaw-,PA:6,,,,,,extra layer,,initial
 2091,Hewson,JH_nd-a,0231,alg,,algo1256,*pi·k(w)-,PA:6,,,,,,"break; splinters, small pieces",,initial
 2092,Hewson,JH_nd-a,0232,alg,,algo1256,*pi·l-,PA:6,,,,,,clean,,initial
