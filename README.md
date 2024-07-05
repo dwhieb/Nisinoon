@@ -39,7 +39,7 @@ To edit a page, follow these steps:
    - You can't use Markdown *inside* HTML tags. If you use an HTML tag, everything inside that tag needs to be written in HTML as well.
    - You may see some {{curly braces}}. This is part of a templating language that allows you to inject variables and other data in the page. Avoid editing code within braces.
 4. At the top right of the page, click the green **Commit changes...** button. A box will pop up where you can leave a message describing your changes.
-   - Choose the **Commit directly to the `main` branch** option.
+   - Choose the **Create a new branch for this commit and start a pull request** option.
    - Click the green **Propose changes** button in the bottom right of the box.
 5. A new pull request draft will be started. Click the green **Create pull request** button towards the bottom right.
 6. Wait for a developer to review your changes and merge them into the live version of the site.
