@@ -31,7 +31,7 @@ The following pages should **not** be edited manually:
 
 To edit a page, follow these steps:
 
-1. On the [GitHub page](https://github.com/dwhieb/Nisinoon) for the site, find the page you wish to edit inside the `src/pages` folder, and click the file with the `.md` extension (e.g. `About.md`).
+1. On the [GitHub page](https://github.com/dwhieb/Nisinoon) for the site, find the page you wish to edit inside the `pages/` folder, and click the file with the `.md` extension (e.g. `About.md`).
 2. Click the edit icon ✏️ towards the top right.
 3. Edit the page content.
    - Pages are written in [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
