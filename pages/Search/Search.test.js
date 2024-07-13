@@ -111,7 +111,9 @@ describe(`Search`, function() {
       cy.get(`.results tbody tr`).should(`have.length`, 100)
 
       // Return first page of results by default
-      cy.get(`.results td`).first().should(`have.text`, 1)
+      cy.get(`.results td`).first().should(`have.text`, `Abenaki`)
+      .next()
+      .should(`have.text`, `ôben-`)
 
       // Showing X of Y results.
       cy.get(`.num-results`).invoke(`text`).should(`match`, /^Showing results 1–100 of .+?\.$/v)
@@ -138,9 +140,9 @@ describe(`Search`, function() {
     it(`offset`, function() {
       cy.visit(`/search?offset=10&q=`)
       // NB: The 11th result in the database is currently Eastern Abenaki Component #5.
-      cy.get(`.results td`).first().should(`have.text`, 5)
+      cy.get(`.results td`).first().should(`have.text`, `Eastern Abenaki`)
       .next()
-      .should(`have.text`, `Eastern Abenaki`)
+      .should(`have.text`, `-ahte`)
     })
 
   })

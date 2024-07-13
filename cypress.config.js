@@ -3,7 +3,7 @@ import { defineConfig } from 'cypress'
 export default defineConfig({
   downloadsFolder: `test/downloads`,
   e2e:             {
-    baseUrl:     `http://localhost:3002`,
+    baseUrl:     `http://localhost:3000`,
     specPattern: [`index.test.js`, `**/*.test.js`],
     supportFile: false,
   },
