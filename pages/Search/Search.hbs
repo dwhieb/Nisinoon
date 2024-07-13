@@ -37,6 +37,7 @@
       <div class='results-info sticky'>
         <p class=num-results>Showing results {{ pagination.startIndex }}–{{ pagination.endIndex }} of {{ totalResults }}.</p>
         <p class=help-text>Click on a form in the table below to view more information about that component.</p>
+        <p class=help-text>An em dash (—) indicates that there is no data for that field.</p>
       </div>
 
       {{> Search/components/pagination/pagination }}
@@ -79,8 +80,8 @@
               <tr>
                 <td class=component-id>{{ componentID }}</td>
                 <td class=language>{{ displayLanguage }}</td>
-                <td class=form><a class=link href='/components/{{ ID }}'>{{#if form }}{{ form }}{{else}}—{{/if}}</a></td>
-                <td class=UR><a class=link href='/components/{{ ID }}'>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</a></td>
+                <td class=form>{{#if form }}<a class=link href='/components/{{ ID }}'>{{ form }}</a>{{else}}—{{/if}}</td>
+                <td class=UR>{{#if UR }}<a class=link href='/components/{{ ID }}'>/{{ UR }}/</a>{{else}}—{{/if}}</td>
                 <td class=PA>{{#if PA }}{{ PA }}{{else}}—{{/if}}</td>
                 <td class=definition>{{#if definition }}‘{{ definition }}’{{else}}—{{/if}}</td>
                 <td class=component-type>{{#if type }}{{ type }}{{else}}—{{/if}}</td>
