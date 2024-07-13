@@ -11,7 +11,7 @@ on:
 
 env:
   NODE_ENV: CI
-  PORT:     3002
+  PORT:     3000
 
 jobs:
 
