@@ -79,30 +79,30 @@
               <tr>
                 <td class=component-id>{{ componentID }}</td>
                 <td class=language>{{ displayLanguage }}</td>
-                <td class=form><a class=link href='/components/{{ ID }}'>{{ form }}</a></td>
-                <td class=UR><a class=link href='/components/{{ ID }}'>{{#if UR}}/{{ UR }}/{{/if}}</a></td>
-                <td class=PA>{{ PA }}</td>
+                <td class=form><a class=link href='/components/{{ ID }}'>{{#if form }}{{ form }}{{else}}—{{/if}}</a></td>
+                <td class=UR><a class=link href='/components/{{ ID }}'>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</a></td>
+                <td class=PA>{{#if PA }}{{ PA }}{{else}}—{{/if}}</td>
                 <td class=definition>{{#if definition }}‘{{ definition }}’{{else}}—{{/if}}</td>
-                <td class=component-type>{{ type }}</td>
-                <td class=subcategory>{{ subcategory }}</td>
+                <td class=component-type>{{#if type }}{{ type }}{{else}}—{{/if}}</td>
+                <td class=subcategory>{{#if subcategory }}{{ subcategory }}{{else}}—{{/if}}</td>
                 <td class=source-forms>
                   <ul>
                     {{#each tokens as |token| }}
-                      <li>{{ form }}</li>
+                      <li>{{#if form }}{{ form }}{{else}}—{{/if}}</li>
                     {{/each}}
                   </ul>
                 </td>
                 <td class=source-URs>
                   <ul>
                     {{#each tokens as |token| }}
-                      <li>{{#if UR }}/{{ UR }}/{{/if}}</li>
+                      <li>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</li>
                     {{/each}}
                   </ul>
                 </td>
                 <td class=source-PA>
                   <ul>
                     {{#each tokens as |token| }}
-                      <li>{{ PA }}</li>
+                      <li>{{#if PA }}{{ PA }}{{else}}—{{/if}}</li>
                     {{/each}}
                   </ul>
                 </td>
@@ -116,7 +116,7 @@
                 <td class=bibliography>
                   <ul>
                     {{#each tokens as |token| }}
-                      <li>{{ bibliography }}</li>
+                      <li>{{#if bibliography }}{{ bibliography }}{{else}}—{{/if}}</li>
                     {{/each}}
                   </ul>
                 </td>
