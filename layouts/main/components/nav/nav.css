@@ -6,7 +6,12 @@
   container-type:   inline-size;
   font-size:        1.125em;
   font-weight:      500;
-  inline-size:      100vw; /* Necessary to get sticky positioning of links working correctly. */
+
+  /* Necessary to override the width setting for the `.sticky` class. */
+  &.sticky {
+    inline-size:     100vw;
+    max-inline-size: 100vw;
+  }
 
   & a {
 
