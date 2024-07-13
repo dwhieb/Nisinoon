@@ -99,6 +99,10 @@ h2 {
   text-align:    center;
 }
 
+.partial-width-bb {
+  box-shadow: 0px 15px 0px -14px black;
+}
+
 .results {
 
   border-collapse: separate; /* This is necessary for borders to stay fixed with position: sticky */
@@ -186,4 +190,8 @@ search {
 
 .text-box {
   flex-grow: 1;
+}
+
+.th-note {
+  font-weight: normal;
 }
