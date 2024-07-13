@@ -47,12 +47,11 @@
           <caption class=visually-hidden id=results-caption><h2>Search Results</h2></caption>
           <thead>
             <tr>
-              <th class='c partial-width-bb' colspan=8 scope=col>Components<br><span class='help-text th-note'>(Project Orthography)</span></th>
+              <th class='c partial-width-bb' colspan=7 scope=col>Components<br><span class='help-text th-note'>(Project Orthography)</span></th>
               <th class='c partial-width-bb' colspan=5 scope=col>Sources<br><span class='help-text th-note'>(Original Orthographies)</span></th>{{!-- Token Fields --}}
             </tr>
             <tr>
               {{!-- Component Fields --}}
-              <th scope=col>ID</th>
               <th scope=col>Language</th>
               <th scope=col>Form</th>
               <th scope=col>UR</th>
@@ -71,7 +70,6 @@
           <tbody>
             {{#each results as |result| }}
               <tr>
-                <td class=component-id>{{ componentID }}</td>
                 <td class=language>{{ displayLanguage }}</td>
                 <td class=form>{{#if form }}<a class=link href='/components/{{ ID }}'>{{ form }}</a>{{else}}—{{/if}}</td>
                 <td class=UR>{{#if UR }}<a class=link href='/components/{{ ID }}'>/{{ UR }}/</a>{{else}}—{{/if}}</td>
