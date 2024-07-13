@@ -205,8 +205,8 @@
             {{#each stems }}
               <tr>
                 <td class='stem-form txn'>{{ form }}</td>
-                <td class=stem-category>{{#if category }}{{ category }}{{/if}}</td>
-                <td class=stem-subcategory>{{#if subcategory }}{{ subcategory }}{{/if}}</td>
+                <td class=stem-category>{{#if category }}{{ category }}{{else}}—{{/if}}</td>
+                <td class=stem-subcategory>{{#if subcategory }}{{ subcategory }}{{else}}—{{/if}}</td>
                 <td>{{#if gloss }}‘{{ gloss }}’{{/if}}</td>
                 <td class=stem-secondary><input type=checkbox {{#if secondary }}checked{{/if}} inert></td>
                 <td>{{#if source }}{{ source }}{{/if}}</td>
@@ -233,12 +233,12 @@
           {{#each tokens as |token| }}
             <tr>
               <td class=txn>{{ form }}</td>
-              <td class=txn>{{#if UR }}/{{ UR }}/{{/if}}</td>
-              <td class=txn>{{ PA }}</td>
-              <td>{{#if gloss }}‘{{ gloss }}’{{/if}}</td>
+              <td class=txn>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</td>
+              <td class=txn>{{#if PA }}{{ PA }}{{else}}—{{/if}}</td>
+              <td>{{#if gloss }}‘{{ gloss }}’{{else}}—{{/if}}</td>
               <td>{{ bibliography }}</td>
-              <td>{{ speaker }}</td>
-              <td>{{ notes }}</td>
+              <td>{{#if speaker }}{{ speaker }}{{else}}—{{/if}}</td>
+              <td>{{#if notes }}{{ notes }}{{else}}—{{/if}}</td>
             </tr>
           {{/each}}
         </tbody>
