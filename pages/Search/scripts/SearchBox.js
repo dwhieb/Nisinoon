@@ -12,6 +12,8 @@ export default class SearchBox {
       this.el.value = query
     }
 
+    this.el.focus()
+
   }
 
 }
