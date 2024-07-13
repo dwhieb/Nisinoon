@@ -232,7 +232,7 @@
         <tbody>
           {{#each tokens as |token| }}
             <tr>
-              <td class=txn>{{ form }}</td>
+              <td class=txn>{{#if form }}{{ form }}{{else}}—{{/if}}</td>
               <td class=txn>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</td>
               <td class=txn>{{#if PA }}{{ PA }}{{else}}—{{/if}}</td>
               <td>{{#if gloss }}‘{{ gloss }}’{{else}}—{{/if}}</td>

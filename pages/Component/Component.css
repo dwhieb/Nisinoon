@@ -8,6 +8,7 @@
 @import 'inline-example.css';
 @import 'label.css';
 @import 'pre.css';
+@import 'transcription.css';
 
 :is(.metadata, .sources, .stems) {
   overflow-x:    auto;
