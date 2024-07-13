@@ -3,7 +3,10 @@
   {{#with component }}
   <article>
 
-    <h1 class=page-title>{{ displayLanguage }}: <i class=inex>{{ displayForm }}</i></h1>
+    <header class=page-header>
+      <h1 class=page-title>{{ displayLanguage }}: <i class=inex>{{ displayForm }}</i></h1>
+      {{> em-dash/em-dash }}
+    </header>
 
     <fieldset>
       <legend class=label>Basics</legend>

@@ -5,6 +5,7 @@
 @import 'cite.css';
 @import 'code.css';
 @import 'external-link.css';
+@import 'help-text.css';
 @import 'inline-example.css';
 @import 'label.css';
 @import 'pre.css';
@@ -89,8 +90,10 @@ legend {
   row-gap:         1em;
 }
 
-.page-title {
-  width: 100%;
+.page-header {
+  align-items: center;
+  text-align:  center;
+  width:       100%;
 }
 
 table {
