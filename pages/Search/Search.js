@@ -107,6 +107,7 @@ export function Search(req, res) {
       },
       nextPages,
       prevPages,
+      show:       allResults.length > limit,
       startIndex: (offset + 1).toLocaleString(),
     },
     results,

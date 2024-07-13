@@ -31,7 +31,7 @@
         <a href='{{ link }}'>{{#if jump }}…{{else}}{{ pageNum }}{{/if}}</a>
       </li>
     {{/each}}
-    {{#unless (is endIndex totalResults) }}
+    {{#unless (is endIndex ../totalResults) }}
       <li>
         <a href='{{ links.nextPage }}'>
           <span aria-hidden=true>›</span>

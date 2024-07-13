@@ -40,7 +40,9 @@
         {{> em-dash/em-dash }}
       </div>
 
-      {{> Search/components/pagination/pagination }}
+      {{#if pagination.show }}
+        {{> Search/components/pagination/pagination }}
+      {{/if}}
 
       <div aria-labelledby=results-caption class='results-wrapper scroll-shadow' role=region tabindex=0>
         <table class=results>
@@ -118,7 +120,9 @@
         </table>
       </div>
 
-      {{> Search/components/pagination/pagination }}
+      {{#if pagination.show }}
+        {{> Search/components/pagination/pagination }}
+      {{/if}}
 
       <section class='citation sticky'>
 
