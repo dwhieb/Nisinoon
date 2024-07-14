@@ -135,15 +135,34 @@ describe(`Search`, function() {
       cy.get(`.results tbody tr`).should(`have.length.of.at.least`, 12000)
     })
 
-    // NB: Currently testing using querystring
-    // TODO: Once the page links are implemented, test using that instead.
     it(`offset`, function() {
-      cy.visit(`/search?offset=10&q=`)
-      // NB: The 11th result in the database is currently Eastern Abenaki Component #5.
-      cy.get(`.results td`).first().should(`have.text`, `Eastern Abenaki`)
+      cy.visit(`/search`)
+      cy.get(`form`).submit()
+      cy.contains(`.pagination li`, `2`).click()
+      // NB: The 101st result in the database is currently Arapaho "-nooθ-".
+      cy.get(`.results td`).first().should(`have.text`, `Arapaho`)
       .next()
-      .should(`have.text`, `-ahte`)
+      .should(`have.text`, `-nooθ-`)
     })
+
+  })
+
+  describe(`Sorting`, function() {
+
+    // NB: Currently testing using querystring.
+    // TODO: Once column sorting UI is implemented, test with that instead.
+    it(`single-column sort`, function() {
+
+      cy.visit(`/search?sort=-form&q=`)
+      cy.get(`.results td`).first().should(`have.text`, `Arapaho`)
+      .next()
+      .should(`have.text`, `θooxoneeʔ-`)
+
+    })
+
+    // Wait to test this until Advanced Search is implemented.
+    // This will make it easier to select a small set of components for testing.
+    it(`multi-column sort`)
 
   })
 

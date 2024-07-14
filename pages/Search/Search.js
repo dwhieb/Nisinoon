@@ -35,26 +35,55 @@ export function Search(req, res) {
     q,
   } = req.query
 
-  limit  = Number(limit)
-  offset = Number(offset)
-  q      = q.trim().toLowerCase()
+  // Search
+
+  q = q.trim().toLowerCase()
 
   const allResults = req.app.db.search(q)
-  const results    = allResults.slice(offset, offset + limit)
-  const url        = new URL(req.originalUrl, `${ req.protocol }://${ req.host }`)
+
+  // Sort
+
+  if (req.query.sort) {
+
+    const sortDirectives = req.query.sort
+    .split(`,`)
+    .map(directive => ({
+      ascending: !directive.startsWith(`-`),
+      field:     directive.replace(/^-/v, ``),
+    }))
+
+    allResults.sort((a, b) => {
+
+      const comparisons = sortDirectives.map(({ ascending, field }) => {
+        const comparison = (a[field] || ``).localeCompare(b[field] || ``)
+        return ascending ? comparison : comparison * -1
+      })
+
+      return comparisons.reduce((state, comparison) => state ? state : comparison, 0)
+
+    })
+
+  }
 
   // Pagination
 
-  const lastPageOffset = Math.floor(allResults.length / limit) * limit
-  const nextPageOffset = Math.min(offset + limit, allResults.length)
-  const prevPageOffset = Math.max(offset - limit, 0)
+  limit  = Number(limit)
+  offset = Number(offset)
+
+  const results = allResults.slice(offset, offset + limit)
+
+  const numAdjacentPages = 5
+  const lastPageOffset   = Math.floor(allResults.length / limit) * limit
+  const nextPageOffset   = Math.min(offset + limit, allResults.length)
+  const prevPageOffset   = Math.max(offset - limit, 0)
+  const url              = new URL(req.originalUrl, `${ req.protocol }://${ req.host }`)
 
   const prevPages = []
   const nextPages = []
 
   let prevOffset = offset - limit
 
-  while (prevOffset >= 0 && prevPages.length < 5) {
+  while (prevOffset >= 0 && prevPages.length < numAdjacentPages) {
 
     prevPages.unshift({
       link:    changeParam(url, `offset`, prevOffset),
@@ -73,7 +102,7 @@ export function Search(req, res) {
 
   let nextOffset = offset + limit
 
-  while (nextOffset <= allResults.length && nextPages.length <= 5) {
+  while (nextOffset <= allResults.length && nextPages.length <= numAdjacentPages) {
 
     nextPages.push({
       link:    changeParam(url, `offset`, nextOffset),
