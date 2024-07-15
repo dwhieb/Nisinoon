@@ -154,6 +154,9 @@ describe(`Search`, function() {
     it(`single-column sort`, function() {
 
       cy.visit(`/search?sort=-form&q=`)
+
+      cy.contains(`th`, `Form`).first().should(`have.attr`, `aria-sort`)
+
       cy.get(`.results td`).first().should(`have.text`, `Arapaho`)
       .next()
       .should(`have.text`, `θooxoneeʔ-`)

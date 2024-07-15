@@ -44,6 +44,8 @@
         {{> Search/components/pagination/pagination }}
       {{/if}}
 
+      {{log sort }}
+
       <div aria-labelledby=results-caption class='results-wrapper scroll-shadow' role=region tabindex=0>
         <table class=results>
           <caption class=visually-hidden id=results-caption><h2>Search Results</h2></caption>
@@ -53,20 +55,25 @@
               <th class='c partial-width-bb' colspan=5 scope=col>Sources<br><span class='help-text th-note'>(Original Orthographies)</span></th>{{!-- Token Fields --}}
             </tr>
             <tr>
+
               {{!-- Component Fields --}}
-              <th scope=col>Language</th>
-              <th scope=col>Form</th>
-              <th scope=col>UR</th>
-              <th scope=col>Proto-Algonquian</th>
-              <th scope=col>Definition</th>
-              <th scope=col>Type</th>
-              <th scope=col>Subcategory</th>
-              {{! -- Token Fields --}}
+              {{#with sort }}
+              <th {{#if language }}    aria-sort='{{ language }}'    {{/if}} scope=col>Language</th>
+              <th {{#if form }}        aria-sort='{{ form }}'        {{/if}} scope=col>Form</th>
+              <th {{#if UR }}          aria-sort='{{ UR }}'          {{/if}} scope=col>UR</th>
+              <th {{#if PA }}          aria-sort='{{ PA }}'          {{/if}} scope=col>Proto-Algonquian</th>
+              <th {{#if definition }}  aria-sort='{{ definition }}'  {{/if}} scope=col>Definition</th>
+              <th {{#if type }}        aria-sort='{{ type }}'        {{/if}} scope=col>Type</th>
+              <th {{#if subcategory }} aria-sort='{{ subcategory }}' {{/if}} scope=col>Subcategory</th>
+              {{/with}}
+
+              {{!-- Token Fields --}}
               <th scope=col>Forms</th>
               <th scope=col>URs</th>
               <th scope=col>Proto-Algonquian</th>
               <th scope=col>Glosses</th>
               <th scope=col>Bibliography</th>
+
             </tr>
           </thead>
           <tbody>

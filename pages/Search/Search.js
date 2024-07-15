@@ -33,6 +33,7 @@ export function Search(req, res) {
     limit = 100,
     offset = 0,
     q,
+    sort = ``,
   } = req.query
 
   // Search
@@ -43,18 +44,18 @@ export function Search(req, res) {
 
   // Sort
 
-  if (req.query.sort) {
+  sort = sort
+  .split(`,`)
+  .filter(Boolean)
+  .map(directive => ({
+    ascending: !directive.startsWith(`-`),
+    field:     directive.replace(/^-/v, ``),
+  }))
 
-    const sortDirectives = req.query.sort
-    .split(`,`)
-    .map(directive => ({
-      ascending: !directive.startsWith(`-`),
-      field:     directive.replace(/^-/v, ``),
-    }))
-
+  if (sort.length) {
     allResults.sort((a, b) => {
 
-      const comparisons = sortDirectives.map(({ ascending, field }) => {
+      const comparisons = sort.map(({ ascending, field }) => {
         const comparison = (a[field] || ``).localeCompare(b[field] || ``)
         return ascending ? comparison : comparison * -1
       })
@@ -62,8 +63,8 @@ export function Search(req, res) {
       return comparisons.reduce((state, comparison) => state ? state : comparison, 0)
 
     })
-
   }
+
 
   // Pagination
 
@@ -140,6 +141,10 @@ export function Search(req, res) {
       startIndex: (offset + 1).toLocaleString(),
     },
     results,
+    sort: sort.reduce((hash, { ascending, field }) => {
+      hash[field] = ascending ? `ascending` : `descending`
+      return hash
+    }, {}),
     totalResults: allResults.length.toLocaleString(),
   })
 
