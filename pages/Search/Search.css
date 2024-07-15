@@ -87,6 +87,10 @@ h2 {
   padding:         0;
 }
 
+.meta-row th {
+  padding: var(--text-padding);
+}
+
 .no-results {
   font-size:  xx-large;
   padding:    var(--text-padding-lg);
@@ -111,15 +115,12 @@ h2 {
 
   & td {
     border-block-end: var(--cell-border);
+    padding:          var(--text-padding);
+    word-break:       keep-all;
   }
 
   & th {
     font-weight: bold;
-  }
-
-  :is(td, th) {
-    word-break: keep-all;
-    padding:    var(--text-padding);
   }
 
   & thead {
@@ -182,6 +183,38 @@ search {
 
 .search-form {
   max-inline-size: 30em;
+}
+
+.sort-button {
+  align-items:     center;
+  cursor:          pointer;
+  display:         flex;
+  flex-direction:  row;
+  gap:             0.25em;
+  inline-size:     100%;
+  justify-content: center;
+  text-align:      center;
+}
+
+.sort-button:hover {
+  background-color: var(--martinique);
+  color:            var(--off-white);
+}
+
+:is(.sort-button, .token-th) {
+  padding:     var(--text-padding);
+  white-space: nowrap;
+  word-break:  keep-all;
+}
+
+#sort-hint {
+  display: none;
+}
+
+.sort-icon {
+  --icon-size: 0.75em;
+  block-size:  var(--icon-size);
+  inline-size: var(--icon-size);
 }
 
 .stats {

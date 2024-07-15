@@ -36,6 +36,7 @@
 
       <div class='results-info sticky'>
         <p class=num-results>Showing results {{ pagination.startIndex }}–{{ pagination.endIndex }} of {{ totalResults }}.</p>
+        <p class=help-text>Click on a column header to sort that column.</p>
         <p class=help-text>Click on a form in the table below to view more information about that component.</p>
         {{> em-dash/em-dash }}
       </div>
@@ -44,35 +45,77 @@
         {{> Search/components/pagination/pagination }}
       {{/if}}
 
-      {{log sort }}
-
       <div aria-labelledby=results-caption class='results-wrapper scroll-shadow' role=region tabindex=0>
+
+        <span id=sort-hint>Click on a header column to sort.</span>
+
         <table class=results>
           <caption class=visually-hidden id=results-caption><h2>Search Results</h2></caption>
           <thead>
-            <tr>
-              <th class='c partial-width-bb' colspan=7 scope=col>Components<br><span class='help-text th-note'>(Project Orthography)</span></th>
-              <th class='c partial-width-bb' colspan=5 scope=col>Sources<br><span class='help-text th-note'>(Original Orthographies)</span></th>{{!-- Token Fields --}}
+            <tr class=meta-row>
+              {{!-- Component Fields --}}
+              <th class='c partial-width-bb' colspan=7 scope=col>
+                <span>Components</span><br><span class='help-text th-note'>(Project Orthography)</span>
+              </th>
+              {{!-- Token Fields --}}
+              <th class='c partial-width-bb' colspan=5 scope=col>
+                <span>Sources</span><br><span class='help-text th-note'>(Original Orthographies)</span>
+              </th>
             </tr>
             <tr>
 
               {{!-- Component Fields --}}
               {{#with sort }}
-              <th {{#if language }}    aria-sort='{{ language }}'    {{/if}} scope=col>Language</th>
-              <th {{#if form }}        aria-sort='{{ form }}'        {{/if}} scope=col>Form</th>
-              <th {{#if UR }}          aria-sort='{{ UR }}'          {{/if}} scope=col>UR</th>
-              <th {{#if PA }}          aria-sort='{{ PA }}'          {{/if}} scope=col>Proto-Algonquian</th>
-              <th {{#if definition }}  aria-sort='{{ definition }}'  {{/if}} scope=col>Definition</th>
-              <th {{#if type }}        aria-sort='{{ type }}'        {{/if}} scope=col>Type</th>
-              <th {{#if subcategory }} aria-sort='{{ subcategory }}' {{/if}} scope=col>Subcategory</th>
+              <th {{#if language }} aria-sort='{{ language }}' {{/if}} scope=col>
+                <button aria-describedby=sort-hint class=sort-button>
+                  <span>Language</span>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is language 'ascending') }}#ascending{{else if (is language 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                </button>
+              </th>
+              <th {{#if form }} aria-sort='{{ form }}' {{/if}} scope=col>
+                <button aria-describedby=sort-hint class=sort-button>
+                  <span>Form</span>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is form 'ascending') }}#ascending{{else if (is form 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                </button>
+              </th>
+              <th {{#if UR }} aria-sort='{{ UR }}' {{/if}} scope=col>
+                <button aria-describedby=sort-hint class=sort-button>
+                  <span>UR</span>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is UR 'ascending') }}#ascending{{else if (is UR 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                </button>
+              </th>
+              <th {{#if PA }} aria-sort='{{ PA }}' {{/if}} scope=col>
+                <button aria-describedby=sort-hint class=sort-button>
+                  <span>Proto-Algonquian</span>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is PA 'ascending') }}#ascending{{else if (is PA 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                </button>
+              </th>
+              <th {{#if definition }} aria-sort='{{ definition }}' {{/if}} scope=col>
+                <button aria-describedby=sort-hint class=sort-button>
+                  <span>Definition</span>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is definition 'ascending') }}#ascending{{else if (is definition 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                </button>
+              </th>
+              <th {{#if type }} aria-sort='{{ type }}' {{/if}} scope=col>
+                <button aria-describedby=sort-hint class=sort-button>
+                  <span>Type</span>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is type 'ascending') }}#ascending{{else if (is type 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                </button>
+              </th>
+              <th {{#if subcategory }} aria-sort='{{ subcategory }}' {{/if}} scope=col>
+                <button aria-describedby=sort-hint class=sort-button>
+                  <span>Subcategory</span>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is subcategory 'ascending') }}#ascending{{else if (is subcategory 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                </button>
+              </th>
               {{/with}}
 
               {{!-- Token Fields --}}
-              <th scope=col>Forms</th>
-              <th scope=col>URs</th>
-              <th scope=col>Proto-Algonquian</th>
-              <th scope=col>Glosses</th>
-              <th scope=col>Bibliography</th>
+              <th class=token-th scope=col>Forms</th>
+              <th class=token-th scope=col>URs</th>
+              <th class=token-th scope=col>Proto-Algonquian</th>
+              <th class=token-th scope=col>Glosses</th>
+              <th class=token-th scope=col>Bibliography</th>
 
             </tr>
           </thead>
