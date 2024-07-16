@@ -4,7 +4,7 @@ describe(`Search`, function() {
     cy.visit(`/search`)
     cy.title().should(`equal`, `Nisinoon | Search`)
     // Do not show results if a search was not submitted.
-    cy.get(`.results`).should(`not.exist`)
+    cy.get(`#results`).should(`not.exist`)
   })
 
   describe(`Quick Search`, function() {
@@ -23,7 +23,7 @@ describe(`Search`, function() {
       cy.get(`form`).submit()
       cy.get(`#search-box`).should(`have.value`, search)
       cy.get(`.num-results`).should(`have.text`, `Showing results 1–2 of 2.`)
-      cy.get(`.results tbody tr`).should(`have.length`, 2)
+      cy.get(`#results tbody tr`).should(`have.length`, 2)
     })
 
     it(`case insensitive`, function() {
@@ -31,7 +31,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`ATIMW`)
       cy.get(`form`).submit()
       cy.get(`.num-results`).should(`include.text`, 2)
-      cy.get(`.results tbody tr`).should(`have.length`, 2)
+      cy.get(`#results tbody tr`).should(`have.length`, 2)
     })
 
     it(`Form (Project)`, function() {
@@ -39,7 +39,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`aamæhk`)
       cy.get(`form`).submit()
       cy.get(`.num-results`).should(`include.text`, 2)
-      cy.get(`.results tbody tr`).should(`have.length`, 2)
+      cy.get(`#results tbody tr`).should(`have.length`, 2)
     })
 
     it(`UR (Project)`, function() {
@@ -47,7 +47,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`αhso`)
       cy.get(`form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`.results tbody tr`).should(`have.length`, 1)
+      cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
     it(`Proto-Algonquian (Project)`, function() {
@@ -55,7 +55,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`(aa)ntep`)
       cy.get(`form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`.results tbody tr`).should(`have.length`, 1)
+      cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
     it(`Definition (Project)`, function() {
@@ -63,7 +63,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`motorize`)
       cy.get(`form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`.results tbody tr`).should(`have.length`, 1)
+      cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
     it(`Forms (Source)`, function() {
@@ -71,7 +71,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`gan̈ba8i`)
       cy.get(`form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`.results tbody tr`).should(`have.length`, 1)
+      cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
     it(`URs (Source)`, function() {
@@ -79,7 +79,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`iinoo'ei`)
       cy.get(`form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`.results tbody tr`).should(`have.length`, 1)
+      cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
     it(`Proto-Algonquian (Source)`, function() {
@@ -87,7 +87,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`-eʔs-`)
       cy.get(`form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`.results tbody tr`).should(`have.length`, 1)
+      cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
     it(`Definitions (Source)`, function() {
@@ -95,7 +95,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`motorisé`)
       cy.get(`form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`.results tbody tr`).should(`have.length`, 1)
+      cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
   })
@@ -108,10 +108,10 @@ describe(`Search`, function() {
       cy.get(`form`).submit()
 
       // Return 100 results by default
-      cy.get(`.results tbody tr`).should(`have.length`, 100)
+      cy.get(`#results tbody tr`).should(`have.length`, 100)
 
       // Return first page of results by default
-      cy.get(`.results td`).first().should(`have.text`, `Abenaki`)
+      cy.get(`#results td`).first().should(`have.text`, `Abenaki`)
       .next()
       .should(`have.text`, `ôben-`)
 
@@ -124,7 +124,7 @@ describe(`Search`, function() {
     // TODO: Once the "# of Results to Show" dropdown is implemented, test using that instead.
     it(`limit`, function() {
       cy.visit(`/search?limit=10&q=`)
-      cy.get(`.results tbody tr`).should(`have.length`, `10`)
+      cy.get(`#results tbody tr`).should(`have.length`, `10`)
     })
 
     // NB: Currently testing using querystring.
@@ -132,7 +132,7 @@ describe(`Search`, function() {
     // WARNING: Long-running test. Only run as needed.
     it.skip(`limit: Infinity`, function() {
       cy.visit(`/search?limit=Infinity&q=`)
-      cy.get(`.results tbody tr`).should(`have.length.of.at.least`, 12000)
+      cy.get(`#results tbody tr`).should(`have.length.of.at.least`, 12000)
     })
 
     it(`offset`, function() {
@@ -140,7 +140,7 @@ describe(`Search`, function() {
       cy.get(`form`).submit()
       cy.contains(`.pagination li`, `2`).click()
       // NB: The 101st result in the database is currently Arapaho "-nooθ-".
-      cy.get(`.results td`).first().should(`have.text`, `Arapaho`)
+      cy.get(`#results td`).first().should(`have.text`, `Arapaho`)
       .next()
       .should(`have.text`, `-nooθ-`)
     })
@@ -157,7 +157,7 @@ describe(`Search`, function() {
 
       cy.contains(`th`, `Form`).first().should(`have.attr`, `aria-sort`)
 
-      cy.get(`.results td`).first().should(`have.text`, `Arapaho`)
+      cy.get(`#results td`).first().should(`have.text`, `Arapaho`)
       .next()
       .should(`have.text`, `θooxoneeʔ-`)
 
