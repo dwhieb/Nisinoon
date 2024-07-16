@@ -1,3 +1,5 @@
+import SortDirectives from '../../scripts/SortDirectives.js'
+
 /**
  *
  * @param {URL}    url A URL object.
@@ -44,27 +46,21 @@ export function Search(req, res) {
 
   // Sort
 
-  sort = sort
-  .split(`,`)
-  .filter(Boolean)
-  .map(directive => ({
-    ascending: !directive.startsWith(`-`),
-    field:     directive.replace(/^-/v, ``),
-  }))
+  sort = new SortDirectives(sort)
 
-  if (sort.length) {
+  if (sort.size) {
     allResults.sort((a, b) => {
 
-      const comparisons = sort.map(({ ascending, field }) => {
+      const comparisons = Array.from(sort.entries())
+      .map(([field, direction]) => {
         const comparison = (a[field] || ``).localeCompare(b[field] || ``)
-        return ascending ? comparison : comparison * -1
+        return direction === `ascending` ? comparison : comparison * -1
       })
 
       return comparisons.reduce((state, comparison) => state ? state : comparison, 0)
 
     })
   }
-
 
   // Pagination
 
@@ -141,10 +137,7 @@ export function Search(req, res) {
       startIndex: (offset + 1).toLocaleString(),
     },
     results,
-    sort: sort.reduce((hash, { ascending, field }) => {
-      hash[field] = ascending ? `ascending` : `descending`
-      return hash
-    }, {}),
+    sort:         Object.fromEntries(sort),
     totalResults: allResults.length.toLocaleString(),
   })
 

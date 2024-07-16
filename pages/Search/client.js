@@ -2,6 +2,7 @@
 
 import Copier    from '../../scripts/Copier.js'
 import SearchBox from './scripts/SearchBox.js'
+import Table     from './scripts/Table.js'
 
 // Initialize button to copy citation information
 
@@ -18,3 +19,9 @@ if (button && el) {
 const search = new SearchBox
 
 search.initialize()
+
+// Initialize results table
+
+const table = new Table
+
+table.initialize()
