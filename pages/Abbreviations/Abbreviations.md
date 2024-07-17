@@ -20,7 +20,8 @@ Below is a list of abbreviations used in the database.
 | INCORP                | Incorporated medial                                   |
 | INTRANS               | Intransitive                                          |
 | N                     | Noun                                                  |
-| NA                    | Noun, animate                                         |
+| NA                    | Noun, animate / Noun abbreviations                    |
+| NC                    | Not clear                                             |
 | NG                    | Not given                                             |
 | NI                    | Noun, inanimate                                       |
 | NUM                   | Numeral root                                          |
