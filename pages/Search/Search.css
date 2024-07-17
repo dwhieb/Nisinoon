@@ -207,7 +207,13 @@ search {
 }
 
 .search-form {
-  max-inline-size: 30em;
+
+  max-inline-size: 35em;
+
+  & button {
+    inline-size: 5em;
+  }
+
 }
 
 .sort-button {

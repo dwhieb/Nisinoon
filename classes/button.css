@@ -4,9 +4,8 @@
   --gray-saturation: 15%;
 
   background-color: hsl(var(--gray-hue) var(--gray-saturation) 85%);
-  border:           1px solid #CCC;
   border-radius:    var(--border-radius);
-  box-shadow:       inset 0px 0px 3px 2px hsl(var(--gray-hue) var(--gray-saturation) 95%),
+  box-shadow:       inset 0px 0px 2px 1px hsl(var(--gray-hue) var(--gray-saturation) 95%),
                     1px 1px 2px #CCC;
   color:            black;
   cursor:           pointer;
@@ -34,8 +33,7 @@
   --green-saturation: 15%;
 
   background-color: hsl(var(--green-hue) var(--green-saturation) 45%);
-  border:           1px solid var(--asparagus);
-  box-shadow:       inset 0px 0px 3px 2px hsl(var(--green-hue) var(--green-saturation) 55%),
+  box-shadow:       inset 0px 0px 2px 1px hsl(var(--green-hue) var(--green-saturation) 55%),
                     1px 1px 2px #CCC;
   color:            white;
 
@@ -45,6 +43,27 @@
 
   &:active {
     background-color: hsl(var(--green-hue) var(--green-saturation) 25%);
+    box-shadow:       inset 0px 1px 2px #000;
+  }
+
+}
+
+.button.blue {
+
+  --blue-hue:        180;
+  --blue-saturation: 30%;
+
+  background-color: hsl(var(--blue-hue) var(--blue-saturation) 45%);
+  box-shadow:       inset 0px 0px 2px 1px hsl(var(--blue-hue) var(--blue-saturation) 55%),
+                    1px 1px 2px #CCC;
+  color:            white;
+
+  &:hover {
+    background-color: hsl(var(--blue-hue) var(--blue-saturation) 35%);
+  }
+
+  &:active {
+    background-color: hsl(var(--blue-hue) var(--blue-saturation) 25%);
     box-shadow:       inset 0px 1px 2px #000;
   }
 
