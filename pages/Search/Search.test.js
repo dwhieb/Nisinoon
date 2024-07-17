@@ -100,6 +100,25 @@ describe(`Search`, function() {
 
   })
 
+  describe(`Language Filter`, function() {
+
+    it(`language filter only`, function() {
+      cy.visit(`/search`)
+      cy.get(`#language-select`).select(`Cree_East`)
+      cy.get(`form`).submit()
+      cy.get(`#results tbody tr`).should(`have.length`, 6)
+    })
+
+    it(`language filter + search query`, function() {
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`yi`)
+      cy.get(`#language-select`).select(`Cree_East`)
+      cy.get(`form`).submit()
+      cy.get(`#results tbody tr`).should(`have.length`, 1)
+    })
+
+  })
+
   describe(`Pagination`, function() {
 
     it(`defaults`, function() {

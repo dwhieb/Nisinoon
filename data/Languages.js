@@ -39,8 +39,9 @@ export default class Languages extends Map {
 
   }
 
-  convertRecord({ key, name }) {
-    return { key, name }
+  convertRecord({ autonyms = ``, key, name }) {
+    autonyms = autonyms.split(/,\s*/gv).filter(Boolean)
+    return { autonyms, key, name }
   }
 
   async load() {

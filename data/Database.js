@@ -17,15 +17,19 @@ export default class Database {
     this.components = Array.from(this.index.values())
   }
 
-  search(query) {
+  search(query, langQuery) {
     // NB: Be careful not to alter the original array here.
     return Array.from(this.components).filter(function({
       definition,
       form,
+      language,
       PA,
       tokens,
       UR,
     }) {
+
+      if (langQuery && langQuery !== `all` && langQuery !== language) return false
+
       return definition?.toLowerCase().includes(query)
       || form?.toLowerCase().includes(query)
       || PA?.toLowerCase().includes(query)
@@ -41,6 +45,7 @@ export default class Database {
         || PA?.toLowerCase().includes(query)
         || UR?.toLowerCase().includes(query)
       })
+
     })
   }
 

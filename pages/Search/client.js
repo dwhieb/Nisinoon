@@ -1,8 +1,8 @@
 /* global document */
 
-import Copier    from '../../scripts/Copier.js'
-import SearchBox from './scripts/SearchBox.js'
-import Table     from './scripts/Table.js'
+import Copier     from '../../scripts/Copier.js'
+import SearchForm from './scripts/SearchForm.js'
+import Table      from './scripts/Table.js'
 
 // Initialize button to copy citation information
 
@@ -16,7 +16,7 @@ if (button && el) {
 
 // Initialize search box
 
-const search = new SearchBox
+const search = new SearchForm
 
 search.initialize()
 

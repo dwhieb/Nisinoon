@@ -17,6 +17,7 @@ export function Search(req, res) {
   const { db } = req.app
 
   const context = {
+    languages:     db.languages.toJSON().sort((a, b) => a.name.localeCompare(b.name)),
     numComponents: db.index.size.toLocaleString(),
     numLanguages:  db.languages.size.toLocaleString(),
     pageCSS:       res.app.locals.styles.Search,
@@ -25,7 +26,7 @@ export function Search(req, res) {
     url:           req.originalUrl,
   }
 
-  if (!(`q` in req.query)) {
+  if (!(`q` in req.query || `language` in req.query)) {
     return res.render(`Search/Search`, context)
   }
 
@@ -42,14 +43,15 @@ export function Search(req, res) {
 
   q = q.trim().toLowerCase()
 
-  const allResults = req.app.db.search(q)
+  let   results         = req.app.db.search(q, req.query.language)
+  const numTotalResults = results.length
 
   // Sort
 
   sort = new SortDirectives(sort)
 
   if (sort.size) {
-    allResults.sort((a, b) => {
+    results.sort((a, b) => {
 
       const comparisons = Array.from(sort.entries())
       .map(([field, { direction }]) => {
@@ -64,14 +66,13 @@ export function Search(req, res) {
 
   // Pagination
 
-  limit  = Number(limit)
-  offset = Number(offset)
-
-  const results = allResults.slice(offset, offset + limit)
+  limit   = Number(limit)
+  offset  = Number(offset)
+  results = results.slice(offset, offset + limit)
 
   const numAdjacentPages = 5
-  const lastPageOffset   = Math.floor(allResults.length / limit) * limit
-  const nextPageOffset   = Math.min(offset + limit, allResults.length)
+  const lastPageOffset   = Math.floor(numTotalResults / limit) * limit
+  const nextPageOffset   = Math.min(offset + limit, numTotalResults)
   const prevPageOffset   = Math.max(offset - limit, 0)
   const url              = new URL(req.originalUrl, `${ req.protocol }://${ req.host }`)
 
@@ -99,7 +100,7 @@ export function Search(req, res) {
 
   let nextOffset = offset + limit
 
-  while (nextOffset <= allResults.length && nextPages.length <= numAdjacentPages) {
+  while (nextOffset <= numTotalResults && nextPages.length <= numAdjacentPages) {
 
     nextPages.push({
       link:    changeParam(url, `offset`, nextOffset),
@@ -124,7 +125,7 @@ export function Search(req, res) {
     numResults: results.length.toLocaleString(),
     pagination: {
       currentPage: Math.floor(offset / limit) + 1,
-      endIndex:    Math.min(offset + limit, allResults.length).toLocaleString(),
+      endIndex:    Math.min(offset + limit, numTotalResults).toLocaleString(),
       links:       {
         firstPage: changeParam(url, `offset`, 0),
         lastPage:  changeParam(url, `offset`, lastPageOffset),
@@ -133,12 +134,12 @@ export function Search(req, res) {
       },
       nextPages,
       prevPages,
-      show:       allResults.length > limit,
+      show:       numTotalResults > limit,
       startIndex: (offset + 1).toLocaleString(),
     },
     results,
     sort:         Object.fromEntries(sort),
-    totalResults: allResults.length.toLocaleString(),
+    totalResults: numTotalResults.toLocaleString(),
   })
 
   res.render(`Search/Search`, context)
