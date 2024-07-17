@@ -7,12 +7,6 @@
   font-size:        1.125em;
   font-weight:      500;
 
-  /* Necessary to override the width setting for the `.sticky` class. */
-  &.sticky {
-    inline-size:     100vw;
-    max-inline-size: 100vw;
-  }
-
   & a {
 
     display:     block;

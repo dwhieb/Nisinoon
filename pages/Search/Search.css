@@ -59,26 +59,6 @@ body {
 
 }
 
-.priority {
-  align-items:        center;
-  background-color:   var(--pink-swan);
-  block-size:         1em;
-  border-radius:      50%;
-  color:              black;
-  content:            attr(data-priority);
-  display:            flex;
-  font-size:          small;
-  inline-size:        1em;
-  inset-block-start:  0;
-  inset-inline-start: 0;
-  justify-content:    center;
-  padding:            0.75em;
-  position:           absolute;
-  text-align:         center;
-  transform:          translate(50%, -50%);
-  vertical-align:     middle;
-}
-
 /* NB: The .sticky class is applied conditionally in the footer Handlebars template. */
 .footer {
 
@@ -129,6 +109,26 @@ h2 {
 
 .partial-width-bb {
   box-shadow: 0px 15px 0px -14px black;
+}
+
+.priority {
+  align-items:        center;
+  background-color:   var(--pink-swan);
+  block-size:         1em;
+  border-radius:      50%;
+  color:              black;
+  content:            attr(data-priority);
+  display:            flex;
+  font-size:          small;
+  inline-size:        1em;
+  inset-block-start:  0;
+  inset-inline-start: 0;
+  justify-content:    center;
+  padding:            0.75em;
+  position:           absolute;
+  text-align:         center;
+  transform:          translate(50%, -50%);
+  vertical-align:     middle;
 }
 
 #results {
