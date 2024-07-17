@@ -52,7 +52,7 @@ export function Search(req, res) {
     allResults.sort((a, b) => {
 
       const comparisons = Array.from(sort.entries())
-      .map(([field, direction]) => {
+      .map(([field, { direction }]) => {
         const comparison = (a[field] || ``).localeCompare(b[field] || ``)
         return direction === `ascending` ? comparison : comparison * -1
       })

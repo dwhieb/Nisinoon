@@ -27,8 +27,14 @@ export default class Table {
     const directive  = directivesOrder[directivesOrder.indexOf(direction) + 1]
 
     directives.add(field, directive)
-    sort = directives.serialize()
-    url.searchParams.set(`sort`, sort)
+
+    if (directives.size) {
+      sort = directives.serialize()
+      url.searchParams.set(`sort`, sort)
+    } else {
+      url.searchParams.delete(`sort`)
+    }
+
     window.location = url.href
 
   }

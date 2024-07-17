@@ -8,12 +8,12 @@ export default class SortDirectives extends Map {
 
     directives.split(`,`)
     .filter(Boolean)
-    .forEach(directive => {
+    .forEach((directive, i) => {
 
       const field     = directive.replace(/^-/v, ``)
       const direction = directive.startsWith(`-`) ? `descending` : `ascending`
 
-      this.set(field, direction)
+      this.set(field, { direction, priority: i + 1 })
 
     })
 
@@ -31,20 +31,20 @@ export default class SortDirectives extends Map {
     const entries = Array.from(this.entries())
 
     if (direction) {
-      entries.unshift([field, direction])
+      entries.unshift([field, { direction, priority: 1 }])
     }
 
     this.clear()
 
-    for (const [f, d] of entries) {
-      this.set(f, d)
-    }
+    entries.forEach(([field, { direction }], i) => {
+      this.set(field, { direction, priority: i + 1 })
+    })
 
   }
 
   serialize() {
     return Array.from(this.entries())
-    .map(([field, direction]) => `${ direction === `descending` ? `-` : `` }${ field }`)
+    .map(([field, { direction }]) => `${ direction === `descending` ? `-` : `` }${ field }`)
     .join(`,`)
   }
 

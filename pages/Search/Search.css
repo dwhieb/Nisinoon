@@ -59,6 +59,26 @@ body {
 
 }
 
+.priority {
+  align-items:        center;
+  background-color:   var(--pink-swan);
+  block-size:         1em;
+  border-radius:      50%;
+  color:              black;
+  content:            attr(data-priority);
+  display:            flex;
+  font-size:          small;
+  inline-size:        1em;
+  inset-block-start:  0;
+  inset-inline-start: 0;
+  justify-content:    center;
+  padding:            0.75em;
+  position:           absolute;
+  text-align:         center;
+  transform:          translate(50%, -50%);
+  vertical-align:     middle;
+}
+
 /* NB: The .sticky class is applied conditionally in the footer Handlebars template. */
 .footer {
 
@@ -73,6 +93,10 @@ body {
 
 h2 {
   text-align: center;
+}
+
+.hint {
+  display: none;
 }
 
 .issue-link {
@@ -121,6 +145,7 @@ h2 {
 
   & th {
     font-weight: bold;
+    position:    relative;
   }
 
   & thead {
@@ -205,10 +230,6 @@ search {
   padding:     var(--text-padding);
   white-space: nowrap;
   word-break:  keep-all;
-}
-
-#sort-hint {
-  display: none;
 }
 
 .sort-icon {

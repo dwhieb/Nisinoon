@@ -47,7 +47,8 @@
 
       <div aria-labelledby=results-caption class='results-wrapper scroll-shadow' role=region tabindex=0>
 
-        <span id=sort-hint>Click on a header column to sort.</span>
+        <span class=hint id=priority-hint>Priority</span>
+        <span class=hint id=sort-hint>Click on a header column to sort.</span>
 
         <table id=results>
           <caption class=visually-hidden id=results-caption><h2>Search Results</h2></caption>
@@ -66,47 +67,54 @@
 
               {{!-- Component Fields --}}
               {{#with sort }}
-              <th {{#if displayLanguage }} aria-sort='{{ displayLanguage }}' {{/if}} scope=col>
+              <th {{#if displayLanguage }} aria-sort='{{ displayLanguage.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=displayLanguage>
                   <span>Language</span>
-                  <svg aria-hidden class=sort-icon><use href='{{#if (is displayLanguage 'ascending') }}#ascending{{else if (is displayLanguage 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is displayLanguage.direction 'ascending') }}#ascending{{else if (is displayLanguage.direction 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
                 </button>
+                {{#if displayLanguage }}<span aria-describedby=priority-hint class=priority>{{ displayLanguage.priority }}</span>{{/if}}
               </th>
-              <th {{#if form }} aria-sort='{{ form }}' {{/if}} scope=col>
+              <th {{#if form }} aria-sort='{{ form.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=form>
                   <span>Form</span>
-                  <svg aria-hidden class=sort-icon><use href='{{#if (is form 'ascending') }}#ascending{{else if (is form 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is form.direction 'ascending') }}#ascending{{else if (is form.direction 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
                 </button>
+                {{#if form }}<span aria-describedby=priority-hint class=priority>{{ form.priority }}</span>{{/if}}
               </th>
-              <th {{#if UR }} aria-sort='{{ UR }}' {{/if}} scope=col>
+              <th {{#if UR }} aria-sort='{{ UR.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=UR>
                   <span>UR</span>
-                  <svg aria-hidden class=sort-icon><use href='{{#if (is UR 'ascending') }}#ascending{{else if (is UR 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is UR.direction 'ascending') }}#ascending{{else if (is UR.direction 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
                 </button>
+                {{#if UR }}<span aria-describedby=priority-hint class=priority>{{ UR.priority }}</span>{{/if}}
               </th>
-              <th {{#if PA }} aria-sort='{{ PA }}' {{/if}} scope=col>
+              <th {{#if PA }} aria-sort='{{ PA.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=PA>
                   <span>Proto-Algonquian</span>
-                  <svg aria-hidden class=sort-icon><use href='{{#if (is PA 'ascending') }}#ascending{{else if (is PA 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is PA.direction 'ascending') }}#ascending{{else if (is PA.direction 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
                 </button>
+                {{#if PA }}<span aria-describedby=priority-hint class=priority>{{ PA.priority }}</span>{{/if}}
               </th>
-              <th {{#if definition }} aria-sort='{{ definition }}' {{/if}} scope=col>
+              <th {{#if definition }} aria-sort='{{ definition.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=definition>
                   <span>Definition</span>
-                  <svg aria-hidden class=sort-icon><use href='{{#if (is definition 'ascending') }}#ascending{{else if (is definition 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is definition.direction 'ascending') }}#ascending{{else if (is definition.direction 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
                 </button>
+                {{#if definition }}<span aria-describedby=priority-hint class=priority>{{ definition.priority }}</span>{{/if}}
               </th>
-              <th {{#if type }} aria-sort='{{ type }}' {{/if}} scope=col>
+              <th {{#if type }} aria-sort='{{ type.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=type>
                   <span>Type</span>
-                  <svg aria-hidden class=sort-icon><use href='{{#if (is type 'ascending') }}#ascending{{else if (is type 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is type.direction 'ascending') }}#ascending{{else if (is type.direction 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
                 </button>
+                {{#if type }}<span aria-describedby=priority-hint class=priority>{{ type.priority }}</span>{{/if}}
               </th>
-              <th {{#if subcategory }} aria-sort='{{ subcategory }}' {{/if}} scope=col>
+              <th {{#if subcategory }} aria-sort='{{ subcategory.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=subcategory>
                   <span>Subcategory</span>
-                  <svg aria-hidden class=sort-icon><use href='{{#if (is subcategory 'ascending') }}#ascending{{else if (is subcategory 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
+                  <svg aria-hidden class=sort-icon><use href='{{#if (is subcategory.direction 'ascending') }}#ascending{{else if (is subcategory.direction 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
                 </button>
+                {{#if subcategory }}<span aria-describedby=priority-hint class=priority>{{ subcategory.priority }}</span>{{/if}}
               </th>
               {{/with}}
 
