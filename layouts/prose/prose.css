@@ -5,6 +5,10 @@
 @import 'references-list.css';
 @import 'table.css';
 
+.error-message {
+  text-align: center;
+}
+
 .figure {
 
   counter-increment: figures;

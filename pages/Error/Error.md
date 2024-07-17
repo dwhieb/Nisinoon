@@ -1,3 +1,3 @@
 # {{ status }}: {{ title }}
 
-{{{ message }}}
+{{{ message }}} {.error-message}

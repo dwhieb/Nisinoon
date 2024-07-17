@@ -45,6 +45,7 @@ app.get(`/`, handlers.md(`About`))
 if (process.env.NODE_ENV !== `production`) {
   app.get(`/500-test`, handlers.ServerErrorTest)
 }
+app.get(`/abbreviations`, handlers.md(`Abbreviations`))
 app.get(`/bibliography`, handlers.md(`Bibliography`))
 app.get(`/grammar`, handlers.md(`Grammar`))
 app.get(`/research`, handlers.md(`Research`))
