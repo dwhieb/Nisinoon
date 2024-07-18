@@ -119,6 +119,9 @@ describe(`Search`, function() {
 
     it.only(`saves the user's selection across visits`, function() {
       cy.visit(`/search`)
+      cy.get(`#language-select`).select(`Cree_East`)
+      cy.reload()
+      cy.get(`#language-select`).should(`have.value`, `Cree_East`)
     })
 
   })
