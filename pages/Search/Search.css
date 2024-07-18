@@ -19,9 +19,9 @@
 
 .sticky {
   align-items:     center;
-  inline-size:     calc(100vw - 1em);
+  inline-size:     100vw;
   inset-inline:    0;
-  max-inline-size: calc(100vw - 1em);
+  max-inline-size: 100vw;
   position:        sticky;
 }
 
@@ -89,11 +89,19 @@ h2 {
 }
 
 #language-select {
-  all:         revert;                    /* Use default browser styles. */
-  font-family: 'Times New Roman', serif;  /* This is necessary because the adjustments to ligatures don't apply within the <select> element. */
-  font-size:   100%;
-  line-height: 1.5;
-  padding:     0.25em;
+
+  all:           revert;                    /* Use default browser styles. */
+  border-radius: var(--border-radius);
+  font-family:   'Times New Roman', serif;  /* This is necessary because the adjustments to ligatures don't apply within the <select> element. */
+  font-size:     100%;
+  line-height:   1.5;
+  padding:       0.25em;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: var(--off-black);
+    color:            var(--off-white);
+  }
+
 }
 
 #main {

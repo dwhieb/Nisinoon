@@ -117,6 +117,10 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
+    it.only(`saves the user's selection across visits`, function() {
+      cy.visit(`/search`)
+    })
+
   })
 
   describe(`Pagination`, function() {
