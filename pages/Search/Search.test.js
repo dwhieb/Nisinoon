@@ -16,7 +16,7 @@ describe(`Search`, function() {
       cy.contains(`.no-results`, `No results found.`)
     })
 
-    it(`some results + repopulates search box`, function() {
+    it(`some results + repopulates search box + reset search`, function() {
       const search = `atimw`
       cy.visit(`/search`)
       cy.get(`#search-box`).type(search)
@@ -24,6 +24,10 @@ describe(`Search`, function() {
       cy.get(`#search-box`).should(`have.value`, search)
       cy.get(`.num-results`).should(`have.text`, `Showing results 1–2 of 2.`)
       cy.get(`#results tbody tr`).should(`have.length`, 2)
+      cy.get(`#reset-button`).click()
+      cy.get(`#search-box`).should(`have.value`, ``)
+      cy.get(`#language-select`).should(`have.value`, `all`)
+      cy.location(`search`).should(`eq`, ``)
     })
 
     it(`case insensitive`, function() {
@@ -117,7 +121,7 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
-    it.only(`saves the user's selection across visits`, function() {
+    it(`saves the user's selection across visits`, function() {
       cy.visit(`/search`)
       cy.get(`#language-select`).select(`Cree_East`)
       cy.reload()
