@@ -30,12 +30,34 @@ describe(`Search`, function() {
       cy.location(`search`).should(`eq`, ``)
     })
 
-    it(`case insensitive`, function() {
+    it(`case insensitive (default)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`ATIMW`)
       cy.get(`form`).submit()
       cy.get(`.num-results`).should(`include.text`, 2)
       cy.get(`#results tbody tr`).should(`have.length`, 2)
+    })
+
+    // Might not implement this
+    it.skip(`case sensitive`, function() {
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`ATIMW`)
+      cy.get(`form`).submit()
+    })
+
+    it(`diacritic-insensitive (default)`, function() {
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`aštimw`)
+      cy.get(`form`).submit()
+      cy.get(`.num-results`).should(`include.text`, `of 9`)
+    })
+
+    it(`diacritic-sensitive`, function() {
+      cy.visit(`/search`)
+      cy.get(`#diacritics-box`).check()
+      cy.get(`#search-box`).type(`aštimw`)
+      cy.get(`form`).submit()
+      cy.get(`.num-results`).should(`include.text`, `of 1`)
     })
 
     it(`Form (Project)`, function() {
@@ -121,13 +143,6 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
-    it(`saves the user's selection across visits`, function() {
-      cy.visit(`/search`)
-      cy.get(`#language-select`).select(`Cree_East`)
-      cy.reload()
-      cy.get(`#language-select`).should(`have.value`, `Cree_East`)
-    })
-
   })
 
   describe(`Pagination`, function() {
@@ -177,20 +192,31 @@ describe(`Search`, function() {
 
   })
 
+  describe(`Settings`, function() {
+
+    it(`saves the user's selections across visits`, function() {
+      cy.visit(`/search`)
+      cy.get(`#diacritics-box`).check()
+      cy.get(`#language-select`).select(`Cree_East`)
+      cy.reload()
+      cy.get(`#diacritics-box`).should(`be.checked`)
+      cy.get(`#language-select`).should(`have.value`, `Cree_East`)
+    })
+
+  })
+
   describe(`Sorting`, function() {
 
-    // NB: Currently testing using querystring.
-    // TODO: Once column sorting UI is implemented, test with that instead.
     it(`single-column sort`, function() {
-
-      cy.visit(`/search?sort=-form&q=`)
-
-      cy.contains(`th`, `Form`).first().should(`have.attr`, `aria-sort`)
-
-      cy.get(`#results td`).first().should(`have.text`, `Arapaho`)
-      .next()
-      .should(`have.text`, `θooxoneeʔ-`)
-
+      cy.visit(`/search`)
+      cy.get(`#search-box`).type(`dog`)
+      cy.get(`form`).submit()
+      cy.contains(`button`, `Form`).click()
+      cy.get(`#results tbody tr`).first().should(`have.attr`, `id`, `Arapaho-607`)
+      cy.get(`#results tbody tr`).last().should(`have.attr`, `id`, `Cree_Innu-70`)
+      cy.contains(`button`, `Form`).click()
+      cy.get(`#results tbody tr`).first().should(`have.attr`, `id`, `Cree_Innu-70`)
+      cy.get(`#results tbody tr`).last().should(`have.attr`, `id`, `Meskwaki-383`)
     })
 
     // Wait to test this until Advanced Search is implemented.

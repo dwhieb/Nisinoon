@@ -35,15 +35,18 @@ export function Search(req, res) {
   let {
     limit = 100,
     offset = 0,
-    q,
     sort = ``,
+  } = req.query
+
+  const {
+    diacritics,
+    language,
+    q,
   } = req.query
 
   // Search
 
-  q = q.trim().toLowerCase()
-
-  let   results         = req.app.db.search(q, req.query.language)
+  let   results         = req.app.db.search(q.trim(), { diacritics, language })
   const numTotalResults = results.length
 
   // Sort
@@ -59,7 +62,7 @@ export function Search(req, res) {
         return direction === `ascending` ? comparison : comparison * -1
       })
 
-      return comparisons.reduce((state, comparison) => state ? state : comparison, 0)
+      return comparisons.reduce((state, comparison) => (state ? state : comparison), 0)
 
     })
   }

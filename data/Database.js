@@ -2,6 +2,7 @@
 
 import Components from './Components.js'
 import Languages  from './Languages.js'
+import Normalizer from '../scripts/Normalizer.js'
 
 export default class Database {
 
@@ -17,7 +18,14 @@ export default class Database {
     this.components = Array.from(this.index.values())
   }
 
-  search(query, langQuery) {
+  search(query, {
+    diacritics,
+    language: langQuery,
+  } = {}) {
+
+    const normalize = new Normalizer({ diacritics })
+    const q         = normalize(query)
+
     // NB: Be careful not to alter the original array here.
     return Array.from(this.components).filter(function({
       definition,
@@ -30,23 +38,24 @@ export default class Database {
 
       if (langQuery && langQuery !== `all` && langQuery !== language) return false
 
-      return definition?.toLowerCase().includes(query)
-      || form?.toLowerCase().includes(query)
-      || PA?.toLowerCase().includes(query)
-      || UR?.toLowerCase().includes(query)
+      return normalize(definition)?.includes(q)
+      || normalize(form)?.includes(q)
+      || normalize(PA)?.includes(q)
+      || normalize(UR)?.includes(q)
       || tokens.some(function({
         form,
         gloss,
         PA,
         UR,
       }) {
-        return form?.toLowerCase().includes(query)
-        || gloss?.toLowerCase().includes(query)
-        || PA?.toLowerCase().includes(query)
-        || UR?.toLowerCase().includes(query)
+        return normalize(form)?.includes(q)
+        || normalize(gloss)?.includes(q)
+        || normalize(PA)?.includes(q)
+        || normalize(UR)?.includes(q)
       })
 
     })
+
   }
 
 }

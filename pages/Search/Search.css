@@ -63,6 +63,17 @@ body {
 
 }
 
+#diacritics-box {
+  all:    revert;
+  cursor: pointer;
+  /* use accent color */
+}
+
+.diacritics-field {
+  align-items:    center;
+  flex-direction: row;
+}
+
 /* NB: The .sticky class is applied conditionally in the footer Handlebars template. */
 .footer {
 
@@ -88,10 +99,15 @@ h2 {
   position:         sticky;
 }
 
+label {
+  cursor: pointer;
+}
+
 #language-select {
 
   all:           revert;                    /* Use default browser styles. */
   border-radius: var(--border-radius);
+  cursor:        pointer;
   font-family:   'Times New Roman', serif;  /* This is necessary because the adjustments to ligatures don't apply within the <select> element. */
   font-size:     100%;
   line-height:   1.5;

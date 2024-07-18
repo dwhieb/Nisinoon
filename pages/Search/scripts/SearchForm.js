@@ -8,25 +8,30 @@ export default class SearchForm {
 
   initialize() {
 
-    this.reset    = document.getElementById(`reset-button`)
-    this.language = document.getElementById(`language-select`)
-    this.search   = document.getElementById(`search-box`)
+    this.diacritics = document.getElementById(`diacritics-box`)
+    this.reset      = document.getElementById(`reset-button`)
+    this.language   = document.getElementById(`language-select`)
+    this.search     = document.getElementById(`search-box`)
 
     // Populate search form from querystring / local storage.
     // NOTE: Query parameters take precedence over local storage.
 
-    const url      = new URL(location.href)
-    const query    = url.searchParams.get(`q`)
-    const language = url.searchParams.get(`language`) || localStorage.getItem(`language`)
+    const url        = new URL(location.href)
+    const diacritics = Boolean(url.searchParams.get(`diacritics`)) || localStorage.getItem(`diacritics`) === `true`
+    const language   = url.searchParams.get(`language`) ?? localStorage.getItem(`language`)
+    const query      = url.searchParams.get(`q`)
 
-    if (query) this.search.value      = query
+    this.diacritics.checked = diacritics
+
     if (language) this.language.value = language
+    if (query) this.search.value      = query
 
     this.search.focus()
 
     // Add event listeners
 
-    this.language.addEventListener(`input`, this.saveLanguage.bind(this))
+    this.diacritics.addEventListener(`input`, this.saveSettings.bind(this))
+    this.language.addEventListener(`input`, this.saveSettings.bind(this))
     this.reset.addEventListener(`click`, this.resetForm.bind(this))
 
   }
@@ -46,8 +51,9 @@ export default class SearchForm {
 
   }
 
-  saveLanguage(ev) {
-    localStorage.setItem(`language`, ev.target.value)
+  saveSettings() {
+    localStorage.setItem(`diacritics`, this.diacritics.checked)
+    localStorage.setItem(`language`, this.language.value)
   }
 
 }

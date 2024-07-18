@@ -2,6 +2,7 @@
 
   <search class=sticky>
     <form class=search-form method=get>
+
       <label for=search-box>Quick Search</label>
       <input
         autocomplete=on
@@ -15,7 +16,13 @@
         spellcheck=false
         type=search
       >
-      <span class=help-text>Searches forms (in any orthography) and definitions for a match anywhere within the string. Search is not case sensitive. Leave blank to display all components.</span>
+      <span class=help-text>Searches forms (in any orthography) and definitions for a match anywhere within the string. Search is case insensitive. Leave blank to display all components.</span>
+
+      <div class=diacritics-field>
+        <label for=diacritics-box>Match Diacritics</label>
+        <input id=diacritics-box name=diacritics type=checkbox>
+      </div>
+
       <label for=language-select>Language</label>
       <select class=text-box name=language id=language-select>
         <option selected value=all>All languages</option>
@@ -23,10 +30,12 @@
           <option value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
         {{/each}}
       </select>
+
       <div class=search-controls>
         <button class='button green' id=search-button type=submit>Search</button>
         <button class='button blue' id=reset-button type=reset>Reset</button>
       </div>
+
     </form>
   </search>
 
@@ -137,7 +146,7 @@
           </thead>
           <tbody>
             {{#each results as |result| }}
-              <tr>
+              <tr id='{{ ID }}'>
                 <td class=language>{{ displayLanguage }}</td>
                 <td class=form>{{#if form }}<a class=link href='/components/{{ ID }}'>{{ form }}</a>{{else}}—{{/if}}</td>
                 <td class=UR>{{#if UR }}<a class=link href='/components/{{ ID }}'>/{{ UR }}/</a>{{else}}—{{/if}}</td>
