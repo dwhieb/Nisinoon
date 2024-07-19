@@ -14,7 +14,7 @@ Below is a list of abbreviations used in the database.
 | DOUBLE                | Double medial                                         |
 | ENVIRON               | Environmental medial                                  |
 | GENERIC               | Generic medial                                        |
-| Genl                  |                                                       |
+| Genl                  | General (root)                                        |
 | II                    | Inanimate Intransitive                                |
 | InanDep               | Noun, inanimate, dependent                            |
 | INCORP                | Incorporated medial                                   |
