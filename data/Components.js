@@ -87,7 +87,7 @@ function parsePages(pagesString) {
 
 class Allomorph {
   constructor(form, condition) {
-    this.form = form
+    this.form = form.normalize()
     if (condition) this.condition = condition
   }
 }
@@ -96,10 +96,10 @@ class Matches {
   constructor({
     AI, II, TA, TI,
   }) {
-    if (AI) this.AI = AI
-    if (II) this.II = II
-    if (TA) this.TA = TA
-    if (TI) this.TI = TI
+    if (AI) this.AI = AI.normalize()
+    if (II) this.II = II.normalize()
+    if (TA) this.TA = TA.normalize()
+    if (TI) this.TI = TI.normalize()
   }
 }
 
@@ -115,13 +115,13 @@ class Token {
     UR,
   }) {
     this.bibliography = bibliography
-    if (form) this.form = form
+    if (form) this.form = form.normalize()
     if (gloss) this.gloss = gloss
     if (notes) this.notes = notes
     this.orthography = orthography
-    if (PA) this.PA = PA
+    if (PA) this.PA = PA.normalize()
     if (speaker) this.speaker = speaker
-    if (UR) this.UR = UR
+    if (UR) this.UR = UR.normalize()
   }
 }
 
@@ -266,31 +266,34 @@ export default class Components extends Map {
     if (ortho !== `UNK`) {
 
       // Form
-      let form = record[cols.originalOrthography]
+      let form = record[cols.originalOrthography].normalize()
       if (isProto) form = cleanProto(form)
       form = orthographies.transliterate(ortho, form)
       if (isProto && form) form = `*${ form }`
       component.form = form
 
       // UR
-      const sourceUR = record[cols.UR]
-      component.UR = orthographies.transliterate(ortho, cleanUR(sourceUR))
+      let UR = record[cols.UR]?.normalize()
 
-      // Proto-Algonquian
-      let PA = record[cols.proto]
-
-      if (PA) {
-        PA = cleanProto(PA)
-        PA = orthographies.transliterate(ortho, PA)
-        PA = `*${ PA }`
+      if (UR) {
+        UR           = cleanUR(UR)
+        component.UR = orthographies.transliterate(ortho, UR)
       }
 
-      component.PA = PA
+      // Proto-Algonquian
+      let PA = record[cols.proto]?.normalize()
+
+      if (PA) {
+        PA           = cleanProto(PA)
+        PA           = orthographies.transliterate(ortho, PA)
+        PA           = `*${ PA }`
+        component.PA = PA
+      }
 
     }
 
     // Display Form
-    component.displayForm = component.form || component.UR || record[cols.originalOrthography]
+    component.displayForm = component.form || component.UR || record[cols.originalOrthography]?.normalize()
 
     // Definition
     component.definition = cleanGloss(record[cols.definition])
@@ -348,23 +351,23 @@ export default class Components extends Map {
 
     // Allomorphs
     const allomorphs = groupColumns(record, cols.allomorph, cols.condition)
-    .map(data => new Allomorph(orthographies.transliterate(ortho, data[cols.allomorph]), data[cols.condition]))
+    .map(data => new Allomorph(orthographies.transliterate(ortho, data[cols.allomorph]?.normalize()), data[cols.condition]))
 
     if (allomorphs.length) component.allomorphs = allomorphs
 
     // Cross-References
     const containedIn = groupColumns(record, cols.containedIn)
-    .map(({ [cols.containedIn]: reference }) => orthographies.transliterate(ortho, reference))
+    .map(({ [cols.containedIn]: reference }) => orthographies.transliterate(ortho, reference.normalize()))
 
     if (containedIn.length) component.containedIn = containedIn
 
     const components = groupColumns(record, cols.components)
-    .map(({ [cols.components]: reference }) => orthographies.transliterate(ortho, reference))
+    .map(({ [cols.components]: reference }) => orthographies.transliterate(ortho, reference.normalize()))
 
     if (components.length) component.components = components
 
     const formatives = groupColumns(record, cols.formatives)
-    .map(({ [cols.formatives]: reference }) => orthographies.transliterate(ortho, reference))
+    .map(({ [cols.formatives]: reference }) => orthographies.transliterate(ortho, reference.normalize()))
 
     if (formatives.length) component.formatives = formatives
 
@@ -390,7 +393,7 @@ export default class Components extends Map {
 
       const stem = {
         category,
-        form:      orthographies.transliterate(ortho, form),
+        form:      orthographies.transliterate(ortho, form?.normalize()),
         gloss,
         secondary: secondary === `Y`,
         subcategory,
@@ -442,10 +445,10 @@ export default class Components extends Map {
     }
 
     // UR
-    const UR = cleanUR(record[cols.UR])
+    const UR = cleanUR(record[cols.UR]?.normalize())
 
     // Proto-Algonquian
-    const PA = record[cols.proto]
+    const PA = record[cols.proto]?.normalize()
 
     // Gloss
     const gloss = cleanGloss(record[cols.gloss])
@@ -466,7 +469,6 @@ export default class Components extends Map {
 
     // Notes
     const notes = record[cols.notes]
-
 
     // Orthography Key
     const orthography = record[cols.orthography]
