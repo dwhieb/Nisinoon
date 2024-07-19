@@ -19,6 +19,8 @@ export function Component(req, res) {
 
   }
 
+  console.log(component)
+
   res.render(`Component/Component`, {
     component,
     Component: true,

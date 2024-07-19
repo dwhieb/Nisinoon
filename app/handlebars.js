@@ -34,6 +34,7 @@ function is(a, b) {
 }
 
 function or(...items) {
+  items.pop() // Removes the `options` argument.
   return items.some(Boolean)
 }
 
