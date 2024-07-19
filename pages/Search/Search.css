@@ -14,7 +14,8 @@
 /* Utility Classes */
 
 :root {
-  --cell-border: 1px solid #CCC;
+  --cell-border:  1px solid #CCC;
+  --thick-border: 2px solid black;
 }
 
 .sticky {
@@ -30,11 +31,6 @@
 /* bottom border */
 .bb {
   border-block-end: var(--cell-border);
-}
-
-/* centered text */
-.c {
-  text-align: center;
 }
 
 /* Multi-Element Styles */
@@ -179,6 +175,11 @@ label {
     word-break:       keep-all;
   }
 
+  /* Separator between component and sources fields */
+  :is(td, th):nth-child(7) {
+    border-inline-end: var(--thick-border);
+  }
+
   & th {
     font-weight: bold;
     position:    relative;
@@ -188,6 +189,7 @@ label {
 
     background-color: white;
     position:         sticky;
+    text-align:       center;
     top:              0;
     z-index:          2;
 
@@ -209,10 +211,10 @@ label {
 
   & thead tr:last-child th {
 
-    border-block-end: 1px solid black;
+    border-block: 1px solid black;
 
     @media (prefers-color-scheme: dark) {
-      border-block-end: 1px solid white;
+      border-block: 1px solid white;
     }
 
   }
