@@ -35,18 +35,20 @@ export function Search(req, res) {
   let {
     limit = 100,
     offset = 0,
+    q,
     sort = ``,
   } = req.query
 
   const {
     diacritics,
     language,
-    q,
   } = req.query
 
   // Search
 
-  let   results         = req.app.db.search(q.trim(), { diacritics, language })
+  q = q.trim().normalize() // Normalize search text since data in database is also normalized.
+
+  let   results         = req.app.db.search(q, { diacritics, language })
   const numTotalResults = results.length
 
   // Sort

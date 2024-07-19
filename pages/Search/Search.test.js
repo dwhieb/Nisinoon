@@ -57,7 +57,7 @@ describe(`Search`, function() {
       cy.get(`#diacritics-box`).check()
       cy.get(`#search-box`).type(`aštimw`)
       cy.get(`form`).submit()
-      cy.get(`.num-results`).should(`include.text`, `of 1`)
+      cy.get(`.num-results`).should(`include.text`, `of 2`)
     })
 
     it(`Form (Project)`, function() {
@@ -158,7 +158,7 @@ describe(`Search`, function() {
       // Return first page of results by default
       cy.get(`#results td`).first().should(`have.text`, `Abenaki`)
       .next()
-      .should(`have.text`, `ôben-`)
+      .should(`have.text`, `ɔ̃ben-`)
 
       // Showing X of Y results.
       cy.get(`.num-results`).invoke(`text`).should(`match`, /^Showing results 1–100 of .+?\.$/v)
