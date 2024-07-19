@@ -76,7 +76,7 @@
                 <span>Components</span><br><span class='help-text th-note'>(Project Orthography)</span>
               </th>
               {{!-- Token Fields --}}
-              <th class='c partial-width-bb' colspan=5 scope=col>
+              <th class='c partial-width-bb' colspan=4 scope=col>
                 <span>Sources</span><br><span class='help-text th-note'>(Original Orthographies)</span>
               </th>
             </tr>
@@ -140,7 +140,6 @@
               <th class=token-th scope=col>URs</th>
               <th class=token-th scope=col>Proto-Algonquian</th>
               <th class=token-th scope=col>Glosses</th>
-              <th class=token-th scope=col>Bibliography</th>
 
             </tr>
           </thead>
@@ -179,13 +178,6 @@
                   <ul>
                     {{#each tokens as |token| }}
                       <li>{{#if gloss }}‘{{ gloss }}’{{else}}—{{/if}}</li>
-                    {{/each}}
-                  </ul>
-                </td>
-                <td class=bibliography>
-                  <ul>
-                    {{#each tokens as |token| }}
-                      <li>{{#if bibliography }}{{ bibliography }}{{else}}—{{/if}}</li>
                     {{/each}}
                   </ul>
                 </td>
