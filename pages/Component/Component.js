@@ -24,7 +24,7 @@ export function Component(req, res) {
     Component: true,
     json:      JSON.stringify(component, null, 2),
     pageCSS:   res.app.locals.styles.Component,
-    title:     `${ component.displayLanguage }: ${ component.form }`,
+    title:     `${ component.displayLanguage }: ${ component.displayForm }`,
     url:       req.originalUrl,
   })
 

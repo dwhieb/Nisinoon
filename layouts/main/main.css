@@ -55,6 +55,6 @@ html {
 
 main {
   flex-grow:       1;
-  max-inline-size: min(var(--measure), 100vw);
+  max-inline-size: min(var(--measure), 100%);
   padding:         1em;
 }
