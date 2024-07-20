@@ -18,9 +18,18 @@
       >
       <span class=help-text>Searches forms (in any orthography) and definitions for a match anywhere within the string. Search is case insensitive. Leave blank to display all components.</span>
 
-      <div class=diacritics-field>
-        <label for=diacritics-box>Match Diacritics</label>
+      <div class=checkbox-field>
         <input id=diacritics-box name=diacritics type=checkbox>
+        <label for=diacritics-box>Match diacritics</label>
+      </div>
+
+      <div class=checkbox-field>
+        <input id=regex-box name=regex type=checkbox>
+        <label for=regex-box>Use regular expressions</label>
+        <a class=info-link href=https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions target=_blank>
+          <span class=visually-hidden>More information about regular expressions.</span>
+          <svg aria-hidden=true class=info-icon><use href=#info></svg>
+        </a>
       </div>
 
       <label for=language-select>Language</label>

@@ -60,6 +60,14 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 2`)
     })
 
+    it(`regular expressions`, function() {
+      cy.visit(`/search`)
+      cy.get(`#regex-box`).check()
+      cy.get(`#search-box`).type(`e{{}2}`) // This is how you escape the `{` character in the `.type()` command.
+      cy.get(`form`).submit()
+      cy.get(`.num-results`).should(`include.text`, `of 1,775`)
+    })
+
     it(`Form (Project)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`aamæhk`)
@@ -181,9 +189,11 @@ describe(`Search`, function() {
     it(`saves the user's selections across visits`, function() {
       cy.visit(`/search`)
       cy.get(`#diacritics-box`).check()
+      cy.get(`#regex-box`).check()
       cy.get(`#language-select`).select(`Cree_East`)
       cy.reload()
       cy.get(`#diacritics-box`).should(`be.checked`)
+      cy.get(`#regex-box`).should(`be.checked`)
       cy.get(`#language-select`).should(`have.value`, `Cree_East`)
     })
 

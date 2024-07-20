@@ -48,6 +48,11 @@ body {
   overflow-x:      auto !important;
 }
 
+.checkbox-field {
+  align-items:    center;
+  flex-direction: row;
+}
+
 .citation {
 
   margin:      0;
@@ -57,17 +62,6 @@ body {
     max-inline-size: 45em;
   }
 
-}
-
-#diacritics-box {
-  all:    revert;
-  cursor: pointer;
-  /* use accent color */
-}
-
-.diacritics-field {
-  align-items:    center;
-  flex-direction: row;
 }
 
 /* NB: The .sticky class is applied conditionally in the footer Handlebars template. */
@@ -88,6 +82,22 @@ h2 {
 
 .hint {
   display: none;
+}
+
+.info-icon {
+  --icon-size: 0.75em;
+  block-size:  var(--icon-size);
+  inline-size: var(--icon-size);
+}
+
+.info-link {
+  display: flex;
+}
+
+input[type=checkbox] {
+  all:          revert;
+  accent-color: var(--berry-blue);
+  cursor:       pointer;
 }
 
 .issue-link {

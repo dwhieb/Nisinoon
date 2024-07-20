@@ -9,8 +9,9 @@ export default class SearchForm {
   initialize() {
 
     this.diacritics = document.getElementById(`diacritics-box`)
-    this.reset      = document.getElementById(`reset-button`)
     this.language   = document.getElementById(`language-select`)
+    this.regex      = document.getElementById(`regex-box`)
+    this.reset      = document.getElementById(`reset-button`)
     this.search     = document.getElementById(`search-box`)
 
     // Populate search form from querystring / local storage.
@@ -20,8 +21,10 @@ export default class SearchForm {
     const diacritics = Boolean(url.searchParams.get(`diacritics`)) || localStorage.getItem(`diacritics`) === `true`
     const language   = url.searchParams.get(`language`) ?? localStorage.getItem(`language`)
     const query      = url.searchParams.get(`q`)
+    const regex      = Boolean(url.searchParams.get(`regex`)) || localStorage.getItem(`regex`) === `true`
 
     this.diacritics.checked = diacritics
+    this.regex.checked      = regex
 
     if (language) this.language.value = language
     if (query) this.search.value      = query
@@ -32,6 +35,7 @@ export default class SearchForm {
 
     this.diacritics.addEventListener(`input`, this.saveSettings.bind(this))
     this.language.addEventListener(`input`, this.saveSettings.bind(this))
+    this.regex.addEventListener(`input`, this.saveSettings.bind(this))
     this.reset.addEventListener(`click`, this.resetForm.bind(this))
 
   }
@@ -54,6 +58,7 @@ export default class SearchForm {
   saveSettings() {
     localStorage.setItem(`diacritics`, this.diacritics.checked)
     localStorage.setItem(`language`, this.language.value)
+    localStorage.setItem(`regex`, this.regex.checked)
   }
 
 }

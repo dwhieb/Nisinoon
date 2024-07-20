@@ -42,13 +42,14 @@ export function Search(req, res) {
   const {
     diacritics,
     language,
+    regex,
   } = req.query
 
   // Search
 
   q = q.trim().normalize() // Normalize search text since data in database is also normalized.
 
-  let   results         = req.app.db.search(q, { diacritics, language })
+  let   results         = req.app.db.search(q, { diacritics, language, regex })
   const numTotalResults = results.length
 
   // Sort

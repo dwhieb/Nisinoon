@@ -1,8 +1,9 @@
 /* eslint func-names: "off", prefer-arrow-callback: "off" */
 
-import Components from './Components.js'
-import Languages  from './Languages.js'
-import Normalizer from '../scripts/Normalizer.js'
+import Components   from './Components.js'
+import escapeRegExp from 'escape-string-regexp'
+import Languages    from './Languages.js'
+import Normalizer   from '../scripts/Normalizer.js'
 
 export default class Database {
 
@@ -21,10 +22,13 @@ export default class Database {
   search(query, {
     diacritics,
     language: langQuery,
+    regex,
   } = {}) {
 
     const normalize = new Normalizer({ diacritics })
     const q         = normalize(query)
+    const pattern   = regex ? q : escapeRegExp(q)
+    const regexp    = new RegExp(pattern, `v`)
 
     // NB: Be careful not to alter the original array here.
     return Array.from(this.components).filter(function({
@@ -37,17 +41,17 @@ export default class Database {
 
       if (langQuery && langQuery !== `all` && langQuery !== language) return false
 
-      return normalize(definition)?.includes(q)
-      || normalize(form)?.includes(q)
-      || normalize(UR)?.includes(q)
+      return regexp.test(normalize(definition))
+      || regexp.test(normalize(form))
+      || regexp.test(normalize(UR))
       || tokens.some(function({
         form,
         gloss,
         UR,
       }) {
-        return normalize(form)?.includes(q)
-        || normalize(gloss)?.includes(q)
-        || normalize(UR)?.includes(q)
+        return regexp.test(normalize(form))
+        || regexp.test(normalize(gloss))
+        || regexp.test(normalize(UR))
       })
 
     })
