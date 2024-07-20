@@ -12,10 +12,10 @@
 @import 'transcription.css';
 
 :is(.metadata, .sources, .stems) {
-  overflow-x:    auto;
-  margin-inline: 1em;
-  max-width:     100%;
-  width:         100%;
+  overflow-x:      auto;
+  margin-inline:   1em;
+  max-inline-size: 100%;
+  inline-size:     100%;
 }
 
 .allomorphs {
@@ -86,14 +86,14 @@ legend {
 }
 
 #main {
-  max-inline-size: min(60em, 100%);
+  max-inline-size: min(60em, 100vw);
   row-gap:         1em;
 }
 
 .page-header {
   align-items: center;
   text-align:  center;
-  width:       100%;
+  inline-size: 100%;
 }
 
 table {

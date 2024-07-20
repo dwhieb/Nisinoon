@@ -31,7 +31,6 @@ export default class Database {
       definition,
       form,
       language,
-      PA,
       tokens,
       UR,
     }) {
@@ -40,17 +39,14 @@ export default class Database {
 
       return normalize(definition)?.includes(q)
       || normalize(form)?.includes(q)
-      || normalize(PA)?.includes(q)
       || normalize(UR)?.includes(q)
       || tokens.some(function({
         form,
         gloss,
-        PA,
         UR,
       }) {
         return normalize(form)?.includes(q)
         || normalize(gloss)?.includes(q)
-        || normalize(PA)?.includes(q)
         || normalize(UR)?.includes(q)
       })
 

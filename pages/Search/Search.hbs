@@ -72,11 +72,11 @@
           <thead>
             <tr class=meta-row>
               {{!-- Component Fields --}}
-              <th colspan=7 scope=col>
+              <th colspan=6 scope=col>
                 <span>Components</span><br><span class='help-text th-note'>(Project Orthography)</span>
               </th>
               {{!-- Token Fields --}}
-              <th colspan=4 scope=col>
+              <th colspan=3 scope=col>
                 <span>Sources</span><br><span class='help-text th-note'>(Original Orthographies)</span>
               </th>
             </tr>
@@ -105,13 +105,6 @@
                 </button>
                 {{#if UR }}<span aria-describedby=priority-hint class=priority>{{ UR.priority }}</span>{{/if}}
               </th>
-              <th {{#if PA }} aria-sort='{{ PA.direction }}' {{/if}} scope=col>
-                <button aria-describedby=sort-hint class=sort-button data-field=PA>
-                  <span>Proto-Algonquian</span>
-                  <svg aria-hidden class=sort-icon><use href='{{#if (is PA.direction 'ascending') }}#ascending{{else if (is PA.direction 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
-                </button>
-                {{#if PA }}<span aria-describedby=priority-hint class=priority>{{ PA.priority }}</span>{{/if}}
-              </th>
               <th {{#if definition }} aria-sort='{{ definition.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=definition>
                   <span>Definition</span>
@@ -138,7 +131,6 @@
               {{!-- Token Fields --}}
               <th class=token-th scope=col>Forms</th>
               <th class=token-th scope=col>URs</th>
-              <th class=token-th scope=col>Proto-Algonquian</th>
               <th class=token-th scope=col>Glosses</th>
 
             </tr>
@@ -149,7 +141,6 @@
                 <td class=language>{{ displayLanguage }}</td>
                 <td class=form>{{#if form }}<a class=link href='/components/{{ ID }}'>{{ form }}</a>{{else}}—{{/if}}</td>
                 <td class=UR>{{#if UR }}<a class=link href='/components/{{ ID }}'>/{{ UR }}/</a>{{else}}—{{/if}}</td>
-                <td class=PA>{{#if PA }}{{ PA }}{{else}}—{{/if}}</td>
                 <td class=definition>{{#if definition }}‘{{ definition }}’{{else}}—{{/if}}</td>
                 <td class=component-type>{{#if type }}{{ type }}{{else}}—{{/if}}</td>
                 <td class=subcategory>{{#if subcategory }}{{ subcategory }}{{else}}—{{/if}}</td>
@@ -164,13 +155,6 @@
                   <ul>
                     {{#each tokens as |token| }}
                       <li>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</li>
-                    {{/each}}
-                  </ul>
-                </td>
-                <td class=source-PA>
-                  <ul>
-                    {{#each tokens as |token| }}
-                      <li>{{#if PA }}{{ PA }}{{else}}—{{/if}}</li>
                     {{/each}}
                   </ul>
                 </td>

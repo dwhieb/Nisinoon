@@ -35,7 +35,7 @@
 
 /* Multi-Element Styles */
 
-:is(.form, .PA, .source-forms, .source-PA, .source-URs, .UR) {
+:is(.form, .source-forms, .source-URs, .UR) {
   white-space: nowrap;
 }
 
@@ -43,7 +43,7 @@
 
 body {
   inline-size:     fit-content !important;
-  max-inline-size: none;
+  max-inline-size: 100vw;
   min-inline-size: 100vw;
   overflow-x:      auto !important;
 }
@@ -119,7 +119,7 @@ label {
 #main {
   align-items:     flex-start;
   align-self:      stretch;
-  max-inline-size: 100%;
+  max-inline-size: 100vw;
   padding:         0;
 }
 
@@ -167,7 +167,7 @@ label {
 
   border-collapse: separate; /* This is necessary for borders to stay fixed with position: sticky */
   margin:          0;
-  min-inline-size: 100%;
+  min-inline-size: 100vw;
 
   & td {
     border-block-end: var(--cell-border);
@@ -176,7 +176,7 @@ label {
   }
 
   /* Separator between component and sources fields */
-  :is(td, th):nth-child(7) {
+  :is(td, th):nth-child(6) {
     border-inline-end: var(--thick-border);
   }
 
@@ -226,8 +226,8 @@ label {
 }
 
 .results-wrapper {
-  inline-size:     100%;
-  max-inline-size: 100%;
+  inline-size:     100vw;
+  max-inline-size: 100vw;
 }
 
 search {
