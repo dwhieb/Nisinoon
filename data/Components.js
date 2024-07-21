@@ -114,24 +114,31 @@ class Token {
     notes,
     orthography,
     PA,
+    pages,
+    source,
     speaker,
     UR,
   }) {
 
     const isProto = language.includes(`Proto`)
 
+    this.bibliography = source
+
+    if (pages) {
+      this.bibliography += `: `
+      this.bibliography += parsePages(pages)
+    }
+
     if (form) {
       this.form = form.normalize()
       if (isProto) this.form = `*${ cleanProto(form) }`
     }
 
-    this.bibliography = bibliography
-    if (gloss) this.gloss = gloss
-    if (notes) this.notes = notes
-    this.orthography = orthography
-    if (PA) this.PA = cleanProto(PA)
+    if (gloss) this.gloss     = cleanGloss(gloss)
+    if (notes) this.notes     = notes.normalize()
+    if (PA) this.PA           = cleanProto(PA)
     if (speaker) this.speaker = speaker.normalize()
-    if (UR) this.UR = UR.normalize()
+    if (UR) this.UR           = cleanUR(UR)
 
   }
 }
@@ -446,45 +453,18 @@ export default class Components extends Map {
 
     const cols = Components.columns
 
-    // UR
-    const UR = cleanUR(record[cols.UR])
-
-    // Proto-Algonquian
-    const PA = record[cols.proto]?.normalize()
-
-    // Gloss
-    const gloss = cleanGloss(record[cols.gloss])
-
-    // Bibliography
-    const source = record[cols.sourceCode]
-
-    let   bibliography = source
-    const pages        = record[cols.pages]
-
-    if (pages) {
-      bibliography += `: `
-      bibliography += parsePages(record[cols.pages])
-    }
-
-    // Speaker
-    const speaker = record[cols.speaker]?.normalize()
-
-    // Notes
-    const notes = record[cols.notes]?.normalize()
-
-    // Orthography Key
-    const orthography = record[cols.orthography]
-
     return new Token({
-      bibliography,
-      form: record[cols.originalOrthography],
-      gloss,
+      bibliography: record[cols.bibliography],
+      form:         record[cols.originalOrthography],
+      gloss:        record[cols.gloss],
       language,
-      notes,
-      orthography,
-      PA,
-      speaker,
-      UR,
+      notes:        record[cols.notes],
+      orthography:  record[cols.orthography],
+      PA:           record[cols.proto],
+      pages:        record[cols.pages],
+      source:       record[cols.sourceCode],
+      speaker:      record[cols.speaker],
+      UR:           record[cols.UR],
     })
 
   }
