@@ -27,11 +27,12 @@ const transliterationColumns = [
 function cleanGloss(gl) {
   if (!gl) return ``
   if (gl === `NG`) return ``
-  return gl
+  return gl.normalize()
 }
 
 function cleanProto(form) {
   return form
+  .normalize()
   .replace(/^\//v, ``)
   .replace(/\/$/v, ``)
   .replace(/^-\*/v, `-`)
@@ -40,6 +41,7 @@ function cleanProto(form) {
 
 function cleanUR(UR) {
   return UR
+  .normalize()
   .replace(/^\//v, ``)
   .replace(/\/$/v, ``)
 }
@@ -281,7 +283,7 @@ export default class Components extends Map {
       }
 
       // Proto-Algonquian
-      let PA = record[cols.proto]?.normalize()
+      let PA = record[cols.proto]
 
       if (PA) {
         PA           = cleanProto(PA)
@@ -394,10 +396,10 @@ export default class Components extends Map {
       const stem = {
         category,
         form:      orthographies.transliterate(ortho, form?.normalize()),
-        gloss,
+        gloss:     gloss.normalize(),
         secondary: secondary === `Y`,
         subcategory,
-        UR,
+        UR:        UR.normalize(),
       }
 
       if (rawSource) {
@@ -414,7 +416,7 @@ export default class Components extends Map {
 
     // Notes
     const notes = record[cols.notes]
-    if (notes) component.notes = notes
+    if (notes) component.notes = notes.normalize()
 
     // Tokens
     component.tokens = record.tokens.map(token => this.convertToken(token, language))
@@ -437,7 +439,7 @@ export default class Components extends Map {
     const isProto = language.includes(`Proto`)
 
     // Form
-    let form = record[cols.originalOrthography]
+    let form = record[cols.originalOrthography]?.normalize()
 
     if (isProto && form) {
       form = cleanProto(form)
@@ -445,7 +447,7 @@ export default class Components extends Map {
     }
 
     // UR
-    const UR = cleanUR(record[cols.UR]?.normalize())
+    const UR = cleanUR(record[cols.UR])
 
     // Proto-Algonquian
     const PA = record[cols.proto]?.normalize()
@@ -465,10 +467,10 @@ export default class Components extends Map {
     }
 
     // Speaker
-    const speaker = record[cols.speaker]
+    const speaker = record[cols.speaker].normalize()
 
     // Notes
-    const notes = record[cols.notes]
+    const notes = record[cols.notes].normalize()
 
     // Orthography Key
     const orthography = record[cols.orthography]

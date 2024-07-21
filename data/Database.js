@@ -41,7 +41,7 @@ export default class Database {
 
       if (langQuery && langQuery !== `all` && langQuery !== language) return false
 
-      return regexp.test(normalize(definition))
+      return regexp.test(definition)
       || regexp.test(normalize(form))
       || regexp.test(normalize(UR))
       || tokens.some(function({
@@ -50,7 +50,7 @@ export default class Database {
         UR,
       }) {
         return regexp.test(normalize(form))
-        || regexp.test(normalize(gloss))
+        || regexp.test(gloss)
         || regexp.test(normalize(UR))
       })
 

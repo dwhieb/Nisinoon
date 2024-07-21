@@ -65,7 +65,7 @@ describe(`Search`, function() {
       cy.get(`#regex-box`).check()
       cy.get(`#search-box`).type(`e{{}2}`) // This is how you escape the `{` character in the `.type()` command.
       cy.get(`form`).submit()
-      cy.get(`.num-results`).should(`include.text`, `of 1,775`)
+      cy.get(`.num-results`).should(`include.text`, `of 1,772`)
     })
 
     it(`Form (Project)`, function() {
