@@ -560,7 +560,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 559,Fisher et al.,LF2019,,chy,,chey1247,he'kon-,CH:1,,,,,,"hard, strong",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 560,Fisher et al.,LF2019,,chy,,chey1247,he'kóov-,CH:1,,,,,,wet,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 561,Fisher et al.,LF2019,,chy,,chey1247,he'kot-,CH:1,,,,,,quiet,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-562,Fisher et al.,LF2019,,chy,,chey1247,he'né-,CH:1,,,,,,spread out distribute,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Punctuated as in-text,,MAM
+562,Fisher et al.,LF2019,,chy,,chey1247,he'né-,CH:1,,,,,,"spread out, distribute",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Punctuated as in-text,,MAM
 563,Fisher et al.,LF2019,,chy,,chey1247,he'xóv-,CH:1,,,,,,"such degree, such amount",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 564,Fisher et al.,LF2019,,chy,,chey1247,héesev-,CH:1,,,,,,boil,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 565,Fisher et al.,LF2019,,chy,,chey1247,héhnov-,CH:1,,,,,,patient,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -589,7 +589,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 588,Fisher et al.,LF2019,,chy,,chey1247,hestse-,CH:1,,,,,,"wound, bruise, bloodshot",,initial,,,,,,,,,,hestse(n)-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: what I've listed as allomorph listed separately; defined as ""bloodshot, bruise""",,MAM
 589,Fisher et al.,LF2019,,chy,,chey1247,het-,CH:1,,,,,,"such, so, that way",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 590,Fisher et al.,LF2019,,chy,,chey1247,hetaa'-,CH:1,,,,,,"to such extent, all, throughout, entire, in such amount",,initial,,,,,,,,,,hetaa'e-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-591,Fisher et al.,LF2019,,chy,,chey1247,hetané-,CH:1,,,,,,male-bore,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+591,Fisher et al.,LF2019,,chy,,chey1247,hetané-,CH:1,,,,,,male,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 592,Fisher et al.,LF2019,,chy,,chey1247,hetóe ,CH:1,,,,,,in the evening; last evening,,final,NI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 593,Fisher et al.,LF2019,,chy,,chey1247,hetóm- ,CH:1,,,,,,"true, correct",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 594,Fisher et al.,LF2019,,chy,,chey1247,hetsev-,CH:1,,,,,,"openly, fearlessly",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,hetseve-,,,,,,"""requires a negative preverb""",,MAM
@@ -685,7 +685,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 684,Fisher et al.,LF2019,,chy,,chey1247,mé'še-,CH:1,,,,*mii'ši-,,hairy,,initial,,,,,,,,,,mé'h-,,mé'š-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: mé'h- listed as variant but also separately as 'hairy, fuzzy'; mé'š- given as variant of that. I decided to combine all.",,MAM
 685,Fisher et al.,LF2019,,chy,,chey1247,me't-,CH:1,,,,,,pin,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: 'pin' in the sense of 'pin down',,MAM
 686,Fisher et al.,LF2019,,chy,,chey1247,mé'ta'om- ,CH:1,,,,,,block,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Ques: Is this a combination of mé'- 'appear' plus ta'om-??""",,MAM
-687,Fisher et al.,LF2019,,chy,,chey1247,mé'to'-,CH:1,,,,,,exhange,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+687,Fisher et al.,LF2019,,chy,,chey1247,mé'to'-,CH:1,,,,,,exchange,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 688,Fisher et al.,LF2019,,chy,,chey1247,mé'tom-,CH:1,,,,,,submit ??,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: ?? is in-text,,MAM
 689,Fisher et al.,LF2019,,chy,,chey1247,mémes(t)-,CH:1,,,,,,"fecal, defecate, shitty, very",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""This initial can be used as a crude slang intensifier meaning 'very'.""",,MAM
 690,Fisher et al.,LF2019,,chy,,chey1247,mémėse-,CH:1,,,,,,"shitty, fecal",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM

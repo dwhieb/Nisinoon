@@ -442,3 +442,4 @@ MISSING_TOKEN-Ojibwe_Odawa-776,MISSING_TOKEN,Ojibwe_Odawa: Component 776 does no
 UNMATCHED_COMPONENT-Proto_Algonquian-192,UNMATCHED_COMPONENT,Proto_Algonquian: The component ID for token undefined does not exist.
 UNMATCHED_COMPONENT-Proto_Algonquian-216,UNMATCHED_COMPONENT,Proto_Algonquian: The component ID for token undefined does not exist.
 UNMATCHED_COMPONENT-Proto_Algonquian-298,UNMATCHED_COMPONENT,Proto_Algonquian: The component ID for token undefined does not exist.
+MISSING_TOKEN-Mikmaq-508,MISSING_TOKEN,Mikmaq: Component 508 does not have any tokens.

@@ -110,20 +110,29 @@ class Token {
     bibliography,
     form,
     gloss,
+    language,
     notes,
     orthography,
     PA,
     speaker,
     UR,
   }) {
+
+    const isProto = language.includes(`Proto`)
+
+    if (form) {
+      this.form = form.normalize()
+      if (isProto) this.form = `*${ cleanProto(form) }`
+    }
+
     this.bibliography = bibliography
-    if (form) this.form = form.normalize()
     if (gloss) this.gloss = gloss
     if (notes) this.notes = notes
     this.orthography = orthography
-    if (PA) this.PA = PA.normalize()
-    if (speaker) this.speaker = speaker
+    if (PA) this.PA = cleanProto(PA)
+    if (speaker) this.speaker = speaker.normalize()
     if (UR) this.UR = UR.normalize()
+
   }
 }
 
@@ -268,7 +277,7 @@ export default class Components extends Map {
     if (ortho !== `UNK`) {
 
       // Form
-      let form = record[cols.originalOrthography].normalize()
+      let form = record[cols.originalOrthography]?.normalize()
       if (isProto) form = cleanProto(form)
       form = orthographies.transliterate(ortho, form)
       if (isProto && form) form = `*${ form }`
@@ -396,10 +405,10 @@ export default class Components extends Map {
       const stem = {
         category,
         form:      orthographies.transliterate(ortho, form?.normalize()),
-        gloss:     gloss.normalize(),
+        gloss:     gloss?.normalize(),
         secondary: secondary === `Y`,
         subcategory,
-        UR:        UR.normalize(),
+        UR:        UR?.normalize(),
       }
 
       if (rawSource) {
@@ -435,16 +444,7 @@ export default class Components extends Map {
 
   convertToken(record, language) {
 
-    const cols    = Components.columns
-    const isProto = language.includes(`Proto`)
-
-    // Form
-    let form = record[cols.originalOrthography]?.normalize()
-
-    if (isProto && form) {
-      form = cleanProto(form)
-      form = `*${ form }`
-    }
+    const cols = Components.columns
 
     // UR
     const UR = cleanUR(record[cols.UR])
@@ -467,18 +467,19 @@ export default class Components extends Map {
     }
 
     // Speaker
-    const speaker = record[cols.speaker].normalize()
+    const speaker = record[cols.speaker]?.normalize()
 
     // Notes
-    const notes = record[cols.notes].normalize()
+    const notes = record[cols.notes]?.normalize()
 
     // Orthography Key
     const orthography = record[cols.orthography]
 
     return new Token({
       bibliography,
-      form,
+      form: record[cols.originalOrthography],
       gloss,
+      language,
       notes,
       orthography,
       PA,
