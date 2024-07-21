@@ -20,15 +20,17 @@ export default class Database {
   }
 
   search(query, {
+    caseSensitive,
     diacritics,
     language: langQuery,
     regex,
   } = {}) {
 
-    const normalize = new Normalizer({ diacritics })
+    const normalize = new Normalizer({ caseSensitive, diacritics })
     const q         = normalize(query)
     const pattern   = regex ? q : escapeRegExp(q)
-    const regexp    = new RegExp(pattern, `v`)
+    const flags     = caseSensitive ? `v` : `iv`
+    const regexp    = new RegExp(pattern, flags)
 
     // NB: Be careful not to alter the original array here.
     return Array.from(this.components).filter(function({

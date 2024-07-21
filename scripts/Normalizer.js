@@ -4,13 +4,16 @@ import removeDiacritics from '../utilities/removeDiacritics.js'
 
 export default class Normalizer {
 
-  constructor({ diacritics = false } = {}) {
-
-    if (diacritics) return str => str?.toLowerCase()
+  constructor({
+    caseSensitive = false,
+    diacritics = false,
+  } = {}) {
 
     return str => {
       if (typeof str !== `string`) return
-      return removeDiacritics(str).toLowerCase()
+      if (!caseSensitive) str = str.toLowerCase()
+      if (!diacritics) str = removeDiacritics(str)
+      return str
     }
 
   }

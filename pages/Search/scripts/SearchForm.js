@@ -8,23 +8,26 @@ export default class SearchForm {
 
   initialize() {
 
-    this.diacritics = document.getElementById(`diacritics-box`)
-    this.language   = document.getElementById(`language-select`)
-    this.regex      = document.getElementById(`regex-box`)
-    this.reset      = document.getElementById(`reset-button`)
-    this.search     = document.getElementById(`search-box`)
+    this.caseSensitive = document.getElementById(`case-sensitive-box`)
+    this.diacritics    = document.getElementById(`diacritics-box`)
+    this.language      = document.getElementById(`language-select`)
+    this.regex         = document.getElementById(`regex-box`)
+    this.reset         = document.getElementById(`reset-button`)
+    this.search        = document.getElementById(`search-box`)
 
     // Populate search form from querystring / local storage.
     // NOTE: Query parameters take precedence over local storage.
 
-    const url        = new URL(location.href)
-    const diacritics = Boolean(url.searchParams.get(`diacritics`)) || localStorage.getItem(`diacritics`) === `true`
-    const language   = url.searchParams.get(`language`) ?? localStorage.getItem(`language`)
-    const query      = url.searchParams.get(`q`)
-    const regex      = Boolean(url.searchParams.get(`regex`)) || localStorage.getItem(`regex`) === `true`
+    const url           = new URL(location.href)
+    const caseSensitive = Boolean(url.searchParams.get(`caseSensitive`)) || localStorage.getItem(`caseSensitive`) === `true`
+    const diacritics    = Boolean(url.searchParams.get(`diacritics`)) || localStorage.getItem(`diacritics`) === `true`
+    const language      = url.searchParams.get(`language`) ?? localStorage.getItem(`language`)
+    const query         = url.searchParams.get(`q`)
+    const regex         = Boolean(url.searchParams.get(`regex`)) || localStorage.getItem(`regex`) === `true`
 
-    this.diacritics.checked = diacritics
-    this.regex.checked      = regex
+    this.caseSensitive.checked = caseSensitive
+    this.diacritics.checked    = diacritics
+    this.regex.checked         = regex
 
     if (language) this.language.value = language
     if (query) this.search.value      = query
@@ -33,6 +36,7 @@ export default class SearchForm {
 
     // Add event listeners
 
+    this.caseSensitive.addEventListener(`input`, this.saveSettings.bind(this))
     this.diacritics.addEventListener(`input`, this.saveSettings.bind(this))
     this.language.addEventListener(`input`, this.saveSettings.bind(this))
     this.regex.addEventListener(`input`, this.saveSettings.bind(this))
@@ -56,6 +60,7 @@ export default class SearchForm {
   }
 
   saveSettings() {
+    localStorage.setItem(`caseSensitive`, this.caseSensitive.checked)
     localStorage.setItem(`diacritics`, this.diacritics.checked)
     localStorage.setItem(`language`, this.language.value)
     localStorage.setItem(`regex`, this.regex.checked)

@@ -38,11 +38,12 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).should(`have.length`, 2)
     })
 
-    // Might not implement this
-    it.skip(`case sensitive`, function() {
+    it(`case sensitive`, function() {
       cy.visit(`/search`)
+      cy.get(`#case-sensitive-box`).check()
       cy.get(`#search-box`).type(`ATIMW`)
       cy.get(`form`).submit()
+      cy.get(`.no-results`)
     })
 
     it(`diacritic-insensitive (default)`, function() {
