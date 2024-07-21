@@ -17,9 +17,9 @@ export default class Orthographies extends Map {
 
   transliterators = new Map
 
-  static csvPath = path.resolve(import.meta.dirname, `./csv/orthographies.csv`)
+  static csvPath = path.resolve(import.meta.dirname, `../csv/orthographies.csv`)
 
-  static jsonPath = path.resolve(import.meta.dirname, `./json/orthographies.json`)
+  static jsonPath = path.resolve(import.meta.dirname, `../json/orthographies.json`)
 
   convert(csv) {
 
@@ -100,7 +100,7 @@ export default class Orthographies extends Map {
       this.transliterators.set(ortho, transliterate)
     }
 
-    return transliterate(data)
+    return transliterate(data?.normalize())
 
   }
 

@@ -1,4 +1,4 @@
-import ndjson                from './NDJSON.js'
+import ndjson                from '../NDJSON.js'
 import { parse as parseCSV } from 'csv-parse/sync'
 import path                  from 'node:path'
 
@@ -17,7 +17,7 @@ export default class Languages extends Map {
     `notes`,
   ]
 
-  static jsonPath = path.resolve(import.meta.dirname, `./json/languages.ndjson`)
+  static jsonPath = path.resolve(import.meta.dirname, `../json/languages.ndjson`)
 
   convert(csv) {
 
@@ -40,8 +40,11 @@ export default class Languages extends Map {
   }
 
   convertRecord({ autonyms = ``, key, name }) {
-    autonyms = autonyms.split(/,\s*/gv).filter(Boolean)
-    return { autonyms, key, name }
+    return {
+      autonyms: autonyms.split(/,\s*/gv).filter(Boolean).map(autonym => autonym.normalize()),
+      key,
+      name:     name.normalize(),
+    }
   }
 
   async load() {
