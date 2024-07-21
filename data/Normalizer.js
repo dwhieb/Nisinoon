@@ -1,6 +1,6 @@
 /* eslint no-constructor-return: "off" */
 
-import removeDiacritics from '../utilities/removeDiacritics.js'
+import removeDiacritics from './utilities/removeDiacritics.js'
 
 export default class Normalizer {
 

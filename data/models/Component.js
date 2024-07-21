@@ -41,13 +41,15 @@ export default class Component {
     UR,
   } = {}) {
 
+    console.log(orthography)
+
     const isProto = language.includes(`Proto`)
 
     // Allomorphs
     if (allomorphs.length) this.allomorphs = allomorphs
 
     // Component ID (Unique within the language)
-    this.componentID = `${ language }-${ ID }`
+    this.componentID = ID
 
     // Components
     if (components.length) this.components = components
@@ -74,7 +76,7 @@ export default class Component {
     if (Glottocode) this.Glottocode = Glottocode
 
     // ID (Unique with the database)
-    this.ID = ID
+    this.ID = `${ language }-${ ID }`
 
     // ISO 639-3
     if (ISO) this.ISO = ISO

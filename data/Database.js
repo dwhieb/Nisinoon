@@ -1,9 +1,9 @@
 /* eslint func-names: "off", prefer-arrow-callback: "off" */
 
-import Components   from './Components.js'
+import Components   from './models/Components.js'
 import escapeRegExp from 'escape-string-regexp'
-import Languages    from './Languages.js'
-import Normalizer   from '../scripts/Normalizer.js'
+import Languages    from './models/Languages.js'
+import Normalizer   from './Normalizer.js'
 
 export default class Database {
 
