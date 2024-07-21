@@ -41,8 +41,6 @@ export default class Component {
     UR,
   } = {}) {
 
-    console.log(orthography)
-
     const isProto = language.includes(`Proto`)
 
     // Allomorphs

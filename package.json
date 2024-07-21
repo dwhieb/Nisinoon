@@ -40,7 +40,7 @@
     "@digitallinguistics/eslint-config": "^0.5.2",
     "@digitallinguistics/stylelint-config": "^0.4.1",
     "@digitallinguistics/styles": "^3.1.1",
-    "@digitallinguistics/transliterate": "^0.4.0",
+    "@digitallinguistics/transliterate": "^0.4.1",
     "@eslint/js": "^9.3.0",
     "@stylistic/eslint-plugin-js": "^2.1.0",
     "browserslist": "^4.23.0",
