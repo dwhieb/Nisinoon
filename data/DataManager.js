@@ -7,7 +7,7 @@ import path           from 'node:path'
 import ProgressBar    from 'progress'
 import { readFile }   from 'node:fs/promises'
 import { setTimeout } from 'node:timers/promises'
-import stringifyCSV   from './stringifyCSV.js'
+import stringifyCSV   from './utilities/stringifyCSV.js'
 
 export default class DataManager {
 

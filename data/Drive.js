@@ -1,5 +1,7 @@
 /**
  * A class for interacting with Google Drive
+ * Google Drive API Documentation:
+ * https://developers.google.com/drive/api/guides/about-sdk
  */
 
 import { google }   from 'googleapis'
