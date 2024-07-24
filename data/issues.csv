@@ -443,3 +443,5 @@ UNMATCHED_COMPONENT-Proto_Algonquian-192,UNMATCHED_COMPONENT,Proto_Algonquian: T
 UNMATCHED_COMPONENT-Proto_Algonquian-216,UNMATCHED_COMPONENT,Proto_Algonquian: The component ID for token undefined does not exist.
 UNMATCHED_COMPONENT-Proto_Algonquian-298,UNMATCHED_COMPONENT,Proto_Algonquian: The component ID for token undefined does not exist.
 MISSING_TOKEN-Mikmaq-508,MISSING_TOKEN,Mikmaq: Component 508 does not have any tokens.
+UNMATCHED_COMPONENT-Abenaki_Western-1,UNMATCHED_COMPONENT,Abenaki_Western: The component ID for token undefined does not exist.
+MISSING_TOKEN-Abenaki_Western-undefined,MISSING_TOKEN,Abenaki_Western: Component undefined does not have any tokens.

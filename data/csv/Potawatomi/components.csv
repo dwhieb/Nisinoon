@@ -189,8 +189,8 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 237,Lockwood,pot,,pota1247,-zhewébe,POT:WNALP,,,,,,happen,,final,II
 316,Hockett,pot,,pota1247,-ɂ  ,POT:3,,,,,,NG,,final,TA,,,,,,,,-t·o ,,,,,,,nɑkɑɂ,,,V,TA,lose,,CH1939b;0053,pwiɂ,,,V,TA,wait for,,CH1939b;0054,wikɑčɑɂ,,,V,TA,"try, test",,CH1939b;0054,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 280,Hockett,pot,,pota1247,-εn- ,POT:3,,,,,,think,,medial,,,,,,,,,,,,,,,,kɑk·εnɑtɑm,,,V,AI,think,,CH1939b;0045,nεnɑtɑm,,,V,AI,remember,,CH1939b;0045,Onεnɑtɑm,,,V,AI,forget,,CH1939b;0045,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-12,Lockwood,pot,,pota1247,(be)beshk-,POT:WNALP,,,,,,bald,,initial
-170,Lockwood,pot,,pota1247,(be)beshk-,POT:WNALP,,,,,,bald,,initial
+12,Lockwood,pot,,pota1247,(be)beshk-,POT:WNALP,,,,,,bald,bald,initial
+170,Lockwood,pot,,pota1247,(be)beshk-,POT:WNALP,,,,,,bald,bald,initial
 430,Hockett,pot,,pota1247,(V)m,POT:5,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(V)t
 432,Hockett,pot,,pota1247,(V)t,POT:5,,,,,,NG,,final,TRANS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(V)m,√t,,,GVM: p. 68 chart discusses formatives
 361,Hockett,pot,,pota1247,#w,POT:5,,,,,,NG,,final,NA
@@ -198,54 +198,54 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 363,Hockett,pot,,pota1247,#wE,POT:5,,,,,,NG,,final,NI
 362,Hockett,pot,,pota1247,#y,POT:5,,,,,,NG,,final,NI
 390,Hockett,pot,,pota1247,ᵃ/ₑ,POT:5,,,,,,NG,,final,AI
-1,Lockwood,pot ,,pota1247,abod-,POT:WNALP,,,,,,"inside out, flipped",,initial
-151,Lockwood,pot ,,pota1247,abod-,POT:WNALP,,,,,,"inside out, flipped",,initial
-2,Lockwood,pot,,pota1247,agwné-,POT:WNALP,,,,,,doubt,,initial
-168,Lockwood,pot,,pota1247,agwné-,POT:WNALP,,,,,,doubt,,initial
+1,Lockwood,pot ,,pota1247,abod-,POT:WNALP,,,,,,"inside out, flipped","inside out, flipped",initial
+151,Lockwood,pot ,,pota1247,abod-,POT:WNALP,,,,,,"inside out, flipped","inside out, flipped",initial
+2,Lockwood,pot,,pota1247,agwné-,POT:WNALP,,,,,,doubt,doubt,initial
+168,Lockwood,pot,,pota1247,agwné-,POT:WNALP,,,,,,doubt,doubt,initial
 349,Hockett,pot,,pota1247,akUn,POT:5,,,,,,NG,,final,N,,,Y,TA
 365,Hockett,pot,,pota1247,akUn,POT:5,,,,,,related to √n/,,final,N,,,Y,TA
-3,Lockwood,pot,,pota1247,ank-,POT:WNALP,,,,,,"together, joined, in a row",,initial
-152,Lockwood,pot,,pota1247,ank-,POT:WNALP,,,,,,"together, joined, in a row",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: anko-
-4,Lockwood,pot ,,pota1247,anko-,POT:WNALP,,,,,,"together, joined, in a row",,initial
-153,Lockwood,pot,,pota1247,anko-,POT:WNALP,,,,,,"together, joined, in a row",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: ank-
-5,Lockwood,pot,,pota1247,atwa-,POT:WNALP,,,,,,"right side up, supine",,initial
-154,Lockwood,pot ,,pota1247,atwa-,POT:WNALP,,,,,,"right side up, supine",,initial
-124,Lockwood,pot ,,pota1247,azhdé-,POT:WNALP,,,,,,cross,,initial
-271,Hockett,pot ,,pota1247,ɑnɑnɑ#w-,POT:3,,,,,,man,,initial,,,,,,,,,,,,,,,,ɑnɑnɑ#w,,,N,,man,,CH1939b;0043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-337,Hockett,pot,,pota1247,ɑp·ɑšk-,POT:3,,,,,,black,,initial,GENERIC,,,,,,,,,,,,,,,ɑpɑšk=mɑʔwε(#j),,,N,,lion,,CH1939b;0063,ɑpɑšk=kɑno(#j),,,N,,black eagle,,CH1939b;0063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,has question mark in parentheses by translation: black(?),,HTL
+3,Lockwood,pot,,pota1247,ank-,POT:WNALP,,,,,,"together, joined, in a row","together, joined",initial
+152,Lockwood,pot,,pota1247,ank-,POT:WNALP,,,,,,"together, joined, in a row","together, joined",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: anko-
+4,Lockwood,pot ,,pota1247,anko-,POT:WNALP,,,,,,"together, joined, in a row","together, joined",initial
+153,Lockwood,pot,,pota1247,anko-,POT:WNALP,,,,,,"together, joined, in a row","together, joined",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: ank-
+5,Lockwood,pot,,pota1247,atwa-,POT:WNALP,,,,,,"right side up, supine",supine,initial
+154,Lockwood,pot ,,pota1247,atwa-,POT:WNALP,,,,,,"right side up, supine",supine,initial
+124,Lockwood,pot ,,pota1247,azhdé-,POT:WNALP,,,,,,cross,cross,initial
+271,Hockett,pot ,,pota1247,ɑnɑnɑ#w-,POT:3,,,,,,man,"man, male",initial,,,,,,,,,,,,,,,,ɑnɑnɑ#w,,,N,,man,,CH1939b;0043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+337,Hockett,pot,,pota1247,ɑp·ɑšk-,POT:3,,,,,,black,black,initial,GENERIC,,,,,,,,,,,,,,,ɑpɑšk=mɑʔwε(#j),,,N,,lion,,CH1939b;0063,ɑpɑšk=kɑno(#j),,,N,,black eagle,,CH1939b;0063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,has question mark in parentheses by translation: black(?),,HTL
 259,Hockett,pot ,,pota1247,ɑs,POT:3,,,,,,NG,,final,,,,,,,,,,,,,,,,pɑmatɑs,,,V,AI,live,,CH1939b;0037,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-6,Lockwood,pot,,pota1247,bag-,POT:WNALP,,,,,,pound,,initial
-167,Lockwood,pot,,pota1247,bag-,POT:WNALP,,,,,,pound,,initial
-7,Lockwood,pot ,,pota1247,bak-,POT:WNALP,,,,,,open up,,initial
-169,Lockwood,pot ,,pota1247,bak-,POT:WNALP,,,,,,open up,,initial
-8,Lockwood,pot,,pota1247,bashk-,POT:WNALP,,,,,,burst,,initial
-161,Lockwood,pot,,pota1247,bashk-,POT:WNALP,,,,,,burst,,initial
-9,Lockwood,pot,,pota1247,bata-,POT:WNALP,,,,,,"stuck, transgress",,initial
-185,Lockwood,pot,,pota1247,bata-,POT:WNALP,,,,,,"stuck, transgress",,initial
+6,Lockwood,pot,,pota1247,bag-,POT:WNALP,,,,,,pound,pound,initial
+167,Lockwood,pot,,pota1247,bag-,POT:WNALP,,,,,,pound,pound,initial
+7,Lockwood,pot ,,pota1247,bak-,POT:WNALP,,,,,,open up,open (V),initial
+169,Lockwood,pot ,,pota1247,bak-,POT:WNALP,,,,,,open up,open (V),initial
+8,Lockwood,pot,,pota1247,bashk-,POT:WNALP,,,,,,burst,burst,initial
+161,Lockwood,pot,,pota1247,bashk-,POT:WNALP,,,,,,burst,burst,initial
+9,Lockwood,pot,,pota1247,bata-,POT:WNALP,,,,,,"stuck, transgress","stuck, transgress",initial
+185,Lockwood,pot,,pota1247,bata-,POT:WNALP,,,,,,"stuck, transgress","stuck, transgress",initial
 10,Lockwood,pot ,,pota1247,begem-,POT:WNALP,,,,,,"in this direction, toward here",,initial
 144,Lockwood,pot,,pota1247,begem-,POT:WNALP,,,,,,"in this direction, toward here",,initial
-11,Lockwood,pot,,pota1247,bem-,POT:WNALP,,,,,,along,,initial
-139,Lockwood,pot ,,pota1247,bem-,POT:WNALP,,,,,,along,,initial
-13,Lockwood,pot ,,pota1247,bet-,POT:WNALP,,,,,,accidentally,,initial
-177,Lockwood,pot,,pota1247,bet-,POT:WNALP,,,,,,accidentally,,initial
-14,Lockwood,pot,,pota1247,bid-,POT:WNALP,,,,,,"come toward, arriving",,initial
-141,Lockwood,pot,,pota1247,bid-,POT:WNALP,,,,,,"come, toward, arriving",,initial
-15,Lockwood,pot,,pota1247,bit-,POT:WNALP,,,,,,"put on, wear, attach",,initial
-186,Lockwood,pot,,pota1247,bit-,POT:WNALP,,,,,,"put on, wear, attach",,initial
-16,Lockwood,pot ,,pota1247,bok-,POT:WNALP,,,,,,break,,initial
-162,Lockwood,pot,,pota1247,bok-,POT:WNALP,,,,,,break,,initial
-17,Lockwood,pot,,pota1247,byéd-,POT:WNALP,,,,,,"come, toward, arriving",,initial
-140,Lockwood,pot,,pota1247,byéd-,POT:WNALP,,,,,,"come, toward, arriving",,initial
+11,Lockwood,pot,,pota1247,bem-,POT:WNALP,,,,,,along,along,initial
+139,Lockwood,pot ,,pota1247,bem-,POT:WNALP,,,,,,along,along,initial
+13,Lockwood,pot ,,pota1247,bet-,POT:WNALP,,,,,,accidentally,accidentally,initial
+177,Lockwood,pot,,pota1247,bet-,POT:WNALP,,,,,,accidentally,accidentally,initial
+14,Lockwood,pot,,pota1247,bid-,POT:WNALP,,,,,,"come toward, arriving",arrive,initial
+141,Lockwood,pot,,pota1247,bid-,POT:WNALP,,,,,,"come, toward, arriving","come, toward, arrive",initial
+15,Lockwood,pot,,pota1247,bit-,POT:WNALP,,,,,,"put on, wear, attach","put on, wear, attach",initial
+186,Lockwood,pot,,pota1247,bit-,POT:WNALP,,,,,,"put on, wear, attach","put on, wear, attach",initial
+16,Lockwood,pot ,,pota1247,bok-,POT:WNALP,,,,,,break,break,initial
+162,Lockwood,pot,,pota1247,bok-,POT:WNALP,,,,,,break,break,initial
+17,Lockwood,pot,,pota1247,byéd-,POT:WNALP,,,,,,"come, toward, arriving","come, toward, arrive",initial
+140,Lockwood,pot,,pota1247,byéd-,POT:WNALP,,,,,,"come, toward, arriving","come, toward, arrive",initial
 387,Hockett,pot,,pota1247,čUn,POT:5,,,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 66 ""Perhaps the final is √n/, with preceding elements kwiT, koT"""
-183,Lockwood,pot,,pota1247,deb-,POT:WNALP,,,,,,through an opening,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: teb-
-22,Lockwood,pot ,,pota1247,déb-,POT:WNALP,,,,,,sufficient,,initial
-172,Lockwood,pot ,,pota1247,déb-,POT:WNALP,,,,,,sufficient,,initial
-18,Lockwood,pot,,pota1247,dekem-,POT:WNALP,,,,,,across,,initial
-145,Lockwood,pot ,,pota1247,dekem-,POT:WNALP,,,,,,across,,initial
-19,Lockwood,pot ,,pota1247,deN-,POT:WNALP,,,,,,"where, while, how",,initial
-135,Lockwood,pot,,pota1247,deN-,POT:WNALP,,,,,,"where, while, how",,initial,RR
+183,Lockwood,pot,,pota1247,deb-,POT:WNALP,,,,,,through an opening,through,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: teb-
+22,Lockwood,pot ,,pota1247,déb-,POT:WNALP,,,,,,sufficient,sufficient,initial
+172,Lockwood,pot ,,pota1247,déb-,POT:WNALP,,,,,,sufficient,sufficient,initial
+18,Lockwood,pot,,pota1247,dekem-,POT:WNALP,,,,,,across,across,initial
+145,Lockwood,pot ,,pota1247,dekem-,POT:WNALP,,,,,,across,across,initial
+19,Lockwood,pot ,,pota1247,deN-,POT:WNALP,,,,,,"where, while, how","where, while, during, how",initial
+135,Lockwood,pot,,pota1247,deN-,POT:WNALP,,,,,,"where, while, how","where, while, during, how",initial,RR
 247,Lockwood,pot,,pota1247,den-,POT:WNALP,,,,,,in a certain place,,initial,RR
-20,Lockwood,pot,,pota1247,dep-,POT:WNALP,,,,,,through an opening,,initial
+20,Lockwood,pot,,pota1247,dep-,POT:WNALP,,,,,,through an opening,through,initial
 243,Lockwood,pot ,,pota1247,des-,POT:WNALP,,,,,,so much; so many,,initial,RR
 244,Lockwood,pot,,pota1247,desh-,POT:WNALP,,,,,,so much; so many,,initial,RR
 248,Lockwood,pot,,pota1247,dezh-,POT:WNALP,,,,,,in a certain place,,initial,RR
@@ -254,90 +254,90 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 23,Lockwood,pot,,pota1247,eko-,POT:WNALP,,,,,,"to such extent, as long as",,initial
 132,Lockwood,pot,,pota1247,eko-,POT:WNALP,,,,,,"to such extent, as long as",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: ekew-
 246,Lockwood,pot ,,pota1247,ekw-,POT:WNALP,,,,,,as long as,,initial,RR
-25,Lockwood,pot ,,pota1247,eN-,POT:WNALP,,,,,,thus,,initial
-108,Lockwood,pot,,pota1247,eN-,POT:WNALP,,ǝN-,,,,thus,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"allomorph: /ǝn-/, /əʒ-/"
-241,Lockwood,pot,,pota1247,en-,POT:WNALP,,eN-,,,,so; to a certain place; in a certain way,,initial,RR
-26,Lockwood,pot,,pota1247,enem-,POT:WNALP,,,,,,away,,initial
-143,Lockwood,pot,,pota1247,enem-,POT:WNALP,,,,,,away,,initial
-245,Lockwood,pot,,pota1247,epich-,POT:WNALP,,,,,,such an extent; meanwhile; still,,initial,RR
-27,Lockwood,pot,,pota1247,epit-,POT:WNALP,,,,,,"inasmuch as, while, degree, yet",,initial
-134,Lockwood,pot,,pota1247,epit-,POT:WNALP,,,,,,"inasmuch as, while, degree, yet",,initial,RR
-240,Lockwood,pot ,,pota1247,ezh-,POT:WNALP,,eN-,,,,so; to a certain place; in a certain way,,initial,RR
-28,Lockwood,pot ,,pota1247,gad-,POT:WNALP,,,,,,push,,initial
-166,Lockwood,pot ,,pota1247,gad-,POT:WNALP,,,,,,push,,initial
-29,Lockwood,pot,,pota1247,gek-,POT:WNALP,,,,,,hide,,initial
-30,Lockwood,pot,,pota1247,gek-,POT:WNALP,,,,,,"think, decide, know",,initial
-155,Lockwood,pot,,pota1247,gek-,POT:WNALP,,,,,,hide,,initial
-156,Lockwood,pot,,pota1247,gek-,POT:WNALP,,,,,,"think, decide, know",,initial
-31,Lockwood,pot ,,pota1247,gemod-,POT:WNALP,,,,,,"steal, sneak",,initial
-159,Lockwood,pot,,pota1247,gemod-,POT:WNALP,,,,,,"steal, sneak",,initial
-114,Lockwood,pot,,pota1247,geno-,POT:WNALP,,,,,,long,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,from Hockett
-32,Lockwood,pot,,pota1247,gezh-,POT:WNALP,,,,,,"warm, hot",,initial
-174,Lockwood,pot,,pota1247,gezh-,POT:WNALP,,,,,,"warm, hot",,initial
-33,Lockwood,pot,,pota1247,gin-,POT:WNALP,,,,,,sharp,,initial
-180,Lockwood,pot,,pota1247,gin-,POT:WNALP,,,,,,sharp,,initial
-34,Lockwood,pot ,,pota1247,gip-,POT:WNALP,,,,,,chapped,,initial
-181,Lockwood,pot ,,pota1247,gip-,POT:WNALP,,,,,,chapped,,initial
-250,Lockwood,pot,,pota1247,jag-,POT:WNALP,,,,,,"used up, exhausted, depleted",,initial
-35,Lockwood,pot,,pota1247,jig-,POT:WNALP,,,,,,"next to, nearby",,initial
-138,Lockwood,pot,,pota1247,jig-,POT:WNALP,,,,,,"next to, nearby",,initial
+25,Lockwood,pot ,,pota1247,eN-,POT:WNALP,,,,,,thus,thus,initial
+108,Lockwood,pot,,pota1247,eN-,POT:WNALP,,ǝN-,,,,thus,thus,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"allomorph: /ǝn-/, /əʒ-/"
+241,Lockwood,pot,,pota1247,en-,POT:WNALP,,eN-,,,,so; to a certain place; in a certain way,so,initial,RR
+26,Lockwood,pot,,pota1247,enem-,POT:WNALP,,,,,,away,away,initial
+143,Lockwood,pot,,pota1247,enem-,POT:WNALP,,,,,,away,away,initial
+245,Lockwood,pot,,pota1247,epich-,POT:WNALP,,,,,,such an extent; meanwhile; still,"meanwhile, still (ADV)",initial,RR
+27,Lockwood,pot,,pota1247,epit-,POT:WNALP,,,,,,"inasmuch as, while, degree, yet","inasmuch, while, during, degree, yet",initial
+134,Lockwood,pot,,pota1247,epit-,POT:WNALP,,,,,,"inasmuch as, while, degree, yet","inasmuch, while, during, degree, yet",initial,RR
+240,Lockwood,pot ,,pota1247,ezh-,POT:WNALP,,eN-,,,,so; to a certain place; in a certain way,so,initial,RR
+28,Lockwood,pot ,,pota1247,gad-,POT:WNALP,,,,,,push,push,initial
+166,Lockwood,pot ,,pota1247,gad-,POT:WNALP,,,,,,push,push,initial
+29,Lockwood,pot,,pota1247,gek-,POT:WNALP,,,,,,hide,hide,initial
+30,Lockwood,pot,,pota1247,gek-,POT:WNALP,,,,,,"think, decide, know","think, decide, know",initial
+155,Lockwood,pot,,pota1247,gek-,POT:WNALP,,,,,,hide,hide,initial
+156,Lockwood,pot,,pota1247,gek-,POT:WNALP,,,,,,"think, decide, know","think, decide, know",initial
+31,Lockwood,pot ,,pota1247,gemod-,POT:WNALP,,,,,,"steal, sneak","steal, sneak",initial
+159,Lockwood,pot,,pota1247,gemod-,POT:WNALP,,,,,,"steal, sneak","steal, sneak",initial
+114,Lockwood,pot,,pota1247,geno-,POT:WNALP,,,,,,long,long,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,from Hockett
+32,Lockwood,pot,,pota1247,gezh-,POT:WNALP,,,,,,"warm, hot","warm, hot",initial
+174,Lockwood,pot,,pota1247,gezh-,POT:WNALP,,,,,,"warm, hot","warm, hot",initial
+33,Lockwood,pot,,pota1247,gin-,POT:WNALP,,,,,,sharp,sharp,initial
+180,Lockwood,pot,,pota1247,gin-,POT:WNALP,,,,,,sharp,sharp,initial
+34,Lockwood,pot ,,pota1247,gip-,POT:WNALP,,,,,,chapped,chap,initial
+181,Lockwood,pot ,,pota1247,gip-,POT:WNALP,,,,,,chapped,chap,initial
+250,Lockwood,pot,,pota1247,jag-,POT:WNALP,,,,,,"used up, exhausted, depleted","used up, exhausted, depleted",initial
+35,Lockwood,pot,,pota1247,jig-,POT:WNALP,,,,,,"next to, nearby","next to, nearby",initial
+138,Lockwood,pot,,pota1247,jig-,POT:WNALP,,,,,,"next to, nearby","next to, nearby",initial
 438,Hockett,pot,,pota1247,k·Un,POT:5,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 70 - these appear to be finals which interact with pejoratives, not the pejoratives themselves"
-273,Hockett,pot,,pota1247,k·wε-,POT:3,,,,,,woman,,initial,,,,,,,,,,,,,,,,k·wε,,,N,,woman,,CH1939b;0043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-276,Hockett,pot ,,pota1247,kɑk-,POT:3,,,,,,having something,,initial,,,,,,,,,,,,,,,,kɑkɑšk,,,V,TI,"have, hold",,CH1939b;0044,kɑkɑnɑkoʔw,,,V,TA,bury with something [Hockett says this may be the 'hide' initial'],,CH1939b;0044,kɑkatɑs,,,V,AI,be rich,,CH1939b;0044,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-277,Hockett,pot,,pota1247,kɑk-,POT:3,,,,,,hide,,initial,,,,,,,,,,,,,,,,kɑkɑto,,,V,TI,hide,,CH1939b;0044,kɑkɑn,,,V,TA,hide,,CH1939b;0044,kɑkɑsO,,,V,AI,hide,,CH1939b;0044,kɑkɑnɑkoʔw,,,V,TA,bury with something [Hockett says this may be the 'have' initial],,CH1939b;0044,kɑkɑnɑkoʔw,,,V,TA,bury with something [Hockett says this may be the 'have' initial],,CH1939b;0044,,,,,,,,,,,,HTL
-278,Hockett,pot,,pota1247,kɑk·-,POT:3,,,,,,"think, decide",,initial,,,,,,,,,,,,,,,,kɑk·ɑɂw,,,V,TA,"appoint, choose",,CH1939b;0044,kɑk·ɑpjεɂ,,,V,TA,mark,,CH1939b;0044,kɑk·εnɑm,,,V,TA,"to know, be acquainted with, recognize",,CH1939b;0044,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-275,Hockett,pot,,pota1247,kɑš-,POT:3,,,,,,warm,,initial,,,,,,,,,,,,,,,,kɑšɑt·ε,,,V,II,be hot (not of weather),,CH1939b;0044,kɑšat·ε,,,V,II,be hot weather,,CH1939b;0044,kɑšɑsO,,,V,AI,be hot,,CH1939b;0044,kɑšapos·,,,V,TI,heat a liquid,,CH1939b;0044,kɑšapos·,,,V,TI,heat a liquid,,CH1939b;0044,,,,,,,,,,,,HTL
-339,Haas,pot,,pota1247,kk·y-,POT:3,,,,,,old,,initial,,,,,,,,,,,,,,,,kk·ya,,,V,AI,he is old,,MH1966a;0482,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-352,Hockett,pot,,pota1247,kUk,POT:5,,,,,,"hide, conceal, have something",,initial,,,,,,,,,,,,,,,,kUkUto,,,V,TI,hide,,CH1948b;0064,kUkUn,,,V,TA,hide,,CH1948b;0064,kUkUsO,,,V,AI,hide,,CH1948b;0064,kUkUšk,,,V,TI,"have, hold",,CH1948b;0064,kUkUšk,,,V,TI,"have, hold",,CH1948b;0064
-353,Hockett,pot,,pota1247,kUk·,POT:5,,,,,,"think, decide",,initial,,,,,,,,,,,,,,,,kUk·Uˀw,,,V,TA,"appoint, choose",,CH1948b;0064,kUk·Upyeˀ,,,V,TA,mark,,CH1948b;0064,kUk·enUm,,,V,TA,"know, be acquainted with, recognize",,CH1948b;0064
+273,Hockett,pot,,pota1247,k·wε-,POT:3,,,,,,woman,"woman, female",initial,,,,,,,,,,,,,,,,k·wε,,,N,,woman,,CH1939b;0043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+276,Hockett,pot ,,pota1247,kɑk-,POT:3,,,,,,having something,have,initial,,,,,,,,,,,,,,,,kɑkɑšk,,,V,TI,"have, hold",,CH1939b;0044,kɑkɑnɑkoʔw,,,V,TA,bury with something [Hockett says this may be the 'hide' initial'],,CH1939b;0044,kɑkatɑs,,,V,AI,be rich,,CH1939b;0044,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+277,Hockett,pot,,pota1247,kɑk-,POT:3,,,,,,hide,hide,initial,,,,,,,,,,,,,,,,kɑkɑto,,,V,TI,hide,,CH1939b;0044,kɑkɑn,,,V,TA,hide,,CH1939b;0044,kɑkɑsO,,,V,AI,hide,,CH1939b;0044,kɑkɑnɑkoʔw,,,V,TA,bury with something [Hockett says this may be the 'have' initial],,CH1939b;0044,kɑkɑnɑkoʔw,,,V,TA,bury with something [Hockett says this may be the 'have' initial],,CH1939b;0044,,,,,,,,,,,,HTL
+278,Hockett,pot,,pota1247,kɑk·-,POT:3,,,,,,"think, decide","think, decide",initial,,,,,,,,,,,,,,,,kɑk·ɑɂw,,,V,TA,"appoint, choose",,CH1939b;0044,kɑk·ɑpjεɂ,,,V,TA,mark,,CH1939b;0044,kɑk·εnɑm,,,V,TA,"to know, be acquainted with, recognize",,CH1939b;0044,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+275,Hockett,pot,,pota1247,kɑš-,POT:3,,,,,,warm,warm,initial,,,,,,,,,,,,,,,,kɑšɑt·ε,,,V,II,be hot (not of weather),,CH1939b;0044,kɑšat·ε,,,V,II,be hot weather,,CH1939b;0044,kɑšɑsO,,,V,AI,be hot,,CH1939b;0044,kɑšapos·,,,V,TI,heat a liquid,,CH1939b;0044,kɑšapos·,,,V,TI,heat a liquid,,CH1939b;0044,,,,,,,,,,,,HTL
+339,Haas,pot,,pota1247,kk·y-,POT:3,,,,,,old,old,initial,,,,,,,,,,,,,,,,kk·ya,,,V,AI,he is old,,MH1966a;0482,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+352,Hockett,pot,,pota1247,kUk,POT:5,,,,,,"hide, conceal, have something","hide, conceal, have",initial,,,,,,,,,,,,,,,,kUkUto,,,V,TI,hide,,CH1948b;0064,kUkUn,,,V,TA,hide,,CH1948b;0064,kUkUsO,,,V,AI,hide,,CH1948b;0064,kUkUšk,,,V,TI,"have, hold",,CH1948b;0064,kUkUšk,,,V,TI,"have, hold",,CH1948b;0064
+353,Hockett,pot,,pota1247,kUk·,POT:5,,,,,,"think, decide","think, decide",initial,,,,,,,,,,,,,,,,kUk·Uˀw,,,V,TA,"appoint, choose",,CH1948b;0064,kUk·Upyeˀ,,,V,TA,mark,,CH1948b;0064,kUk·enUm,,,V,TA,"know, be acquainted with, recognize",,CH1948b;0064
 437,Hockett,pot,,pota1247,kUn,POT:5,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 70 - these appear to be finals which interact with pejoratives, not the pejoratives themselves"
-350,Hockett,pot,,pota1247,kUš,POT:5,,,,,,warm,,initial,,,,,,,,,,,,,,,,kUšUt·e,,,V,II,be hot (not of the weather),,CH1948b;0063,kUšat·e,,,V,II,be hot (of weather),,CH1948b;0063,kUšUsO,,,V,AI,be hot,,CH1948b;0063,kUšapos·,,,V,TI,heat a liquid,,CH1948b;0063,kUšapos·,,,V,TI,heat a liquid,,CH1948b;0063
-36,Lockwood,pot,,pota1247,mek-,POT:WNALP,,,,,,find,,initial
-157,Lockwood,pot ,,pota1247,mek-,POT:WNALP,,,,,,find,,initial
-121,Lockwood,pot ,,pota1247,meshkow-,POT:WNALP,,,,,,frozen,,initial
-117,Lockwood,pot,,pota1247,met-,POT:WNALP,,,,,,bare,,initial
-128,Lockwood,pot,,pota1247,met-,POT:WNALP,,,,,,"bare, unaided",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,corrected by HL
-127,Lockwood,pot ,,pota1247,metakw-,POT:WNALP,,,,,,bare or bald body part,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possibly containing postradical -akw
-267,Hockett,pot,,pota1247,minE-,POT:3,,,,,,berry,,initial,,,,,,,,,,,,,,,,minE,,,N,,berry,,CH1939b;0043,minɑk·an,,,N,,seed,,CH1939b;0043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-37,Lockwood,pot ,,pota1247,miw-,POT:WNALP,,,,,,"keep away, reject",,initial
-164,Lockwood,pot,,pota1247,miw-,POT:WNALP,,,,,,"keep away, reject",,initial
-38,Lockwood,pot,,pota1247,mizhad-,POT:WNALP,,,,,,fancy,,initial
-182,Lockwood,pot,,pota1247,mizhad-,POT:WNALP,,,,,,fancy,,initial
-129,Lockwood,pot,,pota1247,mshkek-,POT:WNALP,,,,,,medicine,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
+350,Hockett,pot,,pota1247,kUš,POT:5,,,,,,warm,warm,initial,,,,,,,,,,,,,,,,kUšUt·e,,,V,II,be hot (not of the weather),,CH1948b;0063,kUšat·e,,,V,II,be hot (of weather),,CH1948b;0063,kUšUsO,,,V,AI,be hot,,CH1948b;0063,kUšapos·,,,V,TI,heat a liquid,,CH1948b;0063,kUšapos·,,,V,TI,heat a liquid,,CH1948b;0063
+36,Lockwood,pot,,pota1247,mek-,POT:WNALP,,,,,,find,find,initial
+157,Lockwood,pot ,,pota1247,mek-,POT:WNALP,,,,,,find,find,initial
+121,Lockwood,pot ,,pota1247,meshkow-,POT:WNALP,,,,,,frozen,froze,initial
+117,Lockwood,pot,,pota1247,met-,POT:WNALP,,,,,,bare,bare,initial
+128,Lockwood,pot,,pota1247,met-,POT:WNALP,,,,,,"bare, unaided","bare, unaided",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,corrected by HL
+127,Lockwood,pot ,,pota1247,metakw-,POT:WNALP,,,,,,bare or bald body part,"bare, bald",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possibly containing postradical -akw
+267,Hockett,pot,,pota1247,minE-,POT:3,,,,,,berry,berry,initial,,,,,,,,,,,,,,,,minE,,,N,,berry,,CH1939b;0043,minɑk·an,,,N,,seed,,CH1939b;0043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+37,Lockwood,pot ,,pota1247,miw-,POT:WNALP,,,,,,"keep away, reject","keep away, reject",initial
+164,Lockwood,pot,,pota1247,miw-,POT:WNALP,,,,,,"keep away, reject","keep away, reject",initial
+38,Lockwood,pot,,pota1247,mizhad-,POT:WNALP,,,,,,fancy,fancy,initial
+182,Lockwood,pot,,pota1247,mizhad-,POT:WNALP,,,,,,fancy,fancy,initial
+129,Lockwood,pot,,pota1247,mshkek-,POT:WNALP,,,,,,medicine,medicine,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
 371,Hockett,pot,,pota1247,mUkUt,POT:5,,,,,,NG,,final,II,,,B,II
 368,Hockett,pot,,pota1247,mUn,POT:5,,,,,,"berry, grain",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.64 ""(This may rather be a medial)"""
 413,Hockett,pot,,pota1247,N,POT:5,,,,,,NG,,final,TA,,,,,,,,√t,√to,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,√t
 256,Hockett,pot ,,pota1247,n-,POT:3,n-,,,,,NG,,initial,,,,,,,,,,,,,,,,napo,,,N,,drink,,CH1939b;0037,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-39,Lockwood,pot,,pota1247,nad-,POT:WNALP,,,,,,"go after, fetch",,initial
-160,Lockwood,pot ,,pota1247,nad-,POT:WNALP,,,,,,"go after, fetch",,initial
-40,Lockwood,pot ,,pota1247,nam-,POT:WNALP,,,,,,under,,initial
-142,Lockwood,pot ,,pota1247,nam-,POT:WNALP,,,,,,under,,initial
-42,Lockwood,pot,,pota1247,nebi-,POT:WNALP,,,,,,"water, wet",,initial
-179,Lockwood,pot,,pota1247,nebi-,POT:WNALP,,,,,,"water, wet",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: nebye-
-41,Lockwood,pot,,pota1247,nebye-,POT:WNALP,,,,,,"water, wet",,initial
-178,Lockwood,pot ,,pota1247,nebye-,POT:WNALP,,,,,,"water, wet",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: nebi-
-43,Lockwood,pot ,,pota1247,nedo-,POT:WNALP,,,,,,"try, look for",,initial
-158,Lockwood,pot,,pota1247,nedo-,POT:WNALP,,,,,,"try, look for",,initial
-44,Lockwood,pot,,pota1247,nege-,POT:WNALP,,,,,,"melt, thaw",,initial
-163,Lockwood,pot ,,pota1247,nege-,POT:WNALP,,,,,,"melt, thaw",,initial
-45,Lockwood,pot,,pota1247,nis-,POT:WNALP,,,,,,down,,initial
-146,Lockwood,pot,,pota1247,nis-,POT:WNALP,,,,,,down,,initial
-46,Lockwood,pot ,,pota1247,nok-,POT:WNALP,,,,,,soft,,initial
-175,Lockwood,pot ,,pota1247,nok-,POT:WNALP,,,,,,soft,,initial
-242,Lockwood,pot,,pota1247,oj-,POT:WNALP,,,,,,from; for the reason that,,initial,RR
+39,Lockwood,pot,,pota1247,nad-,POT:WNALP,,,,,,"go after, fetch",fetch,initial
+160,Lockwood,pot ,,pota1247,nad-,POT:WNALP,,,,,,"go after, fetch",fetch,initial
+40,Lockwood,pot ,,pota1247,nam-,POT:WNALP,,,,,,under,under,initial
+142,Lockwood,pot ,,pota1247,nam-,POT:WNALP,,,,,,under,under,initial
+42,Lockwood,pot,,pota1247,nebi-,POT:WNALP,,,,,,"water, wet","water, wet",initial
+179,Lockwood,pot,,pota1247,nebi-,POT:WNALP,,,,,,"water, wet","water, wet",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: nebye-
+41,Lockwood,pot,,pota1247,nebye-,POT:WNALP,,,,,,"water, wet","water, wet",initial
+178,Lockwood,pot ,,pota1247,nebye-,POT:WNALP,,,,,,"water, wet","water, wet",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: nebi-
+43,Lockwood,pot ,,pota1247,nedo-,POT:WNALP,,,,,,"try, look for","try, look for",initial
+158,Lockwood,pot,,pota1247,nedo-,POT:WNALP,,,,,,"try, look for","try, look for",initial
+44,Lockwood,pot,,pota1247,nege-,POT:WNALP,,,,,,"melt, thaw","melt, thaw",initial
+163,Lockwood,pot ,,pota1247,nege-,POT:WNALP,,,,,,"melt, thaw","melt, thaw",initial
+45,Lockwood,pot,,pota1247,nis-,POT:WNALP,,,,,,down,down,initial
+146,Lockwood,pot,,pota1247,nis-,POT:WNALP,,,,,,down,down,initial
+46,Lockwood,pot ,,pota1247,nok-,POT:WNALP,,,,,,soft,soft,initial
+175,Lockwood,pot ,,pota1247,nok-,POT:WNALP,,,,,,soft,soft,initial
+242,Lockwood,pot,,pota1247,oj-,POT:WNALP,,,,,,from; for the reason that,"from, reason",initial,RR
 393,Hockett,pot,,pota1247,Os·e,POT:5,,,,,,by foot,,final,AI,,CONCR
 260,Hockett,pot,,pota1247,os∙,POT:3,,,,,,father,,medial,AnimDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 257,Hockett,pot,,pota1247,pɑm-,POT:3,,,,,,moving around,,initial,,,,,,,,,,,,,,,,pɑmatɑs,,,V,AI,live,,CH1939b;0037,pɑmɑs·a/ε,,,V,AI,fly,,CH1939b;0044,pɑmOs·a/ε,,,V,AI,walk,,CH1939b;0044,pɑmaška/ε,,,V,AI,fly,,IG1939b;0044,pɑmaška/ε,,,V,AI,fly,,IG1939b;0044,,,,,,,,,,,,HTL
-343,Hockett,pot,,pota1247,pUm,POT:5,,,,,,around here,,initial,,,,,,,,,,,,,,,,,,√pmuʔik,V,AI,they are around here,,CH1948a;0004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+343,Hockett,pot,,pota1247,pUm,POT:5,,,,,,around here,around,initial,,,,,,,,,,,,,,,,,,√pmuʔik,V,AI,they are around here,,CH1948a;0004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 351,Hockett,pot,,pota1247,pUm,POT:5,,,,,,moving around,,initial,,,,,,,,,,,,,,,,pUmUs·ᵃ/ₑ,,,V,AI,fly,,CH1948b;0063,pUmOs·e,,,V,AI,walk,,CH1948b;0063,pUmaškᵃ/ₑ,,,V,AI,fly,,CH1948b;0063,pUmatUs,,,V,AI,be alive,,CH1948b;0063,pUmatUs,,,V,AI,be alive,,CH1948b;0063
 395,Hockett,pot,,pota1247,pUt·o,POT:5,,,,,,run,,final,AI,,CONCR
-354,Hockett,pot,,pota1247,pyᵃ/ₑ,POT:5,,,,,,come,,initial,,,,,,,,,,,,,,,,pyewapUn,,,V,II,be becoming morning,Y,CH1948b;0064
+354,Hockett,pot,,pota1247,pyᵃ/ₑ,POT:5,,,,,,come,come,initial,,,,,,,,,,,,,,,,pyewapUn,,,V,II,be becoming morning,Y,CH1948b;0064
 409,Hockett,pot,,pota1247,s·,POT:5,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: p. 67: May or may not be a final
 431,Hockett,pot,,pota1247,t·,POT:5,,,,,,NG,,final,TA
 392,Hockett,pot,,pota1247,t·Um,POT:5,,,,,,NG,,final,AI
 422,Hockett,pot,,pota1247,t·Uw,POT:5,,,,,,relates action to object,,final,TA,,,Y,AI,,,,√t,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,t·,√w
-21,Lockwood,pot,,pota1247,teb-,POT:WNALP,,,,,,through an opening,,initial
-184,Lockwood,pot ,,pota1247,teb-,POT:WNALP,,,,,,through an opening,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: deb-
+21,Lockwood,pot,,pota1247,teb-,POT:WNALP,,,,,,through an opening,through,initial
+184,Lockwood,pot ,,pota1247,teb-,POT:WNALP,,,,,,through an opening,through,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: deb-
 391,Hockett,pot,,pota1247,tUm,POT:5,,,,,,NG,,final,AI
 410,Hockett,pot,,pota1247,UčUkate,POT:5,,,,,,passive,,final,II,,,Y,TI
 427,Hockett,pot,,pota1247,Uk·,POT:5,,,,,,"play around with, fool around with",,final,TI,,,,,,,Uk·Uw
@@ -365,34 +365,34 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 404,Hockett,pot,,pota1247,Uw,POT:5,,,,,,NG,,final,TA,,,,,,,,,O,"__√tat, √tatiy"
 419,Hockett,pot,,pota1247,Uˀ,POT:5,,,,,,NG,,final,TI,,,,,,,Uˀw
 418,Hockett,pot,,pota1247,Uˀw,POT:5,,,,,,NG,,final,TA,,,,,,,,Uˀ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Uˀ,√w
-47,Lockwood,pot,,pota1247,wab-,POT:WNALP,,,,,,white,,initial
-173,Lockwood,pot,,pota1247,wab-,POT:WNALP,,,,,,white,,initial
-336,Hockett,pot,,pota1247,wap-,POT:3,,,,,,white,,initial,GENERIC,,,,,,,,,,,,,,,wap=kɑno(#j),,,N,,white eagle,,CH1939b;0063,wap=konoškwε#j,,,N,,rat,,CH1939b;0063,wap=to#j,,,N,,mushroom,,CH1939b;0063,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-48,Lockwood,pot,,pota1247,wb-,POT:WNALP,,,,,,upward,,initial
-149,Lockwood,pot,,pota1247,wb-,POT:WNALP,,,,,,upward,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: wmb-
-52,Lockwood,pot ,,pota1247,wéb-,POT:WNALP,,,,,,"begin, inceptive",,initial
-165,Lockwood,pot,,pota1247,wéb-,POT:WNALP,,,,,,"begin, inceptive",,initial
-50,Lockwood,pot,,pota1247,wed-,POT:WNALP,,,,,,"why, from",,initial
-136,Lockwood,pot ,,pota1247,wed-,POT:WNALP,,,,,,"why, from",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: wej-
-51,Lockwood,pot,,pota1247,wej-,POT:WNALP,,,,,,"why, from",,initial
-137,Lockwood,pot,,pota1247,wej-,POT:WNALP,,,,,,"why, from",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: wed-
-269,Hockett,pot,,pota1247,wikɑwamE-,POT:3,,,,,,house,,initial,,,,,,,,,,,,,,,,wikɑwamE,,,N,,house,,CH1939b;0043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-49,Lockwood,pot ,,pota1247,wmb-,POT:WNALP,,,,,,upward,,initial
-150,Lockwood,pot,,pota1247,wmb-,POT:WNALP,,,,,,upward,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: wb-
+47,Lockwood,pot,,pota1247,wab-,POT:WNALP,,,,,,white,white,initial
+173,Lockwood,pot,,pota1247,wab-,POT:WNALP,,,,,,white,white,initial
+336,Hockett,pot,,pota1247,wap-,POT:3,,,,,,white,white,initial,GENERIC,,,,,,,,,,,,,,,wap=kɑno(#j),,,N,,white eagle,,CH1939b;0063,wap=konoškwε#j,,,N,,rat,,CH1939b;0063,wap=to#j,,,N,,mushroom,,CH1939b;0063,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+48,Lockwood,pot,,pota1247,wb-,POT:WNALP,,,,,,upward,upward,initial
+149,Lockwood,pot,,pota1247,wb-,POT:WNALP,,,,,,upward,upward,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: wmb-
+52,Lockwood,pot ,,pota1247,wéb-,POT:WNALP,,,,,,"begin, inceptive",begin,initial
+165,Lockwood,pot,,pota1247,wéb-,POT:WNALP,,,,,,"begin, inceptive",begin,initial
+50,Lockwood,pot,,pota1247,wed-,POT:WNALP,,,,,,"why, from","why, from",initial
+136,Lockwood,pot ,,pota1247,wed-,POT:WNALP,,,,,,"why, from","why, from",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: wej-
+51,Lockwood,pot,,pota1247,wej-,POT:WNALP,,,,,,"why, from","why, from",initial
+137,Lockwood,pot,,pota1247,wej-,POT:WNALP,,,,,,"why, from","why, from",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: wed-
+269,Hockett,pot,,pota1247,wikɑwamE-,POT:3,,,,,,house,house,initial,,,,,,,,,,,,,,,,wikɑwamE,,,N,,house,,CH1939b;0043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+49,Lockwood,pot ,,pota1247,wmb-,POT:WNALP,,,,,,upward,upward,initial
+150,Lockwood,pot,,pota1247,wmb-,POT:WNALP,,,,,,upward,upward,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: wb-
 366,Hockett,pot,,pota1247,wUn,POT:5,,,,,,related to √n/,,final,N,,,Y,II
 53,Lockwood,pot,,pota1247,wzam-,POT:WNALP,,,,,,too much,,initial
 176,Lockwood,pot,,pota1247,wzam-,POT:WNALP,,,,,,too much,,initial
-54,Lockwood,pot,,pota1247,zag-,POT:WNALP,,,,,,"emerge, protrude, become visible",,initial
-147,Lockwood,pot,,pota1247,zag-,POT:WNALP,,,,,,"emerge, protrude, become visible",,initial
+54,Lockwood,pot,,pota1247,zag-,POT:WNALP,,,,,,"emerge, protrude, become visible","emerge, protrude, visible",initial
+147,Lockwood,pot,,pota1247,zag-,POT:WNALP,,,,,,"emerge, protrude, become visible","emerge, protrude, visible",initial
 290,Hockett,pot,,pota1247,zero,POT:3,,,,,,verb of having,,final,AI,,,,,,,,,,,,,,,Oničanɑs·,,,V,AI,have children,,CH1939b;0048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""there are some irregularities"" (48)",,HTL
 373,Hockett,pot,,pota1247,zero,POT:5,,,,,,occurs in verbs of having,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Spelled out as zero in-text, so it is presented as such here"
-55,Lockwood,pot ,,pota1247,zhab-,POT:WNALP,,,,,,through,,initial
-148,Lockwood,pot ,,pota1247,zhab-,POT:WNALP,,,,,,through,,initial
-56,Lockwood,pot,,pota1247,ziw-,POT:WNALP,,,,,,sour,,initial
-171,Lockwood,pot,,pota1247,ziw-,POT:WNALP,,,,,,sour,,initial
-105,Lockwood,pot,,pota1247,,POT:WNALP,,od-,,,,"from there, reason why",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"allomorph: /oʤ-/, /oz-/"
+55,Lockwood,pot ,,pota1247,zhab-,POT:WNALP,,,,,,through,through,initial
+148,Lockwood,pot ,,pota1247,zhab-,POT:WNALP,,,,,,through,through,initial
+56,Lockwood,pot,,pota1247,ziw-,POT:WNALP,,,,,,sour,sour,initial
+171,Lockwood,pot,,pota1247,ziw-,POT:WNALP,,,,,,sour,sour,initial
+105,Lockwood,pot,,pota1247,,POT:WNALP,,od-,,,,"from there, reason why",reason,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"allomorph: /oʤ-/, /oz-/"
 106,Lockwood,pot ,,pota1247,,POT:WNALP,,na:d-,,,,go after,,initial
-107,Lockwood,pot,,pota1247,,POT:WNALP,,a:bǝz-,,,,continually,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"""likely derived from /a:bǝd-/ 'continually' though this form is not attested in Potawatomi"""
+107,Lockwood,pot,,pota1247,,POT:WNALP,,a:bǝz-,,,,continually,continually,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"""likely derived from /a:bǝd-/ 'continually' though this form is not attested in Potawatomi"""
 340,Hockett,pot,,pota1247,,POT:5,,√n/,,,,NG,,initial,,,,,,,,,,,,,,,,,,√napo,N,,drink,,CH1948a;0007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL: This word also appears in Forest County Potawatomi dictionary; the initial is still unclear because the possessed form is n- instead of nde- as might be expected if it were the relative root.,,HTL
 341,Hockett,pot,,pota1247,,POT:5,,√y/,,,,be,,final,AI,,,,,,,,,,,,,,,,,√pmuʔik,V,AI,they are around here,,CH1948a;0004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 342,Hockett,pot,,pota1247,,POT:5,,√apo/,,,,NG,,final,NI,,,,,,,,,,,,,,,,,√napo,N,,drink,,CH1948a;0007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -409,7 +409,7 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 364,Hockett,pot,,pota1247,,POT:5,,√n/,,,,instrument,,final,N,,,Y,AI
 367,Hockett,pot,,pota1247,,POT:5,,√k·an/,,,,"instrument, means",,final,N,,,Y,N
 369,Hockett,pot,,pota1247,,POT:5,,√apo/,,,,liquid,,final,,,,,,,,,,√apa/
-370,Hockett,pot,,pota1247,,POT:5,,√siw/,,,,sour,,initial
+370,Hockett,pot,,pota1247,,POT:5,,√siw/,,,,sour,sour,initial
 374,Hockett,pot,,pota1247,,POT:5,,√k·e/,,,,occurs in verbs of producing,,final,AI,,,Y,N
 375,Hockett,pot,,pota1247,,POT:5,,√ke/,,,,verbs of action on indefinite object,,final,AI,,,Y,V
 376,Hockett,pot,,pota1247,,POT:5,,√to/,,,,NG,,final,TI,,,,,,,,,√ta/,__√ke/,,,,,,,√macito,V,TI,take,,CH1948b;0065,,,nUš·OnačUto,V,TI,destroy,,CH1948b;0068,,,,,,,,,,,,,,,,,,,,,,,,,√t·o,√to/,,,,N,√to,,,GVM: p. 68 chart discusses formatives

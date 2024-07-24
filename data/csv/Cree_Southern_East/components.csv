@@ -25,39 +25,39 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 26,Junker,MOJ2003b,0176,crj,,sout2978,-uw-,C-SE:2,,,,,,applicative,,final,TA
 3,Junker,MOJ2000,0003,crj,,sout2978,-waau,C-E:1,,,,,,times,,final,PART,,,Y,PART,,,,,,,,,,,,,,,,,,,,"MOJ doesn't use terms ""final"" or ""particle""; calls it a suffix added to a lexical quantifier. Called ""East Cree"" in article; first footnote makes it clear that it's Southern East Cree."
 57,Armoskaite & Junker,SA_MOJ2017,"0002,0003",crj,,sout2978,-win,C-E:1,,,,,,process/result,,final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,"They call it ""abstract"" but do assign it a meaning.",,MAM
-23,Junker,MOJ2003b,0174,crj,,sout2978,Chihti-,C-SE:2,,,,,,be.lazy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent; this is called an ""initial component,"" but I'm unclear whether it's an actual initial"
-38,Junker,MOJ2003b,0178,crj,,sout2978,Chiishkwey-,C-SE:2,,,,,,confuse,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
-43,Junker,MOJ2003b,0181,crj,,sout2978,Chisch-,C-SE:2,,,,,,know,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
-24,Junker,MOJ2003b,0175,crj,,sout2978,Chisheinuw-,C-SE:2,,,,,,elder,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent; this is called a ""nominal root,"" but I'm unclear whether it's an actual initial. It does contrast with the complete noun Chisheinuu 'an elder'."
-18,Junker,MOJ2003b,0171,crj,,sout2978,Chistimaach-,C-SE:2,,,,,,pity,,initial,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Capitalization is consistent
-49,Junker,MOJ2003b,0184,crj,,sout2978,Chiyaam-,C-SE:2,,,,,,calm,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
-15,Junker,MOJ2003b,0170,crj,,sout2978,it-,C-SE:2,,,,,,thus,,initial,RR
-44,Junker,MOJ2003b,0182,crj,,sout2978,Kaahkw-,C-SE:2,,,,,,porcupine,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial; used here to represent jealousy"
-36,Junker,MOJ2003b,0177,crj,,sout2978,Kachetaaw-,C-SE:2,,,,,,skillful,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
-29,Junker,MOJ2003b,0176,crj,,sout2978,Kakwet-,C-SE:2,,,,,,test,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
-32,Junker,MOJ2003b,0176,crj,,sout2978,Kaw-,C-SE:2,,,,,,down,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph; first given as idea of downward movement, but given as ""down"" in gloss"
-37,Junker,MOJ2003b,0178,crj,,sout2978,Kuitu-,C-SE:2,,,,,,uncertain,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
-41,Junker,MOJ2003b,0179,crj,,sout2978,Kushkw-,C-SE:2,,,,,,startle,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
-30,Junker,MOJ2003b,0176,crj,,sout2978,Kwesch-,C-SE:2,,,,,,turn,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
-53,Junker,MOJ2003b,0185,crj,,sout2978,Maachi-,C-SE:2,,,,,,bad,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Probably an allomorph of mach- but no conditions given; capitalization is consistent, unclear whether it's an actual initial"
-51,Junker,MOJ2003b,0184,crj,,sout2978,Maamitun-,C-SE:2,,,,,,whole,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
+23,Junker,MOJ2003b,0174,crj,,sout2978,Chihti-,C-SE:2,,,,,,be.lazy,lazy,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent; this is called an ""initial component,"" but I'm unclear whether it's an actual initial"
+38,Junker,MOJ2003b,0178,crj,,sout2978,Chiishkwey-,C-SE:2,,,,,,confuse,confuse,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
+43,Junker,MOJ2003b,0181,crj,,sout2978,Chisch-,C-SE:2,,,,,,know,know,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
+24,Junker,MOJ2003b,0175,crj,,sout2978,Chisheinuw-,C-SE:2,,,,,,elder,elder,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent; this is called a ""nominal root,"" but I'm unclear whether it's an actual initial. It does contrast with the complete noun Chisheinuu 'an elder'."
+18,Junker,MOJ2003b,0171,crj,,sout2978,Chistimaach-,C-SE:2,,,,,,pity,pity,initial,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Capitalization is consistent
+49,Junker,MOJ2003b,0184,crj,,sout2978,Chiyaam-,C-SE:2,,,,,,calm,calm,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
+15,Junker,MOJ2003b,0170,crj,,sout2978,it-,C-SE:2,,,,,,thus,thus,initial,RR
+44,Junker,MOJ2003b,0182,crj,,sout2978,Kaahkw-,C-SE:2,,,,,,porcupine,porcupine,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial; used here to represent jealousy"
+36,Junker,MOJ2003b,0177,crj,,sout2978,Kachetaaw-,C-SE:2,,,,,,skillful,skillful,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
+29,Junker,MOJ2003b,0176,crj,,sout2978,Kakwet-,C-SE:2,,,,,,test,test,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
+32,Junker,MOJ2003b,0176,crj,,sout2978,Kaw-,C-SE:2,,,,,,down,down,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph; first given as idea of downward movement, but given as ""down"" in gloss"
+37,Junker,MOJ2003b,0178,crj,,sout2978,Kuitu-,C-SE:2,,,,,,uncertain,uncertain,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
+41,Junker,MOJ2003b,0179,crj,,sout2978,Kushkw-,C-SE:2,,,,,,startle,startle,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
+30,Junker,MOJ2003b,0176,crj,,sout2978,Kwesch-,C-SE:2,,,,,,turn,turn,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
+53,Junker,MOJ2003b,0185,crj,,sout2978,Maachi-,C-SE:2,,,,,,bad,bad,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Probably an allomorph of mach- but no conditions given; capitalization is consistent, unclear whether it's an actual initial"
+51,Junker,MOJ2003b,0184,crj,,sout2978,Maamitun-,C-SE:2,,,,,,whole,whole,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
 40,Junker,MOJ2003b,0179,crj,,sout2978,maay-,C-SE:2,,,,,,"found in words for evil things, beings, concepts, or actions",,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Referred to as ""initial component"""
-12,Junker,MOJ2003b,0169,crj,,sout2978,mach-,C-SE:2,,,,,,bad,,initial,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Probably an allomorph of Machi- but no conditions given
-39,Junker,MOJ2003b,0179,crj,,sout2978,Mamach-,C-SE:2,,,,,,jealous,,initial,,Y
-50,Junker,MOJ2003b,0184,crj,,sout2978,mitun-,C-SE:2,,,,,,"whole, complete",,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
-45,Junker,MOJ2003b,0182,crj,,sout2978,Miy-,C-SE:2,,,,,,good,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial; probably an allomorph of Miy- but no conditions given"
-52,Junker,MOJ2003b,0185,crj,,sout2978,Miyu-,C-SE:2,,,,,,good,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Probably an allomorph of Miy- but no conditions given; capitalization is consistent, unclear whether it's an actual initial"
-42,Junker,MOJ2003b,0179,crj,,sout2978,Mushten-,C-SE:2,,,,,,attract,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
-46,Junker,MOJ2003b,0182,crj,,sout2978,Muuchich-,C-SE:2,,,,,,joy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
+12,Junker,MOJ2003b,0169,crj,,sout2978,mach-,C-SE:2,,,,,,bad,bad,initial,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Probably an allomorph of Machi- but no conditions given
+39,Junker,MOJ2003b,0179,crj,,sout2978,Mamach-,C-SE:2,,,,,,jealous,jealous,initial,,Y
+50,Junker,MOJ2003b,0184,crj,,sout2978,mitun-,C-SE:2,,,,,,"whole, complete","whole, complete",initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
+45,Junker,MOJ2003b,0182,crj,,sout2978,Miy-,C-SE:2,,,,,,good,good,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial; probably an allomorph of Miy- but no conditions given"
+52,Junker,MOJ2003b,0185,crj,,sout2978,Miyu-,C-SE:2,,,,,,good,good,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Probably an allomorph of Miy- but no conditions given; capitalization is consistent, unclear whether it's an actual initial"
+42,Junker,MOJ2003b,0179,crj,,sout2978,Mushten-,C-SE:2,,,,,,attract,attract,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
+46,Junker,MOJ2003b,0182,crj,,sout2978,Muuchich-,C-SE:2,,,,,,joy,joy,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
 55,Junker,MOJ2003b,0187,crj,,sout2978,Naapeu-,C-SE:2,,,,,,man(male),,initial
-1,Brittain,JB2003,0033,crj,,sout2978,ninâpeu,C-SE:1,,,,,,man,,initial,,Y,,,,,,,,,,ninâpeu-mu,,,V,AI,talk like a man,,JB2003;0033,,,,,,"called ""East Cree"" in article; checked with JB that it's SEC",,MAM
-16,Junker,MOJ2003b,0171,crj,,sout2978,nituw-,C-SE:2,,,,,,want,,initial
-47,Junker,MOJ2003b,0183,crj,,sout2978,Paasikw-,C-SE:2,,,,,,going over board,,initial,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Capitalization and spacing in translation are consistent; unclear whether it's actually an initial; used here to mean excited
-48,Junker,MOJ2003b,0184,crj,,sout2978,Piuutam-,C-SE:2,,,,,,clear,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial; used here to mean peaceful, clear, calm but glossed as clear"
-31,Junker,MOJ2003b,0176,crj,,sout2978,Puun-,C-SE:2,,,,,,stop,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
+1,Brittain,JB2003,0033,crj,,sout2978,ninâpeu,C-SE:1,,,,,,man,"man, male",initial,,Y,,,,,,,,,,ninâpeu-mu,,,V,AI,talk like a man,,JB2003;0033,,,,,,"called ""East Cree"" in article; checked with JB that it's SEC",,MAM
+16,Junker,MOJ2003b,0171,crj,,sout2978,nituw-,C-SE:2,,,,,,want,want,initial
+47,Junker,MOJ2003b,0183,crj,,sout2978,Paasikw-,C-SE:2,,,,,,going over board,go overboard,initial,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Capitalization and spacing in translation are consistent; unclear whether it's actually an initial; used here to mean excited
+48,Junker,MOJ2003b,0184,crj,,sout2978,Piuutam-,C-SE:2,,,,,,clear,clear,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial; used here to mean peaceful, clear, calm but glossed as clear"
+31,Junker,MOJ2003b,0176,crj,,sout2978,Puun-,C-SE:2,,,,,,stop,stop,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
 6,Junker,MOJ2000,0003,crj,,sout2978,tahtw-,C-E:1,,,,,,so many,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,"Called ""East Cree"" in article; first footnote makes it clear that it's Southern East Cree."
-33,Junker,MOJ2003b,0177,crj,,sout2978,waaskam-,C-SE:2,,,,,,clear,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: First given as ""used for physical perception,"" but in gloss given as ""clear"""
-35,Junker,MOJ2003b,0177,crj,,sout2978,Wan-,C-SE:2,,,,,,wrong,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
-25,Junker,MOJ2003b,0175,crj,,sout2978,Wep-,C-SE:2,,,,,,sweep/away,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
-5,Junker,MOJ2000,0003,crj,,sout2978,weyutisi-,C-E:1,,,,,,a lot of,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"Called ""East Cree"" in article; first footnote makes it clear that it's Southern East Cree."
-34,Junker,MOJ2003b,0177,crj,,sout2978,Yaait-,C-SE:2,,,,,,firm,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
+33,Junker,MOJ2003b,0177,crj,,sout2978,waaskam-,C-SE:2,,,,,,clear,clear,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: First given as ""used for physical perception,"" but in gloss given as ""clear"""
+35,Junker,MOJ2003b,0177,crj,,sout2978,Wan-,C-SE:2,,,,,,wrong,wrong,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
+25,Junker,MOJ2003b,0175,crj,,sout2978,Wep-,C-SE:2,,,,,,sweep/away,"sweep, away",initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, unclear whether it's an actual initial"
+5,Junker,MOJ2000,0003,crj,,sout2978,weyutisi-,C-E:1,,,,,,a lot of,a lot,initial,,,,,,,,,,,,,,,,,,,,,,,,,"Called ""East Cree"" in article; first footnote makes it clear that it's Southern East Cree."
+34,Junker,MOJ2003b,0177,crj,,sout2978,Yaait-,C-SE:2,,,,,,firm,firm,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"

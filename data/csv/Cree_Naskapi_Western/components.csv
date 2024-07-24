@@ -16,15 +16,15 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 21,Brittain,JB2003,0032,nsk,,west2626,-su,C-N:2,,,,,,NG,,final,AI,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 17,Brittain,JB2003,0031,nsk,,west2626,-swâ,C-N:2,,,,,,do by blade,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 14,Brittain,JB2003,0031,nsk,,west2626,-tîhkw,C-N:2,,,,,,caribou,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-20,Brittain,JB2003,0032,nsk,,west2626,mîchi,C-N:2,,,,,,eat,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-18,Brittain,JB2003,0032,nsk,,west2626,mîhchâtw,C-N:2,,,,,,many,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-3,Brittain,JB2003,0028,nsk,,west2626,mw,C-N:2,,,,,,eat,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-6,Brittain,JB2003,0029,nsk,,west2626,nâh,C-N:2,,,,,,good,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-8,Brittain,JB2003,0031,nsk,,west2626,nitû,C-N:2,,,,,,hunt,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-15,Brittain,JB2003,0031,nsk,,west2626,pâhkun,C-N:2,,,,,,skin,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-23,Brittain,JB2003,0034,nsk,,west2626,pâhpi-,C-N:2,,,,,,laugh,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-22,Brittain,JB2003,0033,nsk,,west2626,pîhch,C-N:2,,,,,,inside,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-9,Brittain,JB2003,0031,nsk,,west2626,pikistuw,C-N:2,,,,,,drop,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-12,Brittain,JB2003,0031,nsk,,west2626,pûst,C-N:2,,,,,,put on,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-1,Brittain,JB2003,0028,nsk,,west2626,wâp-,C-N:2,,,,,,light,,initial,,,,,,,,,,,,wâpim,,,V,TA,see,,JB2003;0028,,,,,,,,,,,,,,,,,,,,,,,,MAM
-26,Brittain,JB1999a,0036,nsk,,west2626,wâp-,C-N:2,,,,,,white,,initial,,,,,,,,,,,,wâpim,,,V,TA,see,,JB1999a;0036,wâpâht,,,V,TI,see,,JB1999a;0036,wâpisk,,,N,,snow goose,,JB1999a;0036
+20,Brittain,JB2003,0032,nsk,,west2626,mîchi,C-N:2,,,,,,eat,eat,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+18,Brittain,JB2003,0032,nsk,,west2626,mîhchâtw,C-N:2,,,,,,many,many,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+3,Brittain,JB2003,0028,nsk,,west2626,mw,C-N:2,,,,,,eat,eat,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+6,Brittain,JB2003,0029,nsk,,west2626,nâh,C-N:2,,,,,,good,good,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+8,Brittain,JB2003,0031,nsk,,west2626,nitû,C-N:2,,,,,,hunt,hunt,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+15,Brittain,JB2003,0031,nsk,,west2626,pâhkun,C-N:2,,,,,,skin,skin,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+23,Brittain,JB2003,0034,nsk,,west2626,pâhpi-,C-N:2,,,,,,laugh,laugh,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+22,Brittain,JB2003,0033,nsk,,west2626,pîhch,C-N:2,,,,,,inside,inside,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+9,Brittain,JB2003,0031,nsk,,west2626,pikistuw,C-N:2,,,,,,drop,drop,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+12,Brittain,JB2003,0031,nsk,,west2626,pûst,C-N:2,,,,,,put on,put on,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+1,Brittain,JB2003,0028,nsk,,west2626,wâp-,C-N:2,,,,,,light,light,initial,,,,,,,,,,,,wâpim,,,V,TA,see,,JB2003;0028,,,,,,,,,,,,,,,,,,,,,,,,MAM
+26,Brittain,JB1999a,0036,nsk,,west2626,wâp-,C-N:2,,,,,,white,white,initial,,,,,,,,,,,,wâpim,,,V,TA,see,,JB1999a;0036,wâpâht,,,V,TI,see,,JB1999a;0036,wâpisk,,,N,,snow goose,,JB1999a;0036

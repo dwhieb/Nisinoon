@@ -1,18 +1,18 @@
 ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Component occurs in stem (orig. orth)-D,Component occurs in stem (proj. orth)-D,Stem UR-D,Stem category-D,Stem subcategory-D,Stem translation-D,Secondary stem-D,Stem Source-D,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
-1,Goddard,IG1990a,"0451,0452",sac,,mesk1242,mahkw-,ME:2,,,,,,bear,,initial,,,,,,,,,,,,mahkw-,,,N,,bear,,IG1990a;0451,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mahkw- 'bear',Stem consists of initial alone (no zero final),,MAM
-2,Goddard,IG1990a,0451,sac,,mesk1242,nep-,ME:2,,,,,,die,,initial,,,,,,,,,,,,nep-,,,N,,die,,IG1990a;0451,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stem consists of initial alone (no zero final),,MAM
-3,Goddard,IG1990a,0451,sac,,mesk1242,wa·pešk-,ME:2,,,,,,white,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+1,Goddard,IG1990a,"0451,0452",sac,,mesk1242,mahkw-,ME:2,,,,,,bear,bear,initial,,,,,,,,,,,,mahkw-,,,N,,bear,,IG1990a;0451,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mahkw- 'bear',Stem consists of initial alone (no zero final),,MAM
+2,Goddard,IG1990a,0451,sac,,mesk1242,nep-,ME:2,,,,,,die,die,initial,,,,,,,,,,,,nep-,,,N,,die,,IG1990a;0451,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stem consists of initial alone (no zero final),,MAM
+3,Goddard,IG1990a,0451,sac,,mesk1242,wa·pešk-,ME:2,,,,,,white,white,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 4,Goddard,IG1990a,0451,sac,,mesk1242, -esi-,ME:2,,,,,,(anim.) be,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-5,Goddard,IG1990a,0451,sac,,mesk1242,ki·šk-,ME:2,,,,,,severed,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+5,Goddard,IG1990a,0451,sac,,mesk1242,ki·šk-,ME:2,,,,,,severed,severed,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 6,Goddard,IG1990a,0451,sac,,mesk1242,-ešw-,ME:2,,,,,,act on (anim.) by cutting edge (causing ...),,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 7,Goddard,IG1990a,"0451,0452",sac,,mesk1242,-inamešk-,ME:2,,,,,,skin,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 8,Goddard,IG1990a,"0451,0456",sac,,mesk1242,-e·-,ME:2,,,,,,"(anim.) be, have",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 9,Goddard,IG1990a,0452,sac,,mesk1242,-ikwe·-,ME:2,,,,,,neck,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 10,Goddard,IG1990a,0452,sac,,mesk1242,-(e)šw-,ME:2,,,,,,cut,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 11,Goddard,IG1990a,0452,sac,,mesk1242,-ay-,ME:2,,,,,,skin,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-12,Goddard,IG1990a,0453,sac,,mesk1242,nepiw-,ME:2,,,,,,water,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nepy- 'water',,,MAM
+12,Goddard,IG1990a,0453,sac,,mesk1242,nepiw-,ME:2,,,,,,water,water,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nepy- 'water',,,MAM
 13,Goddard,IG1990a,0453,sac,,mesk1242,-a·hkw-,ME:2,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-14,Goddard,IG1990a,0453,sac,,mesk1242,pekow-,ME:2,,,,,,dust,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,pekw- 'dust',,,MAM
+14,Goddard,IG1990a,0453,sac,,mesk1242,pekow-,ME:2,,,,,,dust,dust,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,pekw- 'dust',,,MAM
 15,Goddard,IG1990a,0453,sac,,mesk1242,-i·kwe·-,ME:2,,,,,,face,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 16,Goddard,IG1990a,0453,sac,,mesk1242,-šin-,ME:2,,,,,,lie,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 17,Goddard,IG1990a,0454,sac,,mesk1242,asena·pe·-,ME:2,,,,*aʔsena·pe·-,,NG,,initial,,,,,,,,,,,,,,asena·pe·-neniw-,N,,rock spirit,,IG1990a;0454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -21,7 +21,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 20,Goddard,IG1990a,0456,sac,,mesk1242,-em-,ME:2,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 21,Goddard,IG1990a,0456,sac,,mesk1242,mi·hkem-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,mi·hkem-ehkwe·w-e·,,,V,AI,be courting,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mi·hk-em- 'court (TA)',,,MAM
 22,Goddard,IG1990a,0456,sac,,mesk1242,-ehkwe·w-,ME:2,,,,,,woman,,medial,,,,,,,,,,,,mi·hkem-ehkwe·w-e·,,,V,AI,be courting,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-23,Goddard,IG1990a,0456,sac,,mesk1242,pye·t-,ME:2,,,,,,bring; hither,,initial,,,,,,,,,,,,pye·t-ehkwe·w-e·,,,V,AI,bring home a wife,,IG1990a;0456,pye·t-a·mo-,,,V,AI,flee in this direction,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,Y,pye·t- 'bring (inan.) (TI2)',,,MAM
+23,Goddard,IG1990a,0456,sac,,mesk1242,pye·t-,ME:2,,,,,,bring; hither,"bring, hither",initial,,,,,,,,,,,,pye·t-ehkwe·w-e·,,,V,AI,bring home a wife,,IG1990a;0456,pye·t-a·mo-,,,V,AI,flee in this direction,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,Y,pye·t- 'bring (inan.) (TI2)',,,MAM
 24,Goddard,IG1990a,0456,sac,,mesk1242,-a·mo-,ME:2,,,,,,(anim.) flees,,final,AI,,,,,,,,,,,pye·t-a·mo-,,,V,AI,flee in this direction,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 25,Goddard,IG1990a,0456,sac,,mesk1242,nemat-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,nemat-api-,,,V,AI,sit upright,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nemat- 'sit (inan.) upright (TI2)',initial probably means 'sit',,MAM
 26,Goddard,IG1990a,0456,sac,,mesk1242,-api-,ME:2,,-api-,,,,(anim.) sits,,final,AI,,,,,,,,,,,nemat-api-,,,V,AI,sit upright,,IG1990a;0456,atame·w-api-,,,V,AI,smoke sitting,,IG1990a;0457,masa·n-ika·-api-,V,AI,foot fall asleep as one sits,,IG1990a;0465,,,,,,,,,,,,,,,,,,MAM
@@ -43,31 +43,31 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 41,Goddard,IG1990a,0460,sac,,mesk1242,-i-na·kosi-,ME:2,,,,,,"appear, seem",,final,AI,,,,,,,,,,,a·hkwe·w-i-na·kosi-,,,V,AI,look angry,,IG1990a;0460,ame·-i-na·kosi-,,,V,AI,appear to notice,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,MAM
 42,Goddard,IG1990a,0460,sac,,mesk1242,ame·-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,ame·-i-na·kosi-,,,V,AI,appear to notice,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"ame·- 'pay attention, be aware'",,,MAM
 43,Goddard,IG1990a,0463,sac,,mesk1242,,ME:2,,-a·nak-,,*-a·θak-,,hole,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-45,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,pehkw-,,,,lumpy,,initial,,,,,,,,,,,,,,pehkw-ikan-e·-,V,AI,have a lump on one's bone,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+45,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,pehkw-,,,,lumpy,lumpy,initial,,,,,,,,,,,,,,pehkw-ikan-e·-,V,AI,have a lump on one's bone,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 46,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-ikan-,,,,bone,,medial,,,,,,,,,,,,,,pehkw-ikan-e·-,V,AI,have a lump on one's bone,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 47,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-e·-,,,,NG,,final,AI,,,,,,,,,,,,,pehkw-ikan-e·-,V,AI,have a lump on one's bone,,IG1990a;0465,,,papi·w-ika·t-e·-,V,AI,have small feet,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,MAM
-48,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-to·n-,,,,mouth,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+48,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-to·n-,,,,mouth,mouth,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 49,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-eton(e·)-,,,,mouth,,medial,,,,,,,,,,,,,,ko·k-etone·-en-,V,TA,wash other's mouth,,IG1990a;0465,,,pa·hk-eton-Ø-,V,AI,open own mouth,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,Y,-to·n- 'mouth (dependent initial)',,,MAM
-50,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,ko·k-,,,,wash,,initial,,,,,,,,,,,,,,ko·k-etone·-en-,V,TA,wash other's mouth,,IG1990a;0465,,,ko·k-i·kene·-eno-,V,AI,wash own forehead,,IG1990a;0466,,,,,,,,,,,,,,,,,,,,,,,,MAM
+50,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,ko·k-,,,,wash,wash,initial,,,,,,,,,,,,,,ko·k-etone·-en-,V,TA,wash other's mouth,,IG1990a;0465,,,ko·k-i·kene·-eno-,V,AI,wash own forehead,,IG1990a;0466,,,,,,,,,,,,,,,,,,,,,,,,MAM
 51,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-en-,,,,by hand,,final,TA,,,,,,,,,,,,,ko·k-etone·-en-,V,TA,wash other's mouth,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-52,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,pa·hk-,,,,open,,initial,,,,,,,,,,,,,,pa·hk-eton-Ø-,V,AI,open own mouth,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-53,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-hka·t-,,,,foot,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+52,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,pa·hk-,,,,open,open,initial,,,,,,,,,,,,,,pa·hk-eton-Ø-,V,AI,open own mouth,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+53,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-hka·t-,,,,foot,foot,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 54,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-ika·(t)-,,,,feet,,medial,,,,,,,,,,,,,,masa·n-ika·-api-,V,AI,foot fall asleep as one sits,,IG1990a;0465,,,papi·w-ika·t-e·-,V,AI,have small feet,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,Y,-hka·t- 'foot (dependent initial)',,,MAM
-55,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,masa·n-,,,,prickly,,initial,,,,,,,,,,,,,,masa·n-ika·-api-,V,AI,foot fall asleep as one sits,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-57,Goddard,IG1990a,"0465,0466",sac,,mesk1242,,ME:2,,papi·w-,,,,small (pl.),,initial,,,,,,,,,,,,,,papi·w-ika·t-e·-,V,AI,have small feet,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+55,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,masa·n-,,,,prickly,prick,initial,,,,,,,,,,,,,,masa·n-ika·-api-,V,AI,foot fall asleep as one sits,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+57,Goddard,IG1990a,"0465,0466",sac,,mesk1242,,ME:2,,papi·w-,,,,small (pl.),small,initial,,,,,,,,,,,,,,papi·w-ika·t-e·-,V,AI,have small feet,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 58,Goddard,IG1990a,0465,sac,,mesk1242,-isa·-,ME:2,,,,,,move quickly,,final,II,,,,,-isa·-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-59,Goddard,IG1990a,0466,sac,,mesk1242,,ME:2,,-hkešy-,,*-xkenθ-,,forehead,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""reanalyzed as |-hkešy-|""",,MAM
+59,Goddard,IG1990a,0466,sac,,mesk1242,,ME:2,,-hkešy-,,*-xkenθ-,,forehead,forehead,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""reanalyzed as |-hkešy-|""",,MAM
 60,Goddard,IG1990a,0466,sac,,mesk1242,,ME:2,,-i·kene·-,,*-inkeθe·-,,forehead,,medial,,,,,,,,,,,,,,ko·k-i·kene·-eno-,V,AI,wash own forehead,,IG1990a;0466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 61,Goddard,IG1990a,0466,sac,,mesk1242,,ME:2,,-eno-,,,,act on self by hand,,final,AI,,,,,,,,,,,,,ko·k-i·kene·-eno-,V,AI,wash own forehead,,IG1990a;0466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 62,Goddard,IG1990a,0469,sac,,mesk1242,,ME:2,,-a·pam-,,,,NG,,final,TA,,,,,,,,,,,,,pan-a·pam-,V,TA,lose sight of him/her,,IG1990a;0469,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wa·pam- 'watch (TA)',,,MAM
 64,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-i-,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ihw-,,,,,,,MAM
 65,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ahw-,,,,act on by tool,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ihw-,,,,,,,MAM
 66,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ihw-,,,,act on by mass or weight,,final,TA,,,,,,,,-ih-,,,,,kep-ihw-,V,TA,fence him/her in,,IG1990a;0470,,,ahp-ihw-,V,TA,pile (e.g. brush) on top of him/her,,IG1990a;0470,,,,,,,,,,,,,,,,,,-ahw-,-i-,,,"footnote: ""the gloss of the final is a first approximation.""",,MAM
-67,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,kep-,,,,closed,,initial,,,,,,,,,,,,,,kep-ihw-,V,TA,fence him/her in,,IG1990a;0470,,,kep-ih,V,TI1,fence it in,,IG1990a;0470,,,kep-ačih-,N,,"cork, stopper",,IG1990a;0470,,,,,,,,,,,,,,,,MAM
+67,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,kep-,,,,closed,closed,initial,,,,,,,,,,,,,,kep-ihw-,V,TA,fence him/her in,,IG1990a;0470,,,kep-ih,V,TI1,fence it in,,IG1990a;0470,,,kep-ačih-,N,,"cork, stopper",,IG1990a;0470,,,,,,,,,,,,,,,,MAM
 68,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-at-,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ačih-,,,,,,,MAM
 69,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ih-,,,,act on by mass or weight,,final,TI1,,,,,,,-ihw-,,,,,,kep-ih,V,TI1,fence it in,,IG1990a;0470,,,,,,,,,,,,,,,,,,,,,,,,,-ačih-,,,,,"in footnote: final and stem meanings deduced from corresponding TA; ""the gloss of the final is a first approximation.""",,MAM
 70,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ačih-,,,,act on by mass or weight using stick,,final,TI1,,,,,,,,,,,,,nekwačih-ike·-,V,AI,do the hilling (of the corn),,IG1990a;0470,,,kep-ačih-,N,,"cork, stopper",,IG1990a;0470,,,,,,,,,,,,,,,,,,-ih-,-at-,,,nekwačih-ike·- has (apparently) non-occurring stem nekw-ačih-.,,MAM
-71,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,nekw-,,,,covered over,,initial,,,,,,,,,,,,,,nekwačih-ike·-,V,AI,do the hilling (of the corn),,IG1990a;0470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nekwačih-ike·- has (apparently) non-occurring stem nekw-ačih-.,,MAM
+71,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,nekw-,,,,covered over,covered,initial,,,,,,,,,,,,,,nekwačih-ike·-,V,AI,do the hilling (of the corn),,IG1990a;0470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nekwačih-ike·- has (apparently) non-occurring stem nekw-ačih-.,,MAM
 72,Goddard,IG1990a,"0470,0472,0475",sac,,mesk1242,,ME:2,,-ike·-,,,,indefinite object,,final,AI,,,Y,TA,,,,,,,,,nekwačih-ike·-,V,AI,do the hilling (of the corn),,IG1990a;0470,išihčike·-,,ešiht-ike·-,V,AI,do thus,,IG1990a;0475,wi·swihčike·-,,wi·swiht-ike·-,V,AI,do the naming (of children),,IG1990a;0475,ni·mihčike·-,,ni·miht-ike·-,V,AI,hold a dance,,IG1990a;0476,,,,,,,,MAM
 74,Goddard,IG1990a,0471,sac,,mesk1242,,ME:2,,-i-,,,,be,,final,AI,,,Y,N,,,,,,,,,okima·w-i-,V,AI,be chief,,IG1990a;0471,,,oto·kima·m-i-,V,AI,,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,MAM
 75,Goddard,IG1990a,0472,sac,,mesk1242,,ME:2,,-ehke·-,,,,"make, obtain",,final,AI,,,Y,N,,,,,,,,,wi·kopy-ehke·-,V,AI,gather basswood bark,,IG1990a;0472,,,pene·w-ehke·-,V,AI,hunt turkeys,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -94,11 +94,11 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 96,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-o-,,,,middle reflexive,,final,AI,,,Y,TA,,,,,,,nemaso-,,nemaN-o-,V,AI,be standing,,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 97,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-e·-,,,,middle reflexive,,final,II,,,Y,TI2,,,,,,,,,nemat-e·-,V,II,be standing,,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 98,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-aw-,,,,double-object,double object,final,TA,,,Y,TI1,,,,,,,,,pemotam-aw-,V,TA,shoot him/it for him,Y,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-99,Goddard,IG1990a,0478,sac,,mesk1242,ki·š-,ME:2,,,,,,finish,,initial,,,,,,,,,,,,ki·šisenye·-,,,V,AI,have finished eating,,IG1990a;0478,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+99,Goddard,IG1990a,0478,sac,,mesk1242,ki·š-,ME:2,,,,,,finish,finish,initial,,,,,,,,,,,,ki·šisenye·-,,,V,AI,have finished eating,,IG1990a;0478,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 100,Goddard,IG1990a,0478,sac,,mesk1242,,ME:2,,-isenye·-,,,,eat,,final,AI,,,,,,,,,-i·seni-,,ki·šisenye·-,,,V,AI,have finished eating,,IG1990a;0478,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wi·seni- 'eat (AI)',"Allomorph: ""Leveling.. has produced a variant..."" (fn. 64).",,MAM
-101,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,pem-,,,,along,,initial,,,,,,,,,,,,pemose·-,,,V,AI,walk (along),,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+101,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,pem-,,,,along,along,initial,,,,,,,,,,,,pemose·-,,,V,AI,walk (along),,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 102,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,-ose·-,,,,walk,,final,AI,,,,,,,,,,,pemose·-,,,V,AI,walk (along),,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-103,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,we·p-,,,,begin,,initial,,,,,,,,,,,,we·pose·-,,,V,AI,NG,,IG1990a;0479,we·pose·-,,,V,AI,NG,,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,MAM
+103,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,we·p-,,,,begin,begin,initial,,,,,,,,,,,,we·pose·-,,,V,AI,NG,,IG1990a;0479,we·pose·-,,,V,AI,NG,,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,MAM
 104,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,-i,,,,NG,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 105,Goddard,IG1990a,0479,sac,,mesk1242,ki·ke·now-,ME:2,,,,,,celebrate a clan feast,,initial,,,,,,,,,,,,,,ki·ke·nowe·nem-,V,TA,think s/he is finished with a clan feast,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,ki·ke·no- 'celebrate a clan feast (AI)',,,MAM
 107,Goddard,IG1990a,0480,sac,,mesk1242,oto·te·weniw-,ME:2,,,,,,have a town,,initial,,,,,,,,,,,,,,oto·te·weniwa·čim-,V,TA,be said of him/her that they have a town,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,oto·te·weni- 'have a town (AI)',,,MAM
@@ -107,117 +107,117 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 110,Costa,DJC2013,0201,sac,,mesk1242,-h,ME:2,,,,,,diminutive,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Costa calls it a ""diminutive noun ending"", not a final here.",,HTL,MAM
 111,Costa,DJC2013,0213,sac,,mesk1242,-əno(s),ME:2,,,,,,diminutive,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Costa calls it a ""diminutive ending"", not a final here.",,HTL,MAM
 112,Costa,DJC2013,0217,sac,,mesk1242,-e·ha,ME:2,,,,,,diminutive,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Costa calls it a ""diminutive ending"", not a final here.",,HTL,MAM
-113,Bloomfield,LB1925a,0221,sac,,mesk1242,kwāp-,ME:1,,,,,,scoop,,initial
+113,Bloomfield,LB1925a,0221,sac,,mesk1242,kwāp-,ME:1,,,,,,scoop,scoop,initial
 114,Bloomfield,LB1925a,0221,sac,,mesk1242,agwā-,ME:1,,,,,,out from water,,initial
-115,Bloomfield,LB1925a,0221,sac,,mesk1242,tan-,ME:1,,,,,,there,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: Irregularly used with prefix ä- (IC)
+115,Bloomfield,LB1925a,0221,sac,,mesk1242,tan-,ME:1,,,,,,there,there,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: Irregularly used with prefix ä- (IC)
 116,Bloomfield,LB1925a,0221,sac,,mesk1242,tas-,ME:1,,,,,,so many,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: Irregularly used with prefix ä- (IC)
-117,Bloomfield,LB1925a,"0221,0224",sac,,mesk1242,atōt,ME:1,,,,,,on something,,initial
-118,Bloomfield,LB1925a,0221,sac,,mesk1242,tōt,ME:1,,,,,,on something,,initial
+117,Bloomfield,LB1925a,"0221,0224",sac,,mesk1242,atōt,ME:1,,,,,,on something,on,initial
+118,Bloomfield,LB1925a,0221,sac,,mesk1242,tōt,ME:1,,,,,,on something,on,initial
 120,Bloomfield,LB1925a,0223,sac,,mesk1242,-pahu-,ME:1,,,,,,run,,final
-121,Bloomfield,LB1925a,0223,sac,,mesk1242,agōsi-,ME:1,,,,,,climb,,initial
+121,Bloomfield,LB1925a,0223,sac,,mesk1242,agōsi-,ME:1,,,,,,climb,climb,initial
 122,Bloomfield,LB1925a,0223,sac,,mesk1242,-eckā-,ME:1,,,,,,go,,final
-123,Bloomfield,LB1925a,"0223,0225",sac,,mesk1242,en-,ME:1,,,,,,"thus, thither",,initial
-124,Bloomfield,LB1925a,"0223,0224",sac,,mesk1242,wīt-,ME:1,,,,,,along,,initial
+123,Bloomfield,LB1925a,"0223,0225",sac,,mesk1242,en-,ME:1,,,,,,"thus, thither","thus, thither",initial
+124,Bloomfield,LB1925a,"0223,0224",sac,,mesk1242,wīt-,ME:1,,,,,,along,along,initial
 125,Bloomfield,LB1925a,0223,sac,,mesk1242,-pä-,ME:1,,,,,,sleep,,final
-126,Bloomfield,LB1925a,"0223,0224,0225",sac,,mesk1242,pyät-,ME:1,,,,,,hither,,initial
+126,Bloomfield,LB1925a,"0223,0224,0225",sac,,mesk1242,pyät-,ME:1,,,,,,hither,hither,initial
 127,Bloomfield,LB1925a,0223,sac,,mesk1242,-ketu-,ME:1,,,,,,vocal sound,,final
 128,Bloomfield,LB1925a,0224,sac,,mesk1242,-hpw-,ME:1,,,,,,"bite, eat",,final
-129,Bloomfield,LB1925a,0224,sac,,mesk1242,kīhk-,ME:1,,,,,,"close up, all the way in",,initial
-130,Bloomfield,LB1925a,0224,sac,,mesk1242,ut-,ME:1,,,,,,"thence, therefore",,initial
-131,Bloomfield,LB1925a,0224,sac,,mesk1242,pyā-,ME:1,,,,,,come,,initial
+129,Bloomfield,LB1925a,0224,sac,,mesk1242,kīhk-,ME:1,,,,,,"close up, all the way in",close (A),initial
+130,Bloomfield,LB1925a,0224,sac,,mesk1242,ut-,ME:1,,,,,,"thence, therefore","thence, therefore",initial
+131,Bloomfield,LB1925a,0224,sac,,mesk1242,pyā-,ME:1,,,,,,come,come,initial
 132,Bloomfield,LB1925a,0224,sac,,mesk1242,-āpehk-,ME:1,,,,,,metal,,medial
 133,Bloomfield,LB1925a,0224,sac,,mesk1242,-w-,ME:1,,,,,,NG,,postradical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB just calls this ""-w- in nouns;"" it comes between an initial and medial"
 134,Bloomfield,LB1925a,0224,sac,,mesk1242,-w-,ME:1,,,,,,NG,,postradical
-135,Bloomfield,LB1925a,0224,sac,,mesk1242,pōhk-,ME:1,,,,,,break,,initial
-136,Bloomfield,LB1925a,0224,sac,,mesk1242,pōhkw-,ME:1,,,,,,break,,initial
-137,Bloomfield,LB1925a,0224,sac,,mesk1242,wīg-,ME:1,,,,,,dwelling,,initial
+135,Bloomfield,LB1925a,0224,sac,,mesk1242,pōhk-,ME:1,,,,,,break,break,initial
+136,Bloomfield,LB1925a,0224,sac,,mesk1242,pōhkw-,ME:1,,,,,,break,break,initial
+137,Bloomfield,LB1925a,0224,sac,,mesk1242,wīg-,ME:1,,,,,,dwelling,dwelling,initial
 138,Bloomfield,LB1925a,0224,sac,,mesk1242,-wäwä-,ME:1,,,,,,sound,,medial
-139,Bloomfield,LB1925a,0224,sac,,mesk1242,asen-,ME:1,,,,,,stone,,initial
+139,Bloomfield,LB1925a,0224,sac,,mesk1242,asen-,ME:1,,,,,,stone,stone,initial
 140,Bloomfield,LB1925a,0224,sac,,mesk1242,-yā-,ME:1,,,,,,NG,,final,II
-141,Bloomfield,LB1925a,0224,sac,,mesk1242,meht-,ME:1,,,,,,bare,,initial
-142,Bloomfield,LB1925a,0224,sac,,mesk1242,metāt,ME:1,,,,,,pleasant,,initial
+141,Bloomfield,LB1925a,0224,sac,,mesk1242,meht-,ME:1,,,,,,bare,bare,initial
+142,Bloomfield,LB1925a,0224,sac,,mesk1242,metāt,ME:1,,,,,,pleasant,pleasant,initial
 143,Bloomfield,LB1925a,0225,sac,,mesk1242,-etcä-,ME:1,,,,,,"belly, body",,medial
 144,Bloomfield,LB1925a,"0225,0226",sac,,mesk1242,-igä-,ME:1,,,,,,dwell,,final
-145,Bloomfield,LB1925a,0225,sac,,mesk1242,pīt-,ME:1,,,,,,inside,,initial
-146,Bloomfield,LB1925a,0225,sac,,mesk1242,keht-,ME:1,,,,,,big,,initial
+145,Bloomfield,LB1925a,0225,sac,,mesk1242,pīt-,ME:1,,,,,,inside,inside,initial
+146,Bloomfield,LB1925a,0225,sac,,mesk1242,keht-,ME:1,,,,,,big,big,initial
 147,Bloomfield,LB1925a,0225,sac,,mesk1242,-etī-,ME:1,,,,,,reciprocal,,final
 148,Bloomfield,LB1925a,0225,sac,,mesk1242,-etisu-,ME:1,,,,,,reflexive,,final
 149,Bloomfield,LB1925a,0225,sac,,mesk1242,-tiyä-,ME:1,,,,,,rump,,medial
-150,Bloomfield,LB1925a,0225,sac,,mesk1242,negut-,ME:1,,,,,,one,,initial
+150,Bloomfield,LB1925a,0225,sac,,mesk1242,negut-,ME:1,,,,,,one,one,initial
 152,Bloomfield,LB1925a,0225,sac,,mesk1242,-āp-,ME:1,,,,,,look,,final
-153,Bloomfield,LB1925a,0225,sac,,mesk1242,mat-,ME:1,,,,,,"bad, ill",,initial
+153,Bloomfield,LB1925a,0225,sac,,mesk1242,mat-,ME:1,,,,,,"bad, ill","bad, ill",initial
 154,Bloomfield,LB1925a,0225,sac,,mesk1242,-en-,ME:1,,,,,,by hand,,final,TA
 155,Bloomfield,LB1925a,0226,sac,,mesk1242,-n-,ME:1,,,,,,NG,,final,N
 156,Bloomfield,LB1925a,0226,sac,,mesk1242,-an-,ME:1,,,,,,NG,,final,N
 157,Bloomfield,LB1925a,0226,sac,,mesk1242,-ān-,ME:1,,,,,,NG,,final,N
 158,Bloomfield,LB1925a,0226,sac,,mesk1242,-wen-,ME:1,,,,,,NG,,final,N
 159,Bloomfield,LB1925a,0226,sac,,mesk1242,-īn-,ME:1,,,,,,NG,,final,N
-160,Bloomfield,LB1925a,0226,sac,,mesk1242,an-,ME:1,,,,,,defeat,,initial
+160,Bloomfield,LB1925a,0226,sac,,mesk1242,an-,ME:1,,,,,,defeat,defeat,initial
 161,Bloomfield,LB1925a,0226,sac,,mesk1242,an-,ME:1,,,,,,yon way,,initial
-162,Bloomfield,LB1925a,0226,sac,,mesk1242,kīn-,ME:1,,,,,,sharp,,initial
-163,Bloomfield,LB1925a,0226,sac,,mesk1242,kōn-,ME:1,,,,,,along,,initial
-164,Bloomfield,LB1925a,0226,sac,,mesk1242,man-,ME:1,,,,,,deprive (?),,initial
-165,Bloomfield,LB1925a,0226,sac,,mesk1242,nīgān-,ME:1,,,,,,lead,,initial
-166,Bloomfield,LB1925a,0226,sac,,mesk1242,pen-,ME:1,,,,,,lower,,initial
-167,Bloomfield,LB1925a,0226,sac,,mesk1242,pōn-,ME:1,,,,,,cease,,initial
-168,Bloomfield,LB1925a,0226,sac,,mesk1242,tagyän-,ME:1,,,,,,drum (?),,initial
-169,Bloomfield,LB1925a,0226,sac,,mesk1242,wan-,ME:1,,,,,,lose,,initial
-170,Bloomfield,LB1925a,0226,sac,,mesk1242,wīn-,ME:1,,,,,,dirty,,initial
+162,Bloomfield,LB1925a,0226,sac,,mesk1242,kīn-,ME:1,,,,,,sharp,sharp,initial
+163,Bloomfield,LB1925a,0226,sac,,mesk1242,kōn-,ME:1,,,,,,along,along,initial
+164,Bloomfield,LB1925a,0226,sac,,mesk1242,man-,ME:1,,,,,,deprive (?),deprive,initial
+165,Bloomfield,LB1925a,0226,sac,,mesk1242,nīgān-,ME:1,,,,,,lead,lead,initial
+166,Bloomfield,LB1925a,0226,sac,,mesk1242,pen-,ME:1,,,,,,lower,lower,initial
+167,Bloomfield,LB1925a,0226,sac,,mesk1242,pōn-,ME:1,,,,,,cease,cease,initial
+168,Bloomfield,LB1925a,0226,sac,,mesk1242,tagyän-,ME:1,,,,,,drum (?),drum,initial
+169,Bloomfield,LB1925a,0226,sac,,mesk1242,wan-,ME:1,,,,,,lose,lose,initial
+170,Bloomfield,LB1925a,0226,sac,,mesk1242,wīn-,ME:1,,,,,,dirty,dirt,initial
 171,Bloomfield,LB1925a,0226,sac,,mesk1242,wīnan-,ME:1,,,,,,flay and cut up,,initial
 172,Bloomfield,LB1925a,0226,sac,,mesk1242,-aten-,ME:1,,,,,,liquid,,medial
 173,Bloomfield,LB1925a,0226,sac,,mesk1242,-än-,ME:1,,,,,,laugh,,medial
 174,Bloomfield,LB1925a,0226,sac,,mesk1242,-nan-,ME:1,,,,,,flay and cut up,,medial
-175,Bloomfield,LB1925a,0226,sac,,mesk1242,-s-,ME:1,,,,,,NC; put/place?,,final,TA
-176,Bloomfield,LB1925a,0226,sac,,mesk1242,-s-,ME:1,,,,,,NC; lie/fall?,,prefinal
+175,Bloomfield,LB1925a,0226,sac,,mesk1242,-s-,ME:1,,,,,,NG,,final,TA
+176,Bloomfield,LB1925a,0226,sac,,mesk1242,-s-,ME:1,,,,,,NG,,prefinal
 177,Bloomfield,LB1925a,0226,sac,,mesk1242,-sen-,ME:1,,,,,,"lie, fall",,final,II
 178,Bloomfield,LB1925a,0226,sac,,mesk1242,-cin-,ME:1,,,,,,"lie, fall",,final,AI
 179,Bloomfield,LB1925a,0226,sac,,mesk1242,-cim-,ME:1,,,,,,"lie, fall",,final,TA
 180,Bloomfield,LB1925a,0226,sac,,mesk1242,-ās-,ME:1,,,,,,"be blown, fly, fall through the air",,prefinal
 181,Bloomfield,LB1925a,0226,sac,,mesk1242,-īs-,ME:1,,,,,,diminutive,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB later calls this form archaic
-182,Bloomfield,LB1925a,0227,sac,,mesk1242,metās-,ME:1,,,,,,ten,,initial
-183,Bloomfield,LB1925a,0227,sac,,mesk1242,pagis-,ME:1,,,,,,"let go, set down",,initial
-184,Bloomfield,LB1925a,0227,sac,,mesk1242,pagōs-,ME:1,,,,,,on ahead,,initial
-186,Bloomfield,LB1925a,0227,sac,,mesk1242,wāpas-,ME:1,,,,,,mock,,initial
-187,Bloomfield,LB1925a,0227,sac,,mesk1242,mes-,ME:1,,mes-,,,,big,,initial
+182,Bloomfield,LB1925a,0227,sac,,mesk1242,metās-,ME:1,,,,,,ten,ten,initial
+183,Bloomfield,LB1925a,0227,sac,,mesk1242,pagis-,ME:1,,,,,,"let go, set down","let go, set down",initial
+184,Bloomfield,LB1925a,0227,sac,,mesk1242,pagōs-,ME:1,,,,,,on ahead,ahead,initial
+186,Bloomfield,LB1925a,0227,sac,,mesk1242,wāpas-,ME:1,,,,,,mock,mock,initial
+187,Bloomfield,LB1925a,0227,sac,,mesk1242,mes-,ME:1,,mes-,,,,big,big,initial
 188,Bloomfield,LB1925a,0227,sac,,mesk1242,nōn-,ME:1,,,,,,suckle; suck at the breast,,initial
-189,Bloomfield,LB1925a,0227,sac,,mesk1242,nōt-,ME:1,,,,,,suckle,,initial
-190,Bloomfield,LB1925a,0227,sac,,mesk1242,wīn-,ME:1,,,,,,name,,initial
-191,Bloomfield,LB1925a,0227,sac,,mesk1242,wīt-,ME:1,,,,,,name,,initial
-192,Bloomfield,LB1925a,0228,sac,,mesk1242,ahkōw-,ME:1,,,,,,"come after, follow",,initial
-193,Bloomfield,LB1925a,0228,sac,,mesk1242,kīcuw-,ME:1,,,,,,"artificially warm, heated",,initial
-194,Bloomfield,LB1925a,0228,sac,,mesk1242,näw-,ME:1,,,,,,see,,initial
+189,Bloomfield,LB1925a,0227,sac,,mesk1242,nōt-,ME:1,,,,,,suckle,suckle,initial
+190,Bloomfield,LB1925a,0227,sac,,mesk1242,wīn-,ME:1,,,,,,name,name,initial
+191,Bloomfield,LB1925a,0227,sac,,mesk1242,wīt-,ME:1,,,,,,name,name,initial
+192,Bloomfield,LB1925a,0228,sac,,mesk1242,ahkōw-,ME:1,,,,,,"come after, follow","come after, follow",initial
+193,Bloomfield,LB1925a,0228,sac,,mesk1242,kīcuw-,ME:1,,,,,,"artificially warm, heated","warm, heated (A)",initial
+194,Bloomfield,LB1925a,0228,sac,,mesk1242,näw-,ME:1,,,,,,see,see,initial
 195,Bloomfield,LB1925a,0228,sac,,mesk1242,kīw-,ME:1,,,,,,around; about,,initial
 196,Bloomfield,LB1925a,0228,sac,,mesk1242,-usä-,ME:1,,,,,,walk,,final
 197,Bloomfield,LB1925a,0228,sac,,mesk1242,-ō-,ME:1,,,,,,carry on back,,final
 198,Bloomfield,LB1925a,0228,sac,,mesk1242,pīw-,ME:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says ""historic"""
-199,Bloomfield,LB1925a,0228,sac,,mesk1242,ānw-,ME:1,,,,,,fail,,initial
+199,Bloomfield,LB1925a,0228,sac,,mesk1242,ānw-,ME:1,,,,,,fail,fail,initial
 201,Bloomfield,LB1925a,0228,sac,,mesk1242,-īh-,ME:1,,,,,,diminutive,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"marked as ""suffix"""
 202,Bloomfield,LB1925a,0229,sac,,mesk1242,-tuge,ME:1,,,,,,NG,,final
 203,Bloomfield,LB1925a,0229,sac,,mesk1242,ahkw-,ME:1,,,,,,so far,,initial
-204,Bloomfield,LB1925a,0229,sac,,mesk1242,apw-,ME:1,,,,,,roast,,initial
-205,Bloomfield,LB1925a,0229,sac,,mesk1242,pägw-,ME:1,,,,,,muddy water,,initial
-206,Bloomfield,LB1925a,0229,sac,,mesk1242,tcahkw-,ME:1,,,,,,short,,initial
-207,Bloomfield,LB1925a,0229,sac,,mesk1242,nīc-,ME:1,,,,,,two,,initial
-208,Bloomfield,LB1925a,0229,sac,,mesk1242,nīcw-,ME:1,,,,,,two,,initial
-209,Bloomfield,LB1925a,0229,sac,,mesk1242,nīcō-,ME:1,,,,,,two,,initial
+204,Bloomfield,LB1925a,0229,sac,,mesk1242,apw-,ME:1,,,,,,roast,roast,initial
+205,Bloomfield,LB1925a,0229,sac,,mesk1242,pägw-,ME:1,,,,,,muddy water,muddy,initial
+206,Bloomfield,LB1925a,0229,sac,,mesk1242,tcahkw-,ME:1,,,,,,short,short,initial
+207,Bloomfield,LB1925a,0229,sac,,mesk1242,nīc-,ME:1,,,,,,two,two,initial
+208,Bloomfield,LB1925a,0229,sac,,mesk1242,nīcw-,ME:1,,,,,,two,two,initial
+209,Bloomfield,LB1925a,0229,sac,,mesk1242,nīcō-,ME:1,,,,,,two,two,initial
 211,Bloomfield,LB1925a,0229,sac,,mesk1242,-gāpā-,ME:1,,,,,,stand,,final 
 212,Bloomfield,LB1925a,0229,sac,,mesk1242,-hpu-,ME:1,,,,,,eat,,final
-213,Bloomfield,LB1925a,0229,sac,,mesk1242,amw-,ME:1,,,,,,eat,,initial
-214,Bloomfield,LB1925a,0229,sac,,mesk1242,menw-,ME:1,,,,,,well,,initial
+213,Bloomfield,LB1925a,0229,sac,,mesk1242,amw-,ME:1,,,,,,eat,eat,initial
+214,Bloomfield,LB1925a,0229,sac,,mesk1242,menw-,ME:1,,,,,,well,well,initial
 215,Bloomfield,LB1925a,0229,sac,,mesk1242,-esigä-,ME:1,,,,,,cook,,final
 216,Bloomfield,LB1925a,0229,sac,,mesk1242,-eguni,ME:1,,,,,,days,,final,N
 217,Bloomfield,LB1925a,0229,sac,,mesk1242,-īnemw-,ME:1,,,,,,sister-in-law,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""dependent noun stem"""
-218,Bloomfield,LB1925a,0229,sac,,mesk1242,pemw-,ME:1,,,,,,shoot,,initial
+218,Bloomfield,LB1925a,0229,sac,,mesk1242,pemw-,ME:1,,,,,,shoot,shoot,initial
 219,Bloomfield,LB1925a,0230,sac,,mesk1242,-tawagay-,ME:1,,,,,,ear,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""dependent noun stem"""
 220,Bloomfield,LB1925a,0230,sac,,mesk1242,-īnagay-,ME:1,,,,,,penis,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""dependent noun stem"""
 221,Bloomfield,LB1925a,0230,sac,,mesk1242,-ay-,ME:1,,,,,,pet,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""dependent noun stem"""
-222,Bloomfield,LB1925a,0230,sac,,mesk1242,-yā-,ME:1,,,,,,NC,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""suffix"""
+222,Bloomfield,LB1925a,0230,sac,,mesk1242,-yā-,ME:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""suffix"""
 223,Bloomfield,LB1925a,0230,sac,,mesk1242,-īwi-,ME:1,,,,,,denominative,,final
 224,Bloomfield,LB1925a,0230,sac,,mesk1242,-ckacy-,ME:1,,,,,,claw,,medial
 225,Bloomfield,LB1925a,0230,sac,,mesk1242,aseny-,ME:1,,,,,,stone,,medial
 226,Bloomfield,LB1925a,0230,sac,,mesk1242,-egi,ME:1,,,,,,locative,,final
 227,Bloomfield,LB1925a,0230,sac,,mesk1242,-gy-,ME:1,,,,,,mother,,medial
-228,Bloomfield,LB1925a,0230,sac,,mesk1242,acä-,ME:1,,,,,,backwards,,initial
+228,Bloomfield,LB1925a,0230,sac,,mesk1242,acä-,ME:1,,,,,,backwards,backward,initial
 229,Bloomfield,LB1925a,0230,sac,,mesk1242,-āmu-,ME:1,,,,,,flee,,final
 230,Bloomfield,LB1925a,0230,sac,,mesk1242,-ōtä-,ME:1,,,,,,crawl,,final
 231,Bloomfield,LB1925a,0231,sac,,mesk1242,-ācōwi-,ME:1,,,,,,ford,,final
@@ -231,33 +231,33 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 240,Bloomfield,LB1925a,0231,sac,,mesk1242,-ān-,ME:1,,,,,,NG,,final,N
 241,Bloomfield,LB1925a,0231,sac,,mesk1242,-āgan-,ME:1,,,,,,NG,,final,N
 242,Bloomfield,LB1925a,0231,sac,,mesk1242,-mecōh-,ME:1,,,,,,grandfather,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""dependent noun stem"""
-243,Bloomfield,LB1925a,0231,sac,,mesk1242,pemit-,ME:1,,,,,,crosswise,,initial
+243,Bloomfield,LB1925a,0231,sac,,mesk1242,pemit-,ME:1,,,,,,crosswise,crosswise,initial
 244,Bloomfield,LB1925a,0231,sac,,mesk1242,-apahkw-,ME:1,,,,,,reed wall,,medial
-245,Bloomfield,LB1925a,0231,sac,,mesk1242,kack-,ME:1,,,,,,able,,initial
+245,Bloomfield,LB1925a,0231,sac,,mesk1242,kack-,ME:1,,,,,,able,able,initial
 246,Bloomfield,LB1925a,0231,sac,,mesk1242,-āhpenä-,ME:1,,,,,,suffer,,final
-247,Bloomfield,LB1925a,0231,sac,,mesk1242,tacg-,ME:1,,,,,,small,,initial
+247,Bloomfield,LB1925a,0231,sac,,mesk1242,tacg-,ME:1,,,,,,small,small,initial
 248,Bloomfield,LB1925a,0231,sac,,mesk1242,-nāgan-,ME:1,,,,,,bowl,,medial
 249,Bloomfield,LB1925a,0231,sac,,mesk1242,-awi-,ME:1,,,,,,"act, fare",,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: used in unit words and not compounds
 250,Bloomfield,LB1925a,0231,sac,,mesk1242,-äwi-,ME:1,,,,,,work,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: used in unit words and not compounds
 251,Bloomfield,LB1925a,0231,sac,,mesk1242,-äwä-,ME:1,,,,,,go,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: used in unit words and not compounds
 252,Bloomfield,LB1925a,0232,sac,,mesk1242,-īyaw-,ME:1,,,,,,body,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: stem
-253,Bloomfield,LB1925a,0232,sac,,mesk1242,ātcimu-,ME:1,,,,,,narrate,,initial
+253,Bloomfield,LB1925a,0232,sac,,mesk1242,ātcimu-,ME:1,,,,,,narrate,narrate,initial
 254,Bloomfield,LB1925a,0232,sac,,mesk1242,-emicy-,ME:1,,,,,,tree,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""non-initial elements"""
 255,Bloomfield,LB1925a,0232,sac,,mesk1242,-āmicy-,ME:1,,,,,,tree,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""non-initial elements"""
 256,Bloomfield,LB1925a,0232,sac,,mesk1242,-ihk-,ME:1,,,,,,"frequent, deal with",,final
 257,Bloomfield,LB1925a,0232,sac,,mesk1242,-ōhk-,ME:1,,,,,,"go at, assail",,final
 258,Bloomfield,LB1925a,0232,sac,,mesk1242,-eck-,ME:1,,,,,,by foot; step; go,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""Here, again, -eck- appears by the side of -ehk- without any apparent rationale"""
-259,Bloomfield,LB1927a,0188,sac,,mesk1242,uwīyäh-,ME:1,,,,,,any person,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""stem"""
+259,Bloomfield,LB1927a,0188,sac,,mesk1242,uwīyäh-,ME:1,,,,,,any person,person,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""stem"""
 260,Bloomfield,LB1927a,0192,sac,,mesk1242,-āhkä-,ME:1,,,,,,fling,,final
-261,Bloomfield,LB1927a,0192,sac,,mesk1242,-tō-,ME:1,,,,,,NC,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""Here belongs the unlimited class of verbs in -tō- and -htō- which are used with inanimate objects as mates of TA verbs, although their inflection is that of intransitive verbs."""
-262,Bloomfield,LB1927a,0192,sac,,mesk1242,-htō-,ME:1,,,,,,NC,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""Here belongs the unlimited class of verbs in -tō- and -htō- which are used with inanimate objects as mates of TA verbs, although their inflection is that of intransitive verbs."""
-263,Bloomfield,LB1927a,0192,sac,,mesk1242,-ātä-,ME:1,,,,,,NC,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""makes its derivatives exactly like genuine TI verbs"""
-264,Bloomfield,LB1927a,0192,sac,,mesk1242,-wen-,ME:1,,,,,,NC; thing/tool?,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB treats as noun stem
+261,Bloomfield,LB1927a,0192,sac,,mesk1242,-tō-,ME:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""Here belongs the unlimited class of verbs in -tō- and -htō- which are used with inanimate objects as mates of TA verbs, although their inflection is that of intransitive verbs."""
+262,Bloomfield,LB1927a,0192,sac,,mesk1242,-htō-,ME:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""Here belongs the unlimited class of verbs in -tō- and -htō- which are used with inanimate objects as mates of TA verbs, although their inflection is that of intransitive verbs."""
+263,Bloomfield,LB1927a,0192,sac,,mesk1242,-ātä-,ME:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""makes its derivatives exactly like genuine TI verbs"""
+264,Bloomfield,LB1927a,0192,sac,,mesk1242,-wen-,ME:1,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB treats as noun stem
 267,Bloomfield,LB1927a,0193,sac,,mesk1242,-ah-,ME:1,,,,,,external medium,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: Used in verbs with double-object marker
 270,Bloomfield,LB1927a,"0194,0205",sac,,mesk1242,tōt-,ME:1,,,,,,deal thus with,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: Irregularly used with prefix ä- (IC)
-271,Bloomfield,LB1927a,0194,sac,,mesk1242,ā-,ME:1,,,,,,go,,initial
-274,Bloomfield,LB1927a,"0196,0206",sac,,mesk1242,i-,ME:1,,,,,,say so to,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""stem"""
-276,Bloomfield,LB1927a,"0198,0208",sac,,mesk1242,en-,ME:1,,,,,,say so to,,initial
+271,Bloomfield,LB1927a,0194,sac,,mesk1242,ā-,ME:1,,,,,,go,go,initial
+274,Bloomfield,LB1927a,"0196,0206",sac,,mesk1242,i-,ME:1,,,,,,say so to,say,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""stem"""
+276,Bloomfield,LB1927a,"0198,0208",sac,,mesk1242,en-,ME:1,,,,,,say so to,say,initial
 278,Bloomfield,LB1927a,0205,sac,,mesk1242,ahpīht-,ME:1,,,,,,to such degree,,initial
 282,Bloomfield,LB1927a,0206,sac,,mesk1242,-egin-,ME:1,,,,,,dimension,,medial
 283,Bloomfield,LB1927a,0206,sac,,mesk1242,-cin-,ME:1,,,,,,"fall, lie",,final
@@ -269,31 +269,31 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 289,Goddard,IG1967b,0066,sac,,mesk1242,-at-,ME:2,,,,,,NG,,final,TI,,,,,,,,,,,wa·pat-,,,V,TI,see,,IG1967b;0066
 290,Goddard,IG1967b,0066,sac,,mesk1242,-esi-,ME:2,,,,,,NG,,final,AI,,,,,,,,,,,sanakesi-,,,V,AI,be difficult,,IG1967b;0066
 291,Goddard,IG1967b,0066,sac,,mesk1242,-at-,ME:2,,,,,,NG,,final,II,,,,,,,,,,,sanakat-,,,V,II,be difficult,,IG1967b;0066
-292,Goddard,IG1965,0211,sac,,mesk1242,na·m-,ME:2,,,,*-aθa·m-,,underneath,,initial
+292,Goddard,IG1965,0211,sac,,mesk1242,na·m-,ME:2,,,,*-aθa·m-,,underneath,underneath,initial
 293,Goddard,IG1965,0213,sac,,mesk1242,-a·mehk-,ME:2,,,,*a·meHk-,,"earth, soil",,medial
 294,Goddard,IG1965,0213,sac,,mesk1242,-a·mehkw-,ME:2,,,,*a·meHkw-,,"earth, soil",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"listed as ""medial, with secondary w"""
 295,Goddard,IG1965,0214,sac,,mesk1242,-a·towe·,ME:2,,,,*-a·towe·,,speak a language,,final,AI
 296,Goddard,IG1965,0215,sac,,mesk1242,-ka·pawi-,ME:2,,,,*-ka·pawi-,,stand,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""before other finals in secondary derivation"""
-297,Goddard,IG1965,0217,sac,,mesk1242,ša·pw-,ME:2,,,,*ša·pw-,,through,,initial
-298,Goddard,IG1965,0218,sac,,mesk1242,na·w-,ME:2,,,,*θa·w-,,middle,,initial
-299,Goddard,IG1965,0218,sac,,mesk1242,nana·w-,ME:2,,,,*θaˀθa·w-,,between,,initial,,Y
-300,Bloomfield,LB1927b,0394,sac,,mesk1242,wāpi-,ME:1,,,,,,"light, look",,initial
-301,Dahlstrom,AD2009,0224,sac,,mesk1242,meškw-,ME:2,,,,,,red,,initial
+297,Goddard,IG1965,0217,sac,,mesk1242,ša·pw-,ME:2,,,,*ša·pw-,,through,through,initial
+298,Goddard,IG1965,0218,sac,,mesk1242,na·w-,ME:2,,,,*θa·w-,,middle,middle,initial
+299,Goddard,IG1965,0218,sac,,mesk1242,nana·w-,ME:2,,,,*θaˀθa·w-,,between,between,initial,,Y
+300,Bloomfield,LB1927b,0394,sac,,mesk1242,wāpi-,ME:1,,,,,,"light, look","light, look",initial
+301,Dahlstrom,AD2009,0224,sac,,mesk1242,meškw-,ME:2,,,,,,red,red,initial
 302,Dahlstrom,AD2009,0224,sac,,mesk1242,-esi-,ME:2,,,,,,stative,,final,AI
 303,Dahlstrom,AD2009,0224,sac,,mesk1242,-a·-,ME:2,,,,,,stative,,final,II
-304,Dahlstrom,AD2009,0224,sac,,mesk1242,pan-,ME:2,,pan-,,,,"drop, miss, fail",,initial,,,,,,,,,,,,pan-a·pam-,V,TA,lose sight of him/her,,IG1990a;0469
+304,Dahlstrom,AD2009,0224,sac,,mesk1242,pan-,ME:2,,pan-,,,,"drop, miss, fail","drop, miss, fail",initial,,,,,,,,,,,,pan-a·pam-,V,TA,lose sight of him/her,,IG1990a;0469
 305,Dahlstrom,AD2009,"0224,0225,0233",sac,,mesk1242,-en,ME:2,,,,,,by hand,,final,AI
 306,Dahlstrom,AD2009,0224,sac,,mesk1242,-en,ME:2,,,,,,by hand,,final,II
 307,Dahlstrom,AD2009,0224,sac,,mesk1242,-am,ME:2,,,,,,by mouth,,final,AI
 308,Dahlstrom,AD2009,0224,sac,,mesk1242,-at,ME:2,,,,,,by mouth,,final,II
 309,Dahlstrom,AD2009,0224,sac,,mesk1242,-eškaw,ME:2,,,,,,by foot,,final,AI
 310,Dahlstrom,AD2009,0224,sac,,mesk1242,-ešk,ME:2,,,,,,by foot,,final,II
-311,Dahlstrom,AD2009,"0225,0233",sac,,mesk1242,mešk-,ME:2,,,,,,open,,initial
+311,Dahlstrom,AD2009,"0225,0233",sac,,mesk1242,mešk-,ME:2,,,,,,open,open,initial
 312,Dahlstrom,AD2009,"0225,0233",sac,,mesk1242,-etone·-,ME:2,,,,,,mouth,,medial,INCORP
 313,Dahlstrom,AD2009,0225,sac,,mesk1242,-ekwa·m,ME:2,,,,,,sleep,,final,AI
-315,Dahlstrom,AD2009,"0229,0233,0235,0237",sac,,mesk1242,ahp-,ME:2,,ahp-,,,,on,,initial,,,,,,,,,,,,ahpe·nemo-,,,V,AI+O,depend on,,AD2009;0229,ahpapi-,,,V,AI+O,sit on,,AG2009;0229,ahpeka·-,,,V,AI+O,dance on,,AG2009;0229,ahp-ihw-,V,TA,pile (e.g. brush) on top of him/her,,IG1990a;0470
-316,Dahlstrom,AD2009,"0229,0236,0237",sac,,mesk1242,takw-,ME:2,,,,,,together with,,initial,,,,,,,,,,,,takwi·-,,,V,AI+O,join,,AD2009;0229,tawkisen-,,,V,AI+O,lie together with [INAN. SUBJ],,AG2009;0229
-317,Dahlstrom,AD2009,"0229,0237",sac,,mesk1242,kek-,ME:2,,,,,,having,,initial,,,,,,,,,,,,kekišin-,,,V,AI+O,"lie having, be buried with",,AD2009;0229,kekate·mo-,,,V,AI+O,weep holding,,AG2009;0229
+315,Dahlstrom,AD2009,"0229,0233,0235,0237",sac,,mesk1242,ahp-,ME:2,,ahp-,,,,on,on,initial,,,,,,,,,,,,ahpe·nemo-,,,V,AI+O,depend on,,AD2009;0229,ahpapi-,,,V,AI+O,sit on,,AG2009;0229,ahpeka·-,,,V,AI+O,dance on,,AG2009;0229,ahp-ihw-,V,TA,pile (e.g. brush) on top of him/her,,IG1990a;0470
+316,Dahlstrom,AD2009,"0229,0236,0237",sac,,mesk1242,takw-,ME:2,,,,,,together with,together,initial,,,,,,,,,,,,takwi·-,,,V,AI+O,join,,AD2009;0229,tawkisen-,,,V,AI+O,lie together with [INAN. SUBJ],,AG2009;0229
+317,Dahlstrom,AD2009,"0229,0237",sac,,mesk1242,kek-,ME:2,,,,,,having,have,initial,,,,,,,,,,,,kekišin-,,,V,AI+O,"lie having, be buried with",,AD2009;0229,kekate·mo-,,,V,AI+O,weep holding,,AG2009;0229
 318,Dahlstrom,AD2009,0233,sac,,mesk1242,-anasite·-,ME:2,,,,,,foot,,medial,INCORP
 319,Dahlstrom,AD2009,0233,sac,,mesk1242,-ika·pa·-,ME:2,,,,,,stand,,final
 320,Dahlstrom,AD2009,0237,sac,,mesk1242,-a·hke·-,ME:2,,,,,,throw,,final

@@ -21,7 +21,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 180,Bloomfield,LB1925a,0226,sac,,mesk1242,-ās-,ME:1,,,,,,"be blown, fly, fall through the air",,prefinal
 234,Bloomfield,LB1925a,0231,sac,,mesk1242,-at-,ME:1,,,,,,applicative,,final
 235,Bloomfield,LB1925a,0231,sac,,mesk1242,-āt-,ME:1,,,,,,applicative,,final
-263,Bloomfield,LB1927a,0192,sac,,mesk1242,-ātä-,ME:1,,,,,,NC,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""makes its derivatives exactly like genuine TI verbs"""
+263,Bloomfield,LB1927a,0192,sac,,mesk1242,-ātä-,ME:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""makes its derivatives exactly like genuine TI verbs"""
 286,Bloomfield,LB1927a,0208,sac,,mesk1242,-atahw-,ME:1,,,,,,by club,,final
 172,Bloomfield,LB1925a,0226,sac,,mesk1242,-aten-,ME:1,,,,,,liquid,,medial
 236,Bloomfield,LB1925a,0231,sac,,mesk1242,-atō-,ME:1,,,,,,applicative,,final
@@ -34,7 +34,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 178,Bloomfield,LB1925a,0226,sac,,mesk1242,-cin-,ME:1,,,,,,"lie, fall",,final,AI
 283,Bloomfield,LB1927a,0206,sac,,mesk1242,-cin-,ME:1,,,,,,"fall, lie",,final
 224,Bloomfield,LB1925a,0230,sac,,mesk1242,-ckacy-,ME:1,,,,,,claw,,medial
-258,Bloomfield,LB1925a,0232,sac,,mesk1242,-eck-,ME:1,,,,,,NC; kick/by foot,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""Here, again, -eck- appears by the side of -ehk- without any apparent rationale"""
+258,Bloomfield,LB1925a,0232,sac,,mesk1242,-eck-,ME:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""Here, again, -eck- appears by the side of -ehk- without any apparent rationale"""
 258,Bloomfield,LB1927a,0193,sac,,mesk1242,-eck-,ME:1,,,,,,step,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: Used in verbs with double-object marker
 122,Bloomfield,LB1925a,0223,sac,,mesk1242,-eckā-,ME:1,,,,,,go,,final
 226,Bloomfield,LB1925a,0230,sac,,mesk1242,-egi,ME:1,,,,,,locative,,final
@@ -54,7 +54,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 227,Bloomfield,LB1925a,0230,sac,,mesk1242,-gy-,ME:1,,,,,,mother,,medial
 212,Bloomfield,LB1925a,0229,sac,,mesk1242,-hpu-,ME:1,,,,,,eat,,final
 128,Bloomfield,LB1925a,0224,sac,,mesk1242,-hpw-,ME:1,,,,,,"bite, eat",,final
-262,Bloomfield,LB1927a,0192,sac,,mesk1242,-htō-,ME:1,,,,,,NC,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""Here belongs the unlimited class of verbs in -tō- and -htō- which are used with inanimate objects as mates of TA verbs, although their inflection is that of intransitive verbs."""
+262,Bloomfield,LB1927a,0192,sac,,mesk1242,-htō-,ME:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""Here belongs the unlimited class of verbs in -tō- and -htō- which are used with inanimate objects as mates of TA verbs, although their inflection is that of intransitive verbs."""
 144,Bloomfield,LB1925a,"0225,0226",sac,,mesk1242,-igä-,ME:1,,,,,,dwell,,final
 201,Bloomfield,LB1925a,0228,sac,,mesk1242,-īh-,ME:1,,,,,,diminutive,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"marked as ""suffix"""
 256,Bloomfield,LB1925a,0232,sac,,mesk1242,-ihk-,ME:1,,,,,,"frequent, deal with",,final
@@ -75,22 +75,22 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 230,Bloomfield,LB1925a,0230,sac,,mesk1242,-ōtä-,ME:1,,,,,,crawl,,final
 125,Bloomfield,LB1925a,0223,sac,,mesk1242,-pä-,ME:1,,,,,,sleep,,final
 120,Bloomfield,LB1925a,0223,sac,,mesk1242,-pahu-,ME:1,,,,,,run,,final
-175,Bloomfield,LB1925a,0226,sac,,mesk1242,-s-,ME:1,,,,,,NC; put/place?,,final,TA
-176,Bloomfield,LB1925a,0226,sac,,mesk1242,-s-,ME:1,,,,,,NC; lie/fall?,,prefinal
+175,Bloomfield,LB1925a,0226,sac,,mesk1242,-s-,ME:1,,,,,,NG,,final,TA
+176,Bloomfield,LB1925a,0226,sac,,mesk1242,-s-,ME:1,,,,,,lie/fall,,prefinal
 177,Bloomfield,LB1925a,0226,sac,,mesk1242,-sen-,ME:1,,,,,,"lie, fall",,final,II
 219,Bloomfield,LB1925a,0230,sac,,mesk1242,-tawagay-,ME:1,,,,,,ear,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""dependent noun stem"""
 284,Bloomfield,LB1927a,0206,sac,,mesk1242,-tcin-,ME:1,,,,,,"get snagged, hang",,final
 149,Bloomfield,LB1925a,0225,sac,,mesk1242,-tiyä-,ME:1,,,,,,rump,,medial
-261,Bloomfield,LB1927a,0192,sac,,mesk1242,-tō-,ME:1,,,,,,NC,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""Here belongs the unlimited class of verbs in -tō- and -htō- which are used with inanimate objects as mates of TA verbs, although their inflection is that of intransitive verbs."""
+261,Bloomfield,LB1927a,0192,sac,,mesk1242,-tō-,ME:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB says: ""Here belongs the unlimited class of verbs in -tō- and -htō- which are used with inanimate objects as mates of TA verbs, although their inflection is that of intransitive verbs."""
 202,Bloomfield,LB1925a,0229,sac,,mesk1242,-tuge,ME:1,,,,,,NG,,final
 196,Bloomfield,LB1925a,0228,sac,,mesk1242,-usä-,ME:1,,,,,,walk,,final
 133,Bloomfield,LB1925a,0224,sac,,mesk1242,-w-,ME:1,,,,,,NG,,postradical,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB just calls this ""-w- in nouns;"" it comes between an initial and medial"
 134,Bloomfield,LB1925a,0224,sac,,mesk1242,-w-,ME:1,,,,,,NG,,postradical
 138,Bloomfield,LB1925a,0224,sac,,mesk1242,-wäwä-,ME:1,,,,,,sound,,medial
 158,Bloomfield,LB1925a,0226,sac,,mesk1242,-wen-,ME:1,,,,,,NG,,final,N
-264,Bloomfield,LB1927a,0192,sac,,mesk1242,-wen-,ME:1,,,,,,NC; thing/tool?,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB treats as noun stem
+264,Bloomfield,LB1927a,0192,sac,,mesk1242,-wen-,ME:1,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB treats as noun stem
 140,Bloomfield,LB1925a,0224,sac,,mesk1242,-yā-,ME:1,,,,,,NG,,final,II
-222,Bloomfield,LB1925a,0230,sac,,mesk1242,-yā-,ME:1,,,,,,NC,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""suffix"""
+222,Bloomfield,LB1925a,0230,sac,,mesk1242,-yā-,ME:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"LB: ""suffix"""
 271,Bloomfield,LB1927a,0194,sac,,mesk1242,ā-,ME:1,,,,,,go,,initial
 228,Bloomfield,LB1925a,0230,sac,,mesk1242,acä-,ME:1,,,,,,backwards,,initial
 121,Bloomfield,LB1925a,0223,sac,,mesk1242,agōsi-,ME:1,,,,,,climb,,initial

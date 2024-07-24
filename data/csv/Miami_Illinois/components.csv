@@ -327,7 +327,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 326,Costa,DJC2019,0009,mia,,miam1252,-ohsee,MY:Standard,,,,,,walk,,final,AI
 327,Costa,DJC2019,0006,mia,,miam1252,-wal,MY:Standard,,,,,,"load, carry",,final,AI
 328,Costa,DJC2019,0008,mia,,miam1252,-wee,MY:Standard,,,,,,speak,,final,AI
-329,Haas,MH1958a,0243,mia,,miam1252,kak(k)-,MY:1,,,,,,scrape,,initial
-330,Goddard,IG1965,0211,mia,,miam1252,lam-,MY:1,,,,*-aθa·m-,,underneath,,initial
-331,Costa,DJC2013,0200,mia,,miam1252,nip-,MY:1,,,,,,cold,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-332,Goddard,IG1965,0219,mia,,miam1252,wak-,MY:1,,,,"*wa·kene·wa, *wa·kenamwa",,bend,,initial,,,,,,,,,,,,,,,,,,,,,,,,,GVM: PA form: only verbs given
+329,Haas,MH1958a,0243,mia,,miam1252,kak(k)-,MY:1,,,,,,scrape,scrape,initial
+330,Goddard,IG1965,0211,mia,,miam1252,lam-,MY:1,,,,*-aθa·m-,,underneath,underneath,initial
+331,Costa,DJC2013,0200,mia,,miam1252,nip-,MY:1,,,,,,cold,cold,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+332,Goddard,IG1965,0219,mia,,miam1252,wak-,MY:1,,,,"*wa·kene·wa, *wa·kenamwa",,bend,bend,initial,,,,,,,,,,,,,,,,,,,,,,,,,GVM: PA form: only verbs given

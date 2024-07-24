@@ -200,7 +200,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 199,Inglis,SI1986a,0245,mic,,mikm1235,-ma,MK:F-S,,,,,,pertaining to house,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
 200,Inglis,SI1986a,0212,mic,,mikm1235,-man,MK:F-S,,,,,,berry,,final,N,,,,,,,,,-min,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
 201,McCulloch,GM2013b,"0012,0032",mic,,mikm1235,-nep-,MK:1,,,,,,sleep,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: From the discussion on p.12, nep- appears to be the actual root form, with np- appearing conditionally based on grammatical properties rather than purely phonotactic reasons. MAM: CHECK THIS - SEE F.N. #9 - ARE np- and mp- forms with initial change? If so, then they're not allomorphs."
-202,McCulloch,GM2013b,"0012,0032",mic,,mikm1235,-nep-,MK:1,,,,,,sleep,,initial,,,,,,,,,,-np-,,-mp-,,,,,,,,,,,,,,,,,,,,"GVM: From the discussion on p.12, nep- appears to be the actual root form, with np- appearing conditionally based on grammatical properties rather than purely phonotactic reasons. MAM: CHECK THIS - SEE F.N. #9 - ARE np- and mp- forms with initial change? If so, then they're not allomorphs."
+202,McCulloch,GM2013b,"0012,0032",mic,,mikm1235,-nep-,MK:1,,,,,,sleep,sleep,initial,,,,,,,,,,-np-,,-mp-,,,,,,,,,,,,,,,,,,,,"GVM: From the discussion on p.12, nep- appears to be the actual root form, with np- appearing conditionally based on grammatical properties rather than purely phonotactic reasons. MAM: CHECK THIS - SEE F.N. #9 - ARE np- and mp- forms with initial change? If so, then they're not allomorphs."
 203,Inglis,SI1986a,0212,mic,,mikm1235,-nɨk,MK:F-S,,,,,,to shoulder,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*nik (to shoulder),"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
 204,Inglis,SI1986a,0212,mic,,mikm1235,-nɨm,MK:F-S,,,,,,lifestyle,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
 205,Inglis,SI1986a,0245,mic,,mikm1235,-o’jin,MK:F-S,,,,,,bend,,final,AI,,,,,,,,,-u’jin,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
@@ -263,298 +263,298 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 262,Inglis,SI1986a,0213,mic,,mikm1235,-usu,MK:F-S,,,,,,testicle,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessed stem: nulsu (my testical),"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
 263,Inglis,SI1986a,0213,mic,,mikm1235,-uti,MK:F-S,,,,,,final,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
 264,McCulloch,GM2013b,0006,mic,,mikm1235,-we-,MK:1,,,,,,NG,,final,AI
-265,McCulloch,GM2013b,0019,mic,,mikm1235,(gaq)am-,MK:1,,,,,,stand,,initial
+265,McCulloch,GM2013b,0019,mic,,mikm1235,(gaq)am-,MK:1,,,,,,stand,stand,initial
 266,McCulloch,GM2013b,0020,mic,,mikm1235,(i)t+u,MK:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Weird notation is in source
 267,Inglis,SI1986a,0279,mic,,mikm1235,(i)tel-a,MK:F-S,,,,,,shot,,final,TA,,,,,,,,-tel,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
 268,Inglis,SI1986a,0124,mic,,mikm1235,a'jel-,MK:F-S,,,,,,in the way,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-269,Inglis,SI1986a,0124,mic,,mikm1235,a'pi-,MK:F-S,,,,,,net,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-270,Inglis,SI1986a,0124,mic,,mikm1235,a'qat-,MK:F-S,,,,,,half,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-271,Inglis,SI1986a,0124,mic,,mikm1235,a's-,MK:F-S,,,,,,over,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+269,Inglis,SI1986a,0124,mic,,mikm1235,a'pi-,MK:F-S,,,,,,net,net,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+270,Inglis,SI1986a,0124,mic,,mikm1235,a'qat-,MK:F-S,,,,,,half,half,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+271,Inglis,SI1986a,0124,mic,,mikm1235,a's-,MK:F-S,,,,,,over,over,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 272,Inglis,SI1986a,0124,mic,,mikm1235,a'sis-,MK:F-S,,,,,,over in line of sight,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-273,Inglis,SI1986a,0124,mic,,mikm1235,a'tukw-,MK:F-S,,,,,,"story, legend",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-274,Inglis,SI1986a,0124,mic,,mikm1235,aklasi-,MK:F-S,,,,,,English,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-275,Inglis,SI1986a,0124,mic,,mikm1235,al-,MK:F-S,,,,,,about,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-276,McCulloch,GM2013b,"0024,0026,0028",mic,,mikm1235,al-,MK:1,,,,,,around,,initial
+273,Inglis,SI1986a,0124,mic,,mikm1235,a'tukw-,MK:F-S,,,,,,"story, legend","story, legend",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+274,Inglis,SI1986a,0124,mic,,mikm1235,aklasi-,MK:F-S,,,,,,English,English,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+275,Inglis,SI1986a,0124,mic,,mikm1235,al-,MK:F-S,,,,,,about,about,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+276,McCulloch,GM2013b,"0024,0026,0028",mic,,mikm1235,al-,MK:1,,,,,,around,around,initial
 277,McCulloch,GM2013b,"0035,0044",mic,,mikm1235,al-,MK:1,,,,,,in any direction,,initial
-278,Inglis,SI1986a,0124,mic,,mikm1235,am-,MK:F-S,,,,,,partly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-279,Inglis,SI1986a,0124,mic,,mikm1235,amal-,MK:F-S,,,,,,variegated,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-280,McCulloch,GM2013b,"0007,0035,0044",mic,,mikm1235,amal-,MK:1,,,,,,fancy,,initial
-281,McCulloch,GM2013b,0025,mic,,mikm1235,amjaq-,MK:1,,,,,,spread,,initial
-282,Inglis,SI1986a,0124,mic,,mikm1235,amjim-,MK:F-S,,,,,,stuck,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+278,Inglis,SI1986a,0124,mic,,mikm1235,am-,MK:F-S,,,,,,partly,partly,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+279,Inglis,SI1986a,0124,mic,,mikm1235,amal-,MK:F-S,,,,,,variegated,variegated,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+280,McCulloch,GM2013b,"0007,0035,0044",mic,,mikm1235,amal-,MK:1,,,,,,fancy,fancy,initial
+281,McCulloch,GM2013b,0025,mic,,mikm1235,amjaq-,MK:1,,,,,,spread,spread,initial
+282,Inglis,SI1986a,0124,mic,,mikm1235,amjim-,MK:F-S,,,,,,stuck,stuck,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 283,Inglis,SI1986a,0124,mic,,mikm1235,ank-,MK:F-S,,,,,,in sequence,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 284,Inglis,SI1986a,0124,mic,,mikm1235,apat-,MK:F-S,,,,,,back (directional),,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-285,Inglis,SI1986a,0124,mic,,mikm1235,apj-,MK:F-S,,,,,,small,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-286,Inglis,SI1986a,0124,mic,,mikm1235,apjun-,MK:F-S,,,,,,handle,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-287,Inglis,SI1986a,0124,mic,,mikm1235,aps-,MK:F-S,,,,,,small,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+285,Inglis,SI1986a,0124,mic,,mikm1235,apj-,MK:F-S,,,,,,small,small,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+286,Inglis,SI1986a,0124,mic,,mikm1235,apjun-,MK:F-S,,,,,,handle,handle,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+287,Inglis,SI1986a,0124,mic,,mikm1235,aps-,MK:F-S,,,,,,small,small,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 288,Inglis,SI1986a,0124,mic,,mikm1235,apt-,MK:F-S,,,,,,to the end,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-289,Inglis,SI1986a,0124,mic,,mikm1235,as-,MK:F-S,,,,,,instigate,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-290,Inglis,SI1986a,0124,mic,,mikm1235,asamaj-,MK:F-S,,,,,,"fancy, elegant",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-291,Inglis,SI1986a,0124,mic,,mikm1235,asɨkom-,MK:F-S,,,,,,across,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-292,Inglis,SI1986a,0124,mic,,mikm1235,assu-,MK:F-S,,,,,,authority,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-293,Inglis,SI1986a,0124,mic,,mikm1235,atki-,MK:F-S,,,,,,cry,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-294,Inglis,SI1986a,0124,mic,,mikm1235,atlasm-,MK:F-S,,,,,,rest,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-295,Inglis,SI1986a,0124,mic,,mikm1235,atuas-,MK:F-S,,,,,,back of body,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-296,Inglis,SI1986a,0124,mic,,mikm1235,awan-,MK:F-S,,,,,,"awkward, poorly",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-297,McCulloch,GM2013b,"0024,0027",mic,,mikm1235,awan-,MK:1,,,,,,"poorly, unskilled",,initial
-298,Inglis,SI1986a,0124,mic,,mikm1235,e'pit-,MK:F-S,,,,,,woman,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-299,McCulloch,GM2013b,"0017,0027",mic,,mikm1235,ejigl-,MK:1,,,,,,away,,initial
-300,Inglis,SI1986a,0124,mic,,mikm1235,ejikl-,MK:F-S,,,,,,away,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-301,Inglis,SI1986a,0125,mic,,mikm1235,eki-,MK:F-S,,,,,,"count, read",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-302,Inglis,SI1986a,0125,mic,,mikm1235,ekwij-,MK:F-S,,,,,,float,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-303,Inglis,SI1986a,0125,mic,,mikm1235,el-,MK:F-S,,,,,,"thus, thither",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-304,McCulloch,GM2013b,0010,mic,,mikm1235,el-,MK:1,,,,,,"to, toward",,initial
-305,Inglis,SI1986a,0125,mic,,mikm1235,elaqp-,MK:F-S,,,,,,bind,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+289,Inglis,SI1986a,0124,mic,,mikm1235,as-,MK:F-S,,,,,,instigate,instigate,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+290,Inglis,SI1986a,0124,mic,,mikm1235,asamaj-,MK:F-S,,,,,,"fancy, elegant","fancy, elegant",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+291,Inglis,SI1986a,0124,mic,,mikm1235,asɨkom-,MK:F-S,,,,,,across,across,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+292,Inglis,SI1986a,0124,mic,,mikm1235,assu-,MK:F-S,,,,,,authority,authority,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+293,Inglis,SI1986a,0124,mic,,mikm1235,atki-,MK:F-S,,,,,,cry,cry,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+294,Inglis,SI1986a,0124,mic,,mikm1235,atlasm-,MK:F-S,,,,,,rest,rest,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+295,Inglis,SI1986a,0124,mic,,mikm1235,atuas-,MK:F-S,,,,,,back of body,back (N),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+296,Inglis,SI1986a,0124,mic,,mikm1235,awan-,MK:F-S,,,,,,"awkward, poorly","awkward, poorly",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+297,McCulloch,GM2013b,"0024,0027",mic,,mikm1235,awan-,MK:1,,,,,,"poorly, unskilled","poorly, unskilled",initial
+298,Inglis,SI1986a,0124,mic,,mikm1235,e'pit-,MK:F-S,,,,,,woman,"woman, female",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+299,McCulloch,GM2013b,"0017,0027",mic,,mikm1235,ejigl-,MK:1,,,,,,away,away,initial
+300,Inglis,SI1986a,0124,mic,,mikm1235,ejikl-,MK:F-S,,,,,,away,away,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+301,Inglis,SI1986a,0125,mic,,mikm1235,eki-,MK:F-S,,,,,,"count, read","count, read",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+302,Inglis,SI1986a,0125,mic,,mikm1235,ekwij-,MK:F-S,,,,,,float,float,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+303,Inglis,SI1986a,0125,mic,,mikm1235,el-,MK:F-S,,,,,,"thus, thither","thus, thither",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+304,McCulloch,GM2013b,0010,mic,,mikm1235,el-,MK:1,,,,,,"to, toward","to, toward",initial
+305,Inglis,SI1986a,0125,mic,,mikm1235,elaqp-,MK:F-S,,,,,,bind,bind,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 306,Inglis,SI1986a,0125,mic,,mikm1235,elke-,MK:F-S,,,,,,work the land,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-307,Inglis,SI1986a,0125,mic,,mikm1235,elm-,MK:F-S,,,,,,away from,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-308,McCulloch,GM2013b,"0012,0017,0019,0020",mic,,mikm1235,elugw-,MK:1,,,,,,"work, do",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,el-,-ugw,,,,"GVM: P.12: ""possibly a complex of el- root + -ugw medial"""
-309,Inglis,SI1986a,"0020,0125",mic,,mikm1235,elukw-,MK:F-S,,,,,,work  ,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+307,Inglis,SI1986a,0125,mic,,mikm1235,elm-,MK:F-S,,,,,,away from,away,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+308,McCulloch,GM2013b,"0012,0017,0019,0020",mic,,mikm1235,elugw-,MK:1,,,,,,"work, do","work, do",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,el-,-ugw,,,,"GVM: P.12: ""possibly a complex of el- root + -ugw medial"""
+309,Inglis,SI1986a,"0020,0125",mic,,mikm1235,elukw-,MK:F-S,,,,,,work  ,work,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 310,Inglis,SI1986a,0125,mic,,mikm1235,emek(w)-,MK:F-S,,,,,,do badly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-311,Inglis,SI1986a,0125,mic,,mikm1235,emtesk-,MK:F-S,,,,,,"fussy, superior",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-312,Inglis,SI1986a,0125,mic,,mikm1235,enk-,MK:F-S,,,,,,measurement,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+311,Inglis,SI1986a,0125,mic,,mikm1235,emtesk-,MK:F-S,,,,,,"fussy, superior","fussy, superior",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+312,Inglis,SI1986a,0125,mic,,mikm1235,enk-,MK:F-S,,,,,,measurement,measurement,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 313,Inglis,SI1986a,0125,mic,,mikm1235,enm-,MK:F-S,,,,,,opposite direction,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-314,McCulloch,GM2013b,0027,mic,,mikm1235,enq-,MK:1,,,,,,stop,,initial
-315,Inglis,SI1986a,0125,mic,,mikm1235,ep-,MK:F-S,,,,,,warm,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-316,McCulloch,GM2013b,0027,mic,,mikm1235,ep-,MK:1,,,,,,sit,,initial
-317,Inglis,SI1986a,0125,mic,,mikm1235,ept-,MK:F-S,,,,,,dish,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-318,Inglis,SI1986a,0125,mic,,mikm1235,es-,MK:F-S,,,,,,"thus, thither",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-319,Inglis,SI1986a,0125,mic,,mikm1235,esamqw-,MK:F-S,,,,,,drink,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-320,Inglis,SI1986a,0125,mic,,mikm1235,eset-,MK:F-S,,,,,,back,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-321,Inglis,SI1986a,0125,mic,,mikm1235,esk-,MK:F-S,,,,,,raw or green,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-322,Inglis,SI1986a,0125,mic,,mikm1235,eskm-,MK:F-S,,,,,,wait,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-323,Inglis,SI1986a,0125,mic,,mikm1235,esp-,MK:F-S,,,,,,high,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-324,Inglis,SI1986a,0125,mic,,mikm1235,etl-,MK:F-S,,,,,,"thus, so, there",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+314,McCulloch,GM2013b,0027,mic,,mikm1235,enq-,MK:1,,,,,,stop,stop,initial
+315,Inglis,SI1986a,0125,mic,,mikm1235,ep-,MK:F-S,,,,,,warm,warm,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+316,McCulloch,GM2013b,0027,mic,,mikm1235,ep-,MK:1,,,,,,sit,sit,initial
+317,Inglis,SI1986a,0125,mic,,mikm1235,ept-,MK:F-S,,,,,,dish,dish,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+318,Inglis,SI1986a,0125,mic,,mikm1235,es-,MK:F-S,,,,,,"thus, thither","thus, thither",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+319,Inglis,SI1986a,0125,mic,,mikm1235,esamqw-,MK:F-S,,,,,,drink,drink (V),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+320,Inglis,SI1986a,0125,mic,,mikm1235,eset-,MK:F-S,,,,,,back,back,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+321,Inglis,SI1986a,0125,mic,,mikm1235,esk-,MK:F-S,,,,,,raw or green,"raw, green",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+322,Inglis,SI1986a,0125,mic,,mikm1235,eskm-,MK:F-S,,,,,,wait,wait,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+323,Inglis,SI1986a,0125,mic,,mikm1235,esp-,MK:F-S,,,,,,high,high,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+324,Inglis,SI1986a,0125,mic,,mikm1235,etl-,MK:F-S,,,,,,"thus, so, there","thus, so, there",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 325,McCulloch,GM2013b,"0011,0012,0034,0035",mic,,mikm1235,etl-,MK:1,,,,,,"process, make, create",,final
-326,Inglis,SI1986a,0125,mic,,mikm1235,ewi'k-,MK:F-S,,,,,,write,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-327,Inglis,SI1986a,0125,mic,,mikm1235,ewi't-,MK:F-S,,,,,,name,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+326,Inglis,SI1986a,0125,mic,,mikm1235,ewi'k-,MK:F-S,,,,,,write,write,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+327,Inglis,SI1986a,0125,mic,,mikm1235,ewi't-,MK:F-S,,,,,,name,name,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 328,Inglis,SI1986a,0125,mic,,mikm1235,ewj-,MK:F-S,,,,,,back and forth,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-329,Inglis,SI1986a,0125,mic,,mikm1235,ewl-,MK:F-S,,,,,,"poor, badly",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-330,Inglis,SI1986a,0125,mic,,mikm1235,ewn-,MK:F-S,,,,,,"blue, foggy",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-331,Inglis,SI1986a,0125,mic,,mikm1235,ewn-,MK:F-S,,,,,,dizzy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-332,McCulloch,GM2013b,0035,mic,,mikm1235,gaq-,MK:1,,,,,,finish,,initial
-333,McCulloch,GM2013b,0027,mic,,mikm1235,gawasg-,MK:1,,,,,,turn,,initial
-334,McCulloch,GM2013b,0035,mic,,mikm1235,gegnu'-,MK:1,,,,,,properly,,initial
-335,McCulloch,GM2013b,"0021,0026",mic,,mikm1235,gesisp-,MK:1,,,,,,wash,,initial
-336,McCulloch,GM2013b,0034,mic,,mikm1235,gim-,MK:1,,,,,,sneak,,initial
-337,McCulloch,GM2013b,"0035,0037",mic,,mikm1235,gis-,MK:1,,,,,,"can, able to",,initial
+329,Inglis,SI1986a,0125,mic,,mikm1235,ewl-,MK:F-S,,,,,,"poor, badly","poor, badly",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+330,Inglis,SI1986a,0125,mic,,mikm1235,ewn-,MK:F-S,,,,,,"blue, foggy","blue, fog",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+331,Inglis,SI1986a,0125,mic,,mikm1235,ewn-,MK:F-S,,,,,,dizzy,dizzy,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+332,McCulloch,GM2013b,0035,mic,,mikm1235,gaq-,MK:1,,,,,,finish,finish,initial
+333,McCulloch,GM2013b,0027,mic,,mikm1235,gawasg-,MK:1,,,,,,turn,turn,initial
+334,McCulloch,GM2013b,0035,mic,,mikm1235,gegnu'-,MK:1,,,,,,properly,proper,initial
+335,McCulloch,GM2013b,"0021,0026",mic,,mikm1235,gesisp-,MK:1,,,,,,wash,wash,initial
+336,McCulloch,GM2013b,0034,mic,,mikm1235,gim-,MK:1,,,,,,sneak,sneak,initial
+337,McCulloch,GM2013b,"0035,0037",mic,,mikm1235,gis-,MK:1,,,,,,"can, able to","can, able",initial
 338,Inglis,SI1986a,0245,mic,,mikm1235,i’pulue,MK:F-S,,,,,,ride a horse,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald"
 339,Inglis,SI1986a,0125,mic,,mikm1235,ik-,MK:F-S,,,,,,be in place,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-340,Inglis,SI1986a,0125,mic,,mikm1235,ika'taqu-,MK:F-S,,,,,,plant,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-341,Inglis,SI1986a,0125,mic,,mikm1235,ikan-,MK:F-S,,,,,,ahead,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-342,Inglis,SI1986a,0125,mic,,mikm1235,il-,MK:F-S,,,,,,properly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-343,Inglis,SI1986a,0125,mic,,mikm1235,ilaj-,MK:F-S,,,,,,prepare,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-344,Inglis,SI1986a,0126,mic,,mikm1235,inaqan-,MK:F-S,,,,,,right,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-345,Inglis,SI1986a,0126,mic,,mikm1235,istu-,MK:F-S,,,,,,"bend, crooked",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+340,Inglis,SI1986a,0125,mic,,mikm1235,ika'taqu-,MK:F-S,,,,,,plant,plant,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+341,Inglis,SI1986a,0125,mic,,mikm1235,ikan-,MK:F-S,,,,,,ahead,ahead,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+342,Inglis,SI1986a,0125,mic,,mikm1235,il-,MK:F-S,,,,,,properly,proper,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+343,Inglis,SI1986a,0125,mic,,mikm1235,ilaj-,MK:F-S,,,,,,prepare,prepare,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+344,Inglis,SI1986a,0126,mic,,mikm1235,inaqan-,MK:F-S,,,,,,right,right,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+345,Inglis,SI1986a,0126,mic,,mikm1235,istu-,MK:F-S,,,,,,"bend, crooked","bend, crooked",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 346,Inglis,SI1986a,0126,mic,,mikm1235,ja'w-,MK:F-S,,,,,,chewing tobacco,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-347,Inglis,SI1986a,0126,mic,,mikm1235,jajik-,MK:F-S,,,,,,along the edge,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-348,Inglis,SI1986a,0126,mic,,mikm1235,jakeju-,MK:F-S,,,,,,lobster,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+347,Inglis,SI1986a,0126,mic,,mikm1235,jajik-,MK:F-S,,,,,,along the edge,"along, edge",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+348,Inglis,SI1986a,0126,mic,,mikm1235,jakeju-,MK:F-S,,,,,,lobster,lobster,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 349,Inglis,SI1986a,0126,mic,,mikm1235,jaqal-,MK:F-S,,,,,,a short time,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-350,McCulloch,GM2013b,0012,mic,,mikm1235,jaqal-,MK:1,,,,,,quick,,initial
-351,McCulloch,GM2013b,"0024,0035",mic,,mikm1235,jaqal-,MK:1,,,,,,fast,,initial
-352,Inglis,SI1986a,0126,mic,,mikm1235,jejujkw-,MK:F-S,,,,,,bell,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-353,Inglis,SI1986a,0126,mic,,mikm1235,ji'm-,MK:F-S,,,,,,paddle,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-354,Inglis,SI1986a,0126,mic,,mikm1235,ji'nmu-,MK:F-S,,,,,,man,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-355,Inglis,SI1986a,0126,mic,,mikm1235,jijkluewju-,MK:F-S,,,,,,sheep,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-356,Inglis,SI1986a,0126,mic,,mikm1235,jik-,MK:F-S,,,,,,gone,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-357,Inglis,SI1986a,0126,mic,,mikm1235,jik-,MK:F-S,,,,,,listen,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-358,Inglis,SI1986a,0126,mic,,mikm1235,jil-,MK:F-S,,,,,,mark,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-359,Inglis,SI1986a,0126,mic,,mikm1235,jim-,MK:F-S,,,,,,wring,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-360,Inglis,SI1986a,0126,mic,,mikm1235,jinew-,MK:F-S,,,,,,mess,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-361,Inglis,SI1986a,0126,mic,,mikm1235,jip-,MK:F-S,,,,,,fright,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-362,McCulloch,GM2013b,"0023,0027",mic,,mikm1235,jip-,MK:1,,,,,,fear,,initial
-363,Inglis,SI1986a,0126,mic,,mikm1235,ka's-,MK:F-S,,,,,,wipe,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-364,Inglis,SI1986a,0126,mic,,mikm1235,ka'tew-,MK:F-S,,,,,,eel,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-365,Inglis,SI1986a,0126,mic,,mikm1235,kaq-,MK:F-S,,,,,,finish,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-366,Inglis,SI1986a,0126,mic,,mikm1235,kas-,MK:F-S,,,,,,rub,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-367,Inglis,SI1986a,0126,mic,,mikm1235,kawask-,MK:F-S,,,,,,turn over,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-368,Inglis,SI1986a,0126,mic,,mikm1235,ke'kw-,MK:F-S,,,,,,on top of,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-369,Inglis,SI1986a,0126,mic,,mikm1235,kekn-,MK:F-S,,,,,,decorate,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-370,Inglis,SI1986a,0126,mic,,mikm1235,kekw-,MK:F-S,,,,,,slowly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+350,McCulloch,GM2013b,0012,mic,,mikm1235,jaqal-,MK:1,,,,,,quick,quick,initial
+351,McCulloch,GM2013b,"0024,0035",mic,,mikm1235,jaqal-,MK:1,,,,,,fast,fast,initial
+352,Inglis,SI1986a,0126,mic,,mikm1235,jejujkw-,MK:F-S,,,,,,bell,bell,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+353,Inglis,SI1986a,0126,mic,,mikm1235,ji'm-,MK:F-S,,,,,,paddle,paddle,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+354,Inglis,SI1986a,0126,mic,,mikm1235,ji'nmu-,MK:F-S,,,,,,man,"man, male",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+355,Inglis,SI1986a,0126,mic,,mikm1235,jijkluewju-,MK:F-S,,,,,,sheep,sheep,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+356,Inglis,SI1986a,0126,mic,,mikm1235,jik-,MK:F-S,,,,,,gone,gone,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+357,Inglis,SI1986a,0126,mic,,mikm1235,jik-,MK:F-S,,,,,,listen,listen,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+358,Inglis,SI1986a,0126,mic,,mikm1235,jil-,MK:F-S,,,,,,mark,mark,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+359,Inglis,SI1986a,0126,mic,,mikm1235,jim-,MK:F-S,,,,,,wring,wring,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+360,Inglis,SI1986a,0126,mic,,mikm1235,jinew-,MK:F-S,,,,,,mess,mess,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+361,Inglis,SI1986a,0126,mic,,mikm1235,jip-,MK:F-S,,,,,,fright,fright,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+362,McCulloch,GM2013b,"0023,0027",mic,,mikm1235,jip-,MK:1,,,,,,fear,fear,initial
+363,Inglis,SI1986a,0126,mic,,mikm1235,ka's-,MK:F-S,,,,,,wipe,wipe,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+364,Inglis,SI1986a,0126,mic,,mikm1235,ka'tew-,MK:F-S,,,,,,eel,eel,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+365,Inglis,SI1986a,0126,mic,,mikm1235,kaq-,MK:F-S,,,,,,finish,finish,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+366,Inglis,SI1986a,0126,mic,,mikm1235,kas-,MK:F-S,,,,,,rub,rub,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+367,Inglis,SI1986a,0126,mic,,mikm1235,kawask-,MK:F-S,,,,,,turn over,turn over,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+368,Inglis,SI1986a,0126,mic,,mikm1235,ke'kw-,MK:F-S,,,,,,on top of,top,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+369,Inglis,SI1986a,0126,mic,,mikm1235,kekn-,MK:F-S,,,,,,decorate,decorate,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+370,Inglis,SI1986a,0126,mic,,mikm1235,kekw-,MK:F-S,,,,,,slowly,slowly,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 371,Inglis,SI1986a,0126,mic,,mikm1235,kes-,MK:F-S,,,,,,"hurt, very",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-372,Inglis,SI1986a,0126,mic,,mikm1235,kesikaw-,MK:F-S,,,,,,"loud, fast",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-373,Inglis,SI1986a,0126,mic,,mikm1235,kesinukwe-,MK:F-S,,,,,,sick,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-374,Inglis,SI1986a,0126,mic,,mikm1235,kesip-,MK:F-S,,,,,,scrape,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-375,Inglis,SI1986a,0126,mic,,mikm1235,kesis-,MK:F-S,,,,,,wash,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-376,Inglis,SI1986a,0126,mic,,mikm1235,kesm-,MK:F-S,,,,,,position,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-377,Inglis,SI1986a,0127,mic,,mikm1235,kesnuk-,MK:F-S,,,,,,sick,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-378,Inglis,SI1986a,0126,mic,,mikm1235,ket-,MK:F-S,,,,,,"take out, move",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-379,Inglis,SI1986a,0126,mic,,mikm1235,ketan-,MK:F-S,,,,,,hate,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-380,Inglis,SI1986a,0127,mic,,mikm1235,ketap-,MK:F-S,,,,,,immerse,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-381,Inglis,SI1986a,0127,mic,,mikm1235,ketkw-,MK:F-S,,,,,,facing,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-382,Inglis,SI1986a,0127,mic,,mikm1235,ketme-,MK:F-S,,,,,,to extinction,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-383,Inglis,SI1986a,0127,mic,,mikm1235,kew-,MK:F-S,,,,,,prostrate,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-384,Inglis,SI1986a,0127,mic,,mikm1235,ki-,MK:F-S,,,,,,"count, read",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-385,Inglis,SI1986a,0127,mic,,mikm1235,kim-,MK:F-S,,,,,,secretly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-386,Inglis,SI1986a,0127,mic,,mikm1235,kinawsk-,MK:F-S,,,,,,turn around,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-387,Inglis,SI1986a,0127,mic,,mikm1235,kis-,MK:F-S,,,,,,finish,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-388,Inglis,SI1986a,0127,mic,,mikm1235,kisiku-,MK:F-S,,,,,,old,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-389,Inglis,SI1986a,0127,mic,,mikm1235,kispne-,MK:F-S,,,,,,tired,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-390,Inglis,SI1986a,0127,mic,,mikm1235,kitto'q-,MK:F-S,,,,,,circle,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-391,Inglis,SI1986a,0127,mic,,mikm1235,kopit-,MK:F-S,,,,,,beaver,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-392,Inglis,SI1986a,0127,mic,,mikm1235,kut-,MK:F-S,,,,,,spill,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-393,Inglis,SI1986a,0127,mic,,mikm1235,kwej-,MK:F-S,,,,,,try,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-394,Inglis,SI1986a,0127,mic,,mikm1235,kwil-,MK:F-S,,,,,,search,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-395,Inglis,SI1986a,0127,mic,,mikm1235,kwitn-,MK:F-S,,,,,,canoe,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-396,Inglis,SI1986a,0127,mic,,mikm1235,l'ketu-,MK:F-S,,,,,,mushrooms,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-397,Inglis,SI1986a,0127,mic,,mikm1235,l'lut-,MK:F-S,,,,,,fence,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-398,Inglis,SI1986a,0127,mic,,mikm1235,l'nu-,MK:F-S,,,,,,Indian,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+372,Inglis,SI1986a,0126,mic,,mikm1235,kesikaw-,MK:F-S,,,,,,"loud, fast","loud, fast (A)",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+373,Inglis,SI1986a,0126,mic,,mikm1235,kesinukwe-,MK:F-S,,,,,,sick,sick,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+374,Inglis,SI1986a,0126,mic,,mikm1235,kesip-,MK:F-S,,,,,,scrape,scrape,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+375,Inglis,SI1986a,0126,mic,,mikm1235,kesis-,MK:F-S,,,,,,wash,wash,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+376,Inglis,SI1986a,0126,mic,,mikm1235,kesm-,MK:F-S,,,,,,position,position,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+377,Inglis,SI1986a,0127,mic,,mikm1235,kesnuk-,MK:F-S,,,,,,sick,sick,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+378,Inglis,SI1986a,0126,mic,,mikm1235,ket-,MK:F-S,,,,,,"take out, move","take out, move",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+379,Inglis,SI1986a,0126,mic,,mikm1235,ketan-,MK:F-S,,,,,,hate,hate,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+380,Inglis,SI1986a,0127,mic,,mikm1235,ketap-,MK:F-S,,,,,,immerse,immerse,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+381,Inglis,SI1986a,0127,mic,,mikm1235,ketkw-,MK:F-S,,,,,,facing,facing,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+382,Inglis,SI1986a,0127,mic,,mikm1235,ketme-,MK:F-S,,,,,,to extinction,extinct,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+383,Inglis,SI1986a,0127,mic,,mikm1235,kew-,MK:F-S,,,,,,prostrate,prostrate,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+384,Inglis,SI1986a,0127,mic,,mikm1235,ki-,MK:F-S,,,,,,"count, read","count, read",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+385,Inglis,SI1986a,0127,mic,,mikm1235,kim-,MK:F-S,,,,,,secretly,secretly,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+386,Inglis,SI1986a,0127,mic,,mikm1235,kinawsk-,MK:F-S,,,,,,turn around,turn around,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+387,Inglis,SI1986a,0127,mic,,mikm1235,kis-,MK:F-S,,,,,,finish,finish,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+388,Inglis,SI1986a,0127,mic,,mikm1235,kisiku-,MK:F-S,,,,,,old,old,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+389,Inglis,SI1986a,0127,mic,,mikm1235,kispne-,MK:F-S,,,,,,tired,tired,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+390,Inglis,SI1986a,0127,mic,,mikm1235,kitto'q-,MK:F-S,,,,,,circle,circle,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+391,Inglis,SI1986a,0127,mic,,mikm1235,kopit-,MK:F-S,,,,,,beaver,beaver,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+392,Inglis,SI1986a,0127,mic,,mikm1235,kut-,MK:F-S,,,,,,spill,spill,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+393,Inglis,SI1986a,0127,mic,,mikm1235,kwej-,MK:F-S,,,,,,try,try,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+394,Inglis,SI1986a,0127,mic,,mikm1235,kwil-,MK:F-S,,,,,,search,search,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+395,Inglis,SI1986a,0127,mic,,mikm1235,kwitn-,MK:F-S,,,,,,canoe,canoe,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+396,Inglis,SI1986a,0127,mic,,mikm1235,l'ketu-,MK:F-S,,,,,,mushrooms,mushroom,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+397,Inglis,SI1986a,0127,mic,,mikm1235,l'lut-,MK:F-S,,,,,,fence,fence,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+398,Inglis,SI1986a,0127,mic,,mikm1235,l'nu-,MK:F-S,,,,,,Indian,Indian,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 399,Inglis,SI1986a,0127,mic,,mikm1235,l'pa'tu-,MK:F-S,,,,,,young man,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-400,Inglis,SI1986a,0127,mic,,mikm1235,la'skw-,MK:F-S,,,,,,cards,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-401,Inglis,SI1986a,0127,mic,,mikm1235,la'taqsun-,MK:F-S,,,,,,bucket,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-402,Inglis,SI1986a,0127,mic,,mikm1235,lam-,MK:F-S,,,,,,below,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-403,McCulloch,GM2013b,0007,mic,,mikm1235,lami-,MK:1,,,,,,under,,initial
-404,Inglis,SI1986a,0127,mic,,mikm1235,laq-,MK:F-S,,,,,,wrap around,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-405,Inglis,SI1986a,0127,mic,,mikm1235,lasuku-,MK:F-S,,,,,,cards,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-406,Inglis,SI1986a,0127,mic,,mikm1235,lu'su-,MK:F-S,,,,,,duties,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-407,Inglis,SI1986a,0127,mic,,mikm1235,lutm-,MK:F-S,,,,,,gossip,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-408,Inglis,SI1986a,0127,mic,,mikm1235,makot-,MK:F-S,,,,,,dress,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-409,Inglis,SI1986a,0127,mic,,mikm1235,mal-,MK:F-S,,,,,,poor,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-410,Inglis,SI1986a,0127,mic,,mikm1235,mal'tew-,MK:F-S,,,,,,blood,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-411,Inglis,SI1986a,0127,mic,,mikm1235,maltejju-,MK:F-S,,,,,,hammer,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-412,Inglis,SI1986a,"0020,0128",mic,,mikm1235,maq-,MK:F-S,,,,,,large,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-413,Inglis,SI1986a,0128,mic,,mikm1235,maqamik-,MK:F-S,,,,,,"ground, land",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-414,Inglis,SI1986a,0128,mic,,mikm1235,maqan-,MK:F-S,,,,,,confuse,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-415,Inglis,SI1986a,0128,mic,,mikm1235,maqat-,MK:F-S,,,,,,temporary,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-416,Inglis,SI1986a,0128,mic,,mikm1235,maqtew-,MK:F-S,,,,,,black,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-417,Inglis,SI1986a,0128,mic,,mikm1235,masq-,MK:F-S,,,,,,put away,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-418,Inglis,SI1986a,0128,mic,,mikm1235,matn-,MK:F-S,,,,,,fight,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-419,Inglis,SI1986a,0128,mic,,mikm1235,mattaq-,MK:F-S,,,,,,make vibrate,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-420,Inglis,SI1986a,0128,mic,,mikm1235,matu-,MK:F-S,,,,,,casual,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-421,McCulloch,GM2013b,0035,mic,,mikm1235,matu'-,MK:1,,,,,,"a little, simply",,initial
-422,McCulloch,GM2013b,0035,mic,,mikm1235,maw-,MK:1,,,,,,together,,initial
-423,Inglis,SI1986a,0128,mic,,mikm1235,me'-,MK:F-S,,,,,,strike,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-424,Inglis,SI1986a,0128,mic,,mikm1235,me'si-,MK:F-S,,,,,,"unable, cannot",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-425,McCulloch,GM2013b,"0024,0025,0026,0028",mic,,mikm1235,meg-,MK:1,,,,,,"much, a lot, highly, too",,initial
-426,McCulloch,GM2013b,"0008,0012,0023",mic,,mikm1235,megw-,MK:1,,,,,,red,,initial
-427,Inglis,SI1986a,0128,mic,,mikm1235,mejik-,MK:F-S,,,,,,dirty,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-428,Inglis,SI1986a,0128,mic,,mikm1235,meke-,MK:F-S,,,,,,plenty,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-429,Inglis,SI1986a,0128,mic,,mikm1235,meku-,MK:F-S,,,,,,red,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-430,Inglis,SI1986a,0128,mic,,mikm1235,melk-,MK:F-S,,,,,,"strong, hard",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-431,Inglis,SI1986a,0128,mic,,mikm1235,memk-,MK:F-S,,,,,,bare,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-432,Inglis,SI1986a,0128,mic,,mikm1235,men-,MK:F-S,,,,,,remove,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-433,Inglis,SI1986a,0128,mic,,mikm1235,menaq-,MK:F-S,,,,,,"delicate, weak",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-434,Inglis,SI1986a,0128,mic,,mikm1235,mes-,MK:F-S,,,,,,big,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-435,Inglis,SI1986a,0128,mic,,mikm1235,mes-,MK:F-S,,,,,,whole,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+400,Inglis,SI1986a,0127,mic,,mikm1235,la'skw-,MK:F-S,,,,,,cards,card,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+401,Inglis,SI1986a,0127,mic,,mikm1235,la'taqsun-,MK:F-S,,,,,,bucket,bucket,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+402,Inglis,SI1986a,0127,mic,,mikm1235,lam-,MK:F-S,,,,,,below,below,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+403,McCulloch,GM2013b,0007,mic,,mikm1235,lami-,MK:1,,,,,,under,under,initial
+404,Inglis,SI1986a,0127,mic,,mikm1235,laq-,MK:F-S,,,,,,wrap around,wrap around,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+405,Inglis,SI1986a,0127,mic,,mikm1235,lasuku-,MK:F-S,,,,,,cards,card,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+406,Inglis,SI1986a,0127,mic,,mikm1235,lu'su-,MK:F-S,,,,,,duties,duty,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+407,Inglis,SI1986a,0127,mic,,mikm1235,lutm-,MK:F-S,,,,,,gossip,gossip,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+408,Inglis,SI1986a,0127,mic,,mikm1235,makot-,MK:F-S,,,,,,dress,dress,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+409,Inglis,SI1986a,0127,mic,,mikm1235,mal-,MK:F-S,,,,,,poor,poor,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+410,Inglis,SI1986a,0127,mic,,mikm1235,mal'tew-,MK:F-S,,,,,,blood,blood,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+411,Inglis,SI1986a,0127,mic,,mikm1235,maltejju-,MK:F-S,,,,,,hammer,hammer,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+412,Inglis,SI1986a,"0020,0128",mic,,mikm1235,maq-,MK:F-S,,,,,,large,large,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+413,Inglis,SI1986a,0128,mic,,mikm1235,maqamik-,MK:F-S,,,,,,"ground, land","ground, land",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+414,Inglis,SI1986a,0128,mic,,mikm1235,maqan-,MK:F-S,,,,,,confuse,confuse,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+415,Inglis,SI1986a,0128,mic,,mikm1235,maqat-,MK:F-S,,,,,,temporary,temporary,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+416,Inglis,SI1986a,0128,mic,,mikm1235,maqtew-,MK:F-S,,,,,,black,black,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+417,Inglis,SI1986a,0128,mic,,mikm1235,masq-,MK:F-S,,,,,,put away,put away,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+418,Inglis,SI1986a,0128,mic,,mikm1235,matn-,MK:F-S,,,,,,fight,fight,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+419,Inglis,SI1986a,0128,mic,,mikm1235,mattaq-,MK:F-S,,,,,,make vibrate,vibrate,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+420,Inglis,SI1986a,0128,mic,,mikm1235,matu-,MK:F-S,,,,,,casual,casual,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+421,McCulloch,GM2013b,0035,mic,,mikm1235,matu'-,MK:1,,,,,,"a little, simply","a little, simply",initial
+422,McCulloch,GM2013b,0035,mic,,mikm1235,maw-,MK:1,,,,,,together,together,initial
+423,Inglis,SI1986a,0128,mic,,mikm1235,me'-,MK:F-S,,,,,,strike,strike,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+424,Inglis,SI1986a,0128,mic,,mikm1235,me'si-,MK:F-S,,,,,,"unable, cannot","unable, cannot",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+425,McCulloch,GM2013b,"0024,0025,0026,0028",mic,,mikm1235,meg-,MK:1,,,,,,"much, a lot, highly, too","much, a lot, highly, too",initial
+426,McCulloch,GM2013b,"0008,0012,0023",mic,,mikm1235,megw-,MK:1,,,,,,red,red,initial
+427,Inglis,SI1986a,0128,mic,,mikm1235,mejik-,MK:F-S,,,,,,dirty,dirt,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+428,Inglis,SI1986a,0128,mic,,mikm1235,meke-,MK:F-S,,,,,,plenty,plenty,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+429,Inglis,SI1986a,0128,mic,,mikm1235,meku-,MK:F-S,,,,,,red,red,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+430,Inglis,SI1986a,0128,mic,,mikm1235,melk-,MK:F-S,,,,,,"strong, hard","strong, hard",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+431,Inglis,SI1986a,0128,mic,,mikm1235,memk-,MK:F-S,,,,,,bare,bare,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+432,Inglis,SI1986a,0128,mic,,mikm1235,men-,MK:F-S,,,,,,remove,remove,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+433,Inglis,SI1986a,0128,mic,,mikm1235,menaq-,MK:F-S,,,,,,"delicate, weak","delicate, weak",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+434,Inglis,SI1986a,0128,mic,,mikm1235,mes-,MK:F-S,,,,,,big,big,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+435,Inglis,SI1986a,0128,mic,,mikm1235,mes-,MK:F-S,,,,,,whole,whole,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 436,Inglis,SI1986a,0128,mic,,mikm1235,mesqana-,MK:F-S,,,,,,collapse of body,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-437,Inglis,SI1986a,0128,mic,,mikm1235,metew-,MK:F-S,,,,,,heard,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-438,Inglis,SI1986a,0128,mic,,mikm1235,metu-,MK:F-S,,,,,,"bad, unpleasant",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-439,Inglis,SI1986a,0128,mic,,mikm1235,mi'kmaw-,MK:F-S,,,,,,Micmac,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+437,Inglis,SI1986a,0128,mic,,mikm1235,metew-,MK:F-S,,,,,,heard,hear,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+438,Inglis,SI1986a,0128,mic,,mikm1235,metu-,MK:F-S,,,,,,"bad, unpleasant","bad, unpleasant",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+439,Inglis,SI1986a,0128,mic,,mikm1235,mi'kmaw-,MK:F-S,,,,,,Micmac,Micmac,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 440,Inglis,SI1986a,0128,mic,,mikm1235,mil-,MK:F-S,,,,,,"variety, many kinds",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 441,Inglis,SI1986a,0128,mic,,mikm1235,minu-,MK:F-S,,,,,,"to do… again, re-, again",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-442,Inglis,SI1986a,0128,mic,,mikm1235,mɨlakeju-,MK:F-S,,,,,,milk,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-443,Inglis,SI1986a,0128,mic,,mikm1235,mui'n-,MK:F-S,,,,,,bear,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-444,Inglis,SI1986a,0128,mic,,mikm1235,musik-,MK:F-S,,,,,,"remove, bare",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-445,Inglis,SI1986a,0128,mic,,mikm1235,naj-,MK:F-S,,,,,,"start, set out",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-446,Inglis,SI1986a,0128,mic,,mikm1235,nan-,MK:F-S,,,,,,five,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-447,Inglis,SI1986a,0129,mic,,mikm1235,nanam-,MK:F-S,,,,,,"rock, swing",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"typo on p. 129 - says ""sing"" but cf. p. 184","Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-448,Inglis,SI1986a,0129,mic,,mikm1235,nap-,MK:F-S,,,,,,draw,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-449,Inglis,SI1986a,0129,mic,,mikm1235,naqan-,MK:F-S,,,,,,restrain,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-450,Inglis,SI1986a,0129,mic,,mikm1235,naqsi-,MK:F-S,,,,,,easily,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-451,Inglis,SI1986a,0129,mic,,mikm1235,nas-,MK:F-S,,,,,,"put on, fasten",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-452,Inglis,SI1986a,0129,mic,,mikm1235,naskw-,MK:F-S,,,,,,divide in half,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-453,Inglis,SI1986a,0129,mic,,mikm1235,nasqasu-,MK:F-S,,,,,,put on ,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-454,McCulloch,GM2013b,"0035,0039",mic,,mikm1235,nata-,MK:1,,,,,,"can, know how",,initial
+442,Inglis,SI1986a,0128,mic,,mikm1235,mɨlakeju-,MK:F-S,,,,,,milk,milk,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+443,Inglis,SI1986a,0128,mic,,mikm1235,mui'n-,MK:F-S,,,,,,bear,bear,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+444,Inglis,SI1986a,0128,mic,,mikm1235,musik-,MK:F-S,,,,,,"remove, bare","remove, bare",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+445,Inglis,SI1986a,0128,mic,,mikm1235,naj-,MK:F-S,,,,,,"start, set out","start, set out",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+446,Inglis,SI1986a,0128,mic,,mikm1235,nan-,MK:F-S,,,,,,five,five,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+447,Inglis,SI1986a,0129,mic,,mikm1235,nanam-,MK:F-S,,,,,,"rock, swing","rock (V), swing",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"typo on p. 129 - says ""sing"" but cf. p. 184","Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+448,Inglis,SI1986a,0129,mic,,mikm1235,nap-,MK:F-S,,,,,,draw,draw,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+449,Inglis,SI1986a,0129,mic,,mikm1235,naqan-,MK:F-S,,,,,,restrain,restrain,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+450,Inglis,SI1986a,0129,mic,,mikm1235,naqsi-,MK:F-S,,,,,,easily,easily,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+451,Inglis,SI1986a,0129,mic,,mikm1235,nas-,MK:F-S,,,,,,"put on, fasten","put on, fasten",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+452,Inglis,SI1986a,0129,mic,,mikm1235,naskw-,MK:F-S,,,,,,divide in half,"divide, half",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+453,Inglis,SI1986a,0129,mic,,mikm1235,nasqasu-,MK:F-S,,,,,,put on ,put on,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+454,McCulloch,GM2013b,"0035,0039",mic,,mikm1235,nata-,MK:1,,,,,,"can, know how",can,initial
 455,Inglis,SI1986a,0129,mic,,mikm1235,nataw-,MK:F-S,,,,,,know how,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 456,Inglis,SI1986a,0129,mic,,mikm1235,natq-,MK:F-S,,,,,,remove from water,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-457,Inglis,SI1986a,0129,mic,,mikm1235,ne'ia-,MK:F-S,,,,,,"call upon, visit",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-458,Inglis,SI1986a,0129,mic,,mikm1235,nekw-,MK:F-S,,,,,,"under, bottom",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-459,McCulloch,GM2013b,0020,mic,,mikm1235,nem-,MK:1,,,,,,see,,initial
-460,Inglis,SI1986a,0129,mic,,mikm1235,nesp-,MK:F-S,,,,,,other,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-461,Inglis,SI1986a,0129,mic,,mikm1235,nest-,MK:F-S,,,,,,understand,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-462,Inglis,SI1986a,0129,mic,,mikm1235,netaq-,MK:F-S,,,,,,"shy, bashful",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-463,Inglis,SI1986a,0129,mic,,mikm1235,newt-,MK:F-S,,,,,,one,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-464,McCulloch,GM2013b,0035,mic,,mikm1235,newti-,MK:1,,,,,,"one, alone",,initial
-465,Inglis,SI1986a,0129,mic,,mikm1235,nikan-,MK:F-S,,,,,,ahead,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-466,Inglis,SI1986a,0129,mic,,mikm1235,nis-,MK:F-S,,,,,,down,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-467,Inglis,SI1986a,0129,mic,,mikm1235,niwe-,MK:F-S,,,,,,dry out,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-468,Inglis,SI1986a,0129,mic,,mikm1235,nukw-,MK:F-S,,,,,,soft,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-469,Inglis,SI1986a,0129,mic,,mikm1235,nut-,MK:F-S,,,,,,skilled in …,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-470,Inglis,SI1986a,0129,mic,,mikm1235,nutkw-,MK:F-S,,,,,,insufficient,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-471,Inglis,SI1986a,0129,mic,,mikm1235,o'pl-,MK:F-S,,,,,,wrong,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-472,Inglis,SI1986a,0129,mic,,mikm1235,pajit-,MK:F-S,,,,,,extremely,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-473,Inglis,SI1986a,0129,mic,,mikm1235,pan-,MK:F-S,,,,,,open,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+457,Inglis,SI1986a,0129,mic,,mikm1235,ne'ia-,MK:F-S,,,,,,"call upon, visit",visit,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+458,Inglis,SI1986a,0129,mic,,mikm1235,nekw-,MK:F-S,,,,,,"under, bottom","under, bottom",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+459,McCulloch,GM2013b,0020,mic,,mikm1235,nem-,MK:1,,,,,,see,see,initial
+460,Inglis,SI1986a,0129,mic,,mikm1235,nesp-,MK:F-S,,,,,,other,other,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+461,Inglis,SI1986a,0129,mic,,mikm1235,nest-,MK:F-S,,,,,,understand,understand,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+462,Inglis,SI1986a,0129,mic,,mikm1235,netaq-,MK:F-S,,,,,,"shy, bashful","shy, bashful",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+463,Inglis,SI1986a,0129,mic,,mikm1235,newt-,MK:F-S,,,,,,one,one,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+464,McCulloch,GM2013b,0035,mic,,mikm1235,newti-,MK:1,,,,,,"one, alone","one, alone",initial
+465,Inglis,SI1986a,0129,mic,,mikm1235,nikan-,MK:F-S,,,,,,ahead,ahead,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+466,Inglis,SI1986a,0129,mic,,mikm1235,nis-,MK:F-S,,,,,,down,down,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+467,Inglis,SI1986a,0129,mic,,mikm1235,niwe-,MK:F-S,,,,,,dry out,dry out,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+468,Inglis,SI1986a,0129,mic,,mikm1235,nukw-,MK:F-S,,,,,,soft,soft,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+469,Inglis,SI1986a,0129,mic,,mikm1235,nut-,MK:F-S,,,,,,skilled in …,skilled,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+470,Inglis,SI1986a,0129,mic,,mikm1235,nutkw-,MK:F-S,,,,,,insufficient,insufficient,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+471,Inglis,SI1986a,0129,mic,,mikm1235,o'pl-,MK:F-S,,,,,,wrong,wrong,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+472,Inglis,SI1986a,0129,mic,,mikm1235,pajit-,MK:F-S,,,,,,extremely,extremely,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+473,Inglis,SI1986a,0129,mic,,mikm1235,pan-,MK:F-S,,,,,,open,open,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 474,Inglis,SI1986a,0129,mic,,mikm1235,paqas-,MK:F-S,,,,,,enter the water,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-475,Inglis,SI1986a,0129,mic,,mikm1235,paqsipke-,MK:F-S,,,,,,burst,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-476,Inglis,SI1986a,0129,mic,,mikm1235,pas-,MK:F-S,,,,,,thick,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-477,Inglis,SI1986a,0129,mic,,mikm1235,paw-,MK:F-S,,,,,,slowly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-478,Inglis,SI1986a,0129,mic,,mikm1235,pekaj-,MK:F-S,,,,,,neatly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+475,Inglis,SI1986a,0129,mic,,mikm1235,paqsipke-,MK:F-S,,,,,,burst,burst,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+476,Inglis,SI1986a,0129,mic,,mikm1235,pas-,MK:F-S,,,,,,thick,thick,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+477,Inglis,SI1986a,0129,mic,,mikm1235,paw-,MK:F-S,,,,,,slowly,slowly,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+478,Inglis,SI1986a,0129,mic,,mikm1235,pekaj-,MK:F-S,,,,,,neatly,neat,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 479,Inglis,SI1986a,0129,mic,,mikm1235,pekit-,MK:F-S,,,,,,long in time,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-480,Inglis,SI1986a,0129,mic,,mikm1235,pelk-,MK:F-S,,,,,,peel,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-481,Inglis,SI1986a,0129,mic,,mikm1235,pem-,MK:F-S,,,,,,along,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-482,Inglis,SI1986a,0130,mic,,mikm1235,pepk-,MK:F-S,,,,,,thin,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-483,Inglis,SI1986a,0130,mic,,mikm1235,pes-,MK:F-S,,,,,,to skin,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-484,Inglis,SI1986a,0130,mic,,mikm1235,pesoq-,MK:F-S,,,,,,miss,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-485,Inglis,SI1986a,0130,mic,,mikm1235,pet-,MK:F-S,,,,,,accidently,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-486,Inglis,SI1986a,0130,mic,,mikm1235,pet-,MK:F-S,,,,,,hither,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-487,Inglis,SI1986a,0130,mic,,mikm1235,piptoq-,MK:F-S,,,,,,round,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-488,Inglis,SI1986a,0130,mic,,mikm1235,pit-,MK:F-S,,,,,,long,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-489,Inglis,SI1986a,0130,mic,,mikm1235,poqt-,MK:F-S,,,,,,start,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-490,Inglis,SI1986a,0130,mic,,mikm1235,pukw-,MK:F-S,,,,,,bushy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-491,Inglis,SI1986a,0130,mic,,mikm1235,pun-,MK:F-S,,,,,,stop,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-492,Inglis,SI1986a,0130,mic,,mikm1235,punt-,MK:F-S,,,,,,hex,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-493,Inglis,SI1986a,0130,mic,,mikm1235,putu-,MK:F-S,,,,,,blow,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+480,Inglis,SI1986a,0129,mic,,mikm1235,pelk-,MK:F-S,,,,,,peel,peel,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+481,Inglis,SI1986a,0129,mic,,mikm1235,pem-,MK:F-S,,,,,,along,along,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+482,Inglis,SI1986a,0130,mic,,mikm1235,pepk-,MK:F-S,,,,,,thin,thin,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+483,Inglis,SI1986a,0130,mic,,mikm1235,pes-,MK:F-S,,,,,,to skin,skin (V),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+484,Inglis,SI1986a,0130,mic,,mikm1235,pesoq-,MK:F-S,,,,,,miss,miss,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+485,Inglis,SI1986a,0130,mic,,mikm1235,pet-,MK:F-S,,,,,,accidently,accidentally,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+486,Inglis,SI1986a,0130,mic,,mikm1235,pet-,MK:F-S,,,,,,hither,hither,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+487,Inglis,SI1986a,0130,mic,,mikm1235,piptoq-,MK:F-S,,,,,,round,round,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+488,Inglis,SI1986a,0130,mic,,mikm1235,pit-,MK:F-S,,,,,,long,long,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+489,Inglis,SI1986a,0130,mic,,mikm1235,poqt-,MK:F-S,,,,,,start,start,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+490,Inglis,SI1986a,0130,mic,,mikm1235,pukw-,MK:F-S,,,,,,bushy,bushy,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+491,Inglis,SI1986a,0130,mic,,mikm1235,pun-,MK:F-S,,,,,,stop,stop,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+492,Inglis,SI1986a,0130,mic,,mikm1235,punt-,MK:F-S,,,,,,hex,hex,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+493,Inglis,SI1986a,0130,mic,,mikm1235,putu-,MK:F-S,,,,,,blow,blow,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 494,Inglis,SI1986a,0130,mic,,mikm1235,qalip-,MK:F-S,,,,,,shovel snow,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 495,Inglis,SI1986a,0130,mic,,mikm1235,qapsk-,MK:F-S,,,,,,fast water,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-496,Inglis,SI1986a,0130,mic,,mikm1235,sa'se'w-,MK:F-S,,,,,,"change, exchange",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-497,Inglis,SI1986a,0130,mic,,mikm1235,salaw-,MK:F-S,,,,,,salt,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-498,Inglis,SI1986a,0130,mic,,mikm1235,samqwan-,MK:F-S,,,,,,water,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-499,Inglis,SI1986a,0130,mic,,mikm1235,sankew-,MK:F-S,,,,,,slowly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-500,Inglis,SI1986a,0130,mic,,mikm1235,sap-,MK:F-S,,,,,,through,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-502,Inglis,SI1986a,0130,mic,,mikm1235,saqp-,MK:F-S,,,,,,wet,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-503,Inglis,SI1986a,0130,mic,,mikm1235,sasqa-,MK:F-S,,,,,,flat,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-504,Inglis,SI1986a,0130,mic,,mikm1235,se's-,MK:F-S,,,,,,spread,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+496,Inglis,SI1986a,0130,mic,,mikm1235,sa'se'w-,MK:F-S,,,,,,"change, exchange","change, exchange",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+497,Inglis,SI1986a,0130,mic,,mikm1235,salaw-,MK:F-S,,,,,,salt,salt,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+498,Inglis,SI1986a,0130,mic,,mikm1235,samqwan-,MK:F-S,,,,,,water,water,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+499,Inglis,SI1986a,0130,mic,,mikm1235,sankew-,MK:F-S,,,,,,slowly,slowly,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+500,Inglis,SI1986a,0130,mic,,mikm1235,sap-,MK:F-S,,,,,,through,through,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+502,Inglis,SI1986a,0130,mic,,mikm1235,saqp-,MK:F-S,,,,,,wet,wet,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+503,Inglis,SI1986a,0130,mic,,mikm1235,sasqa-,MK:F-S,,,,,,flat,flat,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+504,Inglis,SI1986a,0130,mic,,mikm1235,se's-,MK:F-S,,,,,,spread,spread,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 505,Inglis,SI1986a,0130,mic,,mikm1235,sepuse-,MK:F-S,,,,,,bring to a point,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-506,Inglis,SI1986a,0130,mic,,mikm1235,sespe-,MK:F-S,,,,,,"restless, fidgety",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+506,Inglis,SI1986a,0130,mic,,mikm1235,sespe-,MK:F-S,,,,,,"restless, fidgety","restless, fidgety",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 507,Inglis,SI1986a,0130,mic,,mikm1235,sewis-,MK:F-S,,,,,,"break, break up",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-508,McCulloch,GM2013b,0019,mic,,mikm1235,sewisg-,MK:1,,,,,,break,,initial
+508,McCulloch,GM2013b,0019,mic,,mikm1235,sewisg-,MK:1,,,,,,break,break,initial
 509,Inglis,SI1986a,0130,mic,,mikm1235,siaw-,MK:F-S,,,,,,"continuous, still, continue",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-510,Inglis,SI1986a,0130,mic,,mikm1235,sip-,MK:F-S,,,,,,stretch out,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-511,Inglis,SI1986a,0130,mic,,mikm1235,sisku-,MK:F-S,,,,,,mud,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-512,McCulloch,GM2013b,0021,mic,,mikm1235,siw-,MK:1,,,,,,tire,,initial
-513,Inglis,SI1986a,0130,mic,,mikm1235,soq-,MK:F-S,,,,,,chew,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-514,Inglis,SI1986a,0130,mic,,mikm1235,soq-,MK:F-S,,,,,,close,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-515,Inglis,SI1986a,0130,mic,,mikm1235,tajik-,MK:F-S,,,,,,healthy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-516,Inglis,SI1986a,0131,mic,,mikm1235,tal-,MK:F-S,,,,,,"what, how",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-518,Inglis,SI1986a,0131,mic,,mikm1235,tapu-,MK:F-S,,,,,,two,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-519,Inglis,SI1986a,0131,mic,,mikm1235,taqamoq-,MK:F-S,,,,,,across,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-521,Inglis,SI1986a,0131,mic,,mikm1235,tek-,MK:F-S,,,,,,cold,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-522,Inglis,SI1986a,0131,mic,,mikm1235,tekn-,MK:F-S,,,,,,sweat,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-523,Inglis,SI1986a,0131,mic,,mikm1235,tel-,MK:F-S,,,,,,thus,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-524,Inglis,SI1986a,0131,mic,,mikm1235,tem-,MK:F-S,,,,,,"sever, cut",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-526,Inglis,SI1986a,0131,mic,,mikm1235,tep-,MK:F-S,,,,,,enough,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-527,Inglis,SI1986a,0131,mic,,mikm1235,tep-,MK:F-S,,,,,,on board,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-528,McCulloch,GM2013b,"0006,0032",mic,,mikm1235,tep-,MK:1,,,,,,"is on, onto",,initial
-529,Inglis,SI1986a,0131,mic,,mikm1235,teplu-,MK:F-S,,,,,,promise,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-530,Inglis,SI1986a,0131,mic,,mikm1235,tetapu-,MK:F-S,,,,,,correct,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-531,Inglis,SI1986a,0131,mic,,mikm1235,tetpaq-,MK:F-S,,,,,,straight,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-532,Inglis,SI1986a,0131,mic,,mikm1235,tew-,MK:F-S,,,,,,out of,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-533,Inglis,SI1986a,0131,mic,,mikm1235,tia'mu-,MK:F-S,,,,,,moose,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-534,Inglis,SI1986a,0131,mic,,mikm1235,tmi'kn-,MK:F-S,,,,,,axe,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-535,Inglis,SI1986a,0131,mic,,mikm1235,tmoqta'w-,MK:F-S,,,,,,"beam, log",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-536,McCulloch,GM2013b,0035,mic,,mikm1235,toq-,MK:1,,,,,,two,,initial
-537,Inglis,SI1986a,0131,mic,,mikm1235,toqju-,MK:F-S,,,,,,up,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+510,Inglis,SI1986a,0130,mic,,mikm1235,sip-,MK:F-S,,,,,,stretch out,stretch out,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+511,Inglis,SI1986a,0130,mic,,mikm1235,sisku-,MK:F-S,,,,,,mud,mud,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+512,McCulloch,GM2013b,0021,mic,,mikm1235,siw-,MK:1,,,,,,tire,tire,initial
+513,Inglis,SI1986a,0130,mic,,mikm1235,soq-,MK:F-S,,,,,,chew,chew,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+514,Inglis,SI1986a,0130,mic,,mikm1235,soq-,MK:F-S,,,,,,close,close (A),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+515,Inglis,SI1986a,0130,mic,,mikm1235,tajik-,MK:F-S,,,,,,healthy,health,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+516,Inglis,SI1986a,0131,mic,,mikm1235,tal-,MK:F-S,,,,,,"what, how","what, how",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+518,Inglis,SI1986a,0131,mic,,mikm1235,tapu-,MK:F-S,,,,,,two,two,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+519,Inglis,SI1986a,0131,mic,,mikm1235,taqamoq-,MK:F-S,,,,,,across,across,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+521,Inglis,SI1986a,0131,mic,,mikm1235,tek-,MK:F-S,,,,,,cold,cold,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+522,Inglis,SI1986a,0131,mic,,mikm1235,tekn-,MK:F-S,,,,,,sweat,sweat,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+523,Inglis,SI1986a,0131,mic,,mikm1235,tel-,MK:F-S,,,,,,thus,thus,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+524,Inglis,SI1986a,0131,mic,,mikm1235,tem-,MK:F-S,,,,,,"sever, cut","sever, cut",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+526,Inglis,SI1986a,0131,mic,,mikm1235,tep-,MK:F-S,,,,,,enough,enough,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+527,Inglis,SI1986a,0131,mic,,mikm1235,tep-,MK:F-S,,,,,,on board,on board,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+528,McCulloch,GM2013b,"0006,0032",mic,,mikm1235,tep-,MK:1,,,,,,"is on, onto","on, onto",initial
+529,Inglis,SI1986a,0131,mic,,mikm1235,teplu-,MK:F-S,,,,,,promise,promise,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+530,Inglis,SI1986a,0131,mic,,mikm1235,tetapu-,MK:F-S,,,,,,correct,correct,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+531,Inglis,SI1986a,0131,mic,,mikm1235,tetpaq-,MK:F-S,,,,,,straight,straight,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+532,Inglis,SI1986a,0131,mic,,mikm1235,tew-,MK:F-S,,,,,,out of,out of,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+533,Inglis,SI1986a,0131,mic,,mikm1235,tia'mu-,MK:F-S,,,,,,moose,moose,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+534,Inglis,SI1986a,0131,mic,,mikm1235,tmi'kn-,MK:F-S,,,,,,axe,axe,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+535,Inglis,SI1986a,0131,mic,,mikm1235,tmoqta'w-,MK:F-S,,,,,,"beam, log","beam, log",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+536,McCulloch,GM2013b,0035,mic,,mikm1235,toq-,MK:1,,,,,,two,two,initial
+537,Inglis,SI1986a,0131,mic,,mikm1235,toqju-,MK:F-S,,,,,,up,up,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 538,McCulloch,GM2013b,0010,mic,,mikm1235,tugw,MK:1,,,,,,run,,medial
-539,Inglis,SI1986a,0131,mic,,mikm1235,tukw-,MK:F-S,,,,,,wait,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+539,Inglis,SI1986a,0131,mic,,mikm1235,tukw-,MK:F-S,,,,,,wait,wait,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 540,Inglis,SI1986a,0131,mic,,mikm1235,upm,MK:F-S,,,,,,side of body,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-541,Inglis,SI1986a,0131,mic,,mikm1235,wa'w-,MK:F-S,,,,,,egg,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-542,Inglis,SI1986a,0131,mic,,mikm1235,wai-,MK:F-S,,,,,,bead,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-543,Inglis,SI1986a,0131,mic,,mikm1235,waju'-,MK:F-S,,,,,,full,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-544,Inglis,SI1986a,0131,mic,,mikm1235,walqw-,MK:F-S,,,,,,hollow,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-545,Inglis,SI1986a,0131,mic,,mikm1235,waltes-,MK:F-S,,,,,,waltes game,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Waltes, also called woltestakun or altestakun is a kind of dice game thought to be of pre-Columbian origin..."" https://www.cbu.ca/indigenous-affairs/mikmaq-resource-centre/miscellany/the-game-of-waltes/","Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-546,Inglis,SI1986a,0131,mic,,mikm1235,wantaq-,MK:F-S,,,,,,quiet,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-547,Inglis,SI1986a,0131,mic,,mikm1235,wap-,MK:F-S,,,,,,white,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-548,Inglis,SI1986a,0131,mic,,mikm1235,wapn-,MK:F-S,,,,,,dawn,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-549,Inglis,SI1986a,0131,mic,,mikm1235,waq-,MK:F-S,,,,,,"bend, crooked",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-550,Inglis,SI1986a,0131,mic,,mikm1235,waqam-,MK:F-S,,,,,,clean,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-553,Inglis,SI1986a,0131,mic,,mikm1235,wasoq-,MK:F-S,,,,,,"clear, bright",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+541,Inglis,SI1986a,0131,mic,,mikm1235,wa'w-,MK:F-S,,,,,,egg,egg,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+542,Inglis,SI1986a,0131,mic,,mikm1235,wai-,MK:F-S,,,,,,bead,bead,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+543,Inglis,SI1986a,0131,mic,,mikm1235,waju'-,MK:F-S,,,,,,full,full,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+544,Inglis,SI1986a,0131,mic,,mikm1235,walqw-,MK:F-S,,,,,,hollow,hollow,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+545,Inglis,SI1986a,0131,mic,,mikm1235,waltes-,MK:F-S,,,,,,waltes game,waltes,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Waltes, also called woltestakun or altestakun is a kind of dice game thought to be of pre-Columbian origin..."" https://www.cbu.ca/indigenous-affairs/mikmaq-resource-centre/miscellany/the-game-of-waltes/","Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+546,Inglis,SI1986a,0131,mic,,mikm1235,wantaq-,MK:F-S,,,,,,quiet,quiet,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+547,Inglis,SI1986a,0131,mic,,mikm1235,wap-,MK:F-S,,,,,,white,white,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+548,Inglis,SI1986a,0131,mic,,mikm1235,wapn-,MK:F-S,,,,,,dawn,dawn,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+549,Inglis,SI1986a,0131,mic,,mikm1235,waq-,MK:F-S,,,,,,"bend, crooked","bend, crooked",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+550,Inglis,SI1986a,0131,mic,,mikm1235,waqam-,MK:F-S,,,,,,clean,clean,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+553,Inglis,SI1986a,0131,mic,,mikm1235,wasoq-,MK:F-S,,,,,,"clear, bright","clear, bright",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 554,Inglis,SI1986a,0132,mic,,mikm1235,wejk(w)-,MK:F-S,,,,,,to here,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(see: from there),"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-555,Inglis,SI1986a,0132,mic,,mikm1235,wel-,MK:F-S,,,,,,"well, good",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-557,Inglis,SI1986a,0132,mic,,mikm1235,wenaq-,MK:F-S,,,,,,rise,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-558,McCulloch,GM2013b,"0006,0032",mic,,mikm1235,wenju-,MK:1,,,,,,French,,initial
-559,Inglis,SI1986a,0132,mic,,mikm1235,wesam-,MK:F-S,,,,,,excess,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-560,Inglis,SI1986a,0132,mic,,mikm1235,wesk-,MK:F-S,,,,,,fish,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-561,Inglis,SI1986a,0132,mic,,mikm1235,weskew-,MK:F-S,,,,,,laugh,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+555,Inglis,SI1986a,0132,mic,,mikm1235,wel-,MK:F-S,,,,,,"well, good","well, good",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+557,Inglis,SI1986a,0132,mic,,mikm1235,wenaq-,MK:F-S,,,,,,rise,rise,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+558,McCulloch,GM2013b,"0006,0032",mic,,mikm1235,wenju-,MK:1,,,,,,French,French,initial
+559,Inglis,SI1986a,0132,mic,,mikm1235,wesam-,MK:F-S,,,,,,excess,excess,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+560,Inglis,SI1986a,0132,mic,,mikm1235,wesk-,MK:F-S,,,,,,fish,fish,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+561,Inglis,SI1986a,0132,mic,,mikm1235,weskew-,MK:F-S,,,,,,laugh,laugh,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 562,Inglis,SI1986a,0132,mic,,mikm1235,weskit-,MK:F-S,,,,,,top layer,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 563,Inglis,SI1986a,0132,mic,,mikm1235,wesue-,MK:F-S,,,,,,movement inward,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
 564,Inglis,SI1986a,0132,mic,,mikm1235,wet-,MK:F-S,,,,,,from there (see: to here),,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-565,Inglis,SI1986a,0132,mic,,mikm1235,win-,MK:F-S,,,,,,"messy, dirty",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
-566,McCulloch,GM2013b,"0021,0025,0034,0035",mic,,mikm1235,wissugw-,MK:1,,,,,,cook,,initial
+565,Inglis,SI1986a,0132,mic,,mikm1235,win-,MK:F-S,,,,,,"messy, dirty","messy, dirty",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Howard Jeddore, Bernie Francis, Peter Marshall, Nancy Sylliboy, Barbara MacDonald",MAM
+566,McCulloch,GM2013b,"0021,0025,0034,0035",mic,,mikm1235,wissugw-,MK:1,,,,,,cook,cook,initial
