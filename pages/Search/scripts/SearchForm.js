@@ -2,14 +2,11 @@
 
 export default class SearchForm {
 
-  buttons = {}
-
-  fields = {}
-
   initialize() {
 
     this.caseSensitive = document.getElementById(`case-sensitive-box`)
     this.diacritics    = document.getElementById(`diacritics-box`)
+    this.form          = document.getElementById(`search-form`)
     this.language      = document.getElementById(`language-select`)
     this.regex         = document.getElementById(`regex-box`)
     this.reset         = document.getElementById(`reset-button`)
@@ -38,6 +35,8 @@ export default class SearchForm {
 
     this.caseSensitive.addEventListener(`input`, this.saveSettings.bind(this))
     this.diacritics.addEventListener(`input`, this.saveSettings.bind(this))
+    this.form.addEventListener(`input`, this.resetValidity.bind(this))
+    this.form.addEventListener(`submit`, this.validate.bind(this))
     this.language.addEventListener(`input`, this.saveSettings.bind(this))
     this.regex.addEventListener(`input`, this.saveSettings.bind(this))
     this.reset.addEventListener(`click`, this.resetForm.bind(this))
@@ -59,11 +58,31 @@ export default class SearchForm {
 
   }
 
+  resetValidity() {
+    this.search.setCustomValidity(``)
+  }
+
   saveSettings() {
     localStorage.setItem(`caseSensitive`, this.caseSensitive.checked)
     localStorage.setItem(`diacritics`, this.diacritics.checked)
     localStorage.setItem(`language`, this.language.value)
     localStorage.setItem(`regex`, this.regex.checked)
+  }
+
+  validate(ev) {
+
+    const q = this.search.value
+
+    if (!(q && this.regex.checked)) return
+
+    try {
+      new RegExp(q, `v`)
+    } catch (e) {
+      ev.preventDefault()
+      this.search.setCustomValidity(e.message)
+      this.search.reportValidity()
+    }
+
   }
 
 }

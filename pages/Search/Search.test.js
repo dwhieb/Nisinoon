@@ -66,7 +66,7 @@ describe(`Search`, function() {
       cy.get(`#regex-box`).check()
       cy.get(`#search-box`).type(`e{{}2}`) // This is how you escape the `{` character in the `.type()` command.
       cy.get(`form`).submit()
-      cy.get(`.num-results`).should(`include.text`, `of 1,772`)
+      cy.get(`.num-results`).should(`include.text`, `of 1,962`)
     })
 
     it(`Form (Project)`, function() {
@@ -109,7 +109,7 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
-    it(`Definitions (Source)`, function() {
+    it(`Glosses (Source)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`motorisé`)
       cy.get(`form`).submit()
@@ -177,10 +177,10 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`form`).submit()
       cy.contains(`.pagination li`, `2`).click()
-      // NB: The 101st result in the database is currently Arapaho "-nooθ-".
+      // NB: The 101st result in the database is currently Arapaho "-oʔooʔoe-".
       cy.get(`#results td`).first().should(`have.text`, `Arapaho`)
       .next()
-      .should(`have.text`, `-nooθ-`)
+      .should(`have.text`, `-oʔooʔoe-`)
     })
 
   })
@@ -211,7 +211,7 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).last().should(`have.attr`, `id`, `Cree_Innu-70`)
       cy.contains(`button`, `Form`).click()
       cy.get(`#results tbody tr`).first().should(`have.attr`, `id`, `Cree_Innu-70`)
-      cy.get(`#results tbody tr`).last().should(`have.attr`, `id`, `Meskwaki-383`)
+      cy.get(`#results tbody tr`).last().should(`have.attr`, `id`, `Arapaho-607`)
     })
 
     // Wait to test this until Advanced Search is implemented.
