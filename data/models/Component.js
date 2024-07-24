@@ -79,6 +79,9 @@ export default class Component {
     // ISO 639-3
     if (ISO) this.ISO = ISO
 
+    // Language
+    this.language = language
+
     // Matches
     this.matches = new Matches({
       AI: orthographies.transliterate(orthography, matchAI),
