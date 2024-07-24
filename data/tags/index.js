@@ -43,8 +43,9 @@ async function loadTags() {
   const map = new Map
 
   for (const { definition, rawTags } of records) {
-    const tags = rawTags.split(`\n`).map(tag => tag.trim())
-    map.set(definition, tags)
+    if (!rawTags) continue
+    const tags = rawTags.split(`\n`).map(tag => tag.trim()).filter(Boolean)
+    if (tags.length) map.set(definition, tags)
   }
 
   return map
@@ -58,38 +59,52 @@ async function updateSpreadsheet(lang) {
   const spreadsheets = await drive.getFilesOrFolders(query)
   const spreadsheet  = spreadsheets.find(sheet => sheet.name === lang)
 
-  const { data: { range } } = await drive.sheetsClient.spreadsheets.values.get({
+  const { data } = await drive.sheetsClient.spreadsheets.values.get({
     range:         `Components`,
     spreadsheetId: spreadsheet.id,
+
   })
 
-  const { data: originalCSV } = await drive.driveClient.files.export({
-    fileId:   spreadsheet.id,
-    mimeType: `text/csv`,
-  })
+  const originalRows    = data.values
+  const numOriginalRows = originalRows.length
+  const headings        = originalRows.shift()
+  const { range }       = data
 
-  const records = parseCSV(originalCSV, Components.csvOptions)
+  const records = originalRows.map(row => {
+    const record = {}
+    row.forEach((cell, i) => {
+      record[headings[i]] = cell
+    })
+    return record
+  })
 
   const cols        = Components.columns
-  const headings    = Object.keys(records[0])
   const tagsMap     = await loadTags()
   const updatedRows = [headings]
 
   for (const record of records) {
 
     const gloss = record[cols.gloss].trim()
-    if (!gloss) continue
+    const type  = record[cols.type]
+    const tags  = tagsMap.get(gloss)
 
-    const type = record[cols.type]
-    if (type !== `initial`) continue
-
-    const tags = tagsMap.get(gloss)
-    if (!tags) continue
-
-    record[cols.definition] = tags.join(`, `)
+    if (gloss && tags && type === `initial`) {
+      record[cols.definition] = tags.join(`, `)
+    }
 
     updatedRows.push(Object.values(record))
 
+  }
+
+  const numUpdatedRows = updatedRows.length
+
+  if (numOriginalRows !== numUpdatedRows) {
+    console.warn(`The number of updated records does not match the original number of records.`)
+    console.table({
+      numOriginalRows,
+      numUpdatedRows,
+    })
+    return
   }
 
   const valueInputOption = `RAW`
@@ -145,7 +160,7 @@ async function updateAllSpreadsheets() {
 
 }
 
-export default {
+export {
   fetchTagsData,
   updateAllSpreadsheets,
   updateSpreadsheet,
