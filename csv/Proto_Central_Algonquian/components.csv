@@ -140,7 +140,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 139,Bloomfield,LB1927b,0395,,,,*-w-,PCA:1,,,,,,agentive,,final
 140,Bloomfield,LB1927b,0398,,,,*-w-,PCA:1,,,,,,NG,,final,N
 141,Bloomfield,LB1925b,0140,,,,*-wäwä-,PCA:1,,,,,,noise,,medial
-142,Haas,MH1958b,0252,,,,*-we·-,PCA:2,,,,,,sound,,initial,V
+142,Haas,MH1958b,0252,,,,*-we·-,PCA:2,,,,,,sound,sound,initial,V
 143,Bloomfield,LB1925b,0135,,,,*-wikä-,PCA:1,,,,,,dwell,,medial
 144,Bloomfield,LB1925b,0134,,,,*-wikamik-,PCA:1,,,,,,house,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""non-initial element"""
 145,Bloomfield,LB1925b,0135,,,,*-wikān-,PCA:1,,,,,,dwelling ,,medial
@@ -148,169 +148,169 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 147,Bloomfield,LB1925b,0139,,,,*-yā-,PCA:1,,,,,,NG,,final,II
 148,Bloomfield,LB1925b,0144,,,,*-yā-,PCA:1,,,,,,go,,final,AI
 149,Bloomfield,LB1927b,0400,,,,*-ʔcip-,PCA:1,,,,,,duck,,medial
-150,Haas,MH1958b,0244,,,,*-ʔθ-,PCA:2,,,,,,older brother,,initial
+150,Haas,MH1958b,0244,,,,*-ʔθ-,PCA:2,,,,,,older brother,older brother,initial
 151,Haas,MH1958c,0166,,,,*-θak-,PCA:2,,,,,,penis,,medial
 152,Bloomfield,LB1925b,0145,,,,*-θcentcyä-,PCA:1,,,,,,"hand, finger",,medial
 153,Bloomfield,LB1925b,0141,,,,*-θe'ciwä-,PCA:1,,,,,,testicles ,,medial
 154,Haas,MH1958c,"0161,0164",,,,*-θen(cye·)-,PCA:2,,,,,,arm(finger),,medial
 155,Haas,MH1958c,0167,,,,*a·htekw-,PCA:2,,,,,,"tree, stick",,medial
-156,Haas,MH1958b,0248,,,,*a·p-,PCA:2,,,,,,look,,initial
+156,Haas,MH1958b,0248,,,,*a·p-,PCA:2,,,,,,look,look,initial
 157,Haas,MH1958a,0243,,,,*a·pye·k-,PCA:2,,,,,,"string, row",,medial
-158,Bloomfield,LB1925b,0151,,,,*ack-,PCA:1,,,,,,"raw, fresh",,initial
-159,Bloomfield,LB1925b,0140,,,,*acyä-,PCA:1,,,,,,backwards ,,initial
+158,Bloomfield,LB1925b,0151,,,,*ack-,PCA:1,,,,,,"raw, fresh","raw, fresh",initial
+159,Bloomfield,LB1925b,0140,,,,*acyä-,PCA:1,,,,,,backwards ,backward,initial
 160,Bloomfield,LB1925b,0139,,,,"*akwā-, *akwa·-",PCA:1,,,,,,from water,,initial
 161,Haas,MH1958b,0246,,,,*ame·kw-,PCA:2,,,,,,fish,,medial
 162,Bloomfield,LB1925b,0151,,,,*atōt-,PCA:1,,,,,,on top of something ,,initial
-163,Bloomfield,LB1927b,0397,,,,*awaθ-,PCA:1,,,,,,take animate object away,,initial
+163,Bloomfield,LB1927b,0397,,,,*awaθ-,PCA:1,,,,,,take animate object away,take away,initial
 164,Bloomfield,LB1925b,0136,,,,*axky-,PCA:1,,,,,,land,,initial
 165,Bloomfield,LB1925b,0150,,,,*axp-,PCA:1,,,,,,"on things, lean",,initial
 166,Bloomfield,LB1927b,0397,,,,*aʔθemw-,PCA:1,,,,,,dog,,final
-167,Bloomfield,LB1927b,0397,,,,*aθemw-,PCA:1,,,,,,dog,,initial
-168,Bloomfield,LB1925b,0151,,,,*cōw-,PCA:1,,,,,,extend,,initial
+167,Bloomfield,LB1927b,0397,,,,*aθemw-,PCA:1,,,,,,dog,dog,initial
+168,Bloomfield,LB1925b,0151,,,,*cōw-,PCA:1,,,,,,extend,extend,initial
 169,Haas,MH1958b,0252,,,,*e·le-,PCA:2,,,,,,think,,final
-170,Haas,MH1958c,0161,,,,*ehkw-,PCA:2,,,,,,louse,,initial
-171,Bloomfield,LB1925b,0133,,,,*eθ-,PCA:1,,,,,,"thither, thus",,initial,RR
-172,Bloomfield,LB1925b,0136,,,,*icp-,PCA:1,,,,,,high,,initial
-173,Bloomfield,LB1927b,0395,,,,*ileni-,PCA:1,,,,,,man,,initial,,,,,,,,*-elaw-
-174,Bloomfield,LB1927b,0395,,,,*iθ-,PCA:1,,,,,,"thus, thither",,initial,RR
-175,Haas,MH1958b,0245,,,,*ka·sk-,PCA:2,,,,,,dry,,initial
-176,Haas,MH1958a,0243,,,,*ka·šk-,PCA:2,,,,,,scrape,,initial
+170,Haas,MH1958c,0161,,,,*ehkw-,PCA:2,,,,,,louse,louse,initial
+171,Bloomfield,LB1925b,0133,,,,*eθ-,PCA:1,,,,,,"thither, thus","thither, thus",initial,RR
+172,Bloomfield,LB1925b,0136,,,,*icp-,PCA:1,,,,,,high,high,initial
+173,Bloomfield,LB1927b,0395,,,,*ileni-,PCA:1,,,,,,man,"man, male",initial,,,,,,,,*-elaw-
+174,Bloomfield,LB1927b,0395,,,,*iθ-,PCA:1,,,,,,"thus, thither","thus, thither",initial,RR
+175,Haas,MH1958b,0245,,,,*ka·sk-,PCA:2,,,,,,dry,dry,initial
+176,Haas,MH1958a,0243,,,,*ka·šk-,PCA:2,,,,,,scrape,scrape,initial
 177,Haas,MH1958b,0248,,,,*ka·t-,PCA:2,,,,,,"leg, foot",,medial
-178,Haas,MH1958a,0243,,,,*ka·w-,PCA:2,,,,,,prickly,,initial
-179,Haas,MH1958a,0243,,,,*kaHk-,PCA:2,,,,,,sharp,,initial
-180,Haas,MH1958b,0244,,,,*kap-,PCA:2,,,,,,"dip, out of liquid",,initial
-181,Bloomfield,LB1925b,0137,,,,*kaw-,PCA:1,,,,,,fall over,,initial
-182,Haas,MH1958b,0243,,,,*kaθk-,PCA:2,,,,,,black,,initial
-183,Haas,MH1958b,0252,,,,*kaθo·-,PCA:2,,,,,,talk,,initial
-184,Bloomfield,LB1925b,0135,,,,*ke't-,PCA:1,,,,,,big,,initial
-185,Bloomfield,LB1925b,0135,,,,*kēc-,PCA:1,,,,,,finish,,initial
-186,Bloomfield,LB1925b,0132,,,,*kēck-,PCA:1,,,,,,sever,,initial
+178,Haas,MH1958a,0243,,,,*ka·w-,PCA:2,,,,,,prickly,prick,initial
+179,Haas,MH1958a,0243,,,,*kaHk-,PCA:2,,,,,,sharp,sharp,initial
+180,Haas,MH1958b,0244,,,,*kap-,PCA:2,,,,,,"dip, out of liquid",dip,initial
+181,Bloomfield,LB1925b,0137,,,,*kaw-,PCA:1,,,,,,fall over,fall over,initial
+182,Haas,MH1958b,0243,,,,*kaθk-,PCA:2,,,,,,black,black,initial
+183,Haas,MH1958b,0252,,,,*kaθo·-,PCA:2,,,,,,talk,talk,initial
+184,Bloomfield,LB1925b,0135,,,,*ke't-,PCA:1,,,,,,big,big,initial
+185,Bloomfield,LB1925b,0135,,,,*kēc-,PCA:1,,,,,,finish,finish,initial
+186,Bloomfield,LB1925b,0132,,,,*kēck-,PCA:1,,,,,,sever,sever,initial
 187,Bloomfield,LB1925b,0146,,,,*kek-,PCA:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'have' or related
 188,Bloomfield,LB1925b,0148,,,,*kekyäp-,PCA:1,,,,,,absence of a sense,,initial,,Y
-189,Haas,MH1958c,0170,,,,*keliw-,PCA:2,,,,,,hawk,,initial
-190,Haas,MH1958c,0161,,,,*kemot-,PCA:2,,,,,,to steal,,initial
-191,Haas,MH1958c,0167,,,,*kent-,PCA:2,,,,,,"soak, immerse",,initial
-192,Haas,MH1958a,0243,,,,*kenw-,PCA:2,,,,,,long,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: These might be preverbs?
-193,Haas,MH1958b,0244,,,,*kep-,PCA:2,,,,,,"closed, blocked",,initial
-194,Haas,MH1958c,"0167,0170",,,,*kesi·-,PCA:2,,,,,,"rub, wipe, wash",,initial
-195,Haas,MH1958c,0165,,,,*kešit-,PCA:2,,,,,,hot,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Extended root
-196,Haas,MH1958b,0247,,,,*kešy-,PCA:2,,,,,,"hot, heat",,initial
-197,Haas,MH1958b,0252,,,,*ketak-,PCA:2,,,,,,spotted,,initial
-198,Haas,MH1958a,0243,,,,*keʔt-,PCA:2,,,,,,"big, superlative",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: These might be preverbs?
-199,Haas,MH1958b,0252,,,,*keθo·-,PCA:2,,,,,,talk,,initial
-200,Haas,MH1958a,0243,,,,*ki·n-,PCA:2,,,,,,"grind, sharpen",,initial,,,,,,,,,,,,*ki·nt-,,,V,TI,"grind, sharpen",,MH1958a;0243,*ki·nl-,,,V,TA,"grind, sharpen",,MH1958a;0243,,,,,,p. 243: only exists in combination with finals *-t- or *-l-
-201,Haas,MH1958c,0165,,,,*ki·š-,PCA:2,,,,,,finish,,initial
-202,Haas,MH1958c,0164,,,,*ki·šehk-,PCA:2,,,,,,cedar,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Probably a stem?
-203,Haas,MH1958c,0164,,,,*ki·šek-,PCA:2,,,,,,"day, sky",,initial
-204,Haas,MH1958a,0243,,,,*ki·šk-,PCA:2,,,,,,"sever, cut through",,initial
-205,Haas,MH1958a,0242,,,,*ki·t-,PCA:2,,,,,,sore,,initial
-206,Haas,MH1958b,0252,,,,*ko·n-,PCA:2,,,,,,snow,,initial
-207,Haas,MH1958c,0165,,,,*kosekw-,PCA:2,,,,,,heavy,,initial
-208,Haas,MH1958a,0242,,,,*kot-,PCA:2,,,,,,try,,initial
-209,Haas,MH1958c,"0161,0166,0171",,,,*kot-,PCA:2,,,,,,one,,initial,NUM
-210,Haas,MH1958b,0253,,,,*kotekw-,PCA:2,,,,,,"turn, circle",,initial
-211,Haas,MH1958c,"0165,0171",,,,*koʔ-,PCA:2,,,,,,fear,,initial
+189,Haas,MH1958c,0170,,,,*keliw-,PCA:2,,,,,,hawk,hawk,initial
+190,Haas,MH1958c,0161,,,,*kemot-,PCA:2,,,,,,to steal,steal,initial
+191,Haas,MH1958c,0167,,,,*kent-,PCA:2,,,,,,"soak, immerse","soak, immerse",initial
+192,Haas,MH1958a,0243,,,,*kenw-,PCA:2,,,,,,long,long,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: These might be preverbs?
+193,Haas,MH1958b,0244,,,,*kep-,PCA:2,,,,,,"closed, blocked","closed, blocked",initial
+194,Haas,MH1958c,"0167,0170",,,,*kesi·-,PCA:2,,,,,,"rub, wipe, wash","rub, wipe, wash",initial
+195,Haas,MH1958c,0165,,,,*kešit-,PCA:2,,,,,,hot,hot,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Extended root
+196,Haas,MH1958b,0247,,,,*kešy-,PCA:2,,,,,,"hot, heat","hot, heat",initial
+197,Haas,MH1958b,0252,,,,*ketak-,PCA:2,,,,,,spotted,spotted,initial
+198,Haas,MH1958a,0243,,,,*keʔt-,PCA:2,,,,,,"big, superlative",big,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: These might be preverbs?
+199,Haas,MH1958b,0252,,,,*keθo·-,PCA:2,,,,,,talk,talk,initial
+200,Haas,MH1958a,0243,,,,*ki·n-,PCA:2,,,,,,"grind, sharpen","grind, sharpen",initial,,,,,,,,,,,,*ki·nt-,,,V,TI,"grind, sharpen",,MH1958a;0243,*ki·nl-,,,V,TA,"grind, sharpen",,MH1958a;0243,,,,,,p. 243: only exists in combination with finals *-t- or *-l-
+201,Haas,MH1958c,0165,,,,*ki·š-,PCA:2,,,,,,finish,finish,initial
+202,Haas,MH1958c,0164,,,,*ki·šehk-,PCA:2,,,,,,cedar,cedar,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Probably a stem?
+203,Haas,MH1958c,0164,,,,*ki·šek-,PCA:2,,,,,,"day, sky","day, sky",initial
+204,Haas,MH1958a,0243,,,,*ki·šk-,PCA:2,,,,,,"sever, cut through","sever, cut through",initial
+205,Haas,MH1958a,0242,,,,*ki·t-,PCA:2,,,,,,sore,sore,initial
+206,Haas,MH1958b,0252,,,,*ko·n-,PCA:2,,,,,,snow,snow,initial
+207,Haas,MH1958c,0165,,,,*kosekw-,PCA:2,,,,,,heavy,heavy,initial
+208,Haas,MH1958a,0242,,,,*kot-,PCA:2,,,,,,try,try,initial
+209,Haas,MH1958c,"0161,0166,0171",,,,*kot-,PCA:2,,,,,,one,one,initial,NUM
+210,Haas,MH1958b,0253,,,,*kotekw-,PCA:2,,,,,,"turn, circle","turn, circle (V)",initial
+211,Haas,MH1958c,"0165,0171",,,,*koʔ-,PCA:2,,,,,,fear,fear,initial
 212,Haas,MH1958c,0167,,,,*kwa·p-,PCA:2,,,,,,out of water,,initial
-213,Haas,MH1958b,0252,,,,*kwan-,PCA:2,,,,,,"swallow, throat",,initial
-214,Haas,MH1958a,0241,,,,*kwet-,PCA:2,,,,,,"one, other",,initial,NUM
-215,Haas,MH1958b,"0237,0253",,,,*kwetekw-,PCA:2,,,,,,turn,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: I think these might be stems
-216,Haas,MH1958a,0242,,,,*kweʔ-,PCA:2,,,,,,fear,,initial
-217,Haas,MH1958b,0253,,,,*kwi·škwihθ-,PCA:2,,,,,,whistle,,initial
-218,Haas,MH1958b,0247,,,,*kya·-,PCA:2,,,,,,"hide, conceal",,initial
-219,Haas,MH1958b,0244,,,,*le·-,PCA:2,,,,,,breathe,,initial
-220,Haas,MH1958b,0252,,,,*le·p-,PCA:2,,,,,,tapering at base,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 252 ""could be *θe·p-"""
-221,Haas,MH1958b,0251,,,,*lo·k-,PCA:2,,,,,,"skin, hide",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 251 ""could be *θo·k-"""
-222,Haas,MH1958b,0252,,,,*lo·p-,PCA:2,,,,,,swing,,initial,V
+213,Haas,MH1958b,0252,,,,*kwan-,PCA:2,,,,,,"swallow, throat","swallow (V), throat",initial
+214,Haas,MH1958a,0241,,,,*kwet-,PCA:2,,,,,,"one, other","one, other",initial,NUM
+215,Haas,MH1958b,"0237,0253",,,,*kwetekw-,PCA:2,,,,,,turn,turn,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: I think these might be stems
+216,Haas,MH1958a,0242,,,,*kweʔ-,PCA:2,,,,,,fear,fear,initial
+217,Haas,MH1958b,0253,,,,*kwi·škwihθ-,PCA:2,,,,,,whistle,whistle,initial
+218,Haas,MH1958b,0247,,,,*kya·-,PCA:2,,,,,,"hide, conceal","hide, conceal",initial
+219,Haas,MH1958b,0244,,,,*le·-,PCA:2,,,,,,breathe,breathe,initial
+220,Haas,MH1958b,0252,,,,*le·p-,PCA:2,,,,,,tapering at base,taper,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 252 ""could be *θe·p-"""
+221,Haas,MH1958b,0251,,,,*lo·k-,PCA:2,,,,,,"skin, hide","skin (N), hide",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 251 ""could be *θo·k-"""
+222,Haas,MH1958b,0252,,,,*lo·p-,PCA:2,,,,,,swing,swing,initial,V
 223,Haas,MH1958b,0246,,,,*mak-,PCA:2,,,,,,grease,,,,,,,,,,,,,,*nama·kw-,,,N,,grease (?),,MH1958b;0246,,,,,,,,,,,,,,GVM: (?) in stem A is from Haas p. 256
 224,Bloomfield,LB1925b,0136,,,,*makw-,PCA:1,,,,,,rounded lump on a surface,,initial
-225,Bloomfield,LB1925b,0143,,,,*māt-,PCA:1,,,,,,"start, move, begin",,initial
-226,Bloomfield,LB1925b,0139,,,,*me'tekw-,PCA:1,,,,,,wood,,initial
-227,Bloomfield,LB1925b,0139,,,,*meçkw-,PCA:1,,,,,,red,,initial
-228,Haas,MH1958c,0166,,,,*mehθ-,PCA:2,,,,,,firewood,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Unsure about this one, has an alternate form that looks odd too"
-229,Bloomfield,LB1927b,0397,,,,*melw-,PCA:1,,,,,,well,,initial
-230,Haas,MH1958c,0164,,,,*melwi-,PCA:2,,,,,,beautiful,,initial
-231,Haas,MH1958b,0251,,,,*meskw-,PCA:2,,,,,,"red, blood",,initial
-232,Haas,MH1958b,0242,,,,*meʔši-,PCA:2,,,,,,big,,initial
-233,Haas,MH1958b,"0237,0253",,,,*meʔtekw-,PCA:2,,,,,,tree,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: I think these might be stems
-234,Haas,MH1958b,0242,,,,*meʔθ-,PCA:2,,,,,,big,,initial
-235,Haas,MH1958b,0253,,,,*mi·ka·-,PCA:2,,,,,,"fight, war",,initial
-236,Haas,MH1958b,0244,,,,*mi·s-,PCA:2,,,,,,"defecate, stink",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Might be stems?
-237,Haas,MH1958b,0244,,,,*mi·t-,PCA:2,,,,,,"defecate, stink",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Might be stems?
-238,Haas,MH1958b,0246,,,,*mo·ški-,PCA:2,,,,,,fill,,initial
+225,Bloomfield,LB1925b,0143,,,,*māt-,PCA:1,,,,,,"start, move, begin","start, move, begin",initial
+226,Bloomfield,LB1925b,0139,,,,*me'tekw-,PCA:1,,,,,,wood,wood,initial
+227,Bloomfield,LB1925b,0139,,,,*meçkw-,PCA:1,,,,,,red,red,initial
+228,Haas,MH1958c,0166,,,,*mehθ-,PCA:2,,,,,,firewood,firewood,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Unsure about this one, has an alternate form that looks odd too"
+229,Bloomfield,LB1927b,0397,,,,*melw-,PCA:1,,,,,,well,well,initial
+230,Haas,MH1958c,0164,,,,*melwi-,PCA:2,,,,,,beautiful,beautiful,initial
+231,Haas,MH1958b,0251,,,,*meskw-,PCA:2,,,,,,"red, blood","red, blood",initial
+232,Haas,MH1958b,0242,,,,*meʔši-,PCA:2,,,,,,big,big,initial
+233,Haas,MH1958b,"0237,0253",,,,*meʔtekw-,PCA:2,,,,,,tree,tree,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: I think these might be stems
+234,Haas,MH1958b,0242,,,,*meʔθ-,PCA:2,,,,,,big,big,initial
+235,Haas,MH1958b,0253,,,,*mi·ka·-,PCA:2,,,,,,"fight, war","fight, war",initial
+236,Haas,MH1958b,0244,,,,*mi·s-,PCA:2,,,,,,"defecate, stink","defecate, stink",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Might be stems?
+237,Haas,MH1958b,0244,,,,*mi·t-,PCA:2,,,,,,"defecate, stink","defecate, stink",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Might be stems?
+238,Haas,MH1958b,0246,,,,*mo·ški-,PCA:2,,,,,,fill,fill,initial
 239,Haas,MH1958c,0165,,,,*mo·w-,PCA:2,,,,,,"excrement, soiled",,initial
-240,Bloomfield,LB1925b,0139,,,,*mōw-,PCA:1,,,,,,soil ,,initial
-241,Haas,MH1958b,0252,,,,*mya·-,PCA:2,,,,,,smell,,initial
+240,Bloomfield,LB1925b,0139,,,,*mōw-,PCA:1,,,,,,soil ,soil,initial
+241,Haas,MH1958b,0252,,,,*mya·-,PCA:2,,,,,,smell,smell,initial
 242,Bloomfield,LB1925b,0137,,,,*naky-,PCA:1,,,,,,meet,,initial
-243,Haas,MH1958b,"0237,0246",,,,*name·-,PCA:2,,,,,,fish,,initial,,,,,,,,,,,,*name·kw-,,,N,,fish,,MH1958b;0246,*name·w-,,,N,,sturgeon,,MH1958b;0246
-244,Bloomfield,LB1927b,0397,,,,*nataw-,PCA:1,,,,,,seek,,initial
+243,Haas,MH1958b,"0237,0246",,,,*name·-,PCA:2,,,,,,fish,fish,initial,,,,,,,,,,,,*name·kw-,,,N,,fish,,MH1958b;0246,*name·w-,,,N,,sturgeon,,MH1958b;0246
+244,Bloomfield,LB1927b,0397,,,,*nataw-,PCA:1,,,,,,seek,seek,initial
 245,Bloomfield,LB1925b,0137,,,,*naxkw-,PCA:1,,,,,,correspond,,initial
-246,Haas,MH1958b,"0237,0251",,,,*ne·w-,PCA:2,,,,,,see,,initial
-247,Haas,MH1958b,0251,,,,*neki-,PCA:2,,,,,,shake,,initial
-248,Haas,MH1958b,0237,,,,*nekwet-,PCA:2,,,,,,one,,initial
+246,Haas,MH1958b,"0237,0251",,,,*ne·w-,PCA:2,,,,,,see,see,initial
+247,Haas,MH1958b,0251,,,,*neki-,PCA:2,,,,,,shake,shake,initial
+248,Haas,MH1958b,0237,,,,*nekwet-,PCA:2,,,,,,one,one,initial
 249,Bloomfield,LB1925b,0136,,,,*nēm-i-,PCA:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,likely 'dance'.
 250,Bloomfield,LB1925b,0137,,,,*nenw-,PCA:1,,,,,,"recognize, know ",,initial
-251,Haas,MH1958b,0251,,,,*nepa·-,PCA:2,,,,,,sleep,,initial
-252,Haas,MH1958b,"0237,0244",,,,*nepe-,PCA:2,,,,,,die,,initial
-253,Haas,MH1958c,"0161,0167",,,,*neʔθ-,PCA:2,,,,,,three,,initial,NUM
-254,Haas,MH1958c,"0161,0167",,,,*ni·š-,PCA:2,,,,,,two,,initial,NUM
-255,Haas,MH1958a,0242,,,,*ni·šw-,PCA:2,,,,,,two,,initial
-256,Haas,MH1958c,0166,,,,*no·çkwa·-,PCA:2,,,,,,lick,,initial
-257,Haas,MH1958c,0166,,,,*no·cpina-,PCA:2,,,,,,pursue,,initial,,,,,,,,,,,,*no·cpina-tamwa,,,V,,he pursues it,,MH1958c;0166
-258,Haas,MH1958c,0161,,,,*no·n-,PCA:2,,,,,,to suckle,,initial
-259,Bloomfield,LB1925b,0137,,,,*nōntaw-,PCA:1,,,,,,hear,,initial
-260,Bloomfield,LB1925b,0148,,,,*nōtcp-,PCA:1,,,,,,"follow, pursue",,initial
-261,Haas,MH1958c,0165,,,,*nye·w-,PCA:2,,,,,,four,,initial,NUM
-262,Haas,MH1958b,0237,,,,*pa·θk-,PCA:2,,,,,,split,,initial
-263,Haas,MH1958b,"0237,0242",,,,*pak-,PCA:2,,,,,,beat,,initial
-264,Haas,MH1958b,0253,,,,*pat-,PCA:2,,,,,,wet,,initial
-265,Bloomfield,LB1925b,0148,,,,*pe't-,PCA:1,,,,,,accident ,,initial
-266,Haas,MH1958c,0167,,,,*pec-,PCA:2,,,,,,stink,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Marked with ""(?)"" in source"
-267,Haas,MH1958b,0245,,,,*pelaw-,PCA:2,,,,,,far,,initial
+251,Haas,MH1958b,0251,,,,*nepa·-,PCA:2,,,,,,sleep,sleep,initial
+252,Haas,MH1958b,"0237,0244",,,,*nepe-,PCA:2,,,,,,die,die,initial
+253,Haas,MH1958c,"0161,0167",,,,*neʔθ-,PCA:2,,,,,,three,three,initial,NUM
+254,Haas,MH1958c,"0161,0167",,,,*ni·š-,PCA:2,,,,,,two,two,initial,NUM
+255,Haas,MH1958a,0242,,,,*ni·šw-,PCA:2,,,,,,two,two,initial
+256,Haas,MH1958c,0166,,,,*no·çkwa·-,PCA:2,,,,,,lick,lick,initial
+257,Haas,MH1958c,0166,,,,*no·cpina-,PCA:2,,,,,,pursue,pursue,initial,,,,,,,,,,,,*no·cpina-tamwa,,,V,,he pursues it,,MH1958c;0166
+258,Haas,MH1958c,0161,,,,*no·n-,PCA:2,,,,,,to suckle,suckle,initial
+259,Bloomfield,LB1925b,0137,,,,*nōntaw-,PCA:1,,,,,,hear,hear,initial
+260,Bloomfield,LB1925b,0148,,,,*nōtcp-,PCA:1,,,,,,"follow, pursue","follow, pursue",initial
+261,Haas,MH1958c,0165,,,,*nye·w-,PCA:2,,,,,,four,four,initial,NUM
+262,Haas,MH1958b,0237,,,,*pa·θk-,PCA:2,,,,,,split,split,initial
+263,Haas,MH1958b,"0237,0242",,,,*pak-,PCA:2,,,,,,beat,beat,initial
+264,Haas,MH1958b,0253,,,,*pat-,PCA:2,,,,,,wet,wet,initial
+265,Bloomfield,LB1925b,0148,,,,*pe't-,PCA:1,,,,,,accident ,accident,initial
+266,Haas,MH1958c,0167,,,,*pec-,PCA:2,,,,,,stink,stink,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Marked with ""(?)"" in source"
+267,Haas,MH1958b,0245,,,,*pelaw-,PCA:2,,,,,,far,far,initial
 268,Bloomfield,LB1925b,"0132,0133",,,,*pem-,PCA:1,,,,,,continuous movement through space or time,,initial
-269,Haas,MH1958b,"0237,0251",,,,*pemw-,PCA:2,,,,,,shoot,,initial
-270,Bloomfield,LB1927b,0397,,,,*pēnt-,PCA:1,,,,,,inside,,initial
-271,Bloomfield,LB1925b,0135,,,,*pēnt-,PCA:1,,,,,,inside,,initial
-272,Haas,MH1958b,0243,,,,*peQk-,PCA:2,,,,,,bloom,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Q= C other than n, s, š"
-273,Haas,MH1958b,0253,,,,*peQš-,PCA:2,,,,,,touch,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Q= C other than n, s, š"
-274,Haas,MH1958b,0244,,,,*pet-,PCA:2,,,,,,cover,,initial
-275,Haas,MH1958b,0252,,,,*pet-,PCA:2,,,,,,stink,,initial
-276,Haas,MH1958b,0244,,,,*peθak-,PCA:2,,,,,,"cure, heal",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 244 ""(could be *pelak-"")"
-277,Bloomfield,LB1925b,0133,,,,*pōn-,PCA:1,,,,,,cease,,initial
-278,Bloomfield,LB1925b,0140,,,,*pōxkw-,PCA:1,,,,,,break,,initial
-279,Bloomfield,LB1927b,0394,,,,*py-,PCA:1,,,,,,hither,,initial,PART,,,,,,,,,,,*pyätaw-,,,V,TI,bring an inanimate object,Y,LB1927b;0394
-280,Bloomfield,LB1927b,"0393,0396",,,,*pyät-,PCA:1,,,,,,hither,,initial,RR
-281,Haas,MH1958b,0251,,,,*ša·k-,PCA:2,,,,,,"skin, stripped",,initial
-282,Haas,MH1958c,0164,,,,*ša·kw-,PCA:2,,,,,,break,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Marked with ""(?)"" in source"
-283,Haas,MH1958b,"0237,0253",,,,*ša·pw-,PCA:2,,,,,,through,,initial
-284,Bloomfield,LB1927b,0401,,,,*säk-,PCA:1,,,,,,fright,,initial
-285,Haas,MH1958b,0244,,,,*se·kw-,PCA:2,,,,,,"cry, weep",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 244: ""*se·kw- (or *si·kw- ?)"" Also, may be a stem?"
-286,Haas,MH1958c,0167,,,,*šeki-,PCA:2,,,,,,urinate,,initial
-287,Haas,MH1958c,0164,,,,*si·kw-,PCA:2,,,,,,"cry, weep",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Marked with ""(?)"" in source"
+269,Haas,MH1958b,"0237,0251",,,,*pemw-,PCA:2,,,,,,shoot,shoot,initial
+270,Bloomfield,LB1927b,0397,,,,*pēnt-,PCA:1,,,,,,inside,inside,initial
+271,Bloomfield,LB1925b,0135,,,,*pēnt-,PCA:1,,,,,,inside,inside,initial
+272,Haas,MH1958b,0243,,,,*peQk-,PCA:2,,,,,,bloom,bloom,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Q= C other than n, s, š"
+273,Haas,MH1958b,0253,,,,*peQš-,PCA:2,,,,,,touch,touch,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Q= C other than n, s, š"
+274,Haas,MH1958b,0244,,,,*pet-,PCA:2,,,,,,cover,cover,initial
+275,Haas,MH1958b,0252,,,,*pet-,PCA:2,,,,,,stink,stink,initial
+276,Haas,MH1958b,0244,,,,*peθak-,PCA:2,,,,,,"cure, heal","cure, heal",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 244 ""(could be *pelak-"")"
+277,Bloomfield,LB1925b,0133,,,,*pōn-,PCA:1,,,,,,cease,cease,initial
+278,Bloomfield,LB1925b,0140,,,,*pōxkw-,PCA:1,,,,,,break,break,initial
+279,Bloomfield,LB1927b,0394,,,,*py-,PCA:1,,,,,,hither,hither,initial,PART,,,,,,,,,,,*pyätaw-,,,V,TI,bring an inanimate object,Y,LB1927b;0394
+280,Bloomfield,LB1927b,"0393,0396",,,,*pyät-,PCA:1,,,,,,hither,hither,initial,RR
+281,Haas,MH1958b,0251,,,,*ša·k-,PCA:2,,,,,,"skin, stripped","skin, stripped",initial
+282,Haas,MH1958c,0164,,,,*ša·kw-,PCA:2,,,,,,break,break,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Marked with ""(?)"" in source"
+283,Haas,MH1958b,"0237,0253",,,,*ša·pw-,PCA:2,,,,,,through,through,initial
+284,Bloomfield,LB1927b,0401,,,,*säk-,PCA:1,,,,,,fright,fright,initial
+285,Haas,MH1958b,0244,,,,*se·kw-,PCA:2,,,,,,"cry, weep","cry, weep",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 244: ""*se·kw- (or *si·kw- ?)"" Also, may be a stem?"
+286,Haas,MH1958c,0167,,,,*šeki-,PCA:2,,,,,,urinate,urinate,initial
+287,Haas,MH1958c,0164,,,,*si·kw-,PCA:2,,,,,,"cry, weep","cry, weep",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Marked with ""(?)"" in source"
 288,Haas,MH1958b,0245,,,,*si·n-,PCA:2,,,,,,extract liquid,,initial
-289,Haas,MH1958b,"0237,0244",,,,*tahk-,PCA:2,,,,,,cold,,initial
-290,Bloomfield,LB1925b,0139,,,,*tahk-,PCA:1,,,,,,cool,,initial
+289,Haas,MH1958b,"0237,0244",,,,*tahk-,PCA:2,,,,,,cold,cold,initial
+290,Bloomfield,LB1925b,0139,,,,*tahk-,PCA:1,,,,,,cool,cool,initial
 291,Bloomfield,LB1925b,0141,,,,*takw-,PCA:1,,,,,,with others,,initial
 292,Bloomfield,LB1925b,0137,,,,*täp-,PCA:1,,,,,,"reach all the way, suffice",,initial
-293,Bloomfield,LB1925b,0141,,,,*tātw-,PCA:1,,,,,,tear,,initial
-294,Haas,MH1958b,0248,,,,*taw-,PCA:2,,,,,,open,,initial
-295,Haas,MH1958b,0253,,,,*te·pw-,PCA:2,,,,,,true,,initial
-296,Haas,MH1958b,0242,,,,*tep-,PCA:2,,,,,,acquire,,initial
-297,Haas,MH1958b,0237,,,,*tepeθk-,PCA:2,,,,,,night,,initial
-298,Bloomfield,LB1925b,0135,,,,*ul-,PCA:1,,,,,,arrange ,,initial
-299,Bloomfield,LB1925b,0154,,,,*ump-,PCA:1,,,,,,up,,initial
-300,Bloomfield,LB1925b,0154,,,,*unt-,PCA:1,,,,,,"thence, therefore",,initial
-301,Bloomfield,LB1925b,0137,,,,*usām-,PCA:1,,,,,,excess ,,initial
-302,Haas,MH1958b,0248,,,,*wa·p-,PCA:2,,,,,,look,,initial
-303,Bloomfield,LB1927b,"0393,0396",,,,*wäp-,PCA:1,,,,,,begin,,initial
-304,Bloomfield,LB1927b,"0394,0395",,,,*wāp-,PCA:1,,,,,,"light, look",,initial
-305,Bloomfield,LB1925b,0150,,,,*wāp-,PCA:1,,,,,,white ,,initial
-306,Bloomfield,LB1927b,0394,,,,*wāpeck-,PCA:1,,,,,,white,,initial
+293,Bloomfield,LB1925b,0141,,,,*tātw-,PCA:1,,,,,,tear,tear,initial
+294,Haas,MH1958b,0248,,,,*taw-,PCA:2,,,,,,open,open,initial
+295,Haas,MH1958b,0253,,,,*te·pw-,PCA:2,,,,,,true,true,initial
+296,Haas,MH1958b,0242,,,,*tep-,PCA:2,,,,,,acquire,acquire,initial
+297,Haas,MH1958b,0237,,,,*tepeθk-,PCA:2,,,,,,night,night,initial
+298,Bloomfield,LB1925b,0135,,,,*ul-,PCA:1,,,,,,arrange ,arrange,initial
+299,Bloomfield,LB1925b,0154,,,,*ump-,PCA:1,,,,,,up,up,initial
+300,Bloomfield,LB1925b,0154,,,,*unt-,PCA:1,,,,,,"thence, therefore","thence, therefore",initial
+301,Bloomfield,LB1925b,0137,,,,*usām-,PCA:1,,,,,,excess ,excess,initial
+302,Haas,MH1958b,0248,,,,*wa·p-,PCA:2,,,,,,look,look,initial
+303,Bloomfield,LB1927b,"0393,0396",,,,*wäp-,PCA:1,,,,,,begin,begin,initial
+304,Bloomfield,LB1927b,"0394,0395",,,,*wāp-,PCA:1,,,,,,"light, look","light, look",initial
+305,Bloomfield,LB1925b,0150,,,,*wāp-,PCA:1,,,,,,white ,white,initial
+306,Bloomfield,LB1927b,0394,,,,*wāpeck-,PCA:1,,,,,,white,white,initial
 307,Bloomfield,LB1925b,0134,,,,*waxkit-,PCA:1,,,,,,"on top, over",,initial
-308,Haas,MH1958c,0161,,,,*waθkan-,PCA:2,,,,,,bone,,initial
-309,Bloomfield,LB1925b,0138,,,,*wē-,PCA:1,,,,,,name,,initial
-310,Bloomfield,LB1925b,0135,,,,*wē'θeny-,PCA:1,,,,,,eat,,initial
-311,Bloomfield,LB1925b,0137,,,,*wēn-,PCA:1,,,,,,dirty,,initial
+308,Haas,MH1958c,0161,,,,*waθkan-,PCA:2,,,,,,bone,bone,initial
+309,Bloomfield,LB1925b,0138,,,,*wē-,PCA:1,,,,,,name,name,initial
+310,Bloomfield,LB1925b,0135,,,,*wē'θeny-,PCA:1,,,,,,eat,eat,initial
+311,Bloomfield,LB1925b,0137,,,,*wēn-,PCA:1,,,,,,dirty,dirt,initial
 312,Bloomfield,LB1925b,0139,,,,*wēnk-,PCA:1,,,,,,good taste or smell,,initial
-313,Haas,MH1958c,0165,,,,*wi·k-,PCA:2,,,,,,"dwell, house",,initial
-314,Haas,MH1958c,0170,,,,*wi·n-,PCA:2,,,,,,name,,initial
-315,Haas,MH1958c,0170,,,,*wi·w-,PCA:2,,,,,,wife,,initial
+313,Haas,MH1958c,0165,,,,*wi·k-,PCA:2,,,,,,"dwell, house","dwell, house",initial
+314,Haas,MH1958c,0170,,,,*wi·n-,PCA:2,,,,,,name,name,initial
+315,Haas,MH1958c,0170,,,,*wi·w-,PCA:2,,,,,,wife,wife,initial

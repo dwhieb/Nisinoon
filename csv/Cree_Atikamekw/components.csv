@@ -111,8 +111,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 110,Beland,JPB1978,0203,atj,,atik1240,-amekw-,C-A:1,,,,,,fish,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,namekoss 'trout',,,GVM
 111,Beland,JPB1978,0257,atj ,,atik1240,-amih-,C-A:1,,,,,,cause,,final,TA ,,,Y,TI,,,,,,,,,,,,,,,,,,,,TI,,,,,,,,,,,,,,,,,,,,,,,TI -am- ,TA -h-,,,,,,*stem has category and/or subcategory but no stem - JS* also formed with connective -i-; forms double-object verbs with causative meaning,,GVM
 112,Beland,JPB1978,"0256,0257",atj ,,atik1240,-amo:h-,C-A:1,,,,,,cause,,final,TA ,,,Y,TI,,,,,,,,,,,,,,,,,,,,TI,,,,,,,,,,,,,,,,,,,,,,,TA -amaw-,TA -h-,,,,,,*stem has category and/or subcategory but no stem - JS* forms double-object verbs with causative meaning,,GVM
-113,Beland,JPB1978,0265,atj ,,atik1240,-amor-,C-A:1,,,,,,place to cause to,,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,TA,,,,,,,,,,,,,,,,,,,,,,,final -amaw-,"TA -ar- 'place, set'",,,,,,*stem has category and/or subcategory but no stem - JS* complex; no inanimate counterpart,,GVM
-114,Beland,JPB1978,0266,atj ,,atik1240,-amotar-,C-A:1,,,,,,place to cause to,,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"*stem has category and/or subcategory but no stem - JS* complex; ""a meaning quite similar to -amor- 'place to cause to'",,GVM
+113,Beland,JPB1978,0265,atj ,,atik1240,-amor-,C-A:1,,,,,,"place to, cause to",,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,TA,,,,,,,,,,,,,,,,,,,,,,,final -amaw-,"TA -ar- 'place, set'",,,,,,*stem has category and/or subcategory but no stem - JS* complex; no inanimate counterpart,,GVM
+114,Beland,JPB1978,0266,atj ,,atik1240,-amotar-,C-A:1,,,,,,"place to, cause to",,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"*stem has category and/or subcategory but no stem - JS* complex; ""a meaning quite similar to -amor- 'place to cause to'",,GVM
 115,Beland,JPB1978,0190,atj,,atik1240,-an-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 116,Beland,JPB1978,"0227,0228",atj,,atik1240,-an-,C-A:1,,,,,,"have, be covered with",,final,AI,,,Y,N,,,-i-,,,,,,,,,,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 117,Beland,JPB1978,"0227,0228",atj,,atik1240,-an-,C-A:1,,,,,,"have, be covered with",,final,II,,,Y,N,,-i-,,,,,,,,,,,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
@@ -479,7 +479,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 479,Beland,JPB1978,"0168,0175",atj,,atik1240,-so:-,C-A:1,,,,,,tail ,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; used in dependent nouns,,GVM
 480,Beland,JPB1978,0176,atj,,atik1240,-s̀o:kan-,C-A:1,,,,,,hip,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 481,Beland,JPB1978,0184,atj,,atik1240,-s̀o:riy-,C-A:1,,,,,,"metal, money",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-482,Beland,JPB1978,0213,atj,,atik1240,-s̀o:s̀kw-,C-A:1,,,,,,"glide, slide",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,only root listed as combining with -a:ttaha-,,GVM
+482,Beland,JPB1978,0213,atj,,atik1240,-s̀o:s̀kw-,C-A:1,,,,,,"glide, slide","glide, slide",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,only root listed as combining with -a:ttaha-,,GVM
 483,Beland,JPB1978,0175,atj,,atik1240,-spikekan-,C-A:1,,,,,,rib,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 484,Beland,JPB1978,0175,atj,,atik1240,-spiskw-,C-A:1,,,,,,back,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 485,Beland,JPB1978,"0173,0176",atj,,atik1240,-spiton-,C-A:1,,,,,,arm,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; used in dependent nouns,,GVM
@@ -584,53 +584,53 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 584,Beland,JPB1978,0209,atj,,atik1240,-y-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 586,Beland,JPB1978,0208,atj,"Manouane, Weymontachie, Obedjiwan",atik1240,-yekinw-,C-A:1,,,,,,cloth,,final,N,,,B,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-i:k-,-inw-,,,,,,"""the distinction between the two suffixes is no more in used [sic] at Manouane where -yekinw- only has been recorded; both suffixes are found at Weymontachie and at Obedjiwan.""",,GVM
 587,Beland,JPB1978,0209,atj,,atik1240,-yekw-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-588,Beland,JPB1978,0254,atj ,,atik1240,a:pat-,C-A:1,,,,,,use,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"TA, AI2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
-589,Beland,JPB1978,0150,atj ,,atik1240,a:pittaw,C-A:1,,,,,,half,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+588,Beland,JPB1978,0254,atj ,,atik1240,a:pat-,C-A:1,,,,,,use,use,initial,,,,,,,,,,,,,,,,,,,,,,,,,"TA, AI2",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
+589,Beland,JPB1978,0150,atj ,,atik1240,a:pittaw,C-A:1,,,,,,half,half,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 590,Beland,JPB1978,0218,atj,,atik1240,a:pot-,C-A:1,,,,,,to turn inside out ,,initial,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 591,Beland,JPB1978,0218,atj,,atik1240,a:pot-,C-A:1,,,,,,to turn inside out ,,initial,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-592,Beland,JPB1978,"0145,0213,0232",atj,,atik1240,a:s̀aw-,C-A:1,,,,,,to cross ,,initial,,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-593,Beland,JPB1978,0214,atj,,atik1240,a:tt-,C-A:1,,,,,,move,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-594,Beland,JPB1978,0244,atj ,,atik1240,akw-,C-A:1,,,,,,"adhere, be on",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+592,Beland,JPB1978,"0145,0213,0232",atj,,atik1240,a:s̀aw-,C-A:1,,,,,,to cross ,cross (V),initial,,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+593,Beland,JPB1978,0214,atj,,atik1240,a:tt-,C-A:1,,,,,,move,move,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+594,Beland,JPB1978,0244,atj ,,atik1240,akw-,C-A:1,,,,,,"adhere, be on","adhere, on",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 595,Beland,JPB1978,0160,atj,,atik1240,appi:c,C-A:1,,,,,,"so much, so far",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 596,Beland,JPB1978,0160,atj,,atik1240,askw-,C-A:1,,,,,,so long ,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 597,Beland,JPB1978,0160,atj,,atik1240,aspi:c-,C-A:1,,,,,,"so much, so far",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-598,Beland,JPB1978,"0157,0158",atj,,atik1240,ata:m-,C-A:1,,,,,,"under, underneath",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-599,Beland,JPB1978,0214,atj,,atik1240,atim-,C-A:1,,,,,,back,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-600,Beland,JPB1978,0157,atj,,atik1240,atimw ,C-A:1,,,,,,dog,,initial,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+598,Beland,JPB1978,"0157,0158",atj,,atik1240,ata:m-,C-A:1,,,,,,"under, underneath","under, underneath",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+599,Beland,JPB1978,0214,atj,,atik1240,atim-,C-A:1,,,,,,back,back,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+600,Beland,JPB1978,0157,atj,,atik1240,atimw ,C-A:1,,,,,,dog,dog,initial,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 601,Beland,JPB1978,"0150,0157",atj ,,atik1240,irin-,C-A:1,,,,,,"ordinary, common ",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-602,Beland,JPB1978,0160,atj,,atik1240,is̀i-,C-A:1,,,,,,so,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+602,Beland,JPB1978,0160,atj,,atik1240,is̀i-,C-A:1,,,,,,so,so,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 603,Beland,JPB1978,0282,atj ,,atik1240,is̀i-,C-A:1,,,,,,"thus, so",,final ,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"""Some particle finals are related (deverbal?) to independent particles"" ",,GVM
-604,Beland,JPB1978,0158,atj,,atik1240,is̀p-,C-A:1,,,,,,"up, high ",,initial,,,,,,,,,,,is̀pim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-605,Beland,JPB1978,0160,atj,,atik1240,it-,C-A:1,,,,,,thus,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-606,Beland,JPB1978,0150,atj,,atik1240,ka:kike-,C-A:1,,,,,,permanent ,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-607,Beland,JPB1978,0160,atj,,atik1240,kaka:nw-,C-A:1,,,,,,long,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ADJ: irregular, reduplicated (kinw-)",,GVM
-608,Beland,JPB1978,0254,atj ,,atik1240,kas̀k-,C-A:1,,,,,,able,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-609,Beland,JPB1978,"0144,0145",atj,,atik1240,ki:s̀k-,C-A:1,,,,,,"cut, sever ",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-610,Beland,JPB1978,0160,atj,,atik1240,kinw-,C-A:1,,,,,,long,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-611,Beland,JPB1978,0158,atj,,atik1240,kip-,C-A:1,,,,,,close ,,initial,,,,,,,,,,,kipw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-612,Beland,JPB1978,0255,atj ,,atik1240,kitw-,C-A:1,,,,,,sound,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-613,Beland,JPB1978,0232,atj,,atik1240,kosiw-,C-A:1,,,,,,heavy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-614,Beland,JPB1978,0254,atj ,,atik1240,kot-,C-A:1,,,,,,try,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-615,Beland,JPB1978,0256,atj ,,atik1240,mawi-,C-A:1,,,,,,"cry, complain",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-616,Beland,JPB1978,0283,atj ,,atik1240,miccet-,C-A:1,,,,,,many,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-617,Beland,JPB1978,0157,atj,,atik1240,mikkw-,C-A:1,,,,,,red,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-618,Beland,JPB1978,0157,atj,,atik1240,name-,C-A:1,,,,,,fish,,initial,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-619,Beland,JPB1978,0241,atj ,,atik1240,ni:s̀-,C-A:1,,,,,,down,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-620,Beland,JPB1978,"0158,0283",atj,,atik1240,ni:s̀w-,C-A:1,,,,,,two,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-621,Beland,JPB1978,0158,atj,,atik1240,nikotw-,C-A:1,,,,,,one,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-622,Beland,JPB1978,0158,atj,,atik1240,nis̀s̀w-,C-A:1,,,,,,three,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+604,Beland,JPB1978,0158,atj,,atik1240,is̀p-,C-A:1,,,,,,"up, high ","up, high",initial,,,,,,,,,,,is̀pim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+605,Beland,JPB1978,0160,atj,,atik1240,it-,C-A:1,,,,,,thus,thus,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+606,Beland,JPB1978,0150,atj,,atik1240,ka:kike-,C-A:1,,,,,,permanent ,permanent,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+607,Beland,JPB1978,0160,atj,,atik1240,kaka:nw-,C-A:1,,,,,,long,long,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ADJ: irregular, reduplicated (kinw-)",,GVM
+608,Beland,JPB1978,0254,atj ,,atik1240,kas̀k-,C-A:1,,,,,,able,able,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+609,Beland,JPB1978,"0144,0145",atj,,atik1240,ki:s̀k-,C-A:1,,,,,,"cut, sever ","cut, sever",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+610,Beland,JPB1978,0160,atj,,atik1240,kinw-,C-A:1,,,,,,long,long,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+611,Beland,JPB1978,0158,atj,,atik1240,kip-,C-A:1,,,,,,close ,close (A),initial,,,,,,,,,,,kipw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+612,Beland,JPB1978,0255,atj ,,atik1240,kitw-,C-A:1,,,,,,sound,sound,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+613,Beland,JPB1978,0232,atj,,atik1240,kosiw-,C-A:1,,,,,,heavy,heavy,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+614,Beland,JPB1978,0254,atj ,,atik1240,kot-,C-A:1,,,,,,try,try,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+615,Beland,JPB1978,0256,atj ,,atik1240,mawi-,C-A:1,,,,,,"cry, complain","cry, complain",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+616,Beland,JPB1978,0283,atj ,,atik1240,miccet-,C-A:1,,,,,,many,many,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+617,Beland,JPB1978,0157,atj,,atik1240,mikkw-,C-A:1,,,,,,red,red,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+618,Beland,JPB1978,0157,atj,,atik1240,name-,C-A:1,,,,,,fish,fish,initial,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+619,Beland,JPB1978,0241,atj ,,atik1240,ni:s̀-,C-A:1,,,,,,down,down,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+620,Beland,JPB1978,"0158,0283",atj,,atik1240,ni:s̀w-,C-A:1,,,,,,two,two,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+621,Beland,JPB1978,0158,atj,,atik1240,nikotw-,C-A:1,,,,,,one,one,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+622,Beland,JPB1978,0158,atj,,atik1240,nis̀s̀w-,C-A:1,,,,,,three,three,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 623,Beland,JPB1978,0283,atj ,,atik1240,niya:ran,C-A:1,,,,,,NG,,initial,PART,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Denotes decade, added to numeral roots ""Particle final shows an alternat form -itana-"" ",,GVM
 624,Beland,JPB1978,0282,atj ,,atik1240,o:ta,C-A:1,,,,,,here,,final ,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"""Some particle finals are related (deverbal?) to independent particles"" ",,GVM
 625,Beland,JPB1978,0282,atj ,,atik1240,o:te,C-A:1,,,,,,there,,final ,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"""Some particle finals are related (deverbal?) to independent particles"" ",,GVM
-626,Beland,JPB1978,0160,atj,,atik1240,ott-,C-A:1,,,,,,"from there, thence",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-627,Valentine,RV2002,0107,atj ,,atik1240,paahp-,C-A:2,,,,,,laugh,,initial
+626,Beland,JPB1978,0160,atj,,atik1240,ott-,C-A:1,,,,,,"from there, thence",thence,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+627,Valentine,RV2002,0107,atj ,,atik1240,paahp-,C-A:2,,,,,,laugh,laugh,initial
 628,Valentine,RV2002,0103,atj ,,atik1240,pahkope-,C-A:2,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,likely 'in water';  used in intransitive motion verbs
-629,Beland,JPB1978,0159,atj,,atik1240,papa:m-,C-A:1,,,,,,along,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ADJ: reduplicated (pim-),,GVM
-630,Beland,JPB1978,"0158,0159,0214,0225",atj,,atik1240,pim-,C-A:1,,,,,,along ,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+629,Beland,JPB1978,0159,atj,,atik1240,papa:m-,C-A:1,,,,,,along,along,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ADJ: reduplicated (pim-),,GVM
+630,Beland,JPB1978,"0158,0159,0214,0225",atj,,atik1240,pim-,C-A:1,,,,,,along ,along,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 631,Beland,JPB1978,0258,atj ,,atik1240,pim-,C-A:1,,,,,,extension in space or in time,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-632,Beland,JPB1978,0255,atj ,,atik1240,sek-,C-A:1,,,,,,scare,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+632,Beland,JPB1978,0255,atj ,,atik1240,sek-,C-A:1,,,,,,scare,scare,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 633,Beland,JPB1978,0282,atj ,,atik1240,tatto,C-A:1,,,,,,so many,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"""Some particle finals are related (deverbal?) to independent particles"" ",,GVM
 634,Beland,JPB1978,0160,atj,,atik1240,tattw-,C-A:1,,,,,,so many ,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-635,Beland,JPB1978,0158,atj,,atik1240,tep-,C-A:1,,,,,,enough,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-636,Beland,JPB1978,0224,atj,,atik1240,wi:t-,C-A:1,,,,,,with,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+635,Beland,JPB1978,0158,atj,,atik1240,tep-,C-A:1,,,,,,enough,enough,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+636,Beland,JPB1978,0224,atj,,atik1240,wi:t-,C-A:1,,,,,,with,with,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 281,Beland,JPB1978,0251,atj ,,atik1240,-ispon-,C-A:1,,,,,,snow,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ispon- used at Manouane only; only occurs in II so:kispon 'it snows',,GVM

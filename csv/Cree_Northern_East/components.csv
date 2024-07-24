@@ -23,7 +23,7 @@ ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthogr
 22,Eastern James Bay Cree on the web,EC_web,,crl,,nort1552,-pitim,C-SE:2,,,,,,"by arm, pull",,final,TI
 23,Brittain & Acton,JB_SA2014,"0475, 0477",crl,,nort1552,-piyi-,C-NE:1,,,,,,move,,final,AI,,CONCR,,,,,,,-ipiyi-,C_,yuwi-piyi,,,V,AI,to deflate,,JB_SA2014;484,kwâtip-ipiyi,,,V,AI,to roll (unintentionally),,JB_SA2014;477,wiyiwî-piyi,,,V,AI,to fall out (accidentally),,JB_SA2014;477,atim-ipiyi,,,V,AI,"to drive away from here (in car, boat, etc.)",,JB_SA2014;477,,,,,,,,,,,,,,"Not used for air travel, but typically used for other vehicular travel"
 24,Brittain & Acton,JB_SA2014,"0475, 0477",crl,,nort1552,-piyi-,C-NE:1,,,,,,move,,final,II,,CONCR,,,,,,,-ipiyi-,C_,yuwi-piyi,,,V,II,to deflate,,JB_SA2014;484,pân-ipiyi,,,V,II,"to open, expand, break (by itself)",,JB_SA2014;477,wiyiwî-piyi,,,V,II,to fall out (accidentally),,JB_SA2014;477,atim-ipiyi,,,V,II,"it (car, boat, etc.) is going away from here",,JB_SA2014;477,âpuwi-piyi,,,V,II,"to warm up, thaw out",,JB_SA2014;487,,,,,,"Not used for air travel, but typically used for other vehicular travel"
-26,Branigan & Brittain,PXB_JB2016,0032,crl,,nort1552,-piyih-,C-NE:1,,,,,,move,,initial,TA
+26,Branigan & Brittain,PXB_JB2016,0032,crl,,nort1552,-piyih-,C-NE:1,,,,,,move,move,initial,TA
 27,Armoskaite & Junker,SA_MOJ2017,0010,crl,,nort1552,-sh,C-E:1,,,,,,diminutive,,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Can attach to N or V, does not change category. (Entered separately.)",,MAM
 28,Armoskaite & Junker,SA_MOJ2017,0010,crl,,nort1552,-sh,C-E:1,,,,,,diminutive,,final,V,,,Y,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Can attach to N or V, does not change category. (Entered separately.)",,MAM
 30,Brittain & Acton,JB_SA2014,0486,crl,,nort1552,-su,C-NE:1,,,,,,by heat,,final,AI,,,,,,-tâ,,,,,âpuwi-su,,,V,AI,to be warmed by heat,,JB_SA2014;486
@@ -31,15 +31,15 @@ ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthogr
 32,Brittain & Acton,JB_SA2014,0486,crl,,nort1552,-tâ,C-NE:1,,,,,,by heat,,final,II,,,,,-su,,,,,,âpuwi-tâ,,,V,II,to be thawed by heat,,JB_SA2014;486
 33,Armoskaite & Junker,SA_MOJ2017,0010,crl,,nort1552,-u,C-E:1,,,,,,NG,,final,AI,,ABSTR,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 34,Armoskaite & Junker,SA_MOJ2017,"0002,0003",crl,,nort1552,-win,C-E:1,,,,,,process/result,,final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"They call it ""abstract"" but do assign it a meaning.",,MAM
-35,Brittain & Acton,JB_SA2014,0486,crl,,nort1552,âpuwi-,C-NE:1,,,,,,warm,,initial,,,,,,,,,,,,âpuwi-su,,,V,AI,to be warmed by heat,,JB_SA2014;486,âpuwi-tâ,,,V,II,to be thawed by heat,,JB_SA2014;486,âpuwi-piyi,,,V,II,"to warm up, thaw out",,JB_SA2014;487
-36,Brittain & Acton,JB_SA2014,0483,crl,,nort1552,âshuw-,C-NE:1,,,,,,across,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pairs with -piyi to form derived initial meaning 'travel by vehicle'
+35,Brittain & Acton,JB_SA2014,0486,crl,,nort1552,âpuwi-,C-NE:1,,,,,,warm,warm,initial,,,,,,,,,,,,âpuwi-su,,,V,AI,to be warmed by heat,,JB_SA2014;486,âpuwi-tâ,,,V,II,to be thawed by heat,,JB_SA2014;486,âpuwi-piyi,,,V,II,"to warm up, thaw out",,JB_SA2014;487
+36,Brittain & Acton,JB_SA2014,0483,crl,,nort1552,âshuw-,C-NE:1,,,,,,across,across,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pairs with -piyi to form derived initial meaning 'travel by vehicle'
 37,Branigan & Brittain,PXB_JB2016,0031,crl,,nort1552,âsi-,C-NE:1,,,,,,NG,,initial,RR
 38,Brittain & Acton,JB_SA2014,0477,crl,,nort1552,atim-,C-NE:1,,,,,,opposite direction,,initial,,,,,,,,,,,,atim-ipiyi,,,V,AI,"to drive away from here (in car, boat, etc.)",,JB_SA2014;477,atim-ipiyi,,,V,II,"it (car, boat, etc.) is going away from here",,JB_SA2014;477
-39,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,chihch-,C-NE:1,,,,,,start,,initial
-40,Branigan & Brittain,PXB_JB2016,0011,crl,,nort1552,chihchi-,C-NE:1,,,,,,leave,,initial
-41,Brittain & Acton,JB_SA2014,0503,crl,,nort1552,chishi-,C-NE:1,,,,,,fast,,initial
-42,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,chîwâ-,C-NE:1,,,,,,return,,initial
-43,Branigan & Brittain,PXB_JB2016,0005,crl,,nort1552,chiyip-,C-NE:1,,,,,,quickly,,initial
+39,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,chihch-,C-NE:1,,,,,,start,start,initial
+40,Branigan & Brittain,PXB_JB2016,0011,crl,,nort1552,chihchi-,C-NE:1,,,,,,leave,leave,initial
+41,Brittain & Acton,JB_SA2014,0503,crl,,nort1552,chishi-,C-NE:1,,,,,,fast,fast,initial
+42,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,chîwâ-,C-NE:1,,,,,,return,return,initial
+43,Branigan & Brittain,PXB_JB2016,0005,crl,,nort1552,chiyip-,C-NE:1,,,,,,quickly,quickly,initial
 44,Brittain & Acton,JB_SA2014,0490,crl,,nort1552,ihkwâ-,C-NE:1,,,,,,face,,medial
 45,Branigan & Brittain,PXB_JB2016,0028,crl,,nort1552,iht-,C-NE:1,,,,,,NG,,initial,RR
 46,Branigan & Brittain,PXB_JB2016,0032,crl,,nort1552,îs-,C-NE:1,,,,,,NG,,initial,RR
@@ -47,40 +47,40 @@ ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthogr
 48,Branigan & Brittain,PXB_JB2016,"0003,0006,0012,0024",crl,,nort1552,isi-,C-NE:1,,,,,,NG,,initial,RR
 49,Brittain & Acton,JB_SA2014,0490,crl,,nort1552,isiku-,C-NE:1,,,,,,ice,,medial
 50,Branigan & Brittain,PXB_JB2016,"0003,0006,0015,0022",crl,,nort1552,ît-,C-NE:1,,,,,,NG,,initial,RR,,,,,,,,,it-
-51,Branigan & Brittain,PXB_JB2016,0005,crl,,nort1552,îyiyiu-,C-NE:1,,,,,,Cree person,,initial
-52,Brittain & Acton,JB_SA2014,"0489,0492,0494,0495,0500",crl,,nort1552,kuishkushi-,C-NE:1,,,,,,whistle,,initial,,,,,,,,,,,,kuishkushi-piyi,,,V,II,whistle.move,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Makes derived initial with -piyi in some causative formations
-53,Eastern James Bay Cree on the web,EC_web,,crl,,nort1552,kuisku-,C-SE:2,,,,,,"straight, right, properly",,initial
-54,Brittain & Acton,JB_SA2014,0491,crl,,nort1552,kwâshkwâ-,C-NE:1,,,,,,bounce,,initial,,,,,,,,,,,,kwâshkwâ-pit,,,V,TA,bounce by pulling
-55,Brittain & Acton,JB_SA2014,"0477,0494,0495",crl,,nort1552,kwâtip-,C-NE:1,,,,,,roll,,initial,,,,,,,,,,,,kwâtip-ipiyi,,,V,AI,to roll (unintentionally),,JB_SA2014;477
-56,Brittain & Acton,JB_SA2014,0504,crl,,nort1552,mâtiw-,C-NE:1,,,,,,play,,initial
-57,Branigan & Brittain,PXB_JB2016,0005,crl,,nort1552,mihchi-,C-NE:1,,,,,,big,,initial
-58,Brittain & Acton,JB_SA2014,0486,crl,,nort1552,mihku-,C-NE:1,,,,,,red,,initial
-59,Brittain & Acton,JB_SA2014,"0492,0500",crl,,nort1552,nâtikâmâ-,C-NE:1,,,,,,landward,,initial,,,,,,,,,,,,nâtikâmâ-piyi,,,V,II,landward.move,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Makes derived initial with -piyi in some causative formations
-60,Branigan & Brittain,PXB_JB2016,0028,crl,,nort1552,nishtu-,C-NE:1,,,,,,three,,initial
-61,Brittain & Acton,JB_SA2014,0483,crl,,nort1552,nitihî,C-NE:1,,,,,,upriver,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pairs with -piyi to form derived initial meaning 'travel by vehicle'
+51,Branigan & Brittain,PXB_JB2016,0005,crl,,nort1552,îyiyiu-,C-NE:1,,,,,,Cree person,Cree,initial
+52,Brittain & Acton,JB_SA2014,"0489,0492,0494,0495,0500",crl,,nort1552,kuishkushi-,C-NE:1,,,,,,whistle,whistle,initial,,,,,,,,,,,,kuishkushi-piyi,,,V,II,whistle.move,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Makes derived initial with -piyi in some causative formations
+53,Eastern James Bay Cree on the web,EC_web,,crl,,nort1552,kuisku-,C-SE:2,,,,,,"straight, right, properly","straight, right (ADV), properly",initial
+54,Brittain & Acton,JB_SA2014,0491,crl,,nort1552,kwâshkwâ-,C-NE:1,,,,,,bounce,bounce,initial,,,,,,,,,,,,kwâshkwâ-pit,,,V,TA,bounce by pulling
+55,Brittain & Acton,JB_SA2014,"0477,0494,0495",crl,,nort1552,kwâtip-,C-NE:1,,,,,,roll,roll,initial,,,,,,,,,,,,kwâtip-ipiyi,,,V,AI,to roll (unintentionally),,JB_SA2014;477
+56,Brittain & Acton,JB_SA2014,0504,crl,,nort1552,mâtiw-,C-NE:1,,,,,,play,play,initial
+57,Branigan & Brittain,PXB_JB2016,0005,crl,,nort1552,mihchi-,C-NE:1,,,,,,big,big,initial
+58,Brittain & Acton,JB_SA2014,0486,crl,,nort1552,mihku-,C-NE:1,,,,,,red,red,initial
+59,Brittain & Acton,JB_SA2014,"0492,0500",crl,,nort1552,nâtikâmâ-,C-NE:1,,,,,,landward,landward,initial,,,,,,,,,,,,nâtikâmâ-piyi,,,V,II,landward.move,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Makes derived initial with -piyi in some causative formations
+60,Branigan & Brittain,PXB_JB2016,0028,crl,,nort1552,nishtu-,C-NE:1,,,,,,three,three,initial
+61,Brittain & Acton,JB_SA2014,0483,crl,,nort1552,nitihî,C-NE:1,,,,,,upriver,upriver,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pairs with -piyi to form derived initial meaning 'travel by vehicle'
 62,Brittain & Acton,JB_SA2014,"0488,0494,0495,0500",crl,,nort1552,pâ-,C-NE:1,,,,,,arrival point,,initial,,,,,,,,,,,,pâ-piyi,,,V,II,along.move
-63,Branigan & Brittain,PXB_JB2016,0009,crl,,nort1552,pâ-,C-NE:1,,,,,,along,,initial
-64,Brittain & Acton,JB_SA2014,0490,crl,,nort1552,pâch-,C-NE:1,,,,,,swell,,initial
-65,Brittain & Acton,JB_SA2014,0503,crl,,nort1552,pâhp-,C-NE:1,,,,,,laugh,,initial
-66,Brittain & Acton,JB_SA2014,"0492,0500",crl,,nort1552,pâhpishihkâshtâ-,C-NE:1,,,,,,twinkle,,initial,,,,,,,,,,,,pâhpishihkâshtâ-piyi,,,V,II,twinkle.move,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Makes derived initial with -piyi in some causative formations
-67,Brittain & Acton,JB_SA2014,0477,crl,,nort1552,pân-,C-NE:1,,,,,,open,,initial,,,,,,,,,,,,pân-ipiyi,,,V,II,"to open, expand, break (by itself)",,JB_SA2014;477
-68,Brittain & Acton,JB_SA2014,0477,crl,,nort1552,pâtwâwâ-,C-NE:1,,,,,,loud noise,,initial
-69,Branigan & Brittain,PXB_JB2016,0005,crl,,nort1552,pihchi-,C-NE:1,,,,,,accidentally,,initial
-70,Brittain & Acton,JB_SA2014,0491,crl,,nort1552,pîhtitâ-,C-NE:1,,,,,,inside,,initial
-71,Brittain & Acton,JB_SA2014,0491,crl,,nort1552,pîku-,C-NE:1,,,,,,break,,initial
-72,Brittain & Acton,JB_SA2014,0483,crl,,nort1552,pimi-,C-NE:1,,,,,,along,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pairs with -piyi to form derived initial meaning 'travel by vehicle'
-73,Brittain & Acton,JB_SA2014,0502,crl,,nort1552,pisu-,C-NE:1,,,,,,slow,,initial
+63,Branigan & Brittain,PXB_JB2016,0009,crl,,nort1552,pâ-,C-NE:1,,,,,,along,along,initial
+64,Brittain & Acton,JB_SA2014,0490,crl,,nort1552,pâch-,C-NE:1,,,,,,swell,swell,initial
+65,Brittain & Acton,JB_SA2014,0503,crl,,nort1552,pâhp-,C-NE:1,,,,,,laugh,laugh,initial
+66,Brittain & Acton,JB_SA2014,"0492,0500",crl,,nort1552,pâhpishihkâshtâ-,C-NE:1,,,,,,twinkle,twinkle,initial,,,,,,,,,,,,pâhpishihkâshtâ-piyi,,,V,II,twinkle.move,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Makes derived initial with -piyi in some causative formations
+67,Brittain & Acton,JB_SA2014,0477,crl,,nort1552,pân-,C-NE:1,,,,,,open,open,initial,,,,,,,,,,,,pân-ipiyi,,,V,II,"to open, expand, break (by itself)",,JB_SA2014;477
+68,Brittain & Acton,JB_SA2014,0477,crl,,nort1552,pâtwâwâ-,C-NE:1,,,,,,loud noise,loud,initial
+69,Branigan & Brittain,PXB_JB2016,0005,crl,,nort1552,pihchi-,C-NE:1,,,,,,accidentally,accidentally,initial
+70,Brittain & Acton,JB_SA2014,0491,crl,,nort1552,pîhtitâ-,C-NE:1,,,,,,inside,inside,initial
+71,Brittain & Acton,JB_SA2014,0491,crl,,nort1552,pîku-,C-NE:1,,,,,,break,break,initial
+72,Brittain & Acton,JB_SA2014,0483,crl,,nort1552,pimi-,C-NE:1,,,,,,along,along,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pairs with -piyi to form derived initial meaning 'travel by vehicle'
+73,Brittain & Acton,JB_SA2014,0502,crl,,nort1552,pisu-,C-NE:1,,,,,,slow,slow,initial
 74,Brittain & Acton,JB_SA2014,0491,crl,,nort1552,pit-,C-NE:1,,,,,,by pulling,,final,TA,,,,,,,,,,,kwâshkwâ-pit,,,V,TA,bounce by pulling
-75,Brittain & Acton,JB_SA2014,"0492,0494,0500",crl,,nort1552,shâshwâwâ-,C-NE:1,,,,,,jingle,,initial,,,,,,,,,,,,shâshwâwâ-piyi,,,V,II,jingle.move,,,shâshwâwâ-piyi,,,V,AI,jingle.move,,JB_SA2014;492,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Makes derived initial with -piyi in some causative formations
-76,Brittain & Acton,JB_SA2014,0490,crl,,nort1552,tâsch-,C-NE:1,,,,,,"split, crack",,initial
+75,Brittain & Acton,JB_SA2014,"0492,0494,0500",crl,,nort1552,shâshwâwâ-,C-NE:1,,,,,,jingle,jingle,initial,,,,,,,,,,,,shâshwâwâ-piyi,,,V,II,jingle.move,,,shâshwâwâ-piyi,,,V,AI,jingle.move,,JB_SA2014;492,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Makes derived initial with -piyi in some causative formations
+76,Brittain & Acton,JB_SA2014,0490,crl,,nort1552,tâsch-,C-NE:1,,,,,,"split, crack","split, crack",initial
 77,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,tâtip,C-NE:1,,,,,,all around,,initial
-78,Brittain & Acton,JB_SA2014,"0488,0492,0500",crl,,nort1552,tiskim-,C-NE:1,,,,,,straight across,,initial,,,,,,,,,,,,tiskim-piyi,,,V,II,straight.move
-79,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,uhchi-,C-NE:1,,,,,,from,,initial
-80,Brittain & Acton,JB_SA2014,0482,crl,,nort1552,uhp-,C-NE:1,,,,,,rise,,initial,,,,,,,,,,,,uhp-ihu,,,V,AI,to go by air,,JB_SA2014;482,uhp-ihu,,,V,II,to go by air,,JB_SA2014;482
-81,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,utâhch-,C-NE:1,,,,,,behind,,initial
-82,Brittain & Acton,JB_SA2014,0496,crl,,nort1552,wâshtâ-,C-NE:1,,,,,,light,,initial,,,,,,,,,,,,wâshtâ-piyi,,,V,AI,light.move
+78,Brittain & Acton,JB_SA2014,"0488,0492,0500",crl,,nort1552,tiskim-,C-NE:1,,,,,,straight across,"straight, across",initial,,,,,,,,,,,,tiskim-piyi,,,V,II,straight.move
+79,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,uhchi-,C-NE:1,,,,,,from,from,initial
+80,Brittain & Acton,JB_SA2014,0482,crl,,nort1552,uhp-,C-NE:1,,,,,,rise,rise,initial,,,,,,,,,,,,uhp-ihu,,,V,AI,to go by air,,JB_SA2014;482,uhp-ihu,,,V,II,to go by air,,JB_SA2014;482
+81,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,utâhch-,C-NE:1,,,,,,behind,behind,initial
+82,Brittain & Acton,JB_SA2014,0496,crl,,nort1552,wâshtâ-,C-NE:1,,,,,,light,light,initial,,,,,,,,,,,,wâshtâ-piyi,,,V,AI,light.move
 83,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,win-,C-NE:1,,,,,,wrong way,,initial
-84,Brittain & Acton,JB_SA2014,0484,crl,,nort1552,wiyip-,C-NE:1,,,,,,black,,initial
-85,Brittain & Acton,JB_SA2014,"0477,0499,0500",crl,,nort1552,wiyiwî-,C-NE:1,,,,,,outside,,initial,,,,,,,,,,,,wiyiwî-piyi,,,V,AI,to fall out (accidentally),,JB_SA2014;477,wiyiwî-piyi,,,V,II,to fall out (accidentally),,JB_SA2014;477
-86,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,yâyâwâ-,C-NE:1,,,,,,along shore,,initial
-87,Brittain & Acton,JB_SA2014,0484,crl,,nort1552,yuwi-,C-NE:1,,,,,,air out,,initial,,,,,,,,,,,,yuwi-piyi,,,V,AI,to deflate,,JB_SA2014;484,yuwi-piyi,,,V,II,to deflate,,JB_SA2014;484
+84,Brittain & Acton,JB_SA2014,0484,crl,,nort1552,wiyip-,C-NE:1,,,,,,black,black,initial
+85,Brittain & Acton,JB_SA2014,"0477,0499,0500",crl,,nort1552,wiyiwî-,C-NE:1,,,,,,outside,outside,initial,,,,,,,,,,,,wiyiwî-piyi,,,V,AI,to fall out (accidentally),,JB_SA2014;477,wiyiwî-piyi,,,V,II,to fall out (accidentally),,JB_SA2014;477
+86,Brittain & Acton,JB_SA2014,0488,crl,,nort1552,yâyâwâ-,C-NE:1,,,,,,along shore,"along, shore",initial
+87,Brittain & Acton,JB_SA2014,0484,crl,,nort1552,yuwi-,C-NE:1,,,,,,air out,air (V),initial,,,,,,,,,,,,yuwi-piyi,,,V,AI,to deflate,,JB_SA2014;484,yuwi-piyi,,,V,II,to deflate,,JB_SA2014;484

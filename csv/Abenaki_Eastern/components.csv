@@ -41,12 +41,12 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 40,Siebert & Seeber,FS_PS1983,0341,aaq,Penobscot,peno1243,-αsi,AB:1,,,,,,"of purposeful action, middle reflexive",reflexive of useful action,final,AI,,,Y,TI,,-αsi,,,,,,,,,,,,,,,,,,,,,"MAM: ""classified as middle reflexives in Penobscot because of the derivational processes involved""",,MAM
 41,Siebert & Seeber,FS_PS1983,0335,aaq,Penobscot,peno1243,-αso,AB:1,,,,,,passive reflexive ,,final,II,,,Y,TI,-αso,,,,,,,,,,,,,,,,,,,,,,"MAM: S&S say base is TI2 but then say it has extended to other TI stems; given the other forms in this article, I think this might be an error for -αsi. And he gives -αsi on p. 341, defined as 'of purposeful action, passive reflexive [middle reflexive?]. I've entered them separately but suspect they are the same.",,MAM
 42,Siebert & Seeber,FS_PS1983,0335,aaq,Penobscot,peno1243,-αso,AB:1,,,,,,passive reflexive ,,final,AI,,,,TI,,-αso,,,,,,,,,,,,,,,,,,,,,"MAM: S&S say base is TI2 but then say it has extended to other TI stems; given the other forms in this article, I think this might be an error for -αsi. And he gives -αsi on p. 341, defined as 'of purposeful action, passive reflexive [middle reflexive?]. I've entered them separately but suspect they are the same.",,MAM
-43,Siebert & Seeber,FS_PS1983,0338,aaq,Penobscot,peno1243,aki-,AB:1,,,,,,count,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+43,Siebert & Seeber,FS_PS1983,0338,aaq,Penobscot,peno1243,aki-,AB:1,,,,,,count,count,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 44,Siebert & Seeber,FS_PS1983,0336,aaq,Penobscot,peno1243,akit-,AB:1,,,,,,NG,,final,II,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-45,Siebert & Seeber,FS_PS1983,0341,aaq,Penobscot,peno1243,apw-,AB:1,,,,,,"hot, warm",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-46,Siebert & Seeber,FS_PS1983,0339,aaq,Penobscot,peno1243,atəhs-,AB:1,,,,,,color,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+45,Siebert & Seeber,FS_PS1983,0341,aaq,Penobscot,peno1243,apw-,AB:1,,,,,,"hot, warm","hot, warm",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+46,Siebert & Seeber,FS_PS1983,0339,aaq,Penobscot,peno1243,atəhs-,AB:1,,,,,,color,color,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 47,Siebert & Seeber,FS_PS1983,0341,aaq,Penobscot,peno1243,keht-,AB:1,,,,,,"beforehand, preceding in space or time",,initial,,,,,,,,,,kehtα-,,,,,,,,,,,,,,,,,,"MAM: kehtα- described as ""an extended form of the root /keht-/""",,MAM
-48,Siebert & Seeber,FS_PS1983,0338,aaq,Penobscot,peno1243,kis-,AB:1,,,,,,"complete, finish",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-49,Siebert & Seeber,FS_PS1983,0339,aaq,Penobscot,peno1243,kα-,AB:1,,,,,,hide,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-50,Siebert & Seeber,FS_PS1983,0338,aaq,Penobscot,peno1243,pətəkʷ-,AB:1,,,,,,round,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-51,Siebert & Seeber,FS_PS1983,0338,aaq,Penobscot,peno1243,wi-,AB:1,,,,,,"call, name",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+48,Siebert & Seeber,FS_PS1983,0338,aaq,Penobscot,peno1243,kis-,AB:1,,,,,,"complete, finish","complete, finish",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+49,Siebert & Seeber,FS_PS1983,0339,aaq,Penobscot,peno1243,kα-,AB:1,,,,,,hide,hide,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+50,Siebert & Seeber,FS_PS1983,0338,aaq,Penobscot,peno1243,pətəkʷ-,AB:1,,,,,,round,round,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+51,Siebert & Seeber,FS_PS1983,0338,aaq,Penobscot,peno1243,wi-,AB:1,,,,,,"call, name","call, name",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM

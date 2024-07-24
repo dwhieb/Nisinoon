@@ -974,8 +974,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1071,Bloomfield,LB1958,0129,ojg,,east2542,a·kkošk-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1085,Bloomfield,LB1958,0129,ojg,,east2542,a·nikko·-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1025,Bloomfield,LB1958,0128,ojg,,east2542,a·tte·,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Many roots are amplified by postradical elements. Some of these resemble verb final suffixes, quite as though a stem were used as a root."" (p. 128)",,GVM
-1131,Valentine,RV2002,0106,ojg,,east2542,agaach-,OJ:3,,,,,,small,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Curve Lake, Rhodes 1985"
-1132,Valentine,RV2002,0106,ojg,,east2542,agaas-,OJ:3,,,,,,small,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Garden River, Wilson 1874"
+1131,Valentine,RV2002,0106,ojg,,east2542,agaach-,OJ:3,,,,,,small,small,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Curve Lake, Rhodes 1985"
+1132,Valentine,RV2002,0106,ojg,,east2542,agaas-,OJ:3,,,,,,small,small,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Garden River, Wilson 1874"
 861,Bloomfield,LB1958,0122,ojg,,east2542,ak-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 912,Bloomfield,LB1958,0123,ojg,,east2542,akkiw-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1083,Bloomfield,LB1958,0129,ojg,,east2542,akko·-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -989,8 +989,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1011,Bloomfield,LB1958,0128,ojg,,east2542,ašk-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Apparently with no difference in meaning there are double forms ašk- and ošk-"" p. 128","Andrew Medler, Walpole Island",GVM
 1006,Bloomfield,LB1958,0128,ojg,,east2542,aye·yi·taw-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""seem to contain reduplication, but corresponding unreduplicated forms were not recorded""","Andrew Medler, Walpole Island",GVM
 969,Bloomfield,LB1958,0127,ojg,,east2542,ayiN-,OJ:1,,,,,,NG,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1130,Valentine,RV2002,0101,ojg,,east2542,biin-,OJ:3,,,,,,clean,,initial
-1147,Valentine,RV2002,0116,ojg,,east2542,bookw-,OJ:3,,,,,,break,,initial
+1130,Valentine,RV2002,0101,ojg,,east2542,biin-,OJ:3,,,,,,clean,clean,initial
+1147,Valentine,RV2002,0116,ojg,,east2542,bookw-,OJ:3,,,,,,break,break,initial
 1005,Bloomfield,LB1958,0128,ojg,,east2542,ci·cci·kk-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""seem to contain reduplication, but corresponding unreduplicated forms were not recorded""","Andrew Medler, Walpole Island",GVM
 1026,Bloomfield,LB1958,0128,ojg,,east2542,eko·to·t,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Many roots are amplified by postradical elements. Some of these resemble verb final suffixes, quite as though a stem were used as a root."" (p. 128)",,GVM
 224,Bloomfield,LB1958,"0079,0088",ojg,,east2542,iN-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -1018,31 +1018,31 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 992,Bloomfield,LB1958,0128,ojg,,east2542,kot- ,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1016,Bloomfield,LB1958,0128,ojg,,east2542,kwe·kkw-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Apparently with no difference in meaning there are double forms kokkw- and kwe·kkw-"" p. 128","Andrew Medler, Walpole Island",GVM
 1062,Bloomfield,LB1958,0129,ojg,,east2542,ma·ci·-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1019,Bloomfield,LB1958,0128,ojg,,east2542,makk-,OJ:1,,,,,,big,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-3,Bloomfield,LB1958,0063,ojg,,east2542,makkate·w-,OJ:1,,,,,,black,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1022,Bloomfield,LB1958,0128,ojg,,east2542,mama·nk-,OJ:1,,,,,,big,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicated form of mank-.,"Andrew Medler, Walpole Island",GVM
-1023,Bloomfield,LB1958,0128,ojg,,east2542,mama·nt-,OJ:1,,,,,,big,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicated form of mint-.,"Andrew Medler, Walpole Island",GVM
+1019,Bloomfield,LB1958,0128,ojg,,east2542,makk-,OJ:1,,,,,,big,big,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+3,Bloomfield,LB1958,0063,ojg,,east2542,makkate·w-,OJ:1,,,,,,black,black,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+1022,Bloomfield,LB1958,0128,ojg,,east2542,mama·nk-,OJ:1,,,,,,big,big,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicated form of mank-.,"Andrew Medler, Walpole Island",GVM
+1023,Bloomfield,LB1958,0128,ojg,,east2542,mama·nt-,OJ:1,,,,,,big,big,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicated form of mint-.,"Andrew Medler, Walpole Island",GVM
 970,Bloomfield,LB1958,0127,ojg,,east2542,mama·t-,OJ:1,,,,,,NG,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1021,Bloomfield,LB1958,0128,ojg,,east2542,mama·tt-,OJ:1,,,,,,big,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicated form of mitt-.,"Andrew Medler, Walpole Island",GVM
+1021,Bloomfield,LB1958,0128,ojg,,east2542,mama·tt-,OJ:1,,,,,,big,big,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicated form of mitt-.,"Andrew Medler, Walpole Island",GVM
 1004,Bloomfield,LB1958,0128,ojg,,east2542,mamaN-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""seem to contain reduplication, but corresponding unreduplicated forms were not recorded""","Andrew Medler, Walpole Island",GVM
 1065,Bloomfield,LB1958,0129,ojg,,east2542,mancik-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-981,Bloomfield,LB1958,"0127,0128",ojg,,east2542,mank-,OJ:1,,,,,,big,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicates with a and replacement of first vowel of root with a·.,"Andrew Medler, Walpole Island",GVM
+981,Bloomfield,LB1958,"0127,0128",ojg,,east2542,mank-,OJ:1,,,,,,big,big,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicates with a and replacement of first vowel of root with a·.,"Andrew Medler, Walpole Island",GVM
 1060,Bloomfield,LB1958,0129,ojg,,east2542,mantwe·-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 142,Bloomfield,LB1958,"0073,0114",ojg,,east2542,maškw-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,-∅,,,,,,,"""medial with noun final zero""","Andrew Medler, Walpole Island",GVM
 207,Bloomfield,LB1958,0078,ojg,,east2542,maw-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1009,Bloomfield,LB1958,0128,ojg,,east2542,me·mi·kwa~,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""seem to contain reduplication, but corresponding unreduplicated forms were not recorded""; not clear if final ~ a typo for a dash.",,GVM
 1112,Bloomfield,LB1958,0129,ojg,,east2542,mi-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1141,Valentine,RV2002,0114,ojg,,east2542,miish-,OJ:3,,,,,,hairy,,initial
+1141,Valentine,RV2002,0114,ojg,,east2542,miish-,OJ:3,,,,,,hairy,hairy,initial
 1140,Valentine,RV2002,0114,ojg,,east2542,miishidoone-,OJ:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,derived initial seen in verb for 'have a hairy mouth'. 
 1111,Bloomfield,LB1958,0129,ojg,,east2542,mikkw-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1094,Bloomfield,LB1958,0129,ojg,,east2542,minkoška·t-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-982,Bloomfield,LB1958,"0127,0128",ojg,,east2542,mint-,OJ:1,,,,,,big,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicates with a and replacement of first vowel of root with a·.,"Andrew Medler, Walpole Island",GVM
-1044,Bloomfield,LB1958,0128,ojg,,east2542,minta·ss-,OJ:1,,,,,,ten,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not clear if he's saying this contains postradical -a·ss.,"Andrew Medler, Walpole Island",GVM
-2,Bloomfield,LB1958,0063,ojg,,east2542,miskw-,OJ:1,,,,,,red,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1020,Bloomfield,LB1958,0128,ojg,,east2542,miSS-,OJ:1,,,,,,big,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+982,Bloomfield,LB1958,"0127,0128",ojg,,east2542,mint-,OJ:1,,,,,,big,big,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicates with a and replacement of first vowel of root with a·.,"Andrew Medler, Walpole Island",GVM
+1044,Bloomfield,LB1958,0128,ojg,,east2542,minta·ss-,OJ:1,,,,,,ten,ten,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not clear if he's saying this contains postradical -a·ss.,"Andrew Medler, Walpole Island",GVM
+2,Bloomfield,LB1958,0063,ojg,,east2542,miskw-,OJ:1,,,,,,red,red,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+1020,Bloomfield,LB1958,0128,ojg,,east2542,miSS-,OJ:1,,,,,,big,big,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 104,Bloomfield,LB1958,0071,ojg,,east2542,missat-,OJ:1,,,,,,stomach,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-983,Bloomfield,LB1958,"0127,0128",ojg,,east2542,mitt-,OJ:1,,,,,,big,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicates with a and replacement of first vowel of root with a·.,"Andrew Medler, Walpole Island",GVM
-1050,Bloomfield,LB1958,0128,ojg,,east2542,na·n-,OJ:1,,,,,,five,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+983,Bloomfield,LB1958,"0127,0128",ojg,,east2542,mitt-,OJ:1,,,,,,big,big,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicates with a and replacement of first vowel of root with a·.,"Andrew Medler, Walpole Island",GVM
+1050,Bloomfield,LB1958,0128,ojg,,east2542,na·n-,OJ:1,,,,,,five,five,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 985,Bloomfield,LB1958,0127,ojg,,east2542,namat-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicates with a and replacement of first vowel of root with a·.,"Andrew Medler, Walpole Island",GVM
 986,Bloomfield,LB1958,"0127,0129",ojg,,east2542,nantaw-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicates with a and replacement of first vowel of root with a·.,"Andrew Medler, Walpole Island",GVM
 1103,Bloomfield,LB1958,0129,ojg,,east2542,nantw-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -1051,22 +1051,22 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 623,Bloomfield,LB1958,0105,ojg,,east2542,NG,OJ:1,,,,,,"smoke, mist, light",,final,TI,,,,,,,,,,,,,,,,,,,,,,,,-nt,,,ne·,,,,"No given entry here, but definition & components are listed. Possibly -ne·nt? P. 105, 15.36 (GVM)","Andrew Medler, Walpole Island",GVM
 928,Bloomfield,LB1958,0124,ojg,,east2542,ni·k-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1076,Bloomfield,LB1958,0129,ojg,,east2542,ni·mašk-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1014,Bloomfield,LB1958,0128,ojg,,east2542,ni·nkot-,OJ:1,,,,,,one,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Apparently with no difference in meaning there are double forms ninkot- and ni·nkot-"" p. 128","Andrew Medler, Walpole Island",GVM
-1047,Bloomfield,LB1958,0128,ojg,,east2542,ni·š-,OJ:1,,,,,,two,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1040,Bloomfield,LB1958,0128,ojg,,east2542,ni·šw- ,OJ:1,,,,,,two,,initial,,,,,,,,,,,,,,,,,,,,,ni·šwa·ss-,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1038,Bloomfield,LB1958,0128,ojg,,east2542,ni·šwa·ss-,OJ:1,,,,,,seven,,initial,,,,,,,,,,,,,,,,,,,,,,,,,ni·šw- ,,,-a·ss,,,,,"Andrew Medler, Walpole Island",GVM
-1049,Bloomfield,LB1958,0128,ojg,,east2542,ni·w-,OJ:1,,,,,,four,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+1014,Bloomfield,LB1958,0128,ojg,,east2542,ni·nkot-,OJ:1,,,,,,one,one,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Apparently with no difference in meaning there are double forms ninkot- and ni·nkot-"" p. 128","Andrew Medler, Walpole Island",GVM
+1047,Bloomfield,LB1958,0128,ojg,,east2542,ni·š-,OJ:1,,,,,,two,two,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+1040,Bloomfield,LB1958,0128,ojg,,east2542,ni·šw- ,OJ:1,,,,,,two,two,initial,,,,,,,,,,,,,,,,,,,,,ni·šwa·ss-,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+1038,Bloomfield,LB1958,0128,ojg,,east2542,ni·šwa·ss-,OJ:1,,,,,,seven,seven,initial,,,,,,,,,,,,,,,,,,,,,,,,,ni·šw- ,,,-a·ss,,,,,"Andrew Medler, Walpole Island",GVM
+1049,Bloomfield,LB1958,0128,ojg,,east2542,ni·w-,OJ:1,,,,,,four,four,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1072,Bloomfield,LB1958,0129,ojg,,east2542,nimi·šk-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1104,Bloomfield,LB1958,0129,ojg,,east2542,nimpi·w-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1013,Bloomfield,LB1958,"0128,0129",ojg,,east2542,ninkot-,OJ:1,,,,,,one,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Apparently with no difference in meaning there are double forms ninkot- and ni·nkot-"" p. 128","Andrew Medler, Walpole Island",GVM
-1039,Bloomfield,LB1958,"0128,0129",ojg,,east2542,ninkotw-,OJ:1,,,,,,one,,initial,,,,,,,,,,,,,,,,,,,,,ninkotwa·ss-,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1037,Bloomfield,LB1958,0128,ojg,,east2542,ninkotwa·ss-,OJ:1,,,,,,six,,initial,,,,,,,,,,,,,,,,,,,,,,,,,ninkotw-,,,-a·ss,,,,,"Andrew Medler, Walpole Island",GVM
-1053,Bloomfield,LB1958,0129,ojg,,east2542,ninkw-,OJ:1,,,,,,one,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1054,Bloomfield,LB1958,0129,ojg,,east2542,ninkwat-,OJ:1,,,,,,one,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+1013,Bloomfield,LB1958,"0128,0129",ojg,,east2542,ninkot-,OJ:1,,,,,,one,one,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Apparently with no difference in meaning there are double forms ninkot- and ni·nkot-"" p. 128","Andrew Medler, Walpole Island",GVM
+1039,Bloomfield,LB1958,"0128,0129",ojg,,east2542,ninkotw-,OJ:1,,,,,,one,one,initial,,,,,,,,,,,,,,,,,,,,,ninkotwa·ss-,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+1037,Bloomfield,LB1958,0128,ojg,,east2542,ninkotwa·ss-,OJ:1,,,,,,six,six,initial,,,,,,,,,,,,,,,,,,,,,,,,,ninkotw-,,,-a·ss,,,,,"Andrew Medler, Walpole Island",GVM
+1053,Bloomfield,LB1958,0129,ojg,,east2542,ninkw-,OJ:1,,,,,,one,one,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+1054,Bloomfield,LB1958,0129,ojg,,east2542,ninkwat-,OJ:1,,,,,,one,one,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1095,Bloomfield,LB1958,0129,ojg,,east2542,niška·t-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1048,Bloomfield,LB1958,0128,ojg,,east2542,niSS- ,OJ:1,,,,,,three,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+1048,Bloomfield,LB1958,0128,ojg,,east2542,niSS- ,OJ:1,,,,,,three,three,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1043,Bloomfield,LB1958,0128,ojg,,east2542,niSSw-,OJ:1,,,,,,NG,,postradical ,,,,,,,,,,,,,,,,,,,,,niššwa·ss-,,,,,,,,,,,"Formative occurs in component ""with mutation""","Andrew Medler, Walpole Island",GVM
-1042,Bloomfield,LB1958,0128,ojg,,east2542,niššwa·ss-,OJ:1,,,,,,eight,,initial,,,,,,,,,,,,,,,,,,,,,,,,,niSSw-,,,-a·ss,,,,"""with mutation""","Andrew Medler, Walpole Island",GVM
+1042,Bloomfield,LB1958,0128,ojg,,east2542,niššwa·ss-,OJ:1,,,,,,eight,eight,initial,,,,,,,,,,,,,,,,,,,,,,,,,niSSw-,,,-a·ss,,,,"""with mutation""","Andrew Medler, Walpole Island",GVM
 1143,Valentine,RV2002,0116,ojg,,east2542,ombiigwewe-,OJ:3,,,,,,make noise,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Curve Lake
 185,Bloomfield,LB1958,"0077,0128",ojg,,east2542,oN-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 388,Bloomfield,LB1958,0087,ojg,,east2542,on-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -1093,8 +1093,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1067,Bloomfield,LB1958,0129,ojg,,east2542,paššak-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1063,Bloomfield,LB1958,0129,ojg,,east2542,pašši·-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 999,Bloomfield,LB1958,0128,ojg,,east2542,pe·ppe·šš-,OJ:1,,,,,,NG,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicated form of pe·šš-.,"Andrew Medler, Walpole Island",GVM
-1052,Bloomfield,LB1958,0129,ojg,,east2542,pe·šiko·-,OJ:1,,,,,,one,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1051,Bloomfield,LB1958,0129,ojg,,east2542,pe·šikw-,OJ:1,,,,,,one,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+1052,Bloomfield,LB1958,0129,ojg,,east2542,pe·šiko·-,OJ:1,,,,,,one,one,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+1051,Bloomfield,LB1958,0129,ojg,,east2542,pe·šikw-,OJ:1,,,,,,one,one,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 998,Bloomfield,LB1958,0128,ojg,,east2542,pe·šš-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1030,Bloomfield,LB1958,0128,ojg,,east2542,pi·-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1116,Bloomfield,LB1958,0129,ojg,,east2542,pi·miskw-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -1103,13 +1103,13 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1098,Bloomfield,LB1958,0129,ojg,,east2542,pima·t-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1002,Bloomfield,LB1958,0128,ojg,,east2542,sa·k-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1093,Bloomfield,LB1958,0129,ojg,,east2542,sa·kit-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-1045,Bloomfield,LB1958,0128,ojg,,east2542,ša·nkass-,OJ:1,,,,,,nine,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ass,,,,,"Andrew Medler, Walpole Island",GVM
+1045,Bloomfield,LB1958,0128,ojg,,east2542,ša·nkass-,OJ:1,,,,,,nine,nine,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ass,,,,,"Andrew Medler, Walpole Island",GVM
 1105,Bloomfield,LB1958,0129,ojg,,east2542,ša·pw-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-4,Bloomfield,LB1958,0064,ojg,,east2542,sak-,OJ:1,,,,,,take hold,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+4,Bloomfield,LB1958,0064,ojg,,east2542,sak-,OJ:1,,,,,,take hold,take hold,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1003,Bloomfield,LB1958,0128,ojg,,east2542,sassa·k-,OJ:1,,,,,,NG,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicated form of sa·k-.,"Andrew Medler, Walpole Island",GVM
 1001,Bloomfield,LB1958,0128,ojg,,east2542,ši·ššik-,OJ:1,,,,,,NG,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicated form of šik-.,"Andrew Medler, Walpole Island",GVM
 1000,Bloomfield,LB1958,0128,ojg,,east2542,šik-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-5,Bloomfield,LB1958,0064,ojg,,east2542,šo·škw-,OJ:1,,,,,,smooth,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+5,Bloomfield,LB1958,0064,ojg,,east2542,šo·škw-,OJ:1,,,,,,smooth,smooth,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 1087,Bloomfield,LB1958,0129,ojg,,east2542,takko·-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 988,Bloomfield,LB1958,0127,ojg,,east2542,takkw-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reduplicates with a and replacement of first vowel of root with a·.,"Andrew Medler, Walpole Island",GVM
 977,Bloomfield,LB1958,0127,ojg,,east2542,tatakkw-,OJ:1,,,,,,NG,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -1124,7 +1124,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1099,Bloomfield,LB1958,0129,ojg,,east2542,wana·t-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 979,Bloomfield,LB1958,0127,ojg,,east2542,wawa·p-,OJ:1,,,,,,NG,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 288,Bloomfield,LB1958,"0083,0100,0125",ojg,,east2542,we·p-,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-496,Bloomfield,LB1958,"0095,0127",ojg,,east2542,wi·t-,OJ:1,,,,,,"along, accompany",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,appears to be a suggestion that this is made up of inflectional parts on p. 127 --GVM,"Andrew Medler, Walpole Island",GVM
+496,Bloomfield,LB1958,"0095,0127",ojg,,east2542,wi·t-,OJ:1,,,,,,"along, accompany","along, accompany",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,appears to be a suggestion that this is made up of inflectional parts on p. 127 --GVM,"Andrew Medler, Walpole Island",GVM
 1035,Bloomfield,LB1958,0128,ojg,,east2542,wi·wakkwe·- ,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Other postradical elements resemble medials, but are joined with the root in a unit which is treated in turn like a root""; here he says ""So perhaps also [this form] (-akkwe· beside -kkwe· 'head'?)","Andrew Medler, Walpole Island",GVM
 1034,Bloomfield,LB1958,0128,ojg,,east2542,wi·we·k- ,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Other postradical elements resemble medials, but are joined with the root in a unit which is treated in turn like a root""; this one has question mark after the medial -e·k 'cloth'.","Andrew Medler, Walpole Island",GVM
 1119,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ikw-,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,"-ikosi, -ikwat",,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,MAM
