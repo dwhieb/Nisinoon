@@ -16,7 +16,7 @@
         spellcheck=false
         type=search
       >
-      <span class=help-text>Searches forms (in any orthography) and definitions. Leave blank to display all components.</span>
+      <span class=help-text>Searches forms (in any orthography), tags, and glosses. Leave blank to display all components.</span>
 
       <div class=checkbox-field>
         <input id=case-sensitive-box name=caseSensitive type=checkbox>
@@ -119,13 +119,7 @@
                 </button>
                 {{#if UR }}<span aria-describedby=priority-hint class=priority>{{ UR.priority }}</span>{{/if}}
               </th>
-              <th {{#if definition }} aria-sort='{{ definition.direction }}' {{/if}} scope=col>
-                <button aria-describedby=sort-hint class=sort-button data-field=definition>
-                  <span>Definition</span>
-                  <svg aria-hidden class=sort-icon><use href='{{#if (is definition.direction 'ascending') }}#ascending{{else if (is definition.direction 'descending') }}#descending{{else}}#sort{{/if}}'></svg>
-                </button>
-                {{#if definition }}<span aria-describedby=priority-hint class=priority>{{ definition.priority }}</span>{{/if}}
-              </th>
+              <th class=simple-th scope=col>Tags</th>{{!-- NB: "Tags" column is not sortable. --}}
               <th {{#if type }} aria-sort='{{ type.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=type>
                   <span>Type</span>
@@ -143,9 +137,9 @@
               {{/with}}
 
               {{!-- Token Fields --}}
-              <th class=token-th scope=col>Forms</th>
-              <th class=token-th scope=col>URs</th>
-              <th class=token-th scope=col>Glosses</th>
+              <th class=simple-th scope=col>Forms</th>
+              <th class=simple-th scope=col>URs</th>
+              <th class=simple-th scope=col>Glosses</th>
 
             </tr>
           </thead>
@@ -155,7 +149,17 @@
                 <td class=language>{{ displayLanguage }}</td>
                 <td class=form>{{#if form }}<a class=link href='/components/{{ ID }}'>{{ form }}</a>{{else}}—{{/if}}</td>
                 <td class=UR>{{#if UR }}<a class=link href='/components/{{ ID }}'>/{{ UR }}/</a>{{else}}—{{/if}}</td>
-                <td class=definition>{{#if definition }}‘{{ definition }}’{{else}}—{{/if}}</td>
+                <td class=tags>
+                  {{#if tags }}
+                    <ul>
+                      {{#each tags as |tag| }}
+                        <li>‘{{ tag }}’</li>
+                      {{/each}}
+                    </ul>
+                  {{else}}
+                    —
+                  {{/if}}
+                </td>
                 <td class=component-type>{{#if type }}{{ type }}{{else}}—{{/if}}</td>
                 <td class=subcategory>{{#if subcategory }}{{ subcategory }}{{else}}—{{/if}}</td>
                 <td class=source-forms>

@@ -23,8 +23,18 @@
           <dd class=txn>{{#if PA }}{{ PA }}{{else}}—{{/if}}</dd>
         {{/unless}}
 
-        <dt>Definition</dt>
-        <dd>{{#if definition }}‘{{ definition }}’{{else}}—{{/if}}</dd>
+        <dt>Tags</dt>
+        <dd>
+          {{#if tags }}
+            <ul>
+              {{#each tags as |tag| }}
+                <li>‘{{ tag }}’</li>
+              {{/each}}
+            </ul>
+          {{else}}
+            —
+          {{/if}}
+        </dd>
 
         <dt>Component Type</dt>
         <dd>{{#if type }}{{ type }}{{else}}—{{/if}}</dd>

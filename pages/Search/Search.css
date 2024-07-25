@@ -281,7 +281,7 @@ search {
   color:            var(--off-white);
 }
 
-:is(.sort-button, .token-th) {
+:is(.sort-button, .simple-th) {
   padding:     var(--text-padding);
   white-space: nowrap;
   word-break:  keep-all;

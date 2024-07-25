@@ -34,16 +34,16 @@ export default class Database {
 
     // NB: Be careful not to alter the original array here.
     return Array.from(this.components).filter(function({
-      definition,
       form,
       language,
+      tags,
       tokens,
       UR,
     }) {
 
       if (langQuery && langQuery !== `all` && langQuery !== language) return false
 
-      return regexp.test(normalize(definition))
+      return tags?.some(tag => regexp.test(normalize(tag)))
       || regexp.test(normalize(form))
       || regexp.test(normalize(UR))
       || tokens.some(function({

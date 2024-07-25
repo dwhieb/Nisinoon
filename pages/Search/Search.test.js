@@ -85,7 +85,7 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
-    it(`Definition (Project)`, function() {
+    it(`Tags`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`motorize`)
       cy.get(`form`).submit()
