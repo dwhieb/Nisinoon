@@ -30,7 +30,6 @@ export default class Components extends Map {
     components:          `Contains component (enter)`,
     condition:           `Condition`,
     containedIn:         `Formative/component occurs in what component(s)`,
-    definition:          `Project Definition`,
     deverbal:            `Deverbal (y/n)`,
     deverbalFrom:        `Deverbal from`,
     dialect:             `Dialect`,
@@ -158,7 +157,6 @@ export default class Components extends Map {
       baseCategories,
       components,
       containedIn,
-      definition:      record[cols.definition],
       deverbal:        record[cols.deverbal],
       deverbalFrom:    record[cols.deverbalFrom],
       dialect:         record[cols.dialect],
@@ -179,6 +177,7 @@ export default class Components extends Map {
       PA:              record[cols.proto],
       specificity:     record[cols.specificity],
       subcategory:     record[cols.subcategory],
+      tags:            record[cols.tags],
       type:            record[cols.type],
       UR:              record[cols.UR],
     })

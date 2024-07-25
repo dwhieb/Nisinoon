@@ -4,6 +4,7 @@ import cleanUR       from '../utilities/cleanUR.js'
 import Matches       from './Matches.js'
 import Orthographies from './Orthographies.js'
 
+const commaRegExp   = /, \s*/v
 const orthographies = new Orthographies
 
 await orthographies.load()
@@ -15,7 +16,6 @@ export default class Component {
     baseCategories,
     components,
     containedIn,
-    definition,
     deverbal,
     deverbalFrom,
     dialect,
@@ -37,6 +37,7 @@ export default class Component {
     reduplicated,
     specificity,
     subcategory,
+    tags,
     type,
     UR,
   } = {}) {
@@ -54,9 +55,6 @@ export default class Component {
 
     // Contained In
     if (containedIn.length) this.containedIn = containedIn
-
-    // Definition
-    if (definition) this.definition = cleanGloss(definition)
 
     // Deverbal
     this.deverbal = deverbal === `Y`
@@ -95,6 +93,15 @@ export default class Component {
 
     // Subcategory
     if (subcategory) this.subcategory = subcategory
+
+    // Tags
+    if (tags) {
+      this.tags = tags
+      .normalize()
+      .split(commaRegExp)
+      .filter(Boolean)
+      .map(cleanGloss)
+    }
 
     // Type
     if (type) this.type = type
