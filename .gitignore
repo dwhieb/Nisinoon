@@ -9,4 +9,5 @@ data/credentials.json
 node_modules/
 sprites.hbs
 temp.js
+temp.json
 working.js

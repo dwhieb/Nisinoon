@@ -6,7 +6,7 @@ import { outputFile } from 'fs-extra/esm'
 import path           from 'node:path'
 import ProgressBar    from 'progress'
 import { readFile }   from 'node:fs/promises'
-import { setTimeout } from 'node:timers/promises'
+import retryRequest   from './utilities/retryRequest.js'
 import stringifyCSV   from './utilities/stringifyCSV.js'
 
 export default class DataManager {
@@ -99,29 +99,8 @@ export default class DataManager {
     })
 
     for (const key of this.languages.keys()) {
-
-      let waitTime = 1
-
-      const makeRequest = async () => {
-        try {
-          await this.fetchLanguageComponents(key)
-        } catch (e) {
-          if (e?.response?.status === 429) {
-
-            waitTime *= 2
-            console.warn(`\nHit rate limit. Retrying after ${ waitTime }ms.`)
-            await setTimeout(waitTime)
-            await makeRequest()
-
-          } else {
-            throw e
-          }
-        }
-      }
-
-      await makeRequest() // Kick off request sequence
+      await retryRequest(this.fetchLanguageComponents.bind(this), key)
       progressBar.tick()
-
     }
 
   }

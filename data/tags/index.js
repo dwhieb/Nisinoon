@@ -6,7 +6,7 @@ import { parse as parseCSV } from 'csv-parse/sync'
 import path                  from 'node:path'
 import ProgressBar           from 'progress'
 import { readFile }          from 'node:fs/promises'
-import { setTimeout }        from 'node:timers/promises'
+import retryRequest          from '../utilities/retryRequest.js'
 
 const csvPath = path.resolve(import.meta.dirname, `tags.csv`)
 
@@ -70,12 +70,23 @@ async function updateSpreadsheet(lang) {
   const headings        = originalRows.shift()
   const { range }       = data
 
+  // Replace "Definition" heading with "Tags"
+  const definitionIndex = headings.indexOf(`Project Definition`)
+  const tagsHeader      = `Tags`
+
+  if (definitionIndex !== -1) headings.splice(definitionIndex, 1, tagsHeader)
+
   const records = originalRows.map(row => {
+
     const record = {}
+
     row.forEach((cell, i) => {
-      record[headings[i]] = cell
+      const heading = headings[i]
+      if (heading) record[heading] = cell
     })
+
     return record
+
   })
 
   const cols        = Components.columns
@@ -84,15 +95,17 @@ async function updateSpreadsheet(lang) {
 
   for (const record of records) {
 
-    const gloss = record[cols.gloss].trim()
+    const gloss = record[cols.gloss]?.trim()
     const type  = record[cols.type]
     const tags  = tagsMap.get(gloss)
 
     if (gloss && tags && type === `initial`) {
-      record[cols.definition] = tags.join(`, `)
+      record[cols.tags] = tags.join(`, `)
     }
 
-    updatedRows.push(Object.values(record))
+    const row = Object.values(record)
+
+    updatedRows.push(row)
 
   }
 
@@ -129,33 +142,8 @@ async function updateAllSpreadsheets() {
   const progressBar = new ProgressBar(`:bar`, { total: languages.size })
 
   for (const key of languages.keys()) {
-
-    let waitTime = 1
-
-    const makeRequest = async () => {
-      try {
-
-        await updateSpreadsheet(key)
-
-      } catch (e) {
-
-        if (e?.response?.status === 429) {
-
-          waitTime *= 2
-          console.warn(`\nHit rate limit. Retrying after ${ waitTime }ms.`)
-          await setTimeout(waitTime)
-          await makeRequest()
-
-        } else {
-          throw e
-        }
-
-      }
-    }
-
-    await makeRequest() // Kick off request sequence
+    await retryRequest(updateSpreadsheet, key)
     progressBar.tick()
-
   }
 
 }
