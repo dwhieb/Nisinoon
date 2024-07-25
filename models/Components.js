@@ -63,6 +63,7 @@ export default class Components extends Map {
     stemSubcategory:     `Stem subcategory`,
     stemUR:              `Stem UR`,
     subcategory:         `Subcategory`,
+    tags:                `Tags`,
     type:                `Component Type`,
     UR:                  `UR (if given; if different)`,
   }
