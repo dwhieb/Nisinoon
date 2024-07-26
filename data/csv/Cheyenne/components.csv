@@ -212,7 +212,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 211,Fisher et al.,LF2019,,chy,,chey1247,-mé'hahtsená,CH:1,,,,,,"beard, moustache",,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 212,Fisher et al.,LF2019,,chy,,chey1247,-méa'há,CH:1,,,,,,smell,,final,II,,,,,-méa'xe,,,,,,,,,,-hávėséveméa'há / -hávėséveméa'xe (?),,,V,II,smell bad,,LF2019,-mȧheméa'há / -mȧheméa'xe (?),,,V,II,all smell,,LF2019,-móxėšéheméa'há,,,V,II,smell of mint,,LF2019,,,,,,,,,,,,,,,,,MAM
 213,Fisher et al.,LF2019,,chy,,chey1247,-méa'xe,CH:1,,,,,,"smell, stink",,final,AI,,,,,,-méa'há,,,,,,,,,-hávėséveméa'xe,,,V,AI,smell bad,,LF2019,-he'pómea'xe,,,V,AI,smell of (tobacco) smoke,,LF2019,-mȧheméa'xe,,,V,AI,all smell,,LF2019,-hoxeméa'xe,,,V,AI,"smell rotten, rotten smell, stink",,LF2019,,,,,,,,,MAM
-214,Fisher et al.,LF2019,,chy,,chey1247,-méahtse,CH:1,,,,,,mouth smell,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+214,Fisher et al.,LF2019,,chy,,chey1247,-méahtse,CH:1,,,,,,"mouth, smell",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 215,Fisher et al.,LF2019,,chy,,chey1247,-mée,CH:1,,,,,,smell,smell,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Written with leading dash but marked as initial - probably a typo. ""Etym: cf. *mya:-.""",,MAM
 216,Fisher et al.,LF2019,,chy,,chey1247,-méená,CH:1,,,,,,"feather, quill",,medial,AnimDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 217,Fisher et al.,LF2019,,chy,,chey1247,-méená,CH:1,,,,,,"collarbone, feather",,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -402,7 +402,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 401,Fisher et al.,LF2019,,chy,,chey1247,-ová,CH:1,,,,,,"ceremony, mysterious, sacred, spiritual ??",,final,AI,,,,,,,,,,,,,,,-ovahe,,,V,AI,"mysterious, powerful ??",,LF2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: ?? is in-text; ""perhaps this is no more than the abstract -ová intransitive final""",,MAM
 402,Fisher et al.,LF2019,,chy,,chey1247,-óvahe,CH:1,,,,,,"group, class",,final,AI,,,,,,-óvátó,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 403,Fisher et al.,LF2019,,chy,,chey1247,-óvátó,CH:1,,,,,,"group, class",,final,II,,,,,-óvahe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-404,Fisher et al.,LF2019,,chy,,chey1247,-óvé,CH:1,,,,*-anwi ??,,"group of, class, unit. suffixed to number initials",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: ?? is in-text,,MAM
+404,Fisher et al.,LF2019,,chy,,chey1247,-óvé,CH:1,,,,*-anwi ??,,"group of, class, unit, suffixed to number initials",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: ?? is in-text,,MAM
 405,Fisher et al.,LF2019,,chy,,chey1247,-ovésé,CH:1,,,,,,hair,,medial,Dep,,,,,,,,,,,,,,,-ka'ovése,,,V,AI,have short hair,,LF2019,-noónovésé,,,V,AI,have faded hair,,LF2019,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 406,Fisher et al.,LF2019,,chy,,chey1247,-óvohe,CH:1,,,,,,"child, children",,final,AI,,,,,,,,,,,,,,,-méohtovohe,,,V,AI,love baby (or small child),,LF2019,-na'tóvohe,,,V,AI,"beat child(ren), scold child(ren)",,LF2019,-néstovohe,,,V,AI,"breastfeed, suckle, nurse child(ren)",,LF2019,-páo'óvohe,,,V,AI,carry baby in a blanket on the back,,LF2019,,,,,,,,,MAM
 407,Fisher et al.,LF2019,,chy,,chey1247,-óvoht,CH:1,,,,,,haul,,medial,,,,,,,,,,,,,,,,-anóvȯhto'he,,,V,AI,unload,,LF2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM

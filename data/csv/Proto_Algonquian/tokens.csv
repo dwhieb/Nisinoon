@@ -901,12 +901,12 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 881,Hewson,JH_nd-a,0020,alg,,algo1256,*alo·θkan-,PA:6,,,,,,raspberry,,initial
 882,Hewson,JH_nd-a,0020,alg,,algo1256,*alw(aw)-,PA:6,,,,,,"rest, cease",,initial
 883,Hewson,JH_nd-b,0047,alg,,algo1256,*am,PA:4,,,,,,"eat, bite, mouth; see",,final,TI
-884,Hewson,JH_nd-a,0020,alg,,algo1256,*amači-,PA:6,,,,,,"awake, arouse",,initial
+889,Hewson,JH_nd-a,0020,alg,,algo1256,*amat-,PA:6,,,,,,"awake, arouse",,initial
+889,Hewson,JH_nd-a,0020,alg,,algo1256,*amas-,PA:6,,,,,,"awake, arouse",,initial
+889,Hewson,JH_nd-a,0020,alg,,algo1256,*amači-,PA:6,,,,,,"awake, arouse",,initial
 885,Hewson,JH_nd-b,0048,alg,,algo1256,*amam,PA:4,,,,,,pain
 886,Hewson,JH_nd-b,0048,alg,,algo1256,*amamo,PA:4,,,,,,pain,,final,AI,,,,,,,,,*amant
 887,Hewson,JH_nd-b,0048,alg,,algo1256,*amant,PA:4,,,,,,pain,,final,TI,,,,,,*amamo
-888,Hewson,JH_nd-a,0020,alg,,algo1256,*amas-,PA:6,,,,,,"awake, arouse",,initial
-889,Hewson,JH_nd-a,0020,alg,,algo1256,*amat-,PA:6,,,,,,"awake, arouse",,initial
 890,Hewson,JH_nd-b,0049,alg,,algo1256,*amaw,PA:4,,,,,,two goal final,double object,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: ""(TA on TI)"""
 891,Hewson,JH_nd-b,0054,alg,,algo1256,*ame:kw,PA:4,,,,,,fish
 892,Hewson,JH_nd-b,0054,alg,,algo1256,*ame:ʔs(e:),PA:4,,,,,,fish
@@ -2472,12 +2472,12 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 2466,Hewson,JH_nd-a,0329,alg,,algo1256,*wešk-,PA:6,,,,,,"young, new",,initial
 2469,Hewson,JH_nd-a,0330,alg,,algo1256,*weškini·ki-,PA:6,,,,,,youth,,initial
 2470,Hewson,JH_nd-a,0330,alg,,algo1256,*wet-,PA:6,,,,,,"pull, take",,initial
-2471,Hewson,JH_nd-b,0245,alg,,algo1256,*wet(a:),PA:6,,,,,,lead carry,,final,TI,,,,,,,,*wel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: [sic]
+2471,Hewson,JH_nd-b,0245,alg,,algo1256,*wet(a:),PA:6,,,,,,"lead, carry",,final,TI,,,,,,,,*wel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: [sic]
 2472,Hewson,JH_nd-a,0330,alg,,algo1256,*weta·hp-,PA:6,,,,,,"take, pick up",,initial
 2473,Hewson,JH_nd-a,0331,alg,,algo1256,*weta·paw-,PA:6,,,,,,wagon,,initial
 2474,Hewson,JH_nd-a,0331,alg,,algo1256,*weta·pya·n-,PA:6,,,,,,wagon,,initial
 2475,Hewson,JH_nd-a,0331,alg,,algo1256,*wetam-,PA:6,,,,,,"keep busy, delay",,initial
-2476,Hewson,JH_nd-b,0245,alg,,algo1256,*wetaw,PA:6,,,,,,two goal (lead carry),,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: [sic]
+2476,Hewson,JH_nd-b,0245,alg,,algo1256,*wetaw,PA:6,,,,,,"two goal (lead, carry)",,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: [sic]
 2477,Hewson,JH_nd-a,0331,alg,,algo1256,*wetehči-,PA:6,,,,,,"come upon, reach",,initial
 2478,Hewson,JH_nd-a,0331,alg,,algo1256,*weteht-,PA:6,,,,,,"come upon, reach",,initial
 2479,Hewson,JH_nd-a,0331,alg,,algo1256,*wetehθ-,PA:6,,,,,,"come upon, reach",,initial
