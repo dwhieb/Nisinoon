@@ -1,6 +1,7 @@
 /* global document */
 
 import Copier     from '../../scripts/Copier.js'
+import Downloader from './scripts/Downloader.js'
 import SearchForm from './scripts/SearchForm.js'
 import Table      from './scripts/Table.js'
 
@@ -25,3 +26,9 @@ search.initialize()
 const table = new Table
 
 table.initialize()
+
+// Initialize download buttons
+
+const downloader = new Downloader
+
+downloader.initialize()

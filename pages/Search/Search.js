@@ -1,4 +1,5 @@
 import SortDirectives from '../../scripts/SortDirectives.js'
+import toCSV          from './scripts/toCSV.js'
 
 /**
  *
@@ -65,84 +66,105 @@ export function Search(req, res) {
     })
   }
 
-  // Pagination
+  function html() {
 
-  limit   = Number(limit)
-  offset  = Number(offset)
-  results = results.slice(offset, offset + limit)
+    // Pagination
 
-  const numAdjacentPages = 5
-  const lastPageOffset   = Math.floor(numTotalResults / limit) * limit
-  const nextPageOffset   = Math.min(offset + limit, numTotalResults)
-  const prevPageOffset   = Math.max(offset - limit, 0)
-  const url              = new URL(req.originalUrl, `${ req.protocol }://${ req.host }`)
+    limit = Number(limit)
+    offset = Number(offset)
+    results = results.slice(offset, offset + limit)
 
-  const prevPages = []
-  const nextPages = []
+    const numAdjacentPages = 5
+    const lastPageOffset = Math.floor(numTotalResults / limit) * limit
+    const nextPageOffset = Math.min(offset + limit, numTotalResults)
+    const prevPageOffset = Math.max(offset - limit, 0)
+    const url = new URL(req.originalUrl, `${ req.protocol }://${ req.host }`)
 
-  let prevOffset = offset - limit
+    const prevPages = []
+    const nextPages = []
 
-  while (prevOffset >= 0 && prevPages.length < numAdjacentPages) {
+    let prevOffset = offset - limit
 
-    prevPages.unshift({
-      link:    changeParam(url, `offset`, prevOffset),
-      pageNum: Math.floor(prevOffset / limit) + 1,
-    })
+    while (prevOffset >= 0 && prevPages.length < numAdjacentPages) {
 
-    prevOffset -= limit
+      prevPages.unshift({
+        link:    changeParam(url, `offset`, prevOffset),
+        pageNum: Math.floor(prevOffset / limit) + 1,
+      })
 
-  }
+      prevOffset -= limit
 
-  const [first] = prevPages
+    }
 
-  if (first && first.pageNum !== 1) {
-    first.jump = true
-  }
+    const [first] = prevPages
 
-  let nextOffset = offset + limit
+    if (first && first.pageNum !== 1) {
+      first.jump = true
+    }
 
-  while (nextOffset <= numTotalResults && nextPages.length <= numAdjacentPages) {
+    let nextOffset = offset + limit
 
-    nextPages.push({
-      link:    changeParam(url, `offset`, nextOffset),
-      offset:  nextOffset,
-      pageNum: Math.floor(nextOffset / limit) + 1,
-    })
+    while (nextOffset <= numTotalResults && nextPages.length <= numAdjacentPages) {
 
-    nextOffset += limit
+      nextPages.push({
+        link:    changeParam(url, `offset`, nextOffset),
+        offset:  nextOffset,
+        pageNum: Math.floor(nextOffset / limit) + 1,
+      })
 
-  }
+      nextOffset += limit
 
-  const last = nextPages.at(-1)
+    }
 
-  if (last && last.offset !== lastPageOffset) {
-    last.jump = true
-  }
+    const last = nextPages.at(-1)
 
-  // Render page
+    if (last && last.offset !== lastPageOffset) {
+      last.jump = true
+    }
 
-  Object.assign(context, {
-    hasResults: true,
-    numResults: results.length.toLocaleString(),
-    pagination: {
-      currentPage: Math.floor(offset / limit) + 1,
-      endIndex:    Math.min(offset + limit, numTotalResults).toLocaleString(),
-      links:       {
-        firstPage: changeParam(url, `offset`, 0),
-        lastPage:  changeParam(url, `offset`, lastPageOffset),
-        nextPage:  changeParam(url, `offset`, nextPageOffset),
-        prevPage:  changeParam(url, `offset`, prevPageOffset),
+    // Render page
+
+    Object.assign(context, {
+      hasResults: true,
+      numResults: results.length.toLocaleString(),
+      pagination: {
+        currentPage: Math.floor(offset / limit) + 1,
+        endIndex:    Math.min(offset + limit, numTotalResults).toLocaleString(),
+        links:       {
+          firstPage: changeParam(url, `offset`, 0),
+          lastPage:  changeParam(url, `offset`, lastPageOffset),
+          nextPage:  changeParam(url, `offset`, nextPageOffset),
+          prevPage:  changeParam(url, `offset`, prevPageOffset),
+        },
+        nextPages,
+        prevPages,
+        show:       numTotalResults > limit,
+        startIndex: (offset + 1).toLocaleString(),
       },
-      nextPages,
-      prevPages,
-      show:       numTotalResults > limit,
-      startIndex: (offset + 1).toLocaleString(),
+      results,
+      sort:         Object.fromEntries(sort),
+      totalResults: numTotalResults.toLocaleString(),
+    })
+
+    res.render(`Search/Search`, context)
+
+  }
+
+  res.format({
+
+    html,
+
+    json() {
+      res.json(results)
     },
-    results,
-    sort:         Object.fromEntries(sort),
-    totalResults: numTotalResults.toLocaleString(),
+
+    csv() {
+      const csv = toCSV(results)
+      res.type(`csv`)
+      res.send(csv)
+    },
+
   })
 
-  res.render(`Search/Search`, context)
 
 }

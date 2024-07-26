@@ -64,6 +64,29 @@ body {
 
 }
 
+#download-buttons {
+
+  flex-direction: row;
+  gap:            0.25em;
+
+  & button {
+    align-items:     center;
+    display:         flex;
+    flex-direction:  row;
+    gap:             0.25em;
+    inline-size:     4.5em;
+    justify-content: center;
+    margin:          0.25em;
+  }
+
+}
+
+.download-icon {
+  --icon-size: 1em;
+  block-size:  var(--icon-size);
+  inline-size: var(--icon-size);
+}
+
 /* NB: The .sticky class is applied conditionally in the footer Handlebars template. */
 .footer {
 

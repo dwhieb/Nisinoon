@@ -193,6 +193,25 @@
         {{> Search/components/pagination/pagination }}
       {{/if}}
 
+      <section class='download-options sticky'>
+
+        <h2>Download these Results</h2>
+
+        <div id=download-buttons>
+          <button class=button name=csv type=button>
+            <span>CSV</span>
+            <svg aria-hidden=true class=download-icon><use href=#download></svg>
+            <span class=visually-hidden>Download as CSV</span>
+          </button>
+          <button class=button name=json type=button>
+            <span>JSON</span>
+            <svg aria-hidden=true class=download-icon><use href=#download></svg>
+            <span class=visually-hidden>Download as JSON</span>
+          </button>
+        </div>
+
+      </section>
+
       <section class='citation sticky'>
 
         <h2>How to Cite these Results</h2>

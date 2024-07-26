@@ -6,6 +6,7 @@ assets/scripts
 assets/styles
 credentials.json
 data/credentials.json
+downloads/
 node_modules/
 sprites.hbs
 temp.js
