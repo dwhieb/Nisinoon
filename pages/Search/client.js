@@ -1,9 +1,9 @@
 /* global document */
 
-import Copier     from '../../scripts/Copier.js'
-import Downloader from './scripts/Downloader.js'
-import SearchForm from './scripts/SearchForm.js'
-import Table      from './scripts/Table.js'
+import Copier      from '../../scripts/Copier.js'
+import Downloader  from './scripts/Downloader.js'
+import QuickSearch from './scripts/QuickSearch.js'
+import Table       from './scripts/Table.js'
 
 // Initialize button to copy citation information
 
@@ -17,18 +17,15 @@ if (button && el) {
 
 // Initialize search box
 
-const search = new SearchForm
-
-search.initialize()
+const quickSearch = new QuickSearch
+quickSearch.initialize()
 
 // Initialize results table
 
 const table = new Table
-
 table.initialize()
 
 // Initialize download buttons
 
 const downloader = new Downloader
-
 downloader.initialize()

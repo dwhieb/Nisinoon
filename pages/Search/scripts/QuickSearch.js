@@ -1,6 +1,6 @@
 /* global document, history, localStorage, location */
 
-export default class SearchForm {
+export default class QuickSearch {
 
   initialize() {
 
