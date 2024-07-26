@@ -26,6 +26,10 @@ export default class Downloader {
 
   initialize() {
 
+    const downloads = document.getElementById(`download-buttons`)
+
+    if (!downloads) return
+
     const csv  = document.querySelector(`button[name=csv]`)
     const json = document.querySelector(`button[name=json]`)
 
