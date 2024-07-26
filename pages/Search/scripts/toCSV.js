@@ -18,20 +18,36 @@ function preprocessComponent(data) {
   component.matchTI        = component.matches.TI
   component.tags           = component.tags?.join(`; `)
 
+  // Stem Fields
+
+  if (component.stems) {
+
+    const { stems } = component
+
+    component[`stems.forms`]         = mergeFields(stems, `form`)
+    component[`stems.UR`]            = mergeFields(stems, `UR`)
+    component[`stems.glosses`]       = mergeFields(stems, `gloss`)
+    component[`stems.categories`]    = mergeFields(stems, `category`)
+    component[`stems.subcategories`] = mergeFields(stems, `subcategory`)
+    component[`stems.secondary`]     = mergeFields(stems, `secondary`)
+    component[`stems.sources`]       = mergeFields(stems, `sources`)
+
+  }
+
   // Token Fields
 
   if (component.tokens) {
 
     const { tokens } = component
 
-    component[`source.forms`]        = mergeFields(tokens, `form`)
-    component[`source.UR`]           = mergeFields(tokens, `UR`)
-    component[`source.PA`]           = mergeFields(tokens, `PA`)
-    component[`source.orthography`]  = mergeFields(tokens, `orthography`)
-    component[`source.glosses`]      = mergeFields(tokens, `gloss`)
-    component[`source.notes`]        = mergeFields(tokens, `notes`)
-    component[`source.bibliography`] = mergeFields(tokens, `bibliography`)
-    component[`source.speaker`]      = mergeFields(tokens, `speaker`)
+    component[`sources.forms`]         = mergeFields(tokens, `form`)
+    component[`sources.UR`]            = mergeFields(tokens, `UR`)
+    component[`sources.PA`]            = mergeFields(tokens, `PA`)
+    component[`sources.orthographies`] = mergeFields(tokens, `orthography`)
+    component[`sources.glosses`]       = mergeFields(tokens, `gloss`)
+    component[`sources.notes`]         = mergeFields(tokens, `notes`)
+    component[`sources.bibliography`]  = mergeFields(tokens, `bibliography`)
+    component[`sources.speakers`]      = mergeFields(tokens, `speaker`)
 
   }
 
