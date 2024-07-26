@@ -1,7 +1,29 @@
 <main class=search-page id=main>
 
-  <search class=sticky>
-    <form class=search-form id=search-form method=get>
+  <fieldset class='search-mode sticky'>
+
+    <legend class=visually-hidden>Select a search mode:</legend>
+
+    <label>
+      <span>Quick Search</span>
+      <input checked name=search type=radio value=quick>
+    </label>
+
+    <label>
+      <span>Advanced Search</span>
+      <input name=search type=radio value=advanced>
+    </label>
+
+  </fieldset>
+
+  <search class='advanced-search sticky'>
+    <form id=advanced-search-form method=get>
+      <p>Coming soon!</p>
+    </form>
+  </search>
+
+  <search class='quick-search sticky'>
+    <form id=quick-search-form method=get>
 
       <label for=search-box>Quick Search</label>
       <input

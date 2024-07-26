@@ -6,7 +6,7 @@ export default class SearchForm {
 
     this.caseSensitive = document.getElementById(`case-sensitive-box`)
     this.diacritics    = document.getElementById(`diacritics-box`)
-    this.form          = document.getElementById(`search-form`)
+    this.form          = document.getElementById(`quick-search-form`)
     this.language      = document.getElementById(`language-select`)
     this.regex         = document.getElementById(`regex-box`)
     this.reset         = document.getElementById(`reset-button`)

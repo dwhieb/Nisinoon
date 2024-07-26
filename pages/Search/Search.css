@@ -196,6 +196,16 @@ label {
   vertical-align:     middle;
 }
 
+#quick-search-form {
+
+  max-inline-size: 35em;
+
+  & button {
+    inline-size: 5em;
+  }
+
+}
+
 #results {
 
   border-collapse: separate; /* This is necessary for borders to stay fixed with position: sticky */
@@ -267,7 +277,7 @@ search {
   display:         flex;
   flex-direction:  column;
   max-inline-size: 30em;
-  padding:         1em;
+  padding-inline:  1em;
 }
 
 .search-controls {
@@ -278,14 +288,37 @@ search {
   margin:          0.5em;
 }
 
-.search-form {
+.search-mode {
 
-  max-inline-size: 35em;
+  display:         flex;
+  flex-direction:  row;
+  font-size:       x-large;
+  gap:             0.5em;
+  justify-content: center;
+  padding:         1em;
 
-  & button {
-    inline-size: 5em;
+  & label {
+    align-items:    baseline;
+    flex-direction: row;
+    padding:        0;
   }
 
+  & [type=radio] {
+    --radio-size: 1em;
+    all:          revert;
+    accent-color: var(--berry-blue);
+    block-size:   var(--radio-size);
+    inline-size:  var(--radio-size);
+  }
+
+}
+
+.search-mode:has([value=quick]:checked) ~ .advanced-search {
+  display: none;
+}
+
+.search-mode:has([value=advanced]:checked) ~ .quick-search {
+  display: none;
 }
 
 .sort-button {
