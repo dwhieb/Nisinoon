@@ -49,7 +49,7 @@ Cree_Naskapi_Western,Y,Western Naskapi,C-N,---,west2626
 Cree_Northern,,Northern Cree,C,---,---
 Cree_Northern_Alberta,,Northern Alberta Cree,C,---,nort2960,,,,[public] Dialect of Plains Cree but included here because there's a GC
 Cree_Northern_East,Y,Northern East Cree,C-NE,crl,nort1552,,"iyiyiu-Ayamiwin, ᐄᔨᔫ ᐊᔨᒨᓐ ",,[public] Autonym source: Wikipedia
-Cree_Plains,Y,Plains Cree,C-P,crk,plai1258,,"nêhiyawêwin, ᓀᐦᐃᔭᐍᐏᐣ",,[public] Autonym source: Wikipedia
+Cree_Plains,Y,Plains Cree,C-P,crk,plai1258,,"nêhiyawêwin, ᓀᐦᐃᔭᐍᐏᐣ, nîhiyawîwin",,[public] Autonym source: Wikipedia
 Cree_Plains_Creeic,,Plains Creeic,C,---,plai1254,,,,[private] Unlikely to ever be used!
 Cree_Plains_Nuclear,,Plains Cree Nuclear,C,---,nucl1654,,,,[public] Dialect of Plains Cree but included here because there's a GC
 Cree_Southern_East,Y,Southern East Cree,C-SE,crj,sout2978,,iyiniu-Ayamiwin ᐄᓅ ᐊᔨᒨᓐ,,[public] Autonym source: Wikipedia
@@ -57,7 +57,7 @@ Cree_Swampy,Y,Swampy Cree,C,csw,swam1239,,"Nêhinawêwin, ᓀᐦᐃᓇᐍᐏᐣ 
 Cree_Swampy_Eastern,,Eastern Swampy Cree,C,---,east2541,,"ininîmowin, ᐃᓂᓃᒧᐎᓐ",,"[public] Dialect of Swampy Cree but included here because there's a GC, [public] Autonym source: Wikipedia "
 Cree_Swampy_Western,,Western Swampy Cree,C,---,west2628,,"nêhinawêwin, ᓀᐦᐃᓇᐌᐎᐣ",,"[public] Dialect of Swampy Cree but included here because there's a GC, [public] Autonym source: Wikipedia "
 Cree_Western_York,,Western York Cree,C,---,west2629,,,,[public] Dialect of Plains Cree but included here because there's a GC
-Cree_Woods,,Woods Cree,C,cwd,wood1236,Woods Cree,"nīhithawīwin, ᓃᐦᐃᖬᐑᐏᐣ",,[public] Autonym source: Wikipedia 
+Cree_Woods,,Woods Cree,C,cwd,wood1236,"Woodland Cree, Rock (Rocky) Cree","nîhithawîwin, ᓃᐦᐃᖬᐑᐏᐣ",,[public] Autonym source: Wikipedia 
 Deer Lake Severn Ojibwe see Ojibwe_Deer_Lake_Severn
 Delawaran,,Delawaran,D,---,dela1253,,,,[public] Used only if specific Delaware language not specified. Includes Mahican.
 Delaware_Common,Y,Common Delaware,D,del,comm1246,,,,[public] Used only when Munsee or Unami/Lenape not specified
@@ -123,7 +123,7 @@ Nipissing see Ojibwe_Nipissing
 Nipmuk see Loup_A
 Nishnaabemwin see Ojibwe_Eastern
 Northern Alberta Cree see Cree_Northern_Alberta
-Northern Algonquin see Ojibwe_Northern_Algonquin
+Ojibwe_S_Macrogroup
 Northern East Cree see Cree_Northern_East
 Northern Mi'kmaq see Mi'kmaq_Northern
 Northwestern Ojibwe see Ojibwe_Northwestern
@@ -148,8 +148,10 @@ Ojibwe_Eastern,Y,Eastern Ojibwe,OJ,ojg,east2542,Eastern Ojibwa,Nishnaabemwin
 Ojibwe_Lac_Seul,,Lac Seul Ojibwe,OJ,---,lacs1238,Lac Seul Ojibwa,,,[public] GL: dialect of Northwestern Ojibwa
 Ojibwe_Lake_of_the_Woods,,Lake of the Woods Ojibwe,OJ,---,lake1257,Lake of the Woods Ojibwa,,,[public] GL: dialect of Northwestern Ojibwa
 Ojibwe_Minnesota_Border_Chippewa,,Minnesota Border Chippewa,OJ,---,minn1250,,,,[public] Dialect of Chippewa
+Ojibwe_N_Macrogroup,Y,Northern Macro-Group (Ojibwe),OJ,---,---,,,,"[public] Category comes from Valentine 2002. He says it ""encompass[es] particularly northern Algonquin and Severn Ojibwe, but also to a varying extent varieties of Ojibwe spoken in northern Ontario, extending east across the Canadian shield."""
 Ojibwe_Nipissing,Y,Nipissing,OJ,---,mini1254,,,,"[public] ""... with Mississauga Ojibwa and Odawa form the Nishnaabemwin (Eastern Ojibwa) group of the Ojibwa dialect continuum"" (Wikipedia).
 [public] ""Speakers at Maniwaki consider their language to be Southern Algonquin, though linguistically it is a dialect of Nipissing Ojibwa, which together with Mississauga Ojibwa and Odawa form the Nishnaabemwin (Eastern Ojibwa) group of the Ojibwa dialect continuum."" (Wikipedia)"
+Ojibwe_Northern,Y,Northern Ojibwe,OJ,---,---,,Anishinaabemowin,,"[public] Category comes from Valentine 2002. He describes it as ""in northern Ontario south of the Severn region."""
 Ojibwe_Northern_Algonquin,,Northern Algonquin,OJ,---,nort3290
 Ojibwe_NW,Y,Northwestern Ojibwe,OJ,ojb,nort2961,Northwestern Ojibwa
 Ojibwe_Northwestern_Saulteaux,,Northwestern Saulteaux Ojibwe,OJ,---,nort3181,Northwestern Saulteaux Ojibwa
@@ -158,6 +160,7 @@ Ojibwe_Odawa,Y,Odawa,OJ,otw,otta1242,Ottawa,Nishnaabemwin
 Ojibwe_Potawatomi,,Ojibwe-Potawatomi,PO,---,ojib1240,,,,[public] Used only when both treated together; ISO does not have a single code for the combination
 Ojibwe_Rainy_River,,Rainy River Ojibwe,OJ,---,rain1239,Rainy River Ojibwa,,,[public] GL: dialect of Northwestern Ojibwa
 Ojibwe_Red_Lake_Chippewa,,Red Lake Chippewa,OJ,---,redl1238,,,,[public] Dialect of Chippewa
+Ojibwe_S_Macrogroup,Y,Southern Macro-Group (Ojibwe),OJ,---,---,,,,"[public] Category comes from Valentine 2002. He says it ""consists of the dialects found near the Great Lakes, particularly Odawa, Eastern Ojibwe, Southwestern Ojibwe, and much of Saulteaux."""
 Ojibwe_Saulteaux,,Saulteaux,OJ,ojw,west1510,Western Ojibwe,,,[public] GL: daughter of Northwestern Saulteaux Ojibwe
 Ojibwe_Severn,Y,Severn Ojibwe,OJ,ojs,seve1240,Oji-Cree,Anishininiimowin,,[public] Autonym source: Glottolog
 Ojibwe_Severn_Algonquin,,Severn Algonquin Ojibwe,OJ,---,seve1242,Severn Algonquin Ojibwa
