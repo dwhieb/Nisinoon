@@ -12,6 +12,7 @@
   & li:has([aria-current]) {
     background-color: var(--ice-boutique);
     border-color:     var(--ice-boutique);
+    color:            black;
     font-weight:      500;
   }
 
