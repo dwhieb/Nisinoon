@@ -12,7 +12,7 @@ describe(`Search`, function() {
     it(`no results found`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`bad search`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.contains(`.no-results`, `No results found.`)
     })
 
@@ -20,7 +20,7 @@ describe(`Search`, function() {
       const search = `atimw`
       cy.visit(`/search`)
       cy.get(`#search-box`).type(search)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`#search-box`).should(`have.value`, search)
       cy.get(`.num-results`).should(`have.text`, `Showing results 1–2 of 2.`)
       cy.get(`#results tbody tr`).should(`have.length`, 2)
@@ -33,7 +33,7 @@ describe(`Search`, function() {
     it(`case insensitive (default)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`ATIMW`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, 2)
       cy.get(`#results tbody tr`).should(`have.length`, 2)
     })
@@ -42,14 +42,14 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#case-sensitive-box`).check()
       cy.get(`#search-box`).type(`ATIMW`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`.no-results`)
     })
 
     it(`diacritic-insensitive (default)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`aštimw`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, `of 9`)
     })
 
@@ -57,7 +57,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#diacritics-box`).check()
       cy.get(`#search-box`).type(`aštimw`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, `of 2`)
     })
 
@@ -65,14 +65,14 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#regex-box`).check()
       cy.get(`#search-box`).type(`e{{}2}`) // This is how you escape the `{` character in the `.type()` command.
-      cy.get(`form`).submit()
-      cy.get(`.num-results`).should(`include.text`, `of 1,962`)
+      cy.get(`#quick-search-form`).submit()
+      cy.get(`.num-results`).should(`include.text`, `of 1,968`)
     })
 
     it(`Form (Project)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`aamæhk`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, 2)
       cy.get(`#results tbody tr`).should(`have.length`, 2)
     })
@@ -80,7 +80,7 @@ describe(`Search`, function() {
     it(`UR (Project)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`αhso`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
@@ -88,7 +88,7 @@ describe(`Search`, function() {
     it(`Tags`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`motorize`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
@@ -96,7 +96,7 @@ describe(`Search`, function() {
     it(`Forms (Source)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`gan̈ba8i`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
@@ -104,7 +104,7 @@ describe(`Search`, function() {
     it(`URs (Source)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`iinoo'ei`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
@@ -112,7 +112,7 @@ describe(`Search`, function() {
     it(`Glosses (Source)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`motorisé`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, 1)
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
@@ -124,7 +124,7 @@ describe(`Search`, function() {
     it(`language filter only`, function() {
       cy.visit(`/search`)
       cy.get(`#language-select`).select(`Cree_East`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`#results tbody tr`).should(`have.length`, 6)
     })
 
@@ -132,7 +132,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`yi`)
       cy.get(`#language-select`).select(`Cree_East`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
@@ -143,7 +143,7 @@ describe(`Search`, function() {
     it(`defaults`, function() {
 
       cy.visit(`/search`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
 
       // Return 100 results by default
       cy.get(`#results tbody tr`).should(`have.length`, 100)
@@ -175,7 +175,7 @@ describe(`Search`, function() {
 
     it(`offset`, function() {
       cy.visit(`/search`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.contains(`.pagination li`, `2`).click()
       // NB: The 101st result in the database is currently Arapaho "-oʔooʔoe-".
       cy.get(`#results td`).first().should(`have.text`, `Arapaho`)
@@ -205,7 +205,7 @@ describe(`Search`, function() {
     it(`single-column sort`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`dog`)
-      cy.get(`form`).submit()
+      cy.get(`#quick-search-form`).submit()
       cy.contains(`button`, `Form`).click()
       cy.get(`#results tbody tr`).first().should(`have.attr`, `id`, `Arapaho-607`)
       cy.get(`#results tbody tr`).last().should(`have.attr`, `id`, `Cree_Innu-70`)
