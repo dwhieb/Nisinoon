@@ -4,6 +4,7 @@ import AdvancedSearch from './scripts/AdvancedSearch.js'
 import Copier         from '../../scripts/Copier.js'
 import Downloader     from './scripts/Downloader.js'
 import QuickSearch    from './scripts/QuickSearch.js'
+import SearchMode     from './scripts/SearchMode.js'
 import Table          from './scripts/Table.js'
 
 // Initialize button to copy citation information
@@ -16,6 +17,12 @@ if (button && el) {
   copier.initialize()
 }
 
+// Initialize Search Mode
+
+const searchMode = new SearchMode
+searchMode.render()
+searchMode.listen()
+
 // Initialize Quick Search
 
 const quickSearch = new QuickSearch
@@ -26,6 +33,7 @@ quickSearch.listen()
 
 const advancedSearch = new AdvancedSearch
 advancedSearch.render()
+advancedSearch.listen()
 
 // Initialize results table
 

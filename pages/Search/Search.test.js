@@ -16,18 +16,13 @@ describe(`Search`, function() {
       cy.contains(`.no-results`, `No results found.`)
     })
 
-    it(`some results + repopulates search box + reset search`, function() {
+    it(`some results + repopulates search box`, function() {
       const search = `atimw`
       cy.visit(`/search`)
       cy.get(`#search-box`).type(search)
       cy.get(`#quick-search-form`).submit()
       cy.get(`#search-box`).should(`have.value`, search)
       cy.get(`.num-results`).should(`have.text`, `Showing results 1–2 of 2.`)
-      cy.get(`#results tbody tr`).should(`have.length`, 2)
-      cy.get(`#quick-reset-button`).click()
-      cy.get(`#search-box`).should(`have.value`, ``)
-      cy.get(`#language-select`).should(`have.value`, `all`)
-      cy.location(`search`).should(`eq`, ``)
     })
 
     it(`case insensitive (default)`, function() {
@@ -119,7 +114,7 @@ describe(`Search`, function() {
 
     it(`language filter only`, function() {
       cy.visit(`/search`)
-      cy.get(`#language-select`).select(`Cree_East`)
+      cy.get(`#quick-language-select`).select(`Cree_East`)
       cy.get(`#quick-search-form`).submit()
       cy.get(`#results tbody tr`).should(`have.length`, 6)
     })
@@ -127,9 +122,20 @@ describe(`Search`, function() {
     it(`language filter + search query`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`yi`)
-      cy.get(`#language-select`).select(`Cree_East`)
+      cy.get(`#quick-language-select`).select(`Cree_East`)
       cy.get(`#quick-search-form`).submit()
       cy.get(`#results tbody tr`).should(`have.length`, 1)
+    })
+
+    it(`Settings`, function() {
+      cy.visit(`/search`)
+      cy.get(`#diacritics-box`).check()
+      cy.get(`#regex-box`).check()
+      cy.get(`#quick-language-select`).select(`Cree_East`)
+      cy.reload()
+      cy.get(`#diacritics-box`).should(`be.checked`)
+      cy.get(`#regex-box`).should(`be.checked`)
+      cy.get(`#quick-language-select`).should(`have.value`, `Cree_East`)
     })
 
   })
@@ -157,14 +163,22 @@ describe(`Search`, function() {
 
   describe(`Advanced Search`, function() {
 
-    it(`No Search Criteria (returns all results)`, function() {
+    it(`no search criteria (returns all results)`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
-      cy.contains(`#advanced-search-button`).click()
+      cy.get(`#advanced-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 11,`)
     })
 
-    it.only(`Component: Form`, function() {
+    it(`Language`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#advanced-language-select`).select(`Cree_East`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 6`)
+    })
+
+    it(`Component: Form`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#form`).type(`atimw`)
@@ -172,9 +186,16 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 2`)
     })
 
-    it(`Reset Button`)
+    it(`Settings`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#advanced-language-select`).select(`Cree_East`)
+      cy.reload()
+      cy.get(`#advanced-language-select`).should(`have.value`, `Cree_East`)
+    })
 
   })
+
 
   describe(`Pagination`, function() {
 
@@ -225,16 +246,6 @@ describe(`Search`, function() {
 
   describe(`Settings`, function() {
 
-    it(`saves the user's selections across visits`, function() {
-      cy.visit(`/search`)
-      cy.get(`#diacritics-box`).check()
-      cy.get(`#regex-box`).check()
-      cy.get(`#language-select`).select(`Cree_East`)
-      cy.reload()
-      cy.get(`#diacritics-box`).should(`be.checked`)
-      cy.get(`#regex-box`).should(`be.checked`)
-      cy.get(`#language-select`).should(`have.value`, `Cree_East`)
-    })
 
   })
 

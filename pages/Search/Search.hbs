@@ -1,6 +1,6 @@
 <main class=search-page id=main>
 
-  <fieldset class='search-mode sticky'>
+  <fieldset class=sticky id=search-mode>
 
     <legend class=visually-hidden>Select a search mode:</legend>
 
@@ -18,6 +18,14 @@
 
   <search class='quick-search sticky'>
     <form class=search-form id=quick-search-form method=get>
+
+      <label for=quick-language-select>Language</label>
+      <select class='language-select text-box' id=quick-language-select name=language>
+        <option {{#if (is query.language 'all') }} selected {{/if}} value=all>All languages</option>
+        {{#each languages as |lang| }}
+          <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
+        {{/each}}
+      </select>
 
       <label for=search-box>Quick Search</label>
       <input
@@ -54,14 +62,6 @@
         </a>
       </div>
 
-      <label for=language-select>Language</label>
-      <select class=text-box id=language-select name=language>
-        <option {{#if (is query.language 'all') }} selected {{/if}} value=all>All languages</option>
-        {{#each languages as |lang| }}
-          <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
-        {{/each}}
-      </select>
-
       <div class=search-controls>
         <button class='button green' id=quick-search-button type=submit>Search</button>
         <button class='button blue' id=quick-reset-button type=reset>Reset</button>
@@ -74,6 +74,14 @@
     <form class=search-form id=advanced-search-form method=get>
 
       <input name=advanced type=hidden value=true>
+
+      <label for=advanced-language-select>Language</label>
+      <select class='language-select text-box' id=advanced-language-select name=language>
+        <option {{#if (is query.language 'all') }} selected {{/if}} value=all>All languages</option>
+        {{#each languages as |lang| }}
+          <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
+        {{/each}}
+      </select>
 
       <label for=form>Form</label>
       <input
@@ -89,14 +97,6 @@
         type=search
         value='{{ query.form }}'
       >
-
-      {{!-- <fieldset>
-        <legend>Component Fields</legend>
-      </fieldset>
-
-      <fieldset>
-        <legend>Token Fields</legend>
-      </fieldset> --}}
 
       <div class=search-controls>
         <button class='button green' id=advanced-search-button type=submit>Search</button>

@@ -132,7 +132,7 @@ label {
   cursor: pointer;
 }
 
-#language-select {
+.language-select {
 
   all:           revert;                    /* Use default browser styles. */
   border-radius: var(--border-radius);
@@ -288,7 +288,7 @@ search {
 
 }
 
-.search-mode {
+#search-mode {
 
   display:         flex;
   flex-direction:  row;
@@ -313,11 +313,11 @@ search {
 
 }
 
-.search-mode:has([value=quick]:checked) ~ .advanced-search {
+#search-mode:has([value=quick]:checked) ~ .advanced-search {
   display: none;
 }
 
-.search-mode:has([value=advanced]:checked) ~ .quick-search {
+#search-mode:has([value=advanced]:checked) ~ .quick-search {
   display: none;
 }
 

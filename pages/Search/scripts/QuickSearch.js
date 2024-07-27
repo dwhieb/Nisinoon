@@ -1,4 +1,4 @@
-/* global document, history, localStorage, location */
+/* global document, localStorage, location */
 
 export default class QuickSearch {
 
@@ -9,7 +9,7 @@ export default class QuickSearch {
     this.caseSensitive = document.getElementById(`case-sensitive-box`)
     this.diacritics    = document.getElementById(`diacritics-box`)
     this.form          = document.getElementById(`quick-search-form`)
-    this.language      = document.getElementById(`language-select`)
+    this.language      = document.getElementById(`quick-language-select`)
     this.regex         = document.getElementById(`regex-box`)
     this.resetButton   = document.getElementById(`quick-reset-button`)
     this.search        = document.getElementById(`search-box`)
@@ -25,16 +25,14 @@ export default class QuickSearch {
     this.form.addEventListener(`submit`, this.validate.bind(this))
     this.language.addEventListener(`input`, this.save.bind(this))
     this.regex.addEventListener(`input`, this.save.bind(this))
-    this.resetButton.addEventListener(`click`, this.reset.bind(this))
   }
 
   render() {
 
-    const url      = new URL(location.href)
-    const query    = url.searchParams
-    const advanced = query.get(`advanced`)
+    const url   = new URL(location.href)
+    const query = url.searchParams
 
-    if (advanced || query.size) return
+    if (query.size) return
 
     // Restore search settings
     this.caseSensitive.checked = localStorage.getItem(`caseSensitive`) === `true`
@@ -46,26 +44,13 @@ export default class QuickSearch {
 
   }
 
-  reset() {
-
-    const url = new URL(location.href)
-
-    // NB: Applying this loop directly to the keys iterator doesn't work,
-    // probably because it shifts the index of each key when one is deleted.
-    for (const key of Array.from(url.searchParams.keys())) {
-      url.searchParams.delete(key)
-    }
-
-    // NB: The second parameter to this method is deprecated and does nothing.
-    // It's just there because it's required by the method signature.
-    history.pushState({}, document.title, url.href)
-
-  }
-
   resetValidity() {
     this.search.setCustomValidity(``)
   }
 
+  /**
+   * Save search settings.
+   */
   save() {
     localStorage.setItem(`caseSensitive`, this.caseSensitive.checked)
     localStorage.setItem(`diacritics`, this.diacritics.checked)

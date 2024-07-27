@@ -6,14 +6,27 @@ import createSearchRegExp from './utilities/createSearchRegExp.js'
 import Languages          from './models/Languages.js'
 import Normalizer         from './Normalizer.js'
 
-function createMatchers({ caseSensitive, form, regex }, normalize) {
+function createMatchers({
+  caseSensitive,
+  form,
+  language,
+  regex,
+}, normalize) {
   return {
+
     form() {
-      const q        = normalize(cleanSearch(form))
-      const test     = createSearchRegExp(q, { caseSensitive, regex })
-      const testForm = component => test(normalize(component.form))
-      return testForm
+      const q    = normalize(cleanSearch(form))
+      const test = createSearchRegExp(q, { caseSensitive, regex })
+      return component => (form ? test(normalize(component.form)) : true)
     },
+
+    language() {
+      return component => {
+        if (language === `all` || component.language === language) return true
+        return false
+      }
+    },
+
   }
 }
 
