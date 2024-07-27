@@ -19,18 +19,24 @@ export default class Database {
     this.components = Array.from(this.index.values())
   }
 
-  search(query, {
+  quickSearch({
     caseSensitive,
     diacritics,
     language: langQuery,
     regex,
+    q,
   } = {}) {
 
     const normalize = new Normalizer({ caseSensitive, diacritics })
-    const q         = normalize(query)
-    const pattern   = regex ? q : escapeRegExp(q)
-    const flags     = caseSensitive ? `v` : `iv`
-    const regexp    = new RegExp(pattern, flags)
+
+    // NFC normalize original search text first, since data in database is also normalized.
+    // This allows search results to match the query.
+    // Then normalize (in the sense of 'make consistent') the query according to the search options.
+    const query = normalize(q.trim().normalize())
+
+    const pattern = regex ? query : escapeRegExp(query)
+    const flags   = caseSensitive ? `v` : `iv`
+    const regexp  = new RegExp(pattern, flags)
 
     // NB: Be careful not to alter the original array here.
     return Array.from(this.components).filter(function({
@@ -58,6 +64,15 @@ export default class Database {
 
     })
 
+  }
+
+  /**
+   * Advanced Search
+   * @param   {Object} [options={}] The querystring parameters.
+   * @returns {Array}
+   */
+  search(options = {}) {
+    return Array.from(this.components)
   }
 
 }

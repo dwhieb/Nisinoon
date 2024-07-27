@@ -1,17 +1,6 @@
+import changeParam    from './scripts/changeParam.js'
 import SortDirectives from '../../scripts/SortDirectives.js'
 import toCSV          from './scripts/toCSV.js'
-
-/**
- *
- * @param {URL}    url A URL object.
- * @param {String} param The URL parameter to update.
- * @param {any}    val The value to update the parameter with.
- */
-function changeParam(url, param, val) {
-  url = new URL(url.href)
-  url.searchParams.set(param, val)
-  return url.toString()
-}
 
 export function Search(req, res) {
 
@@ -27,11 +16,10 @@ export function Search(req, res) {
     url:           req.originalUrl,
   }
 
-  if (!(`q` in req.query || `language` in req.query)) {
+  // No query submitted. Load default search page.
+  if (!(`q` in req.query || `advanced` in req.query || `language` in req.query)) {
     return res.render(`Search/Search`, context)
   }
-
-  // NB: offset = # of records to SKIP
 
   let {
     limit = 100,
@@ -42,9 +30,13 @@ export function Search(req, res) {
 
   // Search
 
-  q = q.trim().normalize() // Normalize search text since data in database is also normalized.
+  let results = []
 
-  let results = req.app.db.search(q, req.query)
+  if (req.query.advanced) {
+    results = req.app.db.search(req.query)
+  } else {
+    results = req.app.db.quickSearch(req.query)
+  }
 
   const numTotalResults = results.length
 
@@ -69,6 +61,7 @@ export function Search(req, res) {
   function html() {
 
     // Pagination
+    // NB: offset = # of records to SKIP
 
     limit = Number(limit)
     offset = Number(offset)
