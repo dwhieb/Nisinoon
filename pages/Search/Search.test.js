@@ -117,10 +117,6 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).should(`have.length`, 1)
     })
 
-  })
-
-  describe(`Language Filter`, function() {
-
     it(`language filter only`, function() {
       cy.visit(`/search`)
       cy.get(`#language-select`).select(`Cree_East`)
@@ -134,6 +130,27 @@ describe(`Search`, function() {
       cy.get(`#language-select`).select(`Cree_East`)
       cy.get(`#quick-search-form`).submit()
       cy.get(`#results tbody tr`).should(`have.length`, 1)
+    })
+
+  })
+
+  describe(`Search Mode`, function() {
+
+    it(`toggles`, function() {
+      cy.visit(`/search`)
+      cy.get(`#advanced-search-form`).should(`not.be.visible`)
+      cy.get(`input[value=advanced]`).check()
+      cy.get(`#advanced-search-form`).should(`be.visible`)
+      cy.get(`#quick-search-form`).should(`not.be.visible`)
+      cy.get(`input[value=quick]`).check()
+      cy.get(`#advanced-search-form`).should(`not.be.visible`)
+      cy.get(`#quick-search-form`).should(`be.visible`)
+    })
+
+    it(`loads the correct tab when page loads`, function() {
+      cy.visit(`/search?advanced=true`)
+      cy.get(`#quick-search-form`).should(`not.be.visible`)
+      cy.get(`#advanced-search-form`).should(`be.visible`)
     })
 
   })

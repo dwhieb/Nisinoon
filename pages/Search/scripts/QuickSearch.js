@@ -2,20 +2,45 @@
 
 export default class QuickSearch {
 
-  initialize() {
-
+  /**
+   * Hook onto DOM elements.
+   */
+  constructor() {
     this.caseSensitive = document.getElementById(`case-sensitive-box`)
     this.diacritics    = document.getElementById(`diacritics-box`)
     this.form          = document.getElementById(`quick-search-form`)
     this.language      = document.getElementById(`language-select`)
     this.regex         = document.getElementById(`regex-box`)
-    this.reset         = document.getElementById(`reset-button`)
+    this.resetButton   = document.getElementById(`reset-button`)
     this.search        = document.getElementById(`search-box`)
+  }
 
-    // Populate search form from querystring / local storage.
-    // NOTE: Query parameters take precedence over local storage.
+  /**
+   * Add event listeners.
+   */
+  listen() {
+    this.caseSensitive.addEventListener(`input`, this.saveSettings.bind(this))
+    this.diacritics.addEventListener(`input`, this.saveSettings.bind(this))
+    this.form.addEventListener(`input`, this.resetValidity.bind(this))
+    this.form.addEventListener(`submit`, this.validate.bind(this))
+    this.language.addEventListener(`input`, this.saveSettings.bind(this))
+    this.regex.addEventListener(`input`, this.saveSettings.bind(this))
+    this.resetButton.addEventListener(`click`, this.reset.bind(this))
+  }
 
-    const url           = new URL(location.href)
+  /**
+   * Populate the search form.
+   * This method combines mixes the functions of a Model and View, but oh well 🤷🏼‍♂️
+   * NOTE: Query parameters take precedence over local storage.
+   */
+  render() {
+
+    const url = new URL(location.href)
+
+    const advanced = url.searchParams.get(`advanced`)
+
+    if (advanced) return
+
     const caseSensitive = Boolean(url.searchParams.get(`caseSensitive`)) || localStorage.getItem(`caseSensitive`) === `true`
     const diacritics    = Boolean(url.searchParams.get(`diacritics`)) || localStorage.getItem(`diacritics`) === `true`
     const language      = url.searchParams.get(`language`) ?? localStorage.getItem(`language`)
@@ -27,23 +52,13 @@ export default class QuickSearch {
     this.regex.checked         = regex
 
     if (language) this.language.value = language
-    if (query) this.search.value      = query
+    if (query) this.search.value = query
 
     this.search.focus()
 
-    // Add event listeners
-
-    this.caseSensitive.addEventListener(`input`, this.saveSettings.bind(this))
-    this.diacritics.addEventListener(`input`, this.saveSettings.bind(this))
-    this.form.addEventListener(`input`, this.resetValidity.bind(this))
-    this.form.addEventListener(`submit`, this.validate.bind(this))
-    this.language.addEventListener(`input`, this.saveSettings.bind(this))
-    this.regex.addEventListener(`input`, this.saveSettings.bind(this))
-    this.reset.addEventListener(`click`, this.resetForm.bind(this))
-
   }
 
-  resetForm() {
+  reset() {
 
     const url = new URL(location.href)
 
@@ -54,6 +69,7 @@ export default class QuickSearch {
     }
 
     // NB: The second parameter to this method is deprecated and does nothing.
+    // It's just there because it's required by the method signature.
     history.pushState({}, document.title, url.href)
 
   }
