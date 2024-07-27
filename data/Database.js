@@ -1,9 +1,21 @@
 /* eslint func-names: "off", prefer-arrow-callback: "off" */
 
-import Components   from './models/Components.js'
-import escapeRegExp from 'escape-string-regexp'
-import Languages    from './models/Languages.js'
-import Normalizer   from './Normalizer.js'
+import cleanSearch        from './utilities/cleanSearch.js'
+import Components         from './models/Components.js'
+import createSearchRegExp from './utilities/createSearchRegExp.js'
+import Languages          from './models/Languages.js'
+import Normalizer         from './Normalizer.js'
+
+function createMatchers({ caseSensitive, form, regex }, normalize) {
+  return {
+    form() {
+      const q        = normalize(cleanSearch(form))
+      const test     = createSearchRegExp(q, { caseSensitive, regex })
+      const testForm = component => test(normalize(component.form))
+      return testForm
+    },
+  }
+}
 
 export default class Database {
 
@@ -29,14 +41,10 @@ export default class Database {
 
     const normalize = new Normalizer({ caseSensitive, diacritics })
 
-    // NFC normalize original search text first, since data in database is also normalized.
-    // This allows search results to match the query.
+    // NFC normalize original search text first (using `cleanSearch()`), since data in database is also normalized. This allows search results to match the query.
     // Then normalize (in the sense of 'make consistent') the query according to the search options.
-    const query = normalize(q.trim().normalize())
-
-    const pattern = regex ? query : escapeRegExp(query)
-    const flags   = caseSensitive ? `v` : `iv`
-    const regexp  = new RegExp(pattern, flags)
+    const query = normalize(cleanSearch(q))
+    const test  = createSearchRegExp(query, { caseSensitive, regex })
 
     // NB: Be careful not to alter the original array here.
     return Array.from(this.components).filter(function({
@@ -47,19 +55,20 @@ export default class Database {
       UR,
     }) {
 
+      // Special case language filter to improve speed of search.
       if (langQuery && langQuery !== `all` && langQuery !== language) return false
 
-      return tags?.some(tag => regexp.test(normalize(tag)))
-      || regexp.test(normalize(form))
-      || regexp.test(normalize(UR))
+      return tags?.some(tag => test(normalize(tag)))
+      || test(normalize(form))
+      || test(normalize(UR))
       || tokens.some(function({
         form,
         gloss,
         UR,
       }) {
-        return regexp.test(normalize(form))
-        || regexp.test(normalize(gloss))
-        || regexp.test(normalize(UR))
+        return test(normalize(form))
+        || test(normalize(gloss))
+        || test(normalize(UR))
       })
 
     })
@@ -71,8 +80,20 @@ export default class Database {
    * @param   {Object} [options={}] The querystring parameters.
    * @returns {Array}
    */
-  search(options = {}) {
+  search(query = {}) {
+
+    const { caseSensitive, diacritics } = query
+
+    const normalize    = new Normalizer({ caseSensitive, diacritics })
+    const matchers     = createMatchers(query, normalize)
+
+    const matchFunctions = Object.keys(matchers)
+    .filter(field => field in query)
+    .map(field => matchers[field]())
+
     return Array.from(this.components)
+    .filter(component => matchFunctions.every(test => test(component)))
+
   }
 
 }

@@ -157,11 +157,19 @@ describe(`Search`, function() {
 
   describe(`Advanced Search`, function() {
 
-    it.only(`No Search Criteria (returns all results)`, function() {
+    it(`No Search Criteria (returns all results)`, function() {
       cy.visit(`/search`)
-      cy.get(`input[value=advanced]`).check()
-      cy.contains(`#advanced-search-form button`, `Search`).click()
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.contains(`#advanced-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 11,`)
+    })
+
+    it.only(`Component: Form`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#form`).type(`atimw`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 2`)
     })
 
     it(`Reset Button`)

@@ -73,9 +73,30 @@
   <search class='advanced-search sticky'>
     <form class=search-form id=advanced-search-form method=get>
 
-      <p style="text-align: center;">Coming soon!</p>
-
       <input name=advanced type=hidden value=true>
+
+      <label for=form>Form</label>
+      <input
+        autocomplete=on
+        autocorrect=off
+        class=text-box
+        enterkeyhint=search
+        id=form
+        inputmode=search
+        name=form
+        placeholder='e.g. “atimw-”'
+        spellcheck=false
+        type=search
+        value='{{ query.form }}'
+      >
+
+      {{!-- <fieldset>
+        <legend>Component Fields</legend>
+      </fieldset>
+
+      <fieldset>
+        <legend>Token Fields</legend>
+      </fieldset> --}}
 
       <div class=search-controls>
         <button class='button green' id=advanced-search-button type=submit>Search</button>
