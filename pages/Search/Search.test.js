@@ -24,7 +24,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).should(`have.value`, search)
       cy.get(`.num-results`).should(`have.text`, `Showing results 1–2 of 2.`)
       cy.get(`#results tbody tr`).should(`have.length`, 2)
-      cy.get(`#reset-button`).click()
+      cy.get(`#quick-reset-button`).click()
       cy.get(`#search-box`).should(`have.value`, ``)
       cy.get(`#language-select`).should(`have.value`, `all`)
       cy.location(`search`).should(`eq`, ``)

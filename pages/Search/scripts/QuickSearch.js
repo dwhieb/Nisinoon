@@ -11,7 +11,7 @@ export default class QuickSearch {
     this.form          = document.getElementById(`quick-search-form`)
     this.language      = document.getElementById(`language-select`)
     this.regex         = document.getElementById(`regex-box`)
-    this.resetButton   = document.getElementById(`reset-button`)
+    this.resetButton   = document.getElementById(`quick-reset-button`)
     this.search        = document.getElementById(`search-box`)
   }
 
