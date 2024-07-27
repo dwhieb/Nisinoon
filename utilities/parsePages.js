@@ -1,4 +1,4 @@
-const commaRegExp = /, \s*/gv
+const commaRegExp = /,\s*/gv
 
 export default function parsePages(pagesString) {
   return pagesString

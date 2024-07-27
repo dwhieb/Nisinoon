@@ -10,7 +10,7 @@
 {"autonyms":[],"key":"Cree_Moose_Swampy","name":"Moose-Swampy Cree"}
 {"autonyms":[],"key":"Cree_Naskapi_Western","name":"Western Naskapi"}
 {"autonyms":["iyiyiu-Ayamiwin","ᐄᔨᔫ ᐊᔨᒨᓐ "],"key":"Cree_Northern_East","name":"Northern East Cree"}
-{"autonyms":["nêhiyawêwin","ᓀᐦᐃᔭᐍᐏᐣ"],"key":"Cree_Plains","name":"Plains Cree"}
+{"autonyms":["nêhiyawêwin","ᓀᐦᐃᔭᐍᐏᐣ","nîhiyawîwin"],"key":"Cree_Plains","name":"Plains Cree"}
 {"autonyms":["iyiniu-Ayamiwin ᐄᓅ ᐊᔨᒨᓐ"],"key":"Cree_Southern_East","name":"Southern East Cree"}
 {"autonyms":["Nêhinawêwin","ᓀᐦᐃᓇᐍᐏᐣ "],"key":"Cree_Swampy","name":"Swampy Cree"}
 {"autonyms":[],"key":"Delaware_Common","name":"Common Delaware"}
@@ -25,9 +25,12 @@
 {"autonyms":["Omàmìwininìmowin"],"key":"Ojibwe_Algonquin","name":"Algonquin"}
 {"autonyms":["Anishinaabemowin","Ojibwemowin"],"key":"Ojibwe_Common","name":"Common Ojibwe"}
 {"autonyms":["Nishnaabemwin"],"key":"Ojibwe_Eastern","name":"Eastern Ojibwe"}
+{"autonyms":[],"key":"Ojibwe_N_Macrogroup","name":"Northern Macro-Group (Ojibwe)"}
 {"autonyms":[],"key":"Ojibwe_Nipissing","name":"Nipissing"}
+{"autonyms":["Anishinaabemowin"],"key":"Ojibwe_Northern","name":"Northern Ojibwe"}
 {"autonyms":[],"key":"Ojibwe_NW","name":"Northwestern Ojibwe"}
 {"autonyms":["Nishnaabemwin"],"key":"Ojibwe_Odawa","name":"Odawa"}
+{"autonyms":[],"key":"Ojibwe_S_Macrogroup","name":"Southern Macro-Group (Ojibwe)"}
 {"autonyms":["Anishininiimowin"],"key":"Ojibwe_Severn","name":"Severn Ojibwe"}
 {"autonyms":["Anishinaabemowin"],"key":"Ojibwe_SW","name":"Southwestern Ojibwe"}
 {"autonyms":["skicinuwatuwewakon"],"key":"Passamaquoddy_Maliseet","name":"Passamaquoddy-Maliseet"}

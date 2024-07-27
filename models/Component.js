@@ -4,7 +4,7 @@ import cleanUR       from '../utilities/cleanUR.js'
 import Matches       from './Matches.js'
 import Orthographies from './Orthographies.js'
 
-const commaRegExp   = /, \s*/v
+const commaRegExp   = /,\s*/v
 const orthographies = new Orthographies
 
 await orthographies.load()
