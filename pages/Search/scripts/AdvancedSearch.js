@@ -1,19 +1,14 @@
-/* global document, localStorage, location */
+/* global location */
 
 export default class AdvancedSearch {
-
-  constructor() {
-    this.option = document.getElementById(`advanced-option`)
-  }
 
   render() {
 
     const url      = new URL(location.href)
-    const advanced = url.searchParams.get(`advanced`) || localStorage.getItem(`advanced`) === `true`
+    const query    = url.searchParams
+    const advanced = query.get(`advanced`)
 
-    if (!advanced) return
-
-    this.option.checked = true
+    if (!advanced || query.size) return
 
   }
 

@@ -196,16 +196,6 @@ label {
   vertical-align:     middle;
 }
 
-#quick-search-form {
-
-  max-inline-size: 35em;
-
-  & button {
-    inline-size: 5em;
-  }
-
-}
-
 #results {
 
   border-collapse: separate; /* This is necessary for borders to stay fixed with position: sticky */
@@ -286,6 +276,16 @@ search {
   gap:             0.5em;
   justify-content: center;
   margin:          0.5em;
+}
+
+.search-form {
+
+  max-inline-size: 35em;
+
+  & button {
+    inline-size: 5em;
+  }
+
 }
 
 .search-mode {

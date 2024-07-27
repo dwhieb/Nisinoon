@@ -6,18 +6,18 @@
 
     <label>
       <span>Quick Search</span>
-      <input checked id=quick-option name=search type=radio value=quick>
+      <input {{#unless advanced }} checked {{/unless}} id=quick-option name=search type=radio value=quick>
     </label>
 
     <label>
       <span>Advanced Search</span>
-      <input id=advanced-option name=search type=radio value=advanced>
+      <input {{#if advanced }} checked {{/if}} id=advanced-option name=search type=radio value=advanced>
     </label>
 
   </fieldset>
 
   <search class='quick-search sticky'>
-    <form id=quick-search-form method=get>
+    <form class=search-form id=quick-search-form method=get>
 
       <label for=search-box>Quick Search</label>
       <input
@@ -31,21 +31,22 @@
         placeholder='e.g. “atimw-” or “dog”'
         spellcheck=false
         type=search
+        value='{{ query.q }}'
       >
       <span class=help-text>Searches forms (in any orthography), tags, and glosses. Leave blank to display all components.</span>
 
       <div class=checkbox-field>
-        <input id=case-sensitive-box name=caseSensitive type=checkbox>
+        <input {{#if query.caseSensitive }} checked {{/if}} id=case-sensitive-box name=caseSensitive type=checkbox>
         <label for=case-sensitive-box>Match case</label>
       </div>
 
       <div class=checkbox-field>
-        <input id=diacritics-box name=diacritics type=checkbox>
+        <input {{#if query.diacritics }} checked {{/if}} id=diacritics-box name=diacritics type=checkbox>
         <label for=diacritics-box>Match diacritics</label>
       </div>
 
       <div class=checkbox-field>
-        <input id=regex-box name=regex type=checkbox>
+        <input {{#if query.regex }} checked {{/if}} id=regex-box name=regex type=checkbox>
         <label for=regex-box>Use regular expressions</label>
         <a class=info-link href=https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions target=_blank>
           <span class=visually-hidden>More information about regular expressions.</span>
@@ -54,10 +55,10 @@
       </div>
 
       <label for=language-select>Language</label>
-      <select class=text-box name=language id=language-select>
-        <option selected value=all>All languages</option>
+      <select class=text-box id=language-select name=language>
+        <option {{#if (is query.language 'all') }} selected {{/if}} value=all>All languages</option>
         {{#each languages as |lang| }}
-          <option value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
+          <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
         {{/each}}
       </select>
 
@@ -70,13 +71,16 @@
   </search>
 
   <search class='advanced-search sticky'>
-    <form id=advanced-search-form method=get>
+    <form class=search-form id=advanced-search-form method=get>
 
-      <p>Coming soon!</p>
+      <p style="text-align: center;">Coming soon!</p>
 
       <input name=advanced type=hidden value=true>
 
-      <button class='button green' id=advanced-search-button type=submit>Search</button>
+      <div class=search-controls>
+        <button class='button green' id=advanced-search-button type=submit>Search</button>
+        <button class='button blue' id=advanced-reset-button type=reset>Reset</button>
+      </div>
 
     </form>
   </search>

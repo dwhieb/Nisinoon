@@ -118,6 +118,7 @@ export function Search(req, res) {
     // Render page
 
     Object.assign(context, {
+      advanced:   req.query.advanced,
       hasResults: true,
       numResults: results.length.toLocaleString(),
       pagination: {
@@ -134,6 +135,7 @@ export function Search(req, res) {
         show:       numTotalResults > limit,
         startIndex: (offset + 1).toLocaleString(),
       },
+      query:        req.query,
       results,
       sort:         Object.fromEntries(sort),
       totalResults: numTotalResults.toLocaleString(),

@@ -155,6 +155,19 @@ describe(`Search`, function() {
 
   })
 
+  describe(`Advanced Search`, function() {
+
+    it.only(`No Search Criteria (returns all results)`, function() {
+      cy.visit(`/search`)
+      cy.get(`input[value=advanced]`).check()
+      cy.contains(`#advanced-search-form button`, `Search`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 11,`)
+    })
+
+    it(`Reset Button`)
+
+  })
+
   describe(`Pagination`, function() {
 
     it(`defaults`, function() {

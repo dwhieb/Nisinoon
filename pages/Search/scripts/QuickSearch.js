@@ -19,40 +19,28 @@ export default class QuickSearch {
    * Add event listeners.
    */
   listen() {
-    this.caseSensitive.addEventListener(`input`, this.saveSettings.bind(this))
-    this.diacritics.addEventListener(`input`, this.saveSettings.bind(this))
+    this.caseSensitive.addEventListener(`input`, this.save.bind(this))
+    this.diacritics.addEventListener(`input`, this.save.bind(this))
     this.form.addEventListener(`input`, this.resetValidity.bind(this))
     this.form.addEventListener(`submit`, this.validate.bind(this))
-    this.language.addEventListener(`input`, this.saveSettings.bind(this))
-    this.regex.addEventListener(`input`, this.saveSettings.bind(this))
+    this.language.addEventListener(`input`, this.save.bind(this))
+    this.regex.addEventListener(`input`, this.save.bind(this))
     this.resetButton.addEventListener(`click`, this.reset.bind(this))
   }
 
-  /**
-   * Populate the search form.
-   * This method combines mixes the functions of a Model and View, but oh well 🤷🏼‍♂️
-   * NOTE: Query parameters take precedence over local storage.
-   */
   render() {
 
-    const url = new URL(location.href)
+    const url      = new URL(location.href)
+    const query    = url.searchParams
+    const advanced = query.get(`advanced`)
 
-    const advanced = url.searchParams.get(`advanced`)
+    if (advanced || query.size) return
 
-    if (advanced) return
-
-    const caseSensitive = Boolean(url.searchParams.get(`caseSensitive`)) || localStorage.getItem(`caseSensitive`) === `true`
-    const diacritics    = Boolean(url.searchParams.get(`diacritics`)) || localStorage.getItem(`diacritics`) === `true`
-    const language      = url.searchParams.get(`language`) ?? localStorage.getItem(`language`)
-    const query         = url.searchParams.get(`q`)
-    const regex         = Boolean(url.searchParams.get(`regex`)) || localStorage.getItem(`regex`) === `true`
-
-    this.caseSensitive.checked = caseSensitive
-    this.diacritics.checked    = diacritics
-    this.regex.checked         = regex
-
-    if (language) this.language.value = language
-    if (query) this.search.value = query
+    // Restore search settings
+    this.caseSensitive.checked = localStorage.getItem(`caseSensitive`) === `true`
+    this.diacritics.checked    = localStorage.getItem(`diacritics`) === `true`
+    this.language.value        = localStorage.getItem(`language`)
+    this.regex.checked         = localStorage.getItem(`regex`) === `true`
 
     this.search.focus()
 
@@ -78,7 +66,7 @@ export default class QuickSearch {
     this.search.setCustomValidity(``)
   }
 
-  saveSettings() {
+  save() {
     localStorage.setItem(`caseSensitive`, this.caseSensitive.checked)
     localStorage.setItem(`diacritics`, this.diacritics.checked)
     localStorage.setItem(`language`, this.language.value)
