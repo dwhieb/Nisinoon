@@ -65,6 +65,9 @@ export default class Database {
     this.components = Array.from(this.index.values())
   }
 
+  /**
+   * NB: Be careful not to alter the original components array within this method.
+   */
   quickSearch({
     caseSensitive,
     diacritics,
@@ -73,6 +76,14 @@ export default class Database {
     q,
   } = {}) {
 
+    // Special case searches without a text query to improve search speed.
+    if (!q) {
+      if (!langQuery || langQuery === `all`) return Array.from(this.components)
+      return Array.from(this.components).filter(({ language }) => language === langQuery)
+    }
+
+    // Conduct full search if a text query is not present.
+
     const normalize = new Normalizer({ caseSensitive, diacritics })
 
     // NFC normalize original search text first (using `cleanSearch()`), since data in database is also normalized. This allows search results to match the query.
@@ -80,7 +91,6 @@ export default class Database {
     const query = normalize(cleanSearch(q))
     const test  = createSearchRegExp(query, { caseSensitive, regex })
 
-    // NB: Be careful not to alter the original array here.
     return Array.from(this.components).filter(function({
       form,
       language,
@@ -90,7 +100,7 @@ export default class Database {
     }) {
 
       // Special case language filter to improve speed of search.
-      if (langQuery && langQuery !== `all` && langQuery !== language) return false
+      if (langQuery && langQuery !== `all` && language !== langQuery) return false
 
       return tags?.some(tag => test(normalize(tag)))
       || test(normalize(form))

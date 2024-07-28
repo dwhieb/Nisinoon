@@ -6,7 +6,7 @@ export default class QuickSearch {
    * Hook onto DOM elements.
    */
   constructor() {
-    this.caseSensitive = document.getElementById(`case-sensitive-box`)
+    this.caseSensitive = document.getElementById(`quick-case-sensitive-box`)
     this.diacritics    = document.getElementById(`diacritics-box`)
     this.form          = document.getElementById(`quick-search-form`)
     this.language      = document.getElementById(`quick-language-select`)

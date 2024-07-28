@@ -48,9 +48,12 @@
       </div>
 
       <fieldset>
+
+        <legend class=label>Search Options</legend>
+
         <div class=checkbox-field>
-          <input {{#if query.caseSensitive }} checked {{/if}} id=case-sensitive-box name=caseSensitive type=checkbox>
-          <label for=case-sensitive-box>Match case</label>
+          <input {{#if query.caseSensitive }} checked {{/if}} id=quick-case-sensitive-box name=caseSensitive type=checkbox>
+          <label for=quick-case-sensitive-box>Match case</label>
         </div>
 
         <div class=checkbox-field>
@@ -71,6 +74,7 @@
           <button class='button green' id=quick-search-button type=submit>Search</button>
           <button class='button blue' id=quick-reset-button type=reset>Reset</button>
         </div>
+
       </fieldset>
 
     </form>
@@ -124,6 +128,17 @@
           value='{{ query.tags }}'
         >
       </div>
+
+      <fieldset>
+
+        <legend class=label>Search Options</legend>
+
+        <div class=checkbox-field>
+          <input {{#if query.caseSensitive }} checked {{/if}} id=advanced-case-sensitive-box name=caseSensitive type=checkbox>
+          <label for=advanced-case-sensitive-box>Match case</label>
+        </div>
+
+      </fieldset>
 
       <div class=search-controls>
         <button class='button green' id=advanced-search-button type=submit>Search</button>

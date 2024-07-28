@@ -37,7 +37,7 @@ describe(`Search`, function() {
       cy.contains(`.no-results`, `No results found.`)
     })
 
-    it(`some results + repopulates search box`, function() {
+    it(`some results`, function() {
       const search = `atimw`
       cy.visit(`/search`)
       cy.get(`#search-box`).type(search)
@@ -56,7 +56,7 @@ describe(`Search`, function() {
 
     it(`case sensitive`, function() {
       cy.visit(`/search`)
-      cy.get(`#case-sensitive-box`).check()
+      cy.get(`#quick-case-sensitive-box`).check()
       cy.get(`#search-box`).type(`ATIMW`)
       cy.get(`#quick-search-form`).submit()
       cy.get(`.no-results`)
@@ -192,6 +192,15 @@ describe(`Search`, function() {
       cy.get(`#tags-box`).type(`dog`)
       cy.get(`#advanced-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 7`)
+    })
+
+    it(`case sensitive`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#advanced-case-sensitive-box`).check()
+      cy.get(`#form-box`).type(`ATIMW`)
+      cy.get(`#advanced-search-form`).submit()
+      cy.get(`.no-results`)
     })
 
     it(`Settings`, function() {
