@@ -92,19 +92,36 @@
       </div>
 
       <div>
-        <label for=form>Form</label>
+        <label for=form-box>Form</label>
         <input
           autocomplete=on
           autocorrect=off
           class=text-box
           enterkeyhint=search
-          id=form
+          id=form-box
           inputmode=search
           name=form
           placeholder='e.g. “atimw-”'
           spellcheck=false
           type=search
           value='{{ query.form }}'
+        >
+      </div>
+
+      <div>
+        <label for=tags>Tags</label>
+        <input
+          autocomplete=on
+          autocorrect=off
+          class=text-box
+          enterkeyhint=search
+          id=tags-box
+          inputmode=search
+          name=tags
+          placeholder='e.g. “dog”'
+          spellcheck=true
+          type=search
+          value='{{ query.tags }}'
         >
       </div>
 

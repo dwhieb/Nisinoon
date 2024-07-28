@@ -6,25 +6,46 @@ import createSearchRegExp from './utilities/createSearchRegExp.js'
 import Languages          from './models/Languages.js'
 import Normalizer         from './Normalizer.js'
 
+/**
+ * NB: I'm using named function expressions here to make debugging easier.
+ */
 function createMatchers({
   caseSensitive,
   form,
   language,
   regex,
+  tags,
 }, normalize) {
   return {
 
     form() {
+
       const q    = normalize(cleanSearch(form))
       const test = createSearchRegExp(q, { caseSensitive, regex })
-      return component => (form ? test(normalize(component.form)) : true)
+
+      return function testForm(component) {
+        if (!component.form) return true
+        return test(normalize(component.form))
+      }
+
     },
 
     language() {
-      return component => {
+      return function testLanguage(component) {
         if (language === `all` || component.language === language) return true
         return false
       }
+    },
+
+    tags() {
+
+      const q    = normalize(cleanSearch(tags))
+      const test = createSearchRegExp(q, { caseSensitive, regex })
+
+      return function testTags(component) {
+        return component.tags?.some(tag => test(normalize(tag)))
+      }
+
     },
 
   }
@@ -101,7 +122,7 @@ export default class Database {
     const matchers     = createMatchers(query, normalize)
 
     const matchFunctions = Object.keys(matchers)
-    .filter(field => field in query)
+    .filter(field => query[field])
     .map(field => matchers[field]())
 
     return Array.from(this.components)

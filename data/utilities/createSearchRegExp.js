@@ -14,6 +14,8 @@ export default function createSearchRegExp(query, { caseSensitive, regex } = {})
   const flags   = caseSensitive ? `v` : `iv`
   const regexp  = new RegExp(pattern, flags)
 
-  return str => regexp.test(str)
+  return function testSearchRegExp(str) {
+    return regexp.test(str)
+  }
 
 }

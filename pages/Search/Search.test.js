@@ -181,9 +181,17 @@ describe(`Search`, function() {
     it(`Component: Form`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
-      cy.get(`#form`).type(`atimw`)
+      cy.get(`#form-box`).type(`atimw`)
       cy.get(`#advanced-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 2`)
+    })
+
+    it.only(`Component: Tags`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#tags`).type(`dog`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 7`)
     })
 
     it(`Settings`, function() {
