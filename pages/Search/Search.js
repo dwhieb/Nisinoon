@@ -2,11 +2,19 @@ import changeParam    from './scripts/changeParam.js'
 import SortDirectives from '../../scripts/SortDirectives.js'
 import toCSV          from './scripts/toCSV.js'
 
+const defaults = {
+  limit:  100,
+  offset: 0,
+  sort:   ``,
+}
+
 export function Search(req, res) {
 
   const { db } = req.app
+  const query = new Map(Object.entries(req.query))
 
   const context = {
+    advanced:      query.has(`advanced`),
     languages:     db.languages.toJSON().sort((a, b) => a.name.localeCompare(b.name)),
     numComponents: db.index.size.toLocaleString(),
     numLanguages:  db.languages.size.toLocaleString(),
@@ -17,21 +25,19 @@ export function Search(req, res) {
   }
 
   // No query submitted. Load default search page.
-  if (!(`q` in req.query || `advanced` in req.query || `language` in req.query)) {
+  if (
+    !query.size
+    || (query.size === 1 && query.has(`advanced`))
+  ) {
     return res.render(`Search/Search`, context)
   }
-
-  let {
-    limit = 100,
-    offset = 0,
-    q,
-    sort = ``,
-  } = req.query
 
   // Search
 
   let results = []
 
+  // NB: The Database methods expect options to be an Object rather than a Map.
+  // Use the original req.query rather than the Mappified version.
   if (req.query.advanced) {
     results = req.app.db.search(req.query)
   } else {
@@ -42,7 +48,8 @@ export function Search(req, res) {
 
   // Sort
 
-  sort = new SortDirectives(sort)
+  const sortQuery = query.get(`sort`) ?? defaults.sort
+  const sort      = new SortDirectives(sortQuery)
 
   if (sort.size) {
     results.sort((a, b) => {
@@ -63,8 +70,9 @@ export function Search(req, res) {
     // Pagination
     // NB: offset = # of records to SKIP
 
-    limit = Number(limit)
-    offset = Number(offset)
+    const limit  = Number(query.get(`limit`) ?? defaults.limit)
+    const offset = Number(query.get(`offset`) ?? defaults.offset)
+
     results = results.slice(offset, offset + limit)
 
     const numAdjacentPages = 5
@@ -118,7 +126,6 @@ export function Search(req, res) {
     // Render page
 
     Object.assign(context, {
-      advanced:   req.query.advanced,
       hasResults: true,
       numResults: results.length.toLocaleString(),
       pagination: {
