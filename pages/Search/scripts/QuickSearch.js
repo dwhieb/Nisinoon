@@ -7,7 +7,7 @@ export default class QuickSearch {
    */
   constructor() {
     this.caseSensitive = document.getElementById(`quick-case-sensitive-box`)
-    this.diacritics    = document.getElementById(`diacritics-box`)
+    this.diacritics    = document.getElementById(`quick-diacritics-box`)
     this.form          = document.getElementById(`quick-search-form`)
     this.language      = document.getElementById(`quick-language-select`)
     this.regex         = document.getElementById(`regex-box`)

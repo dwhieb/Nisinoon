@@ -72,7 +72,7 @@ describe(`Search`, function() {
 
     it(`Option: Match Diacritics (checked)`, function() {
       cy.visit(`/search`)
-      cy.get(`#diacritics-box`).check()
+      cy.get(`#quick-diacritics-box`).check()
       cy.get(`#search-box`).type(`aštimw`)
       cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, `of 2`)
@@ -152,12 +152,12 @@ describe(`Search`, function() {
     it(`Settings`, function() {
       cy.visit(`/search`)
       cy.get(`#quick-case-sensitive-box`).check()
-      cy.get(`#diacritics-box`).check()
+      cy.get(`#quick-diacritics-box`).check()
       cy.get(`#regex-box`).check()
       cy.get(`#quick-language-select`).select(`Cree_East`)
       cy.reload()
       cy.get(`#quick-case-sensitive-box`).should(`be.checked`)
-      cy.get(`#diacritics-box`).should(`be.checked`)
+      cy.get(`#quick-diacritics-box`).should(`be.checked`)
       cy.get(`#regex-box`).should(`be.checked`)
       cy.get(`#quick-language-select`).should(`have.value`, `Cree_East`)
     })
@@ -207,14 +207,24 @@ describe(`Search`, function() {
       cy.get(`#advanced-case-sensitive-box`).should(`be.checked`)
     })
 
+    it(`Option: Match Diacritics`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#advanced-diacritics-box`).check()
+      cy.get(`#form-box`).type(`aštimw`)
+      cy.get(`#advanced-search-form`).submit()
+      cy.get(`.num-results`).should(`include.text`, `of 2`)
+    })
+
     it(`Settings`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#advanced-language-select`).select(`Cree_East`)
       cy.get(`#advanced-case-sensitive-box`).check()
+      cy.get(`#advanced-diacritics-box`).check()
       cy.reload()
       cy.get(`#advanced-language-select`).should(`have.value`, `Cree_East`)
-      cy.get(`#advanced-case-sensitive-box`).should(`be.checked`)
+      cy.get(`#advanced-diacritics-box`).should(`be.checked`)
     })
 
   })

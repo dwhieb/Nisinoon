@@ -57,8 +57,8 @@
         </div>
 
         <div class=checkbox-field>
-          <input {{#if query.diacritics }} checked {{/if}} id=diacritics-box name=diacritics type=checkbox>
-          <label for=diacritics-box>Match diacritics</label>
+          <input {{#if query.diacritics }} checked {{/if}} id=quick-diacritics-box name=diacritics type=checkbox>
+          <label for=quick-diacritics-box>Match diacritics</label>
         </div>
 
         <div class=checkbox-field>
@@ -136,6 +136,11 @@
         <div class=checkbox-field>
           <input {{#if query.caseSensitive }} checked {{/if}} id=advanced-case-sensitive-box name=caseSensitive type=checkbox>
           <label for=advanced-case-sensitive-box>Match case</label>
+        </div>
+
+        <div class=checkbox-field>
+          <input {{#if query.diacritics }} checked {{/if}} id=advanced-diacritics-box name=diacritics type=checkbox>
+          <label for=advanced-diacritics-box>Match diacritics</label>
         </div>
 
       </fieldset>

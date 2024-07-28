@@ -7,6 +7,7 @@ export default class AdvancedSearch {
    */
   constructor() {
     this.caseSensitive = document.getElementById(`advanced-case-sensitive-box`)
+    this.diacritics    = document.getElementById(`advanced-diacritics-box`)
     this.language      = document.getElementById(`advanced-language-select`)
   }
 
@@ -15,6 +16,7 @@ export default class AdvancedSearch {
    */
   listen() {
     this.caseSensitive.addEventListener(`input`, this.save.bind(this))
+    this.diacritics.addEventListener(`input`, this.save.bind(this))
     this.language.addEventListener(`input`, this.save.bind(this))
   }
 
@@ -27,6 +29,7 @@ export default class AdvancedSearch {
 
     // Restore search settings
     this.caseSensitive.checked = localStorage.getItem(`caseSensitive`) === `true`
+    this.diacritics.checked    = localStorage.getItem(`diacritics`) === `true`
     this.language.value        = localStorage.getItem(`language`)
 
   }
@@ -36,6 +39,7 @@ export default class AdvancedSearch {
    */
   save() {
     localStorage.setItem(`caseSensitive`, this.caseSensitive.checked)
+    localStorage.setItem(`diacritics`, this.diacritics.checked)
     localStorage.setItem(`language`, this.language.value)
   }
 
