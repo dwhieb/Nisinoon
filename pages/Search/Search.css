@@ -280,6 +280,7 @@ search {
 
 .search-form {
 
+  gap:             0.5em;
   max-inline-size: 35em;
 
   & button {

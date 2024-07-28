@@ -19,53 +19,59 @@
   <search class='quick-search sticky'>
     <form class=search-form id=quick-search-form method=get>
 
-      <label for=quick-language-select>Language</label>
-      <select class='language-select text-box' id=quick-language-select name=language>
-        <option {{#if (is query.language 'all') }} selected {{/if}} value=all>All languages</option>
-        {{#each languages as |lang| }}
-          <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
-        {{/each}}
-      </select>
-
-      <label for=search-box>Quick Search</label>
-      <input
-        autocomplete=on
-        autocorrect=off
-        class=text-box
-        enterkeyhint=search
-        id=search-box
-        inputmode=search
-        name=q
-        placeholder='e.g. “atimw-” or “dog”'
-        spellcheck=false
-        type=search
-        value='{{ query.q }}'
-      >
-      <span class=help-text>Searches forms (in any orthography), tags, and glosses. Leave blank to display all components.</span>
-
-      <div class=checkbox-field>
-        <input {{#if query.caseSensitive }} checked {{/if}} id=case-sensitive-box name=caseSensitive type=checkbox>
-        <label for=case-sensitive-box>Match case</label>
+      <div>
+        <label for=quick-language-select>Language</label>
+        <select class='language-select text-box' id=quick-language-select name=language>
+          <option {{#if (is query.language 'all') }} selected {{/if}} value=all>All languages</option>
+          {{#each languages as |lang| }}
+            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
+          {{/each}}
+        </select>
       </div>
 
-      <div class=checkbox-field>
-        <input {{#if query.diacritics }} checked {{/if}} id=diacritics-box name=diacritics type=checkbox>
-        <label for=diacritics-box>Match diacritics</label>
+      <div>
+        <label for=search-box>Quick Search</label>
+        <input
+          autocomplete=on
+          autocorrect=off
+          class=text-box
+          enterkeyhint=search
+          id=search-box
+          inputmode=search
+          name=q
+          placeholder='e.g. “atimw-” or “dog”'
+          spellcheck=false
+          type=search
+          value='{{ query.q }}'
+        >
+        <span class=help-text>Searches forms (in any orthography), tags, and glosses. Leave blank to display all components.</span>
       </div>
 
-      <div class=checkbox-field>
-        <input {{#if query.regex }} checked {{/if}} id=regex-box name=regex type=checkbox>
-        <label for=regex-box>Use regular expressions</label>
-        <a class=info-link href=https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions target=_blank>
-          <span class=visually-hidden>More information about regular expressions.</span>
-          <svg aria-hidden=true class=info-icon><use href=#info></svg>
-        </a>
-      </div>
+      <fieldset>
+        <div class=checkbox-field>
+          <input {{#if query.caseSensitive }} checked {{/if}} id=case-sensitive-box name=caseSensitive type=checkbox>
+          <label for=case-sensitive-box>Match case</label>
+        </div>
 
-      <div class=search-controls>
-        <button class='button green' id=quick-search-button type=submit>Search</button>
-        <button class='button blue' id=quick-reset-button type=reset>Reset</button>
-      </div>
+        <div class=checkbox-field>
+          <input {{#if query.diacritics }} checked {{/if}} id=diacritics-box name=diacritics type=checkbox>
+          <label for=diacritics-box>Match diacritics</label>
+        </div>
+
+        <div class=checkbox-field>
+          <input {{#if query.regex }} checked {{/if}} id=regex-box name=regex type=checkbox>
+          <label for=regex-box>Use regular expressions</label>
+          <a class=info-link href=https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions target=_blank>
+            <span class=visually-hidden>More information about regular expressions.</span>
+            <svg aria-hidden=true class=info-icon><use href=#info></svg>
+          </a>
+        </div>
+
+        <div class=search-controls>
+          <button class='button green' id=quick-search-button type=submit>Search</button>
+          <button class='button blue' id=quick-reset-button type=reset>Reset</button>
+        </div>
+      </fieldset>
 
     </form>
   </search>
@@ -75,28 +81,32 @@
 
       <input name=advanced type=hidden value=true>
 
-      <label for=advanced-language-select>Language</label>
-      <select class='language-select text-box' id=advanced-language-select name=language>
-        <option {{#if (is query.language 'all') }} selected {{/if}} value=all>All languages</option>
-        {{#each languages as |lang| }}
-          <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
-        {{/each}}
-      </select>
+      <div>
+        <label for=advanced-language-select>Language</label>
+        <select class='language-select text-box' id=advanced-language-select name=language>
+          <option {{#if (is query.language 'all') }} selected {{/if}} value=all>All languages</option>
+          {{#each languages as |lang| }}
+            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
+          {{/each}}
+        </select>
+      </div>
 
-      <label for=form>Form</label>
-      <input
-        autocomplete=on
-        autocorrect=off
-        class=text-box
-        enterkeyhint=search
-        id=form
-        inputmode=search
-        name=form
-        placeholder='e.g. “atimw-”'
-        spellcheck=false
-        type=search
-        value='{{ query.form }}'
-      >
+      <div>
+        <label for=form>Form</label>
+        <input
+          autocomplete=on
+          autocorrect=off
+          class=text-box
+          enterkeyhint=search
+          id=form
+          inputmode=search
+          name=form
+          placeholder='e.g. “atimw-”'
+          spellcheck=false
+          type=search
+          value='{{ query.form }}'
+        >
+      </div>
 
       <div class=search-controls>
         <button class='button green' id=advanced-search-button type=submit>Search</button>
