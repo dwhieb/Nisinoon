@@ -6,13 +6,15 @@ export default class AdvancedSearch {
    * Hook onto DOM elements.
    */
   constructor() {
-    this.language = document.getElementById(`advanced-language-select`)
+    this.caseSensitive = document.getElementById(`advanced-case-sensitive-box`)
+    this.language      = document.getElementById(`advanced-language-select`)
   }
 
   /**
    * Add event listeners.
    */
   listen() {
+    this.caseSensitive.addEventListener(`input`, this.save.bind(this))
     this.language.addEventListener(`input`, this.save.bind(this))
   }
 
@@ -24,7 +26,8 @@ export default class AdvancedSearch {
     if (query.size && !(query.size === 1 && query.has(`advanced`))) return
 
     // Restore search settings
-    this.language.value = localStorage.getItem(`language`)
+    this.caseSensitive.checked = localStorage.getItem(`caseSensitive`) === `true`
+    this.language.value        = localStorage.getItem(`language`)
 
   }
 
@@ -32,6 +35,7 @@ export default class AdvancedSearch {
    * Save search settings.
    */
   save() {
+    localStorage.setItem(`caseSensitive`, this.caseSensitive.checked)
     localStorage.setItem(`language`, this.language.value)
   }
 

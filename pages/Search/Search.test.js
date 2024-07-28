@@ -46,7 +46,7 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`have.text`, `Showing results 1–2 of 2.`)
     })
 
-    it(`case insensitive (default)`, function() {
+    it(`Option: Case Sensitive (default)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`ATIMW`)
       cy.get(`#quick-search-form`).submit()
@@ -54,22 +54,23 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).should(`have.length`, 2)
     })
 
-    it(`case sensitive`, function() {
+    it(`Option: Case Sensitive (checked)`, function() {
       cy.visit(`/search`)
       cy.get(`#quick-case-sensitive-box`).check()
       cy.get(`#search-box`).type(`ATIMW`)
       cy.get(`#quick-search-form`).submit()
       cy.get(`.no-results`)
+      cy.get(`#quick-case-sensitive-box`).should(`be.checked`)
     })
 
-    it(`diacritic-insensitive (default)`, function() {
+    it(`Option: Match Diacritics (default)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`aštimw`)
       cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, `of 9`)
     })
 
-    it(`diacritic-sensitive`, function() {
+    it(`Option: Match Diacritics (checked)`, function() {
       cy.visit(`/search`)
       cy.get(`#diacritics-box`).check()
       cy.get(`#search-box`).type(`aštimw`)
@@ -77,7 +78,7 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 2`)
     })
 
-    it(`regular expressions`, function() {
+    it(`Option: Regular Expressions (checked)`, function() {
       cy.visit(`/search`)
       cy.get(`#regex-box`).check()
       cy.get(`#search-box`).type(`e{{}2}`) // This is how you escape the `{` character in the `.type()` command.
@@ -150,10 +151,12 @@ describe(`Search`, function() {
 
     it(`Settings`, function() {
       cy.visit(`/search`)
+      cy.get(`#quick-case-sensitive-box`).check()
       cy.get(`#diacritics-box`).check()
       cy.get(`#regex-box`).check()
       cy.get(`#quick-language-select`).select(`Cree_East`)
       cy.reload()
+      cy.get(`#quick-case-sensitive-box`).should(`be.checked`)
       cy.get(`#diacritics-box`).should(`be.checked`)
       cy.get(`#regex-box`).should(`be.checked`)
       cy.get(`#quick-language-select`).should(`have.value`, `Cree_East`)
@@ -194,25 +197,27 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 7`)
     })
 
-    it(`case sensitive`, function() {
+    it(`Option: Case Sensitive`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#advanced-case-sensitive-box`).check()
       cy.get(`#form-box`).type(`ATIMW`)
       cy.get(`#advanced-search-form`).submit()
       cy.get(`.no-results`)
+      cy.get(`#advanced-case-sensitive-box`).should(`be.checked`)
     })
 
     it(`Settings`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#advanced-language-select`).select(`Cree_East`)
+      cy.get(`#advanced-case-sensitive-box`).check()
       cy.reload()
       cy.get(`#advanced-language-select`).should(`have.value`, `Cree_East`)
+      cy.get(`#advanced-case-sensitive-box`).should(`be.checked`)
     })
 
   })
-
 
   describe(`Pagination`, function() {
 
@@ -258,11 +263,6 @@ describe(`Search`, function() {
       .next()
       .should(`have.text`, `-oʔooʔoe-`)
     })
-
-  })
-
-  describe(`Settings`, function() {
-
 
   })
 
