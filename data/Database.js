@@ -24,7 +24,7 @@ function createMatchers({
       const test = createSearchRegExp(q, { caseSensitive, regex })
 
       return function testForm(component) {
-        if (!component.form) return true
+        if (!component.form) return false
         return test(normalize(component.form))
       }
 

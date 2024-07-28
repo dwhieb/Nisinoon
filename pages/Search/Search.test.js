@@ -7,6 +7,27 @@ describe(`Search`, function() {
     cy.get(`#results`).should(`not.exist`)
   })
 
+  describe(`Search Mode`, function() {
+
+    it(`toggles`, function() {
+      cy.visit(`/search`)
+      cy.get(`#advanced-search-form`).should(`not.be.visible`)
+      cy.get(`input[value=advanced]`).check()
+      cy.get(`#advanced-search-form`).should(`be.visible`)
+      cy.get(`#quick-search-form`).should(`not.be.visible`)
+      cy.get(`input[value=quick]`).check()
+      cy.get(`#advanced-search-form`).should(`not.be.visible`)
+      cy.get(`#quick-search-form`).should(`be.visible`)
+    })
+
+    it(`loads the correct tab when page loads`, function() {
+      cy.visit(`/search?advanced=true`)
+      cy.get(`#quick-search-form`).should(`not.be.visible`)
+      cy.get(`#advanced-search-form`).should(`be.visible`)
+    })
+
+  })
+
   describe(`Quick Search`, function() {
 
     it(`no results found`, function() {
@@ -140,27 +161,6 @@ describe(`Search`, function() {
 
   })
 
-  describe(`Search Mode`, function() {
-
-    it(`toggles`, function() {
-      cy.visit(`/search`)
-      cy.get(`#advanced-search-form`).should(`not.be.visible`)
-      cy.get(`input[value=advanced]`).check()
-      cy.get(`#advanced-search-form`).should(`be.visible`)
-      cy.get(`#quick-search-form`).should(`not.be.visible`)
-      cy.get(`input[value=quick]`).check()
-      cy.get(`#advanced-search-form`).should(`not.be.visible`)
-      cy.get(`#quick-search-form`).should(`be.visible`)
-    })
-
-    it(`loads the correct tab when page loads`, function() {
-      cy.visit(`/search?advanced=true`)
-      cy.get(`#quick-search-form`).should(`not.be.visible`)
-      cy.get(`#advanced-search-form`).should(`be.visible`)
-    })
-
-  })
-
   describe(`Advanced Search`, function() {
 
     it(`no search criteria (returns all results)`, function() {
@@ -186,10 +186,10 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 2`)
     })
 
-    it.only(`Component: Tags`, function() {
+    it(`Component: Tags`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
-      cy.get(`#tags`).type(`dog`)
+      cy.get(`#tags-box`).type(`dog`)
       cy.get(`#advanced-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 7`)
     })
