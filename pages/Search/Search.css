@@ -64,6 +64,10 @@ body {
 
 }
 
+.complex-searches {
+  text-align: justify;
+}
+
 #download-buttons {
 
   flex-direction: row;
