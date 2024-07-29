@@ -129,7 +129,9 @@ export default class Component {
       this.secondary = finalType === `B` || finalType === `Y`
 
       // Base Categories
-      if (this.secondary && baseCategories.length) this.baseCategories = baseCategories
+      if (this.secondary && baseCategories.length) {
+        this.baseCategories = baseCategories.split(commaRegExp).filter(Boolean)
+      }
 
     }
 
