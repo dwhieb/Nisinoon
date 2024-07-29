@@ -113,6 +113,15 @@
       </div>
 
       <div>
+        <label for=specificity-select>Specificity</label>
+        <select class=text-box id=specificity-select name=specificity>
+          <option {{#unless query.specificity }}selected{{/unless}} value=''>—</option>
+          <option {{#if (is query.specificity 'ABSTR') }}selected{{/if}} value='ABSTR'>abstract</option>
+          <option {{#if (is query.specificity 'CONCR') }}selected{{/if}} value='CONCR'>concrete</option>
+        </select>
+      </div>
+
+      <div>
         <label for=subcategory-select>Subcategory</label>
         <select class=text-box id=subcategory-select name=subcategory>
           <option value=''>—</option>

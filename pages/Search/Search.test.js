@@ -189,6 +189,14 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 2`)
     })
 
+    it(`Component: Specificity`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#specificity-select`).select(`CONCR`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 425.`)
+    })
+
     it(`Component: Subcategory`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
