@@ -33,9 +33,13 @@ export default class AdvancedSearch {
     // Restore search settings
     this.caseSensitive.checked = localStorage.getItem(`caseSensitive`) === `true`
     this.diacritics.checked    = localStorage.getItem(`diacritics`) === `true`
-    this.language.value        = localStorage.getItem(`language`)
-    this.logic.value           = localStorage.getItem(`logic`)
     this.regex.checked         = localStorage.getItem(`regex`) === `true`
+
+    const language = localStorage.getItem(`language`)
+    const logic    = localStorage.getItem(`logic`)
+
+    if (language) this.language.value = language
+    if (logic) this.logic.value = logic
 
   }
 

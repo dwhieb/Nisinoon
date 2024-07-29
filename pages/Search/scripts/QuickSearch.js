@@ -31,8 +31,11 @@ export default class QuickSearch {
     // Restore search settings
     this.caseSensitive.checked = localStorage.getItem(`caseSensitive`) === `true`
     this.diacritics.checked    = localStorage.getItem(`diacritics`) === `true`
-    this.language.value        = localStorage.getItem(`language`)
     this.regex.checked         = localStorage.getItem(`regex`) === `true`
+
+    const language = localStorage.getItem(`language`)
+
+    if (language) this.language.value = language
 
     this.search.focus()
 

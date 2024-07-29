@@ -11,7 +11,7 @@
 
     <label>
       <span>Advanced Search</span>
-      <input {{#if advanced }} checked {{/if}} id=advanced-option name=search type=radio value=advanced>
+      <input {{#if advanced }}checked{{/if}} id=advanced-option name=search type=radio value=advanced>
     </label>
 
   </fieldset>
@@ -22,9 +22,9 @@
       <div>
         <label for=quick-language-select>Language</label>
         <select class='language-select text-box' id=quick-language-select name=language>
-          <option {{#if (is query.language 'all') }} selected {{/if}} value=all>All languages</option>
+          <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
           {{#each languages as |lang| }}
-            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
+            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
           {{/each}}
         </select>
       </div>
@@ -88,9 +88,9 @@
       <div>
         <label for=advanced-language-select>Language</label>
         <select class='language-select text-box' id=advanced-language-select name=language>
-          <option {{#if (is query.language 'all') }} selected {{/if}} value=all>All languages</option>
+          <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
           {{#each languages as |lang| }}
-            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }} {{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
+            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
           {{/each}}
         </select>
       </div>
@@ -155,8 +155,8 @@
         <div class=logic-field>
           <label for=logic-select>Search logic:</label>
           <select class=text-box id=logic-select name=logic>
-            <option {{#unless (is query.logic 'any') }} selected {{/unless}} value=all>match all criteria</option>
-            <option {{#if (is query.logic 'any' ) }} selected {{/if}} value=any>match any criteria</option>
+            <option {{#unless query.logic }}selected{{else if (is query.logic 'all') }}selected{{/unless}} value=all>Match all criteria</option>
+            <option {{#if (is query.logic 'any') }}{{/if}} value=any>Match any criteria</option>
           </select>
         </div>
 
