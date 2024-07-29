@@ -158,4 +158,46 @@ export default class Database {
 
   }
 
+  /**
+ * Create lists of values needed for `<select>` elements.
+ * @returns {Object}
+ */
+  get types() {
+
+    let types = this.components.reduce((set, component) => {
+      if (component.type) set.add(component.type)
+      return set
+    }, new Set)
+
+    types = Array.from(types).sort()
+
+    let subcategories = this.components.reduce((set, component) => {
+      if (component.subcategory) set.add(component.subcategory)
+      return set
+    }, new Set)
+
+    subcategories = Array.from(subcategories).sort()
+
+    let baseCategories = this.components.reduce((set, component) => {
+
+      if (component.baseCategories) {
+        for (const cat of component.baseCategories) {
+          set.add(cat)
+        }
+      }
+
+      return set
+
+    }, new Set)
+
+    baseCategories = Array.from(baseCategories).sort()
+
+    return {
+      baseCategories,
+      subcategories,
+      types,
+    }
+
+  }
+
 }
