@@ -166,11 +166,21 @@ label {
 }
 
 .main-fields {
-  align-items:           baseline;
-  display:               grid;
-  grid-auto-rows:        2em;
-  grid-template-columns: auto auto;
-  row-gap:               0.5em;
+
+  @media (width <= 45em) {
+    label {
+      margin-block-start: 0.5em;
+    }
+  }
+
+  @media (width >= 45em) {
+    align-items:           baseline;
+    display:               grid;
+    grid-auto-rows:        2em;
+    grid-template-columns: auto auto;
+    row-gap:               0.5em;
+  }
+
 }
 
 .meta-row th {
@@ -401,8 +411,9 @@ select {
 }
 
 .text-box {
-  flex-grow:  1;
-  block-size: 1.75em;
+  block-size:  1.75em;
+  inline-size: 100%;
+  flex-grow:   1;
 }
 
 .th-note {
