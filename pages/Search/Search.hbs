@@ -62,8 +62,8 @@
         </div>
 
         <div class=checkbox-field>
-          <input {{#if query.regex }} checked {{/if}} id=regex-box name=regex type=checkbox>
-          <label for=regex-box>Use regular expressions</label>
+          <input {{#if query.regex }} checked {{/if}} id=quick-regex-box name=regex type=checkbox>
+          <label for=quick-regex-box>Use regular expressions</label>
           <a class=info-link href=https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions target=_blank>
             <span class=visually-hidden>More information about regular expressions.</span>
             <svg aria-hidden=true class=info-icon><use href=#info></svg>
@@ -141,6 +141,15 @@
         <div class=checkbox-field>
           <input {{#if query.diacritics }} checked {{/if}} id=advanced-diacritics-box name=diacritics type=checkbox>
           <label for=advanced-diacritics-box>Match diacritics</label>
+        </div>
+
+        <div class=checkbox-field>
+          <input {{#if query.regex }} checked {{/if}} id=advanced-regex-box name=regex type=checkbox>
+          <label for=advanced-regex-box>Use regular expressions</label>
+          <a class=info-link href=https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions target=_blank>
+            <span class=visually-hidden>More information about regular expressions.</span>
+            <svg aria-hidden=true class=info-icon><use href=#info></svg>
+          </a>
         </div>
 
       </fieldset>

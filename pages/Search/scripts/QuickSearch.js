@@ -2,22 +2,16 @@
 
 export default class QuickSearch {
 
-  /**
-   * Hook onto DOM elements.
-   */
   constructor() {
     this.caseSensitive = document.getElementById(`quick-case-sensitive-box`)
     this.diacritics    = document.getElementById(`quick-diacritics-box`)
     this.form          = document.getElementById(`quick-search-form`)
     this.language      = document.getElementById(`quick-language-select`)
-    this.regex         = document.getElementById(`regex-box`)
+    this.regex         = document.getElementById(`quick-regex-box`)
     this.resetButton   = document.getElementById(`quick-reset-button`)
     this.search        = document.getElementById(`search-box`)
   }
 
-  /**
-   * Add event listeners.
-   */
   listen() {
     this.caseSensitive.addEventListener(`input`, this.save.bind(this))
     this.diacritics.addEventListener(`input`, this.save.bind(this))
@@ -48,9 +42,6 @@ export default class QuickSearch {
     this.search.setCustomValidity(``)
   }
 
-  /**
-   * Save search settings.
-   */
   save() {
     localStorage.setItem(`caseSensitive`, this.caseSensitive.checked)
     localStorage.setItem(`diacritics`, this.diacritics.checked)

@@ -80,7 +80,7 @@ describe(`Search`, function() {
 
     it(`Option: Regular Expressions (checked)`, function() {
       cy.visit(`/search`)
-      cy.get(`#regex-box`).check()
+      cy.get(`#quick-regex-box`).check()
       cy.get(`#search-box`).type(`e{{}2}`) // This is how you escape the `{` character in the `.type()` command.
       cy.get(`#quick-search-form`).submit()
       cy.get(`.num-results`).should(`include.text`, `of 1,968`)
@@ -153,12 +153,12 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#quick-case-sensitive-box`).check()
       cy.get(`#quick-diacritics-box`).check()
-      cy.get(`#regex-box`).check()
+      cy.get(`#quick-regex-box`).check()
       cy.get(`#quick-language-select`).select(`Cree_East`)
       cy.reload()
       cy.get(`#quick-case-sensitive-box`).should(`be.checked`)
       cy.get(`#quick-diacritics-box`).should(`be.checked`)
-      cy.get(`#regex-box`).should(`be.checked`)
+      cy.get(`#quick-regex-box`).should(`be.checked`)
       cy.get(`#quick-language-select`).should(`have.value`, `Cree_East`)
     })
 
@@ -202,7 +202,7 @@ describe(`Search`, function() {
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#advanced-case-sensitive-box`).check()
       cy.get(`#form-box`).type(`ATIMW`)
-      cy.get(`#advanced-search-form`).submit()
+      cy.get(`#advanced-search-button`).click()
       cy.get(`.no-results`)
       cy.get(`#advanced-case-sensitive-box`).should(`be.checked`)
     })
@@ -212,8 +212,17 @@ describe(`Search`, function() {
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#advanced-diacritics-box`).check()
       cy.get(`#form-box`).type(`aštimw`)
-      cy.get(`#advanced-search-form`).submit()
+      cy.get(`#advanced-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 2`)
+    })
+
+    it(`Option: Regular Expressions (checked)`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#advanced-regex-box`).check()
+      cy.get(`#form-box`).type(`e{{}2}`) // This is how you escape the `{` character in the `.type()` command.
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 1,423`)
     })
 
     it(`Settings`, function() {
@@ -222,9 +231,12 @@ describe(`Search`, function() {
       cy.get(`#advanced-language-select`).select(`Cree_East`)
       cy.get(`#advanced-case-sensitive-box`).check()
       cy.get(`#advanced-diacritics-box`).check()
+      cy.get(`#advanced-regex-box`).check()
       cy.reload()
       cy.get(`#advanced-language-select`).should(`have.value`, `Cree_East`)
+      cy.get(`#advanced-case-sensitive-box`).should(`be.checked`)
       cy.get(`#advanced-diacritics-box`).should(`be.checked`)
+      cy.get(`#advanced-regex-box`).should(`be.checked`)
     })
 
   })
