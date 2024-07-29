@@ -13,35 +13,39 @@ function createMatchers(query, normalize) {
 
   const {
     caseSensitive,
-    form,
-    language,
     regex,
     tags,
-    type,
-    UR,
   } = Object.fromEntries(query)
+
+  function createBasicTester(field) {
+    return function testBasic(component) {
+      return component[field] === query.get(field)
+    }
+  }
+
+  function createStringTester(field) {
+
+    const q    = normalize(cleanSearch(query.get(field)))
+    const test = createSearchRegExp(q, { caseSensitive, regex })
+
+    return function testString(component) {
+      if (!component[field]) return false
+      return test(normalize(component[field]))
+    }
+
+  }
 
   return {
 
     form() {
-
-      const q    = normalize(cleanSearch(form))
-      const test = createSearchRegExp(q, { caseSensitive, regex })
-
-      return function testForm(component) {
-        if (!component.form) return false
-        return test(normalize(component.form))
-      }
-
+      return createStringTester(`form`)
     },
 
     /**
      * NB: This function only runs when the "Language" setting is not `all`.
      */
     language() {
-      return function testLanguage(component) {
-        return component.language === language
-      }
+      return createBasicTester(`language`)
     },
 
     tags() {
@@ -55,22 +59,16 @@ function createMatchers(query, normalize) {
 
     },
 
+    subcategory() {
+      return createBasicTester(`subcategory`)
+    },
+
     type() {
-      return function testType(component) {
-        return component.type === type
-      }
+      return createBasicTester(`type`)
     },
 
     UR() {
-
-      const q    = normalize(cleanSearch(UR))
-      const test = createSearchRegExp(q, { caseSensitive, regex })
-
-      return function testUR(component) {
-        if (!component.UR) return false
-        return test(normalize(component.UR))
-      }
-
+      return createStringTester(`UR`)
     },
 
   }

@@ -113,6 +113,16 @@
       </div>
 
       <div>
+        <label for=subcategory-select>Subcategory</label>
+        <select class=text-box id=subcategory-select name=subcategory>
+          <option value=''>—</option>
+          {{#each types.subcategories as |subcategory| }}
+            <option {{#if (is ../query.subcategory subcategory) }}selected{{/if}} value='{{ subcategory }}'>{{ subcategory }}</option>
+          {{/each}}
+        </select>
+      </div>
+
+      <div>
         <label for=tags-box>Tags</label>
         <input
           autocomplete=on
