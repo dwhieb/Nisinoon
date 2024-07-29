@@ -107,6 +107,12 @@ h2 {
   display: none;
 }
 
+hr {
+  all:              revert;
+  inline-size:      80%;
+  margin-block-end: 0;
+}
+
 .info-icon {
   --icon-size: 0.75em;
   block-size:  var(--icon-size);
@@ -130,6 +136,11 @@ input[type=checkbox] {
 
 label {
   cursor: pointer;
+}
+
+.legend {
+  font-weight: bold;
+  text-align:  center;
 }
 
 .logic-field {

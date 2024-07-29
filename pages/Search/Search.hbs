@@ -49,7 +49,7 @@
 
       <fieldset>
 
-        <legend class=label>Search Options</legend>
+        <legend class=legend>Search Options</legend>
 
         <div class=checkbox-field>
           <input {{#if query.caseSensitive }} checked {{/if}} id=quick-case-sensitive-box name=caseSensitive type=checkbox>
@@ -113,7 +113,7 @@
       </div>
 
       <div>
-        <label for=tags>Tags</label>
+        <label for=tags-box>Tags</label>
         <input
           autocomplete=on
           autocorrect=off
@@ -129,9 +129,28 @@
         >
       </div>
 
+      <hr>
+
+      <div>
+        <label for=UR-box>UR</label>
+        <input
+          autocomplete=on
+          autocorrect=off
+          class=text-box
+          enterkeyhint=search
+          id=UR-box
+          inputmode=search
+          name=UR
+          placeholder='e.g. “éθew”'
+          spellcheck=false
+          type=search
+          value='{{ query.UR }}'
+        >
+      </div>
+
       <fieldset>
 
-        <legend class=label>Search Options</legend>
+        <legend class=legend>Search Options</legend>
 
         <div class=checkbox-field>
           <input {{#if query.caseSensitive }} checked {{/if}} id=advanced-case-sensitive-box name=caseSensitive type=checkbox>
@@ -156,7 +175,7 @@
           <label for=logic-select>Search logic:</label>
           <select class=text-box id=logic-select name=logic>
             <option {{#unless query.logic }}selected{{else if (is query.logic 'all') }}selected{{/unless}} value=all>Match all criteria</option>
-            <option {{#if (is query.logic 'any') }}{{/if}} value=any>Match any criteria</option>
+            <option {{#if (is query.logic 'any') }}selected{{/if}} value=any>Match any criteria</option>
           </select>
         </div>
 

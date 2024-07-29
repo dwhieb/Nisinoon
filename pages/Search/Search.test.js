@@ -166,7 +166,7 @@ describe(`Search`, function() {
 
   describe(`Advanced Search`, function() {
 
-    it(`no search criteria (returns all results)`, function() {
+    it(`No Search Criteria (returns all results)`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#advanced-search-button`).click()
@@ -195,6 +195,14 @@ describe(`Search`, function() {
       cy.get(`#tags-box`).type(`dog`)
       cy.get(`#advanced-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 7`)
+    })
+
+    it(`Component: UR`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#UR-box`).type(`éθew`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
     it(`Option: Case Sensitive`, function() {

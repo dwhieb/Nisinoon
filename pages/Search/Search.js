@@ -36,12 +36,10 @@ export function Search(req, res) {
 
   let results = []
 
-  // NB: The Database methods expect options to be an Object rather than a Map.
-  // Use the original req.query rather than the Mappified version.
   if (req.query.advanced) {
-    results = req.app.db.search(req.query)
+    results = req.app.db.search(query)
   } else {
-    results = req.app.db.quickSearch(req.query)
+    results = req.app.db.quickSearch(query)
   }
 
   const numTotalResults = results.length

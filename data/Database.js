@@ -7,15 +7,19 @@ import Languages          from './models/Languages.js'
 import Normalizer         from './Normalizer.js'
 
 /**
- * NB: I'm using named function expressions here to make debugging easier.
+ * NB: Return named function expressions from these methods to make debugging easier.
  */
-function createMatchers({
-  caseSensitive,
-  form,
-  language,
-  regex,
-  tags,
-}, normalize) {
+function createMatchers(query, normalize) {
+
+  const {
+    caseSensitive,
+    form,
+    language,
+    regex,
+    tags,
+    UR,
+  } = Object.fromEntries(query)
+
   return {
 
     form() {
@@ -30,10 +34,12 @@ function createMatchers({
 
     },
 
+    /**
+     * NB: This function only runs when the "Language" setting is not `all`.
+     */
     language() {
       return function testLanguage(component) {
-        if (language === `all` || component.language === language) return true
-        return false
+        return component.language === language
       }
     },
 
@@ -48,7 +54,20 @@ function createMatchers({
 
     },
 
+    UR() {
+
+      const q    = normalize(cleanSearch(UR))
+      const test = createSearchRegExp(q, { caseSensitive, regex })
+
+      return function testUR(component) {
+        if (!component.UR) return false
+        return test(normalize(component.UR))
+      }
+
+    },
+
   }
+
 }
 
 export default class Database {
@@ -65,16 +84,13 @@ export default class Database {
     this.components = Array.from(this.index.values())
   }
 
-  /**
-   * NB: Be careful not to alter the original components array within this method.
-   */
-  quickSearch({
-    caseSensitive,
-    diacritics,
-    language: langQuery,
-    regex,
-    q,
-  } = {}) {
+  quickSearch(query) {
+
+    const caseSensitive = query.get(`caseSensitive`)
+    const diacritics    = query.get(`diacritics`)
+    const langQuery     = query.get(`language`)
+    const regex         = query.get(`regex`)
+    const q             = query.get(`q`)
 
     // Special case searches without a text query to improve search speed.
     if (!q) {
@@ -88,8 +104,8 @@ export default class Database {
 
     // NFC normalize original search text first (using `cleanSearch()`), since data in database is also normalized. This allows search results to match the query.
     // Then normalize (in the sense of 'make consistent') the query according to the search options.
-    const query = normalize(cleanSearch(q))
-    const test  = createSearchRegExp(query, { caseSensitive, regex })
+    const searchText = normalize(cleanSearch(q))
+    const test       = createSearchRegExp(searchText, { caseSensitive, regex })
 
     return Array.from(this.components).filter(function({
       form,
@@ -119,24 +135,20 @@ export default class Database {
 
   }
 
-  /**
-   * Advanced Search
-   * @param   {Object} [options={}] The querystring parameters.
-   * @returns {Array}
-   */
-  search(query = {}) {
+  search(query) {
 
-    const {
-      caseSensitive,
-      diacritics,
-      logic = `all`,
-    } = query
+    const caseSensitive = query.get(`caseSensitive`)
+    const diacritics    = query.get(`diacritics`)
+    const language      = query.get(`language`)
+    const logic         = query.get(`logic`) ?? `all`
 
-    const normalize    = new Normalizer({ caseSensitive, diacritics })
-    const matchers     = createMatchers(query, normalize)
+    const normalize = new Normalizer({ caseSensitive, diacritics })
+    const matchers  = createMatchers(query, normalize)
+
+    if (language === `all`) delete matchers.language
 
     const matchFunctions = Object.keys(matchers)
-    .filter(field => query[field])
+    .filter(field => query.get(field))
     .map(field => matchers[field]())
 
     const method = logic === `all` ? `every` : `some`
