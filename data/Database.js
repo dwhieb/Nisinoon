@@ -23,6 +23,12 @@ function createMatchers(query, normalize) {
     }
   }
 
+  function createBooleanTester(field) {
+    return function testBoolean(component) {
+      return Boolean(component[field])
+    }
+  }
+
   function createStringTester(field) {
 
     const q    = normalize(cleanSearch(query.get(field)))
@@ -49,20 +55,11 @@ function createMatchers(query, normalize) {
     },
 
     primary() {
-      return function testPrimary(component) {
-        return Boolean(component.primary)
-      }
+      return createBooleanTester(`primary`)
     },
 
-    tags() {
-
-      const q    = normalize(cleanSearch(tags))
-      const test = createSearchRegExp(q, { caseSensitive, regex })
-
-      return function testTags(component) {
-        return component.tags?.some(tag => test(normalize(tag)))
-      }
-
+    secondary() {
+      return createBooleanTester(`secondary`)
     },
 
     specificity() {
@@ -71,6 +68,17 @@ function createMatchers(query, normalize) {
 
     subcategory() {
       return createBasicTester(`subcategory`)
+    },
+
+    tags() {
+
+      const q = normalize(cleanSearch(tags))
+      const test = createSearchRegExp(q, { caseSensitive, regex })
+
+      return function testTags(component) {
+        return component.tags?.some(tag => test(normalize(tag)))
+      }
+
     },
 
     type() {

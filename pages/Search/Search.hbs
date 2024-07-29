@@ -85,7 +85,8 @@
 
       <input name=advanced type=hidden value=true>
 
-      <div>
+      <div class=main-fields>
+
         <label for=advanced-language-select>Language</label>
         <select class='language-select text-box' id=advanced-language-select name=language>
           <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
@@ -93,9 +94,7 @@
             <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
           {{/each}}
         </select>
-      </div>
 
-      <div>
         <label for=form-box>Form</label>
         <input
           autocomplete=on
@@ -110,18 +109,14 @@
           type=search
           value='{{ query.form }}'
         >
-      </div>
 
-      <div>
         <label for=specificity-select>Specificity</label>
         <select class=text-box id=specificity-select name=specificity>
           <option {{#unless query.specificity }}selected{{/unless}} value=''>—</option>
           <option {{#if (is query.specificity 'ABSTR') }}selected{{/if}} value='ABSTR'>abstract</option>
           <option {{#if (is query.specificity 'CONCR') }}selected{{/if}} value='CONCR'>concrete</option>
         </select>
-      </div>
 
-      <div>
         <label for=subcategory-select>Subcategory</label>
         <select class=text-box id=subcategory-select name=subcategory>
           <option value=''>—</option>
@@ -129,9 +124,7 @@
             <option {{#if (is ../query.subcategory subcategory) }}selected{{/if}} value='{{ subcategory }}'>{{ subcategory }}</option>
           {{/each}}
         </select>
-      </div>
 
-      <div>
         <label for=tags-box>Tags</label>
         <input
           autocomplete=on
@@ -146,9 +139,7 @@
           type=search
           value='{{ query.tags }}'
         >
-      </div>
 
-      <div>
         <label for=type-select>Type</label>
         <select class=text-box id=type-select name=type>
           <option value=''>—</option>
@@ -156,9 +147,7 @@
             <option {{#if (is ../query.type type) }}selected{{/if}} value='{{ type }}'>{{ type }}</option>
           {{/each}}
         </select>
-      </div>
 
-      <div>
         <label for=UR-box>UR</label>
         <input
           autocomplete=on
@@ -173,18 +162,24 @@
           type=search
           value='{{ query.UR }}'
         >
-      </div>
 
-      <fieldset>
+      </div><!-- Main Fields -->
+
+      <fieldset class=checkbox-fields>
 
         <div class=checkbox-field>
           <input {{#if query.primary }} checked {{/if}} id=primary-box name=primary type=checkbox>
           <label for=primary-box>Final: Primary</label>
         </div>
 
-      </fieldset>
+        <div class=checkbox-field>
+          <input {{#if query.secondary }} checked {{/if}} id=secondary-box name=secondary type=checkbox>
+          <label for=secondary-box>Final: Secondary</label>
+        </div>
 
-      <fieldset>
+      </fieldset><!-- CheckBox Fields -->
+
+      <fieldset class=search-options>
 
         <legend class=legend>Search Options</legend>
 
@@ -215,7 +210,7 @@
           </select>
         </div>
 
-      </fieldset>
+      </fieldset><!-- Search Options -->
 
       <div class=search-controls>
         <button class='button green' id=advanced-search-button type=submit>Search</button>
