@@ -132,21 +132,15 @@ label {
   cursor: pointer;
 }
 
-.language-select {
+.logic-field {
+  align-items:     baseline;
+  flex-direction:  row;
+  justify-content: flex-start;
+}
 
-  all:           revert;                    /* Use default browser styles. */
-  border-radius: var(--border-radius);
-  cursor:        pointer;
-  font-family:   'Times New Roman', serif;  /* This is necessary because the adjustments to ligatures don't apply within the <select> element. */
-  font-size:     100%;
-  line-height:   1.5;
-  padding:       0.25em;
-
-  @media (prefers-color-scheme: dark) {
-    background-color: var(--off-black);
-    color:            var(--off-white);
-  }
-
+#logic-select {
+  flex-grow: 0; /* Override rule for .text-box class. */
+  font-size: medium;
 }
 
 #main {
@@ -320,6 +314,23 @@ search {
 
 #search-mode:has([value=advanced]:checked) ~ .quick-search {
   display: none;
+}
+
+select {
+
+  all:           revert;                    /* Use default browser styles. */
+  border-radius: var(--border-radius);
+  cursor:        pointer;
+  font-family:   'Times New Roman', serif;  /* This is necessary because the adjustments to ligatures don't apply within the <select> element. */
+  font-size:     100%;
+  line-height:   1.5;
+  padding:       0.25em;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: var(--off-black);
+    color:            var(--off-white);
+  }
+
 }
 
 .sort-button {

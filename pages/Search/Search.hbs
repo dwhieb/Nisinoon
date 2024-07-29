@@ -152,6 +152,14 @@
           </a>
         </div>
 
+        <div class=logic-field>
+          <label for=logic-select>Search logic:</label>
+          <select class=text-box id=logic-select name=logic>
+            <option {{#unless (is query.logic 'any') }} selected {{/unless}} value=all>match all criteria</option>
+            <option {{#if (is query.logic 'any' ) }} selected {{/if}} value=any>match any criteria</option>
+          </select>
+        </div>
+
       </fieldset>
 
       <div class=search-controls>

@@ -126,7 +126,11 @@ export default class Database {
    */
   search(query = {}) {
 
-    const { caseSensitive, diacritics } = query
+    const {
+      caseSensitive,
+      diacritics,
+      logic = `all`,
+    } = query
 
     const normalize    = new Normalizer({ caseSensitive, diacritics })
     const matchers     = createMatchers(query, normalize)
@@ -135,8 +139,10 @@ export default class Database {
     .filter(field => query[field])
     .map(field => matchers[field]())
 
+    const method = logic === `all` ? `every` : `some`
+
     return Array.from(this.components)
-    .filter(component => matchFunctions.every(test => test(component)))
+    .filter(component => matchFunctions[method](test => test(component)))
 
   }
 

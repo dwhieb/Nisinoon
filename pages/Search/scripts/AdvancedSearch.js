@@ -8,6 +8,7 @@ export default class AdvancedSearch {
     this.form          = document.getElementById(`advanced-search-form`)
     this.formBox       = document.getElementById(`form-box`)
     this.language      = document.getElementById(`advanced-language-select`)
+    this.logic         = document.getElementById(`logic-select`)
     this.regex         = document.getElementById(`advanced-regex-box`)
     this.tagsBox       = document.getElementById(`tags-box`)
   }
@@ -18,6 +19,7 @@ export default class AdvancedSearch {
     this.form.addEventListener(`input`, this.resetValidity.bind(this))
     this.form.addEventListener(`submit`, this.validate.bind(this))
     this.language.addEventListener(`input`, this.save.bind(this))
+    this.logic.addEventListener(`input`, this.save.bind(this))
     this.regex.addEventListener(`input`, this.save.bind(this))
   }
 
@@ -32,6 +34,7 @@ export default class AdvancedSearch {
     this.caseSensitive.checked = localStorage.getItem(`caseSensitive`) === `true`
     this.diacritics.checked    = localStorage.getItem(`diacritics`) === `true`
     this.language.value        = localStorage.getItem(`language`)
+    this.logic.value           = localStorage.getItem(`logic`)
     this.regex.checked         = localStorage.getItem(`regex`) === `true`
 
   }
@@ -45,6 +48,7 @@ export default class AdvancedSearch {
     localStorage.setItem(`caseSensitive`, this.caseSensitive.checked)
     localStorage.setItem(`diacritics`, this.diacritics.checked)
     localStorage.setItem(`language`, this.language.value)
+    localStorage.setItem(`logic`, this.logic.value)
     localStorage.setItem(`regex`, this.regex.checked)
   }
 

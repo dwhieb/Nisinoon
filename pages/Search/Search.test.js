@@ -225,6 +225,26 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 1,423`)
     })
 
+    it(`Option: All (default)`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#form-box`).type(`atimw`)
+      cy.get(`#tags-box`).type(`horse`)
+      cy.get(`#logic-select`).select(`all`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 1.`)
+    })
+
+    it(`Option: Any`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#form-box`).type(`atimw`)
+      cy.get(`#tags-box`).type(`horse`)
+      cy.get(`#logic-select`).select(`any`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 2.`)
+    })
+
     it(`Settings`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
@@ -232,11 +252,13 @@ describe(`Search`, function() {
       cy.get(`#advanced-case-sensitive-box`).check()
       cy.get(`#advanced-diacritics-box`).check()
       cy.get(`#advanced-regex-box`).check()
+      cy.get(`#logic-select`).select(`any`)
       cy.reload()
       cy.get(`#advanced-language-select`).should(`have.value`, `Cree_East`)
       cy.get(`#advanced-case-sensitive-box`).should(`be.checked`)
       cy.get(`#advanced-diacritics-box`).should(`be.checked`)
       cy.get(`#advanced-regex-box`).should(`be.checked`)
+      cy.get(`#logic-select`).should(`have.value`, `any`)
     })
 
   })
