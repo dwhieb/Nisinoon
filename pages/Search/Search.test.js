@@ -197,6 +197,14 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 7`)
     })
 
+    it(`Component: Type`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#type-select`).select(`medial`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 1,937`)
+    })
+
     it(`Component: UR`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()

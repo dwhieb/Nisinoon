@@ -129,7 +129,15 @@
         >
       </div>
 
-      <hr>
+      <div>
+        <label for=type-select>Type</label>
+        <select class=text-box id=type-select name=type>
+          <option value=''>—</option>
+          {{#each types.types as |type| }}
+            <option {{#if (is ../query.type type) }}selected{{/if}} value='{{ type }}'>{{ type }}</option>
+          {{/each}}
+        </select>
+      </div>
 
       <div>
         <label for=UR-box>UR</label>

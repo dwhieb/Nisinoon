@@ -11,7 +11,7 @@ const defaults = {
 export function Search(req, res) {
 
   const { db } = req.app
-  const query = new Map(Object.entries(req.query))
+  const query  = new Map(Object.entries(req.query))
 
   const context = {
     advanced:      query.has(`advanced`),
@@ -21,6 +21,7 @@ export function Search(req, res) {
     pageCSS:       res.app.locals.styles.Search,
     Search:        true,
     title:         `Search`,
+    types:         db.types,
     url:           req.originalUrl,
   }
 

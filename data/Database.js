@@ -17,6 +17,7 @@ function createMatchers(query, normalize) {
     language,
     regex,
     tags,
+    type,
     UR,
   } = Object.fromEntries(query)
 
@@ -52,6 +53,12 @@ function createMatchers(query, normalize) {
         return component.tags?.some(tag => test(normalize(tag)))
       }
 
+    },
+
+    type() {
+      return function testType(component) {
+        return component.type === type
+      }
     },
 
     UR() {
