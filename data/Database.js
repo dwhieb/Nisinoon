@@ -48,6 +48,12 @@ function createMatchers(query, normalize) {
       return createBasicTester(`language`)
     },
 
+    primary() {
+      return function testPrimary(component) {
+        return Boolean(component.primary)
+      }
+    },
+
     tags() {
 
       const q    = normalize(cleanSearch(tags))

@@ -181,6 +181,14 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 6`)
     })
 
+    it(`Component: Final: Primary`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#primary-box`).check()
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 4,154`)
+    })
+
     it(`Component: Form`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
