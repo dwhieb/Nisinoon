@@ -11,8 +11,9 @@ const htmlOptions = {
   tag:     `li`,
 }
 
-function inlineExample(str) {
-  return `<i class=inex>${ replaceHyphens(str) }</i>`
+function inlineExample(str, language) {
+  const lang = language ? `lang='${ language }'` : ``
+  return `<i class=inex ${ lang }>${ replaceHyphens(str) }</i>`
 }
 
 function interlinear(cssClasses, opts) {

@@ -66,8 +66,8 @@
     "yaml": "^2.4.3"
   },
   "dependencies": {
-    "@digitallinguistics/dlx2html": "^0.3.1",
-    "@digitallinguistics/scription2dlx": "^0.13.5",
+    "@digitallinguistics/dlx2html": "^0.4.0",
+    "@digitallinguistics/scription2dlx": "^0.14.0",
     "change-case": "^5.4.4",
     "dotenv": "^16.4.5",
     "escape-string-regexp": "^5.0.0",

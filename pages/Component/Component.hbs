@@ -4,7 +4,7 @@
   <article>
 
     <header class=page-header>
-      <h1 class=page-title>{{ displayLanguage }}: <i class=inex>{{ displayForm }}</i></h1>
+      <h1 class=page-title>{{ displayLanguage }}: <i class=inex lang='{{ ISO }}'>{{ displayForm }}</i></h1>
       {{> help-text/help-text }}
     </header>
 
@@ -13,14 +13,14 @@
       <dl>
 
         <dt>Form</dt>
-        <dd class=txn>{{#if form }}{{ form }}{{else}}—{{/if}}</dd>
+        <dd class=txn lang='{{ ISO }}'>{{#if form }}{{ form }}{{else}}—{{/if}}</dd>
 
         <dt>UR</dt>
-        <dd class=txn>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</dd>
+        <dd class=txn lang='{{ ISO }}'>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</dd>
 
         {{#unless (is language 'Proto_Algonquian') }}
           <dt>Proto-Algonquian</dt>
-          <dd class=txn>{{#if PA }}{{ PA }}{{else}}—{{/if}}</dd>
+          <dd class=txn lang=alg>{{#if PA }}{{ PA }}{{else}}—{{/if}}</dd>
         {{/unless}}
 
         <dt>Tags</dt>
@@ -79,9 +79,9 @@
         <tbody>
           {{#each tokens as |token| }}
           <tr>
-            <td class=txn>{{#if form }}{{ form }}{{else}}—{{/if}}</td>
-            <td class=txn>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</td>
-            <td class=txn>{{#if PA }}{{ PA }}{{else}}—{{/if}}</td>
+            <td class=txn lang='{{ ../ISO }}'>{{#if form }}{{ form }}{{else}}—{{/if}}</td>
+            <td class=txn lang='{{ ../ISO }}'>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</td>
+            <td class=txn lang=alg>{{#if PA }}{{ PA }}{{else}}—{{/if}}</td>
             <td>{{#if gloss }}‘{{ gloss }}’{{else}}—{{/if}}</td>
             <td>{{ bibliography }}</td>
             <td>{{#if speaker }}{{ speaker }}{{else}}—{{/if}}</td>
@@ -97,16 +97,16 @@
       <dl>
 
         <dt>AI</dt>
-        <dd class=txn>{{#if matches.AI }}{{ matches.AI }}{{else}}—{{/if}}</dd>
+        <dd class=txn lang='{{ ISO }}'>{{#if matches.AI }}{{ matches.AI }}{{else}}—{{/if}}</dd>
 
         <dt>II</dt>
-        <dd class=txn>{{#if matches.II }}{{ matches.II }}{{else}}—{{/if}}</dd>
+        <dd class=txn lang='{{ ISO }}'>{{#if matches.II }}{{ matches.II }}{{else}}—{{/if}}</dd>
 
         <dt>TA</dt>
-        <dd class=txn>{{#if matches.TA }}{{ matches.TA }}{{else}}—{{/if}}</dd>
+        <dd class=txn lang='{{ ISO }}'>{{#if matches.TA }}{{ matches.TA }}{{else}}—{{/if}}</dd>
 
         <dt>TI</dt>
-        <dd class=txn>{{#if matches.TI }}{{ matches.TI }}{{else}}—{{/if}}</dd>
+        <dd class=txn lang='{{ ISO }}'>{{#if matches.TI }}{{ matches.TI }}{{else}}—{{/if}}</dd>
 
       </dl>
     </fieldset>
@@ -155,7 +155,7 @@
 
         {{#if deverbal }}
           <dt>Deverbal From</dt>
-          <dd class=txn>{{#if deverbalFrom }}{{ deverbalFrom }}{{else}}—{{/if}}</dd>
+          <dd class=txn lang='{{ ISO }}'>{{#if deverbalFrom }}{{ deverbalFrom }}{{else}}—{{/if}}</dd>
         {{/if}}
 
       </dl>
@@ -172,7 +172,7 @@
           <tbody>
             {{#each allomorphs }}
               <tr>
-                <td class=txn>{{ form }}</td>
+                <td class=txn lang='{{ ../ISO }}'>{{ form }}</td>
                 <td>{{#if condition }}{{ condition }}{{else}}—{{/if}}</td>
               </tr>
             {{/each}}
@@ -191,7 +191,7 @@
             <dd>
               <ul>
                 {{#each containedIn }}
-                  <li class=txn>{{ this }}</li>
+                  <li class=txn lang='{{ ../ISO }}'>{{ this }}</li>
                 {{/each}}
               </ul>
             </dd>
@@ -202,7 +202,7 @@
             <dd>
               <ul>
                 {{#each components }}
-                  <li class=txn>{{ this }}</li>
+                  <li class=txn lang='{{ ../ISO }}'>{{ this }}</li>
                 {{/each}}
               </ul>
             </dd>
@@ -213,7 +213,7 @@
             <dd>
               <ul>
                 {{#each formatives }}
-                  <li class=txn>{{ this }}</li>
+                  <li class=txn lang='{{ ../ISO }}'>{{ this }}</li>
                 {{/each}}
               </ul>
             </dd>
@@ -245,7 +245,7 @@
           <tbody>
             {{#each stems }}
               <tr>
-                <td class='stem-form txn'>{{ form }}</td>
+                <td class='stem-form txn' lang='{{ ../ISO }}'>{{ form }}</td>
                 <td class=stem-category>{{#if category }}{{ category }}{{else}}—{{/if}}</td>
                 <td class=stem-subcategory>{{#if subcategory }}{{ subcategory }}{{else}}—{{/if}}</td>
                 <td>{{#if gloss }}‘{{ gloss }}’{{/if}}</td>

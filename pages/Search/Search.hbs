@@ -316,8 +316,8 @@
             {{#each results as |result| }}
               <tr id='{{ ID }}'>
                 <td class=language>{{ displayLanguage }}</td>
-                <td class=form>{{#if form }}<a class=link href='/components/{{ ID }}'>{{ form }}</a>{{else}}—{{/if}}</td>
-                <td class=UR>{{#if UR }}<a class=link href='/components/{{ ID }}'>/{{ UR }}/</a>{{else}}—{{/if}}</td>
+                <td class=form lang='{{ ISO }}'>{{#if form }}<a class=link href='/components/{{ ID }}'>{{ form }}</a>{{else}}—{{/if}}</td>
+                <td class=UR lang='{{ ISO }}'>{{#if UR }}<a class=link href='/components/{{ ID }}'>/{{ UR }}/</a>{{else}}—{{/if}}</td>
                 <td class=tags>
                   {{#if tags }}
                     <ul>
@@ -333,21 +333,21 @@
                 <td class=subcategory>{{#if subcategory }}{{ subcategory }}{{else}}—{{/if}}</td>
                 <td class=source-forms>
                   <ul>
-                    {{#each tokens as |token| }}
-                      <li>{{#if form }}{{ form }}{{else}}—{{/if}}</li>
+                    {{#each tokens }}
+                      <li lang='{{ ../ISO }}'>{{#if form }}{{ form }}{{else}}—{{/if}}</li>
                     {{/each}}
                   </ul>
                 </td>
                 <td class=source-URs>
                   <ul>
-                    {{#each tokens as |token| }}
-                      <li>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</li>
+                    {{#each tokens }}
+                      <li lang='{{ ../ISO }}'>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</li>
                     {{/each}}
                   </ul>
                 </td>
                 <td class=source-glosses>
                   <ul>
-                    {{#each tokens as |token| }}
+                    {{#each tokens }}
                       <li>{{#if gloss }}‘{{ gloss }}’{{else}}—{{/if}}</li>
                     {{/each}}
                   </ul>
