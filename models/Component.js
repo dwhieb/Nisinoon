@@ -101,6 +101,7 @@ export default class Component {
       .split(commaRegExp)
       .filter(Boolean)
       .map(cleanGloss)
+      .filter(Boolean) // Do this again to catch `NG` cases.
     }
 
     // Type
