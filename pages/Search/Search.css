@@ -123,7 +123,7 @@ h2 {
     align-items:           baseline;
     display:               grid;
     grid-auto-rows:        2em;
-    grid-template-columns: auto auto;
+    grid-template-columns: 7.5em auto;
     row-gap:               0.5em;
   }
 
@@ -173,8 +173,9 @@ label {
 }
 
 #logic-select {
-  flex-grow: 0; /* Override rule for .text-box class. */
-  font-size: medium;
+  flex-grow:   0;            /* Override rule for .text-box class. */
+  font-size:   medium;
+  inline-size: fit-content;  /* Override rule for .text-box class. */
 }
 
 #main {
@@ -410,7 +411,7 @@ select {
 .stats {
 
   display:               grid;
-  grid-template-columns: 7.5em auto;
+  grid-template-columns: auto auto;
   justify-content:       center;
 
   * {

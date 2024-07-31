@@ -253,6 +253,14 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 1.`)
     })
 
+    it(`Sources: UR`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#source-UR-box`).type(`e3ee`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 2.`)
+    })
+
     it(`Option: Case Sensitive`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()

@@ -15,6 +15,7 @@ function createMatchers(query, normalize) {
     caseSensitive,
     regex,
     sourceForm,
+    sourceUR,
     tags,
   } = Object.fromEntries(query)
 
@@ -70,6 +71,17 @@ function createMatchers(query, normalize) {
 
       return function testSourceForm(component) {
         return component.tokens?.some(token => test(normalize(token.form)))
+      }
+
+    },
+
+    sourceUR() {
+
+      const q    = normalize(cleanSearch(sourceUR))
+      const test = createSearchRegExp(q, { caseSensitive, regex })
+
+      return function testSourceUR(component) {
+        return component.tokens?.some(token => test(normalize(token.UR)))
       }
 
     },
