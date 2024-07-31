@@ -111,6 +111,24 @@ h2 {
   display: none;
 }
 
+.horizontal-fields {
+
+  @media (width <= 45em) {
+    label {
+      margin-block-start: 0.5em;
+    }
+  }
+
+  @media (width >= 45em) {
+    align-items:           baseline;
+    display:               grid;
+    grid-auto-rows:        2em;
+    grid-template-columns: auto auto;
+    row-gap:               0.5em;
+  }
+
+}
+
 hr {
   all:              revert;
   inline-size:      80%;
@@ -164,24 +182,6 @@ label {
   align-self:      stretch;
   max-inline-size: 100vw;
   padding:         0;
-}
-
-.main-fields {
-
-  @media (width <= 45em) {
-    label {
-      margin-block-start: 0.5em;
-    }
-  }
-
-  @media (width >= 45em) {
-    align-items:           baseline;
-    display:               grid;
-    grid-auto-rows:        2em;
-    grid-template-columns: auto auto;
-    row-gap:               0.5em;
-  }
-
 }
 
 .meta-row th {
@@ -395,10 +395,22 @@ select {
   inline-size: var(--icon-size);
 }
 
+.source-fields {
+
+  .help-text {
+    text-align: center;
+  }
+
+  .horizontal-fields {
+    margin-block: 0.5em;
+  }
+
+}
+
 .stats {
 
   display:               grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 7.5em auto;
   justify-content:       center;
 
   * {

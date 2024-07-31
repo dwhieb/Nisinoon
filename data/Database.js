@@ -14,6 +14,7 @@ function createMatchers(query, normalize) {
   const {
     caseSensitive,
     regex,
+    sourceForm,
     tags,
   } = Object.fromEntries(query)
 
@@ -62,6 +63,17 @@ function createMatchers(query, normalize) {
       return createBooleanTester(`secondary`)
     },
 
+    sourceForm() {
+
+      const q    = normalize(cleanSearch(sourceForm))
+      const test = createSearchRegExp(q, { caseSensitive, regex })
+
+      return function testSourceForm(component) {
+        return component.tokens?.some(token => test(normalize(token.form)))
+      }
+
+    },
+
     specificity() {
       return createBasicTester(`specificity`)
     },
@@ -72,7 +84,7 @@ function createMatchers(query, normalize) {
 
     tags() {
 
-      const q = normalize(cleanSearch(tags))
+      const q    = normalize(cleanSearch(tags))
       const test = createSearchRegExp(q, { caseSensitive, regex })
 
       return function testTags(component) {

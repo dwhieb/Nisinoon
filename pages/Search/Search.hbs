@@ -85,7 +85,7 @@
 
       <input name=advanced type=hidden value=true>
 
-      <div class=main-fields>
+      <div class='horizontal-fields main-fields'>
 
         <label for=advanced-language-select>Language</label>
         <select class='language-select text-box' id=advanced-language-select name=language>
@@ -178,6 +178,33 @@
         </div>
 
       </fieldset><!-- CheckBox Fields -->
+
+      <fieldset class=source-fields>
+
+        <legend class=legend>Sources</legend>
+
+        <p class=help-text>Search for a match within one of the original sources for a component.</p>
+
+        <div class=horizontal-fields>
+
+          <label for=source-form-box>Form</label>
+          <input
+            autocomplete=on
+            autocorrect=off
+            class=text-box
+            enterkeyhint=search
+            id=source-form-box
+            inputmode=search
+            name=sourceForm
+            placeholder='e.g. “ôben-”'
+            spellcheck=false
+            type=search
+            value='{{ query.sourceForm }}'
+          >
+
+        </div>
+
+      </fieldset><!-- Source Fields -->
 
       <fieldset class=search-options>
 
