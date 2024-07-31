@@ -37,8 +37,6 @@ export default class QuickSearch {
 
     if (language) this.language.value = language
 
-    this.search.focus()
-
   }
 
   resetValidity() {

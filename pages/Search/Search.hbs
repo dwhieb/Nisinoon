@@ -20,16 +20,6 @@
     <form class=search-form id=quick-search-form method=get>
 
       <div>
-        <label for=quick-language-select>Language</label>
-        <select class='language-select text-box' id=quick-language-select name=language>
-          <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
-          {{#each languages as |lang| }}
-            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
-          {{/each}}
-        </select>
-      </div>
-
-      <div>
         <label for=search-box>Quick Search</label>
         <input
           autocomplete=on
@@ -45,6 +35,16 @@
           value='{{ query.q }}'
         >
         <span class=help-text>Searches forms (in any orthography), tags, and glosses. Leave blank to display all components.</span>
+      </div>
+
+      <div>
+        <label for=quick-language-select>Language</label>
+        <select class='language-select text-box' id=quick-language-select name=language>
+          <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
+          {{#each languages as |lang| }}
+            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
+          {{/each}}
+        </select>
       </div>
 
       <fieldset>
@@ -87,14 +87,6 @@
 
       <div class='horizontal-fields main-fields'>
 
-        <label for=advanced-language-select>Language</label>
-        <select class='language-select text-box' id=advanced-language-select name=language>
-          <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
-          {{#each languages as |lang| }}
-            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
-          {{/each}}
-        </select>
-
         <label for=form-box>Form</label>
         <input
           autocomplete=on
@@ -109,6 +101,14 @@
           type=search
           value='{{ query.form }}'
         >
+
+        <label for=advanced-language-select>Language</label>
+        <select class='language-select text-box' id=advanced-language-select name=language>
+          <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
+          {{#each languages as |lang| }}
+            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
+          {{/each}}
+        </select>
 
         <label for=specificity-select>Specificity</label>
         <select class=text-box id=specificity-select name=specificity>
