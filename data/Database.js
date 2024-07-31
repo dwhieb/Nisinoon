@@ -13,6 +13,7 @@ function createMatchers(query, normalize) {
 
   const {
     caseSensitive,
+    gloss,
     regex,
     sourceForm,
     sourceUR,
@@ -47,6 +48,17 @@ function createMatchers(query, normalize) {
 
     form() {
       return createStringTester(`form`)
+    },
+
+    gloss() {
+
+      const q    = normalize(cleanSearch(gloss))
+      const test = createSearchRegExp(q, { caseSensitive, regex })
+
+      return function testSourceForm(component) {
+        return component.tokens?.some(token => test(normalize(token.gloss)))
+      }
+
     },
 
     /**

@@ -261,6 +261,14 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
+    it(`Sources: Glosses`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#gloss-box`).type(`by heat`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 62.`)
+    })
+
     it(`Option: Case Sensitive`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
