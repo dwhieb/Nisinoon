@@ -245,7 +245,7 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
-    it.only(`Sources: Forms`, function() {
+    it(`Sources: Forms`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#source-form-box`).type(`ôben`)
