@@ -2,4 +2,5 @@ label, .label {
   font-size:   smaller;
   font-weight: bold;
   padding:     var(--text-padding-sm);
+  white-space: nowrap;
 }

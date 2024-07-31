@@ -139,7 +139,8 @@ input[type=checkbox] {
 }
 
 label {
-  cursor: pointer;
+  cursor:      pointer;
+  white-space: nowrap;
 }
 
 .legend {
