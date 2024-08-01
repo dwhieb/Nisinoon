@@ -56,22 +56,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Data Update"
+          git commit -m "Update data"
           git push
 
       - name: Increment version
         run:  |
           npm version minor
           git push
-
-      - name: Deploy to Azure Web App
-        id:   deploy-to-webapp
-        uses: azure/webapps-deploy@v2
-        with:
-          app-name:        nisinoon
-          slot-name:       Production
-          package:         .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C789F3DAFFFF45EA89AA17889914203C }}
 
       # - name: Copy data
       #   uses: peaceiris/actions-gh-pages@v4
