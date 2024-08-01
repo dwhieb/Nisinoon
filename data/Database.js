@@ -5,6 +5,8 @@ import Components         from './models/Components.js'
 import createSearchRegExp from './utilities/createSearchRegExp.js'
 import Languages          from './models/Languages.js'
 import Normalizer         from './Normalizer.js'
+import path               from 'node:path'
+import { readJSON }       from 'fs-extra/esm'
 
 /**
  * NB: Return named function expressions from these methods to make debugging easier.
@@ -131,6 +133,8 @@ function createMatchers(query, normalize) {
 
 export default class Database {
 
+  citationKeys = new Map
+
   components = []
 
   index = new Components
@@ -138,9 +142,21 @@ export default class Database {
   languages = new Languages
 
   async initialize() {
+    await this.loadCitationKeys()
     await this.languages.load()
     await this.index.load()
     this.components = Array.from(this.index.values())
+  }
+
+  async loadCitationKeys() {
+
+    const jsonPath = path.resolve(import.meta.dirname, `./json/citationKeys.json`)
+    const keys     = await readJSON(jsonPath)
+
+    for (const [key, surnames] of Object.entries(keys)) {
+      this.citationKeys.set(key, surnames)
+    }
+
   }
 
   quickSearch(query) {
