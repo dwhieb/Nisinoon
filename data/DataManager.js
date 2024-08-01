@@ -1,13 +1,14 @@
-import Components     from './models/Components.js'
-import Drive          from './Drive.js'
-import Languages      from './models/Languages.js'
-import Orthographies  from './models/Orthographies.js'
-import { outputFile } from 'fs-extra/esm'
-import path           from 'node:path'
-import ProgressBar    from 'progress'
-import { readFile }   from 'node:fs/promises'
-import retryRequest   from './utilities/retryRequest.js'
-import stringifyCSV   from './utilities/stringifyCSV.js'
+import Components    from './models/Components.js'
+import Drive         from './Drive.js'
+import Languages     from './models/Languages.js'
+import Orthographies from './models/Orthographies.js'
+import path          from 'node:path'
+import ProgressBar   from 'progress'
+import { readFile }  from 'node:fs/promises'
+import retryRequest  from './utilities/retryRequest.js'
+import stringifyCSV  from './utilities/stringifyCSV.js'
+
+import { outputFile, outputJSON } from 'fs-extra/esm'
 
 export default class DataManager {
 
@@ -102,6 +103,26 @@ export default class DataManager {
       await retryRequest(this.fetchLanguageComponents.bind(this), key)
       progressBar.tick()
     }
+
+  }
+
+  /**
+   * Retrieve the mappings of citation keys to author surnames.
+   */
+  async fetchCitationKeys() {
+
+    const rows = await this.drive.getCitationKeys()
+
+    rows.shift() // Remove header row
+
+    const keys = rows.reduce((hash, [surnames, key]) => {
+      hash[key] = surnames
+      return hash
+    }, {})
+
+    const jsonPath = path.resolve(DataManager.jsonDir, `citationKeys.json`)
+
+    await outputJSON(jsonPath, keys)
 
   }
 

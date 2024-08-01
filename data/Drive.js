@@ -10,11 +10,26 @@ import { readFile } from 'node:fs/promises'
 
 export default class Drive {
 
+  // You can retrieve all the IDs from their URLs.
+
+  citationKeysID = `1qqRqYCjtSbTnQfhihCDpXNBEsBcZwZ76E9zTkVZ187g`
+
   dataFolderID = `15fBZsPI_RyCU78H0FLf0lYuhLUR8wy2G`
 
   languagesSpreadsheetID = `1jQZqMrzW4f_tdyG_DTV_jT9c_iFSvwIPhmLp0EWh3Wk`
 
   orthographyKeyID = `1b_Iy1mkWaGbJAcNo8BWpQDWxy7c_reSUsbrtbJ4a1Pc`
+
+  async getCitationKeys() {
+
+    const res = await this.sheetsClient.spreadsheets.values.get({
+      range:         `CitationKeys`,
+      spreadsheetId: this.citationKeysID,
+    })
+
+    return res.data.values
+
+  }
 
   async getComponentsData(lang) {
 
