@@ -34,7 +34,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`bad search`)
       cy.get(`#quick-search-button`).click()
-      cy.contains(`.results-info`, `No results found.`)
+      cy.contains(`#results-info`, `No results found.`)
     })
 
     it(`some results`, function() {
@@ -59,7 +59,7 @@ describe(`Search`, function() {
       cy.get(`#quick-case-sensitive-box`).check()
       cy.get(`#search-box`).type(`ATIMW`)
       cy.get(`#quick-search-button`).click()
-      cy.get(`.results-info`).should(`include.text`, `No results found.`)
+      cy.get(`#results-info`).should(`include.text`, `No results found.`)
       cy.get(`#quick-case-sensitive-box`).should(`be.checked`)
     })
 
@@ -283,7 +283,7 @@ describe(`Search`, function() {
       cy.get(`#advanced-case-sensitive-box`).check()
       cy.get(`#form-box`).type(`ATIMW`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.results-info`).should(`include.text`, `No results found.`)
+      cy.get(`#results-info`).should(`include.text`, `No results found.`)
       cy.get(`#advanced-case-sensitive-box`).should(`be.checked`)
     })
 
