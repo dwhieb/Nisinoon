@@ -73,13 +73,20 @@ jobs:
           package:         .
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C789F3DAFFFF45EA89AA17889914203C }}
 
-      - name: Copy data
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          enable_jekyll:  true
-          exclude_assets: '**.js,bad-links.csv,credentials.json,issues.csv,models,transliterations,tags,utilities'
-          github_token:   ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: data
-          publish_dir:    data
+      # - name: Copy data
+      #   uses: peaceiris/actions-gh-pages@v4
+      #   with:
+      #     enable_jekyll:  true
+      #     exclude_assets: '**.js,bad-links.csv,credentials.json,issues.csv,models,transliterations,tags,utilities'
+      #     github_token:   ${{ secrets.GITHUB_TOKEN }}
+      #     publish_branch: data
+      #     publish_dir:    data
 
-      # TODO: Create a Zenodo release.
+      - name: Create a Zenodo release
+        uses: softprops/action-gh-release@v2
+        with:
+          body: 'This is a release to archive data with Zenodo.'
+          files: |
+            data/README.md
+            data/csv
+            data/json
