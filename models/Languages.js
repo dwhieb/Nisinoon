@@ -53,6 +53,8 @@ export default class Languages extends Map {
 
     const languages = await ndjson.read(Languages.jsonPath)
 
+    languages.sort((a, b) => a.name.localeCompare(b.name))
+
     for (const lang of languages) {
       this.set(lang.key, lang)
     }

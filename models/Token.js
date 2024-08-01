@@ -25,6 +25,8 @@ export default class Token {
     const isProto = language.includes(`Proto`)
 
     this.bibliography = citationKeys.get(source)
+    this.orthography  = orthography
+    this.source       = source
 
     if (pages) this.bibliography += `: ${ parsePages(pages) }`
 
@@ -33,11 +35,8 @@ export default class Token {
       if (isProto) this.form = `*` + cleanProto(this.form) // eslint-disable-line prefer-template
     }
 
-    if (gloss) this.gloss = cleanGloss(gloss)
-    if (notes) this.notes = notes.normalize()
-
-    this.orthography = orthography
-
+    if (gloss) this.gloss     = cleanGloss(gloss)
+    if (notes) this.notes     = notes.normalize()
     if (PA) this.PA           = `*` + cleanProto(PA)  // eslint-disable-line prefer-template
     if (speaker) this.speaker = speaker.normalize()
     if (UR) this.UR           = cleanUR(UR)
