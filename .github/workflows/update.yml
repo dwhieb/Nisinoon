@@ -42,9 +42,6 @@ jobs:
       - name: Build app
         run:  npm run build
 
-      - name: Update docs
-        run:  node bin/updateDocs.js
-
       - name: Check for "only" in tests
         run:  npm run stop-only
 
