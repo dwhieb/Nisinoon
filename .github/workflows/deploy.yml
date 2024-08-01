@@ -59,7 +59,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           enable_jekyll:  true
-          exclude_assets: '**.js,bad-links.csv,credentials.json,issues.csv,transliterations,tags,models'
+          exclude_assets: '**.js,bad-links.csv,credentials.json,issues.csv,models,transliterations,tags,utilities'
           github_token:   ${{ secrets.GITHUB_TOKEN }}
           publish_branch: data
           publish_dir:    data
