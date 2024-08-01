@@ -1,5 +1,6 @@
 @import 'blockquote.css';
 @import 'caption.css';
+@import 'text-box.css';
 
 blockquote p {
   margin-inline-start: 1em;
@@ -8,10 +9,6 @@ blockquote p {
 
 #contents {
   clear: left;
-}
-
-.db-link {
-  text-align: center;
 }
 
 .intro {
@@ -27,6 +24,26 @@ blockquote p {
 #main {
   container-type: inline-size;
   inline-size:    100%;
+}
+
+.search-form {
+
+  align-items:     baseline;
+  flex-direction:  row;
+  flex-wrap:       wrap;
+  gap:             0.5em;
+  justify-content: center;
+
+  & label {
+    font-weight: bold;
+    white-space: nowrap;
+  }
+
+}
+
+#search-box {
+  flex-grow:       1;
+  max-inline-size: 20em;
 }
 
 .subtitle {

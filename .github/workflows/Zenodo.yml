@@ -1,0 +1,22 @@
+name: Zenodo
+
+on:
+  push:
+    tags: ["*"]
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Create a Zenodo release
+        uses: softprops/action-gh-release@v2
+        with:
+          body: 'This is a release to archive data with Zenodo.'
+          files: |
+            data/README.md
+            data/csv
+            data/json

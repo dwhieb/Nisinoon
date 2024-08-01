@@ -6,7 +6,23 @@
 
 A multilingual dictionary database of Algonquian derivational morphemes {.subtitle}
 
-[Explore the Nisinoon database here.](/search) {.db-link}
+<search>
+  <form action=/search class=search-form method=get>
+    <label for=search-box>Search the Database</label>
+    <input
+      autocomplete=on
+      autocorrect=off
+      class=text-box
+      enterkeyhint=search
+      id=search-box
+      inputmode=search
+      name=q
+      placeholder='e.g. “atimw-” or “dog”'
+      spellcheck=false
+      type=search
+    >
+  </form>
+</search>
 
 <figure class=textile>
   <img alt='A rectangular textile hand made by Angela Waupochick for the Nisinoon project, displaying a top-down view of two trillium flowers at opposite corners of a pink square in the center, bordered by side views of two trillium flowers along the top and bottom. Photo by Rodney Schreiner.' src=/images/textile.jpg>
