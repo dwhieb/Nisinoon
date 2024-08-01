@@ -51,6 +51,20 @@ jobs:
       - name: Run E2E tests
         run:  npm test
 
+      - name: Commit changes
+        run: |
+          date > generated.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "generated.txt"
+          git push
+
+      - name: Increment version
+        run:  |
+          npm version minor
+          git push
+
       - name: Deploy to Azure Web App
         id:   deploy-to-webapp
         uses: azure/webapps-deploy@v2
@@ -68,3 +82,5 @@ jobs:
           github_token:   ${{ secrets.GITHUB_TOKEN }}
           publish_branch: data
           publish_dir:    data
+
+      # TODO: Create a Zenodo release.
