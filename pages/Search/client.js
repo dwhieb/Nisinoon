@@ -4,8 +4,8 @@ import AdvancedSearch from './scripts/AdvancedSearch.js'
 import Copier         from '../../scripts/Copier.js'
 import Downloader     from './scripts/Downloader.js'
 import QuickSearch    from './scripts/QuickSearch.js'
+import Results        from './scripts/Results.js'
 import SearchMode     from './scripts/SearchMode.js'
-import Table          from './scripts/Table.js'
 
 // Initialize button to copy citation information
 
@@ -37,8 +37,8 @@ advancedSearch.listen()
 
 // Initialize results table
 
-const table = new Table
-table.initialize()
+const results = new Results
+results.initialize()
 
 // Initialize download buttons
 

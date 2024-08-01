@@ -145,6 +145,16 @@ hr {
   display: flex;
 }
 
+.inline-select {
+  font-size:   medium;
+  inline-size: fit-content !important;  /* Override rule for .text-box class. */
+}
+
+.inline-select-field {
+  align-items:    baseline;
+  flex-direction: row;
+}
+
 input[type=checkbox] {
   all:          revert;
   accent-color: var(--berry-blue);
@@ -166,16 +176,12 @@ label {
   text-align:  center;
 }
 
-.logic-field {
-  align-items:     baseline;
-  flex-direction:  row;
-  justify-content: flex-start;
+.limit-select-field {
+  justify-content: center;
 }
 
-#logic-select {
-  flex-grow:   0;            /* Override rule for .text-box class. */
-  font-size:   medium;
-  inline-size: fit-content;  /* Override rule for .text-box class. */
+.logic-select-field {
+  justify-content: flex-start;
 }
 
 #main {
@@ -427,7 +433,6 @@ select {
 .text-box {
   block-size:  1.75em;
   inline-size: 100%;
-  flex-grow:   1;
 }
 
 .th-note {

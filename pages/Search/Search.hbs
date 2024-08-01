@@ -260,9 +260,9 @@
           </a>
         </div>
 
-        <div class=logic-field>
+        <div class='inline-select-field logic-select-field'>
           <label for=logic-select>Search logic:</label>
-          <select class=text-box id=logic-select name=logic>
+          <select class='inline-select text-box' id=logic-select name=logic>
             <option {{#unless query.logic }}selected{{else if (is query.logic 'all') }}selected{{/unless}} value=all>Match all criteria</option>
             <option {{#if (is query.logic 'any') }}selected{{/if}} value=any>Match any criteria</option>
           </select>
@@ -297,6 +297,17 @@
         <p class=help-text>Click on any column header with a sort icon (⇅) to sort that column.</p>
         <p class=help-text>Click on a form to view more information about that component.</p>
         {{> help-text/help-text }}
+      </div>
+
+      <div class='inline-select-field limit-select-field sticky'>
+        <label for=limit-select>Results to show per page:</label>
+        <select class=inline-select form='{{#unless advanced }}quick-search-form{{else}}advanced-search-form{{/unless}}' name=limit id=limit-select>
+          <option {{#if (is query.limit '100') }}selected{{/if}} value=100>100</option>
+          <option {{#if (is query.limit '250') }}selected{{/if}} value=250>250</option>
+          <option {{#if (is query.limit '500') }}selected{{/if}} value=500>500</option>
+          <option {{#if (is query.limit '1000') }}selected{{/if}} value=1000>1,000</option>
+          <option {{#if (is query.limit 'Infinity') }}selected{{/if}} value=Infinity>all</option>
+        </select>
       </div>
 
       {{#if pagination.show }}

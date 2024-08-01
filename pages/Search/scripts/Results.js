@@ -4,12 +4,23 @@ import SortDirectives from '../../../scripts/SortDirectives.js'
 
 const directivesOrder = [null, `ascending`, `descending`, null]
 
-export default class Table {
+export default class Results {
+
+  constructor() {
+    this.limit = document.getElementById(`limit-select`)
+    this.table = document.getElementById(`results`)
+  }
 
   initialize() {
-    this.el = document.getElementById(`results`)
-    if (!this.el) return
-    this.el.addEventListener(`click`, this.sort.bind(this))
+
+    if (this.limit) {
+      this.limit.addEventListener(`change`, () => this.limit.form.submit())
+    }
+
+    if (this.table) {
+      this.table.addEventListener(`click`, this.sort.bind(this))
+    }
+
   }
 
   sort(ev) {
@@ -22,15 +33,14 @@ export default class Table {
     const th         = button.parentNode
     const direction  = th.ariaSort
     const url        = new URL(window.location.href)
-    let   sort       = url.searchParams.get(`sort`)
+    const sort       = url.searchParams.get(`sort`)
     const directives = new SortDirectives(sort)
     const directive  = directivesOrder[directivesOrder.indexOf(direction) + 1]
 
     directives.add(field, directive)
 
     if (directives.size) {
-      sort = directives.serialize()
-      url.searchParams.set(`sort`, sort)
+      url.searchParams.set(`sort`, directives.serialize())
     } else {
       url.searchParams.delete(`sort`)
     }
