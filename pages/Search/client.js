@@ -39,6 +39,7 @@ advancedSearch.listen()
 
 const results = new Results
 results.initialize()
+results.render()
 
 // Initialize download buttons
 

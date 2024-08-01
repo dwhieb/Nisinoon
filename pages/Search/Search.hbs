@@ -297,10 +297,10 @@
     </dl>
   {{else}}
     {{#unless results }}
-      <p autofocus class='no-results sticky'>No results found.</p>
+      <p autofocus class='num-results sticky' id=results-info>No results found.</p>
     {{else}}
 
-      <div class='results-info sticky'>
+      <div class=sticky id=results-info>
         <p autofocus class=num-results>Showing results {{ pagination.startIndex }}–{{ pagination.endIndex }} of {{ totalResults }}.</p>
         <p class=help-text>Click on any column header with a sort icon (⇅) to sort that column.</p>
         <p class=help-text>Click on a form to view more information about that component.</p>

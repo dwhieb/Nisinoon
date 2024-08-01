@@ -7,6 +7,7 @@ const directivesOrder = [null, `ascending`, `descending`, null]
 export default class Results {
 
   constructor() {
+    this.info  = document.getElementById(`results-info`)
     this.limit = document.getElementById(`limit-select`)
     this.table = document.getElementById(`results`)
   }
@@ -21,6 +22,10 @@ export default class Results {
       this.table.addEventListener(`click`, this.sort.bind(this))
     }
 
+  }
+
+  render() {
+    if (this.info) this.info.scrollIntoView()
   }
 
   sort(ev) {

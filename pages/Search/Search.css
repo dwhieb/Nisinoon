@@ -195,12 +195,6 @@ label {
   padding: var(--text-padding);
 }
 
-.no-results {
-  font-size:  xx-large;
-  padding:    var(--text-padding-lg);
-  text-align: center;
-}
-
 .num-results {
   font-size:     x-large;
   margin-inline: auto;
@@ -289,7 +283,7 @@ label {
 
 }
 
-.results-info {
+#results-info {
   padding: 1em;
 }
 
