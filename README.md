@@ -6,7 +6,14 @@ View the project at [Nisinoon.net](https://nisinoon.net).
 
 ## How to Update the Data on the Website
 
-The following process will fetch the latest bibliography data from Zotero and the latest component data from Google Sheets, update the site with that data, and deploy the new site to production.
+The steps below will update the website with the latest data. In particular, it will:
+
+- Fetch the latest bibliography data from Zotero.
+- Fetch the latest components data from Google Sheets.
+- Deploy the new data to the website.
+- Archive the database with Zenodo.
+
+To start this process, do the following:
 
 1. Go to [this link](https://github.com/dwhieb/Nisinoon/actions/workflows/update.yml).
 2. Click the **Run Workflow** button on the right.
@@ -26,7 +33,7 @@ The following pages can be easily edited on GitHub:
 The following pages should **not** be edited manually:
 
 - Error
-- Components/Search/Database
+- Search
 - Component
 
 To edit a page, follow these steps:
@@ -48,8 +55,6 @@ To edit a page, follow these steps:
 
 The `bibliography/` folder contains all the scripts and data needed for building the Bibliography page.
 
-Since the bibliography is no longer updated regularly, retrieving the data and building the bibliography page/PDF is no longer done automatically during the build process. If needed, run the scripts locally instead (from the `bin/` folder).
-
 The linguistics stylesheet comes from [here](https://github.com/citation-style-language/styles/blob/master/generic-style-rules-for-linguistics.csl). You can find other stylesheets in that same repository. Zotero seems to use that repo for its list, so you can test out different styles in Zotero.
 
 Creating the PDF must be done manually using the Prince UI on the local or production versions of the site. (You used to be able to do it during the build process because you were using a static site generator that produced the complete HTML for the page in the `dist/` folder. This is no longer the case. In order to produce the PDF during build, you'd have to run a local server, request the page, and run Prince on it, all on GitHub. Not worth it.)
@@ -57,8 +62,6 @@ Creating the PDF must be done manually using the Prince UI on the local or produ
 ## Data
 
 The `data/` folder contains all the scripts needed for fetching and transforming the project data for use in the website database.
-
-Since the data for the project is no longer updated regularly, retrieving the data is no longer done automatically during the build process. If needed, run the scripts locally instead (from the `bin/` folder).
 
 In order to access files from the Nisinoon project using the Google Drive API, the email address of the Google APIs project needs to be given access to those files.
 
@@ -68,11 +71,13 @@ You can create credentials and download the JSON file for them [here](https://co
 
 Version number is for the *data*, not the website.
 
-To create a data release to Zenodo:
+To create a data release for Zenodo:
 
 1. Increment version number (`npm version minor`) and commit the change.
    - Dates and versions in documentation (license, citation) and Express locals (via `meta.json`) are updated automatically when `npm version` is run. (See the `version` script in `package.json`.)
 2. Create a release **FROM THE `DATA` BRANCH**.
+
+The above steps are done automatically as part of the `update` workflow.
 
 ## Page Variables
 
