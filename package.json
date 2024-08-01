@@ -1,6 +1,6 @@
 {
   "name": "nisinoon",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "description": "The website for the Algonquian Components Project (Nisinoon)",
   "private": true,
   "keywords": [
@@ -34,7 +34,7 @@
     "start": "node index.js",
     "stop-only": "stop-only --folder pages",
     "test": "start-test http://localhost:3000 run-cypress",
-    "version": "node build/updateDocs.js && git add \"CITATION.cff\" && git commit -m \"Update citation file\""
+    "version": "node build/updateDocs.js && git add --all"
   },
   "devDependencies": {
     "@digitallinguistics/eslint-config": "^0.5.2",
