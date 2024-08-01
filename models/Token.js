@@ -1,7 +1,12 @@
-import cleanGloss from '../utilities/cleanGloss.js'
-import cleanProto from '../utilities/cleanProto.js'
-import cleanUR    from '../utilities/cleanUR.js'
-import parsePages from '../utilities/parsePages.js'
+import CitationKeys from './CitationKeys.js'
+import cleanGloss   from '../utilities/cleanGloss.js'
+import cleanProto   from '../utilities/cleanProto.js'
+import cleanUR      from '../utilities/cleanUR.js'
+import parsePages   from '../utilities/parsePages.js'
+
+const citationKeys = new CitationKeys
+
+await citationKeys.load()
 
 export default class Token {
   constructor({
@@ -19,7 +24,7 @@ export default class Token {
 
     const isProto = language.includes(`Proto`)
 
-    this.bibliography = source
+    this.bibliography = citationKeys.get(source)
 
     if (pages) this.bibliography += `: ${ parsePages(pages) }`
 
