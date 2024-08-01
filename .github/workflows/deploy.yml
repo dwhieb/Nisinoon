@@ -34,13 +34,6 @@ jobs:
         with:
           node-version: '20.x'
 
-      - name: Cache Node.js modules
-        id:   cache
-        uses: actions/cache@v4
-        with:
-          path: '**/node_modules'
-          key:  ${{ hashFiles('**/package-lock.json') }}
-
       - name: Install dependencies
         run:  npm ci
 
@@ -66,7 +59,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           enable_jekyll:  true
-          exclude_assets: '**.js,credentials.json,issues.csv'
+          exclude_assets: '**.js,bad-links.csv,credentials.json,issues.csv,transliterations,tags,models'
           github_token:   ${{ secrets.GITHUB_TOKEN }}
           publish_branch: data
           publish_dir:    data
