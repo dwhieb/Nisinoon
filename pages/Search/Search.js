@@ -15,11 +15,12 @@ export function Search(req, res) {
 
   const context = {
     advanced:      query.has(`advanced`),
-    languages:     db.languages.toJSON().sort((a, b) => a.name.localeCompare(b.name)),
+    languages:     db.languages.toJSON(),
     numComponents: db.index.size.toLocaleString(),
     numLanguages:  db.languages.size.toLocaleString(),
     pageCSS:       res.app.locals.styles.Search,
     Search:        true,
+    sources:       Object.fromEntries(db.citationKeys),
     title:         `Search`,
     types:         db.types,
     url:           req.originalUrl,

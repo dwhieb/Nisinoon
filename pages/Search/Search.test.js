@@ -245,6 +245,14 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
+    it(`Sources: Bibliographic Source`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#bib-select`).select(`SA_MOJ2017`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 14.`)
+    })
+
     it(`Sources: Forms`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
@@ -253,20 +261,20 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 1.`)
     })
 
-    it(`Sources: UR`, function() {
-      cy.visit(`/search`)
-      cy.contains(`label`, `Advanced Search`).click()
-      cy.get(`#source-UR-box`).type(`e3ee`)
-      cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 2.`)
-    })
-
     it(`Sources: Glosses`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#gloss-box`).type(`by heat`)
       cy.get(`#advanced-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 62.`)
+    })
+
+    it(`Sources: UR`, function() {
+      cy.visit(`/search`)
+      cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#source-UR-box`).type(`e3ee`)
+      cy.get(`#advanced-search-button`).click()
+      cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
     it(`Option: Case Sensitive`, function() {

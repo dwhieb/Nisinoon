@@ -188,6 +188,14 @@
 
         <div class=horizontal-fields>
 
+          <label for=bib-select>Bibliographic Source</label>
+          <select class=text-box id=bib-select name=bib>
+            <option value=''>—</option>
+            {{#each sources }}
+              <option {{#if (is ../query.bib @key) }}selected{{/if}} value='{{ @key }}'>{{ this }}</option>
+            {{/each}}
+          </select>
+
           <label for=source-form-box>Form</label>
           <input
             autocomplete=on
@@ -203,21 +211,6 @@
             value='{{ query.sourceForm }}'
           >
 
-          <label for=source-form-box>UR</label>
-          <input
-            autocomplete=on
-            autocorrect=off
-            class=text-box
-            enterkeyhint=search
-            id=source-UR-box
-            inputmode=search
-            name=sourceUR
-            placeholder='e.g. “-e3ee”'
-            spellcheck=false
-            type=search
-            value='{{ query.sourceUR }}'
-          >
-
           <label for=gloss-box>Gloss</label>
           <input
             autocomplete=on
@@ -231,6 +224,21 @@
             spellcheck=true
             type=search
             value='{{ query.gloss }}'
+          >
+
+          <label for=source-form-box>UR</label>
+          <input
+            autocomplete=on
+            autocorrect=off
+            class=text-box
+            enterkeyhint=search
+            id=source-UR-box
+            inputmode=search
+            name=sourceUR
+            placeholder='e.g. “-e3ee”'
+            spellcheck=false
+            type=search
+            value='{{ query.sourceUR }}'
           >
 
         </div>

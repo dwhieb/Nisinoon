@@ -123,7 +123,7 @@ h2 {
     align-items:           baseline;
     display:               grid;
     grid-auto-rows:        2em;
-    grid-template-columns: 7.5em auto;
+    grid-template-columns: 10em auto;
     row-gap:               0.5em;
   }
 

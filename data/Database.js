@@ -13,6 +13,7 @@ import Normalizer         from './Normalizer.js'
 function createMatchers(query, normalize) {
 
   const {
+    bib,
     caseSensitive,
     gloss,
     regex,
@@ -46,6 +47,12 @@ function createMatchers(query, normalize) {
   }
 
   return {
+
+    bib() {
+      return function testBib(component) {
+        return component.tokens?.some(token => token.source === bib)
+      }
+    },
 
     form() {
       return createStringTester(`form`)
@@ -140,11 +147,19 @@ export default class Database {
 
   languages = new Languages
 
+  cleanCitationKeys() {
+    for (const key of this.citationKeys.keys()) {
+      const isUsed = this.components.some(component => component.tokens?.some(token => token.source === key))
+      if (!isUsed) this.citationKeys.delete(key)
+    }
+  }
+
   async initialize() {
     await this.citationKeys.load()
     await this.languages.load()
     await this.index.load()
     this.components = Array.from(this.index.values())
+    this.cleanCitationKeys()
   }
 
   quickSearch(query) {
