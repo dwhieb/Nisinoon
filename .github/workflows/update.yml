@@ -1,5 +1,4 @@
 # Manually pull latest data, build the site, and commit.
-# This will trigger the release workflow when the tag is added.
 
 name: update
 

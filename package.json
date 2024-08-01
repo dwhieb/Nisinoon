@@ -34,7 +34,8 @@
     "start": "node index.js",
     "stop-only": "stop-only --folder pages",
     "test": "start-test http://localhost:3000 run-cypress",
-    "version": "node bin/updateDocs.js && git add ."
+    "version": "node bin/updateDocs.js && git add .",
+    "postversion": "git push && git push --tags"
   },
   "devDependencies": {
     "@digitallinguistics/eslint-config": "^0.5.2",
