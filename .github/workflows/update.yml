@@ -62,4 +62,4 @@ jobs:
       - name: Increment version
         run:  |
           npm version minor
-          git push
+          git push --follow-tags
