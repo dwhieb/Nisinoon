@@ -14,8 +14,9 @@ const url           = `${ baseURL }/groups/${ groupID }/items`
 
 let progressBar
 let total
+let bibtex = ``
 
-async function makeRequest(bibtex = ``, start) {
+async function makeRequest(start) {
 
   const query = new URLSearchParams({
     format: `bibtex`,
@@ -47,7 +48,7 @@ async function makeRequest(bibtex = ``, start) {
 
   if (next) {
     progressBar.tick(Number(next.start) - start)
-    bibtex += await makeRequest(bibtex, next.start)
+    await makeRequest(next.start)
   }
 
   return bibtex
@@ -55,6 +56,6 @@ async function makeRequest(bibtex = ``, start) {
 }
 
 export default async function getBibliography() {
-  const bibtex = await makeRequest()
+  await makeRequest()
   await outputFile(bibtexPath, bibtex)
 }
