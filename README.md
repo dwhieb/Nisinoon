@@ -66,11 +66,11 @@ You can create credentials and download the JSON file for them [here](https://co
 
 ## Release & Versioning
 
- Version number is for the *data*, not the website.
+Version number is for the *data*, not the website.
 
 To create a data release to Zenodo:
 
-1. Increment version number.
+1. Increment version number (`npm version minor`) and commit the change.
    - Dates and versions in documentation (license, citation) and Express locals (via `meta.json`) are updated automatically when `npm version` is run. (See the `version` script in `package.json`.)
 2. Create a release **FROM THE `DATA` BRANCH**.
 
