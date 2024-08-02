@@ -79,6 +79,7 @@ jobs:
           github_token:   ${{ secrets.GITHUB_TOKEN }}
           publish_branch: data
           publish_dir:    release
+          tag_name:       ${{ env.TAG_NAME }}
 
       - name: Get SHA of data branch
         run:  echo "DATA_BRANCH_SHA=$(git rev-parse data)" >> $GITHUB_ENV
