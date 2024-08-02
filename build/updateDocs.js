@@ -21,9 +21,12 @@ export default async function updateDocs() {
     year:  `numeric`,
   })
 
+  const buildTime = (new Date).toISOString()
+
   // Update meta.json
 
   const meta = {
+    buildTime,
     releaseDate,
     releaseYear,
   }
