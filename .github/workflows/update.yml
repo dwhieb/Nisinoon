@@ -65,6 +65,7 @@ jobs:
           npm version patch
           git push
           git push --tags
+          echo "TAG_NAME=test-3" >> $GITHUB_ENV
 
       - name: Create a Zenodo release
         uses: softprops/action-gh-release@v2
@@ -74,6 +75,7 @@ jobs:
             data/README.md
             data/csv
             data/json
+          tag_name: ${{ env.TAG_NAME }}
 
       # - name: Deploy to Azure Web App
       #   id:   deploy-to-webapp
