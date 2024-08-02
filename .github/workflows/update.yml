@@ -73,8 +73,8 @@ jobs:
           body: 'This is a release to archive data with Zenodo.'
           files: |
             data/README.md
-            data/csv
-            data/json
+            data/csv/**
+            data/json/**
           tag_name: ${{ env.TAG_NAME }}
 
       # - name: Deploy to Azure Web App
