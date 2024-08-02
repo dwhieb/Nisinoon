@@ -58,8 +58,6 @@ jobs:
           git commit -m "Update data"
           git push
 
-      # TODO: Change patch > minor here
-
       - name: Increment version
         run:  |
           npm version patch
@@ -67,15 +65,36 @@ jobs:
           git push --tags
           echo "TAG_NAME=$(git describe --tags --abbrev=0)" >> $GITHUB_ENV
 
+      - name: Copy release data into its own folder
+        run: |
+          mkdir release
+          cp data/README.md release/README.md
+          cp data/csv release/csv
+          cp data/json release/json
+
+      - name: Copy release data to data branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          enable_jekyll:  true
+          github_token:   ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: data
+          publish_dir:    release
+
+      - name: Get SHA of data branch
+        run:  echo "DATA_BRANCH_SHA=$(git rev-parse data)" >> $GITHUB_ENV
+
       - name: Create a Zenodo release
         uses: softprops/action-gh-release@v2
         with:
           body: 'This is a release to archive data with Zenodo.'
-          files: |
-            data/README.md
-            data/csv/**
-            data/json/**
-          tag_name: ${{ env.TAG_NAME }}
+          draft:                   true
+          fail_on_unmatched_files: true
+          # files: |
+          #   data/README.md
+          #   data/csv/**
+          #   data/json/**
+          tag_name:         ${{ env.TAG_NAME }}
+          target_commitish: ${{ env.DATA_BRANCH_SHA }}
 
       # - name: Deploy to Azure Web App
       #   id:   deploy-to-webapp
