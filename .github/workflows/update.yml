@@ -69,8 +69,8 @@ jobs:
         run: |
           mkdir release
           cp data/README.md release/README.md
-          cp data/csv release/csv
-          cp data/json release/json
+          cp -r data/csv release/csv
+          cp -r data/json release/json
 
       - name: Copy release data to data branch
         uses: peaceiris/actions-gh-pages@v4
