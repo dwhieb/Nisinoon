@@ -62,7 +62,6 @@ jobs:
         run:  |
           npm version patch
           git push
-          # git push --tags
           echo "TAG_NAME=$(git describe --tags --abbrev=0)" >> $GITHUB_ENV
 
       - name: Copy release data into its own folder
