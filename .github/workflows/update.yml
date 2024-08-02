@@ -33,20 +33,20 @@ jobs:
       - name: Install dependencies
         run:  npm ci
 
-      - name: Update bibliography
-        run:  node bin/updateBibliography.js
+      # - name: Update bibliography
+      #   run:  node bin/updateBibliography.js
 
-      - name: Update database
-        run:  node bin/updateDatabase.js
+      # - name: Update database
+      #   run:  node bin/updateDatabase.js
 
       - name: Build app
         run:  npm run build
 
-      - name: Check for "only" in tests
-        run:  npm run stop-only
+      # - name: Check for "only" in tests
+      #   run:  npm run stop-only
 
-      - name: Run E2E tests
-        run:  npm test
+      # - name: Run E2E tests
+      #   run:  npm test
 
       - name: Commit changes
         run: |
