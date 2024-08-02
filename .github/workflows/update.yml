@@ -65,7 +65,7 @@ jobs:
           npm version patch
           git push
           git push --tags
-          echo "TAG_NAME=test-3" >> $GITHUB_ENV
+          echo "TAG_NAME=$(git describe --tags --abbrev=0)" >> $GITHUB_ENV
 
       - name: Create a Zenodo release
         uses: softprops/action-gh-release@v2
