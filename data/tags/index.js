@@ -35,8 +35,8 @@ async function loadTags() {
   const records = parseCSV(csv, {
     columns: [
       `rawTags`,
-      `definition`,
-      `type`,
+      `gloss`,
+      `rawType`,
       `rawSubcategories`,
     ],
     from:             2,
@@ -47,9 +47,14 @@ async function loadTags() {
 
   const map = new Map
 
-  for (const {
-    definition, rawTags, rawSubcategories, type,
-  } of records) {
+  for (const record of records) {
+
+    const {
+      gloss,
+      rawTags,
+      rawSubcategories,
+      rawType,
+    } = record
 
     if (!rawTags) continue
 
@@ -63,13 +68,14 @@ async function loadTags() {
     .split(commaRegExp)
     .map(cat => cat.trim())
     .filter(Boolean)
+    .map(cat => cat.toLowerCase())
 
     if (tags.length) {
-      map.set(definition, {
-        definition,
+      map.set(gloss, {
+        gloss,
         subcategories,
         tags,
-        type,
+        type: rawType.toLowerCase(),
       })
     }
 
@@ -89,7 +95,6 @@ async function updateSpreadsheet(lang) {
   const { data } = await drive.sheetsClient.spreadsheets.values.get({
     range:         `Components`,
     spreadsheetId: spreadsheet.id,
-
   })
 
   const originalRows    = data.values
@@ -97,7 +102,7 @@ async function updateSpreadsheet(lang) {
   const headings        = originalRows.shift()
   const { range }       = data
 
-  // Replace "Definition" heading with "Tags"
+  // Replace "Project Definition" heading with "Tags"
   const definitionIndex = headings.indexOf(`Project Definition`)
   const tagsHeader      = `Tags`
 
@@ -123,14 +128,18 @@ async function updateSpreadsheet(lang) {
   for (const record of records) {
 
     const gloss       = record[cols.gloss]?.trim()
-    const subcategory = record[cols.subcategory]
-    const type        = record[cols.type]
+    const subcategory = record[cols.subcategory]?.toLowerCase()
+    const type        = record[cols.type]?.toLowerCase()
     const tagsInfo    = tagsMap.get(gloss)
 
-    if (!tagsInfo) continue
+    if (gloss.includes(`untie`)) {
+      console.log(tagsInfo)
+      console.table({ gloss, type, subcategory })
+    }
 
     if (
-      tagsInfo.type == type
+      tagsInfo // Do this check here rather than an early return to ensure you don't accidentally lose rows
+      && tagsInfo.type == type
       && tagsInfo.subcategories.includes(subcategory)
     ) {
       record[cols.tags] = tagsInfo.tags.join(`, `)
