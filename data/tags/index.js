@@ -73,7 +73,7 @@ async function loadTags() {
         return a.tag.localeCompare(b.tag)
       }
 
-      return a.grammatical ? -1 : 1
+      return b.grammatical ? -1 : 1
 
     })
 
