@@ -134,7 +134,7 @@ async function updateSpreadsheet(lang) {
 
     if (gloss.includes(`untie`)) {
       console.log(tagsInfo)
-      console.table({ gloss, type, subcategory })
+      console.table({ gloss, subcategory, type })
     }
 
     if (
