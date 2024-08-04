@@ -8,8 +8,9 @@ import ProgressBar           from 'progress'
 import { readFile }          from 'node:fs/promises'
 import retryRequest          from '../utilities/retryRequest.js'
 
-const commaRegExp = /,\s*/v
-const csvPath     = path.resolve(import.meta.dirname, `tags.csv`)
+const commaRegExp       = /,\s*/v
+const grammaticalRegExp = /^([A-Z+\-\(\)]|\s)+$/v
+const csvPath           = path.resolve(import.meta.dirname, `tags.csv`)
 
 const drive = new Drive
 
@@ -62,7 +63,19 @@ async function loadTags() {
     .split(`\n`)
     .map(tag => tag.trim())
     .filter(Boolean)
-    .sort()
+    .map(tag => ({
+      grammatical: grammaticalRegExp.test(tag),
+      tag,
+    }))
+    .sort((a, b) => {
+
+      if (a.grammatical === b.grammatical) {
+        return a.tag.localeCompare(b.tag)
+      }
+
+      return a.grammatical ? -1 : 1
+
+    })
 
     const subcategories = rawSubcategories
     .split(commaRegExp)
@@ -131,11 +144,6 @@ async function updateSpreadsheet(lang) {
     const subcategory = record[cols.subcategory]?.toLowerCase()
     const type        = record[cols.type]?.toLowerCase()
     const tagsInfo    = tagsMap.get(gloss)
-
-    if (gloss.includes(`untie`)) {
-      console.log(tagsInfo)
-      console.table({ gloss, subcategory, type })
-    }
 
     if (
       tagsInfo // Do this check here rather than an early return to ensure you don't accidentally lose rows
