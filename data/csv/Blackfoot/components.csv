@@ -1,18 +1,18 @@
 ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Component Key,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
-1,Genee,IXG2013,"0107,0108",bla,,siks1238,,-:m,BF:1,,,,,,comitative,,final,TA,,,Y,AI
-2,Genee,IXG2013,0107,bla,,siks1238,,-(o:)tsiiyi,BF:1,,,,,,reciprocal,,final,AI,,,Y,TA
-3,Armoskaite,SA2010,0062,bla,,siks1238,null1,-∅,BF:1,,,,,,TA,,final,TA,,,,,,,,,,,ssinn,,ss-yinn-∅,V,TA,break by hand/cause to go bankrupt,,SA2010;0062,,,,,,,,,,,,,,,,,,,,,,,,MAM
-4,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,null2,-∅,BF:1,,,,,,be a (N),,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
+1,Genee,IXG2013,"0107,0108",bla,,siks1238,,-:m,BF:1,,,,,,comitative,COMITATIVE,final,TA,,,Y,AI
+2,Genee,IXG2013,0107,bla,,siks1238,,-(o:)tsiiyi,BF:1,,,,,,reciprocal,RECIPROCAL,final,AI,,,Y,TA
+3,Armoskaite,SA2010,0062,bla,,siks1238,null1,-∅,BF:1,,,,,,TA,TA,final,TA,,,,,,,,,,,ssinn,,ss-yinn-∅,V,TA,break by hand/cause to go bankrupt,,SA2010;0062,,,,,,,,,,,,,,,,,,,,,,,,MAM
+4,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,null2,-∅,BF:1,,,,,,be a (N),be,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
 5,Barrie & Dunham,MB_JD2008,0005,,,,,-∅,BF:1,,,,,,possess non-sentient,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
 6,Genee,IXG2013,0101,bla,,siks1238,a1,-a,BF:1,,,,,,NG,,final,,,,N
 7,Bliss,HB2010,0060,bla,,siks1238,a2,-a,BF:1,,,,,,NG,,final,AI,,ABSTR
 8,Genee,IXG2013,0102,bla,,siks1238,a2,-á,BF:1,,,,,,NG,,final,AI
-9,Bliss et al. ,HB_ET_AL2012,0008,bla,,siks1238,,-a'pii,BF:1,,,,,,be,,final,II
+9,Bliss et al. ,HB_ET_AL2012,0008,bla,,siks1238,,-a'pii,BF:1,,,,,,be,be,final,II
 10,Bliss et al. ,HB_ET_AL2012,0008,bla,,siks1238,,-a'pssi,BF:1,,,,,,NG,,final,AI
-11,Armoskaite & Junker,SA_MOJ2017,0003,bla,,siks1238,-a'tsis,-a'tsis,BF:1,,,,,,instrument,,final,N,,,Y,INTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-12,Bliss et al. ,HB_ET_AL2012,0006,bla,,siks1238,-a'tsis,-a'tsis,BF:1,,,,,,instrument,,final,N,,,Y,V
+11,Armoskaite & Junker,SA_MOJ2017,0003,bla,,siks1238,-a'tsis,-a'tsis,BF:1,,,,,,instrument,INSTRUMENT,final,N,,,Y,INTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+12,Bliss et al. ,HB_ET_AL2012,0006,bla,,siks1238,-a'tsis,-a'tsis,BF:1,,,,,,instrument,INSTRUMENT,final,N,,,Y,V
 13,Armoskaite,SA2010,"0062, 0066, 0067",bla,,siks1238,aa1,-aa,BF:1,,,,,,pseudo-intransitive,AI+O,final,AI+O,,,,,,,,,,,ihkiitaa,,ihkiit-aa,V,pseudo-intransitive,bake,,SA2010;0062,,,,,,,,,,,,,,,,,,,,,,,,MAM
-14,Armoskaite,SA2010,0067,bla,,siks1238,aa1,-aa,BF:1,,,,,,intransitive,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+14,Armoskaite,SA2010,0067,bla,,siks1238,aa1,-aa,BF:1,,,,,,intransitive,INTRANSITIVE,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 15,Genee,IXG2013,"0102,0104,0105,0106",bla,,siks1238,aa2,-aa,BF:1,,,,,,NG,,final,AI
 16,Bliss et al. ,HB_ET_AL2012,0001,bla,,siks1238,aa2,-aa,BF:1,,,,,,NG,,final,AI
 17,Genee,IXG2013,0104,bla,,siks1238,,-aahko,BF:1,,,,,,NG,,final,TA
@@ -23,30 +23,30 @@ ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Component Key,Form (or
 22,Armoskaite,SA2010,"0062, 0064, 0065",bla,,siks1238,aki,-aki,BF:1,,,,,,pseudo-intransitive,AI+O,final,AI+O,,,,,,,,,,,ssinnaki,,ss-yinn-aki,V,pseudo-intransitive,break by hand,,SA2010;0062,o'taki,,o't-aki,V,pseudo-intransitive,,,SA2010;0063,,,,,,,,,,,,,,,,MAM
 23,Genee,IXG2013,"0098,0101,0102,0108",bla,,siks1238,aki,-aki,BF:1,,,,,,NG,,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Discussed as ""detransitivizing"" as it attaches to an inherently transitive verb but creates an intransitive verb. "
 24,Bliss et al. ,HB_ET_AL2012,0011,bla,,siks1238,aki,-aki,BF:1,,,,,,NG,,final,AI
-25,Armoskaite,SA2010,"0062, 0064, 0067",bla,,siks1238,at1,-at,BF:1,,,,,,TA,,final,TA,,,,,,,,-atoo,,,sisowat,,siso-at,V,TA,cut,,SA2010;0062,ihkiitat,,ihkiit-at,V,TA,bake,,SA2010;0062,o'kaas-at,,,V,TA,grab,,SA2010;0063,,,,,,,,MAM
+25,Armoskaite,SA2010,"0062, 0064, 0067",bla,,siks1238,at1,-at,BF:1,,,,,,TA,TA,final,TA,,,,,,,,-atoo,,,sisowat,,siso-at,V,TA,cut,,SA2010;0062,ihkiitat,,ihkiit-at,V,TA,bake,,SA2010;0062,o'kaas-at,,,V,TA,grab,,SA2010;0063,,,,,,,,MAM
 26,Genee,IXG2013,"0102,0104,0106,0108",bla,,siks1238,at2,-at,BF:1,,,,,,NG,,final,TA
 27,Bliss,HB2010,0062,bla,,siks1238,at3,-at,BF:1,,,,,,NG,,final,TA,,ABSTR
-28,Armoskaite,SA2010,"0062, 0064, 0067",bla,,siks1238,atoo1,-atoo,BF:1,,,,,,TI,,final,TI,,,,,,,-at,,,,sisowatoo,,siso-atoo,V,TI,cut,,SA2010;0062,ihkiitatoo,,ihkiit-atoo,V,TI,bake,,SA2010;0062,o'kaas-atoo,,,V,TI,grab,,SA2010;0063,,,,,,MAM: SA has a typo in TI form for 'grab'; what's entered is correct (checked dictionary),,MAM
+28,Armoskaite,SA2010,"0062, 0064, 0067",bla,,siks1238,atoo1,-atoo,BF:1,,,,,,TI,TI,final,TI,,,,,,,-at,,,,sisowatoo,,siso-atoo,V,TI,cut,,SA2010;0062,ihkiitatoo,,ihkiit-atoo,V,TI,bake,,SA2010;0062,o'kaas-atoo,,,V,TI,grab,,SA2010;0063,,,,,,MAM: SA has a typo in TI form for 'grab'; what's entered is correct (checked dictionary),,MAM
 29,Genee,IXG2013,"0102,0104,0106",bla,,siks1238,atoo2,-atoo,BF:1,,,,,,NG,,final,TI,,,B,TA
 30,Bliss,HB2010,0060,bla,,siks1238,atoo2,-atoo,BF:1,,,,,,NG,,final,TI,,ABSTR
 31,Bliss et al. ,HB_ET_AL2012,0015,bla,,siks1238,,-atoo,BF:1,,,,,,NG,,final,TI
 32,Barrie & Dunham,MB_JD2008,0024,,,,,-atoo,BF:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-33,Armoskaite,SA2010,0062,bla,,siks1238,,-atsi-,BF:1,,,,,,scrub,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: glossed as ""FIN"" - Natalie Weber gave me the translation that's entered.",,MAM
+33,Armoskaite,SA2010,0062,bla,,siks1238,,-atsi-,BF:1,,,,,,scrub,scrub,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: glossed as ""FIN"" - Natalie Weber gave me the translation that's entered.",,MAM
 34,Bliss,HB2010,0059,bla,,siks1238,,-attsi,BF:1,,,,,,causative,,final,,,CONCR,Y
-35,Genee,IXG2013,"0101,0102,0107,0108",bla,,siks1238,,-áttsi,BF:1,,,,,,causative,,final,TA,,,Y,AI,,,,,,,saipioohsattsi,,,V,TA,cause someone to bring himself out/give a laxative or diuretic to,Y,IXG2013;107
+35,Genee,IXG2013,"0101,0102,0107,0108",bla,,siks1238,,-áttsi,BF:1,,,,,,causative,CAUSATIVE,final,TA,,,Y,AI,,,,,,,saipioohsattsi,,,V,TA,cause someone to bring himself out/give a laxative or diuretic to,Y,IXG2013;107
 36,Barrie & Dunham,MB_JD2008,"0001,0011,0036",bla,,siks1238,,-hkaa,BF:1,,,,,,"come to have a (N), acquire",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
 37,Bliss,HB2010,0059,bla,,siks1238,,-hkaa,BF:1,,,,,,acquire,,final,,,CONCR
 38,Bliss,HB2010,0059,bla,,siks1238,,-hko,BF:1,,,,,,provide for,,final,,,CONCR
 39,Barrie & Dunham,MB_JD2008,"0001,0013,0036",bla,,siks1238,,-hko,BF:1,,,,,,"cause (object) to come to have a (N), provide to",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
 40,Barrie & Dunham,MB_JD2008,"0021,0036",bla,,siks1238,,-hksis-,BF:1,,,,,,nose,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 41,Bliss et al. ,HB_ET_AL2012,0006,bla,,siks1238,,-hp,BF:1,,,,,,NG,,final,N,,ABSTR,Y,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Used on Conjunct verbs
-42,Armoskaite & Junker,SA_MOJ2017,0003,bla,,siks1238,,-hsin,BF:1,,,,,,process/result,,final,N,,,Y,INTR,,,,,-n,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"They call it ""abstract"" but do assign it a meaning.",,MAM
+42,Armoskaite & Junker,SA_MOJ2017,0003,bla,,siks1238,,-hsin,BF:1,,,,,,process/result,"process (N), result",final,N,,,Y,INTR,,,,,-n,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"They call it ""abstract"" but do assign it a meaning.",,MAM
 43,Bliss et al. ,HB_ET_AL2012,0006,bla,,siks1238,,-hsin,BF:1,,,,,,NG,,final,N,,ABSTR,Y,V
 44,Barrie & Dunham,MB_JD2008,"0020,0036",bla,,siks1238,,-hskin-,BF:1,,,,,,back,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-45,Armoskaite,SA2010,"0060, 0061",bla,,siks1238,,-i,BF:1,,,,,,TI,,final,TI,,,,,,,-o,,,,ssinni,,ss-yinn-i,V,TI,break by hand,,SA2010;0062,o'tsi,,o't-i,V,TI,take,,SA2010;0063,,,,,,,,,,,,,,,,MAM
+45,Armoskaite,SA2010,"0060, 0061",bla,,siks1238,,-i,BF:1,,,,,,TI,TI,final,TI,,,,,,,-o,,,,ssinni,,ss-yinn-i,V,TI,break by hand,,SA2010;0062,o'tsi,,o't-i,V,TI,take,,SA2010;0063,,,,,,,,,,,,,,,,MAM
 46,Armoskaite,SA2010,"0062, 0064, 0065, 0066, 0067",bla,,siks1238,,-i,BF:1,,,,,,pseudo-intransitive,AI+O,final,AI+O,,,,,,,,,,,sisoyi,,siso-i,V,pseudo-intransitive,cut,,SA2010;0062,,,,,,,,,,,,,,,,,,,,,,,,MAM
-47,Armoskaite,SA2010,0067,bla,,siks1238,,-i,BF:1,,,,,,intransitive,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-48,Armoskaite,SA2010,0068,bla,,siks1238,,-i,BF:1,,,,,,TA,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+47,Armoskaite,SA2010,0067,bla,,siks1238,,-i,BF:1,,,,,,intransitive,INTRANSITIVE,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+48,Armoskaite,SA2010,0068,bla,,siks1238,,-i,BF:1,,,,,,TA,TA,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 49,Genee,IXG2013,0102,bla,,siks1238,,-i,BF:1,,,,,,NG,,final,AI
 50,Genee,IXG2013,0102,bla,,siks1238,,-i,BF:1,,,,,,NG,,final,TI
 51,Genee,IXG2013,"0102,0107",bla,,siks1238,,-i,BF:1,,,,,,NG,,final,TA
@@ -63,37 +63,37 @@ ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Component Key,Form (or
 63,Armoskaite,SA2010,0064,bla,,siks1238,,-imaa,BF:1,,,,,,pseudo-intransitive,AI+O,final,AI+O,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SA: ""Frantz (1971:50) states that -imaa adds a semantic component of valid personal motivation on the part of the actor of the action. I could not replicate Frantz's finding in my fieldwork and leave this issue for further research.""",,MAM
 64,Genee,IXG2013,0102,bla,,siks1238,,-imaa,BF:1,,,,,,NG,,final,AI
 65,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,,-imm,BF:1,,,,,,feels for (object) as a (N),,final,TA,,,,,i'taki,,,-i'tsi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb"" and later a ""root."" They say it creates TA verbs so assuming TA final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
-66,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,,-inaamm,BF:1,,,,,,look like a (N),,final,AI,,,,,,-inaattsi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final (they specify animacy on this one) although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
-67,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,,-inaattsi,BF:1,,,,,,look like a (N),,final,II,,,,,-inaamm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming II final (they specify animacy on this one) although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
+66,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,,-inaamm,BF:1,,,,,,look like a (N),"appear, look like, seem",final,AI,,,,,,-inaattsi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final (they specify animacy on this one) although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
+67,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,,-inaattsi,BF:1,,,,,,look like a (N),"appear, look like, seem",final,II,,,,,-inaamm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming II final (they specify animacy on this one) although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
 68,Armoskaite,SA2010,"0060, 0062",bla,,siks1238,,-inn,BF:1,,,,,,by hand,,medial,,,,,,,,,,-yinn-,,ssinn,,ss-yinn-∅,V,TA,break by hand/cause to go bankrupt,,SA2010;0062,ssinni,,ss-yinn-i,V,TI,break by hand,,SA2010;0062,ssinnaki,,ss-yinn-aki,V,pseudo-intransitive,break by hand,,SA2010;0062,,,,,,,,MAM
-69,Armoskaite,SA2010,0068,bla,,siks1238,,-ipikkss-,BF:1,,,,,,flee,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Guessing that this is an AI final.,,MAM
+69,Armoskaite,SA2010,0068,bla,,siks1238,,-ipikkss-,BF:1,,,,,,flee,flee,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Guessing that this is an AI final.,,MAM
 70,Barrie & Dunham,MB_JD2008,"0001,0036",bla,,siks1238,,-ipitsi,BF:1,,,,,,"be a habitual (N), be one who VERBS habitually",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
-71,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,,-ipitsi,BF:1,,,,,,be obsessed with (Ns),,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
+71,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,,-ipitsi,BF:1,,,,,,be obsessed with (Ns),obsessed with,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
 72,Genee,IXG2013,"0098,0100,0102,0108",bla,,siks1238,,-ist,BF:1,,,,,,NG,,final,TA,,,N
 73,Genee,IXG2013,"0098,0100.0102",bla,,siks1238,,-istoo,BF:1,,,,,,NG,,final,TI,,,N
 74,Barrie & Dunham,MB_JD2008,0024,,,,,-istoo,BF:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 75,Bliss,HB2010,0059,bla,,siks1238,,-m,BF:1,,,,,,accompaniment,,final,,,CONCR,Y
-76,Armoskaite,SA2010,0062,bla,,siks1238,,-m-,BF:1,,,,,,TA,,final,TA,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Info that it's a secondary final from Natalie Weber.,,MAM
+76,Armoskaite,SA2010,0062,bla,,siks1238,,-m-,BF:1,,,,,,TA,TA,final,TA,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Info that it's a secondary final from Natalie Weber.,,MAM
 77,Barrie & Dunham,MB_JD2008,"0001,0004",bla,,siks1238,,-mi,BF:1,,,,,,"have a (N), possess",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
 78,Barrie & Dunham,MB_JD2008,0031,bla,,siks1238,,-mo'kakín-,BF:1,,,,,,back,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-79,Armoskaite,SA2010,"0061, 0062, 0064, 0066",bla,,siks1238,,-o,BF:1,,,,,,TA,,final,TA,,,,,,,,-i,,,o'to,,o't-o,V,TA,take,,SA2010;0063,,,,,,,,,,,,,,,,,,,,,,,,MAM
-80,Barrie & Dunham,MB_JD2008,0014,bla,,siks1238,,-o,BF:1,,,,,,benefactive,,final,TA,,,,,,,,,-omo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+79,Armoskaite,SA2010,"0061, 0062, 0064, 0066",bla,,siks1238,,-o,BF:1,,,,,,TA,TA,final,TA,,,,,,,,-i,,,o'to,,o't-o,V,TA,take,,SA2010;0063,,,,,,,,,,,,,,,,,,,,,,,,MAM
+80,Barrie & Dunham,MB_JD2008,0014,bla,,siks1238,,-o,BF:1,,,,,,benefactive,BENEFACTIVE,final,TA,,,,,,,,,-omo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 81,Genee,IXG2013,0105,bla,,siks1238,,-o,BF:1,,,,,,benefactive,,final,,,,B
 82,Genee,IXG2013,"0098,0100,0101,0102",bla,,siks1238,,-o,BF:1,,,,,,NG,,final,TA,,,N
-83,Frantz,DF1968,0188,bla,,siks1238,,-O·tiiyi,BF:2,,,,,,reciprocal,,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: I'm not sure what the O· stands for - I put it as long o in the orthography key but note that he uses ii for long i.
+83,Frantz,DF1968,0188,bla,,siks1238,,-O·tiiyi,BF:2,,,,,,reciprocal,RECIPROCAL,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: I'm not sure what the O· stands for - I put it as long o in the orthography key but note that he uses ii for long i.
 84,Genee,IXG2013,"0105,0107,0108",bla,,siks1238,,-o(mo),BF:1,,,,,,applicative benefactive,,final,,,,Y,TA
-85,Genee,IXG2013,"0106,0107,0108",bla,,siks1238,,-o(o)hsi,BF:1,,,,,,reflexive,,final,AI,,,Y,TA,,,,,,,saipioohsi,,,V,AI,"bring oneself out/urinate, defecate",,IXG2013;107,saipioohsattsi,,,V,TA,cause someone to bring himself out/give a laxative or diuretic to,Y,IXG2013;107
+85,Genee,IXG2013,"0106,0107,0108",bla,,siks1238,,-o(o)hsi,BF:1,,,,,,reflexive,REFLEXIVE,final,AI,,,Y,TA,,,,,,,saipioohsi,,,V,AI,"bring oneself out/urinate, defecate",,IXG2013;107,saipioohsattsi,,,V,TA,cause someone to bring himself out/give a laxative or diuretic to,Y,IXG2013;107
 86,Genee,IXG2013,0102,bla,,siks1238,,-ohtoo,BF:1,,,,,,NG,,final,TI
 87,Bliss,HB2010,0054,bla,,siks1238,,-omo,BF:1,,,,,,benefactive,,final,,,CONCR,Y
 88,Bliss,HB2010,0060,bla,,siks1238,,-omo,BF:1,,,,,,transfer of possession,,final,,,CONCR,N
-89,Barrie & Dunham,MB_JD2008,0014,,,,,-omo,BF:1,,,,,,benefactive,,final,TA,,,,,,,,,-o,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+89,Barrie & Dunham,MB_JD2008,0014,,,,,-omo,BF:1,,,,,,benefactive,BENEFACTIVE,final,TA,,,,,,,,,-o,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 90,Genee,IXG2013,"0098,0101,0102",bla,,siks1238,,-oo,BF:1,,,,,,NG,,final,TI,,,N
 91,Bliss,HB2010,0068,bla,,siks1238,,-oo,BF:1,,,,,,NG,,final,TA,,ABSTR
-92,Bliss et al. ,HB_ET_AL2012,0001,bla,,siks1238,,-oo,BF:1,,,,,,go,,final,AI
+92,Bliss et al. ,HB_ET_AL2012,0001,bla,,siks1238,,-oo,BF:1,,,,,,go,go,final,AI
 93,Bliss et al. ,HB_ET_AL2012,0012,bla,,siks1238,,-oo,BF:1,,,,,,NG,,final,TI
 94,Bliss,HB2010,0059,bla,,siks1238,,-oohsi,BF:1,,,,,,reflexive,,final,,,CONCR
 95,Bliss,HB2010,0059,bla,,siks1238,,-ootsiiyi,BF:1,,,,,,reciprocal,,final,,,CONCR
-96,Frantz,DF1968,0185,bla,,siks1238,,-oxsi,BF:2,,,,,,reflexive,,final,AI,,,Y,TA
+96,Frantz,DF1968,0185,bla,,siks1238,,-oxsi,BF:2,,,,,,reflexive,REFLEXIVE,final,AI,,,Y,TA
 97,Armoskaite,SA2010,0065,bla,,siks1238,,-ssk-i,BF:1,,,,,,chase,chase,initial,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Natalie Weber says this looks like the 'by foot/body' instrumental to her. Author is dividing into concrete/abstract parts apparently.,,MAM
 98,Armoskaite,SA2010,0065,bla,,siks1238,,-ssk-o,BF:1,,,,,,chase,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Natalie Weber says this looks like the 'by foot/body' instrumental to her. Author is dividing into concrete/abstract parts apparently.,,MAM
 99,Barrie & Dunham,MB_JD2008,"0020,0036",bla,,siks1238,,-sski-,BF:1,,,,,,face,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: given as sski.. (with dots) on p. 0036,,MAM
@@ -101,8 +101,8 @@ ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Component Key,Form (or
 101,Barrie & Dunham,MB_JD2008,0019,bla,,siks1238,,-sstooki-,BF:1,,,,,,ear,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 102,Barrie & Dunham,MB_JD2008,"0001,0002,0036",bla,,siks1238,,-wa'si,BF:1,,,,,,"come to be a (N), turn into, become (N)",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
 103,Bliss,HB2010,0059,bla,,siks1238,,-wa'si,BF:1,,,,,,become,,final,,,CONCR
-104,Barrie & Dunham,MB_JD2008,"0001,0036",bla,,siks1238,,-yi,BF:1,,,,,,be a (N),,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
-105,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,,-yi,BF:1,,,,,,have a (N),,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
+104,Barrie & Dunham,MB_JD2008,"0001,0036",bla,,siks1238,,-yi,BF:1,,,,,,be a (N),be,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
+105,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,,-yi,BF:1,,,,,,have a (N),have,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,MAM
 106,Armoskaite,SA2010,0067,bla,,siks1238,,-yó'k-,BF:1,,,,,,sleep,sleep,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 107,Barrie & Dunham,MB_JD2008,0020,bla,,siks1238,,-yó'kin-,BF:1,,,,,,chest?,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: question mark in original,,MAM
 108,Bliss,HB2010,0063,bla,,siks1238,,(w)aahkan-,BF:1,,,,,,sew,sew,initial
@@ -117,7 +117,7 @@ ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Component Key,Form (or
 117,Frantz,DF1973,0010,bla,,siks1238,,at,BF:1,,,,,,NG,,final,TA,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Attaches to pseudo-intransitive stem
 118,Barrie & Dunham,MB_JD2008,0036,bla,,siks1238,,attsi,BF:1,,,,,,causative,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: type of final not given,,MAM
 120,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,,i'ki,BF:1,,,,,,pink,pink,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-121,Barrie & Dunham,MB_JD2008,0015,,,,,i'taki,BF:1,,,,,,feel,,final,AI,,,,,,,-imm,-i'tsi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""root."" Explicitly say it forms VTA, although ""Somewhat similar to denominals in English""; attaches to bare nouns. I think the lack of a dash is just a typo.",,MAM
+121,Barrie & Dunham,MB_JD2008,0015,,,,,i'taki,BF:1,,,,,,feel,feel,final,AI,,,,,,,-imm,-i'tsi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""root."" Explicitly say it forms VTA, although ""Somewhat similar to denominals in English""; attaches to bare nouns. I think the lack of a dash is just a typo.",,MAM
 122,Armoskaite,SA2010,0062,bla,,siks1238,,ihkiit-,BF:1,,,,,,bake,bake,initial,,,,,,,,,,,,ihkiitaa,,ihkiit-aa,V,pseudo-intransitive,bake,,SA2010;0062,ihkiitatoo,,ihkiit-atoo,V,TI,bake,,SA2010;0062,ihkiitat,,ihkiit-at,V,TA,bake,,SA2010;0062,,,,,,,,MAM
 123,Barrie & Dunham,MB_JD2008,0036,bla,,siks1238,,ihkin,BF:1,,,,,,"head, hair",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 124,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,,ihkit,BF:1,,,,,,freeze,freeze,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
