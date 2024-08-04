@@ -7,8 +7,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 6,Valentine,RV2002,0114,alq,,algo1255,-dooskwan-,OJ:3,,,,,,elbow,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nichols and Nyholm (1995
 7,Grafstein,AXG1980,0093,alq,,algo1255,-igan,OJ:10,,,,,,NG,,final,N,,,Y,V
 8,Grafstein,AXG1980,"0085,0091",alq,,algo1255,-iganiwi,OJ:10,,,,,,NG
-9,Grafstein,AXG1980,"0084,0085,0089,0091",alq,,algo1255,-igē,OJ:10,,,,,,"unspecified objects, unspecified persons",,final,AI,,,Y,TA,,,,,-gē,-m_,nōdāgē-,,,V,AI,hear unspecified persons,,,dakongē-,,,V,AI,bite people,,,,,,,,GVM: Allomorph information from p.92; cites Piggott personal communication
-10,Grafstein,AXG1980,0084,alq,,algo1255,-iwē,OJ:10,,,,,,unspecified persons,,final,AI,,,Y,TA
+9,Grafstein,AXG1980,"0084,0085,0089,0091",alq,,algo1255,-igē,OJ:10,,,,,,"unspecified objects, unspecified persons",ANTIPASSIVE,final,AI,,,Y,TA,,,,,-gē,-m_,nōdāgē-,,,V,AI,hear unspecified persons,,,dakongē-,,,V,AI,bite people,,,,,,,,GVM: Allomorph information from p.92; cites Piggott personal communication
+10,Grafstein,AXG1980,0084,alq,,algo1255,-iwē,OJ:10,,,,,,unspecified persons,ANTIPASSIVE,final,AI,,,Y,TA
 11,Grafstein,AXG1980,0093,alq,,algo1255,-iwi,OJ:10,,,,,,NG,,final,AI,,,Y,N,,,,,,,maškikīwininīwi-,,,V,AI,he is a doctor/he is becoming a doctor
 12,Grafstein,AXG1980,"0087,0088,0089,0090",alq,,algo1255,-nāniwan,OJ:10,,,,,,NG,,final,II,,,Y,AI
 13,Wolfart & Shrofel,HCW_SMS1977,0165,alq,,algo1255,-ns,OJ:2,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""in lieu of nʔ""; cites Todd 1970"

@@ -39,7 +39,7 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 42,Lambert-Bretiere,moe,,mont1268,mashku,C-I:Revised,,,,,,hard,hard,initial,,,,,,,,,,,,,,mashku-shtikuan-e, ,,V,AI,to be hardheaded,,RLB2020;0102,mashku-e,,,,AI,to be hard,,RLB2020;0102,mashkhu-shtikuan-e-i,,,V,TA,to make someone stubborn,,RLB2020;0103,,,,,,,,,,,,,,, 
 43,Lambert-Bretiere,moe,,mont1268,-shtikuan,C-I:Revised,,,,,,head,,medial,,,,,,,,,,,,,,mashku-shtikuan-e, ,,V,AI,to be hardheaded,,RLB2020;0102,mashkhu-shtikuan-e-i,,,,TA,to make someone stubborn,,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,, 
 44,Lambert-Bretiere,moe,,mont1268,-e ,C-I:Revised,,,,,,NG,,final,AI,,,,,,,,,,,,,mashku-shtikuan-e , ,,V,AI,to be hardheaded,,RLB2020;0102,mashku-e,,,,AI,to be hard,,RLB2020;0102,mashkhu-shtikuan-e-i,,,V,TA,to make someone stubborn,,RLB2020;0103,nutsh-atshakashu-e,,,V,AI,to hunt mink,RLB2020;0107,,,,,,,, 
-45,Lambert-Bretiere,moe,,mont1268,-i,C-I:Revised,,,,,,causative,,final,TA,,,Y,AI,,,,,,,,,mashkhu-shtikuan-e-i,,,V,TA,to make someone stubborn,,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"L-B lists as ""radical""", 
+45,Lambert-Bretiere,moe,,mont1268,-i,C-I:Revised,,,,,,causative,CAUSATIVE,final,TA,,,Y,AI,,,,,,,,,mashkhu-shtikuan-e-i,,,V,TA,to make someone stubborn,,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"L-B lists as ""radical""", 
 46,Lambert-Bretiere,moe,,mont1268,nip,C-I:Revised,,,,,,die,die,initial,,,,,,,,,,,,,,nip-i,,,V,AI,to be dead,,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 47,Lambert-Bretiere,moe,,mont1268,-i,C-I:Revised,,,,,,NG,,final,AI,,,,,,,,,,,,,nip-i,,,V,AI,to be dead,,RLB2020;0103,itash-i,,,V,AI,"to be so many, to be numerous",,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,, 
 48,Lambert-Bretiere,moe,,mont1268,ut,C-I:Revised,,,,,,take,take,initial,,,,,,,,,,,,,,ut-in,,,V,TA,to take something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
@@ -48,13 +48,13 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 51,Lambert-Bretiere,moe,,mont1268,-u,C-I:Revised,,,,,,NG,,final,TA,,,,,,,,,,,,,pita-u,,,V,TA,to thin something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 52,Lambert-Bretiere,moe,,mont1268,itash,C-I:Revised,,,,,,numerous,numerous,initial,,,,,,,,,,,,,,itash-i,,,V,AI,"to be so many, to be numerous",,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 53,Lambert-Bretiere,moe,,mont1268,nimitauessetshi,C-I:Revised,,,,,,toward middle marsh,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,L-B treats as adv, 
-54,Lambert-Bretiere,moe,,mont1268,-pata,C-I:Revised,,,,,,running,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-55,Lambert-Bretiere,moe,,mont1268,-u,C-I:Revised,,,,,,be,,final,AI,,,Y,N,,-u,,,,,,,auass-u,,,V,AI,to be young,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+54,Lambert-Bretiere,moe,,mont1268,-pata,C-I:Revised,,,,,,running,run,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+55,Lambert-Bretiere,moe,,mont1268,-u,C-I:Revised,,,,,,be,be,final,AI,,,Y,N,,-u,,,,,,,auass-u,,,V,AI,to be young,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 56,Lambert-Bretiere,moe,,mont1268,-i,C-I:Revised,,,,,,NG,,final,TA,,,,,,,,,,,,,nipa-i,,,V,TA,to kill,,RLB2020;0104,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,, 
-57,Lambert-Bretiere,moe,,mont1268,-ue,C-I:Revised,,,,,,antip.,,final,II,,,Y,TA,-ue,,,,,,,,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-58,Lambert-Bretiere,moe,,mont1268,-ue,C-I:Revised,,,,,,antip.,,final,AI,,,Y,TA,,-ue,,,,,,,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-59,Lambert-Bretiere,moe,,mont1268,-u,C-I:Revised,,,,,,be,,final,II,,,Y,N,-u,,,,,,,,kun-u,,,V,II,to be snow,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-60,Lambert-Bretiere,moe,,mont1268,-shi,C-I:Revised,,,,,,diminutive,,final,II,,,Y,II,-sh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+57,Lambert-Bretiere,moe,,mont1268,-ue,C-I:Revised,,,,,,antip.,ANTIPASSIVE,final,II,,,Y,TA,-ue,,,,,,,,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+58,Lambert-Bretiere,moe,,mont1268,-ue,C-I:Revised,,,,,,antip.,ANTIPASSIVE,final,AI,,,Y,TA,,-ue,,,,,,,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+59,Lambert-Bretiere,moe,,mont1268,-u,C-I:Revised,,,,,,be,be,final,II,,,Y,N,-u,,,,,,,,kun-u,,,V,II,to be snow,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+60,Lambert-Bretiere,moe,,mont1268,-shi,C-I:Revised,,,,,,diminutive,DIMINUTIVE,final,II,,,Y,II,-sh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 61,Lambert-Bretiere,moe,,mont1268,atuss,C-I:Revised,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"used in ""'he works' [process]""", 
 62,Lambert-Bretiere,moe,,mont1268,takushi,C-I:Revised,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"used in ""'he arrives' [event]""", 
 63,Lambert-Bretiere,moe,,mont1268,nip,C-I:Revised,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"used in ""'he dreams [state]'""", 
@@ -62,24 +62,24 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 65,Lambert-Bretiere,moe,,mont1268,-n,C-I:Revised,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 66,Lambert-Bretiere,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 67,Lambert-Bretiere,moe,,mont1268,apa,C-I:Revised,,,,,,melt,melt,initial,,,,,,,,,,,,,,apa-shu,,,V,AI,he melts,,RLB2020;0105,,apa-te,,V,II,it melts,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,, 
-68,Lambert-Bretiere,moe,,mont1268,-shu,C-I:Revised,,,,,,by heat,,final,AI,,CONCR,,,,-te,,,,,,,apa-shu ,,,V,AI,he melts,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-69,Lambert-Bretiere,moe,,mont1268,-te,C-I:Revised,,,,,,by heat,,final,II,,CONCR,,,-shu,,,,,,,,apa-te ,,,V,II,it melts,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+68,Lambert-Bretiere,moe,,mont1268,-shu,C-I:Revised,,,,,,by heat,"heat, MANNER",final,AI,,CONCR,,,,-te,,,,,,,apa-shu ,,,V,AI,he melts,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+69,Lambert-Bretiere,moe,,mont1268,-te,C-I:Revised,,,,,,by heat,"heat, MANNER",final,II,,CONCR,,,-shu,,,,,,,,apa-te ,,,V,II,it melts,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 70,Lambert-Bretiere,moe,,mont1268,uishtimu,C-I:Revised,,,,,,dog,dog,initial,,,,,,,,,,,,,,uishtimu-kan ,,,V,II,it smells like a dog,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-71,Lambert-Bretiere,moe,,mont1268,-kan,C-I:Revised,,,,,,smell like,,final,II,,CONCR,,,,,,,,,,,uishtimu-kan ,,,V,II,it smells like a dog,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+71,Lambert-Bretiere,moe,,mont1268,-kan,C-I:Revised,,,,,,smell like,smell like,final,II,,CONCR,,,,,,,,,,,uishtimu-kan ,,,V,II,it smells like a dog,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 72,Lambert-Bretiere,moe,,mont1268,kuishku,C-I:Revised,,,,,,straight,straight,initial,,,,,,,,,,,,,,kuishku-kute,,,V,AI,he is suspended straight,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-73,Lambert-Bretiere,moe,,mont1268,-kute,C-I:Revised,,,,,,suspended,,final,AI,,CONCR,,,,,,,,,,,kuishku-kute,,,V,AI,he is suspended straight,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+73,Lambert-Bretiere,moe,,mont1268,-kute,C-I:Revised,,,,,,suspended,suspended,final,AI,,CONCR,,,,,,,,,,,kuishku-kute,,,V,AI,he is suspended straight,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 74,Lambert-Bretiere,moe,,mont1268,ashtue,C-I:Revised,,,,,,extinguish,extinguish,initial,,,,,,,,,,,,,,ashtue-shk,,,V,TI,to extinguish with feet,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-75,Lambert-Bretiere,moe,,mont1268,-shk,C-I:Revised,,,,,,with feet,,final,TI,,CONCR,,,,,,,,,,,ashtue-shk,,,V,TI,to extinguish with feet,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+75,Lambert-Bretiere,moe,,mont1268,-shk,C-I:Revised,,,,,,with feet,"foot, MANNER",final,TI,,CONCR,,,,,,,,,,,ashtue-shk,,,V,TI,to extinguish with feet,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 76,Lambert-Bretiere,moe,,mont1268,shakutsh,C-I:Revised,,,,,,split,split,initial,,,,,,,,,,,,,,shakutsh-ikau,,,V,TA,to split with an ax,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-77,Lambert-Bretiere,moe,,mont1268,-ikau,C-I:Revised,,,,,,with ax,,final,TA,,CONCR,,,,,,,,,,,shakutsh-ikau,,,V,TA,to split with an ax,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+77,Lambert-Bretiere,moe,,mont1268,-ikau,C-I:Revised,,,,,,with ax,"axe, INSTRUMENT",final,TA,,CONCR,,,,,,,,,,,shakutsh-ikau,,,V,TA,to split with an ax,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 78,Lambert-Bretiere,moe,,mont1268,nipa,C-I:Revised,,,,,,by night,,initial,,,,,,,,,,,,,,nipa-pic-i,,,V,AI,to travel by night dragging a sleigh,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 79,Lambert-Bretiere,moe,,mont1268,-pic,C-I:Revised,,,,,,dragging a sleigh; en traînant un toboggan,,final,,,CONCR,,,,,,,,,,,nipa-pic-i,,,V,AI,to travel by night dragging a sleigh,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 80,Lambert-Bretiere,moe,,mont1268,-i,C-I:Revised,,,,,,NG,,final,AI,,ABSTR,,,,,,,,,,,nipa-pic-i,,,V,AI,to travel by night dragging a sleigh,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 81,Lambert-Bretiere,moe,,mont1268,akun,C-I:Revised,,,,,,cover; couvrir,,initial,,,,,,,,,,,,,,akun-u,,,V,TA,to cover with instrument,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-82,Lambert-Bretiere,moe,,mont1268,-u,C-I:Revised,,,,,,with instrument,,final,TA,,,,,,,,-ai,,,,,akun-u,,,V,TA,to cover with instrument,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"L-B treats final as portmanteau concrete+abstract""", 
+82,Lambert-Bretiere,moe,,mont1268,-u,C-I:Revised,,,,,,with instrument,INSTRUMENT,final,TA,,,,,,,,-ai,,,,,akun-u,,,V,TA,to cover with instrument,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"L-B treats final as portmanteau concrete+abstract""", 
 83,Lambert-Bretiere,moe,,mont1268,minueńit,C-I:Revised,,,,,,like,like,initial,,,,,,,,,,,,,,minueńit-a,,,V,TI,to like,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 84,Lambert-Bretiere,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,TI,,,,,,,,,,,,,minueńit-a,,,V,TI,to like,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-85,Lambert-Bretiere,moe,,mont1268,-sh,C-I:Revised,,,,,,diminutive,,final,AI,,,Y,TI,,-shi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+85,Lambert-Bretiere,moe,,mont1268,-sh,C-I:Revised,,,,,,diminutive,DIMINUTIVE,final,AI,,,Y,TI,,-shi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 86,Lambert-Bretiere,moe,,mont1268,-amesh-,C-I:Revised,,,,,,fish,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 87,Lambert-Bretiere,moe,,mont1268,-mesh-,C-I:Revised,,,,,,fish,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 88,Lambert-Bretiere,moe,,mont1268,-pimiu-,C-I:Revised,,,,,,grease,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
@@ -89,10 +89,10 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 92,Lambert-Bretiere,moe,,mont1268,-an,C-I:Revised,,,,,,NG,,final,II,,,,,,,,,,,,,tshinu-apek-an,,,V,II,to be stringlike-long,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 93,Lambert-Bretiere,moe,,mont1268,mitshim,C-I:Revised,,,,,,hold,hold,initial,,,,,,,,,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 94,Lambert-Bretiere,moe,,mont1268,-apishk,C-I:Revised,,,,,,mineral,,medial,CLASS,,,,,,,,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-95,Lambert-Bretiere,moe,,mont1268,-ai,C-I:Revised,,,,,,with instrument,,final,TI,,,,,,,-u,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+95,Lambert-Bretiere,moe,,mont1268,-ai,C-I:Revised,,,,,,with instrument,INSTRUMENT,final,TI,,,,,,,-u,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 96,Lambert-Bretiere,moe,,mont1268,natuai,C-I:Revised,,,,,,split,split,initial,,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 97,Lambert-Bretiere,moe,,mont1268,-ashku,C-I:Revised,,,,,,"long rigid; something long, round, wooden, solid",,medial,CLASS,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,mamitsh-ashku-puam-e-,,,V,AI,have big thighs,,AMB_ET_AL2002;0002,kanu-ashku-titsh-e-,,,V,AI,have big hands,,AMB_ET_AL2002;0003,uishau-ashku-apit-e-,,,V,AI,have yellow teeth,,AMB_ET_AL2002;0003,,,,,,"p. 108, ex (37): first of two medials", 
-98,Lambert-Bretiere,moe,,mont1268,-tita,C-I:Revised,,,,,,by movement,,final,AI,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"marked as AIT; in [[natuai-ashku-tita]-pan] ushtashk, ""he has split the handle of his ax""; in abbreviations footnote she says: AIT: animate intransitive-transitive inanimate", 
+98,Lambert-Bretiere,moe,,mont1268,-tita,C-I:Revised,,,,,,by movement,"movement, MANNER",final,AI,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"marked as AIT; in [[natuai-ashku-tita]-pan] ushtashk, ""he has split the handle of his ax""; in abbreviations footnote she says: AIT: animate intransitive-transitive inanimate", 
 99,Lambert-Bretiere,moe,,mont1268,mish,C-I:Revised,,,,,,big,big,initial,,,,,,,,,,,,,,mish-ipe-a,,,V,II,to be a high level of liquid,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 100,Lambert-Bretiere,moe,,mont1268,-ipe,C-I:Revised,,,,,,flowing liquid,,medial,CLASS,,,,,,,,,,,,,mish-ipe-a,,,V,II,to be a high level of liquid,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 101,Lambert-Bretiere,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,II,,,,,,,,,,,,,mish-ipe-a,,,V,II,to be a high level of liquid,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
@@ -105,7 +105,7 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 108,Lambert-Bretiere,moe,,mont1268,-atshakashu,C-I:Revised,,,,,,mink,,medial,GENERIC,,,,,,,,,,,,,nutsh-atshakashu-e,,,V,AI,to hunt mink,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 109,Lambert-Bretiere,moe,,mont1268,shishu,C-I:Revised,,,,,,cover with,cover with,initial,,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 110,Lambert-Bretiere,moe,,mont1268,-ńushkuauatsh,C-I:Revised,,,,,,flour,,medial,GENERIC,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-111,Lambert-Bretiere,moe,,mont1268,-in,C-I:Revised,,,,,,by hand,,final,TA,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+111,Lambert-Bretiere,moe,,mont1268,-in,C-I:Revised,,,,,,by hand,"hand, MANNER",final,TA,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 112,Lambert-Bretiere,moe,,mont1268,matape,C-I:Revised,,,,,,arrive,arrive,initial,,,,,,,,,,,,,,matape-ssek-ai,,,V,TI,to arrive at the marsh on foot,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 113,Lambert-Bretiere,moe,,mont1268,-ssek,C-I:Revised,,,,,,marsh,,medial,GENERIC,,,,,,,,,,,,,matape-ssek-ai,,,V,TI,to arrive at the marsh on foot,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 114,Lambert-Bretiere,moe,,mont1268,-ai,C-I:Revised,,,,,,by foot,,final,TI,,,,,,,,,,,,,matape-ssek-ai,,,V,TI,to arrive at the marsh on foot,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
@@ -113,34 +113,34 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 116,Lambert-Bretiere,moe,,mont1268,-sham,C-I:Revised,,,,,,snowshoe,,medial,GENERIC,,,,,,,,,,,,,piku-sham-e,,,V,AI,to be broken snowshoes,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 117,Lambert-Bretiere,moe,,mont1268,uak,C-I:Revised,,,,,,bend,bend,initial,,,,,,,,,,,,,,,,,V,AI,to be crooked fingers,uak-ashku-titsh-e,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 118,Lambert-Bretiere,moe,,mont1268,-titsh,C-I:Revised,,,,,,hand,,medial,GENERIC,,,,,,,,,,,,,,,,V,AI,to be crooked fingers,uak-ashku-titsh-e,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 108, ex (37): second of two medials", 
-119,Drapeau,moe,,mont1268,-ttaw,C-I:1,,,,,,applicative,,final,TA,,,Y,AI,,,,-ttam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,multiple roles (other than those above), 
-120,Drapeau,moe,,mont1268,-ttam,C-I:1,,,,,,applicative,,final,TI,,,Y,AI,,,-ttaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,multiple roles (other than those above), 
-121,Drapeau,moe,,mont1268,-aw,C-I:1,,,,,,applicative,,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beneficiary, 
-122,Drapeau,moe,,mont1268,-amaw,C-I:1,,,,,,applicative,,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,recipient, 
-123,Drapeau,moe,,mont1268,-w,C-I:1,,,,,,applicative,,final,AI,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor, 
-124,Drapeau,moe,,mont1268,-w,C-I:1,,,,,,applicative,,final,AI,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor, 
-125,Drapeau,moe,,mont1268,-w,C-I:1,,,,,,applicative,,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor, 
-126,Drapeau,moe,,mont1268,-w,C-I:1,,,,,,applicative,,final,TA,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor, 
-127,Drapeau,moe,,mont1268,-im,C-I:1,,,,,,applicative,,final,TA,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor, 
-128,Drapeau,moe,,mont1268,-wâcê,C-I:1,,,,,,applicative,,final,TA,,,Y,AI+O,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,instrument, 
-129,Drapeau,moe,,mont1268,wîci- -m,C-I:1,,,,,,applicative,,final,TA,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,comitative, 
-130,Drapeau,moe,,mont1268,-štaw,C-I:1,,,,,,applicative,,final,AI,,,Y,TA,,-štam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,locational reference, 
-131,Drapeau,moe,,mont1268,-štam,C-I:1,,,,,,applicative,,final,AI,,,Y,TI,,-štaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,locational reference, 
+119,Drapeau,moe,,mont1268,-ttaw,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,AI,,,,-ttam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,multiple roles (other than those above), 
+120,Drapeau,moe,,mont1268,-ttam,C-I:1,,,,,,applicative,APPLICATIVE,final,TI,,,Y,AI,,,-ttaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,multiple roles (other than those above), 
+121,Drapeau,moe,,mont1268,-aw,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beneficiary, 
+122,Drapeau,moe,,mont1268,-amaw,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,recipient, 
+123,Drapeau,moe,,mont1268,-w,C-I:1,,,,,,applicative,APPLICATIVE,final,AI,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor, 
+124,Drapeau,moe,,mont1268,-w,C-I:1,,,,,,applicative,APPLICATIVE,final,AI,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor, 
+125,Drapeau,moe,,mont1268,-w,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor, 
+126,Drapeau,moe,,mont1268,-w,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor, 
+127,Drapeau,moe,,mont1268,-im,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor, 
+128,Drapeau,moe,,mont1268,-wâcê,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,AI+O,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,instrument, 
+129,Drapeau,moe,,mont1268,wîci- -m,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,comitative, 
+130,Drapeau,moe,,mont1268,-štaw,C-I:1,,,,,,applicative,APPLICATIVE,final,AI,,,Y,TA,,-štam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,locational reference, 
+131,Drapeau,moe,,mont1268,-štam,C-I:1,,,,,,applicative,APPLICATIVE,final,AI,,,Y,TI,,-štaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,locational reference, 
 132,Drapeau,moe,,mont1268,am-,C-I:1,,,,,,NG,,final,TA,,,,,,,,at-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 133,Drapeau,moe,,mont1268,at-,C-I:1,,,,,,NG,,final,TI,,,,,,,am-
 134,Drapeau,moe,,mont1268,iši-,C-I:1,,,,,,NG,,final,AI,,,,,,â-
 135,Drapeau,moe,,mont1268,â-,C-I:1,,,,,,NG,,final,II,,,,,iši-
 136,Drapeau,moe,,mont1268,mamên-,C-I:1,,,,,,on and off,,initial
-137,Drapeau,moe,,mont1268,ûtân-,C-I:1,,,,,,to rain,,final,II
+137,Drapeau,moe,,mont1268,ûtân-,C-I:1,,,,,,to rain,rain (V),final,II
 138,Drapeau,moe,,mont1268,cînikwân-,C-I:1,,,,,,round,round,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Unclear if this is initial-medial, but seems most likely"
 139,Drapeau,moe,,mont1268,pîputwê-,C-I:1,,,,,,blurred,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Unclear if this is initial-medial, but seems most likely"
-140,Drapeau,moe,,mont1268,štan-,C-I:1,,,,,,storm force,,final,II
+140,Drapeau,moe,,mont1268,štan-,C-I:1,,,,,,storm force,"force (N), storm",final,II
 141,Drapeau,moe,,mont1268,nâmûn-,C-I:1,,,,,,downwind; déplacement effectué dans le sens du vent,,initial
-142,Drapeau,moe,,mont1268,âštan-,C-I:1,,,,,,wind force,,final,II,,,,,âšu-
+142,Drapeau,moe,,mont1268,âštan-,C-I:1,,,,,,wind force,force (wind),final,II,,,,,âšu-
 143,Drapeau,moe,,mont1268,wêp-,C-I:1,,,,,,away,away,initial
-144,Drapeau,moe,,mont1268,âšu-,C-I:1,,,,,,wind force,,final,AI,,,,,,âštan-
+144,Drapeau,moe,,mont1268,âšu-,C-I:1,,,,,,wind force,force (wind),final,AI,,,,,,âštan-
 145,Drapeau,moe,,mont1268,wâš-,C-I:1,,,,,,bay shape,,initial
-146,Drapeau,moe,,mont1268,â-,C-I:1,,,,,,extension in space,,final,II,,ABSTR
+146,Drapeau,moe,,mont1268,â-,C-I:1,,,,,,extension in space,extension (in space),final,II,,ABSTR
 147,Drapeau,moe,,mont1268,macitêwê-,C-I:1,,,,,,long point,,initial
 148,Drapeau,moe,,mont1268,âlim-,C-I:1,,,,,,difficult,difficult,initial
 149,Drapeau,moe,,mont1268,išêk-,C-I:1,,,,,,cliff,,medial
@@ -163,31 +163,31 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 170,Drapeau,moe,,mont1268,usê-,C-I:1,,,,,,ridge shape,,initial
 171,Drapeau,moe,,mont1268,assêk-,C-I:1,,,,,,muskeg,,medial,INCORP
 172,Drapeau,moe,,mont1268,-i-,C-I:1,,,,,,NG,,final,AI,,ABSTR
-173,Drapeau,moe,,mont1268,-âkan,C-I:1,,,,,,patientive nominal,,final,AI,,,,,,-kan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"LD: ""Note that Western dialects of Cree have different forms for passives of transitives (see Dahlstrom 1991, Wolfart 1991)"""
-174,Drapeau,moe,,mont1268,-kan,C-I:1,,,,,,patientive nominal,,final,TI,,,,,,,-âkan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"LD: ""Note that Western dialects of Cree have different forms for passives of transitives (see Dahlstrom 1991, Wolfart 1991)"""
-175,Junker,moe,,mont1268,-u,C-I:1,,,,,,REL,,final,TA,,,Y,,,,,,,,,,,,,V,TA,happy (in relation to),minuenitam-u-,MOJ2003a;0326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,relational
+173,Drapeau,moe,,mont1268,-âkan,C-I:1,,,,,,patientive nominal,"NOMINALIZER, PATIENT",final,AI,,,,,,-kan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"LD: ""Note that Western dialects of Cree have different forms for passives of transitives (see Dahlstrom 1991, Wolfart 1991)"""
+174,Drapeau,moe,,mont1268,-kan,C-I:1,,,,,,patientive nominal,"NOMINALIZER, PATIENT",final,TI,,,,,,,-âkan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"LD: ""Note that Western dialects of Cree have different forms for passives of transitives (see Dahlstrom 1991, Wolfart 1991)"""
+175,Junker,moe,,mont1268,-u,C-I:1,,,,,,REL,RELATIVE,final,TA,,,Y,,,,,,,,,,,,,V,TA,happy (in relation to),minuenitam-u-,MOJ2003a;0326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,relational
 176,Drapeau,moe,,mont1268,pisti-,C-I:2,,,,,,par erreur,by mistake,initial,,,,,,,,,,,,,,pisti-pali-,,,V,V,move by accident (bouge par mégarde),,LD1980;0316,pisti-puta·-,,,V,TI,saw something by mistake (scie qque chose par erreur),,LD1980;0316,pisti-pat-a·-,,,V,V,go the wrong way (se trompe de route),,LD1980;0319,pisti-pal-i-,,,V,V,move by mistake (bouge par mégarde),,LD1980;0319,,,,,,In French.,,MAM
-177,Drapeau,moe,,mont1268,-pali-,C-I:2,,,,,,par le mouvement,by movement,final,V,,,,,,,,,,,,,pisti-pali-,,,V,V,move by accident (bouge par mégarde),,LD1980;0316,,,,V,V,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-178,Drapeau,moe,,mont1268,-puta·-,C-I:2,,,,,,scie qque chose,saw something (,final,V,,,,,,,,,,,,,pisti-puta·-,,,V,TI,saw something by mistake (scie qque chose par erreur),,LD1980;0316,,,,V,V,,,,,,,,,,,,,,,,,,,,,,,,,"In French; marked as ""complex final""",,MAM
+177,Drapeau,moe,,mont1268,-pali-,C-I:2,,,,,,par le mouvement,"movement, MANNER",final,V,,,,,,,,,,,,,pisti-pali-,,,V,V,move by accident (bouge par mégarde),,LD1980;0316,,,,V,V,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+178,Drapeau,moe,,mont1268,-puta·-,C-I:2,,,,,,scie qque chose,saw (V),final,V,,,,,,,,,,,,,pisti-puta·-,,,V,TI,saw something by mistake (scie qque chose par erreur),,LD1980;0316,,,,V,V,,,,,,,,,,,,,,,,,,,,,,,,,"In French; marked as ""complex final""",,MAM
 179,Drapeau,moe,,mont1268,pal,C-I:2,,,,,,bouge,move,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pal-i-,,,V,V,move straight (bouge droit),,LD1980;0317,pisti-pal-i-,,,V,V,move by mistake (bouge par mégarde),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 180,Drapeau,moe,,mont1268,ka·p,C-I:2,,,,,,debout,stand,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-ka·p-u·,,,V,V,stand straight (droit debout),,LD1980;0317,pisti-ka·p-u·-,,,V,V,stand (self) by mistake (se met debout par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 181,Drapeau,moe,,mont1268,ap,C-I:2,,,,,,assis,sit,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-ap-i,,,V,V,sit straight (droit assis),,LD1980;0317,pisti-ap-i-,,,V,V,sit by mistake (assis par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-182,Drapeau,moe,,mont1268,šin,C-I:2,,,,,,étendu,extend,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-šin,,,V,V,extend straight (droit étendu),,LD1980;0317,pisti-šin-,,,V,V,extend by mistake (étendu par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-183,Drapeau,moe,,mont1268,st,C-I:2,,,,,,placé,place,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-st-e·,,,V,V,place right (placé droit),,LD1980;0317,pisti-št-a·-,,,V,V,place by mistake (placé par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-184,Drapeau,moe,,mont1268,am,C-I:2,,,,,,installé,install,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-am-u,,,V,V,install right (installé droit),,LD1980;0317,pisti-am-u-,,,V,V,install by mistake (installé par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-185,Drapeau,moe,,mont1268,pat,C-I:2,,,,,,motorisé,motorize,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pat-a·,,,V,V,motorize right (motorisé droit),,LD1980;0317,pisti-pat-a·-,,,V,V,go the wrong way (se trompe de route),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+182,Drapeau,moe,,mont1268,šin,C-I:2,,,,,,étendu,extended,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-šin,,,V,V,extend straight (droit étendu),,LD1980;0317,pisti-šin-,,,V,V,extend by mistake (étendu par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+183,Drapeau,moe,,mont1268,st,C-I:2,,,,,,placé,located,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-st-e·,,,V,V,place right (placé droit),,LD1980;0317,pisti-št-a·-,,,V,V,place by mistake (placé par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+184,Drapeau,moe,,mont1268,am,C-I:2,,,,,,installé,installed,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-am-u,,,V,V,install right (installé droit),,LD1980;0317,pisti-am-u-,,,V,V,install by mistake (installé par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+185,Drapeau,moe,,mont1268,pat,C-I:2,,,,,,motorisé,motorized,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pat-a·,,,V,V,motorize right (motorisé droit),,LD1980;0317,pisti-pat-a·-,,,V,V,go the wrong way (se trompe de route),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 186,Drapeau,moe,,mont1268,kaš,C-I:2,,,,,,cuit,cook,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-kaš-i,,,V,V,cook right (cuit droit),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-187,Drapeau,moe,,mont1268,t,C-I:2,,,,,,marche,walk/work,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-t-e·,,,V,V,walk straight (marche droit),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-188,Drapeau,moe,,mont1268,pats·,C-I:2,,,,,,en tobaganne,by toboggan,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pats·i,,,V,V,go in toboggan (va droit en tobaganne),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-189,Drapeau,moe,,mont1268,ku,C-I:2,,,,,,suspend,hang,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-ku-ta·,,,V,V,hang right (suspend qqch droit),,LD1980;0317,pisti-ku-ta·-,,,V,V,hang by mistake (suspend par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
-190,Drapeau,moe,,mont1268,pu,C-I:2,,,,,,scie,saw,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pu-ta·,,,V,V,saw something right (scie qqch droit),,LD1980;0317,pisti-pu-ta·-,,,V,V,saw by mistake (scie par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+187,Drapeau,moe,,mont1268,t,C-I:2,,,,,,marche,walk,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-t-e·,,,V,V,walk straight (marche droit),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+188,Drapeau,moe,,mont1268,pats·,C-I:2,,,,,,en tobaganne,tobaggan,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pats·i,,,V,V,go in toboggan (va droit en tobaganne),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+189,Drapeau,moe,,mont1268,ku,C-I:2,,,,,,suspend,suspend,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-ku-ta·,,,V,V,hang right (suspend qqch droit),,LD1980;0317,pisti-ku-ta·-,,,V,V,hang by mistake (suspend par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+190,Drapeau,moe,,mont1268,pu,C-I:2,,,,,,scie,saw (V),final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-pu-ta·,,,V,V,saw something right (scie qqch droit),,LD1980;0317,pisti-pu-ta·-,,,V,V,saw by mistake (scie par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 191,Drapeau,moe,,mont1268,i,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-pal-i-,,,V,V,move straight (bouge droit),,LD1980;0317,kwi·šku-kaš-i,,,V,V,cook right (cuit droit),,LD1980;0317,kwi·šku-pats·i,,,V,V,go in toboggan (va droit en tobaganne),,LD1980;0317,kwi·šku-ap-i,,,V,V,sit straight (droit assis),,LD1980;0317,,,,,,In French.,,MAM
 192,Drapeau,moe,,mont1268,u·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-ka·p-u·,,,V,V,stand straight (droit debout),,LD1980;0317,pisti-ka·p-u·-,,,V,V,stand (self) by mistake (se met debout par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 193,Drapeau,moe,,mont1268,e·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-st-e·,,,V,V,place right (placé droit),,LD1980;0317,kwi·šku-t-e·,,,V,V,walk straight (marche droit),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 194,Drapeau,moe,,mont1268,u,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-am-u,,,V,V,install right (installé droit),,LD1980;0317,pisti-am-u-,,,V,V,install by error (installé par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 195,Drapeau,moe,,mont1268,a·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-pat-a·,,,V,V,motorize right (motorisé droit),,LD1980;0317,pisti-pat-a·-,,,V,V,go the wrong way (se trompe de route),,LD1980;0319,pisti-št-a·-,,,V,V,place by mistake (placé par erreur),,LD1980;0319,,,,,,,,,,,,,,In French.,,MAM
 196,Drapeau,moe,,mont1268,ta·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-ku-ta·,,,V,V,hang right (suspend qqch droit),,LD1980;0317,kwi·šku-pu-ta·,,,V,V,saw something right (scie qqch droit),,LD1980;0317,pisti-pu-ta·-,,,V,V,saw by mistake (scie par erreur),,LD1980;0319,pisti-ku-ta·-,,,V,V,hang by mistake (suspend par erreur),,LD1980;0319,,,,,,In French.,,MAM
-197,Drapeau,moe,,mont1268,a·pika·t,C-I:2,,,,,,attache,attach,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-a·pika·t-am,,,V,V,attach right (attache qqch droit),,LD1980;0318,pisti-a·pika·t-am-,,,V,V,attach by mistake (attache par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
+197,Drapeau,moe,,mont1268,a·pika·t,C-I:2,,,,,,attache,attatchment,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-a·pika·t-am,,,V,V,attach right (attache qqch droit),,LD1980;0318,pisti-a·pika·t-am-,,,V,V,attach by mistake (attache par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 198,Drapeau,moe,,mont1268,kwa·t,C-I:2,,,,,,coud,sew,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-kwa·t-am,,,V,V,sew something right (coud qqch droit),,LD1980;0318,pisti-kwa·t-am-,,,V,V,sew by mistake (coud par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 199,Drapeau,moe,,mont1268,kut,C-I:2,,,,,,dole au couteau croche,dole out with tongs,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-kut-am,,,V,V,dole out right with tongs (dole qqch droit au couteau croche),,LD1980;0318,pisti-kut-am-,,,V,V,dole out with tongs by mistake (dole au couteau croche par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
 200,Drapeau,moe,,mont1268,š,C-I:2,,,,,,coupe,cut,final,V,,CONCR,B,PART,,,,,,,,,kwi·šku-š-am,,,V,V,cut something right (coupe qqch droit),,LD1980;0318,pisti-š-am-,,,V,V,cut by mistake (coupe par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,MAM
@@ -245,38 +245,38 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 253,York,moe,,mont1268,-šin-,C-I:1,,,,,,"lying, in contact with a surface",,final,,,CONCR,,,,,,,-tin-
 254,York,moe,,mont1268,-akušî-,C-I:1,,,,,,"suspended, hanging, suspendu, perché, juché",,final,,,CONCR,,,,,,,,,,,pûtû-lew-e-kušî-,,,V,AI,la perdrix est juchée immobile les aile gonflées,,FY2010;0068
 255,York,moe,,mont1268,pîtwâw-,C-I:1,,,,,,smoke,smoke,initial
-256,York,moe,,mont1268,-kâpû,C-I:1,,,,,,standing,,final,AI
+256,York,moe,,mont1268,-kâpû,C-I:1,,,,,,standing,stand,final,AI
 257,York,moe,,mont1268,taškam-,C-I:1,,,,,,d'un bord à l'autre,edge,initial
 258,York,moe,,mont1268,-assek-,C-I:1,,,,,,savane,,medial,INCORP,,,,,,,,,-assec-
 260,York,moe,,mont1268,-i-,C-I:1,,,,,,NG,,final,AI,,ABSTR
-261,York,moe,,mont1268,-pici-,C-I:1,,,,,,en traînant un toboggan,,final,AI
+261,York,moe,,mont1268,-pici-,C-I:1,,,,,,en traînant un toboggan,"drag (sleigh, tobaggan)",final,AI
 262,York,moe,,mont1268,nîpâ-,C-I:1,,,,,,de nuit,night,initial
 263,York,moe,,mont1268,cišû-,C-I:1,,,,,,exaspéré,exasperate,initial
 264,York,moe,,mont1268,mâmîc-,C-I:1,,,,,,déféquer,defecate,initial,,Y
-265,York,moe,,mont1268,-ute-,C-I:1,,,,,,en marchant,,final,AI
+265,York,moe,,mont1268,-ute-,C-I:1,,,,,,en marchant,on foot,final,AI
 266,York,moe,,mont1268,-ê-,C-I:1,,,,,,forme les verbes de processus,,final,,,ABSTR
 267,York,moe,,mont1268,-â-,C-I:1,,,,,,réfère à differents états spaciaux,,final,,,ABSTR
 268,York,moe,,mont1268,-an-,C-I:1,,,,,,réfère à differents états non spaciaux,,final,,,ABSTR
 269,York,moe,,mont1268,alakassi-,C-I:1,,,,,,large,large,initial
 270,York,moe,,mont1268,-šikw-,C-I:1,,,,,,glace; ice,,medial,,,,,,,,,,,,,,pâm-išku-ay-,,,V,AI,effectuer un trajet sur la glace à pied,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*JS cannot find stem source (might be on FY2010;0073?)*
-271,York,moe,,mont1268,-ay-,C-I:1,,,,,,"avec un coup, avec un instrument",,final,TI,,CONCR,,,-ay-,,-w-
+271,York,moe,,mont1268,-ay-,C-I:1,,,,,,"avec un coup, avec un instrument","blow (N), INSTRUMENT",final,TI,,CONCR,,,-ay-,,-w-
 272,York,moe,,mont1268,âyâkatw-,C-I:1,,,,,,bouger,move,initial
 274,York,moe,,mont1268,nimitâwessec-,C-I:1,,,,,,vers le centre,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,complex initial'
-275,York,moe,,mont1268,-patâ-,C-I:1,,,,,,"en courant, en véhicule à roues",,final,AI,,,,,,,,,,,,,ûlwî-patâ-,,,V,AI,sortir en courant,,FY2010;0055,matâ-pessec-i-patâ-,,,V,AI,"arriver à une savane, une tourbière en courant, en véhicule à roues",,FY2010;0073,lâlew-e-šku-patâ-,,,V,AI,courir le long du rivage sur la glace,,FY2010;0073
+275,York,moe,,mont1268,-patâ-,C-I:1,,,,,,"en courant, en véhicule à roues","run, vehicle (wheeled), INSTRUMENT, MANNER",final,AI,,,,,,,,,,,,,ûlwî-patâ-,,,V,AI,sortir en courant,,FY2010;0055,matâ-pessec-i-patâ-,,,V,AI,"arriver à une savane, une tourbière en courant, en véhicule à roues",,FY2010;0073,lâlew-e-šku-patâ-,,,V,AI,courir le long du rivage sur la glace,,FY2010;0073
 277,York,moe,,mont1268,-w,C-I:1,,,,,,avec un instrument; avec un coup ou avec un instrument,,final,TA,,,,,-ay-,,,-ay-
 278,York,moe,,mont1268,âm-,C-I:1,,,,,,angle,angle,initial
-279,York,moe,,mont1268,-šk-,C-I:1,,,,,,avec les pieds,,final,TI
+279,York,moe,,mont1268,-šk-,C-I:1,,,,,,avec les pieds,"foot, MANNER",final,TI
 280,York,moe,,mont1268,kukweti-,C-I:1,,,,,,sonder,probe,initial
 281,York,moe,,mont1268,âkw-,C-I:1,,,,,,derrière,behind,initial
 284,York,moe,,mont1268,awkâ-,C-I:1,,,,,,échoué,fail,initial
-285,York,moe,,mont1268,-âputê-,C-I:1,,,,,,force du courant,,final,II,,,,,-âpuku-,,,,,,,,âm-âpu-,,,V,II,"être emporté en bas du rapide, de la chute par le courant",,FY2010;0066
+285,York,moe,,mont1268,-âputê-,C-I:1,,,,,,force du courant,strength (current),final,II,,,,,-âpuku-,,,,,,,,âm-âpu-,,,V,II,"être emporté en bas du rapide, de la chute par le courant",,FY2010;0066
 286,York,moe,,mont1268,âmacwe-,C-I:1,,,,,,montée,climb,initial
-287,York,moe,,mont1268,-tâpâcim-,C-I:1,,,,,,en traînant quelqu'un,,final,TA,,,Y
-288,York,moe,,mont1268,-awku-,C-I:1,,,,,,avec/par la vague,,final,AI,,,,,,-âyn-
+287,York,moe,,mont1268,-tâpâcim-,C-I:1,,,,,,en traînant quelqu'un,"drag, haul, pull",final,TA,,,Y
+288,York,moe,,mont1268,-awku-,C-I:1,,,,,,avec/par la vague,"wave (N), MANNER",final,AI,,,,,,-âyn-
 289,York,moe,,mont1268,-âyn-,C-I:1,,,,,,avec/par la vague; wave force,,final,II,,,,,-awku-
 290,York,moe,,mont1268,šâš-,C-I:1,,,,,,déferler,surge,initial
 291,York,moe,,mont1268,wâc-,C-I:1,,,,,,courbe,curve,initial
-292,York,moe,,mont1268,-te-,C-I:1,,,,,,en marchant,,final,AI,,,,,,,,,,,,,nânatw-âpišwe-te-,,,V,AI,être à la recherche du loup-cervier à pied,,FY2010;0072,pâm-išku-te-,,,V,AI,effectuer un trajet sur la glace à pied,,FY2010;0073
+292,York,moe,,mont1268,-te-,C-I:1,,,,,,en marchant,on foot,final,AI,,,,,,,,,,,,,nânatw-âpišwe-te-,,,V,AI,être à la recherche du loup-cervier à pied,,FY2010;0072,pâm-išku-te-,,,V,AI,effectuer un trajet sur la glace à pied,,FY2010;0073
 293,York,moe,,mont1268,wâk-,C-I:1,,,,,,courbe,curve,initial
 294,York,moe,,mont1268,-âwkun-,C-I:1,,,,,,dos,,medial
 295,York,moe,,mont1268,lâlewe-,C-I:1,,,,,,le long du rivage
@@ -284,12 +284,12 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 297,York,moe,,mont1268,-pal-,C-I:1,,,,,,"mouvement continu, fluide, dans l'eau, sur l'eau ou at vol et/ou avec un moteur",,final
 298,York,moe,,mont1268,-âwc-,C-I:1,,,,,,montagne,,medial
 299,York,moe,,mont1268,-kam-,C-I:1,,,,,,lac,,final,,,CONCR
-300,York,moe,,mont1268,-âpuku-,C-I:1,,,,,,force du courant,,final,AI,,,,,,-âputê-
+300,York,moe,,mont1268,-âpuku-,C-I:1,,,,,,force du courant,strength (current),final,AI,,,,,,-âputê-
 301,York,moe,,mont1268,atim-,C-I:1,,,,,,en sens inverse,,initial,,,,,,,,,,,,,,atim-i-škâ-,,,V,AI,s'éloigne en canot,,FY2010;0060,atim-i-pali-,,,V,AI,"s'éloigne au vol, en embarcation, aɛ moteur, à la nage sous l'eau",,Fy2010;0064,atim-api-,,,V,AI,être assis le dos tourné,,FY2010;0069
-302,York,moe,,mont1268,-ay-,C-I:1,,,,,,en franchissant,,final,TI,,,,,,,,,,,,,šâk-âškw-ay-,,,V,TI,sortir du bois,,FY2010;0073,nâtakâm-essek-ay-,,,V,TI,"se diriger de la savane, de la tourbière vers la forêt",,FY2010;0073,nimitâw-ey-âwk-ay-,,,V,TI,s'éloigner de la forêt en direction du large en marchant sur le sable,,FY2010;0074
+302,York,moe,,mont1268,-ay-,C-I:1,,,,,,en franchissant,cross (V),final,TI,,,,,,,,,,,,,šâk-âškw-ay-,,,V,TI,sortir du bois,,FY2010;0073,nâtakâm-essek-ay-,,,V,TI,"se diriger de la savane, de la tourbière vers la forêt",,FY2010;0073,nimitâw-ey-âwk-ay-,,,V,TI,s'éloigner de la forêt en direction du large en marchant sur le sable,,FY2010;0074
 303,York,moe,,mont1268,-šec-,C-I:1,,,,,,escarpement,,medial
-304,York,moe,,mont1268,-pali-,C-I:1,,,,,,mouvement continue,,final,AI
-305,York,moe,,mont1268,-pali-,C-I:1,,,,,,mouvement continue,,final,II
+304,York,moe,,mont1268,-pali-,C-I:1,,,,,,mouvement continue,"continuous, motion, movement",final,AI
+305,York,moe,,mont1268,-pali-,C-I:1,,,,,,mouvement continue,"continuous, motion, movement",final,II
 306,York,moe,,mont1268,atimati-,C-I:1,,,,,,en sense inverse,,initial,,Y
 307,York,moe,,mont1268,-nisse-,C-I:1,,,,,,main,,medial
 308,York,moe,,mont1268,-âmi-,C-I:1,,,,,,caillou,,medial
@@ -312,34 +312,34 @@ ID,Author Surname,ISO code,Dialect,Glottocode,Form (original orthography),Orthog
 325,York,moe,,mont1268,wesâm-,C-I:1,,,,,,trop,too,initial,,,,,,,,,,,,,,wešâm-i-patâ-,,,V,AI,"il va trop loin en courant, en véhicule à roues",,FY2010;0057
 326,York,moe,,mont1268,nûm-,C-I:1,,,,,,"en partie, incomplètement","partially, incompletely",initial,,,,,,,,,,,,,,nûm-i-škw-,,,V,TA,"il n'en revêt qu'une partie, le revêt incomplètement; il franchit une partie de la distance pour le rejoindre",,FY2010;0057
 328,York,moe,,mont1268,-t-,C-I:1,,,,,,avec la bouche,,final,,,,,,,,,,,,,,pet-w-ewe-t-,,,V,TI,"se viendre, approche avec des bruîts de voix",,FY2010;0071
-329,York,moe,,mont1268,-patwâ-,C-I:1,,,,,,"en courant, en véhicule à roues",,final,AI
-330,York,moe,,mont1268,-kâši-,C-I:1,,,,,,à pied dans l'eau,,final,AI,,,,,,,,,,,,,âšû-kǎši-tatâ-,,,V,AI,emporte qqch d l'autre coté du cours d'eau à pied,,FY2010;0062
-331,York,moe,,mont1268,-škâ-,C-I:1,,,,,,"en canot, à la nage",,final,AI,,,,,,,,,,,,,atim-i-škâ-,,,V,AI,s'éloigne en canot,,FY2010;0060
-332,York,moe,,mont1268,-tâpe-,C-I:1,,,,,,en traînant,,final,AI
-333,York,moe,,mont1268,-tâcimu-,C-I:1,,,,,,en se traînant (reflexif),,final,AI
-334,York,moe,,mont1268,-aštâ-,C-I:1,,,,,,en faisant du portage,,final,AI,,,,,,,,,,,,,kušp-âšku-štâ-,,,V,AI,il entre dans la forêt en faisant du portage,,FY2010;0060,,mây-šku-štâ-,,V,AI,faire du portage vers l'aval sur la glace,,FY2010;0073
-335,York,moe,,mont1268,-cime-,C-I:1,,,,,,en voyageant,,final,AI
-336,York,moe,,mont1268,-tišimu-,C-I:1,,,,,,en fuyant,,final,AI,,,,,,,,,,,,,kušp-âšku-tišimu-,,,V,AI,il se sauve dans la forêt,,FY2010;0060
-337,York,moe,,mont1268,-nikâ-,C-I:1,,,,,,avec qqch sur les épaules,,final,AI
-338,York,moe,,mont1268,-tûte-,C-I:1,,,,,,avec qqch sur le dos,,final,AI
-339,York,moe,,mont1268,-tûtam-,C-I:1,,,,,,avec qqch sur le dos,,final,AI,,,,,,,,,,,,,paci-tûtâm-,,,V,TA,il se décharge de qqn qu'il porte sur le dos,,FY2010;0061,âmacwe-tûtâm-,,,V,TA,il gravit la pente en l'emportant sur son dos,,FY2010;0061
-340,York,moe,,mont1268,-tinice-,C-I:1,,,,,,avec un canot sur le dos,,final,AI
-341,York,moe,,mont1268,-tatâ-,C-I:1,,,,,,en portant qqch./qqn. dans les bras,,final,AI,,,,,,,-tay-,,,,,,âmacwe-tatâ-,,,V,AI,il gravit une pente en emportant qqch dans les bras,,FY2010;0062,âšû-kǎši-tatâ-,,,V,AI,emporte qqch d l'autre coté du cours d'eau à pied,,FY2010;0062
-342,York,moe,,mont1268,-tay-,C-I:1,,,,,,en portant qqch./qqn. dans les bras,,final,TA,,,,,-tatâ-
-343,York,moe,,mont1268,-ay-,C-I:1,,,,,,avec un coup ou avec un instrument,,final,AI,,,,,,,-w-,-ay-
-344,York,moe,,mont1268,-ay-,C-I:1,,,,,,"sur l'eau (en canot, à la nage), au vol out à pied",,final,TI,,,,,-ay-,,-w-
-346,York,moe,,mont1268,-w-,C-I:1,,,,,,"sur l'eau (en canot, à la nage), au vol out à pied",,final,TA,,,,,-ay-,,,-ay-
+329,York,moe,,mont1268,-patwâ-,C-I:1,,,,,,"en courant, en véhicule à roues","run, vehicle (wheeled), INSTRUMENT, MANNER",final,AI
+330,York,moe,,mont1268,-kâši-,C-I:1,,,,,,à pied dans l'eau,"in water, on foot",final,AI,,,,,,,,,,,,,âšû-kǎši-tatâ-,,,V,AI,emporte qqch d l'autre coté du cours d'eau à pied,,FY2010;0062
+331,York,moe,,mont1268,-škâ-,C-I:1,,,,,,"en canot, à la nage","canoe (V), swim",final,AI,,,,,,,,,,,,,atim-i-škâ-,,,V,AI,s'éloigne en canot,,FY2010;0060
+332,York,moe,,mont1268,-tâpe-,C-I:1,,,,,,en traînant,"drag, haul, pull",final,AI
+333,York,moe,,mont1268,-tâcimu-,C-I:1,,,,,,en se traînant (reflexif),"drag, REFLEXIVE",final,AI
+334,York,moe,,mont1268,-aštâ-,C-I:1,,,,,,en faisant du portage,"portage, MANNER",final,AI,,,,,,,,,,,,,kušp-âšku-štâ-,,,V,AI,il entre dans la forêt en faisant du portage,,FY2010;0060,,mây-šku-štâ-,,V,AI,faire du portage vers l'aval sur la glace,,FY2010;0073
+335,York,moe,,mont1268,-cime-,C-I:1,,,,,,en voyageant,"travel, MANNER",final,AI
+336,York,moe,,mont1268,-tišimu-,C-I:1,,,,,,en fuyant,flee,final,AI,,,,,,,,,,,,,kušp-âšku-tišimu-,,,V,AI,il se sauve dans la forêt,,FY2010;0060
+337,York,moe,,mont1268,-nikâ-,C-I:1,,,,,,avec qqch sur les épaules,on (shoulder),final,AI
+338,York,moe,,mont1268,-tûte-,C-I:1,,,,,,avec qqch sur le dos,on (back),final,AI
+339,York,moe,,mont1268,-tûtam-,C-I:1,,,,,,avec qqch sur le dos,on (back),final,AI,,,,,,,,,,,,,paci-tûtâm-,,,V,TA,il se décharge de qqn qu'il porte sur le dos,,FY2010;0061,âmacwe-tûtâm-,,,V,TA,il gravit la pente en l'emportant sur son dos,,FY2010;0061
+340,York,moe,,mont1268,-tinice-,C-I:1,,,,,,avec un canot sur le dos,with (canoe on back),final,AI
+341,York,moe,,mont1268,-tatâ-,C-I:1,,,,,,en portant qqch./qqn. dans les bras,carry (in arms),final,AI,,,,,,,-tay-,,,,,,âmacwe-tatâ-,,,V,AI,il gravit une pente en emportant qqch dans les bras,,FY2010;0062,âšû-kǎši-tatâ-,,,V,AI,emporte qqch d l'autre coté du cours d'eau à pied,,FY2010;0062
+342,York,moe,,mont1268,-tay-,C-I:1,,,,,,en portant qqch./qqn. dans les bras,carry (in arms),final,TA,,,,,-tatâ-
+343,York,moe,,mont1268,-ay-,C-I:1,,,,,,avec un coup ou avec un instrument,"blow (N), INSTRUMENT",final,AI,,,,,,,-w-,-ay-
+344,York,moe,,mont1268,-ay-,C-I:1,,,,,,"sur l'eau (en canot, à la nage), au vol out à pied","canoe, in air, on foot, on water, swim",final,TI,,,,,-ay-,,-w-
+346,York,moe,,mont1268,-w-,C-I:1,,,,,,"sur l'eau (en canot, à la nage), au vol out à pied","canoe, in air, on foot, on water, swim",final,TA,,,,,-ay-,,,-ay-
 348,York,moe,,mont1268,-šin-,C-I:1,,,,,,"au contact, d'un objet, d'une surface; couché, en tombant, en se heurtant au passage, à pied",,final,AI,,,,,,-tin-,,,,,,,pašt-âpec-i-šin-,,,V,,être étendu en travers d'un objet long et vertical,,FY2010;0064,âštanitâci-šin-,,,V,AI,s'approcher couché,,FY2010;0064,naškwe-šin-,,,V,AI,"effleurer un objet en tombant, en se frappant, au passage",,FY2010;0065,âmacwe-šk-,,,V,TI,gravir la pente à pied,,FY2010;0063
 349,York,moe,,mont1268,-tin-,C-I:1,,,,,,"au contact, d'un objet, d'une surface; couché, en tombant, en se heurtant au passage, à pied",,final,II,,,,,-šin-
 352,York,moe,,mont1268,-šk-,C-I:1,,,,,,"avec le corps, les pieds, à pied",,final,,,,,,,,,,,,,,peti-pe-šk-,,,V,TI,se viendre à pied en apportant à boire,,FY2010;0072,natay-šk-,,,V,TI,aller à pied en direction de l'amont,,FY2010;0065
 356,York,moe,,mont1268,nat-,C-I:1,,,,,,vers l'amont,upstream,initial
 357,York,moe,,mont1268,-ewe-,C-I:1,,,,,,bruit,,medial,,,,,,,,,,,,,,naškwe-šin-,,,V,AI,"effleurer un objet en tombant, en se frappant, au passage",,FY2010;0065
-358,York,moe,,mont1268,-ci-,C-I:1,,,,,,"par le froid, le gel",,final,AI,,,,,,-tin-
-359,York,moe,,mont1268,-tin-,C-I:1,,,,,,"par le froid, le gel",,final,II,,,,,-ci-
-360,York,moe,,mont1268,-âpas-,C-I:1,,,,,,"par la chaleur, en brûlant",,final,AI,,,,,,-âpa-,,,,,,,pet-i-kate-,,,V,II,"le feu approche, se propage par ici",,FY2010;0067,ûlwi-ti-kašu-,,,V,AI,sortir à cause de la chaleur,,FY2010;0067
-361,York,moe,,mont1268,-âpa-,C-I:1,,,,,,"par la chaleur, en brûlant",,final,II,,,,,-âpas-
-362,York,moe,,mont1268,-âsu-,C-I:1,,,,,,avec/par le vent,,final,AI,,,,,,-âstin-,,,,,,,pâšk-a-tâwk-âšu-,,,V,AI,être complètement déterré par le vent,,FY2010;0066,wemâ-y-âšu-,,,V,AI,être emporté au-delà d'un point par le vent,,FY2010;0066
-363,York,moe,,mont1268,-âstin-,C-I:1,,,,,,avec/par le vent,,final,II,,,,,-âsu-,,,,,,,,pît-âkune-y-âštan-,,,V,II,la neige pénètre avec le vent,,FY2010;0071
+358,York,moe,,mont1268,-ci-,C-I:1,,,,,,"par le froid, le gel","cold, frost, MANNER",final,AI,,,,,,-tin-
+359,York,moe,,mont1268,-tin-,C-I:1,,,,,,"par le froid, le gel","cold, frost, MANNER",final,II,,,,,-ci-
+360,York,moe,,mont1268,-âpas-,C-I:1,,,,,,"par la chaleur, en brûlant","burning, heat, MANNER",final,AI,,,,,,-âpa-,,,,,,,pet-i-kate-,,,V,II,"le feu approche, se propage par ici",,FY2010;0067,ûlwi-ti-kašu-,,,V,AI,sortir à cause de la chaleur,,FY2010;0067
+361,York,moe,,mont1268,-âpa-,C-I:1,,,,,,"par la chaleur, en brûlant","burning, heat, MANNER",final,II,,,,,-âpas-
+362,York,moe,,mont1268,-âsu-,C-I:1,,,,,,avec/par le vent,"wind (N), MANNER",final,AI,,,,,,-âstin-,,,,,,,pâšk-a-tâwk-âšu-,,,V,AI,être complètement déterré par le vent,,FY2010;0066,wemâ-y-âšu-,,,V,AI,être emporté au-delà d'un point par le vent,,FY2010;0066
+363,York,moe,,mont1268,-âstin-,C-I:1,,,,,,avec/par le vent,"wind (N), MANNER",final,II,,,,,-âsu-,,,,,,,,pît-âkune-y-âštan-,,,V,II,la neige pénètre avec le vent,,FY2010;0071
 367,York,moe,,mont1268,-pit-,C-I:1,,,,,,signifie que l'action décrite dans l'initiale est faite en tirant quelque chose ou avec des mouvements brusques et rapides,,final,,,,,,,,,,,,,,picite-pit-,,,V,TI,faire de la poussière en courant,,FY2010;0070
 368,York,moe,,mont1268,-n-,C-I:1,,,,,,"réfère à une action effectuée à l'aide des mains ou, par extension, à l'aide des pattes pour les animaux dans des verbs de mouvement libre",,final,,,,,,,,,,,,,,mwešt-na-,,,V,TI,arriver trop tard pour avoir qqch,,FY2010;0071
 369,York,moe,,mont1268,-m-,C-I:1,,,,,,"en parlant, avec la voix",,final

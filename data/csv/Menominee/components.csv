@@ -7,13 +7,13 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 6,Goddard,IG1980,0144,mez,,meno1252,-ahkonɛ·-,MN:1,,,,*-eθe·-,,blaze,blaze,final,II,,,,,,,,,,,,,,,,,,,,,,,,"Not explicit that it's an II final, but the PA source is.",,MAM
 7,Bloomfield,LB1927b,0401,mez,,meno1252,-ak-,MN:4,,,,,,NG,NG,postmedial
 8,Goddard,IG1965,0212,mez,,meno1252,-amami,MN:2,,,,,,suffer pain,suffer pain,final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-9,Bloomfield,LB1924,0343,mez,,meno1252,-äniht,MN:6,,,,,,think of inanimate thing,think of inanimate thing,final,TI
+9,Bloomfield,LB1924,0343,mez,,meno1252,-äniht,MN:6,,,,,,think of inanimate thing,think of,final,TI
 10,Bloomfield,LB1927b,0398,mez,,meno1252,-ātaʔnōhkä-,MN:4,,,,,,NG,NG,final
 11,Bloomfield,LB1927b,0398,mez,,meno1252,-aʔnōhkä-,MN:4,,,,,,NG,,final
 12,Goddard,IG1965,0214,mez,,meno1252,-čya·N-,MN:2,,,,*-čya·θ-,,nose,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 13,Bloomfield,LB1924,0341,mez,,meno1252,-ehk-,MN:6,,,,,,by foot or body-movement,,final,,,,,,,,,,-eck-,,,,,,,,,,,,,,,does not say what type of final (from other sources: TI)
 14,Bloomfield,LB1925a,0225,mez,,meno1252,-etsī-,MN:3,,,,,,"belly, body",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-15,Goddard,IG1980,0144,mez,,meno1252,-ɛnɛ·-,MN:1,,,,*-eθe·-,,blaze ,,final,II,,,,,,,,,,,,,,,,,,,,,,,,"Not explicit that it's an II final, but the PA source is.",,MAM
+15,Goddard,IG1980,0144,mez,,meno1252,-ɛnɛ·-,MN:1,,,,*-eθe·-,,blaze ,blaze,final,II,,,,,,,,,,,,,,,,,,,,,,,,"Not explicit that it's an II final, but the PA source is.",,MAM
 16,Goddard,IG1965,0218,mez,,meno1252,-htawak-,MN:2,,,,*-htawak(ay)i,,ear,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 17,Goddard,IG1965,0215,mez,,meno1252,-ka·powe-,MN:2,,,,*-ka·pawi-,,stand,,final,AI,,,,,,-ka·powe-,,,,,,,,,,,,,,,,,,,,MAM
 18,Goddard,IG1965,0215,mez,,meno1252,-ka·powe-,MN:2,,,,*-ka·pawi-,,stand,,final,II,,,,,-ka·powe-,,,,,,,,,,,,,,,,,,,,,MAM
@@ -22,7 +22,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 21,Bloomfield,LB1925b,0151,mez,,meno1252,-nehtsī-,MN:4,,,,,,hand,,medial
 22,Bloomfield,LB1927b,0401,mez,,meno1252,-neniw-,MN:4,,,,,,man,,final
 23,Haas,MH1967a,0063,mez,,meno1252,-oʔnw-,MN:2,,,,,,NG,,final,,,ABSTR
-24,Bloomfield,LB1925a,0224,mez,,meno1252,-pw-,MN:3,,,,,,"bite, eat",,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+24,Bloomfield,LB1925a,0224,mez,,meno1252,-pw-,MN:3,,,,,,"bite, eat","bite, eat",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 25,Hockett,CH1981,"0079,0080,0081,0083",mez,,meno1252,-wɛ̄p-,MN:5,,,,,,"throw, fling",,medial
 26,Bloomfield,LB1927b,0399,mez,,meno1252,*-ākamy-,MN:4,,,,,,"water, liquid",,medial
 27,Goddard,IG1965,0214,mez,,meno1252,a·čemi-,MN:2,,,,*a·t-,,narrate,narrate,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM

@@ -4,29 +4,29 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 35,Goddard,IG1990a,0466,umu,,muns1251,,D-M:1,,-a·ntǝp-,,*-(a·)ntep-,,head,,medial,,,,,,,,,,,,,,ni·š-a·ntǝp-a·-,V,AI,have two heads,,IG1990a;0466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 4,Goddard,IG1990a,0456,umu,,muns1251,,D-M:1,,-a·wi·kan,,,,lower back,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 7,Goddard,IG1990a,0456,umu,,muns1251,,D-M:1,,-ah-,,,,NG,,final,TI1a,,,,,,,,,,,,,mo·n-ah-,V,TI1a,dig (inan.) up,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-29,Goddard,IG1990a,0464,umu,,muns1251,,D-M:1,,-apo·ši·š-,,,,cat,,final,N,,,,,,,,,,,,,la·we·w-apo·ši·š-,N,,wildcat,,IG1990a;0464,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,|po·ši·š-| pó·ši·š 'cat',,,MAM
-21,Goddard,IG1990a,0464,umu,,muns1251,,D-M:1,,-asǝn-,,,,stone,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,ǎsə́n 'stone',,,MAM
+29,Goddard,IG1990a,0464,umu,,muns1251,,D-M:1,,-apo·ši·š-,,,,cat,cat,final,N,,,,,,,,,,,,,la·we·w-apo·ši·š-,N,,wildcat,,IG1990a;0464,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,|po·ši·š-| pó·ši·š 'cat',,,MAM
+21,Goddard,IG1990a,0464,umu,,muns1251,,D-M:1,,-asǝn-,,,,stone,stone,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,ǎsə́n 'stone',,,MAM
 19,Goddard,IG1990a,0462,umu,,muns1251,,D-M:1,,-at-,,,,NG,,final,II,,,,,-ǝsi·-,,,,,,,,kwǝnahkw-at-,V,II,be tall,,IG1990a;0462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 10,Goddard,IG1990a,"0456,0464,0467",umu,,muns1251,,D-M:1,,-e·-,,,,NG,,final,AI,,,,,,,,,,,,,mo·nah-ihpǝn-e·-,V,AI,dig potatoes,,IG1990a;0456,,,nataw-ǝko·y-e·-,V,AI,look for cows,,,,IG1990a;0464,nataw-ehnayo·nkǝs-e·-,V,AI,look for horses,,IG1990a;0464,,,e·š-ǝnaxk-e·-,V,AI,stick (one's own) arm through,,IG1990a;0467,,,,,,,,MAM
 31,Goddard,IG1990a,0464,umu,,muns1251,,D-M:1,,-ehnayo·nkǝs-,,,,horse,,final,N,,,,,,,,,,,,,mǝxǝw-ehnayo·nkǝs-,N,,old horse,,IG1990a;0464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 32,Goddard,IG1990a,0464,umu,,muns1251,,D-M:1,,-ehnayo·nkǝs-,,,,horse,,medial,,,,,,,,,,,,,,nataw-ehnayo·nkǝs-e·-,V,AI,look for horses,,IG1990a;0464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-44,Goddard,IG1990a,0469,umu,,muns1251,,D-M:1,,-ǝčas-,,*-ečas-,,"burn, heat",,final,TI1b,,,,,,,,,,,,,nǝsǝk-ǝčas-,V,TI1b,blacken it by burning,,IG1990a;0469,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,medial -ǝče·- 'compact object' + TI1b final -ǝs- 'act on by heat',,,MAM
+44,Goddard,IG1990a,0469,umu,,muns1251,,D-M:1,,-ǝčas-,,*-ečas-,,"burn, heat","burn, heat",final,TI1b,,,,,,,,,,,,,nǝsǝk-ǝčas-,V,TI1b,blacken it by burning,,IG1990a;0469,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,medial -ǝče·- 'compact object' + TI1b final -ǝs- 'act on by heat',,,MAM
 45,Goddard,IG1990a,0469,umu,,muns1251,,D-M:1,,-ǝče·-,,,,compact object,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-ǝčas- TI1b final 'burn, heat'",,,,,,,MAM
-25,Goddard,IG1990a,0464,umu,,muns1251,,D-M:1,,-ǝko·(wǝ)y-,,,,cow,,final,N,,,,,,,,,,,,,mǝxǝw-ǝko·wǝy-,N,,old cow,,IG1990a;0464,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"|ko·wǝy-|, |ko·y-| 'cow' (loanwords from Dutch)",,,MAM
+25,Goddard,IG1990a,0464,umu,,muns1251,,D-M:1,,-ǝko·(wǝ)y-,,,,cow,cow,final,N,,,,,,,,,,,,,mǝxǝw-ǝko·wǝy-,N,,old cow,,IG1990a;0464,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"|ko·wǝy-|, |ko·y-| 'cow' (loanwords from Dutch)",,,MAM
 26,Goddard,IG1990a,0464,umu,,muns1251,,D-M:1,,-ǝko·y-,,,,cow,,medial,,,,,,,,,,,,,,nataw-ǝko·y-e·-,V,AI,look for cows,,IG1990a;0464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-11,Goddard,IG1990a,0461,umu,,muns1251,,D-M:1,,-ǝla·n,,,,rain,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-3,Goddard,IG1990a,0456,umu,,muns1251,,D-M:1,,-ǝn-,,,,"act on, render (thus) by hand",,final,TI1b,,,,,,,,,,,,,wihka·t-ǝn-,V,TI1b,braid it,,IG1990a;0455,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+11,Goddard,IG1990a,0461,umu,,muns1251,,D-M:1,,-ǝla·n,,,,rain,rain (V),final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+3,Goddard,IG1990a,0456,umu,,muns1251,,D-M:1,,-ǝn-,,,,"act on, render (thus) by hand","render, CAUSATIVE, MANNER",final,TI1b,,,,,,,,,,,,,wihka·t-ǝn-,V,TI1b,braid it,,IG1990a;0455,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 39,Goddard,IG1990a,0467,umu,,muns1251,,D-M:1,,-ǝnaxk-,,,,arm,,medial,,,,,,,,,,-i·naxke·-,,,,e·š-ǝnaxk-e·-,V,AI,stick (one's own) arm through,,IG1990a;0467,,,kwakwa·n-ǝnaxk-a·-,V,AI,have long arms,,IG1990a;0467,,,kǝt-i·naxke·-xi·n,V,AI,(one's arm) be sticking out,,IG1990a;0467,,,,,,,,,,,,,,,,MAM
-46,Goddard,IG1990a,0469,umu,,muns1251,,D-M:1,,-ǝs-,,,,act on by heat,,final,TI1b,,,,,,,,,,,,,nǝsǝk-ǝs-,V,TI1b,dye it black,,IG1990a;0469,,,,,,,,,,,,,,,,,,,,,,,,,"-ǝčas- TI1b final 'burn, heat'",,,,,,,MAM
+46,Goddard,IG1990a,0469,umu,,muns1251,,D-M:1,,-ǝs-,,,,act on by heat,"heat, MANNER",final,TI1b,,,,,,,,,,,,,nǝsǝk-ǝs-,V,TI1b,dye it black,,IG1990a;0469,,,,,,,,,,,,,,,,,,,,,,,,,"-ǝčas- TI1b final 'burn, heat'",,,,,,,MAM
 18,Goddard,IG1990a,0462,umu,,muns1251,,D-M:1,,-ǝsi·-,,,,NG,,final,AI,,,,,,-at-,,,,,,,kwǝnahkw-ǝsi·-,V,AI,be tall,,IG1990a;0462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 33,Goddard,IG1990a,0464,umu,,muns1251,,D-M:1,,-i·-lǝnǝw-,,,,man,,final,N,,,,,,,,,,,,,wǝsk-i·-lǝnǝw-,N,,young man,,IG1990a;0464,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,|ǝlǝnǝw-| lə́nəw 'man',,,MAM
 47,Goddard,IG1990a,0473,umu,,muns1251,,D-M:1,,-i·kan,,,,NG,,final,N,,,Y,TI1b,,,,,,,,,paxkǝš-i·kan,N,,knife,,IG1990a;0473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 13,Goddard,IG1990a,0461,umu,,muns1251,,D-M:1,,-i·ma·kwǝsi·-,,,,smell,,final,AI,,,,,,,,,,,,,mǎči·má·kwǝsi·-,V,AI,smell bad,,IG1990a;0461,ška·kwsi·má·kwǝsi·-,,,V,AI,smell of skunk,,IG1990a;0461,,,,,,,,,,,,,,,,,,,,,,,,MAM
-6,Goddard,IG1990a,0456,umu,,muns1251,,D-M:1,,-i·ne·-,,,,"be diseased, afflicted",,final,AI,,,,,,,,,,,,,wa·wi·kan-i·ne·-,V,AI,have a backache,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+6,Goddard,IG1990a,0456,umu,,muns1251,,D-M:1,,-i·ne·-,,,,"be diseased, afflicted","afflicted, diseased",final,AI,,,,,,,,,,,,,wa·wi·kan-i·ne·-,V,AI,have a backache,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 23,Goddard,IG1990a,0464,umu,,muns1251,,D-M:1,,-i·takwax-,,,,turtle,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,|takwax| 'turtle',,,MAM
 1,Goddard,IG1990a,0455,umu,,muns1251,,D-M:1,,-ihka·t,,,,leg,leg,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 9,Goddard,IG1990a,0456,umu,,muns1251,,D-M:1,,-ihpǝn-,,,,potato,,medial,,,,,,,,,,,,,,mo·nah-ihpǝn-e·-,V,AI,dig potatoes,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-42,Goddard,IG1990a,0467,umu,,muns1251,,D-M:1,,-xi·n,,,,"lie, be",,final,AI,,,,,,,,,,,,,kǝt-i·naxke·-xi·n,V,AI,(one's arm) be sticking out,,IG1990a;0467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+42,Goddard,IG1990a,0467,umu,,muns1251,,D-M:1,,-xi·n,,,,"lie, be","be, lie (position)",final,AI,,,,,,,,,,,,,kǝt-i·naxke·-xi·n,V,AI,(one's arm) be sticking out,,IG1990a;0467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 49,Goddard,IG1971,0141,umu,,muns1251,,D-M:2,,/-áhkamē/,,*wa·xham-,,"day, sky",,final
 38,Goddard,IG1990a,0467,umu,,muns1251,,D-M:1,,e·š-,,,,(go) through,go through,initial,,,,,,,,,,,,,,e·š-ǝnaxk-e·-,V,AI,stick (one's own) arm through,,IG1990a;0467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 41,Goddard,IG1990a,0467,umu,,muns1251,,D-M:1,,kǝt-,,,,(go) out,go out,initial,,,,,,,,,,,,,,kǝt-i·naxke·-xi·n,V,AI,(one's arm) be sticking out,,IG1990a;0467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM

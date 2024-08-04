@@ -13,7 +13,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 12,Bloomfield,LB1925b,0135,,,,*-ä-,PCA:1,,,,,,NG,,final,AI
 13,Bloomfield,LB1925b,0137,,,,*-ä-,PCA:1,,,,,,NG,,postinitial
 14,Haas,MH1958b,0253,,,,*-a·htekw-,PCA:2,,,,,,"tree, wood",,medial
-15,Haas,MH1958b,0248,,,,*-a·pe·w-,PCA:2,,,,,,male,,final,N,,,Y
+15,Haas,MH1958b,0248,,,,*-a·pe·w-,PCA:2,,,,,,male,"male, man",final,N,,,Y
 16,Haas,MH1958c,0167,,,,*-a·pit-,PCA:2,,,,,,tooth,,medial
 17,Bloomfield,LB1925b,"0142, 0149",,,,*-a'θemw-,PCA:1,,,,,,dog,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""non-initial element"""
 18,Bloomfield,LB1925b,0132,,,,*-ah-,PCA:1,,,,,,act by tool on inanimate object,,final,TI
@@ -58,7 +58,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 57,Bloomfield,LB1925b,0137,,,,*-ē-hk-aw-,PCA:1,,,,,,"frequent, annoy, injure an animate object by foot or body movement",,final,TA
 58,Haas,MH1958b,0245,,,,*-e·hθ-,PCA:2,,,,,,father
 59,Bloomfield,LB1925b,0137,,,,*-eck-aw-,PCA:1,,,,,,foot or body movement on animate object,,final,TA
-60,Bloomfield,LB1925b,0151,,,,*-ecw-,PCA:1,,,,,,cut ,,final,TA
+60,Bloomfield,LB1925b,0151,,,,*-ecw-,PCA:1,,,,,,cut ,cut,final,TA
 61,Bloomfield,LB1925b,0143,,,,*-ehk-,PCA:1,,,,,,"by foot, go",,final,unk.
 62,Bloomfield,LB1925b,0137,,,,*-eht-aw-,PCA:1,,,,,,hear animate object,,final,TA
 63,Bloomfield,LB1925b,"0137, 0139, 0151",,,,*-ekw-,PCA:1,,,,,,undergoing ,,final,INTR.,,,Y,TRANS
@@ -71,11 +71,11 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 70,Bloomfield,LB1925b,"0132, 0140",,,,*-esi-,PCA:1,,,,,,NG,,final,AI,,ABSTR
 71,Haas,MH1958b,0246,,,,*-ešk-,PCA:2,,,,,,(action) by foot,,final
 72,Bloomfield,LB1927b,0399,,,,*-etcyä-,PCA:1,,,,,,"belly, small, usually round, body",,medial
-73,Bloomfield,LB1925b,"0136,0137",,,,*-etu-,PCA:1,,,,*-etwe-,,reciprocal,,final,AI,,,,,,,,,*-etī-
+73,Bloomfield,LB1925b,"0136,0137",,,,*-etu-,PCA:1,,,,*-etwe-,,reciprocal,RECIPROCAL,final,AI,,,,,,,,,*-etī-
 74,Bloomfield,LB1925b,0142,,,,*-ēwi,PCA:1,,,,,,NG,,final,AI,,,Y,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""forming denominative verbs"""
 75,Bloomfield,LB1927b,0400,,,,*-exkwäw-,PCA:1,,,,,,woman,,medial
 76,Bloomfield,LB1927b,0400,,,,*-exkwäwä-,PCA:1,,,,,,woman,,medial,INTR.
-77,Bloomfield,LB1925b,0133,,,,*-h-,PCA:1,,,,,,causative,,final,TA,,,Y,AI
+77,Bloomfield,LB1925b,0133,,,,*-h-,PCA:1,,,,,,causative,CAUSATIVE,final,TA,,,Y,AI
 78,Bloomfield,LB1925b,0145,,,,*-h-,PCA:1,,,,,,NG,,final,TA
 79,Bloomfield,LB1925b,0141,,,,*-hc-im-,PCA:1,,,,,,lay an animate object,,final,TA
 80,Bloomfield,LB1927b,0395,,,,*-hc-imu-,PCA:1,,,,,,"fall, lie",,final,AI
@@ -95,10 +95,10 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 94,Bloomfield,LB1925b,0144,,,,*-ī-,PCA:1,,,,,,NG,,prefinal
 95,Haas,MH1958b,0237,,,,*-i·n-,PCA:2,,,,,,name,,medial
 96,Haas,MH1958c,0167,,,,*-i·pit,PCA:2,,,,,,tooth,,medial,Dep
-97,Haas,MH1958b,0247,,,,*-i·ši,PCA:2,,,,,,head,,final,N
+97,Haas,MH1958b,0247,,,,*-i·ši,PCA:2,,,,,,head,head,final,N
 98,Haas,MH1958b,0247,,,,*-i·θ-,PCA:2,,,,,,head,,medial
 99,Bloomfield,LB1925b,"0136, 0153",,,,*-in-,PCA:1,,,,,,NG,,final,AI
-100,Haas,MH1958b,0248,,,,*-iti,PCA:2,,,,,,reciprocal,,final,AI
+100,Haas,MH1958b,0248,,,,*-iti,PCA:2,,,,,,reciprocal,RECIPROCAL,final,AI
 101,Bloomfield,LB1925b,0141,,,,*-iw-,PCA:1,,,,,,NG,,final,unk.
 102,Bloomfield,LB1927b,0395,,,,*-k-,PCA:1,,,,,,NG,,prefinal
 103,Bloomfield,LB1925b,0152,,,,*-kä-,PCA:1,,,,,,action on things,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""deverbative suffix"""
@@ -107,12 +107,12 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 106,Bloomfield,LB1925b,0141,,,,*-kāpawi-,PCA:1,,,,,,stand,,final,AI
 107,Bloomfield,LB1925b,0141,,,,*-kātä-,PCA:1,,,,,,leg,,medial
 108,Bloomfield,LB1925b,0144,,,,*-kātä-,PCA:1,,,,,,undergoing ,,final,II
-109,Haas,MH1958b,0246,,,,*-l,PCA:2,,,,,,transitivizing,,final,TRANS
+109,Haas,MH1958b,0246,,,,*-l,PCA:2,,,,,,transitivizing,TRANSITIVE,final,TRANS
 110,Bloomfield,LB1927b,0397,,,,*-leniw-,PCA:1,,,,,,NG,,final
 111,Bloomfield,LB1925b,0134,,,,*-lenιw-,PCA:1,,,,,,man,,medial
 112,Bloomfield,LB1925b,0133,,,,*-m-,PCA:1,,,,,,action by speech or thought,,final,TA
 113,Bloomfield,LB1925b,0150,,,,*-m-u-,PCA:1,,,,,,by speech or thought ,,postradical,AI
-114,Bloomfield,LB1927b,"0395,0396",,,,*-min-,PCA:1,,,,,,"grain, berry, fruit",,final,N,,,B
+114,Bloomfield,LB1927b,"0395,0396",,,,*-min-,PCA:1,,,,,,"grain, berry, fruit","berry, fruit, grain",final,N,,,B
 115,Bloomfield,LB1925b,0139,,,,*-myā-,PCA:1,,,,,,smell,,medial
 116,Bloomfield,LB1925b,0144,,,,*-näh-,PCA:1,,,,,,seek ,,final,TI
 117,Bloomfield,LB1925b,0148,,,,*-nähw-,PCA:1,,,,,,seek,,final,TA
@@ -136,7 +136,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 135,Haas,MH1958b,0248,,,,*-to·n-,PCA:2,,,,,,mouth,,medial
 136,Bloomfield,LB1925b,0151,,,,*-u-,PCA:1,,,,,,NG,,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""derivative with meaning much like that of Indo-European middle voice"""
 137,Bloomfield,LB1925b,0132,,,,*-uhθä-,PCA:1,,,,,,walk,,final,unk.
-138,Bloomfield,LB1927b,0396,,,,*-usw-,PCA:1,,,,,,tailed animal,,final,N
+138,Bloomfield,LB1927b,0396,,,,*-usw-,PCA:1,,,,,,tailed animal,animal (with tail),final,N
 139,Bloomfield,LB1927b,0395,,,,*-w-,PCA:1,,,,,,agentive,,final
 140,Bloomfield,LB1927b,0398,,,,*-w-,PCA:1,,,,,,NG,,final,N
 141,Bloomfield,LB1925b,0140,,,,*-wäwä-,PCA:1,,,,,,noise,,medial
@@ -146,7 +146,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 145,Bloomfield,LB1925b,0135,,,,*-wikān-,PCA:1,,,,,,dwelling ,,medial
 146,Bloomfield,LB1925b,0134,,,,*-xkwäw-,PCA:1,,,,,,woman ,,medial
 147,Bloomfield,LB1925b,0139,,,,*-yā-,PCA:1,,,,,,NG,,final,II
-148,Bloomfield,LB1925b,0144,,,,*-yā-,PCA:1,,,,,,go,,final,AI
+148,Bloomfield,LB1925b,0144,,,,*-yā-,PCA:1,,,,,,go,go,final,AI
 149,Bloomfield,LB1927b,0400,,,,*-ʔcip-,PCA:1,,,,,,duck,,medial
 150,Haas,MH1958b,0244,,,,*-ʔθ-,PCA:2,,,,,,older brother,older brother,initial
 151,Haas,MH1958c,0166,,,,*-θak-,PCA:2,,,,,,penis,,medial

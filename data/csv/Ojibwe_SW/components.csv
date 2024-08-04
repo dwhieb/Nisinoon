@@ -10,7 +10,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 9,Valentine,RV2002,0088,ciw,,chip1241,-kw-e-,OJ:3,,,,,,NG,,medial
 10,Valentine,RV2002,0087,ciw,,chip1241,-ndib-,OJ:3,,,,,,head,,medial
 11,Denny,JPD1977,0131,ciw,,chip1241,ā,OJ:5,,,,,,NG,,final,II,,ABSTR
-12,Denny,JPD1978a,0311,ciw,,chip1241,ā,OJ:5,,,,,,spatial,,final,II,,ABSTR
+12,Denny,JPD1978a,0311,ciw,,chip1241,ā,OJ:5,,,,,,spatial,spatial,final,II,,ABSTR
 13,Denny,JPD1978a,0316,ciw,,chip1241,āciwan,OJ:5,,,,,,stream,,final,unk.,,CONCR
 14,Valentine,RV2002,0106,ciw,,chip1241,agaas-,OJ:3,,,,,,small,small,initial
 15,Denny,JPD1978a,0317,ciw,,chip1241,ahikan ,OJ:5,,,,,,NG,,final,unk.
@@ -28,7 +28,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 27,Denny,JPD1978a,0309,ciw,,chip1241,āpikk,OJ:5,,,,,,mineral solid ,,medial
 28,Denny,JPD1978a,0307,ciw,,chip1241,appakat ,OJ:5,,,,,,NG,,initial
 29,Denny,JPD1978a,0307,ciw,,chip1241,āšk,OJ:5,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'waves'
-30,Denny,JPD1978a,0311,ciw,,chip1241,at,OJ:5,,,,,,stative,,final,II,,ABSTR
+30,Denny,JPD1978a,0311,ciw,,chip1241,at,OJ:5,,,,,,stative,STATE,final,II,,ABSTR
 31,Valentine,RV2002,0096,ciw,,chip1241,ayaapiich-,OJ:3,,,,,,NG,,initial,RR
 32,Valentine,RV2002,0096,ciw,,chip1241,ayindan-,OJ:3,,,,,,in such place,,initial,RR,Y
 33,Valentine,RV2002,0103,ciw,,chip1241,babiizig-,OJ:3,,,,,,curly,curl,initial

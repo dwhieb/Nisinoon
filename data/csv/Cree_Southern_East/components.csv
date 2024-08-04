@@ -1,30 +1,30 @@
 ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
-9,Junker,MOJ2003a,0315,crj,,sout2978,-â,C-SE:1,,,,,,APPL,,final,TA,,,Y,TA,,,,,,,,,,V,TA,(I) look after it for (you),kanaweyihtam-â-,MOJ2003a;0315
-56,Junker,MOJ2003b,0187,crj,,sout2978,-aakun,C-SE:2,,,,,,be like,,final,II
-28,Junker,MOJ2003b,0176,crj,,sout2978,-che-,C-SE:2,,,,,,regular activity,,final,AI
+9,Junker,MOJ2003a,0315,crj,,sout2978,-â,C-SE:1,,,,,,APPL,APPLICATIVE,final,TA,,,Y,TA,,,,,,,,,,V,TA,(I) look after it for (you),kanaweyihtam-â-,MOJ2003a;0315
+56,Junker,MOJ2003b,0187,crj,,sout2978,-aakun,C-SE:2,,,,,,be like,like,final,II
+28,Junker,MOJ2003b,0176,crj,,sout2978,-che-,C-SE:2,,,,,,regular activity,activity (regular),final,AI
 11,Junker,MOJ2003b,0168,crj,,sout2978,-eyi-,C-SE:2,,,,,,by mind,,prefinal
 19,Junker,MOJ2003b,0171,crj,,sout2978,-hchi-,C-SE:2,,,,,,NG,,final,AI
 54,Junker,MOJ2003b,0185,crj,,sout2978,-hchikan,C-SE:2,,,,,,NG,,final,N
 17,Junker,MOJ2003b,0171,crj,,sout2978,-ht-,C-SE:2,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,GVM: -m becomes -h before TI final -t; suspect -ht is one unit
-10,Junker,MOJ2003a,0316,crj,,sout2978,-ih,C-SE:1,,,,,,CAUS,,final,TA,,,Y,TI,,,,,,,,,,V,TA,(I) make it known to (him/her),chischeyihtam-ih-,MOJ2003a;0316
-21,Junker,MOJ2003b,0172,crj,,sout2978,-isu-,C-SE:2,,,,,,reflexive,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,GVM: Not sure if this is a secondary final or an inflectional ending...
-22,Junker,MOJ2003b,0173,crj,,sout2978,-itu-,C-SE:2,,,,,,reciprocal,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,GVM: Not sure if this is a secondary final or an inflectional ending...
+10,Junker,MOJ2003a,0316,crj,,sout2978,-ih,C-SE:1,,,,,,CAUS,CAUSATIVE,final,TA,,,Y,TI,,,,,,,,,,V,TA,(I) make it known to (him/her),chischeyihtam-ih-,MOJ2003a;0316
+21,Junker,MOJ2003b,0172,crj,,sout2978,-isu-,C-SE:2,,,,,,reflexive,REFLEXIVE,final,AI,,,,,,,,,,,,,,,,,,,,,,,,GVM: Not sure if this is a secondary final or an inflectional ending...
+22,Junker,MOJ2003b,0173,crj,,sout2978,-itu-,C-SE:2,,,,,,reciprocal,RECIPROCAL,final,AI,,,,,,,,,,,,,,,,,,,,,,,,GVM: Not sure if this is a secondary final or an inflectional ending...
 27,Junker,MOJ2003b,0176,crj,,sout2978,-kan,C-SE:2,,,,,,NG,,final,N
-58,Armoskaite & Junker,SA_MOJ2017,0003,crj,,sout2978,-kan,C-E:1,,,,,,instrument,,final,N,,,Y,AI/TI,,,,,-kin,,,,,,,,,,,,,,,,,MAM
-13,Junker,MOJ2003b,0170,crj,,sout2978,-m-,C-SE:2,,,,,,"involvement of the face, or the mouth",,final,TA,,,,,,,,,-h-,before TI final -t-,,,,,,,,,,,,,,GVM: -m becomes -h before TI final -t; suspect -ht is one unit
-2,Brittain,JB2003,0033,crj,,sout2978,-mu,C-SE:1,,,,,,talk in manner of,,final,AI,,,,,,,,,,,ninâpeu-mu,,,V,AI,talk like a man,,JB2003;0033,,,,,,"called ""East Cree"" in article; checked with JB that it's SEC",,MAM
+58,Armoskaite & Junker,SA_MOJ2017,0003,crj,,sout2978,-kan,C-E:1,,,,,,instrument,INSTRUMENT,final,N,,,Y,AI/TI,,,,,-kin,,,,,,,,,,,,,,,,,MAM
+13,Junker,MOJ2003b,0170,crj,,sout2978,-m-,C-SE:2,,,,,,"involvement of the face, or the mouth","face, mouth",final,TA,,,,,,,,,-h-,before TI final -t-,,,,,,,,,,,,,,GVM: -m becomes -h before TI final -t; suspect -ht is one unit
+2,Brittain,JB2003,0033,crj,,sout2978,-mu,C-SE:1,,,,,,talk in manner of,"talk, MANNER",final,AI,,,,,,,,,,,ninâpeu-mu,,,V,AI,talk like a man,,JB2003;0033,,,,,,"called ""East Cree"" in article; checked with JB that it's SEC",,MAM
 20,Junker,MOJ2003b,0172,crj,,sout2978,-mu-,C-SE:2,,,,,,NG,,final,AI
-60,Armoskaite & Junker,SA_MOJ2017,0010,crl,,nort1552,-sh,C-E:1,,,,,,diminutive,,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,"Can attach to N or V, does not change category. (Entered separately.)",,MAM
-61,Armoskaite & Junker,SA_MOJ2017,0010,crl,,nort1552,-sh,C-E:1,,,,,,diminutive,,final,V,,,Y,V,,,,,,,,,,,,,,,,,,,,"Can attach to N or V, does not change category. (Entered separately.)",,MAM
-4,Junker,MOJ2000,0003,crj,,sout2978,-shkaau,C-E:1,,,,,,a lot of,,final,II,,,Y,N,,,,,,,,,,,,,,,,,,,,"MOJ doesn't use term ""final""; calls it a quantificational suffix added to a noun. Called ""East Cree"" in article; first footnote makes it clear that it's Southern East Cree."
-59,Armoskaite & Junker,SA_MOJ2017,0003,crj,,sout2978,-suu,C-E:1,,,,,,actor,,final,N,,,Y,AI,,,,,-siu,,,,,,,,,,,,,,,"Attaches to ""independent AI stem""",,MAM
+60,Armoskaite & Junker,SA_MOJ2017,0010,crl,,nort1552,-sh,C-E:1,,,,,,diminutive,DIMINUTIVE,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,"Can attach to N or V, does not change category. (Entered separately.)",,MAM
+61,Armoskaite & Junker,SA_MOJ2017,0010,crl,,nort1552,-sh,C-E:1,,,,,,diminutive,DIMINUTIVE,final,V,,,Y,V,,,,,,,,,,,,,,,,,,,,"Can attach to N or V, does not change category. (Entered separately.)",,MAM
+4,Junker,MOJ2000,0003,crj,,sout2978,-shkaau,C-E:1,,,,,,a lot of,a lot,final,II,,,Y,N,,,,,,,,,,,,,,,,,,,,"MOJ doesn't use term ""final""; calls it a quantificational suffix added to a noun. Called ""East Cree"" in article; first footnote makes it clear that it's Southern East Cree."
+59,Armoskaite & Junker,SA_MOJ2017,0003,crj,,sout2978,-suu,C-E:1,,,,,,actor,"actor, AGENT",final,N,,,Y,AI,,,,,-siu,,,,,,,,,,,,,,,"Attaches to ""independent AI stem""",,MAM
 14,Junker,MOJ2003b,0170,crj,,sout2978,-t-,C-SE:2,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,GVM: -m becomes -h before TI final -t; suspect -ht is one unit
 62,Armoskaite & Junker,SA_MOJ2017,0010,crj,,sout2978,-u,C-E:1,,,,,,NG,,final,AI,,ABSTR,Y,N,,,,,,,,,,,,,,,,,,,,,,MAM
-7,Junker,MOJ2003a,0314,crj,,sout2978,-uw,C-SE:1,,,,,,APPL,,final,TA,,,Y,AI,,,,,,,,,,V,TA,(s/he) cooks meat tender for (him/her),kaschisam-uw-,MOJ2003a;0314
-8,Junker,MOJ2003a,0315,crj,,sout2978,-uw,C-SE:1,,,,,,APPL,,final,TA,,,Y,TA,,,,,,,,,,V,TA,(you) look after it for (me),kanaweyihtam-uw-,MOJ2003a;0315
-26,Junker,MOJ2003b,0176,crj,,sout2978,-uw-,C-SE:2,,,,,,applicative,,final,TA
-3,Junker,MOJ2000,0003,crj,,sout2978,-waau,C-E:1,,,,,,times,,final,PART,,,Y,PART,,,,,,,,,,,,,,,,,,,,"MOJ doesn't use terms ""final"" or ""particle""; calls it a suffix added to a lexical quantifier. Called ""East Cree"" in article; first footnote makes it clear that it's Southern East Cree."
-57,Armoskaite & Junker,SA_MOJ2017,"0002,0003",crj,,sout2978,-win,C-E:1,,,,,,process/result,,final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,"They call it ""abstract"" but do assign it a meaning.",,MAM
+7,Junker,MOJ2003a,0314,crj,,sout2978,-uw,C-SE:1,,,,,,APPL,APPLICATIVE,final,TA,,,Y,AI,,,,,,,,,,V,TA,(s/he) cooks meat tender for (him/her),kaschisam-uw-,MOJ2003a;0314
+8,Junker,MOJ2003a,0315,crj,,sout2978,-uw,C-SE:1,,,,,,APPL,APPLICATIVE,final,TA,,,Y,TA,,,,,,,,,,V,TA,(you) look after it for (me),kanaweyihtam-uw-,MOJ2003a;0315
+26,Junker,MOJ2003b,0176,crj,,sout2978,-uw-,C-SE:2,,,,,,applicative,APPLICATIVE,final,TA
+3,Junker,MOJ2000,0003,crj,,sout2978,-waau,C-E:1,,,,,,times,times,final,PART,,,Y,PART,,,,,,,,,,,,,,,,,,,,"MOJ doesn't use terms ""final"" or ""particle""; calls it a suffix added to a lexical quantifier. Called ""East Cree"" in article; first footnote makes it clear that it's Southern East Cree."
+57,Armoskaite & Junker,SA_MOJ2017,"0002,0003",crj,,sout2978,-win,C-E:1,,,,,,process/result,"process (N), result",final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,"They call it ""abstract"" but do assign it a meaning.",,MAM
 23,Junker,MOJ2003b,0174,crj,,sout2978,Chihti-,C-SE:2,,,,,,be.lazy,lazy,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent; this is called an ""initial component,"" but I'm unclear whether it's an actual initial"
 38,Junker,MOJ2003b,0178,crj,,sout2978,Chiishkwey-,C-SE:2,,,,,,confuse,confuse,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
 43,Junker,MOJ2003b,0181,crj,,sout2978,Chisch-,C-SE:2,,,,,,know,know,initial,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Capitalization is consistent, described as ""initial component"" in preceding paragraph"
