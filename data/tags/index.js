@@ -102,7 +102,7 @@ async function updateSpreadsheet(lang) {
     const tags  = tagsMap.get(gloss)
 
     if (gloss && tags && type === `initial`) {
-      record[cols.tags] = tags.join(`, `)
+      record[cols.tags] = tags.sort().join(`, `)
     }
 
     const row = Object.values(record)
