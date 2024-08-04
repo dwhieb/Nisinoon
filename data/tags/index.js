@@ -8,7 +8,8 @@ import ProgressBar           from 'progress'
 import { readFile }          from 'node:fs/promises'
 import retryRequest          from '../utilities/retryRequest.js'
 
-const csvPath = path.resolve(import.meta.dirname, `tags.csv`)
+const commaRegExp = /,\s*/v
+const csvPath     = path.resolve(import.meta.dirname, `tags.csv`)
 
 const drive = new Drive
 
@@ -36,7 +37,7 @@ async function loadTags() {
       `rawTags`,
       `definition`,
       `type`,
-      `subcategory`,
+      `rawSubcategories`,
     ],
     from:             2,
     relaxColumnCount: true,
@@ -47,7 +48,7 @@ async function loadTags() {
   const map = new Map
 
   for (const {
-    definition, rawTags, subcategory, type,
+    definition, rawTags, rawSubcategories, type,
   } of records) {
 
     if (!rawTags) continue
@@ -58,10 +59,15 @@ async function loadTags() {
     .filter(Boolean)
     .sort()
 
+    const subcategories = rawSubcategories
+    .split(commaRegExp)
+    .map(cat => cat.trim())
+    .filter(Boolean)
+
     if (tags.length) {
       map.set(definition, {
         definition,
-        subcategory,
+        subcategories,
         tags,
         type,
       })
@@ -121,7 +127,12 @@ async function updateSpreadsheet(lang) {
     const type        = record[cols.type]
     const tagsInfo    = tagsMap.get(gloss)
 
-    if (gloss && tagsInfo && tagsInfo.type == type && tagsInfo.subcategory == subcategory) {
+    if (!tagsInfo) continue
+
+    if (
+      tagsInfo.type == type
+      && tagsInfo.subcategories.includes(subcategory)
+    ) {
       record[cols.tags] = tagsInfo.tags.join(`, `)
     }
 
