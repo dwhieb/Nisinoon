@@ -35,6 +35,8 @@ async function loadTags() {
     columns: [
       `rawTags`,
       `definition`,
+      `type`,
+      `subcategory`,
     ],
     from:             2,
     relaxColumnCount: true,
@@ -44,10 +46,27 @@ async function loadTags() {
 
   const map = new Map
 
-  for (const { definition, rawTags } of records) {
+  for (const {
+    definition, rawTags, subcategory, type,
+  } of records) {
+
     if (!rawTags) continue
-    const tags = rawTags.split(`\n`).map(tag => tag.trim()).filter(Boolean)
-    if (tags.length) map.set(definition, tags)
+
+    const tags = rawTags
+    .split(`\n`)
+    .map(tag => tag.trim())
+    .filter(Boolean)
+    .sort()
+
+    if (tags.length) {
+      map.set(definition, {
+        definition,
+        subcategory,
+        tags,
+        type,
+      })
+    }
+
   }
 
   return map
@@ -97,12 +116,13 @@ async function updateSpreadsheet(lang) {
 
   for (const record of records) {
 
-    const gloss = record[cols.gloss]?.trim()
-    const type  = record[cols.type]
-    const tags  = tagsMap.get(gloss)
+    const gloss       = record[cols.gloss]?.trim()
+    const subcategory = record[cols.subcategory]
+    const type        = record[cols.type]
+    const tagsInfo    = tagsMap.get(gloss)
 
-    if (gloss && tags && type === `initial`) {
-      record[cols.tags] = tags.sort().join(`, `)
+    if (gloss && tagsInfo && tagsInfo.type == type && tagsInfo.subcategory == subcategory) {
+      record[cols.tags] = tagsInfo.tags.join(`, `)
     }
 
     const row = Object.values(record)
