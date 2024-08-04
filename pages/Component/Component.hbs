@@ -27,8 +27,8 @@
         <dd>
           {{#if tags }}
             <ul>
-              {{#each tags as |tag| }}
-                <li>{{ tag }}</li>
+              {{#each tags }}
+                <li {{#if grammatical }}class=gl{{/if}}>{{ tag }}</li>
               {{/each}}
             </ul>
           {{else}}
