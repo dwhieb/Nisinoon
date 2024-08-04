@@ -408,6 +408,10 @@ select {
 
 }
 
+.source-glosses {
+  max-inline-size: 15em; /* Just took up too much visual space in the table. Was unaesthetic. */
+}
+
 .stats {
 
   display:               grid;

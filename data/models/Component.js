@@ -3,6 +3,7 @@ import cleanProto    from '../utilities/cleanProto.js'
 import cleanUR       from '../utilities/cleanUR.js'
 import Matches       from './Matches.js'
 import Orthographies from './Orthographies.js'
+import parseTag      from '../utilities/parseTag.js'
 
 const commaRegExp   = /,\s*/v
 const orthographies = new Orthographies
@@ -99,9 +100,9 @@ export default class Component {
       this.tags = tags
       .normalize()
       .split(commaRegExp)
-      .filter(Boolean)
       .map(cleanGloss)
-      .filter(Boolean) // Do this again to catch `NG` cases.
+      .filter(Boolean) // Do this after cleanGloss to catch `NG` cases.
+      .map(parseTag)
     }
 
     // Type

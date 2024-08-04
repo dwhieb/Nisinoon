@@ -3,13 +3,13 @@ import Drive                 from '../Drive.js'
 import Languages             from '../models/Languages.js'
 import { outputFile }        from 'fs-extra/esm'
 import { parse as parseCSV } from 'csv-parse/sync'
+import parseTag              from '../utilities/parseTag.js'
 import path                  from 'node:path'
 import ProgressBar           from 'progress'
 import { readFile }          from 'node:fs/promises'
 import retryRequest          from '../utilities/retryRequest.js'
 
 const commaRegExp       = /,\s*/v
-const grammaticalRegExp = /^([A-Z+\-\(\)]|\s)+$/v
 const csvPath           = path.resolve(import.meta.dirname, `tags.csv`)
 
 const drive = new Drive
@@ -63,10 +63,7 @@ async function loadTags() {
     .split(`\n`)
     .map(tag => tag.trim())
     .filter(Boolean)
-    .map(tag => ({
-      grammatical: grammaticalRegExp.test(tag),
-      tag,
-    }))
+    .map(parseTag)
     .sort((a, b) => {
 
       if (a.grammatical === b.grammatical) {
