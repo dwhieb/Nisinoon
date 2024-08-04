@@ -16,12 +16,14 @@ await drive.initialize()
 
 async function fetchTagsData() {
 
-  const fileId   = `10CSHneFoAMCK7UOj4irC_9FHvr1HeQ_tpi96eJz9MIg`  // Retrieved from URL of spreadsheet.
+  const fileId   = `1Hkw5y9wqUcLboX4NRR_akI1vrztMi8EMdFvya6y5cgM`  // Retrieved from URL of spreadsheet.
   const mimeType = `text/csv`
 
   const { data } = await drive.driveClient.files.export({ fileId, mimeType })
 
   await outputFile(csvPath, data)
+
+  return data
 
 }
 
