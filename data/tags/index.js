@@ -150,7 +150,7 @@ async function updateSpreadsheet(lang) {
       && tagsInfo.type == type
       && tagsInfo.subcategories.includes(subcategory)
     ) {
-      record[cols.tags] = tagsInfo.tags.join(`, `)
+      record[cols.tags] = tagsInfo.tags.map(({ tag }) => tag).join(`, `)
     }
 
     const row = Object.values(record)
