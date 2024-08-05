@@ -83,7 +83,7 @@ describe(`Search`, function() {
       cy.get(`#quick-regex-box`).check()
       cy.get(`#search-box`).type(`e{{}2}`) // This is how you escape the `{` character in the `.type()` command.
       cy.get(`#quick-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 1,968`)
+      cy.get(`.num-results`).should(`include.text`, `of 1,997`)
     })
 
     it(`Form (Project)`, function() {
@@ -226,7 +226,7 @@ describe(`Search`, function() {
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#tags-box`).type(`dog`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 7`)
+      cy.get(`.num-results`).should(`include.text`, `of 10.`)
     })
 
     it(`Component: Type`, function() {
@@ -234,7 +234,7 @@ describe(`Search`, function() {
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#type-select`).select(`medial`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 1,937`)
+      cy.get(`.num-results`).should(`include.text`, `of 1,936`)
     })
 
     it(`Component: UR`, function() {
@@ -322,7 +322,7 @@ describe(`Search`, function() {
       cy.get(`#tags-box`).type(`horse`)
       cy.get(`#logic-select`).select(`any`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 2.`)
+      cy.get(`.num-results`).should(`include.text`, `of 9.`)
     })
 
     it(`Settings`, function() {
@@ -371,7 +371,7 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).should(`have.length`, 250) // limit = 250
       cy.get(`#search-box`).type(`man`)
       cy.get(`#limit-select`).select(`all`)
-      cy.get(`#results tbody tr`).should(`have.length`, 182) // limit = all
+      cy.get(`#results tbody tr`).should(`have.length`, 447) // limit = all
     })
 
     it(`offset`, function() {

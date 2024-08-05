@@ -120,7 +120,7 @@ function createMatchers(query, normalize) {
       const test = createSearchRegExp(q, { caseSensitive, regex })
 
       return function testTags(component) {
-        return component.tags?.some(tag => test(normalize(tag)))
+        return component.tags?.some(({ tag }) => test(normalize(tag)))
       }
 
     },
@@ -196,7 +196,7 @@ export default class Database {
       // Special case language filter to improve speed of search.
       if (langQuery && langQuery !== `all` && language !== langQuery) return false
 
-      return tags?.some(tag => test(normalize(tag)))
+      return tags?.some(({ tag }) => test(normalize(tag)))
       || test(normalize(form))
       || test(normalize(UR))
       || tokens.some(function({
