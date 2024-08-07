@@ -193,7 +193,8 @@ label {
 }
 
 .meta-row th {
-  padding: var(--text-padding);
+  padding:    var(--text-padding);
+  text-align: center;
 }
 
 .num-results {
@@ -252,7 +253,6 @@ label {
 
     background-color: white;
     position:         sticky;
-    text-align:       center;
     top:              0;
     z-index:          2;
 
@@ -370,14 +370,13 @@ select {
 }
 
 .sort-button {
-  align-items:     center;
-  cursor:          pointer;
-  display:         flex;
-  flex-direction:  row;
-  gap:             0.25em;
-  inline-size:     100%;
-  justify-content: center;
-  text-align:      center;
+  align-items:    center;
+  cursor:         pointer;
+  display:        flex;
+  flex-direction: row;
+  gap:            0.25em;
+  inline-size:    100%;
+  text-align:     center;
 }
 
 .sort-button:hover {
