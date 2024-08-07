@@ -103,6 +103,15 @@ export default class Component {
       .map(cleanGloss)
       .filter(Boolean) // Do this after cleanGloss to catch `NG` cases.
       .map(parseTag)
+      .sort((a, b) => {
+
+        if (a.grammatical === b.grammatical) {
+          return a.tag.localeCompare(b.tag)
+        }
+
+        return b.grammatical ? -1 : 1
+
+      })
     }
 
     // Type
