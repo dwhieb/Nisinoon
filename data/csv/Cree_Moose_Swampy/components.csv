@@ -22,8 +22,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 21,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",ɩn-,C-M:1,,,,,,by hand,"hand, MANNER",final,TA,,,,,,,,ɩn-
 22,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",ɩn-,C-M:1,,,,,,by hand,"hand, MANNER",final,TI,,,,,,,ɩn-
 23,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",ɩs-,C-M:1,,,,,,by heat,"heat, MANNER",final,TI,,,,,,,ɩsw-
-24,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",ɩšk-,C-M:1,,,,,,by foot or body movement,,final,TI,,,,,,,ɩškaw-
-25,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",ɩškaw-,C-M:1,,,,,,by foot or body movement,,final,TA,,,,,,,,ɩšk-
+24,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",ɩšk-,C-M:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,TI,,,,,,,ɩškaw-
+25,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",ɩškaw-,C-M:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,TA,,,,,,,,ɩšk-
 26,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",ɩsw-,C-M:1,,,,,,by heat,"heat, MANNER",final,TA,,,,,,,,ɩs-
 27,Ellis,CDE2000,168,"crm, csw",,"moos1236, swam1239",ɩto,C-M:1,,,,,,reciprocal,RECIPROCAL,final,TA,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 7: <ɩ> used when suffix introduced in grammar section; <i> used elsewhere. ""... has to do with certain very old sound changes that still affect the form of modern Cree."""
 28,Ellis,CDE2000,200,"crm, csw",,"moos1236, swam1239",kanaw,C-M:1,,,,,,"focus on, retain","focus on, retain",initial,,,,,,,,,,,,kanawâpaht-,,,V,TI,NG,,,,,,,,,,,,,,,,stem source not checked - no pdf
@@ -35,10 +35,10 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 34,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",m-,C-M:1,,,,,,by speech or perception,"perception, speech, MANNER",final,TA,,,,,,,,ht-
 35,Ellis,CDE2000,332,"crm, csw",,"moos1236, swam1239",m-,C-M:1,,,,,,NG,,final,TA,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Goes with ""prefix"" wîci 'together with' - creates comitative"
 36,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",milâ,C-M:1,,,,,,NG,,initial
-37,Ellis,CDE2000,249,"crm, csw",,"moos1236, swam1239",milo,C-M:1,,,,,,"good, fine","good, fine",initial
+37,Ellis,CDE2000,249,"crm, csw",,"moos1236, swam1239",milo,C-M:1,,,,,,"good, fine","fine, good",initial
 38,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",nah,C-M:1,,,,,,NG,,initial
 39,Ellis,CDE2000,248,"crm, csw",,"moos1236, swam1239",naka,C-M:1,,,,,,NG,,initial
-41,Ellis,CDE2000,200,"crm, csw",,"moos1236, swam1239",nataw,C-M:1,,,,,,"tend to, seek to","tend to, seek to",initial,,,,,,,,,,,,natawâpaht-,,,V,TI,NG,,,,,,,,,,,,,,,,stem source not checked - no pdf
+41,Ellis,CDE2000,200,"crm, csw",,"moos1236, swam1239",nataw,C-M:1,,,,,,"tend to, seek to","seek to, tend to",initial,,,,,,,,,,,,natawâpaht-,,,V,TI,NG,,,,,,,,,,,,,,,,stem source not checked - no pdf
 42,Ellis,CDE2000,248,"crm, csw",,"moos1236, swam1239",oši,C-M:1,,,,,,NG,,initial
 43,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",ot,C-M:1,,,,,,NG,,initial
 44,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",otâm,C-M:1,,,,,,NG,,initial
@@ -56,4 +56,4 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 56,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",wani,C-M:1,,,,,,NG,,initial
 57,Ellis,CDE2000,247,"crm, csw",,"moos1236, swam1239",wêp,C-M:1,,,,,,NG,,initial
 58,Ellis,CDE2000,333,"crm, csw",,"moos1236, swam1239",wît,C-M:1,,,,,,together with,together,initial
-59,Ellis,CDE2000,249,"crm, csw",,"moos1236, swam1239",wîyat,C-M:1,,,,,,"funny, amuse","funny, amuse",initial
+59,Ellis,CDE2000,249,"crm, csw",,"moos1236, swam1239",wîyat,C-M:1,,,,,,"funny, amuse","amuse, funny",initial

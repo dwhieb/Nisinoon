@@ -1,57 +1,57 @@
 ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Allomorph-B,Condition-B,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Formative/component occurs in what component(s)-A,Formative/component occurs in what component(s)-B,Formative/component occurs in what component(s)-C,Formative/component occurs in what component(s)-D,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
 486,Rhodes,RR1976,"0236,0244,0245",ojg,,ojib1241,bim-,OJ:6,,/bim/,,,,along,along,initial
 242,Rhodes,RR1976,"0232,0238,0245,0251",ojg,,ojib1241,-ose:,OJ:6,,/ose/,,,,walk,,final
-516,Rhodes,RR1976,0227,ojg,,ojib1241,dakw-,OJ:6,,/dakw/,,,,"be siezed, grasp",,initial
-992,Rhodes,RR1980,0183,ojg,,ojib1241,,OJ:9,,/amd/,,,,with mouth,,final
-498,Rhodes,RR2015,"0202,0203",ojg,,ojib1241,bookw-,OJ:3,,/bōkw/,,,,"break, broken",break,initial
-23,Rhodes,RR1976,"0213,0262",ojg,,ojib1241,-(i)nike:-,OJ:6,,/nike/,,,,arm,,medial
-993,Rhodes,RR1980,0183,ojg,,ojib1241,,OJ:9,,/sǐn/,,,,fall,,final
-31,Rhodes,RR1976,0268,ojg,,ojib1241,-(i)zid-,OJ:6,,/zide/,,,,foot,,medial
+516,Rhodes,RR1976,0227,ojg,,ojib1241,dakw-,OJ:6,,/dakw/,,,,"be siezed, grasp","grasp, siezed",initial
+992,Rhodes,RR1980,0183,ojg,,ojib1241,,OJ:9,,/amd/,,,,with mouth,"mouth, MANNER",final
+498,Rhodes,RR2015,"0202,0203",ojg,,ojib1241,bookw-,OJ:3,,/bōkw/,,,,"break, broken","break, broken",initial
+23,Rhodes,RR1976,"0213,0262",ojg,,ojib1241,-(i)nike:-,OJ:6,,/nike/,,,,arm,arm,medial
+993,Rhodes,RR1980,0183,ojg,,ojib1241,,OJ:9,,/sǐn/,,,,fall,fall,final
+31,Rhodes,RR1976,0268,ojg,,ojib1241,-(i)zid-,OJ:6,,/zide/,,,,foot,foot,medial
 605,Rhodes,RR1976,0258,ojg,,ojib1241,in-,OJ:6,,/in/,,,,thus,thus,initial,RR
-424,Rhodes,RR1976,0264,ojg,,ojib1241,,OJ:6,,/-aškw-e:/,,,,"grass, hay; herbs",,medial
-129,Goddard,IG1965,0214,ojg,,ojib1241,-ča·N-,OJ:1,,,,*-čya·θ-,,nose,,medial
-232,Rhodes,RR1976,0213,ojg,,ojib1241,-ndibe:-,OJ:6,,/-ndib-e:/,,,,head,,medial
-172,Rhodes,RR1976,"0126,0260,0267,0272",ojg,,ojib1241,-ikw-,OJ:6,,/-ikw-e:/,,,,head,,medial
+424,Rhodes,RR1976,0264,ojg,,ojib1241,,OJ:6,,/-aškw-e:/,,,,"grass, hay; herbs","grass, hay, herb",medial
+129,Goddard,IG1965,0214,ojg,,ojib1241,-ča·N-,OJ:1,,,,*-čya·θ-,,nose,nose,medial
+232,Rhodes,RR1976,0213,ojg,,ojib1241,-ndibe:-,OJ:6,,/-ndib-e:/,,,,head,head,medial
+172,Rhodes,RR1976,"0126,0260,0267,0272",ojg,,ojib1241,-ikw-,OJ:6,,/-ikw-e:/,,,,head,head,medial
 255,Rhodes,RR1976,0219,ojg,,ojib1241,-sido:-,OJ:6,,,,,,cause (to lie/be in a state)/cause to fall/cause (by accident),"fall, lie, CAUSATIVE",final,TI
-254,Valentine 2002,RV2002,0091,ojg,,ojib1241,-shkiinzhigw-,OJ:3,,/-ški:nžigw-e:/,,,,eye,,medial
-171,Valentine 2002,RV2002,0090,ojg,,ojib1241,-iingw-,OJ:3,,/-i:ngw-e:/,,,,eye,,medial
-993,Rhodes,RR1976,0264,ojg,,ojib1241,,OJ:6,,/-de:ngw-e:/,,,,face,,medial
-994,Rhodes,RR1976,"0264,0272",ojg,,ojib1241,,OJ:6,,/-i:ngw-e:/,,,,face,,medial
-268,Valentine 2002,RV2002,0094,ojg,Odawa,ojib1241,-toog-,OJ:3,,,,,,ears,,medial
-995,Rhodes,RR1976,"0264,0269",ojg,,ojib1241,,OJ:6,,/-š-e:/,,,,ear(s),,medial
-996,Rhodes,RR1976,"0264,0273",ojg,,ojib1241,,OJ:6,,/-waž-e:/,,,,body,,medial
-150,Valentine 2002,RV2002,0088,ojg,Manitoulin,ojib1241,-gaad-,OJ:3,,/-ga:d-e:/,,,,leg,,medial
+254,Valentine 2002,RV2002,0091,ojg,,ojib1241,-shkiinzhigw-,OJ:3,,/-ški:nžigw-e:/,,,,eye,eye,medial
+171,Valentine 2002,RV2002,0090,ojg,,ojib1241,-iingw-,OJ:3,,/-i:ngw-e:/,,,,eye,eye,medial
+993,Rhodes,RR1976,0264,ojg,,ojib1241,,OJ:6,,/-de:ngw-e:/,,,,face,face,medial
+994,Rhodes,RR1976,"0264,0272",ojg,,ojib1241,,OJ:6,,/-i:ngw-e:/,,,,face,face,medial
+268,Valentine 2002,RV2002,0094,ojg,Odawa,ojib1241,-toog-,OJ:3,,,,,,ears,ear,medial
+995,Rhodes,RR1976,"0264,0269",ojg,,ojib1241,,OJ:6,,/-š-e:/,,,,ear(s),ear,medial
+996,Rhodes,RR1976,"0264,0273",ojg,,ojib1241,,OJ:6,,/-waž-e:/,,,,body,body,medial
+150,Valentine 2002,RV2002,0088,ojg,Manitoulin,ojib1241,-gaad-,OJ:3,,/-ga:d-e:/,,,,leg,leg,medial
 55,Rhodes,RR1976,"0138,0265,0266",ojg,,ojib1241,-a:wah-,OJ:6,,,,,,child,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,incorporating form; not identical to medial or to stand-alone form
-997,Rhodes,RR1976,0264,ojg,,ojib1241,,OJ:6,,/-a:waso/,,,,(one's own) child(ren),,medial
-998,Rhodes,RR1976,0264,ojg,,ojib1241,,OJ:6,,/nis-e:/,,,,(fire)wood,,medial
+997,Rhodes,RR1976,0264,ojg,,ojib1241,,OJ:6,,/-a:waso/,,,,(one's own) child(ren),child,medial
+998,Rhodes,RR1976,0264,ojg,,ojib1241,,OJ:6,,/nis-e:/,,,,(fire)wood,firewood,medial
 1,Rhodes,RR1976,"0214,0231,0244,0245",ojg,,ojib1241,-(i)bato:,OJ:6,,,,,,run,,final
 10,Rhodes,RR1976,"0232,0241,0251",ojg,,ojib1241,-(i)ga:bawi-,OJ:6,,,,,,stand,,final
-100,Rhodes,RR1976,0121,ojg,,ojib1241,-aškikiw-,OJ:6,,,,,,medicine,,medial
-101,Rhodes,RR1976,0285,ojg,,ojib1241,-aškw-,OJ:6,,,,,,head,,medial
+100,Rhodes,RR1976,0121,ojg,,ojib1241,-aškikiw-,OJ:6,,,,,,medicine,medicine,medial
+101,Rhodes,RR1976,0285,ojg,,ojib1241,-aškw-,OJ:6,,,,,,head,head,medial
 102,Denny,JPD1978b,0294-0322,ojg,,ojib1241,-at-,OJ:5,,,,,,state,state,final,II,,ABSTR,,,,,,,,,,,wēnippan-at,,,V,II,it is easy,,JPD1978a;0295,,,,,,,,,,,,,,,,,,,HTL
 103,Denny,JPD1978b,0295,ojg,,ojib1241,-ātt-,OJ:5,,,,,,solar/lunar energy,energy,final,II,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 104,Rhodes,RR1976,"0220,0223,0292",ojg,,ojib1241,-aw-,OJ:6,,,,,,NG,,final,TRANS
 105,Rhodes,RR1976,0251,ojg,,ojib1241,-ayaa,OJ:6,,,,,,have,,final
-106,Valentine 2002,RV2002,0089,ojg,Odawa,ojib1241,-azh-,OJ:3,,,,,,skin,,medial
+106,Valentine 2002,RV2002,0089,ojg,Odawa,ojib1241,-azh-,OJ:3,,,,,,skin,skin,medial
 107,Rhodes,RR1976,0232,ojg,,ojib1241,-bah,OJ:6,,,,,,run,,final
 108,Rhodes,RR1976,0245,ojg,,ojib1241,-bah-,OJ:6,,,,,,run from,run from,final,TRANS
-109,Mathieu,EM2007,0006,ojg,,ojib1241,-bi,OJ:3,,,,,,"voler, conduire",,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Valentine 2001
+109,Mathieu,EM2007,0006,ojg,,ojib1241,-bi,OJ:3,,,,,,"voler, conduire","drive, fly (V)",final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Valentine 2001
 110,Rhodes,RR1976,"0213,0269,0270",ojg,,ojib1241,-bi,OJ:6,,,,,,causative,,final
 111,Rhodes,RR1976,0218,ojg,,ojib1241,-bi-,OJ:6,,,,,,cause,,final
 112,Rhodes,RR1976,0219,ojg,,ojib1241,-bi-,OJ:6,,,,,,cause using force/using the hand,,final
 113,Rhodes,RR2015,"0198,0199",ojg,,ojib1241,-bi-,OJ:3,,,,,,move,,final,,,CONCR
-114,Rhodes,RR2015,0202,ojg,,ojib1241,-bi-,OJ:3,,,,,,yank,,final,,,CONCR
-115,Rhodes,RR1976,"0214,0227",ojg,,ojib1241,-bi:gw-,OJ:6,,,,,,be in pieces,,initial
-116,Rhodes,RR1976,"0233,0261,0284",ojg,,ojib1241,-bibo:n-,OJ:6,,,,,,winter,,medial
-117,Rhodes,RR1976,0245,ojg,,ojib1241,-bide:,OJ:6,,,,,,"fly, speed","fly (V), speed (V))",final,INTR.
+114,Rhodes,RR2015,0202,ojg,,ojib1241,-bi-,OJ:3,,,,,,yank,yank,final,,,CONCR
+115,Rhodes,RR1976,"0214,0227",ojg,,ojib1241,-bi:gw-,OJ:6,,,,,,be in pieces,in (pieces),initial
+116,Rhodes,RR1976,"0233,0261,0284",ojg,,ojib1241,-bibo:n-,OJ:6,,,,,,winter,winter,medial
+117,Rhodes,RR1976,0245,ojg,,ojib1241,-bide:,OJ:6,,,,,,"fly, speed","fly (V), speed (V))",final,INTR
 118,Rhodes,RR1976,0218,ojg,,ojib1241,-bido:-,OJ:6,,,,,,cause,CAUSATIVE,final,TI
 119,Rhodes,RR1976,0219,ojg,,ojib1241,-bido:-,OJ:6,,,,,,cause using force/using the hand,"force, hand, CAUSATIVE, MANNER",final,TI
 12,Rhodes,RR1976,"0213,0214,0251",ojg,,ojib1241,-(i)gwa-,OJ:6,,,,,,sew,,final
-120,Valentine 2002,RV2002,0117,ojg,Wikwemikong,ojib1241,-bikwan-,OJ:3,,,,,,back,,medial
+120,Valentine 2002,RV2002,0117,ojg,Wikwemikong,ojib1241,-bikwan-,OJ:3,,,,,,back,back,medial
 121,Rhodes,RR1976,0218,ojg,,ojib1241,-bin-,OJ:6,,,,,,cause,CAUSATIVE,final,TA
 122,Rhodes,RR1976,0219,ojg,,ojib1241,-bin-,OJ:6,,,,,,cause using force/using the hand,"force, hand, CAUSATIVE, MANNER",final,TA
 123,Mathieu,EM2007,0007,ojg,,ojib1241,-bizo,OJ:3,,,,,,"voler, conduire, tomber/plonger dans l'eau, trembler, secouer, frissonner","dive, drive, fall, fly (V), shake, shiver, tremble",final,AI
-124,Rhodes,RR1976,0245,ojg,,ojib1241,-bizo,OJ:6,,,,,,"fly, speed","fly (V), speed (V))",final,INTR.
+124,Rhodes,RR1976,0245,ojg,,ojib1241,-bizo,OJ:6,,,,,,"fly, speed","fly (V), speed (V))",final,INTR
 125,Rhodes,RR1976,0219,ojg,,ojib1241,-bo:do-,OJ:6,,,,,,cause using a sawing motion,"motion (sawing), CAUSATIVE, MANNER",final,TI
 126,Rhodes,RR1976,0245,ojg,,ojib1241,-bo:do-,OJ:6,,,,,,plow,plow,final,TRANS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.245 ""(idiom from: cause by sawing motion)"""
 127,Rhodes,RR1976,0219,ojg,,ojib1241,-bo:n-,OJ:6,,,,,,cause using a sawing motion,"motion (sawing), CAUSATIVE, MANNER",final,TA
@@ -60,25 +60,25 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 131,Rhodes,RR2015,0198,ojg,,ojib1241,-d-,OJ:3,,,,,,NG,,final,TI,,ABSTR
 132,Rhodes,RR1976,0245,ojg,,ojib1241,-da:ba:dam-,OJ:6,,,,,,drag,"drag, haul, pull",final,TRANS
 133,Rhodes,RR1976,0245,ojg,,ojib1241,-da:ba:n-,OJ:6,,,,,,drag,"drag, haul, pull",final,TRANS
-134,Rhodes,RR1976,0245,ojg,,ojib1241,-da:bi:,OJ:6,,,,,,drag,"drag, haul, pull",final,INTR.
-135,Valentine 2002,RV2002,0114,ojg,Rhodes 1985 (Eastern and Odawa),ojib1241,-daamikan-,OJ:3,,,,,,chin,,medial
+134,Rhodes,RR1976,0245,ojg,,ojib1241,-da:bi:,OJ:6,,,,,,drag,"drag, haul, pull",final,INTR
+135,Valentine 2002,RV2002,0114,ojg,Rhodes 1985 (Eastern and Odawa),ojib1241,-daamikan-,OJ:3,,,,,,chin,chin,medial
 136,Mathieu,EM2007,0006,ojg,,ojib1241,-de,OJ:3,,,,,,NG,,final,II,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Valentine 2001
-137,Rhodes,RR1976,0169,ojg,,ojib1241,-de:,OJ:6,,,,,,NG,,final,INTR.
-138,Valentine 2002,RV2002,0104,ojg,Odawa,ojib1241,-deh-,OJ:3,,,,,,heart,,medial
-139,Valentine 2002,RV2002,0114,ojg,"Manitoulin, Rhodes 1985",ojib1241,-dinamaangan-,OJ:3,,,,,,shoulder,,medial
-14,Rhodes,RR1976,0212,ojg,,ojib1241,-(i)ji-,OJ:6,,,,,,body,,medial
-140,Valentine 2002,RV2002,0114,ojg,Rhodes 1985 (Eastern and Odawa),ojib1241,-doondan-,OJ:3,,,,,,heel,,medial
-141,Valentine 2002,RV2002,0114,ojg,Rhodes 1985 (Eastern and Odawa),ojib1241,-dooskwan-,OJ:3,,,,,,elbow,,medial
+137,Rhodes,RR1976,0169,ojg,,ojib1241,-de:,OJ:6,,,,,,NG,,final,INTR
+138,Valentine 2002,RV2002,0104,ojg,Odawa,ojib1241,-deh-,OJ:3,,,,,,heart,heart,medial
+139,Valentine 2002,RV2002,0114,ojg,"Manitoulin, Rhodes 1985",ojib1241,-dinamaangan-,OJ:3,,,,,,shoulder,shoulder,medial
+14,Rhodes,RR1976,0212,ojg,,ojib1241,-(i)ji-,OJ:6,,,,,,body,body,medial
+140,Valentine 2002,RV2002,0114,ojg,Rhodes 1985 (Eastern and Odawa),ojib1241,-doondan-,OJ:3,,,,,,heel,heel,medial
+141,Valentine 2002,RV2002,0114,ojg,Rhodes 1985 (Eastern and Odawa),ojib1241,-dooskwan-,OJ:3,,,,,,elbow,elbow,medial
 142,Rhodes,RR2015,0198,ojg,,ojib1241,-e,OJ:3,,,,,,NG,,final,AI,,ABSTR
 143,Denny,JPD1978b,0294-0322,ojg,,ojib1241,-ē-,OJ:5,,,,,,process,,final,II,,ABSTR,,,,,,,,,,,kīš-it-ē,,,V,II,it is cooked done,,JPD1978a;0295,,,,,,,,,,,,,,,,,,,HTL
 144,Denny,JPD1978b,0301,ojg,,ojib1241,-ē-,OJ:5,,,,,,NG,,postmedial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 145,Denny,JPD1978b,0317,ojg,,ojib1241,-ē-,OJ:5,,,,,,process,,postradical ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 146,Rhodes,RR1976,"0121,0126,0138,0142",ojg,,ojib1241,-e:-,OJ:6,,,,,,NG,,medial
 147,Rhodes,RR1976,"0262,0277,0279",ojg,,ojib1241,-e:g-,OJ:6,,,,,,"sheet, cloth, paper",,medial,CLASS
-148,Rhodes,RR1976,0240,ojg,,ojib1241,-e:ndi,OJ:6,,,,,,be away,,final
-149,Rhodes,RR2015,0198,ojg,,ojib1241,-enim-,OJ:3,,,,,,act with mind,,final,,,CONCR
+148,Rhodes,RR1976,0240,ojg,,ojib1241,-e:ndi,OJ:6,,,,,,be away,away,final
+149,Rhodes,RR2015,0198,ojg,,ojib1241,-enim-,OJ:3,,,,,,act with mind,"mind, MANNER",final,,,CONCR
 15,Rhodes,RR1976,0236,ojg,,ojib1241,-(i)jiw,OJ:6,,,,,,flow,,final
-151,Valentine 2002,RV2002,0086,ojg,Odawa,ojib1241,-gaakigan-,OJ:3,,,,,,back,,medial
+151,Valentine 2002,RV2002,0086,ojg,Odawa,ojib1241,-gaakigan-,OJ:3,,,,,,back,back,medial
 152,Rhodes,RR1976,"0219,0221",ojg,,ojib1241,-gah-,OJ:6,,,,,,cause using an axe/instrument,,final
 153,Rhodes,RR1976,0219,ojg,,ojib1241,-gaham-,OJ:6,,,,,,cause using an axe/instrument,"axe, instrument, CAUSATIVE, INSTRUMENT",final,TI
 154,Rhodes,RR1976,0219,ojg,,ojib1241,-gahw-,OJ:6,,,,,,cause using an axe/instrument,"axe, instrument, CAUSATIVE, INSTRUMENT",final,TA
@@ -86,113 +86,113 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 156,Barrie & Mathieu,MB_EM2012,0136,ojg,,ojib1241,-gan,OJ:3,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Valentine 2001:504
 157,Mathieu,EM2007,0005,ojg,,ojib1241,-gi,OJ:3,,,,,,pousser,push,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Valentine 2001
 158,Rhodes,RR1976,"0169,0170.0256",ojg,,ojib1241,-gi:we:,OJ:6,,,,,,go home,go home,final,AI
-159,Rhodes,RR1976,0261,ojg,,ojib1241,-gi:zisw-,OJ:6,,,,,,moon,,medial
-16,Rhodes,RR1976,0284,ojg,,ojib1241,-(i)ke:-,OJ:6,,,,,,get,,final
+159,Rhodes,RR1976,0261,ojg,,ojib1241,-gi:zisw-,OJ:6,,,,,,moon,moon,medial
+16,Rhodes,RR1976,0284,ojg,,ojib1241,-(i)ke:-,OJ:6,,,,,,get,get,final
 160,Rhodes,RR2015,0198,ojg,,ojib1241,-gik-,OJ:3,,,,,,know,know,initial
 161,Rhodes,RR1976,0257,ojg,,ojib1241,-gitigw-,OJ:6,,,,,,roll,roll,initial
-162,Rhodes,RR1976,0266,ojg,,ojib1241,-giža:-,OJ:6,,,,,,care,,medial
+162,Rhodes,RR1976,0266,ojg,,ojib1241,-giža:-,OJ:6,,,,,,care,care,medial
 163,Rhodes,RR1976,"0142,0214,0217",ojg,,ojib1241,-h-,OJ:6,,,,,,causative,,final
 164,Rhodes,RR1976,0218,ojg,,ojib1241,-h-,OJ:6,,,,,,cause,CAUSATIVE,final,TA
 165,Mathieu,EM2007,0008,ojg,,ojib1241,-hke,OJ:3,,,,,,NG,,final
-166,Mathieu,EM2007,0010,ojg,,ojib1241,-i,OJ:3,,,,,,avoir,,final
+166,Mathieu,EM2007,0010,ojg,,ojib1241,-i,OJ:3,,,,,,avoir,have,final
 167,Rhodes,RR2015,"0196,0197,0198",ojg,,ojib1241,-i,OJ:3,,,,,,NG,,final,AI,,ABSTR
 168,Rhodes,RR1976,"0118,0123,0125,0138",ojg,,ojib1241,-idi,OJ:6,,,,,,reflexive reciprocal,"RECIPROCAL, REFLEXIVE",final,AI
-169,Rhodes,RR1976,0292,ojg,,ojib1241,-igw-,OJ:6,,,,,,pass,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: p.292 glossed as PASS-- as in makes s.t. passive? Should I remove this?
-17,Rhodes,RR1976,"0214,0262",ojg,,ojib1241,-(i)ko-,OJ:6,,,,,,cause by cutting,,initial
+169,Rhodes,RR1976,0292,ojg,,ojib1241,-igw-,OJ:6,,,,,,pass,pass,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: p.292 glossed as PASS-- as in makes s.t. passive? Should I remove this?
+17,Rhodes,RR1976,"0214,0262",ojg,,ojib1241,-(i)ko-,OJ:6,,,,,,cause by cutting,"cut (V), CAUSATIVE",initial
 170,Rhodes,RR2015,0203,ojg,,ojib1241,-ih-,OJ:3,,,,,,causative,,final
-173,Rhodes,RR2015,0203,ojg,,ojib1241,-im,OJ:3,,,,,,use speech,,final,,,CONCR
-174,Rhodes,RR1976,0285,ojg,,ojib1241,-imo-,OJ:6,,,,,,speak (languages),,final
+173,Rhodes,RR2015,0203,ojg,,ojib1241,-im,OJ:3,,,,,,use speech,use (speech),final,,,CONCR
+174,Rhodes,RR1976,0285,ojg,,ojib1241,-imo-,OJ:6,,,,,,speak (languages),speak (language),final
 175,Barrie & Mathieu,MB_EM2012,0138,ojg,,ojib1241,-in,OJ:3,,,,,,NG,,final,TI
-176,Rhodes,RR1976,"0169,0218",ojg,,ojib1241,-in,OJ:6,,,,,,NG,,final,INTR.
+176,Rhodes,RR1976,"0169,0218",ojg,,ojib1241,-in,OJ:6,,,,,,NG,,final,INTR
 177,Denny,JPD1978b,0294-0322,ojg,,ojib1241,-in-,OJ:5,,,,,,event,event,final,II,,ABSTR,,,,,,,,,,,iši-ss-in,,,V,II,"it falls, lies thus",,JPD1978a;0295,,,,,,,,,,,,,,,,,,,HTL
 178,Rhodes,RR1976,0218,ojg,,ojib1241,-in-,OJ:6,,,,,,cause,CAUSATIVE,final,TA
-179,Rhodes,RR2015,0203,ojg,,ojib1241,-in-,OJ:3,,,,,,use the hand(s); grasp,,final,,,CONCR
-18,Rhodes,RR1976,0212,ojg,,ojib1241,-(i)kwe-,OJ:6,,,,,,head,,medial
+179,Rhodes,RR2015,0203,ojg,,ojib1241,-in-,OJ:3,,,,,,use the hand(s); grasp,"grasp, use (hand)",final,,,CONCR
+18,Rhodes,RR1976,0212,ojg,,ojib1241,-(i)kwe-,OJ:6,,,,,,head,head,medial
 180,Rhodes,RR2015,0197,ojg,,ojib1241,-ǐn-,OJ:3,,,,,,NG,,final,AI,,ABSTR
 181,Rhodes,RR1976,0218,ojg,,ojib1241,-inam-,OJ:6,,,,,,cause,CAUSATIVE,final,TI
 182,Rhodes,RR1976,0214,ojg,,ojib1241,-ingwa:m,OJ:6,,,,,,sleep,,final
-183,Rhodes,RR2015,0197,ojg,,ojib1241,-is-,OJ:3,,,,,,fall,,final,,,CONCR
-184,Rhodes,RR2015,0203,ojg,,ojib1241,-ishk-,OJ:3,,,,,,use foot or body,,final,,,CONCR
+183,Rhodes,RR2015,0197,ojg,,ojib1241,-is-,OJ:3,,,,,,fall,fall,final,,,CONCR
+184,Rhodes,RR2015,0203,ojg,,ojib1241,-ishk-,OJ:3,,,,,,use foot or body,"use (body, foot)",final,,,CONCR
 185,Denny,JPD1978b,0318,ojg,,ojib1241,-isi-,OJ:5,,,,,,NG,,final ,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-186,Rhodes,RR1976,0285,ojg,,ojib1241,-iši-,OJ:6,,,,,,spend...season,,final
-187,Denny,JPD1978b,"0308,0318",ojg,,ojib1241,-išiwēp-,OJ:5,,,,,,to happen thus,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+186,Rhodes,RR1976,0285,ojg,,ojib1241,-iši-,OJ:6,,,,,,spend...season,spend (season),final
+187,Denny,JPD1978b,"0308,0318",ojg,,ojib1241,-išiwēp-,OJ:5,,,,,,to happen thus,"happen, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 188,Denny,JPD1978b,0295,ojg,,ojib1241,-it-,OJ:5,,,,,,heating,heat,final,II,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-189,Mathieu,EM2007,0004,ojg,,ojib1241,-it-,OJ:5,,,,,,chauffé,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Denny 1978
-19,Rhodes,RR1976,0266,ojg,,ojib1241,-(i)mi:jim-,OJ:6,,,,,,food,,medial
+189,Mathieu,EM2007,0004,ojg,,ojib1241,-it-,OJ:5,,,,,,chauffé,heated,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Denny 1978
+19,Rhodes,RR1976,0266,ojg,,ojib1241,-(i)mi:jim-,OJ:6,,,,,,food,food,medial
 190,Rhodes,RR1976,"0219,0222",ojg,,ojib1241,-iz-,OJ:6,,,,,,cause using heat,,final
-191,Rhodes,RR2015,0202,ojg,,ojib1241,-iz-,OJ:3,,,,,,use heat,,final,,,CONCR
+191,Rhodes,RR2015,0202,ojg,,ojib1241,-iz-,OJ:3,,,,,,use heat,use (heat),final,,,CONCR
 192,Rhodes,RR1976,"0219,0221",ojg,,ojib1241,-iž-,OJ:6,,,,,,cause using a cutting edge,,final
 193,Rhodes,RR1976,0219,ojg,,ojib1241,-izam-,OJ:6,,,,,,cause using heat,"heat, CAUSATIVE, MANNER",final,TI
 194,Rhodes,RR1976,0219,ojg,,ojib1241,-ižam-,OJ:6,,,,,,cause using a cutting edge,"cutting edge, CAUSATIVE, INSTRUMENT",final,TI
-195,Rhodes,RR2015,"0202,0203",ojg,,ojib1241,-izh-,OJ:3,,,,,,use cutting edge,,final,,,CONCR
-196,Rhodes,RR1976,"0137,0219,0277,0292",ojg,,ojib1241,-izi,OJ:6,,,,,,NG,,final,INTR.
+195,Rhodes,RR2015,"0202,0203",ojg,,ojib1241,-izh-,OJ:3,,,,,,use cutting edge,use (cutting edge),final,,,CONCR
+196,Rhodes,RR1976,"0137,0219,0277,0292",ojg,,ojib1241,-izi,OJ:6,,,,,,NG,,final,INTR
 197,Rhodes,RR2015,0196,ojg,,ojib1241,-izi-,OJ:3,,,,,,NG,,final,AI,,ABSTR
 198,Rhodes,RR1976,0219,ojg,,ojib1241,-izw-,OJ:6,,,,,,cause using heat,"heat, CAUSATIVE, MANNER",final,TA
 199,Rhodes,RR1976,0219,ojg,,ojib1241,-ižw-,OJ:6,,,,,,cause using a cutting edge,"cutting edge, CAUSATIVE, INSTRUMENT",final,TA
 2,Rhodes,RR1976,"0213,0279",ojg,,ojib1241,-(i)bi-,OJ:6,,,,,,causative,,final
-20,Rhodes,RR1976,"0260,0262,0263,0274",ojg,,ojib1241,-(i)na:gan-,OJ:6,,,,,,dish,,medial
-200,Rhodes,RR1976,0245,ojg,,ojib1241,-jiwan,OJ:6,,,,,,flow,,final,INTR.
+20,Rhodes,RR1976,"0260,0262,0263,0274",ojg,,ojib1241,-(i)na:gan-,OJ:6,,,,,,dish,dish,medial
+200,Rhodes,RR1976,0245,ojg,,ojib1241,-jiwan,OJ:6,,,,,,flow,flow,final,INTR
 201,Rhodes,RR1976,0219,ojg,,ojib1241,-k-,OJ:6,,,,,,cause (in the body),,final
 202,Rhodes,RR1976,"0219,0220,0223",ojg,,ojib1241,-k-,OJ:6,,,,,,cause using body,,final
-203,Rhodes,RR1976,0223,ojg,,ojib1241,-ka:,OJ:6,,,,,,be (in the body) move (oneself),,final
+203,Rhodes,RR1976,0223,ojg,,ojib1241,-ka:,OJ:6,,,,,,be (in the body) move (oneself),"in (body), move (self)",final
 204,Rhodes,RR1976,0017,ojg,,ojib1241,-ka:zo,OJ:6,,,,,,pretend,,final,,,,Y
 205,Goddard,IG1965,0215,ojg,,ojib1241,-ka·pawi-,OJ:1,,,,*-ka·pawi-,,stand,stand,initial
-206,Mathieu,EM2007,0011,ojg,,ojib1241,-kaa,OJ:3,,,,,,grande quantité de quelque chose,,final
-207,Mathieu,EM2007,0011,ojg,,ojib1241,-kaazoo,OJ:3,,,,,,"feindre, faire semblant",,final
+206,Mathieu,EM2007,0011,ojg,,ojib1241,-kaa,OJ:3,,,,,,grande quantité de quelque chose,QUANTITY,final
+207,Mathieu,EM2007,0011,ojg,,ojib1241,-kaazoo,OJ:3,,,,,,"feindre, faire semblant","feign, pretend",final
 208,Rhodes,RR1976,0219,ojg,,ojib1241,-kam-,OJ:6,,,,,,cause (in the body),"body, CAUSATIVE",final,TI
 209,Rhodes,RR1976,0219,ojg,,ojib1241,-kam-,OJ:6,,,,,,cause using body,"body, CAUSATIVE, MANNER",final,TI
 210,Rhodes,RR1976,0219,ojg,,ojib1241,-kaw-,OJ:6,,,,,,cause (in the body),"body, CAUSATIVE",final,TA
 211,Rhodes,RR1976,0219,ojg,,ojib1241,-kaw-,OJ:6,,,,,,cause using body,"body, CAUSATIVE, MANNER",final,TA
-212,Rhodes,RR1976,0245,ojg,,ojib1241,-kawe:,OJ:6,,,,,,make tracks,track (N),final,INTR.
-213,Mathieu,EM2007,"0007,0016",ojg,,ojib1241,-ke,OJ:3,,,,,,"faire, ramasser, attraper, chasser, travailler avec","catch, hunt, make, pick up, work with",final,INTR.
+212,Rhodes,RR1976,0245,ojg,,ojib1241,-kawe:,OJ:6,,,,,,make tracks,track (N),final,INTR
+213,Mathieu,EM2007,"0007,0016",ojg,,ojib1241,-ke,OJ:3,,,,,,"faire, ramasser, attraper, chasser, travailler avec","catch, hunt, make, pick up, work with",final,INTR
 214,Denny,JPD1978b,0295,ojg,,ojib1241,-kkot-,OJ:5,,,,,,cutting,cut,final,II,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 215,Rhodes,RR1976,"0219,0220",ojg,,ojib1241,-ko-,OJ:6,,,,,,cause using a cutting action,,final
 216,Rhodes,RR1976,0219,ojg,,ojib1241,-kodam-,OJ:6,,,,,,cause using a cutting action,"action (cutting), CAUSATIVE, MANNER",final,TI
 217,Rhodes,RR1976,0219,ojg,,ojib1241,-kon-,OJ:6,,,,,,cause using a cutting action,"action (cutting), CAUSATIVE, MANNER",final,TA
-218,Denny,JPD1978b,"0298,0305,0310",ojg,,ojib1241,-konak-,OJ:5,,,,,,day,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+218,Denny,JPD1978b,"0298,0305,0310",ojg,,ojib1241,-konak-,OJ:5,,,,,,day,day,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 219,Rhodes,RR1976,0119,ojg,,ojib1241,-m-,OJ:6,,,,,,smell
-22,Rhodes,RR1976,"0225,0269",ojg,,ojib1241,-(i)nik-,OJ:6,,,,,,arm,,medial
+22,Rhodes,RR1976,"0225,0269",ojg,,ojib1241,-(i)nik-,OJ:6,,,,,,arm,arm,medial
 220,Rhodes,RR1976,0219,ojg,,ojib1241,-m-,OJ:6,,,,,,cause using speech,"speech, CAUSATIVE, MANNER",final,TA
 221,Denny,JPD1978b,0310,ojg,,ojib1241,-mak-,OJ:5,,,,,,NG,,final,II,,ABSTR,Y,,,,,,,,,,ikkitō-mak-at,,,V,II,it says,,JPD1978a;0310,,,,,,,,,,,,,,,,,,,HTL
-222,Rhodes,RR1976,0264,ojg,,ojib1241,-makizin-,OJ:6,,,,,,shoe,,medial
-223,Rhodes,RR1976,"0264,0265,0266",ojg,,ojib1241,-maškikiw-,OJ:6,,,,,,medicine,,medial
-224,Mathieu,EM2007,"0009,0016",ojg,,ojib1241,-mo,OJ:3,,,,,,"parler, activité orale","activity (oral), speak",final,INTR.
+222,Rhodes,RR1976,0264,ojg,,ojib1241,-makizin-,OJ:6,,,,,,shoe,shoe,medial
+223,Rhodes,RR1976,"0264,0265,0266",ojg,,ojib1241,-maškikiw-,OJ:6,,,,,,medicine,medicine,medial
+224,Mathieu,EM2007,"0009,0016",ojg,,ojib1241,-mo,OJ:3,,,,,,"parler, activité orale","activity (oral), speak",final,INTR
 225,Rhodes,RR1976,0284,ojg,,ojib1241,-mo,OJ:6,,,,,,speak,,final
 226,Rhodes,RR1976,0220,ojg,,ojib1241,-mogosk-,OJ:6,,,,,,bother,bother,initial
 227,Rhodes,RR1976,"0129,0135,0138,0142",ojg,,ojib1241,-n,OJ:6,,,,,,NG,,final,II
 228,Rhodes,RR1976,0119,ojg,,ojib1241,-n-,OJ:6,,,,,,resemble
 229,Rhodes,RR2015,"0196,0198,0199",ojg,,ojib1241,-N-,OJ:3,,,,,,NG,,final,TA,,ABSTR
-230,Rhodes,RR1976,0245,ojg,,ojib1241,-na:škaw-,OJ:6,,,,,,chase,,final,TRANS
+230,Rhodes,RR1976,0245,ojg,,ojib1241,-na:škaw-,OJ:6,,,,,,chase,chase,final,TRANS
 231,Rhodes,RR1976,0219,ojg,,ojib1241,-ndam-,OJ:6,,,,,,cause using speech,"speech, CAUSATIVE, MANNER",final,TI
-233,Valentine 2002,RV2002,0098,ojg,,ojib1241,-nik-,OJ:3,,,,,,arm,,medial
-234,Valentine 2002,RV2002,0114,ojg,Rhodes 1985 (Eastern and Odawa),ojib1241,-ningwiihigan-,OJ:3,,,,,,wing,,medial
+233,Valentine 2002,RV2002,0098,ojg,,ojib1241,-nik-,OJ:3,,,,,,arm,arm,medial
+234,Valentine 2002,RV2002,0114,ojg,Rhodes 1985 (Eastern and Odawa),ojib1241,-ningwiihigan-,OJ:3,,,,,,wing,wing,medial
 235,Rhodes,RR1976,0017,ojg,,ojib1241,-ns,OJ:6,,,,,,diminutive,,final,,,,Y
-236,Mathieu,EM2007,0011,ojg,,ojib1241,-nswi,OJ:3,,,,,,équivalent négatif de -kaa,,final
-237,Rhodes,RR1976,"0129,0135,0136,0213",ojg,,ojib1241,-o:,OJ:6,,,,,,NG,,final,INTR.
-238,Rhodes,RR1976,"0245,0251",ojg,,ojib1241,-o:de:,OJ:6,,,,,,crawl,,final,INTR.
+236,Mathieu,EM2007,0011,ojg,,ojib1241,-nswi,OJ:3,,,,,,équivalent négatif de -kaa,NEGATIVE,final
+237,Rhodes,RR1976,"0129,0135,0136,0213",ojg,,ojib1241,-o:,OJ:6,,,,,,NG,,final,INTR
+238,Rhodes,RR1976,"0245,0251",ojg,,ojib1241,-o:de:,OJ:6,,,,,,crawl,crawl,final,INTR
 239,Rhodes,RR1976,0245,ojg,,ojib1241,-o:m-,OJ:6,,,,,,carry on the back,carry (on back),final,TRANS
-24,Rhodes,RR1976,"0261,0267,0271,0272",ojg,,ojib1241,-(i)ninji-,OJ:6,,,,,,hand,,medial
+24,Rhodes,RR1976,"0261,0267,0271,0272",ojg,,ojib1241,-(i)ninji-,OJ:6,,,,,,hand,hand,medial
 240,Rhodes,RR1976,0245,ojg,,ojib1241,-o:ndam-,OJ:6,,,,,,carry on the back,carry (on back),final,TRANS
 241,Rhodes,RR2015,"0198,0199",ojg,,ojib1241,-os-,OJ:3,,,,,,walk,,final,,,CONCR
 243,Rhodes,RR1976,0119,ojg,,ojib1241,-p-,OJ:6,,,,,,taste
-244,Denny,JPD1978b,"0298,0305,0310",ojg,,ojib1241,-pipōnak-,OJ:5,,,,,,year,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,postmedial -ak-,,,,,HTL
+244,Denny,JPD1978b,"0298,0305,0310",ojg,,ojib1241,-pipōnak-,OJ:5,,,,,,year,year,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,postmedial -ak-,,,,,HTL
 245,Denny,JPD1978b,0317,ojg,,ojib1241,-pīss-,OJ:5,,,,,,to rain,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-246,Denny,JPD1978b,0318,ojg,,ojib1241,-pit-,OJ:5,,,,,,to go,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-247,Rhodes,RR1976,0264,ojg,,ojib1241,-š,OJ:6,,,,,,fall,,final
+246,Denny,JPD1978b,0318,ojg,,ojib1241,-pit-,OJ:5,,,,,,to go,go,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+247,Rhodes,RR1976,0264,ojg,,ojib1241,-š,OJ:6,,,,,,fall,fall,final
 248,Rhodes,RR1976,"0219,0221,0258",ojg,,ojib1241,-s-,OJ:6,,,,,,cause (to lie/be in a state)/cause to fall/cause (by accident),,final
 249,Rhodes,RR1976,0258,ojg,,ojib1241,-s-,OJ:6,,,,,,"fall, lie",,final
 25,Rhodes,RR1976,"0214,0218,0227,0262",ojg,,ojib1241,-(i)s-,OJ:6,,,,,,"fall, lie",,final
-250,Rhodes,RR1976,0274,ojg,,ojib1241,-sag-,OJ:6,,,,,,wood,,medial
+250,Rhodes,RR1976,0274,ojg,,ojib1241,-sag-,OJ:6,,,,,,wood,wood,medial
 251,Rhodes,RR1976,0218,ojg,,ojib1241,-sah-,OJ:6,,,,,,cause,CAUSATIVE,final,TA
 252,Rhodes,RR1976,0218,ojg,,ojib1241,-sato:-,OJ:6,,,,,,cause,CAUSATIVE,final,TI
-253,Mathieu,EM2007,"0011,0017",ojg,,ojib1241,-shki,OJ:3,,,,,,"habitude, dépendance, indiquant un état ou une action",,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P.11: typically used with a negative connotation
+253,Mathieu,EM2007,"0011,0017",ojg,,ojib1241,-shki,OJ:3,,,,,,"habitude, dépendance, indiquant un état ou une action","dependency, habit, ACTION, STATE",final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P.11: typically used with a negative connotation
 256,Rhodes,RR1976,0219,ojg,,ojib1241,-šim-,OJ:6,,,,,,cause (to lie/be in a state)/cause to fall/cause (by accident),"fall, lie, CAUSATIVE",final,TA
 257,Rhodes,RR1976,0219,ojg,,ojib1241,-sk-,OJ:6,,,,,,cause using foot/body,,final
 258,Rhodes,RR1976,"0219,0220,0221,0223",ojg,,ojib1241,-šk-,OJ:6,,,,,,cause (in the body),,final
-259,Rhodes,RR1976,0245,ojg,,ojib1241,-ška,OJ:6,,,,,,"move, canoe","canoe, move",final,INTR.
+259,Rhodes,RR1976,0245,ojg,,ojib1241,-ška,OJ:6,,,,,,"move, canoe","canoe, move",final,INTR
 26,Rhodes,RR1976,0219,ojg,,ojib1241,-(i)s-,OJ:6,,,,,,cause,,final
 260,Rhodes,RR1976,0128,ojg,,ojib1241,-ška:,OJ:6,,,,,,reflexive,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 128: ""means that the state being caused comes baout independent of contact with an external agent or instrument"""
-261,Rhodes,RR1976,0223,ojg,,ojib1241,-ška:,OJ:6,,,,,,be/come to be (in/with the body),,final
+261,Rhodes,RR1976,0223,ojg,,ojib1241,-ška:,OJ:6,,,,,,be/come to be (in/with the body),"be, become",final
 262,Rhodes,RR1976,0219,ojg,,ojib1241,-skam-,OJ:6,,,,,,cause using foot/body,"body, foot, CAUSATIVE, MANNER",final,TI
 263,Rhodes,RR1976,0219,ojg,,ojib1241,-škam-,OJ:6,,,,,,cause (in the body),"body, CAUSATIVE",final,TI
 264,Rhodes,RR1976,0219,ojg,,ojib1241,-skaw-,OJ:6,,,,,,cause using foot/body,"body, foot, CAUSATIVE, MANNER",final,TA
@@ -200,25 +200,25 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 266,Rhodes,RR1976,0119,ojg,,ojib1241,-t-,OJ:6,,,,,,hear
 267,Rhodes,RR1976,0218,ojg,,ojib1241,-to:-,OJ:6,,,,,,cause,CAUSATIVE,final,TI
 269,Mathieu,EM2007,0016,ojg,,ojib1241,-w,OJ:3,,,,,,NG,,final,,,,Y
-27,Rhodes,RR1976,"0218,0225,0227,0245",ojg,,ojib1241,-(i)se:-,OJ:6,,,,,,move,,final,INTR.
+27,Rhodes,RR1976,"0218,0225,0227,0245",ojg,,ojib1241,-(i)se:-,OJ:6,,,,,,move,move,final,INTR
 270,Rhodes,RR2015,"0196,0200,0201",ojg,,ojib1241,-w,OJ:3,,,,,,NG,,final,TA,,ABSTR
 271,Rhodes,RR1976,0242,ojg,,ojib1241,-wa:bi,OJ:6,,,,,,see,,final
 272,Rhodes,RR1976,0260,ojg,,ojib1241,-wad,OJ:6,,,,,,cause,,final
-273,Rhodes,RR1976,"0231,0271,0282",ojg,,ojib1241,-wad-,OJ:6,,,,,,cause by cold,,final
+273,Rhodes,RR1976,"0231,0271,0282",ojg,,ojib1241,-wad-,OJ:6,,,,,,cause by cold,"cold, CAUSATIVE",final
 274,Rhodes,RR2015,0199,ojg,,ojib1241,-wi-,OJ:3,,,,,,transport,,final,,,CONCR
-275,Rhodes,RR1976,0264,ojg,,ojib1241,-wi:wikwa:n-,OJ:6,,,,,,hat,,medial
+275,Rhodes,RR1976,0264,ojg,,ojib1241,-wi:wikwa:n-,OJ:6,,,,,,hat,hat,medial
 276,Rhodes,RR1976,0245,ojg,,ojib1241,-wido:-,OJ:6,,,,,,transport,transport,final,TRANS
 277,Rhodes,RR2015,"0196,0197",ojg,,ojib1241,-wiisiny-,OJ:3,,,,,,eat,eat,initial
 278,Mathieu,EM2007,0015,ojg,,ojib1241,-win,OJ:3,,,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Valentine 2001:507
 279,Rhodes,RR1976,0245,ojg,,ojib1241,-win-,OJ:6,,,,,,transport,transport,final,TRANS
 28,Rhodes,RR1976,0225,ojg,,ojib1241,-(i)šk-,OJ:6,,,,,,cause,,final
-280,Rhodes,RR1976,"0169,0218",ojg,,ojib1241,-ya:,OJ:6,,,,,,NG,,final,INTR.
+280,Rhodes,RR1976,"0169,0218",ojg,,ojib1241,-ya:,OJ:6,,,,,,NG,,final,INTR
 281,Rhodes,RR2015,0196,ojg,,ojib1241,-yaa-,OJ:3,,,,,,NG,,final,II,,ABSTR
 282,Mathieu,EM2007,0014,ojg,,ojib1241,-zi,OJ:3,,,,,,NG,,final
 283,Mathieu,EM2007,0006,ojg,,ojib1241,-zo,OJ:3,,,,,,NG,,final,AI,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Valentine 2001
-284,Rhodes,RR1976,"0138,0142,0265,0273",ojg,,ojib1241,-zo,OJ:6,,,,,,NG,,final,INTR.
+284,Rhodes,RR1976,"0138,0142,0265,0273",ojg,,ojib1241,-zo,OJ:6,,,,,,NG,,final,INTR
 285,Rhodes,RR2015,0198,ojg,,ojib1241,-zo-,OJ:3,,,,,,middle voice,MIDDLE,final,AI,,ABSTR
-286,Rhodes,RR1976,"0260,0284",ojg,,ojib1241,-žo:niya:-,OJ:6,,,,,,money,,medial
+286,Rhodes,RR1976,"0260,0284",ojg,,ojib1241,-žo:niya:-,OJ:6,,,,,,money,money,medial
 287,Rhodes,RR1976,0242,ojg,,ojib1241,(na:)ni:bawi,OJ:6,,,,,,stand,stand,initial
 288,Rhodes,RR1980,0184,ojg,,ojib1241,∅,OJ:9,,,,,,NG,,final,,,ABSTR
 289,Mathieu,EM2007,0018,ojg,,ojib1241,∅-,OJ:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Wolfart
@@ -232,31 +232,31 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 296,Rhodes,RR1976,0233,ojg,,ojib1241,a:naw-,OJ:6,,,,,,be unable,unable,initial
 297,Rhodes,RR1976,0227,ojg,,ojib1241,a:niko:-,OJ:6,,,,,,be linked,linked,initial
 298,Rhodes,RR1976,"0232,0238,0240",ojg,,ojib1241,a:pid-,OJ:6,,,,,,really,really,initial
-299,Rhodes,RR1976,0227,ojg,,ojib1241,a:tawa:-,OJ:6,,,,,,be right side up,,initial
+299,Rhodes,RR1976,0227,ojg,,ojib1241,a:tawa:-,OJ:6,,,,,,be right side up,right side up,initial
 3,Rhodes,RR1976,0219,ojg,,ojib1241,-(i)bi-,OJ:6,,,,,,cause,,final
 30,Rhodes,RR1976,0214,ojg,,ojib1241,-(i)wi-,OJ:6,,,,,,take,,final
 300,Rhodes,RR1976,"0277,0281",ojg,,ojib1241,a:tigw,OJ:6,,,,,,stick,,medial,CLASS
-301,Rhodes,RR1976,"0220,0227",ojg,,ojib1241,a:žigid-,OJ:6,,,,,,face up,,initial
+301,Rhodes,RR1976,"0220,0227",ojg,,ojib1241,a:žigid-,OJ:6,,,,,,face up,face up,initial
 302,Goddard,IG1965,0211,ojg,,ojib1241,a·paˀw,OJ:1,,,,*a·p-,,untie,untie,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Marked as TA; could be verb stem
 303,Rhodes,RR2015,0197,ojg,,ojib1241,aabad-,OJ:3,,,,,,useful,useful,initial
 304,Rhodes,RR2015,0196,ojg,,ojib1241,aakw-,OJ:3,,,,,,be sick,sick,initial
 305,Rhodes,RR2015,"0196,0197,0199",ojg,,ojib1241,ab-,OJ:3,,,,,,be at,at,initial
 306,Rhodes,RR2015,"0197,0198",ojg,,ojib1241,ab-,OJ:3,,,,,,sit,,final,,,CONCR
 307,Rhodes,RR1976,"0153,0155,0156",ojg,,ojib1241,abwe-,OJ:6,,,,,,roast,roast,initial
-308,Rhodes,RR1980,0191,ojg,,ojib1241,adah-,OJ:9,,,,,,with a stick,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"P.191: ""no longer productive in OJibwa at all, occuring only in a few unanalyzable words."""
+308,Rhodes,RR1980,0191,ojg,,ojib1241,adah-,OJ:9,,,,,,with a stick,"stick, INSTRUMENT",final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"P.191: ""no longer productive in OJibwa at all, occuring only in a few unanalyzable words."""
 309,Rhodes,RR1976,0278,ojg,,ojib1241,aga:c-,OJ:6,,,,,,small,small,initial
 310,Valentine 2002,RV2002,0106,ojg,"Wikwemikong, Manitoulin Island, Walpole Island",ojib1241,agaach-,OJ:3,,,,,,small,small,initial
 311,Valentine 2002,RV2002,0106,ojg,"Sarnia, Ontario",ojib1241,agaas-,OJ:3,,,,,,small,small,initial
 312,Rhodes,RR1980,0191,ojg,,ojib1241,agah-,OJ:9,,,,,,with an axe,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,agahw,agaham,,,,aq
-313,Rhodes,RR1980,0191,ojg,,ojib1241,agaham,OJ:9,,,,,,with an axe,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,agah-,aq
-314,Rhodes,RR1980,0191,ojg,,ojib1241,agahw,OJ:9,,,,,,with an axe,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,agah-,aq
+313,Rhodes,RR1980,0191,ojg,,ojib1241,agaham,OJ:9,,,,,,with an axe,"axe, INSTRUMENT",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,agah-,aq
+314,Rhodes,RR1980,0191,ojg,,ojib1241,agahw,OJ:9,,,,,,with an axe,"axe, INSTRUMENT",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,agah-,aq
 315,Rhodes,RR1980,0185,ojg,,ojib1241,aganām,OJ:9,,,,,,do violence,do violence,final,TA,,,,,,,,aganāndam,,,,,,,,,,,,,,,,,,,,,,,,,aganām-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 316,Rhodes,RR1980,0185,ojg,,ojib1241,aganām-,OJ:9,,,,,,do violence,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,aganām,aganāndam,,,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 317,Rhodes,RR1980,0185,ojg,,ojib1241,aganāndam,OJ:9,,,,,,do violence,do violence,final,TI,,,,,,,aganām,,,,,,,,,,,,,,,,,,,,,,,,,,aganām-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 318,Rhodes,RR1976,0281,ojg,,ojib1241,agid-,OJ:6,,,,,,on,on,initial
 319,Rhodes,RR2015,0197,ojg,,ojib1241,agim-,OJ:3,,,,,,count,count,initial
 32,Rhodes,RR1976,0292,ojg,,ojib1241,-(o)h-,OJ:6,,,,,,cause,,final
-320,Rhodes,RR1976,0227,ojg,,ojib1241,agwa:-,OJ:6,,,,,,be outside of water/fire,,initial
+320,Rhodes,RR1976,0227,ojg,,ojib1241,agwa:-,OJ:6,,,,,,be outside of water/fire,"outside of (water, fire)",initial
 321,Rhodes,RR2015,0198,ojg,,ojib1241,agwaa-,OJ:3,,,,,,ashore,ashore,initial
 322,Rhodes,RR1980,"0183,0184",ojg,,ojib1241,ah,OJ:9,,,,,,NG,,prefinal
 323,Rhodes,RR1980,"0185,0191,0196",ojg,,ojib1241,ah-,OJ:9,,,,,,by instrument,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,aw,aham,aho,awa,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
@@ -266,8 +266,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 327,Rhodes,RR1980,0185,ojg,,ojib1241,aham,OJ:9,,,,,,(agent) by instrument,INSTRUMENT,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ah-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 328,Rhodes,RR1980,0185,ojg,,ojib1241,ahaN,OJ:9,,,,,,follow,follow,final,TA,,,,,,,,ahadō,,,,,,,,,,,,,,,,,,,,,,,,,aha-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 329,Rhodes,RR1980,0185,ojg,,ojib1241,aho,OJ:9,,,,,,by instrument,INSTRUMENT,final,AI,,,,,,awa,aw,,,,,,,,,,,,,,,,,,,,,,,,,,ah-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-33,Rhodes,RR1976,"0138,0141,0142,0182",ojg,,ojib1241,-∅,OJ:6,,,,,,NG,,final,INTR.,,,Y
-330,Rhodes,RR1980,0190,ojg,,ojib1241,āk,OJ:9,,,,,,with fire,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,ākizw,ākizam
+33,Rhodes,RR1976,"0138,0141,0142,0182",ojg,,ojib1241,-∅,OJ:6,,,,,,NG,,final,INTR,,,Y
+330,Rhodes,RR1980,0190,ojg,,ojib1241,āk,OJ:9,,,,,,with fire,"fire, MANNER",prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,ākizw,ākizam
 331,Denny,JPD1978b,"0296,0311",ojg,,ojib1241,akācc,OJ:5,,,,,,small,small,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 332,Denny,JPD1978b,0296,ojg,,ojib1241,akāccatē,OJ:5,,,,,,narrow,narrow,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 333,Denny,JPD1977,0138,ojg,,ojib1241,akāccitē,OJ:5,,,,,,narrow,narrow,initial
@@ -276,136 +276,136 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 336,Denny,JPD1978a,0301,ojg,,ojib1241,ākami,OJ:5,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'water'
 337,Denny,JPD1981,0007,ojg,,ojib1241,akint,OJ:5,,,,,,count,count,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 338,Rhodes,RR1980,0190,ojg,,ojib1241,ākiz-,OJ:9,,,,,,with fire,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,ākizw,ākizam,,,,āk
-339,Rhodes,RR1980,0190,ojg,,ojib1241,ākizam,OJ:9,,,,,,with fire,,final,TI,,,,,,,ākizw,,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,āk
-34,Rhodes,RR1976,0231,ojg,,ojib1241,-∅,OJ:6,,,,,,cause by heat,,final
-340,Rhodes,RR1980,0190,ojg,,ojib1241,ākizw,OJ:9,,,,,,with fire,,final,TA,,,,,,,,ākizam,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,āk
+339,Rhodes,RR1980,0190,ojg,,ojib1241,ākizam,OJ:9,,,,,,with fire,"fire, MANNER",final,TI,,,,,,,ākizw,,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,āk
+34,Rhodes,RR1976,0231,ojg,,ojib1241,-∅,OJ:6,,,,,,cause by heat,"heat, CAUSATIVE",final
+340,Rhodes,RR1980,0190,ojg,,ojib1241,ākizw,OJ:9,,,,,,with fire,"fire, MANNER",final,TA,,,,,,,,ākizam,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,āk
 341,Denny,JPD1978b,0297,ojg,,ojib1241,akkacik,OJ:5,,,,,,shady,shady,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 342,Denny,JPD1981,0003,ojg,,ojib1241,akkamik,OJ:5,,,,,,ground,,medial ,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-343,Denny,JPD1977,0126,ojg,,ojib1241,akkamik,OJ:5,,,,,,stretch of,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: see p. 133
-344,Denny,JPD1978a,0298,ojg,,ojib1241,akkamik,OJ:5,,,,*-axkamik-,,stretch (of ground),,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-345,Denny,JPD1978a,0298,ojg,,ojib1241,akkamik,OJ:5,,,,*-axkamik-,,stretch (of time),,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+343,Denny,JPD1977,0126,ojg,,ojib1241,akkamik,OJ:5,,,,,,stretch of,stretch (N),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: see p. 133
+344,Denny,JPD1978a,0298,ojg,,ojib1241,akkamik,OJ:5,,,,*-axkamik-,,stretch (of ground),stretch (of ground),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+345,Denny,JPD1978a,0298,ojg,,ojib1241,akkamik,OJ:5,,,,*-axkamik-,,stretch (of time),stretch (of time),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 346,Denny,JPD1978a,0297,ojg,,ojib1241,ākkawāt,OJ:5,,,,,,dangerous,danger,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-347,Denny,JPD1978a,0299,ojg,,ojib1241,akkon,OJ:5,,,,,,be lit,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-348,Denny,JPD1978a,0295,ojg,,ojib1241,akkw,OJ:5,,,,,,so far,,initial
-349,Denny,JPD1978a,0298,ojg,,ojib1241,akkw,OJ:5,,,,,,sky,,medial
+347,Denny,JPD1978a,0299,ojg,,ojib1241,akkon,OJ:5,,,,,,be lit,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+348,Denny,JPD1978a,0295,ojg,,ojib1241,akkw,OJ:5,,,,,,so far,"far, QUANTITY, RELATIVE",initial
+349,Denny,JPD1978a,0298,ojg,,ojib1241,akkw,OJ:5,,,,,,sky,sky,medial
 35,Rhodes,RR2015,0198,ojg,,ojib1241,-∅,OJ:3,,,,,,NG,,final,TA
 350,Denny,JPD1981,0005,ojg,,ojib1241,ākkw,OJ:5,,,,,,NG,,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-351,Denny,JPD1978a,0298,ojg,,ojib1241,ākkw,OJ:5,,,,,,organic solid,,medial
-352,Denny,JPD1981,0008,ojg,,ojib1241,ākkwē,OJ:5,,,,,,"forest, brush",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-353,Denny,JPD1978a,0298,ojg,,ojib1241,ākkwē,OJ:5,,,,,,woods,,medial
+351,Denny,JPD1978a,0298,ojg,,ojib1241,ākkw,OJ:5,,,,,,organic solid,"organic, solid, CLASSIFIER",medial
+352,Denny,JPD1981,0008,ojg,,ojib1241,ākkwē,OJ:5,,,,,,"forest, brush","brush, forest",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+353,Denny,JPD1978a,0298,ojg,,ojib1241,ākkwē,OJ:5,,,,,,woods,woods,medial
 354,Denny,JPD1978b,"0297,0304",ojg,,ojib1241,akokk,OJ:5,,,,,,stick,stick,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 355,Denny,JPD1981,0005,ojg,,ojib1241,ākon,OJ:5,,,,,,snow,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-356,Denny,JPD1978b,"0298,0315",ojg,,ojib1241,ākonak,OJ:5,,,,,,fallen snow,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+356,Denny,JPD1978b,"0298,0315",ojg,,ojib1241,ākonak,OJ:5,,,,,,fallen snow,snow (fallen),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 357,Denny,JPD1981,"0003,0004,0005",ojg,,ojib1241,ākonak,OJ:5,,,,,,snow,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 358,Denny,JPD1978a,0297,ojg,,ojib1241,akōt,OJ:5,,,,,,hang,hang,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-359,Denny,JPD1978a,0299,ojg,,ojib1241,akōt,OJ:5,,,,,,hang,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+359,Denny,JPD1978a,0299,ojg,,ojib1241,akōt,OJ:5,,,,,,hang,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 36,Mathieu,EM2007,"0006,0013",ojg,,ojib1241,-ā,OJ:5,,,,,,propriétés spatiales,spatial,final,II,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Denny 1978
-360,Rhodes,RR1976,0277,ojg,,ojib1241,akw-,OJ:6,,,,,,be (so) long,,initial
+360,Rhodes,RR1976,0277,ojg,,ojib1241,akw-,OJ:6,,,,,,be (so) long,"long, RELATIVE",initial
 361,Denny,JPD1978a,0311,ojg,,ojib1241,akwā,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'ashore'
-362,Denny,JPD1978a,0299,ojg,,ojib1241,akwint,OJ:5,,,,,,immersed,,final,unk.,,CONCR
+362,Denny,JPD1978a,0299,ojg,,ojib1241,akwint,OJ:5,,,,,,immersed,,final,unknown,,CONCR
 363,Denny,JPD1977,0135,ojg,,ojib1241,akwīnt,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'immerse' or related
 364,Denny,JPD1978a,0297,ojg,,ojib1241,akwīnt,OJ:5,,,,,,immersed,immersed,initial
 365,Denny,JPD1977,0126,ojg,,ojib1241,akwīt,OJ:5,,,,,,NG,,initial
-366,Rhodes,RR1980,0184,ojg,,ojib1241,am,OJ:9,,,,,,by mouth,,final,TA,,,,,,,,andam,,,,,,,,,,,,,,,,,,,,,,,,,am-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+366,Rhodes,RR1980,0184,ojg,,ojib1241,am,OJ:9,,,,,,by mouth,"mouth, MANNER",final,TA,,,,,,,,andam,,,,,,,,,,,,,,,,,,,,,,,,,am-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 367,Rhodes,RR2015,"0196,0197",ojg,,ojib1241,am-,OJ:3,,,,,,eat,eat,initial
-368,Denny,JPD1978a,0299,ojg,,ojib1241,amo,OJ:5,,,,,,make it's way,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+368,Denny,JPD1978a,0299,ojg,,ojib1241,amo,OJ:5,,,,,,make it's way,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 369,Rhodes,RR1976,0281,ojg,,ojib1241,ana:m-,OJ:6,,,,,,under,under,initial
 37,Denny,JPD1978b,0294-0322,ojg,,ojib1241,-ā-,OJ:5,,,,,,spatial,spatial,final,II,,ABSTR,,,,,,,,,,,akkw-ā,,,V,II,it is so far/so long,,JPD1978a;0295,,,,,,,,,,,,,,,,,,,HTL
-370,Denny,JPD1978a,0298,ojg,,ojib1241,anakk,OJ:5,,,,,,tree,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-371,Rhodes,RR1980,0184,ojg,,ojib1241,andam,OJ:9,,,,,,by mouth,,final,TI,,,,,,,am,,,,,,,,,,,,,,,,,,,,,,,,,,am-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+370,Denny,JPD1978a,0298,ojg,,ojib1241,anakk,OJ:5,,,,,,tree,tree,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+371,Rhodes,RR1980,0184,ojg,,ojib1241,andam,OJ:9,,,,,,by mouth,"mouth, MANNER",final,TI,,,,,,,am,,,,,,,,,,,,,,,,,,,,,,,,,,am-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 372,Rhodes,RR1980,0186,ojg,,ojib1241,anem-,OJ:9,,,,,,in the mouth,in mouth,final,TA,,CONCR,,,,,,anemdam,,,,,,,,,,,,,,,,,,,,,anem,anemdam,,,anem-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 373,Rhodes,RR1980,0186,ojg,,ojib1241,anemdam,OJ:9,,,,,,in the mouth,in mouth,final,TI,,,,,,,anem,,,,,,,,,,,,,,,,,,,,,,,,,,anem-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 374,Denny,JPD1978a,0303,ojg,,ojib1241,anikāw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'sad'
 375,Denny,JPD1977,0137,ojg,,ojib1241,ānikkō,OJ:5,,,,,,to join,join,initial
-376,Denny,JPD1978b,0296,ojg,,ojib1241,anikokkw,OJ:5,,,,,,so big,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-377,Denny,JPD1978a,0298,ojg,,ojib1241,anikw,OJ:5,,,,,,weigh,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-378,Denny,JPD1977,0133,ojg,,ojib1241,ānim,OJ:5,,,,,,wind,,medial,,,,,,,,,,yānim
+376,Denny,JPD1978b,0296,ojg,,ojib1241,anikokkw,OJ:5,,,,,,so big,"big, QUANTITY, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+377,Denny,JPD1978a,0298,ojg,,ojib1241,anikw,OJ:5,,,,,,weigh,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+378,Denny,JPD1977,0133,ojg,,ojib1241,ānim,OJ:5,,,,,,wind,wind,medial,,,,,,,,,,yānim
 379,Rhodes,RR1976,0244,ojg,,ojib1241,anim-,OJ:6,,,,,,away,away,initial
-38,Rhodes,RR1976,"0129,0130,0136",ojg,,ojib1241,-a:,OJ:6,,,,,,NG,,final,INTR.
+38,Rhodes,RR1976,"0129,0130,0136",ojg,,ojib1241,-a:,OJ:6,,,,,,NG,,final,INTR
 380,Denny,JPD1977,0130,ojg,,ojib1241,animikkī,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'thunder'
 381,Rhodes,RR1976,0227,ojg,,ojib1241,animiko:-,OJ:6,,,,,,be faced away,face away,initial
 382,Rhodes,RR1976,0217,ojg,,ojib1241,animw-,OJ:6,,,,,,dog,dog,initial
-383,Denny,JPD1978a,0299,ojg,,ojib1241,ānkot,OJ:5,,,,,,spread out,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-384,Rhodes,RR2015,0197,ojg,,ojib1241,ano(o)-,OJ:3,,,,,,"assign a task, work",,initial
+383,Denny,JPD1978a,0299,ojg,,ojib1241,ānkot,OJ:5,,,,,,spread out,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+384,Rhodes,RR2015,0197,ojg,,ojib1241,ano(o)-,OJ:3,,,,,,"assign a task, work","assign (task), work",initial
 385,Denny,JPD1978b,0297,ojg,,ojib1241,anokky,OJ:5,,,,,,work,work,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-386,Denny,JPD1978a,0299,ojg,,ojib1241,ānš,OJ:5,,,,,,shine,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-387,Denny,JPD1977,0135,ojg,,ojib1241,ānt,OJ:5,,,,,,to colour,color (V),final,unk.,,CONCR
-388,Denny,JPD1978a,0299,ojg,,ojib1241,ānt,OJ:5,,,,,,colored,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-389,Denny,JPD1978b,0299,ojg,,ojib1241,āpan,OJ:5,,,,,,to dawn,,final,unk.,,CONCR,,,,,,,,,,,miskw-āpan,,,V,II,it dawns red,,JPD1978a;0319,,,,,,,,,,,,,,,,,,,HTL
+386,Denny,JPD1978a,0299,ojg,,ojib1241,ānš,OJ:5,,,,,,shine,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+387,Denny,JPD1977,0135,ojg,,ojib1241,ānt,OJ:5,,,,,,to colour,color (V),final,unknown,,CONCR
+388,Denny,JPD1978a,0299,ojg,,ojib1241,ānt,OJ:5,,,,,,colored,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+389,Denny,JPD1978b,0299,ojg,,ojib1241,āpan,OJ:5,,,,,,to dawn,,final,unknown,,CONCR,,,,,,,,,,,miskw-āpan,,,V,II,it dawns red,,JPD1978a;0319,,,,,,,,,,,,,,,,,,,HTL
 39,Rhodes,RR1976,"0260,0262,0275,0277",ojg,,ojib1241,-a:bi:g-,OJ:6,,,,,,"rope, string",,medial,CLASS
 390,Denny,JPD1977,0126,ojg,,ojib1241,āpan,OJ:5,,,,,,NG,,final,II,,CONCR
 391,Denny,JPD1978b,0297,ojg,,ojib1241,āpat,OJ:5,,,,,,useful,useful,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 392,Denny,JPD1977,0129,ojg,,ojib1241,āpat,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'easy'
-393,Denny,JPD1978a,0298,ojg,,ojib1241,āpat,OJ:5,,,,,,useful for,,final,unk.,,CONCR
-394,Denny,JPD1977,0135,ojg,,ojib1241,āpatt,OJ:5,,,,,,to smoke,smoke,final,unk.,,CONCR
-395,Denny,JPD1978a,0299,ojg,,ojib1241,āpatt,OJ:5,,,,,,smoke,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-396,Denny,JPD1978a,0299,ojg,,ojib1241,āpāw,OJ:5,,,,,,wetted,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+393,Denny,JPD1978a,0298,ojg,,ojib1241,āpat,OJ:5,,,,,,useful for,,final,unknown,,CONCR
+394,Denny,JPD1977,0135,ojg,,ojib1241,āpatt,OJ:5,,,,,,to smoke,smoke,final,unknown,,CONCR
+395,Denny,JPD1978a,0299,ojg,,ojib1241,āpatt,OJ:5,,,,,,smoke,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+396,Denny,JPD1978a,0299,ojg,,ojib1241,āpāw,OJ:5,,,,,,wetted,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 397,Denny,JPD1981,"0005,0006",ojg,,ojib1241,āpī,OJ:5,,,,,,string,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial apy and final ē,,,,,,HTL
 398,Denny,JPD1977,0134,ojg,,ojib1241,āpī,OJ:5,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely '1D inflexible'
-399,Rhodes,RR1976,0233,ojg,,ojib1241,api:t-,OJ:6,,,,,,"be in the process of, continue",continue,initial
+399,Rhodes,RR1976,0233,ojg,,ojib1241,api:t-,OJ:6,,,,,,"be in the process of, continue","continue, in (process)",initial
 4,Rhodes,RR1976,"0225,0260,0262,0275",ojg,,ojib1241,-(i)bi:g-,OJ:6,,,,,,"water, liquid",,medial,CLASS
 40,Rhodes,RR1976,"0275,0281",ojg,,ojib1241,-a:bik-,OJ:6,,,,,,"metal, stone",,medial,CLASS
-400,Denny,JPD1978b,"0298,0321",ojg,,ojib1241,āpīk,OJ:5,,,,,,"1d, flexible",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+400,Denny,JPD1978b,"0298,0321",ojg,,ojib1241,āpīk,OJ:5,,,,,,"1d, flexible","flexible, one dimensional, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 401,Denny,JPD1981,"0001,0006",ojg,,ojib1241,āpīk,OJ:5,,,,,,1D flexible objects,,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-402,Denny,JPD1977,0124,ojg,,ojib1241,āpīk,OJ:5,,,,,,stringlike,,medial
-403,Denny,JPD1977,0140,ojg,,ojib1241,āpīk,OJ:5,,,,,,1D inflexible,,medial
+402,Denny,JPD1977,0124,ojg,,ojib1241,āpīk,OJ:5,,,,,,stringlike,"stringlike, CLASSIFIER",medial
+403,Denny,JPD1977,0140,ojg,,ojib1241,āpīk,OJ:5,,,,,,1D inflexible,"inflexible, one dimensional, rigid, CLASSIFIER",medial
 404,Denny,JPD1978b,"0298,0300,0301,0309",ojg,,ojib1241,āpikk,OJ:5,,,,,,mineral solid,,medial,CLASS,,,,,,,,,,,,,šāšš-āpikk-iss-in,,,V,II,it slips and falls on stone,,JPD1978a;0300,,,,,,,,,,,,,,,,,,,HTL
 405,Denny,JPD1981,0007,ojg,,ojib1241,āpikkw,OJ:5,,,,,,mineral solid,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-406,Denny,JPD1978b,"0299,0311",ojg,,ojib1241,āpot,OJ:5,,,,,,carried by current,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-407,Denny,JPD1977,0135,ojg,,ojib1241,āpōt,OJ:5,,,,,,be carried away by current,"carried (away), current",final,unk.,,CONCR
-408,Denny,JPD1977,0135,ojg,,ojib1241,āpōt,OJ:5,,,,,,water current,"current, water",final,unk.,,CONCR
-409,Denny,JPD1978a,0299,ojg,,ojib1241,āpōt,OJ:5,,,,,,carried by current,,final,unk.,,CONCR
-41,Rhodes,RR1976,"0121,0265",ojg,,ojib1241,-a:bikw-,OJ:6,,,,,,money,,final
+406,Denny,JPD1978b,"0299,0311",ojg,,ojib1241,āpot,OJ:5,,,,,,carried by current,"carried, current",final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+407,Denny,JPD1977,0135,ojg,,ojib1241,āpōt,OJ:5,,,,,,be carried away by current,"carried (away), current",final,unknown,,CONCR
+408,Denny,JPD1977,0135,ojg,,ojib1241,āpōt,OJ:5,,,,,,water current,"current, water",final,unknown,,CONCR
+409,Denny,JPD1978a,0299,ojg,,ojib1241,āpōt,OJ:5,,,,,,carried by current,,final,unknown,,CONCR
+41,Rhodes,RR1976,"0121,0265",ojg,,ojib1241,-a:bikw-,OJ:6,,,,,,money,money,final
 410,Denny,JPD1978a,0307,ojg,,ojib1241,appakat,OJ:5,,,,,,NG,,initial
-411,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,appīcc,OJ:5,,,,,,so far,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+411,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,appīcc,OJ:5,,,,,,so far,"far, QUANTITY, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 412,Denny,JPD1978b,0297,ojg,,ojib1241,appit,OJ:5,,,,,,fly,fly,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 413,Denny,JPD1977,0135,ojg,,ojib1241,appit,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'fly' or related
 414,Denny,JPD1978a,0297,ojg,,ojib1241,appitt,OJ:5,,,,,,fly,fly,initial
-415,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,appītt,OJ:5,,,,,,so high,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-416,Denny,JPD1978b,0297,ojg,,ojib1241,āpw,OJ:5,,,,,,warm weather,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+415,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,appītt,OJ:5,,,,,,so high,"high, QUANTITY, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+416,Denny,JPD1978b,0297,ojg,,ojib1241,āpw,OJ:5,,,,,,warm weather,weather (warm),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 417,Denny,JPD1981,0005,ojg,,ojib1241,apy,OJ:5,,,,,,string,,medial ,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-418,Denny,JPD1978a,0299,ojg,,ojib1241,āpy,OJ:5,,,,,,go,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-419,Denny,JPD1978a,0299,ojg,,ojib1241,āpy,OJ:5,,,,,,being strung,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-42,Rhodes,RR1976,"0213,0214,0232,0245",ojg,,ojib1241,-a:daga:,OJ:6,,,,,,"wade, swim, move through water",,final
-420,Rhodes,RR1980,0191,ojg,,ojib1241,aq,OJ:9,,,,,,with an axe,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,agah-,agahw,agaham
+418,Denny,JPD1978a,0299,ojg,,ojib1241,āpy,OJ:5,,,,,,go,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+419,Denny,JPD1978a,0299,ojg,,ojib1241,āpy,OJ:5,,,,,,being strung,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+42,Rhodes,RR1976,"0213,0214,0232,0245",ojg,,ojib1241,-a:daga:,OJ:6,,,,,,"wade, swim, move through water","move (through water), swim, wade",final
+420,Rhodes,RR1980,0191,ojg,,ojib1241,aq,OJ:9,,,,,,with an axe,"axe, INSTRUMENT",prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,agah-,agahw,agaham
 421,Rhodes,RR1980,0190,ojg,,ojib1241,ās-,OJ:9,,,,,,by the heat of the sun,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,āso,āte
 422,Rhodes,RR1976,0212,ojg,,ojib1241,ašam-,OJ:6,,,,,,feed,feed,initial
 423,Rhodes,RR1976,0227,ojg,,ojib1241,ašawe:-,OJ:6,,,,,,be tilted,tilt,initial
-425,Denny,JPD1977,0131,ojg,,ojib1241,āšk,OJ:5,,,,,,movement of waves,movement (waves),final,unk.,,CONCR
-426,Denny,JPD1978a,0298,ojg,,ojib1241,āšk,OJ:5,,,,,,wave movement,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+425,Denny,JPD1977,0131,ojg,,ojib1241,āšk,OJ:5,,,,,,movement of waves,movement (waves),final,unknown,,CONCR
+426,Denny,JPD1978a,0298,ojg,,ojib1241,āšk,OJ:5,,,,,,wave movement,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 427,Denny,JPD1978a,0310,ojg,,ojib1241,aškwā,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'after'
 428,Rhodes,RR1976,0233,ojg,,ojib1241,aškwa:-,OJ:6,,,,,,finish,finish,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.233: ""(rare as initial, used to mean 'after')"""
 429,Rhodes,RR1980,0190,ojg,,ojib1241,āso,OJ:9,,,,,,by the heat of the sun,"heat (of sun), MANNER",final,AI,,,,,,āte,,,,,,,,,,,,,,,,,,,,,,,,,,,ās-
-43,Rhodes,RR1976,0230,ojg,,ojib1241,-a:h-,OJ:6,,,,,,cause by sun,,final
+43,Rhodes,RR1976,0230,ojg,,ojib1241,-a:h-,OJ:6,,,,,,cause by sun,"sun, CAUSATIVE",final
 430,Rhodes,RR1976,"0169,0219",ojg,,ojib1241,ašp-,OJ:6,,,,,,high,high,initial
-431,Denny,JPD1977,0135,ojg,,ojib1241,āss,OJ:5,,,,,,to be blown,blown,final,unk.,,CONCR
-432,Denny,JPD1978a,0299,ojg,,ojib1241,āss,OJ:5,,,,,,be blown,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+431,Denny,JPD1977,0135,ojg,,ojib1241,āss,OJ:5,,,,,,to be blown,blown,final,unknown,,CONCR
+432,Denny,JPD1978a,0299,ojg,,ojib1241,āss,OJ:5,,,,,,be blown,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 433,Denny,JPD1977,0130,ojg,,ojib1241,aššawē,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"VMN: may mean 'tilted', or 'on its side'"
-434,Denny,JPD1978b,0304,ojg,,ojib1241,aššawē-,OJ:5,,,,,,on its side,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+434,Denny,JPD1978b,0304,ojg,,ojib1241,aššawē-,OJ:5,,,,,,on its side,on (side),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 435,Denny,JPD1977,0126,ojg,,ojib1241,at,OJ:5,,,,,,NG,,final,II,,ABSTR,,,,,,,an
-436,Denny,JPD1977,0135,ojg,,ojib1241,at,OJ:5,,,,,,to freeze,freeze,final,unk.,,CONCR
+436,Denny,JPD1977,0135,ojg,,ojib1241,at,OJ:5,,,,,,to freeze,freeze,final,unknown,,CONCR
 437,Denny,JPD1978a,0294,ojg,,ojib1241,at,OJ:5,,,,,,state,state,final,II,,ABSTR,,,,,,,,,,,ikkitō-mak-at,,,II,,it says,,,,,,,,,,,,,,,,,,,"Denny defines a ""state"" as ""an occurrence which does not change""",,HTL
-438,Denny,JPD1978a,0299,ojg,,ojib1241,at,OJ:5,,,,,,freeze,,final,unk.,,CONCR
-439,Denny,JPD1978a,0299,ojg,,ojib1241,āt,OJ:5,,,,,,done to,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+438,Denny,JPD1978a,0299,ojg,,ojib1241,at,OJ:5,,,,,,freeze,,final,unknown,,CONCR
+439,Denny,JPD1978a,0299,ojg,,ojib1241,āt,OJ:5,,,,,,done to,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 44,Rhodes,RR1976,"0219,0222",ojg,,ojib1241,-a:kiz-,OJ:6,,,,,,cause using fire,,final
 440,Rhodes,RR1980,0190,ojg,,ojib1241,āte,OJ:9,,,,,,by the heat of the sun,"heat (of sun), MANNER",final,II,,,,,āso,,,,,,,,,,,,,,,,,,,,,,,,,,,,ās-
-441,Denny,JPD1978b,0298,ojg,,ojib1241,atin,OJ:5,,,,,,hill,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-442,Denny,JPD1977,0134,ojg,,ojib1241,att,OJ:5,,,,,,be somewhere,somewhere,final,unk.,,CONCR
+441,Denny,JPD1978b,0298,ojg,,ojib1241,atin,OJ:5,,,,,,hill,hill,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+442,Denny,JPD1977,0134,ojg,,ojib1241,att,OJ:5,,,,,,be somewhere,somewhere,final,unknown,,CONCR
 443,Denny,JPD1977,0134,ojg,,ojib1241,att,OJ:5,,,,,,be somewhere,somewhere,initial
 444,Denny,JPD1978a,0297,ojg,,ojib1241,att,OJ:5,,,,,,placed,placed,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-445,Denny,JPD1978a,0299,ojg,,ojib1241,att,OJ:5,,,,,,placed,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-446,Denny,JPD1978b,0297,ojg,,ojib1241,ātt,OJ:5,,,,,,go out [fire],,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-447,Denny,JPD1978b,"0299,0311",ojg,,ojib1241,ātt,OJ:5,,,,,,heated by sun,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-448,Denny,JPD1977,0135,ojg,,ojib1241,ātt,OJ:5,,,,,,sun's heat,heat (sun),final,unk.,,CONCR
-449,Denny,JPD1978a,0295,ojg,,ojib1241,ātt,OJ:5,,,,,,solar/lunar energy,,final,unk.,,CONCR
+445,Denny,JPD1978a,0299,ojg,,ojib1241,att,OJ:5,,,,,,placed,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+446,Denny,JPD1978b,0297,ojg,,ojib1241,ātt,OJ:5,,,,,,go out [fire],go out (fire),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+447,Denny,JPD1978b,"0299,0311",ojg,,ojib1241,ātt,OJ:5,,,,,,heated by sun,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+448,Denny,JPD1977,0135,ojg,,ojib1241,ātt,OJ:5,,,,,,sun's heat,heat (sun),final,unknown,,CONCR
+449,Denny,JPD1978a,0295,ojg,,ojib1241,ātt,OJ:5,,,,,,solar/lunar energy,,final,unknown,,CONCR
 45,Rhodes,RR1976,0219,ojg,,ojib1241,-a:kizam-,OJ:6,,,,,,cause using fire,"fire, CAUSATIVE, MANNER",final,TI
 450,Denny,JPD1977,0134,ojg,,ojib1241,āttawā,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: maybe 'right side up' or related meaning?
-451,Denny,JPD1978b,0304,ojg,,ojib1241,āttawā-,OJ:5,,,,,,right side up,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+451,Denny,JPD1978b,0304,ojg,,ojib1241,āttawā-,OJ:5,,,,,,right side up,right (side),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 452,Rhodes,RR1980,"0185,0191",ojg,,ojib1241,aw,OJ:9,,,,,,by instrument,INSTRUMENT,final,TA,,,,,aho,awa,,aham,,,,,,,,,,,,,,,,,,,,,,,,,ah-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 453,Rhodes,RR1980,0185,ojg,,ojib1241,awa,OJ:9,,,,,,by instrument,INSTRUMENT,final,II,,,,,aho,,aw,aham,,,,,,,,,,,,,,,,,,,,,,,,,ah-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 454,Denny,JPD1978b,0297,ojg,,ojib1241,awan,OJ:5,,,,,,foggy,foggy,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 455,Denny,JPD1981,0006,ojg,,ojib1241,āwas,OJ:5,,,,,,haul,haul,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-456,Rhodes,RR1976,"0227,0230,0292",ojg,,ojib1241,ba:k-,OJ:6,,,,,,be (broken) open,"broken, open",initial
+456,Rhodes,RR1976,"0227,0230,0292",ojg,,ojib1241,ba:k-,OJ:6,,,,,,be (broken) open,broken open,initial
 457,Rhodes,RR1976,0242,ojg,,ojib1241,ba:pi,OJ:6,,,,,,laugh,laugh,initial
 458,Rhodes,RR1976,0227,ojg,,ojib1241,ba:s-,OJ:6,,,,,,be broken/cracked,"broken, cracked",initial
 459,Rhodes,RR1976,0227,ojg,,ojib1241,ba:šk-,OJ:6,,,,,,be burst,burst,initial
@@ -415,9 +415,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 462,Rhodes,RR1976,0282,ojg,,ojib1241,badagw-,OJ:6,,,,,,covered,covered,initial
 463,Rhodes,RR1976,"0228,0229",ojg,,ojib1241,bagid-,OJ:6,,,,,,released,released,initial
 464,Rhodes,RR1976,"0223,0269",ojg,,ojib1241,bagone:-,OJ:6,,,,,,have hole,hole,initial
-465,Rhodes,RR1976,0227,ojg,,ojib1241,bak-,OJ:6,,,,,,be broken (string-like things),,initial
+465,Rhodes,RR1976,0227,ojg,,ojib1241,bak-,OJ:6,,,,,,be broken (string-like things),"broken (string-like), CLASSIFIER",initial
 466,Rhodes,RR1976,0228,ojg,,ojib1241,bake:-,OJ:6,,,,,,aside,aside,initial
-467,Valentine 2002,RV2002,0103,ojg,"Wikwemikong, Lake Nipigon, Odawa",ojib1241,bakobii-,OJ:3,,,,,,in water,,initial
+467,Valentine 2002,RV2002,0103,ojg,"Wikwemikong, Lake Nipigon, Odawa",ojib1241,bakobii-,OJ:3,,,,,,in water,in water,initial
 468,Rhodes,RR1976,"0213,0221,0226,0227",ojg,,ojib1241,bakwe:-,OJ:6,,,,,,partially,partially,initial
 469,Rhodes,RR2015,0197,ojg,,ojib1241,bang-,OJ:3,,,,,,fall,fall (V),initial
 47,Rhodes,RR1976,"0154,0220,0292",ojg,,ojib1241,-a:kw-,OJ:6,,,,,,sick,sick,initial
@@ -427,41 +427,41 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 473,Rhodes,RR1980,0185,ojg,,ojib1241,bi-,OJ:9,,,,,,pull,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,biN,bidō,bizo,bide,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 474,Rhodes,RR1976,0238,ojg,,ojib1241,bi-,OJ:6,,,,,,come,come,initial
 475,Rhodes,RR1976,"0083,0106,0107,0108",ojg,,ojib1241,bi:-,OJ:6,,,,,,bring,bring,initial,,,,,,,,,,,,,,bi:d-,,,V,TI,bring,bi:n-,RR1976;0082,bi:n-,,,V,TA,bring,RR1976;0085
-476,Rhodes,RR1976,"0214,0244,0246",ojg,,ojib1241,bi:d-,OJ:6,,,,,,"hither, come","hither, come",initial
+476,Rhodes,RR1976,"0214,0244,0246",ojg,,ojib1241,bi:d-,OJ:6,,,,,,"hither, come","come, hither",initial
 477,Rhodes,RR1976,0126,ojg,,ojib1241,bi:gw-,OJ:6,,,,,,torn,torn,initial
-478,Rhodes,RR1976,0225,ojg,,ojib1241,bi:gw-,OJ:6,,,,,,be in pieces,,initial
+478,Rhodes,RR1976,0225,ojg,,ojib1241,bi:gw-,OJ:6,,,,,,be in pieces,in (pieces),initial
 479,Rhodes,RR1976,0251,ojg,,ojib1241,bi:ndige:-,OJ:6,,,,,,enter,enter,initial
 48,Rhodes,RR1976,"0260,0275,0276,0277",ojg,,ojib1241,-a:kw-,OJ:6,,,,,,"solid, wood",,medial,CLASS
 480,Rhodes,RR1976,0264,ojg,,ojib1241,bi:w-,OJ:6,,,,,,brush,brush,initial
 481,Rhodes,RR1976,0244,ojg,,ojib1241,biba:m-,OJ:6,,,,,,around,around,initial
-482,Rhodes,RR1980,0185,ojg,,ojib1241,bide,OJ:9,,,,,,pull,,final,II,,,,,bizo,,biN,bidō,,,,,,,,,,,,,,,,,,,,,,,,,bi-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-483,Rhodes,RR1980,0185,ojg,,ojib1241,bidō,OJ:9,,,,,,pull,,final,TI,,,,,bizo,bide,biN,,,,,,,,,,,,,,,,,,,,,,,,,,bi-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+482,Rhodes,RR1980,0185,ojg,,ojib1241,bide,OJ:9,,,,,,pull,"drag, haul, pull",final,II,,,,,bizo,,biN,bidō,,,,,,,,,,,,,,,,,,,,,,,,,bi-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+483,Rhodes,RR1980,0185,ojg,,ojib1241,bidō,OJ:9,,,,,,pull,"drag, haul, pull",final,TI,,,,,bizo,bide,biN,,,,,,,,,,,,,,,,,,,,,,,,,,bi-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 484,Valentine 2002,RV2002,0101,ojg,Odawa and Eastern (Rhodes 1985); Lake Nipigon,ojib1241,biin-,OJ:3,,,,,,clean,clean,initial
 485,Rhodes,RR2015,0202,ojg,,ojib1241,biis-,OJ:3,,,,,,smash,smash,initial
 487,Rhodes,RR1976,0265,ojg,,ojib1241,bimo:m-,OJ:6,,,,,,carry along (on the back),carry along,initial
-488,Rhodes,RR1980,0185,ojg,,ojib1241,biN,OJ:9,,,,,,pull,,final,TA,,,,,bizo,bide,,bidō,,,,,,,,,,,,,,,,,,,,,,,,,bi-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+488,Rhodes,RR1980,0185,ojg,,ojib1241,biN,OJ:9,,,,,,pull,"drag, haul, pull",final,TA,,,,,bizo,bide,,bidō,,,,,,,,,,,,,,,,,,,,,,,,,bi-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 489,Rhodes,RR1976,"0213,0214,0223,0227",ojg,,ojib1241,bisk-,OJ:6,,,,,,fold,fold,initial
-49,Rhodes,RR1976,0283,ojg,,ojib1241,-a:kw-,OJ:6,,,,,,very,,medial
-490,Rhodes,RR1980,0185,ojg,,ojib1241,bizo,OJ:9,,,,,,pull,,final,AI,,,,,,bide,biN,bidō,,,,,,,,,,,,,,,,,,,,,,,,,bi-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+49,Rhodes,RR1976,0283,ojg,,ojib1241,-a:kw-,OJ:6,,,,,,very,very,medial
+490,Rhodes,RR1980,0185,ojg,,ojib1241,bizo,OJ:9,,,,,,pull,"drag, haul, pull",final,AI,,,,,,bide,biN,bidō,,,,,,,,,,,,,,,,,,,,,,,,,bi-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 491,Mathieu,EM2007,0014,ojg,,ojib1241,bm-,OJ:3,,,,,,NG,,initial
 492,Rhodes,RR1980,0185,ojg,,ojib1241,bo-,OJ:9,,,,,,saw,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,boN,bodō,,,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-493,Rhodes,RR1976,"0227,0231,0262,0267",ojg,,ojib1241,bo:kw-,OJ:6,,,,,,be broken (stick-like things),,initial
+493,Rhodes,RR1976,"0227,0231,0262,0267",ojg,,ojib1241,bo:kw-,OJ:6,,,,,,be broken (stick-like things),"broken (stick-like), CLASSIFIER",initial
 494,Rhodes,RR1976,"0232,0233,0236",ojg,,ojib1241,bo:n-,OJ:6,,,,,,stop,stop,initial
 495,Rhodes,RR1980,0185,ojg,,ojib1241,bodō,OJ:9,,,,,,saw,saw (V),final,TI,,,,,,,,boN,,,,,,,,,,,,,,,,,,,,,,,,,bo-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 496,Rhodes,RR1980,0185,ojg,,ojib1241,boN,OJ:9,,,,,,saw,saw (V),final,TA,,,,,,,bodō,,,,,,,,,,,,,,,,,,,,,,,,,,bo-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-497,Valentine 2002,RV2002,0103,ojg,Lake Nipigon.,ojib1241,boodaakwe-,OJ:3,,,,,,in water,,initial
+497,Valentine 2002,RV2002,0103,ojg,Lake Nipigon.,ojib1241,boodaakwe-,OJ:3,,,,,,in water,in water,initial
 499,Denny,JPD1977,0136,ojg,,ojib1241,cāk,OJ:5,,,,,,completely,completely,initial
 5,Rhodes,RR1976,0238,ojg,,ojib1241,-(i)bi:h-,OJ:6,,,,,,write,,final
-50,Rhodes,RR1976,0245,ojg,,ojib1241,-a:ndawe:,OJ:6,,,,,,climb,,final,INTR.
-500,Denny,JPD1978b,"0298,0304",ojg,,ojib1241,cī,OJ:5,,,,,,3D differentiated,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+50,Rhodes,RR1976,0245,ojg,,ojib1241,-a:ndawe:,OJ:6,,,,,,climb,climb,final,INTR
+500,Denny,JPD1978b,"0298,0304",ojg,,ojib1241,cī,OJ:5,,,,,,3D differentiated,"differentiated, three dimensional, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 501,Denny,JPD1978b,0297,ojg,,ojib1241,cīnkw,OJ:5,,,,,,rumble,rumble,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 502,Denny,JPD1977,0135,ojg,,ojib1241,cīnkw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'rumble' or related
-502,Denny,JPD1978a,0298,ojg,,ojib1241,cīšiwak,OJ:5,,,,,,mud,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-503,Denny,JPD1978a,0299,ojg,,ojib1241,ciwan,OJ:5,,,,,,to flow as current,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+502,Denny,JPD1978a,0298,ojg,,ojib1241,cīšiwak,OJ:5,,,,,,mud,mud,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+503,Denny,JPD1978a,0299,ojg,,ojib1241,ciwan,OJ:5,,,,,,to flow as current,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 504,Denny,JPD1977,0124,ojg,,ojib1241,"curved, bent",OJ:5,,,,,,curved,curved,initial
 505,Rhodes,RR1980,0184,ojg,,ojib1241,d,OJ:9,,,,,,NG,,final,,,ABSTR
 506,Rhodes,RR1976,0227,ojg,,ojib1241,da:ng-,OJ:6,,,,,,touch,touch,initial
-507,Rhodes,RR1976,"0221,0227",ojg,,ojib1241,da:šk-,OJ:6,,,,,,"in two, be (split) (in two)",,initial
+507,Rhodes,RR1976,"0221,0227",ojg,,ojib1241,da:šk-,OJ:6,,,,,,"in two, be (split) (in two)","in two, split",initial
 508,Valentine 2002,RV2002,0104,ojg,Odawa,ojib1241,daashk-,OJ:3,,,,,,split,split,initial
 509,Rhodes,RR1980,0185,ojg,,ojib1241,dābādam,OJ:9,,,,,,drag,"drag, haul, pull",final,TI,,,,,dābī,,dābāN,,,,,,,,,,,,,,,,,,,,,,,,,,dābī-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 51,Rhodes,RR1976,"0232,0234,0241",ojg,,ojib1241,-a:pi,OJ:6,,,,,,laugh,,final
@@ -474,29 +474,29 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 517,Rhodes,RR2015,0198,ojg,,ojib1241,dakw-,OJ:3,,,,,,tight(ly),"tight, tightly",initial
 518,Valentine 2002,RV2002,0089,ojg,"wikwemikong, ""the two groups""",ojib1241,dawk-,OJ:3,,,,,,short,short,initial
 519,Rhodes,RR1980,0184,ojg,,ojib1241,de,OJ:9,,,,,,NG,,final,,,ABSTR
-52,Rhodes,RR1976,0231,ojg,,ojib1241,-a:s-,OJ:6,,,,,,cause by wind,,final
-520,Rhodes,RR1976,"0212,0260,0266,0285",ojg,,ojib1241,de:w-,OJ:6,,,,,,"throb, ache","throb, ache",initial
+52,Rhodes,RR1976,0231,ojg,,ojib1241,-a:s-,OJ:6,,,,,,cause by wind,"wind (N), CAUSATIVE",final
+520,Rhodes,RR1976,"0212,0260,0266,0285",ojg,,ojib1241,de:w-,OJ:6,,,,,,"throb, ache","ache, throb",initial
 521,Barrie & Mathieu,MB_EM2012,0136,ojg,,ojib1241,e,OJ:3,,,,,,NG,,final,AI
 522,Denny,JPD1981,"0005,0008",ojg,,ojib1241,ē,OJ:5,,,,,,NG,,postmedial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Denny argues this may not exist (1981:6, 8-9) ",,HTL
-523,Denny,JPD1981,"0005,0008",ojg,,ojib1241,ē,OJ:5,,,,,,NG,,final,INTR.,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-524,Denny,JPD1977,0125,ojg,,ojib1241,ē,OJ:5,,,,,,NG,,final,unk.,,ABSTR
+523,Denny,JPD1981,"0005,0008",ojg,,ojib1241,ē,OJ:5,,,,,,NG,,final,INTR,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+524,Denny,JPD1977,0125,ojg,,ojib1241,ē,OJ:5,,,,,,NG,,final,unknown,,ABSTR
 525,Denny,JPD1978a,0294,ojg,,ojib1241,ē,OJ:5,,,,,,process,,final,II,,ABSTR
-526,Rhodes,RR1976,0289,ojg,,ojib1241,e:n(im),OJ:6,,,,,,think/use the mind,,final
+526,Rhodes,RR1976,0289,ojg,,ojib1241,e:n(im),OJ:6,,,,,,think/use the mind,"mind (N), think",final
 527,Barrie & Mathieu,MB_EM2012,0136,ojg,,ojib1241,ee,OJ:3,,,,,,NG,,final,AI
 528,Denny,JPD1981,0005,ojg,,ojib1241,ēk,OJ:5,,,,,,sheetlike,,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /īk/,,HTL,
 529,Rhodes,RR1980,0184,ojg,,ojib1241,endāgozi,OJ:9,,,,,,by thought,"thought, MANNER",final,AI,,,,,,endāgwad,enim,endam,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-53,Rhodes,RR1976,0245,ojg,,ojib1241,-a:ši,OJ:6,,,,,,"be blown (by the wind), sail","be blown, sail (V)",final,INTR.
+53,Rhodes,RR1976,0245,ojg,,ojib1241,-a:ši,OJ:6,,,,,,"be blown (by the wind), sail","be blown, sail (V)",final,INTR
 530,Rhodes,RR1980,0184,ojg,,ojib1241,endāgwad,OJ:9,,,,,,by thought,"thought, MANNER",final,II,,,,,endāgozi,,enim,endam,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 531,Rhodes,RR1980,0184,ojg,,ojib1241,endam,OJ:9,,,,,,by thought,"thought, MANNER",final,TI,,,,,endāgozi,endāgwad,enim,,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 532,Rhodes,RR1980,0184,ojg,,ojib1241,enim,OJ:9,,,,,,by thought,"thought, MANNER",final,TA,,,,,endāgozi,endāgwad,,endam,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 533,Rhodes,RR1980,0184,ojg,,ojib1241,enim-,OJ:9,,,,,,by smell,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,enim,endam,endāgozi,endāgwad,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-534,Denny,JPD1978b,"0298,0303",ojg,,ojib1241,ēntākw,OJ:5,,,,,,thought to be,,final,unk.,,CONCR,,,,,,,ēntāko,,,,anikāw-ēntāko-t,,,V,II,it seemed sad,,JPD1978a;0303,,,,,,,,,,,,,,,,,,,HTL
+534,Denny,JPD1978b,"0298,0303",ojg,,ojib1241,ēntākw,OJ:5,,,,,,thought to be,,final,unknown,,CONCR,,,,,,,ēntāko,,,,anikāw-ēntāko-t,,,V,II,it seemed sad,,JPD1978a;0303,,,,,,,,,,,,,,,,,,,HTL
 535,Rhodes,RR1976,0227,ojg,,ojib1241,ga:nd-,OJ:6,,,,,,be met,meet,initial
 536,Rhodes,RR1976,"0228,0229,0269",ojg,,ojib1241,ga:nd-,OJ:6,,,,,,push,push,initial
 537,Rhodes,RR1976,0227,ojg,,ojib1241,ga:šk-,OJ:6,,,,,,be scraped,scrape,initial
 538,Rhodes,RR1976,0272,ojg,,ojib1241,ga:t-,OJ:6,,,,,,effaced,effaced,initial
 539,Valentine 2002,RV2002,0112,ojg,White Dog,ojib1241,gagiib-,OJ:3,,,,,,closed; blind,,initial,,Y
-54,Rhodes,RR1976,0245,ojg,,ojib1241,-a:sin,OJ:6,,,,,,"be blown (by the wind), sail","be blown, sail (V)",final,INTR.
+54,Rhodes,RR1976,0245,ojg,,ojib1241,-a:sin,OJ:6,,,,,,"be blown (by the wind), sail","be blown, sail (V)",final,INTR
 540,Rhodes,RR1976,0233,ojg,,ojib1241,gagwe:d-,OJ:6,,,,,,try,try,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.233: ""(preverb form /gagwe:-/)"""
 541,Rhodes,RR1976,0260,ojg,,ojib1241,ganw-,OJ:6,,,,,,long,long,initial
 542,Rhodes,RR1976,0233,ojg,,ojib1241,gašk-,OJ:6,,,,,,be possible,possible,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.233: "" (preverb very rare)"""
@@ -505,7 +505,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 545,Rhodes,RR1976,0279,ojg,,ojib1241,ge:zib-,OJ:6,,,,,,tidy,tidy,initial
 546,Rhodes,RR1976,0097,ojg,,ojib1241,gi:n-,OJ:6,,,,,,sharp,sharp,initial
 547,Rhodes,RR1976,"0222,0223,0225,0227",ojg,,ojib1241,gi:šk-,OJ:6,,,,,,cut,cut,initial
-548,Rhodes,RR1976,0264,ojg,,ojib1241,gi:t-,OJ:6,,,,,,remove (clothes),,initial
+548,Rhodes,RR1976,0264,ojg,,ojib1241,gi:t-,OJ:6,,,,,,remove (clothes),remove (clothing),initial
 549,Rhodes,RR1976,0285,ojg,,ojib1241,gi:w-,OJ:6,,,,,,around,around,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.285 ""not productively used to mean 'around' in Ojibwa. Its major occurance is in idioms"""
 550,Rhodes,RR1976,0223,ojg,,ojib1241,gi:wa:d-,OJ:6,,,,,,wander,wander,initial
 551,Rhodes,RR1976,"0169,0170,0171,0214",ojg,,ojib1241,gi:we:-,OJ:6,,,,,,go home,go home,initial
@@ -517,40 +517,40 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 557,Valentine 2002,RV2002,0089,ojg,"wikwemikong, ""the two groups""",ojib1241,ginw-,OJ:3,,,,,,long,long,initial
 558,Rhodes,RR1976,0230,ojg,,ojib1241,giž-,OJ:6,,,,,,hot,hot,initial
 559,Valentine 2002,RV2002,0086,ojg,"Manitoulin, Wikwemikong",ojib1241,gizhiib-,OJ:3,,,,,,itchy,itchy,initial
-56,Valentine 2002,RV2002,0088,ojg,Manitoulin,ojib1241,-aabiig-,OJ:3,,,,,,stringlike,,medial
+56,Valentine 2002,RV2002,0088,ojg,Manitoulin,ojib1241,-aabiig-,OJ:3,,,,,,stringlike,"stringlike, CLASSIFIER",medial
 560,Rhodes,RR1976,0236,ojg,,ojib1241,gizi-,OJ:6,,,,,,fast,fast,initial
 561,Rhodes,RR1976,"0227,0260,0262,0274",ojg,,ojib1241,gizi:-,OJ:6,,,,,,wipe,wipe,initial
-562,Rhodes,RR1976,0233,ojg,,ojib1241,god-,OJ:6,,,,,,"try, test","try, test",initial
+562,Rhodes,RR1976,0233,ojg,,ojib1241,god-,OJ:6,,,,,,"try, test","test, try",initial
 563,Rhodes,RR1976,"0232,0238, 0242",ojg,,ojib1241,goškw-,OJ:6,,,,,,"start, wake up","start, wake up",initial
 564,Rhodes,RR1976,0227,ojg,,ojib1241,gwe:k-,OJ:6,,,,,,be turned around,turn around,initial
-565,Denny,JPD1981,0005,ojg,,ojib1241,h,OJ:5,,,,,,causing,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /ih/,,HTL
-566,Denny,JPD1977,0125,ojg,,ojib1241,h,OJ:5,,,,,,instrumental,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,perhaps it is a pseudo-intransitive'
-567,Denny,JPD1978a,0299,ojg,,ojib1241,ha,OJ:5,,,,,,flooded,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+565,Denny,JPD1981,0005,ojg,,ojib1241,h,OJ:5,,,,,,causing,CAUSATIVE,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /ih/,,HTL
+566,Denny,JPD1977,0125,ojg,,ojib1241,h,OJ:5,,,,,,instrumental,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,perhaps it is a pseudo-intransitive'
+567,Denny,JPD1978a,0299,ojg,,ojib1241,ha,OJ:5,,,,,,flooded,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 568,Denny,JPD1981,0006,ojg,,ojib1241,i,OJ:5,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-569,Rhodes,RR1976,0151,ojg,,ojib1241,i,OJ:6,,,,,,NG,,final,INTR.
-57,Mathieu,EM2007,0015,ojg,,ojib1241,-aaboo,OJ:3,,,,,,liquide,,final,,,CONCR
+569,Rhodes,RR1976,0151,ojg,,ojib1241,i,OJ:6,,,,,,NG,,final,INTR
+57,Mathieu,EM2007,0015,ojg,,ojib1241,-aaboo,OJ:3,,,,,,liquide,liquid,final,,,CONCR
 570,Rhodes,RR1980,0184,ojg,,ojib1241,ǐ,OJ:9,,,,,,NG,,final,,,ABSTR
 571,Denny,JPD1981,"0005,0006,0008",ojg,,ojib1241,ī,OJ:5,,,,,,movement processes,process (movement),final,AI,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-572,Denny,JPD1981,0006,ojg,,ojib1241,ī,OJ:5,,,,,,NG,,final,INTR.,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,post glide allomorph of /ē/,,HTL
+572,Denny,JPD1981,0006,ojg,,ojib1241,ī,OJ:5,,,,,,NG,,final,INTR,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,post glide allomorph of /ē/,,HTL
 573,Barrie & Mathieu,MB_EM2012,0137,ojg,,ojib1241,i-,OJ:3,,,,,,NG,,final,AI,,,Y,N
 574,Rhodes,RR1980,0184,ojg,,ojib1241,id,OJ:9,,,,,,NG,,final,,,ABSTR
 575,Rhodes,RR1980,0185,ojg,,ojib1241,ide,OJ:9,,,,,,by heat,"heat, MANNER",final,II,,,,,izo,,izw,izam,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-576,Denny,JPD1981,0005,ojg,,ojib1241,ih,OJ:5,,,,,,causing,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+576,Denny,JPD1981,0005,ojg,,ojib1241,ih,OJ:5,,,,,,causing,CAUSATIVE,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 577,Rhodes,RR1980,0185,ojg,,ojib1241,ih,OJ:9,,,,,,cause,CAUSATIVE,final,TA,,,,,,,,itō,,,,,,,,,,,,,,,,,,,,,,,,,ǐh-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 578,Rhodes,RR1980,0185,ojg,,ojib1241,ǐh-,OJ:9,,,,,,cause,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,ih,itō,,,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-579,Denny,JPD1978b,0298,ojg,,ojib1241,īk,OJ:5,,,,,,2D,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+579,Denny,JPD1978b,0298,ojg,,ojib1241,īk,OJ:5,,,,,,2D,"two dimensional, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 58,Valentine 2002,RV2002,0090,ojg,"wikwemikong, often seen in stems dealing with liquids, or the irises of eyes",ojib1241,-aagam-,OJ:3,,,,,,NG,,medial
 580,Denny,JPD1981,0003,ojg,,ojib1241,īk,OJ:5,,,,,,cloth,,medial ,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 581,Denny,JPD1981,0005,ojg,,ojib1241,īk,OJ:5,,,,,,sheetlike,,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-582,Denny,JPD1977,0129,ojg,,ojib1241,īk,OJ:5,,,,,,2D object,,medial,,,,,,,,,,ēk
-583,Denny,JPD1978a,0298,ojg,,ojib1241,īk,OJ:5,,,,,,2D,,medial,,,,,,,,,,ēk
+582,Denny,JPD1977,0129,ojg,,ojib1241,īk,OJ:5,,,,,,2D object,"two dimensional, CLASSIFIER",medial,,,,,,,,,,ēk
+583,Denny,JPD1978a,0298,ojg,,ojib1241,īk,OJ:5,,,,,,2D,"two dimensional, CLASSIFIER",medial,,,,,,,,,,ēk
 584,Rhodes,RR1980,0186,ojg,,ojib1241,ik-,OJ:9,,,,,,on the body (specialized for wearing clothes),,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,ikaw,ikam
 585,Rhodes,RR1980,0186,ojg,,ojib1241,ikam,OJ:9,,,,,,on the body (specialized for wearing clothes),"clothing, wear",final,TI,,,,,,,ikaw,,,,,,,,,,,,,,,,,,,,,,,,,,ik-
 586,Denny,JPD1978a,0294,ojg,,ojib1241,ikam,OJ:5,,,,,,NG,,medial
 587,Rhodes,RR1980,0186,ojg,,ojib1241,ikaw,OJ:9,,,,,,on the body (specialized for wearing clothes),"clothing, wear",final,TA,,,,,,,,ikam,,,,,,,,,,,,,,,,,,,,,,,,,ik-
 588,Denny,JPD1978a,0310,ojg,,ojib1241,ikkitō,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,ikkitō-mak-at,,,II,,it says,,,,,,,,,,,,,,,,,,,VMN: likely 'say'
-589,Denny,JPD1977,0124,ojg,,ojib1241,ikkotān,OJ:5,,,,,,to cut it,,final,,,CONCR
-59,Valentine 2002,RV2002,0089,ojg,,ojib1241,-aakw-,OJ:3,,,,,,"thoroughness, intensity",,medial
+589,Denny,JPD1977,0124,ojg,,ojib1241,ikkotān,OJ:5,,,,,,to cut it,cut,final,,,CONCR
+59,Valentine 2002,RV2002,0089,ojg,,ojib1241,-aakw-,OJ:3,,,,,,"thoroughness, intensity","intensity, thoroughness",medial
 590,Rhodes,RR1980,"0185,0191",ojg,,ojib1241,iko-,OJ:9,,,,,,cut,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,ikoN,ikodam,,,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 591,Rhodes,RR1980,0185,ojg,,ojib1241,ikodam,OJ:9,,,,,,cut,cut,final,TI,,,,,,,ikoN,,,,,,,,,,,,,,,,,,,,,,,,,,iko-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 592,Rhodes,RR1980,0185,ojg,,ojib1241,ikoN,OJ:9,,,,,,cut,cut,final,TA,,,,,,,,ikodam,,,,,,,,,,,,,,,,,,,,,,,,,iko-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
@@ -561,19 +561,19 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 597,Denny,JPD1981,0006,ojg,,ojib1241,in,OJ:5,,,,,,thither,thither,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,
 598,Rhodes,RR1980,0184,ojg,,ojib1241,in,OJ:9,,,,,,NG,,final,II,,ABSTR
 599,Rhodes,RR1980,0184,ojg,,ojib1241,in,OJ:9,,,,,,by hand,"hand, MANNER",final,TA,,ABSTR,,,,,,inam,,,,,,,,,,,,,,,,,,,,,in,inam,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-6,Rhodes,RR1976,0266,ojg,,ojib1241,-(i)bimide:(w)-,OJ:6,,,,,,oil,,medial
+6,Rhodes,RR1976,0266,ojg,,ojib1241,-(i)bimide:(w)-,OJ:6,,,,,,oil,oil,medial
 60,Mathieu,EM2007,0014,ojg,,ojib1241,-aashi,OJ:3,,,,,,NG,,final
 600,Denny,JPD1977,0129,ojg,,ojib1241,in,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"VMN: likely means 'thus', may be a relative root"
 601,Denny,JPD1978a,0294,ojg,,ojib1241,in,OJ:5,,,,,,event,event,final,II,,ABSTR
 602,Rhodes,RR1980,0184,ojg,,ojib1241,in-,OJ:9,,,,,,by sight,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,inaw,inam,ināgozi,ināgwad,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 603,Rhodes,RR1980,"0184,0186,0197",ojg,,ojib1241,in-,OJ:9,,,,,,by hand,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,in,inam,,,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-604,Rhodes,RR1976,"0214,0217,0248,0257",ojg,,ojib1241,in-,OJ:6,,,,,,"to, like","to, like",initial
+604,Rhodes,RR1976,"0214,0217,0248,0257",ojg,,ojib1241,in-,OJ:6,,,,,,"to, like","like, to",initial
 606,Rhodes,RR1980,0185,ojg,,ojib1241,ina-,OJ:9,,,,,,pursue/kill,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,inaN,inadam,,,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 607,Rhodes,RR1980,0185,ojg,,ojib1241,inadam,OJ:9,,,,,,pursue/kill,"kill, pursue",final,TI,,,,,,,inaN,,,,,,,,,,,,,,,,,,,,,,,,,,ina-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 608,Rhodes,RR1980,0184,ojg,,ojib1241,ināgozi,OJ:9,,,,,,by sight,"sight, MANNER",final,AI,,,,,,ināgwad,inaw,inam,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 609,Rhodes,RR1980,0184,ojg,,ojib1241,ināgwad,OJ:9,,,,,,by sight,"sight, MANNER",final,II,,,,,ināgozi,,inaw,,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-61,Valentine 2002,RV2002,0114,ojg,"Manitoulin, Rhodes 1985",ojib1241,-aawigan-,OJ:3,,,,,,back,,medial
-610,Denny,JPD1978b,0296,ojg,,ojib1241,inakkotē,OJ:5,,,,,,so wide,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+61,Valentine 2002,RV2002,0114,ojg,"Manitoulin, Rhodes 1985",ojib1241,-aawigan-,OJ:3,,,,,,back,back,medial
+610,Denny,JPD1978b,0296,ojg,,ojib1241,inakkotē,OJ:5,,,,,,so wide,"wide, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 611,Rhodes,RR1980,"0184,0187",ojg,,ojib1241,inam,OJ:9,,,,,,by sight,"sight, MANNER",final,TI,,,,,ināgozi,ināgwad,inaw,inam,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 612,Rhodes,RR1980,0184,ojg,,ojib1241,inam,OJ:9,,,,,,by hand,"hand, MANNER",final,TI,,,,,,,in,,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 613,Rhodes,RR1980,0185,ojg,,ojib1241,inaN,OJ:9,,,,,,pursue/kill,"kill, pursue",final,TA,,,,,,,,inadam,,,,,,,,,,,,,,,,,,,,,,,,,ina-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
@@ -581,7 +581,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 615,Rhodes,RR1980,0184,ojg,,ojib1241,indam,OJ:9,,,,,,by speech,"speech, MANNER",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,im-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 616,Denny,JPD1981,0005,ojg,,ojib1241,inim,OJ:5,,,,,,goes away,go away,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 617,Denny,JPD1981,0006,ojg,,ojib1241,ininc,OJ:5,,,,,,hand,,medial ,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-618,Denny,JPD1978b,0298,ojg,,ojib1241,īntam,OJ:5,,,,,,depths of water,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+618,Denny,JPD1978b,0298,ojg,,ojib1241,īntam,OJ:5,,,,,,depths of water,depth (water),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 619,Denny,JPD1981,0006,ojg,,ojib1241,ip,OJ:5,,,,,,water,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /ipy/,,HTL
 62,Rhodes,RR1976,0284,ojg,,ojib1241,-abino:ji:nh-,OJ:6,,,,,,child,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Seems to be analyzed as an initial (or medial?) here, though OPD lists it only as a final"
 620,Denny,JPD1981,0006,ojg,,ojib1241,ipīk,OJ:5,,,,,,water,,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -594,28 +594,28 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 628,Valentine 2002,RV2002,0098,ojg,,ojib1241,ishp-,OJ:3,,,,,,high,high,initial
 629,Denny,JPD1978a,0295,ojg,,ojib1241,iši,OJ:5,,,,,,,,initial
 63,Denny,JPD1978b,0316,ojg,,ojib1241,-āciwan,OJ:5,,,,,,stream,stream,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-630,Denny,JPD1978b,0297,ojg,,ojib1241,išiwēp,OJ:5,,,,,,be such weather < happens so,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+630,Denny,JPD1978b,0297,ojg,,ojib1241,išiwēp,OJ:5,,,,,,be such weather < happens so,"happen, weather, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 631,Rhodes,RR1980,"0184,0186,0196,0197",ojg,,ojib1241,išk-,OJ:9,,,,,,by foot/body,,final,,,CONCR,,,,,,,ik-,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,iškaw,iškam,iškā,iškā,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 632,Rhodes,RR1980,"0184,0186",ojg,,ojib1241,iškā,OJ:9,,,,,,by foot/body,"body, foot, MANNER",final,AI,,,,,,iškā,iškaw,iškam,ikā,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 633,Rhodes,RR1980,"0184,0196",ojg,,ojib1241,iškā,OJ:9,,,,,,by foot/body,"body, foot, MANNER",final,II,,,,,iškā,,iškaw,iškam,ikā,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 634,Rhodes,RR1980,"0184,0186",ojg,,ojib1241,iškam,OJ:9,,,,,,by foot/body,"body, foot, MANNER",final,TI,,,,,iškā,iškā,iškaw,,ikam,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 635,Rhodes,RR1980,"0184,0186,0187",ojg,,ojib1241,iškaw,OJ:9,,,,,,by foot/body,"body, foot, MANNER",final,TA,,,,,iškā,iškā,,iškam,ikaw,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 636,Denny,JPD1978b,"0296,0309",ojg,,ojib1241,išp,OJ:5,,,,,,high,high,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-637,Denny,JPD1981,0005,ojg,,ojib1241,iss,OJ:5,,,,,,becoming,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /ss/,,HTL
-638,Denny,JPD1978b,"0299,0301",ojg,,ojib1241,it,OJ:5,,,,,,heated,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-639,Denny,JPD1977,0125,ojg,,ojib1241,it,OJ:5,,,,,,to heat,heat,final,unk.,,CONCR
-64,Rhodes,RR1976,"0137,0169,0275",ojg,,ojib1241,-ad,OJ:6,,,,,,NG,,final,INTR.
+637,Denny,JPD1981,0005,ojg,,ojib1241,iss,OJ:5,,,,,,becoming,become,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /ss/,,HTL
+638,Denny,JPD1978b,"0299,0301",ojg,,ojib1241,it,OJ:5,,,,,,heated,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+639,Denny,JPD1977,0125,ojg,,ojib1241,it,OJ:5,,,,,,to heat,heat,final,unknown,,CONCR
+64,Rhodes,RR1976,"0137,0169,0275",ojg,,ojib1241,-ad,OJ:6,,,,,,NG,,final,INTR
 640,Denny,JPD1978a,0294,ojg,,ojib1241,it,OJ:5,,,,,,heat,,final,,,CONCR
-641,Denny,JPD1978a,0295,ojg,,ojib1241,it,OJ:5,,,,,,heating,,final,unk.,,CONCR
+641,Denny,JPD1978a,0295,ojg,,ojib1241,it,OJ:5,,,,,,heating,,final,unknown,,CONCR
 642,Rhodes,RR1980,0184,ojg,,ojib1241,it-,OJ:9,,,,,,by hearing,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,itaw,itam,itāgozi,itāgwad,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 643,Rhodes,RR1980,0184,ojg,,ojib1241,itāgozi,OJ:9,,,,,,by hearing,"hearing, MANNER",final,AI,,,,,,itāgwad,inam,itam,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 644,Rhodes,RR1980,0184,ojg,,ojib1241,itāgwad,OJ:9,,,,,,by hearing,"hearing, MANNER",final,II,,,,,itāgozi,,inam,itam,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 645,Rhodes,RR1980,0184,ojg,,ojib1241,itam,OJ:9,,,,,,by hearing,"hearing, MANNER",final,TI,,,,,itāgozi,itāgwad,inam,,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-646,Denny,JPD1977,0124,ojg,,ojib1241,ītam,OJ:5,,,,,,depths of water,,medial,,,,,,,,,,īntam
+646,Denny,JPD1977,0124,ojg,,ojib1241,ītam,OJ:5,,,,,,depths of water,depth (water),medial,,,,,,,,,,īntam
 647,Rhodes,RR1980,0184,ojg,,ojib1241,itaw,OJ:9,,,,,,by hearing,"hearing, MANNER",final,TA,,,,,itāgozi,itāgwad,,itam,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 648,Rhodes,RR1980,0185,ojg,,ojib1241,itō,OJ:9,,,,,,cause,CAUSATIVE,final,TI,,,,,,,ih,,,,,,,,,,,,,,,,,,,,,,,,,,ǐh-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-649,Denny,JPD1981,0008,ojg,,ojib1241,ittikwē,OJ:5,,,,,,river,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-65,Rhodes,RR1976,"0233,0284",ojg,,ojib1241,-ag,OJ:6,,,,,,old,,final
+649,Denny,JPD1981,0008,ojg,,ojib1241,ittikwē,OJ:5,,,,,,river,river,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+65,Rhodes,RR1976,"0233,0284",ojg,,ojib1241,-ag,OJ:6,,,,,,old,old,final
 650,Rhodes,RR1976,0251,ojg,,ojib1241,iye:kw-,OJ:6,,,,,,tired,tired,initial
 651,Rhodes,RR1980,"0184,0190",ojg,,ojib1241,iz-,OJ:9,,,,,,by heat,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,izw,izam,izo,ide,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 652,Rhodes,RR1980,"0185,0191",ojg,,ojib1241,iž-,OJ:9,,,,,,by blade,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,ižw,ižam,,,,,,,"P.191: ""no longer productive in Ojibwa having been largely replaced by the action final, iko 'using a cutting action'; GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
@@ -626,19 +626,19 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 657,Rhodes,RR1980,"0185,0190",ojg,,ojib1241,izw,OJ:9,,,,,,by heat,"heat, MANNER",final,TA,,,,,izo,ide,,izam,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 658,Rhodes,RR1980,0185.0191,ojg,,ojib1241,ižw,OJ:9,,,,,,by blade,"blade, INSTRUMENT",final,TA,,,,,,,,ižam,,,,,,,,,,,,,,,,,,,,,,,,,iž-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 659,Rhodes,RR1976,"0225,0226",ojg,,ojib1241,ja:g-,OJ:6,,,,,,be used up,used up,initial
-66,Rhodes,RR2015,"0200,0201",ojg,,ojib1241,-agah-,OJ:3,,,,,,use axe,,final,,,CONCR
+66,Rhodes,RR2015,"0200,0201",ojg,,ojib1241,-agah-,OJ:3,,,,,,use axe,use (axe),final,,,CONCR
 660,Rhodes,RR1976,0227,ojg,,ojib1241,ji:b-,OJ:6,,,,,,be nudged,nudge,initial
 661,Rhodes,RR1976,0281,ojg,,ojib1241,ji:g-,OJ:6,,,,,,near,near,initial
-662,Denny,JPD1978b,"0298,0302,0306",ojg,,ojib1241,k,OJ:5,,,,,,seep,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-663,Denny,JPD1978b,"0299,0300,0311",ojg,,ojib1241,k,OJ:5,,,,,,grow,,final,unk.,,CONCR,,,,,,,,,,,wāk-ik-in,,,V,II,it grows bent,,JPD1978a;0300,,,,,,,,,,,,,,,,,,,HTL
-664,Denny,JPD1977,0126,ojg,,ojib1241,k,OJ:5,,,,,,to grow,grow,final,unk.,,ABSTR,,,,,,,ik
+662,Denny,JPD1978b,"0298,0302,0306",ojg,,ojib1241,k,OJ:5,,,,,,seep,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+663,Denny,JPD1978b,"0299,0300,0311",ojg,,ojib1241,k,OJ:5,,,,,,grow,,final,unknown,,CONCR,,,,,,,,,,,wāk-ik-in,,,V,II,it grows bent,,JPD1978a;0300,,,,,,,,,,,,,,,,,,,HTL
+664,Denny,JPD1977,0126,ojg,,ojib1241,k,OJ:5,,,,,,to grow,grow,final,unknown,,ABSTR,,,,,,,ik
 665,Denny,JPD1978a,0307,ojg,,ojib1241,kakānwākko,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely related to 'long'
-666,Denny,JPD1978a,0298,ojg,,ojib1241,kami,OJ:5,,,,,,(body of) liquid,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-667,Denny,JPD1978a,0298,ojg,,ojib1241,kami,OJ:5,,,,,,liquid,,medial
-668,Denny,JPD1977,0135,ojg,,ojib1241,kāt,OJ:5,,,,,,to be done to,done to,final,unk.,,CONCR
-669,Denny,JPD1978a,0299,ojg,,ojib1241,kāt,OJ:5,,,,,,done to,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+666,Denny,JPD1978a,0298,ojg,,ojib1241,kami,OJ:5,,,,,,(body of) liquid,"liquid, water",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+667,Denny,JPD1978a,0298,ojg,,ojib1241,kami,OJ:5,,,,,,liquid,"liquid, water",medial
+668,Denny,JPD1977,0135,ojg,,ojib1241,kāt,OJ:5,,,,,,to be done to,done to,final,unknown,,CONCR
+669,Denny,JPD1978a,0299,ojg,,ojib1241,kāt,OJ:5,,,,,,done to,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 67,Rhodes,RR1976,0219,ojg,,ojib1241,-agana:m-,OJ:6,,,,,,cause using violent action,"action (violent), CAUSATIVE, MANNER",final,TA
-671,Denny,JPD1977,0136,ojg,,ojib1241,kaw,OJ:5,,,,,,to go over and down,,initial
+671,Denny,JPD1977,0136,ojg,,ojib1241,kaw,OJ:5,,,,,,to go over and down,"go down, go over",initial
 672,Denny,JPD1978a,0312,ojg,,ojib1241,kaw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'fall'?
 673,Barrie & Mathieu,MB_EM2012,0137,ojg,,ojib1241,ke-,OJ:3,,,,,,NG,,final,AI,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"final can mean 'make, build, hunt, pick, do' - ""a very general meaning akin to an auxiliary and unlike a lexical verb"""
 674,Denny,JPD1977,0129,ojg,,ojib1241,kēsip,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: may mean 'fold'
@@ -649,7 +649,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 679,Denny,JPD1981,0008,ojg,,ojib1241,kinip,OJ:5,,,,,,quick,quick,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 68,Rhodes,RR1976,0219,ojg,,ojib1241,-agana:ndam-,OJ:6,,,,,,cause using violent action,"action (violent), CAUSATIVE, MANNER",final,TI
 680,Denny,JPD1978a,0310,ojg,,ojib1241,kinip,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'quick'?
-681,Denny,JPD1978a,0299,ojg,,ojib1241,kint,OJ:5,,,,,,priced,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+681,Denny,JPD1978a,0299,ojg,,ojib1241,kint,OJ:5,,,,,,priced,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 682,Denny,JPD1978b,0296,ojg,,ojib1241,kinw,OJ:5,,,,,,long,long,initial,,,,,,,,,,kinō,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'long',,HTL
 683,Denny,JPD1977,0129,ojg,,ojib1241,kinw,OJ:5,,,,,,NG,,initial,,,,,,,,,,kinō,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'long'
 684,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,kipōkk,OJ:5,,,,,,damp,damp,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -658,24 +658,24 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 687,Denny,JPD1977,0125,ojg,,ojib1241,kiš,OJ:5,,,,,,hot,hot,initial
 688,Denny,JPD1978a,0294,ojg,,ojib1241,kīš,OJ:5,,,,,,NG,,initial
 689,Denny,JPD1978b,"0297,0304,0305",ojg,,ojib1241,kīšik,OJ:5,,,,,,be day,day,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-69,Rhodes,RR2015,"0202,0203",ojg,,ojib1241,-aganaam-,OJ:3,,,,,,"hammer; hit, pound on",,final,,,CONCR
-690,Denny,JPD1978b,"0298,0305",ojg,,ojib1241,kīšik,OJ:5,,,,,,day,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-691,Denny,JPD1977,0133,ojg,,ojib1241,kīšik,OJ:5,,,,,,day (meteorological event),,medial,,,,,,,,,,ikīšik
-692,Denny,JPD1978b,0297,ojg,,ojib1241,kissin,OJ:5,,,,,,cold weather,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-693,Denny,JPD1978b,"0298,0306,0315",ojg,,ojib1241,kk,OJ:5,,,,,,lots of,,final,,,CONCR,,,,,,,,,,,,,,V,II,there are lots of bottles,omōtay-ikk-ā,JPD1978a;0303,,,,,,,,,,,,,,,,,,,HTL
-694,Denny,JPD1978b,"0298,0303,0307",ojg,,ojib1241,kk,OJ:5,,,,,,moved in configuration,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-695,Denny,JPD1977,0130,ojg,,ojib1241,kk,OJ:5,,,,,,widespread,widespread,final,unk.,,CONCR,,,,,,,ikk,,,,,,,,,,,,,,,,,,,,,,,,,,,,instrumental final; refers to use of body or foot to exert force on an object. See p. 130
-696,Denny,JPD1977,0140,ojg,,ojib1241,kk,OJ:5,,,,,,move by body or foot,,final
-697,Denny,JPD1978a,0298,ojg,,ojib1241,kk,OJ:5,,,,,,lots of,,final,unk.,,CONCR
-698,Denny,JPD1978a,0299,ojg,,ojib1241,kkāt,OJ:5,,,,,,thrown,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+69,Rhodes,RR2015,"0202,0203",ojg,,ojib1241,-aganaam-,OJ:3,,,,,,"hammer; hit, pound on","hammer, hit, pound",final,,,CONCR
+690,Denny,JPD1978b,"0298,0305",ojg,,ojib1241,kīšik,OJ:5,,,,,,day,day,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+691,Denny,JPD1977,0133,ojg,,ojib1241,kīšik,OJ:5,,,,,,day (meteorological event),day,medial,,,,,,,,,,ikīšik
+692,Denny,JPD1978b,0297,ojg,,ojib1241,kissin,OJ:5,,,,,,cold weather,weather (cold),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+693,Denny,JPD1978b,"0298,0306,0315",ojg,,ojib1241,kk,OJ:5,,,,,,lots of,lots,final,,,CONCR,,,,,,,,,,,,,,V,II,there are lots of bottles,omōtay-ikk-ā,JPD1978a;0303,,,,,,,,,,,,,,,,,,,HTL
+694,Denny,JPD1978b,"0298,0303,0307",ojg,,ojib1241,kk,OJ:5,,,,,,moved in configuration,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+695,Denny,JPD1977,0130,ojg,,ojib1241,kk,OJ:5,,,,,,widespread,widespread,final,unknown,,CONCR,,,,,,,ikk,,,,,,,,,,,,,,,,,,,,,,,,,,,,instrumental final; refers to use of body or foot to exert force on an object. See p. 130
+696,Denny,JPD1977,0140,ojg,,ojib1241,kk,OJ:5,,,,,,move by body or foot,"body, foot, move, MANNER",final
+697,Denny,JPD1978a,0298,ojg,,ojib1241,kk,OJ:5,,,,,,lots of,,final,unknown,,CONCR
+698,Denny,JPD1978a,0299,ojg,,ojib1241,kkāt,OJ:5,,,,,,thrown,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 699,Denny,JPD1977,0133,ojg,,ojib1241,kko,OJ:5,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'sky'
 7,Rhodes,RR1976,"0219,0221,0275,0278",ojg,,ojib1241,-(i)bo:-,OJ:6,,,,,,cause using a sawing motion,,final
-70,Rhodes,RR1976,"0121,0123",ojg,,ojib1241,-agim,OJ:6,,,,,,count,,final,TA
-700,Denny,JPD1978a,0295,ojg,,ojib1241,kkot,OJ:5,,,,,,cutting,,final,unk.,,CONCR
-701,Denny,JPD1978a,0299,ojg,,ojib1241,kkot,OJ:5,,,,,,be cut,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-702,Denny,JPD1978a,0299,ojg,,ojib1241,kkōt,OJ:5,,,,,,caused to be,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-703,Denny,JPD1977,0133,ojg,,ojib1241,konak,OJ:5,,,,,,day (time unit),,medial
-704,Denny,JPD1977,0140,ojg,,ojib1241,konak,OJ:5,,,,,,days,,medial
+70,Rhodes,RR1976,"0121,0123",ojg,,ojib1241,-agim,OJ:6,,,,,,count,count,final,TA
+700,Denny,JPD1978a,0295,ojg,,ojib1241,kkot,OJ:5,,,,,,cutting,,final,unknown,,CONCR
+701,Denny,JPD1978a,0299,ojg,,ojib1241,kkot,OJ:5,,,,,,be cut,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+702,Denny,JPD1978a,0299,ojg,,ojib1241,kkōt,OJ:5,,,,,,caused to be,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+703,Denny,JPD1977,0133,ojg,,ojib1241,konak,OJ:5,,,,,,day (time unit),day,medial
+704,Denny,JPD1977,0140,ojg,,ojib1241,konak,OJ:5,,,,,,days,day,medial
 705,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,kosikw,OJ:5,,,,,,heavy,heavy,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 706,Denny,JPD1981,0005,ojg,,ojib1241,kotako,OJ:5,,,,,,roll,roll,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 707,Denny,JPD1977,0136,ojg,,ojib1241,kwēkk,OJ:5,,,,,,to change,change,initial
@@ -690,16 +690,16 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 715,Denny,JPD1978a,0310,ojg,,ojib1241,mak,OJ:5,,,,,,NG,,final,II,,ABSTR,Y,AI,,,,,,,,,ikkitō-mak-at,,,II,,it says
 716,Rhodes,RR1976,0277,ojg,,ojib1241,makade:w-,OJ:6,,,,,,black,black,initial
 717,Denny,JPD1978b,0296,ojg,,ojib1241,makkatē,OJ:5,,,,,,black,black,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-718,Denny,JPD1978b,"0298,0303,0307",ojg,,ojib1241,mākw,OJ:5,,,,,,smell,,final,unk.,,CONCR,,,,,,,,,,,sīw-imāko-t,,,V,II,it smells sour,,JPD1978a;0303,,,,,,,,,,,,,,,,,,,HTL
+718,Denny,JPD1978b,"0298,0303,0307",ojg,,ojib1241,mākw,OJ:5,,,,,,smell,,final,unknown,,CONCR,,,,,,,,,,,sīw-imāko-t,,,V,II,it smells sour,,JPD1978a;0303,,,,,,,,,,,,,,,,,,,HTL
 719,Rhodes,RR1980,0184,ojg,,ojib1241,mām,OJ:9,,,,,,by smell,"smell, MANNER",final,TA,,,,,māgozi,māgwad,,māndam,,,,,,,,,,,,,,,,,,,,,,,,,ma-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-72,Rhodes,RR2015,0202,ojg,,ojib1241,-ah-,OJ:3,,,,,,use instrument,,final,,,CONCR
+72,Rhodes,RR2015,0202,ojg,,ojib1241,-ah-,OJ:3,,,,,,use instrument,use (instrument),final,,,CONCR
 720,Rhodes,RR1976,"0126,0272",ojg,,ojib1241,mama:d-,OJ:6,,,,,,move,move,initial
 721,Valentine 2002,RV2002,0091,ojg,,ojib1241,mamang-,OJ:3,,,,,,big,big,initial,,Y
 722,Denny,JPD1977,0131,ojg,,ojib1241,mamānk,OJ:5,,,,,,big,big,initial,,Y
 723,Denny,JPD1978b,0307,ojg,,ojib1241,mamank-,OJ:5,,,,,,big,big,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 724,Denny,JPD1978b,0297,ojg,,ojib1241,mānāt,OJ:5,,,,,,bad,bad,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 725,Rhodes,RR1980,0184,ojg,,ojib1241,māndam,OJ:9,,,,,,by smell,"smell, MANNER",final,TI,,,,,māgozi,māgwad,mām,,,,,,,,,,,,,,,,,,,,,,,,,,ma-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-726,Rhodes,RR1976,"0268,0275,0278,0285",ojg,,ojib1241,mang-,OJ:6,,,,,,big,,premedial
+726,Rhodes,RR1976,"0268,0275,0278,0285",ojg,,ojib1241,mang-,OJ:6,,,,,,big,big,premedial
 727,Valentine 2002,RV2002,0091,ojg,,ojib1241,mang-,OJ:3,,,,,,big,big,initial
 728,Denny,JPD1977,0131,ojg,,ojib1241,mank,OJ:5,,,,,,big,big,initial
 729,Denny,JPD1978a,0294,ojg,,ojib1241,mank,OJ:5,,,,,,NG,,initial
@@ -715,9 +715,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 738,Valentine 2002,RV2002,0086,ojg,Odawa,ojib1241,miish-,OJ:3,,,,,,hair,hair,initial
 739,Rhodes,RR1976,0277,ojg,,ojib1241,minag,OJ:6,,,,,,"berry, round thing",,medial,CLASS
 74,Rhodes,RR1976,0219,ojg,,ojib1241,-aham-,OJ:6,,,,,,cause using an instrument,"instrument, CAUSATIVE, INSTRUMENT",final,TI
-740,Denny,JPD1978b,0298,ojg,,ojib1241,minak,OJ:5,,,,,,3D,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+740,Denny,JPD1978b,0298,ojg,,ojib1241,minak,OJ:5,,,,,,3D,"three dimensional, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 741,Denny,JPD1981,0005,ojg,,ojib1241,minak,OJ:5,,,,,,equi-dimensional object,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-742,Denny,JPD1977,0127,ojg,,ojib1241,minak,OJ:5,,,,,,3D homogenous,,medial
+742,Denny,JPD1977,0127,ojg,,ojib1241,minak,OJ:5,,,,,,3D homogenous,"homogenous, three dimensional, CLASSIFIER",medial
 743,Denny,JPD1978b,0297,ojg,,ojib1241,minōkkami,OJ:5,,,,,,be spring,spring,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 744,Denny,JPD1977,0129,ojg,,ojib1241,minw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'well'
 745,Denny,JPD1978b,0315,ojg,,ojib1241,minw-,OJ:5,,,,,,good,good,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -732,7 +732,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 753,Mathieu,EM2007,0005,ojg,,ojib1241,mno-,OJ:3,,,,,,bien,well,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Valentine 2001
 754,Rhodes,RR1976,0269,ojg,,ojib1241,mo:n-,OJ:6,,,,,,dug,dig,initial
 755,Rhodes,RR1976,"0264,0265,0266",ojg,,ojib1241,mo:nah-,OJ:6,,,,,,dig,dig,initial
-756,Denny,JPD1977,0136,ojg,,ojib1241,mōkk,OJ:5,,,,,,come suddenly to,,initial
+756,Denny,JPD1977,0136,ojg,,ojib1241,mōkk,OJ:5,,,,,,come suddenly to,come (suddenly),initial
 757,Denny,JPD1978b,0297,ojg,,ojib1241,mōškin,OJ:5,,,,,,filled,filled,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 758,Denny,JPD1981,0006,ojg,,ojib1241,mōskinē,OJ:5,,,,,,full,full,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 759,Mathieu,EM2007,0014,ojg,,ojib1241,msko-,OJ:3,,,,,,NG,,initial
@@ -748,17 +748,16 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 768,Rhodes,RR1976,"0219,0220,0221",ojg,,ojib1241,nabag-,OJ:6,,,,,,flat,flat,initial
 769,Denny,JPD1978b,"0298,0307,0308",ojg,,ojib1241,nākw,OJ:5,,,,,,look,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 77,Denny,JPD1978b,0301,ojg,,ojib1241,-akkwē-,OJ:5,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -akkw-,,,,,,HTL
-770,Denny,JPD1977,0131,ojg,,ojib1241,nākw,OJ:5,,,,,,look; appear,"appear, look like, seem",final,unk.,,CONCR
-771,Rhodes,RR2015,"0198,0199",ojg,,ojib1241,nakwe-,OJ:3,,,,,,at crossroad,,initial
+770,Denny,JPD1977,0131,ojg,,ojib1241,nākw,OJ:5,,,,,,look; appear,"appear, look like, seem",final,unknown,,CONCR
+771,Rhodes,RR2015,"0198,0199",ojg,,ojib1241,nakwe-,OJ:3,,,,,,at crossroad,at (crossroads),initial
 772,Denny,JPD1977,0129,ojg,,ojib1241,nānīss,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: may mean 'tatters'
 773,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,nānk,OJ:5,,,,,,light,light,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 774,Denny,JPD1978b,0297,ojg,,ojib1241,nantakōt,OJ:5,,,,,,fall from a height,fall (V),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 775,Denny,JPD1978b,0296,ojg,,ojib1241,napak,OJ:5,,,,,,flat,flat,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-776,Denny,JPD1978a,0296,ojg,,ojib1241,napak,OJ:5,,,,,,flat,flat,initial
 777,Denny,JPD1981,0008,ojg,,ojib1241,nātah,OJ:5,,,,,,fetch,fetch,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Baraga (1878),HTL
 778,Denny,JPD1978b,"0301,0315",ojg,,ojib1241,nāw,OJ:5,,,,,,middle,middle,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 779,Rhodes,RR1976,"0226,0227",ojg,,ojib1241,nawad-,OJ:6,,,,,,grabbed,grab,initial
-78,Rhodes,RR1976,0245,ojg,,ojib1241,-akožiwe:,OJ:6,,,,,,paddle,,final,INTR.
+78,Rhodes,RR1976,0245,ojg,,ojib1241,-akožiwe:,OJ:6,,,,,,paddle,paddle,final,INTR
 780,Denny,JPD1978b,0297,ojg,,ojib1241,nāwakkwē,OJ:5,,,,,,be noon,noon,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 781,Mathieu,EM2007,0017,ojg,,ojib1241,nbe-,OJ:3,,,,,,NG,,initial
 782,Rhodes,RR1976,0227,ojg,,ojib1241,ne:gw-,OJ:6,,,,,,be in/on,"in, on",initial
@@ -773,12 +772,12 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 790,Rhodes,RR1976,"0174,0246",ojg,,ojib1241,niba:-,OJ:6,,,,,,sleep,sleep,initial
 791,Mathieu,EM2007,0015,ojg,,ojib1241,nibaa-,OJ:3,,,,,,dormir,sleep,initial
 792,Rhodes,RR1976,0275,ojg,,ojib1241,nibi:w-,OJ:6,,,,,,wet,wet,initial
-793,Denny,JPD1978b,"0297,0318",ojg,,ojib1241,niccīw,OJ:5,,,,,,stormy < act angry,"stormy, angry",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+793,Denny,JPD1978b,"0297,0318",ojg,,ojib1241,niccīw,OJ:5,,,,,,stormy < act angry,"angry, stormy",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 794,Rhodes,RR1980,0185,ojg,,ojib1241,nigā-,OJ:9,,,,,,carry on the shoulder,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,nigāN,nigādam,,,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 795,Rhodes,RR1980,0185,ojg,,ojib1241,nigādam,OJ:9,,,,,,carry on the shoulder,carry (on shoulder),final,TI,,,,,,,nigāN,,,,,,,,,,,,,,,,,,,,,,,,,,nigā-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 796,Rhodes,RR1980,0185,ojg,,ojib1241,nigāN,OJ:9,,,,,,carry on the shoulder,carry (on shoulder),final,TA,,,,,,,,nigādam,,,,,,,,,,,,,,,,,,,,,,,,,nigā-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 797,Valentine 2002,RV2002,0094,ojg,Odawa,ojib1241,niizhw-,OJ:3,,,,,,two,two,initial
-798,Denny,JPD1978a,0299,ojg,,ojib1241,nikkāt,OJ:5,,,,,,called,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+798,Denny,JPD1978a,0299,ojg,,ojib1241,nikkāt,OJ:5,,,,,,called,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 799,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,nīnam,OJ:5,,,,,,weak,weak,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 8,Rhodes,RR1976,0219,ojg,,ojib1241,-(i)d-,OJ:6,,,,,,NG,,final,TRANS
 80,Rhodes,RR1976,0217,ojg,,ojib1241,-am-,OJ:6,,,,,,eat
@@ -811,23 +810,23 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 824,Denny,JPD1978a,0315,ojg,,ojib1241,onā,OJ:5,,,,,,level,level,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 825,Denny,JPD1978b,0297,ojg,,ojib1241,onākošši,OJ:5,,,,,,be evening,evening,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 826,Denny,JPD1977,0130,ojg,,ojib1241,onc,OJ:5,,,,,,a certain place,place (N),initial
-827,Denny,JPD1978a,0307,ojg,,ojib1241,onc,OJ:5,,,,,,in a certain place,,initial
+827,Denny,JPD1978a,0307,ojg,,ojib1241,onc,OJ:5,,,,,,in a certain place,in place,initial
 828,Rhodes,RR1980,0185,ojg,,ojib1241,ōndam,OJ:9,,,,,,carry on the back,carry (on back),final,TI,,,,,,,ōm,,,,,,,,,,,,,,,,,,,,,,,,,,ōm-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 829,Denny,JPD1977,0139,ojg,,ojib1241,onišišš,OJ:5,,,,,,"fine, good","fine, good",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-83,Rhodes,RR2015,"0198,0203",ojg,,ojib1241,-am-,OJ:3,,,,,,"use mouth, teeth",,final,,,CONCR
+83,Rhodes,RR2015,"0198,0203",ojg,,ojib1241,-am-,OJ:3,,,,,,"use mouth, teeth","use (mouth, teeth)",final,,,CONCR
 830,Denny,JPD1978b,0297,ojg,,ojib1241,ont,OJ:5,,,,,,boil,boil,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 831,Denny,JPD1978a,0315,ojg,,ojib1241,ont,OJ:5,,,,,,NG,,initial
 832,Denny,JPD1978b,0296,ojg,,ojib1241,osāw,OJ:5,,,,,,brown/yellow,"brown, yellow",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 833,Denny,JPD1978b,0296,ojg,,ojib1241,ošāwaškw,OJ:5,,,,,,blue/green,"blue, green",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 834,Denny,JPD1977,0135,ojg,,ojib1241,ošipīhi,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'write' or related
-835,Denny,JPD1978a,0299,ojg,,ojib1241,oškin,OJ:5,,,,,,filled,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-836,Rhodes,RR1976,"0214,0240,0285",ojg,,ojib1241,oza:m-,OJ:6,,,,,,too much,,initial
-837,Valentine 2002,RV2002,0091,ojg,"Wikwemikong, Lake Nipigon, White Dog",ojib1241,ozhaawashkw-,OJ:3,,,,,,"blue, green",,initial
-838,Denny,JPD1978b,"0298,0305",ojg,,ojib1241,pak,OJ:5,,,,,,leaf,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+835,Denny,JPD1978a,0299,ojg,,ojib1241,oškin,OJ:5,,,,,,filled,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+836,Rhodes,RR1976,"0214,0240,0285",ojg,,ojib1241,oza:m-,OJ:6,,,,,,too much,much,initial
+837,Valentine 2002,RV2002,0091,ojg,"Wikwemikong, Lake Nipigon, White Dog",ojib1241,ozhaawashkw-,OJ:3,,,,,,"blue, green","blue, green",initial
+838,Denny,JPD1978b,"0298,0305",ojg,,ojib1241,pak,OJ:5,,,,,,leaf,leaf,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 839,Denny,JPD1977,0137,ojg,,ojib1241,pāk,OJ:5,,,,,,to swell,swell,initial
 84,Rhodes,RR1976,"0129,0130,0133,0136",ojg,,ojib1241,-amaw,OJ:6,,,,,,benefactive,BENEFACTIVE,final,TI,,,,,,,,,amw,,aw,"Set I, Set III stems"
 840,Denny,JPD1978a,0322,ojg,,ojib1241,pāk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'swollen'
-841,Denny,JPD1978b,0297,ojg,,ojib1241,pakam,OJ:5,,,,,,begin to storm < arrive,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+841,Denny,JPD1978b,0297,ojg,,ojib1241,pakam,OJ:5,,,,,,begin to storm < arrive,"arrive, begin (to storm)",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 842,Denny,JPD1978b,0297,ojg,,ojib1241,pakaškan,OJ:5,,,,,,rotten,rotten,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 843,Denny,JPD1977,0137,ojg,,ojib1241,pākk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'open'
 844,Denny,JPD1978a,0313,ojg,,ojib1241,pākk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'break'
@@ -836,10 +835,10 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 847,Denny,JPD1978a,0322,ojg,,ojib1241,pāko,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: has to do with 'running aground'?
 848,Denny,JPD1978b,0296,ojg,,ojib1241,pakonē,OJ:5,,,,,,having a hole,hole,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 849,Denny,JPD1977,0130,ojg,,ojib1241,pakonē,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: may mean 'hole
-85,Rhodes,RR1976,0169,ojg,,ojib1241,-an,OJ:6,,,,,,NG,,final,INTR.
-850,Denny,JPD1978b,"0297,0318",ojg,,ojib1241,pank,OJ:5,,,,,,still out < fall,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+85,Rhodes,RR1976,0169,ojg,,ojib1241,-an,OJ:6,,,,,,NG,,final,INTR
+850,Denny,JPD1978b,"0297,0318",ojg,,ojib1241,pank,OJ:5,,,,,,still out < fall,"fall, still out",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 851,Denny,JPD1977,0136,ojg,,ojib1241,pank,OJ:5,,,,,,go down,go down,initial
-852,Denny,JPD1977,0139,ojg,,ojib1241,pankan,OJ:5,,,,,,still out,,initial
+852,Denny,JPD1977,0139,ojg,,ojib1241,pankan,OJ:5,,,,,,still out,still out,initial
 853,Denny,JPD1978b,0296,ojg,,ojib1241,papīw,OJ:5,,,,,,small,small,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 854,Denny,JPD1978a,0296,ojg,,ojib1241,papīw,OJ:5,,,,,,small (pl.),small,initial
 855,Denny,JPD1977,0137,ojg,,ojib1241,pāppīw,OJ:5,,,,,,to scatter bits,scatter,initial
@@ -847,7 +846,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 857,Denny,JPD1977,0131,ojg,,ojib1241,pasakw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'sticky'
 858,Denny,JPD1977,0128,ojg,,ojib1241,pāšk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'burst'
 859,Denny,JPD1978a,0305,ojg,,ojib1241,pāšk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'bag'
-86,Rhodes,RR1976,0269,ojg,,ojib1241,-an,OJ:6,,,,,,cause w/ instrument,,final
+86,Rhodes,RR1976,0269,ojg,,ojib1241,-an,OJ:6,,,,,,cause w/ instrument,"instrument, CAUSATIVE, INSTRUMENT",final
 860,Denny,JPD1978b,0297,ojg,,ojib1241,pātt,OJ:5,,,,,,dried,dried,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 861,Denny,JPD1978b,0297,ojg,,ojib1241,pāttīn,OJ:5,,,,,,many,many,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 862,Denny,JPD1978b,"0297,0303",ojg,,ojib1241,pēššow,OJ:5,,,,,,near,near,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -863,25 +862,25 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 871,Denny,JPD1978b,0297,ojg,,ojib1241,pīnt,OJ:5,,,,,,enclosed,enclosed,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 872,Denny,JPD1977,0138,ojg,,ojib1241,pīnt,OJ:5,,,,,,inside,inside,initial
 873,Denny,JPD1978b,"0297,0305",ojg,,ojib1241,pipōn,OJ:5,,,,,,be winter,winter,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-874,Denny,JPD1978b,0298,ojg,,ojib1241,pipōnak,OJ:5,,,,,,years,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+874,Denny,JPD1978b,0298,ojg,,ojib1241,pipōnak,OJ:5,,,,,,years,year,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 875,Denny,JPD1978a,0310,ojg,,ojib1241,pišiššiko,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'empty'
 876,Denny,JPD1977,0131,ojg,,ojib1241,pisk,OJ:5,,,,,,back,back,initial
 877,Denny,JPD1978a,0312,ojg,,ojib1241,pisk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'bent'
-878,Denny,JPD1978b,"0297,0304",ojg,,ojib1241,piskan,OJ:5,,,,,,catch fire,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+878,Denny,JPD1978b,"0297,0304",ojg,,ojib1241,piskan,OJ:5,,,,,,catch fire,catch (fire),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 879,Denny,JPD1977,0129,ojg,,ojib1241,piskan,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'ignite'
 88,Rhodes,RR1976,"0033,0133,0236,0239",ojg,,ojib1241,-anoki:,OJ:6,,,,,,work,,final
-880,Denny,JPD1978b,"0296,0302",ojg,,ojib1241,pīss,OJ:5,,,,,,in bits,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-881,Denny,JPD1978a,0299,ojg,,ojib1241,pīss,OJ:5,,,,,,to rain,,final,unk.,,CONCR
-882,Denny,JPD1978a,0299,ojg,,ojib1241,pit,OJ:5,,,,,,move,,final,unk.,,CONCR,,,,,,,ipit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+880,Denny,JPD1978b,"0296,0302",ojg,,ojib1241,pīss,OJ:5,,,,,,in bits,in bits,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+881,Denny,JPD1978a,0299,ojg,,ojib1241,pīss,OJ:5,,,,,,to rain,,final,unknown,,CONCR
+882,Denny,JPD1978a,0299,ojg,,ojib1241,pit,OJ:5,,,,,,move,,final,unknown,,CONCR,,,,,,,ipit,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 883,Denny,JPD1978b,"0296,0302",ojg,,ojib1241,pīttō,OJ:5,,,,,,double,double,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 884,Denny,JPD1977,0129,ojg,,ojib1241,pīttō,OJ:5,,,,,,NG,,initial
 885,Denny,JPD1978a,0307,ojg,,ojib1241,pōn,OJ:5,,,,,,NG,,initial
-886,Denny,JPD1978a,0299,ojg,,ojib1241,ppit,OJ:5,,,,,,tied,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-887,Denny,JPD1978a,0299,ojg,,ojib1241,ppo,OJ:5,,,,,,to snow,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-888,Denny,JPD1977,0129,ojg,,ojib1241,ppokw,OJ:5,,,,,,to taste,taste,final,unk.,,CONCR,,,,,,,ippoko
-889,Denny,JPD1978a,0298,ojg,,ojib1241,ppokw,OJ:5,,,,,,taste,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+886,Denny,JPD1978a,0299,ojg,,ojib1241,ppit,OJ:5,,,,,,tied,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+887,Denny,JPD1978a,0299,ojg,,ojib1241,ppo,OJ:5,,,,,,to snow,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+888,Denny,JPD1977,0129,ojg,,ojib1241,ppokw,OJ:5,,,,,,to taste,taste,final,unknown,,CONCR,,,,,,,ippoko
+889,Denny,JPD1978a,0298,ojg,,ojib1241,ppokw,OJ:5,,,,,,taste,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 89,Rhodes,RR1980,0184,ojg,,ojib1241,-apide,OJ:9,,,,,,be tied,tied,final,II,,,,,-apizo,,-apin,-apidō
-890,Denny,JPD1978a,0299,ojg,,ojib1241,py,OJ:5,,,,,,do in/with water,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+890,Denny,JPD1978a,0299,ojg,,ojib1241,py,OJ:5,,,,,,do in/with water,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 891,Rhodes,RR1980,0184,ojg,,ojib1241,s,OJ:9,,,,,,blow,,final,,,CONCR
 892,Rhodes,RR1980,0185,ojg,,ojib1241,s-,OJ:9,,,,,,place,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,šim,sidō,šin,sin,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 893,Denny,JPD1977,0136,ojg,,ojib1241,sak,OJ:5,,,,,,connected,connected,initial
@@ -891,8 +890,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 897,Denny,JPD1981,"0002,0003",ojg,,ojib1241,šakk,OJ:5,,,,,,damp,damp,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 898,Denny,JPD1977,0126,ojg,,ojib1241,šakk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'damp'
 899,Denny,JPD1978b,0297,ojg,,ojib1241,sanak,OJ:5,,,,,,difficult,difficult,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-9,Rhodes,RR1976,0285,ojg,,ojib1241,-(i)do:n-,OJ:6,,,,,,mouth,,medial
-90,Rhodes,RR1980,0184,ojg,,ojib1241,-apidō,OJ:9,,,,,,tie,,final,TI,,,,,-apizo,-apide,-apin
+9,Rhodes,RR1976,0285,ojg,,ojib1241,-(i)do:n-,OJ:6,,,,,,mouth,mouth,medial
+90,Rhodes,RR1980,0184,ojg,,ojib1241,-apidō,OJ:9,,,,,,tie,tie,final,TI,,,,,-apizo,-apide,-apin
 900,Denny,JPD1977,0130,ojg,,ojib1241,sanak,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'difficult'
 901,Denny,JPD1977,0136,ojg,,ojib1241,šašš,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'slip' or related
 902,Denny,JPD1978b,0300,ojg,,ojib1241,šāšš,OJ:5,,,,,,slip,slip,initial,,,,,,,,,,,,,,šāšš-āpikk-iss-in,,,V,II,it slips and falls on stone,,JPD1978a;0300,,,,,,,,,,,,,,,,,,,HTL
@@ -903,32 +902,32 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 907,Denny,JPD1978a,0312,ojg,,ojib1241,sīk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'spill'?
 908,Rhodes,RR1980,0185,ojg,,ojib1241,šim,OJ:9,,,,,,place,place (V),final,TA,,,,,šin,sin,,sidō,,,,,,,,,,,,,,,,,,,,,,,,,s-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 909,Rhodes,RR1980,0185,ojg,,ojib1241,sin,OJ:9,,,,,,place,place (V),final,II,,,,,šin,,šim,sidō,,,,,,,,,,,,,,,,,,,,,,,,,s-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-91,Mathieu,EM2007,0004,ojg,,ojib1241,-āpikk-,OJ:5,,,,,,minéral,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Denny 1978
+91,Mathieu,EM2007,0004,ojg,,ojib1241,-āpikk-,OJ:5,,,,,,minéral,"mineral, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Denny 1978
 910,Rhodes,RR1980,0185,ojg,,ojib1241,šin,OJ:9,,,,,,place,place (V),final,AI,,,,,,sin,šim,sidō,,,,,,,,,,,,,,,,,,,,,,,,,s-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 911,Denny,JPD1977,0133,ojg,,ojib1241,šīpā,OJ:5,,,,,,NG,,initial
 912,Denny,JPD1978a,0306,ojg,,ojib1241,sīttākan,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'salty'
 913,Denny,JPD1978b,0296,ojg,,ojib1241,sīw,OJ:5,,,,,,sour,sour,initial,,,,,,,,,,,,,,sīw-imāko-t,,,V,II,it smells sour,,JPD1978a;0303,,,,,,,,,,,,,,,,,,,HTL
 914,Denny,JPD1977,0129,ojg,,ojib1241,sīw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'sour'
-915,Denny,JPD1978b,"0298,0302,0307,0321",ojg,,ojib1241,šk,OJ:5,,,,,,moved in configuration,,final,unk.,,CONCR,,,,,,,,,,,pīmisko-šk-a ,,,V,II,it spins,,JPD1978a;0294,,,,,,,,,,,,,,,,,,,HTL
-916,Denny,JPD1977,0128,ojg,,ojib1241,šk,OJ:5,,,,,,to be in a configuration as a result of movement,"configuration, movement, RESULT",final,unk.,,CONCR,,,,,,,išk,,,,,,,,,,,,,,,,,,,,,,,,,,,,instrumental final; refers to use of body or foot to exert force on an object. See p. 130
-917,Denny,JPD1977,0140,ojg,,ojib1241,šk,OJ:5,,,,,,moved by body or foot,,final
-918,Denny,JPD1978b,0299,ojg,,ojib1241,škot,OJ:5,,,,,,caused to be by body/foot,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+915,Denny,JPD1978b,"0298,0302,0307,0321",ojg,,ojib1241,šk,OJ:5,,,,,,moved in configuration,,final,unknown,,CONCR,,,,,,,,,,,pīmisko-šk-a ,,,V,II,it spins,,JPD1978a;0294,,,,,,,,,,,,,,,,,,,HTL
+916,Denny,JPD1977,0128,ojg,,ojib1241,šk,OJ:5,,,,,,to be in a configuration as a result of movement,"configuration, movement, RESULT",final,unknown,,CONCR,,,,,,,išk,,,,,,,,,,,,,,,,,,,,,,,,,,,,instrumental final; refers to use of body or foot to exert force on an object. See p. 130
+917,Denny,JPD1977,0140,ojg,,ojib1241,šk,OJ:5,,,,,,moved by body or foot,"body, foot, moved, MANNER",final
+918,Denny,JPD1978b,0299,ojg,,ojib1241,škot,OJ:5,,,,,,caused to be by body/foot,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 919,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,sōnk,OJ:5,,,,,,strong,strong,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-92,Rhodes,RR1980,0184,ojg,,ojib1241,-apin,OJ:9,,,,,,tie,,final,TA,,,,,-apizo,-apide,,-apidō
+92,Rhodes,RR1980,0184,ojg,,ojib1241,-apin,OJ:9,,,,,,tie,tie,final,TA,,,,,-apizo,-apide,,-apidō
 920,Denny,JPD1978a,0307,ojg,,ojib1241,šop,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'bent over' or related
 921,Denny,JPD1978b,"0296,0303,0308",ojg,,ojib1241,šōškw,OJ:5,,,,,,smooth,smooth,initial,,,,,,,,,,,,,,šōško-cīški-wak-ā ,,,V,II,it is slippery mud,,JPD1978a;0303,,,,,,,,,,,,,,,,,,,HTL
-922,Denny,JPD1981,0005,ojg,,ojib1241,ss,OJ:5,,,,,,becoming,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-923,Denny,JPD1977,0128,ojg,,ojib1241,ss,OJ:5,,,,-hθ-,,become,,final,unk.,,CONCR,,,,,,,iss
+922,Denny,JPD1981,0005,ojg,,ojib1241,ss,OJ:5,,,,,,becoming,become,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+923,Denny,JPD1977,0128,ojg,,ojib1241,ss,OJ:5,,,,-hθ-,,become,,final,unknown,,CONCR,,,,,,,iss
 924,Denny,JPD1981,"0002,0003",ojg,,ojib1241,ssak,OJ:5,,,,,,processed wood,,medial,INCORP,,,,,,,,,issak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 925,Denny,JPD1977,0124,ojg,,ojib1241,t,OJ:5,,,,,,NG,,final,II,,ABSTR,,,,,,,at
 926,Denny,JPD1978b,"0296,0317",ojg,,ojib1241,takk,OJ:5,,,,,,cold,cold,initial,,,,,,,,,,,,,,takk-ākami,,,V,II,it is cold water,,JPD1978a;0301,,,,,,,,,,,,,,,,,,,HTL
 927,Denny,JPD1977,0126,ojg,,ojib1241,takk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'cold'
-928,Denny,JPD1978b,"0297,0316",ojg,,ojib1241,takkē,OJ:5,,,,,,cool weather,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+928,Denny,JPD1978b,"0297,0316",ojg,,ojib1241,takkē,OJ:5,,,,,,cool weather,weather (cool),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 929,Denny,JPD1978b,0296,ojg,,ojib1241,takkw,OJ:5,,,,,,short,short,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-93,Rhodes,RR1976,"0266,0269",ojg,,ojib1241,-apini-,OJ:6,,,,,,potato,,medial
-930,Denny,JPD1978b,0296,ojg,,ojib1241,tako,OJ:5,,,,,,be permanently at,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+93,Rhodes,RR1976,"0266,0269",ojg,,ojib1241,-apini-,OJ:6,,,,,,potato,potato,medial
+930,Denny,JPD1978b,0296,ojg,,ojib1241,tako,OJ:5,,,,,,be permanently at,permanently (at),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 931,Denny,JPD1977,0126,ojg,,ojib1241,tako,OJ:5,,,,,,NG,,initial
-932,Denny,JPD1977,0134,ojg,,ojib1241,tako,OJ:5,,,,,,be in a place naturally or permanently,,initial
+932,Denny,JPD1977,0134,ojg,,ojib1241,tako,OJ:5,,,,,,be in a place naturally or permanently,"in (a place), permanently",initial
 933,Denny,JPD1978a,0294,ojg,,ojib1241,takoss,OJ:5,,,,,,arrive,arrive,initial
 934,Denny,JPD1978a,0313,ojg,,ojib1241,takw,OJ:5,,,,,,with,with,initial
 935,Denny,JPD1978b,0307,ojg,,ojib1241,tapp-,OJ:5,,,,,,through an opening,through,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -938,7 +937,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 939,Denny,JPD1977,0136,ojg,,ojib1241,tipiškō,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: very likely means 'same'
 94,Rhodes,RR1980,0184,ojg,,ojib1241,-apizo,OJ:9,,,,,,be tied,tied,final,AI,,,,,,-apide,-apin,-apidō
 940,Denny,JPD1978a,0312,ojg,,ojib1241,tittip,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'roll'?
-941,Denny,JPD1978b,"0298,0303",ojg,,ojib1241,w,OJ:5,,,,,,be characterized by or as,,final,unk.,,CONCR,,,,,,,,,,,maškikkī-w-an ,,,V,II,it is a medicine,,JPD1978a;0303,,,,,,,,,,,,,,,,,,,HTL
+941,Denny,JPD1978b,"0298,0303",ojg,,ojib1241,w,OJ:5,,,,,,be characterized by or as,,final,unknown,,CONCR,,,,,,,,,,,maškikkī-w-an ,,,V,II,it is a medicine,,JPD1978a;0303,,,,,,,,,,,,,,,,,,,HTL
 942,Rhodes,RR1976,0277,ojg,,ojib1241,wa:b(isk)-,OJ:6,,,,,,pale (white),pale,initial
 943,Rhodes,RR1976,0242,ojg,,ojib1241,wa:bi,OJ:6,,,,,,see,see,initial
 944,Rhodes,RR1976,0245,ojg,,ojib1241,wa:nin-,OJ:6,,,,,,circle,circle,initial
@@ -947,7 +946,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 947,Bloomfield,LB1927b,0394,ojg,,ojib1241,wābi-,OJ:6,,,,,,white,white,initial
 948,Denny,JPD1978b,0296,ojg,,ojib1241,wāk,OJ:5,,,,,,bent,bent,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 949,Denny,JPD1977,0124,ojg,,ojib1241,wān,OJ:5,,,,,,concave,concave,initial
-95,Rhodes,RR1976,0266,ojg,,ojib1241,-asabi-,OJ:6,,,,,,net,,medial
+95,Rhodes,RR1976,0266,ojg,,ojib1241,-asabi-,OJ:6,,,,,,net,net,medial
 950,Denny,JPD1977,0135,ojg,,ojib1241,wāp,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'white' or related
 951,Mathieu,EM2007,0004,ojg,,ojib1241,wāp-,OJ:5,,,,,,blanc,white,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,From Denny 1978
 952,Denny,JPD1978b,0297,ojg,,ojib1241,wāpan,OJ:5,,,,,,dawn,dawn,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -957,14 +956,14 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 956,Denny,JPD1978b,"0297,0303",ojg,,ojib1241,wāssaw,OJ:5,,,,,,far,far,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 957,Denny,JPD1978b,"0297,0304,0316,0317",ojg,,ojib1241,wāssē,OJ:5,,,,,,daylight,daylight,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 958,Denny,JPD1978b,0296,ojg,,ojib1241,wāwīyē,OJ:5,,,,,,round,round,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-959,Rhodes,RR1976,"0227,0228,0229,0233",ojg,,ojib1241,we:b-,OJ:6,,,,,,"motion through air, fly",fly (V),initial
+959,Rhodes,RR1976,"0227,0228,0229,0233",ojg,,ojib1241,we:b-,OJ:6,,,,,,"motion through air, fly","fly (V), motion (through air)",initial
 96,Rhodes,RR1980,0184,ojg,,ojib1241,-āši,OJ:9,,,,,,be blown,blown,final,AI,,,,,,-āsin,-āšim,-āsidǒ
 960,Denny,JPD1978b,0297,ojg,,ojib1241,wēnippan,OJ:5,,,,,,easy,easy,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-961,Denny,JPD1978b,"0299,0304",ojg,,ojib1241,wēw,OJ:5,,,,,,make noise,,final,unk.,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+961,Denny,JPD1978b,"0299,0304",ojg,,ojib1241,wēw,OJ:5,,,,,,make noise,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 962,Valentine 2002,RV2002,0088,ojg,Manitoulin,ojib1241,weweb-,OJ:3,,,,,,wave,wave,initial
 963,Rhodes,RR1980,0185,ojg,,ojib1241,wi-,OJ:9,,,,,,transport,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,wiN,widō,,,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 964,Rhodes,RR1976,0249,ojg,,ojib1241,wi:d-,OJ:6,,,,,,with,with,initial
-965,Rhodes,RR1976,0221,ojg,,ojib1241,wi:kw-,OJ:6,,,,,,drawn towards,,initial
+965,Rhodes,RR1976,0221,ojg,,ojib1241,wi:kw-,OJ:6,,,,,,drawn towards,drawn (towards),initial
 966,Rhodes,RR1976,"0081,0082,0169",ojg,,ojib1241,wi:n-,OJ:6,,,,,,dirty,dirt,initial,,,,,,,,,,,,,,wi:nad-,,,V,II,dirty,wi:nizi,RR1976;0081,wi:nizi,,,V,AI,dirty,RR1976;0082
 967,Rhodes,RR1980,0185,ojg,,ojib1241,widō,OJ:9,,,,,,transport,transport,final,TI,,,,,,,wiN,,,,,,,,,,,,,,,,,,,,,,,,,,wi-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 968,Rhodes,RR1980,0185,ojg,,ojib1241,wiN,OJ:9,,,,,,transport,transport,final,TA,,,,,,,,widō,,,,,,,,,,,,,,,,,,,,,,,,,wi-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
@@ -975,7 +974,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 972,Denny,JPD1978b,0296,ojg,,ojib1241,wīssak,OJ:5,,,,,,bitter,bitter,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 973,Denny,JPD1977,0129,ojg,,ojib1241,wīssak,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'bitter'
 974,Denny,JPD1981,0008,ojg,,ojib1241,yā,OJ:5,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-975,Denny,JPD1981,0006,ojg,,ojib1241,yāpī,OJ:5,,,,,,stringlike,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /āpī/,Piggot and Kaye (1973),HTL
+975,Denny,JPD1981,0006,ojg,,ojib1241,yāpī,OJ:5,,,,,,stringlike,"stringlike, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /āpī/,Piggot and Kaye (1973),HTL
 976,Rhodes,RR1976,0227,ojg,,ojib1241,za:bw-,OJ:6,,,,,,penetrate,penetrate,initial
 977,Rhodes,RR1976,0284,ojg,,ojib1241,ža:gana:ši-,OJ:6,,,,,,english,,initial
 978,Rhodes,RR1976,"0275,0277",ojg,,ojib1241,ža:š-,OJ:6,,,,,,"slide, slippery","slide, slippery",initial
@@ -986,7 +985,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 982,Rhodes,RR1976,0274,ojg,,ojib1241,zazo:-,OJ:6,,,,,,rubbed,rubbed,initial
 983,Rhodes,RR1976,0219,ojg,,ojib1241,ze:g-,OJ:6,,,,,,afraid,afraid,initial
 984,Denny,JPD1978b,"0301,0313,0314,0321",ojg,,ojib1241,zero,OJ:5,,,,,,NG,,final ,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-985,Valentine 2002,RV2002,0106,ojg,Odawa,ojib1241,zhoom-,OJ:3,,,,,,smile,,initial
+985,Valentine 2002,RV2002,0106,ojg,Odawa,ojib1241,zhoom-,OJ:3,,,,,,smile,smile,initial
 986,Rhodes,RR1976,"0214,0218",ojg,,ojib1241,zi:-,OJ:6,,,,,,sour,sour,initial
 987,Rhodes,RR1976,"0278,0279",ojg,,ojib1241,ži:b-,OJ:6,,,,,,stretch,stretch,initial
 988,Rhodes,RR1976,0225,ojg,,ojib1241,zi:g-,OJ:6,,,,,,pour out (intransitive),pour out,initial

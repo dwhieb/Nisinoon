@@ -365,11 +365,11 @@ Component ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form
 651,Denny,JPD1981,0005,crk,,plai1258,ēk,C-P:3,,,,,,sheetlike,,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,MAM
 657,Denny,JPD1981,0005,crk,,plai1258,ht,C-P:3,,,,,,become,,final,II,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,MAM
 658,Denny,JPD1981,0005,crk,,plai1258,ht,C-P:3,,,,,,become,,final ,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,MAM
-659,Denny,JPD1977,0136,crk,,plai1258,ht,C-P:4,,,,,,to have become,,final,unk.,,CONCR
-660,Denny,JPD1978a,0303,crk,,plai1258,i,C-P:6,,,,,,NG,,final,unk.
+659,Denny,JPD1977,0136,crk,,plai1258,ht,C-P:4,,,,,,to have become,,final,unknown,,CONCR
+660,Denny,JPD1978a,0303,crk,,plai1258,i,C-P:6,,,,,,NG,,final,unknown
 661,Denny,JPD1981,"0003,0004",crk,,plai1258,ī,C-P:3,,,,,,NG,,final,AI,,ABSTR,,,,,,,,,,,,,,,micimo-skiwak-īw,,,AI,,he gets bogged,,JPD1981;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield",,MAM
 662,Denny,JPD1981,0005,crk,,plai1258,ī,C-P:3,,,,,,movement,,final,AI,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,MAM
-664,Denny,JPD1978a,0312,crk,,plai1258,iht,C-P:6,,,,*-hθ-,,become ,,final,unk.,,CONCR
+664,Denny,JPD1978a,0312,crk,,plai1258,iht,C-P:6,,,,*-hθ-,,become ,,final,unknown,,CONCR
 666,Denny,JPD1981,0005,crk,,plai1258,ikw,C-P:3,,,,,,NG,,medial,INCORP,,,,,,,,,,,,,,,,,sak-ikw-ē-n-ē-,,,TA,,he seizes him by the neck,,JPD1981;0005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield",,MAM
 668,Denny,JPD1981,0005,crk,,plai1258,in,C-P:3,,,,,,event,,final,II,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,MAM
 668,Denny,JPD1978a,0311,crk,,plai1258,in,C-P:6,,,,*-en-,,event,,final,II,,ABSTR,,,,,,,,,in
@@ -418,10 +418,10 @@ Component ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form
 852,Denny,JPD1977,0132,crk,,plai1258,pāhkw,C-P:4,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'dry'
 853,Denny,JPD1978a,0308,crk,,plai1258,pāhkw,C-P:6,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'dry'
 854,Denny,JPD1978b,0308,crk,,plai1258,pāhkw-,C-P:3,,,,,,dry,,initial,,,,,,,,,,,,,,,,,,pāhkw-ā-,,,II,,it is dry,,JPD1978b;0308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield"
-882,Denny,JPD1978a,0312,crk,,plai1258,pay,C-P:6,,,,,,process,,final,unk.,,CONCR
-883,Denny,JPD1977,0136,crk,,plai1258,payi,C-P:4,,,,,,to become,,final,unk.,,CONCR
+882,Denny,JPD1978a,0312,crk,,plai1258,pay,C-P:6,,,,,,process,,final,unknown,,CONCR
+883,Denny,JPD1977,0136,crk,,plai1258,payi,C-P:4,,,,,,to become,,final,unknown,,CONCR
 885,Denny,JPD1981,0005,crk,,plai1258,pēk,C-P:3,,,,,,NG,,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"probably means 'water, liquid'",,HTL,MAM
-898,Denny,JPD1978a,0311,crk,,plai1258,s,C-P:6,,,,,,diminutive ,,final,unk.,,CONCR
+898,Denny,JPD1978a,0311,crk,,plai1258,s,C-P:6,,,,,,diminutive ,,final,unknown,,CONCR
 900,Denny,JPD1981,0005,crk,,plai1258,sak,C-P:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,sak-ikw-ē-n-ē-,,,TA,,he seizes him by the neck,,JPD1981;0005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield",,MAM
 904,Denny,JPD1981,"0004,0005",crk,,plai1258,sāpo,C-P:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,MAM
 905,Denny,JPD1981,0007,crk,,plai1258,sāpopē,C-P:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield; not positive he's still talking about Cree here",,MAM
@@ -436,7 +436,7 @@ Component ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form
 943,Denny,JPD1978b,"0295,0317",crk,,plai1258,tipisk-,C-P:3,,,,,,"dark, night",,initial,,,,,,,,,,,,,,,,,,tipisk-ā-,,,II,,"it is night, it is dark",,JPD1978b;0295,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield"
 944,Denny,JPD1981,0005,crk,,plai1258,tōhk,C-P:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,tōhk-āp-(i)-,,,AI,,he opens his eyes,,JPD1981;0005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield; initial probably means 'open'",,MAM
 945,Denny,JPD1981,0007,crk,,plai1258,w,C-P:3,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield; not positive he's still talking about Cree here",,MAM
-946,Denny,JPD1977,0131,crk,,plai1258,w,C-P:4,,,,,,NG,,final,unk.
+946,Denny,JPD1977,0131,crk,,plai1258,w,C-P:4,,,,,,NG,,final,unknown
 959,Denny,JPD1981,0006,crk,,plai1258,wās,C-P:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,wās-akām-ē-,,,AI,,he makes a circuit,,JPD1981;0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield; not positive he's still talking about Cree here",,MAM
 965,Denny,JPD1978a,0305,crk,,plai1258,yāskwē,C-P:6,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'woods'
 966,Denny,JPD1981,0006,crk,,plai1258,yīkw,C-P:3,,,,,,covered,,initial,,,,,,,,,,,,,,,,,,yīkw-askw-an,,,II,,it is cloudy (lit. covered by cloud),,JPD1981;0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield; not positive he's still talking about Cree here",,MAM

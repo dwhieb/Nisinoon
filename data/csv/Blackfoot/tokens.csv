@@ -166,7 +166,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 165,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,o't,BF:1,,,,,,grasp by hand,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 165,Armoskaite,SA2010,0062,bla,,siks1238,o't-,BF:1,,,,,,take,,initial,,,,,,,,,,,,o'taki,,o't-aki,V,pseudo-intransitive,take,,SA2010;0063,o'tsi,,o't-i,V,TI,take,,SA2010;0063,o'to,,o't-o,V,TA,take,,SA2010;0063,,,,,,,,MAM
 165,Bliss,HB2010,0060,bla,,siks1238,o't-,BF:1,,,,,,take,,initial
-168,Genee,IXG2013,"0102,0108",bla,,siks1238,ohpomm,BF:1,,,,,,buy,,initial,INTR.
+168,Genee,IXG2013,"0102,0108",bla,,siks1238,ohpomm,BF:1,,,,,,buy,,initial,INTR
 169,Armoskaite,SA2010,0066,bla,,siks1238,ohpomm-,BF:1,,,,,,buy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 169,Barrie & Dunham,MB_JD2008,0014,bla,,siks1238,ohpomm-,BF:1,,,,,,buy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""root"" but I wonder if it's not a stem (i.e. internally complex).",,MAM
 171,Bliss et al. ,HB_ET_AL2012,0001,bla,,siks1238,ohpop-,BF:1,,,,,,hold a child,,initial
@@ -198,7 +198,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 197,Barrie & Dunham,MB_JD2008,"0019,0037",bla,,siks1238,ssi,BF:1,,,,,,"wipe, wash",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: Defined as ""XSUBJ wipe or wash Y’s ZMED VTA"" and also ""XSUBJ wipe or wash X’s ZMED VAI"" (the latter appears to be a reflexive but not clear that the verb is AI); assuming this is an initial because it precedes a medial.",,MAM
 197,Armoskaite,SA2010,0062,bla,,siks1238,ssi-,BF:1,,,,,,wipe,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 199,Barrie & Dunham,MB_JD2008,0033,,,,ssik-,BF:1,,,,,,break,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-200,Genee,IXG2013,0108,bla,,siks1238,sskonák,BF:1,,,,,,shoot,,initial,INTR.
+200,Genee,IXG2013,0108,bla,,siks1238,sskonák,BF:1,,,,,,shoot,,initial,INTR
 201,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,ssok,BF:1,,,,,,heavy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 202,Barrie & Dunham,MB_JD2008,0033,,,,ssp-,BF:1,,,,,,high,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 203,Bliss et al. ,HB_ET_AL2012,0015,bla,,siks1238,ssta-,BF:1,,,,,,want
@@ -207,11 +207,11 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 206,Bliss et al. ,HB_ET_AL2012,0008,bla,,siks1238,sstonnat-,BF:1,,,,,,dangerous,,initial
 101,Barrie & Dunham,MB_JD2008,0036,bla,,siks1238,sstooki,BF:1,,,,,,ear,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 208,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,sstss,BF:1,,,,,,burn,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-209,Genee,IXG2013,0104,bla,,siks1238,waahkoma't,BF:1,,,,,,give or receive a loan,,initial,INTR.
+209,Genee,IXG2013,0104,bla,,siks1238,waahkoma't,BF:1,,,,,,give or receive a loan,,initial,INTR
 210,Bliss,HB2010,0062,bla,,siks1238,waahkoma't-,BF:1,,,,,,borrow,,initial
-211,Genee,IXG2013,"0098,0100,0102",bla,,siks1238,waan,BF:1,,,,,,say,,initial,INTR.
+211,Genee,IXG2013,"0098,0100,0102",bla,,siks1238,waan,BF:1,,,,,,say,,initial,INTR
 212,Bliss et al. ,HB_ET_AL2012,0001,bla,,siks1238,waawaahk-,BF:1,,,,,,play,,initial
 213,Barrie & Dunham,MB_JD2008,"0019,0037",bla,,siks1238,yáak,BF:1,,,,,,"change shape of, shape, arrange",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: Defined as ""XSUBJ change shape of YOBJ as a ZMED"" and also ""XSUBJ change shape of Y’s ZMED""; assuming this is an initial because it precedes a medial.",,MAM
 214,Armoskaite,SA2010,0060,bla,,siks1238,yaam-,BF:1,,,,,,twisted,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-215,Genee,IXG2013,0108,bla,,siks1238,yisskskip,BF:1,,,,,,tie,,initial,INTR.
+215,Genee,IXG2013,0108,bla,,siks1238,yisskskip,BF:1,,,,,,tie,,initial,INTR
 216,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,yosstsikina,BF:1,,,,,,fibrous,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: cf iyosstsikina, but listed separately in the same appendix table so I'll leave it in.",,MAM

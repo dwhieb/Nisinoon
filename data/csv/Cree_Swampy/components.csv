@@ -1,6 +1,6 @@
 ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
 1,Valentine,RV2002,116,---,,---,-i,C-P:1,,,,,,NG,,final,AI
-2,Valentine,RV2002,117,---,,---,-ni,C-P:1,,,,,,self-initiated body movement,,final,AI
+2,Valentine,RV2002,117,---,,---,-ni,C-P:1,,,,,,self-initiated body movement,movement (body),final,AI
 3,Valentine,RV2002,107,---,,---,paahp-,C-P:1,,,,,,laugh,laugh,initial
 4,Valentine,RV2002,103,---,,---,pahkope-,C-P:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,likely 'in water';  used in intransitive motion verbs
 5,Valentine,RV2002,102,---,,---,payehk-,C-P:1,,,,,,clean,clean,initial

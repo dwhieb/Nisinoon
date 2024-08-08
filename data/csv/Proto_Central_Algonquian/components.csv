@@ -1,165 +1,165 @@
 ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,,Speaker,1st check done,2nd check done
-1,Bloomfield,LB1927b,0395,,,,-*at-ehtaw,PCA:1,,,,,,cold,,final,TI
-2,Bloomfield,LB1927b,0399,,,,-*sit-,PCA:1,,,,,,foot,,medial
-3,Bloomfield,LB1927b,0400,,,,-*sitä-,PCA:1,,,,,,foot,,medial
+1,Bloomfield,LB1927b,0395,,,,-*at-ehtaw,PCA:1,,,,,,cold,cold,final,TI
+2,Bloomfield,LB1927b,0399,,,,-*sit-,PCA:1,,,,,,foot,foot,medial
+3,Bloomfield,LB1927b,0400,,,,-*sitä-,PCA:1,,,,,,foot,foot,medial
 4,Bloomfield,LB1927b,0400,,,,-ä-,PCA:1,,,,,,NG,,final
 5,Bloomfield,LB1927b,0400,,,,-ä-,PCA:1,,,,,,NG,,postmedial
 6,Bloomfield,LB1927b,0396,,,,-äle-m-,PCA:1,,,,,,thought,,final
 7,Bloomfield,LB1927b,0396,,,,-äle-nt-,PCA:1,,,,,,thought,,final
 8,Bloomfield,LB1927b,0400,,,,-ēpit-,PCA:1,,,,,,tooth,,medial,AnimDep
-9,Bloomfield,LB1927b,0400,,,,-θcentcy-,PCA:1,,,,,,hand,,medial
-10,Bloomfield,LB1925b,0144,,,,*-'lä-,PCA:1,,,,,,"fly, rush",,final,unk.
+9,Bloomfield,LB1927b,0400,,,,-θcentcy-,PCA:1,,,,,,hand,hand,medial
+10,Bloomfield,LB1925b,0144,,,,*-'lä-,PCA:1,,,,,,"fly, rush",,final,unknown
 11,Bloomfield,LB1925b,0135,,,,*-'θeny-,PCA:1,,,,,,eat,,medial
 12,Bloomfield,LB1925b,0135,,,,*-ä-,PCA:1,,,,,,NG,,final,AI
 13,Bloomfield,LB1925b,0137,,,,*-ä-,PCA:1,,,,,,NG,,postinitial
-14,Haas,MH1958b,0253,,,,*-a·htekw-,PCA:2,,,,,,"tree, wood",,medial
+14,Haas,MH1958b,0253,,,,*-a·htekw-,PCA:2,,,,,,"tree, wood","tree, wood",medial
 15,Haas,MH1958b,0248,,,,*-a·pe·w-,PCA:2,,,,,,male,"male, man",final,N,,,Y
-16,Haas,MH1958c,0167,,,,*-a·pit-,PCA:2,,,,,,tooth,,medial
-17,Bloomfield,LB1925b,"0142, 0149",,,,*-a'θemw-,PCA:1,,,,,,dog,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""non-initial element"""
+16,Haas,MH1958c,0167,,,,*-a·pit-,PCA:2,,,,,,tooth,tooth,medial
+17,Bloomfield,LB1925b,"0142, 0149",,,,*-a'θemw-,PCA:1,,,,,,dog,dog,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""non-initial element"""
 18,Bloomfield,LB1925b,0132,,,,*-ah-,PCA:1,,,,,,act by tool on inanimate object,,final,TI
-19,Bloomfield,LB1925b,0154,,,,*-ahanθ-,PCA:1,,,,,,track,,final,TA
+19,Bloomfield,LB1925b,0154,,,,*-ahanθ-,PCA:1,,,,,,track,track,final,TA
 20,Bloomfield,LB1925b,0139,,,,*-ahw-,PCA:1,,,,,,act by tool on animate object,,final,TA
 21,Bloomfield,LB1927b,0399,,,,*-ak-,PCA:1,,,,,,NG,,postmedial
 22,Bloomfield,LB1927b,0398,,,,*-ākan-,PCA:1,,,,,,NG,,final,N,,,Y,V
-23,Bloomfield,LB1927b,0401,,,,*-ākunä-,PCA:1,,,,,,snow,,medial
-24,Bloomfield,LB1925b,0148,,,,*-alakatckw-,PCA:1,,,,,,palate,,medial
-25,Bloomfield,LB1925b,0133,,,,*-äle-,PCA:1,,,,,,thought ,,medial
+23,Bloomfield,LB1927b,0401,,,,*-ākunä-,PCA:1,,,,,,snow,snow,medial
+24,Bloomfield,LB1925b,0148,,,,*-alakatckw-,PCA:1,,,,,,palate,palate,medial
+25,Bloomfield,LB1925b,0133,,,,*-äle-,PCA:1,,,,,,thought ,thought,medial
 26,Bloomfield,LB1925b,0139,,,,*-am-,PCA:1,,,,,,"eat, smell",,final,TA
-27,Bloomfield,LB1927b,0400,,,,*-amäkw-,PCA:1,,,,,,fish,,medial
+27,Bloomfield,LB1927b,0400,,,,*-amäkw-,PCA:1,,,,,,fish,fish,medial
 28,Bloomfield,LB1925b,0138,,,,*-amaw-,PCA:1,,,,,,to or for animate object,,final,TA
 29,Bloomfield,LB1925b,0145,,,,*-ant-,PCA:1,,,,,,NG,,final,TI
-30,Bloomfield,LB1925b,"0143, 0145",,,,*-āp-,PCA:1,,,,,,look,,final,unk.,,CONCR
+30,Bloomfield,LB1925b,"0143, 0145",,,,*-āp-,PCA:1,,,,,,look,,final,unknown,,CONCR
 31,Bloomfield,LB1927b,0397,,,,*-āpam-,PCA:1,,,,,,NG,,final
 32,Bloomfield,LB1927b,0397,,,,*-āpan-,PCA:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
 33,Bloomfield,LB1927b,0397,,,,*-āpant-,PCA:1,,,,,,NG,,final
-34,Bloomfield,LB1927b,0398,,,,*-āpexk-,PCA:1,,,,,,"stone, solid of similar consistency",,medial
-35,Bloomfield,LB1925b,0143,,,,*-api-,PCA:1,,,,,,sit,,final,unk.
+34,Bloomfield,LB1927b,0398,,,,*-āpexk-,PCA:1,,,,,,"stone, solid of similar consistency","solid, stone, CLASSIFIER",medial
+35,Bloomfield,LB1925b,0143,,,,*-api-,PCA:1,,,,,,sit,,final,unknown
 36,Bloomfield,LB1927b,0397,,,,*-āpi-,PCA:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
 37,Bloomfield,LB1927b,0397,,,,*-āpimin-,PCA:1,,,,,,NG,,final
-38,Bloomfield,LB1927b,0400,,,,*-apitä-,PCA:1,,,,,,tooth,,medial
-39,Bloomfield,LB1927b,0400,,,,*-apitak-,PCA:1,,,,,,tooth,,medial
+38,Bloomfield,LB1927b,0400,,,,*-apitä-,PCA:1,,,,,,tooth,tooth,medial
+39,Bloomfield,LB1927b,0400,,,,*-apitak-,PCA:1,,,,,,tooth,tooth,medial
 40,Bloomfield,LB1927b,0397,,,,*-āpusw-,PCA:1,,,,,,NG,,final
-41,Bloomfield,LB1927b,0399,,,,*-āpyä-,PCA:1,,,,,,"string, elongated object",,medial
-42,Bloomfield,LB1927b,0399,,,,*-āpyäk-,PCA:1,,,,,,"string, elongated object",,medial
-43,Bloomfield,LB1927b,0395,,,,*-at-,PCA:1,,,,,,cold,,prefinal
+41,Bloomfield,LB1927b,0399,,,,*-āpyä-,PCA:1,,,,,,"string, elongated object","object (elongated), string, CLASSIFIER",medial
+42,Bloomfield,LB1927b,0399,,,,*-āpyäk-,PCA:1,,,,,,"string, elongated object","object (elongated), string, CLASSIFIER",medial
+43,Bloomfield,LB1927b,0395,,,,*-at-,PCA:1,,,,,,cold,cold,prefinal
 44,Bloomfield,LB1925b,0139,,,,*-at-,PCA:1,,,,,,NG ,,final,II,,ABSTR
 45,Bloomfield,LB1925b,"0132, 0133",,,,*-āt-,PCA:1,,,,,,"way of being, character ",,final,AI
-46,Bloomfield,LB1927b,0395,,,,*-at-em-,PCA:1,,,,,,cold,,final,TA
-47,Bloomfield,LB1927b,0395,,,,*-at-en-,PCA:1,,,,,,cold,,final,II
-48,Bloomfield,LB1927b,0397,,,,*-atawāpi-,PCA:1,,,,,,try to see,,final
-49,Bloomfield,LB1927b,0395,,,,*-atc-i-,PCA:1,,,,,,cold,,final,AI
+46,Bloomfield,LB1927b,0395,,,,*-at-em-,PCA:1,,,,,,cold,cold,final,TA
+47,Bloomfield,LB1927b,0395,,,,*-at-en-,PCA:1,,,,,,cold,cold,final,II
+48,Bloomfield,LB1927b,0397,,,,*-atawāpi-,PCA:1,,,,,,try to see,try to see,final
+49,Bloomfield,LB1927b,0395,,,,*-atc-i-,PCA:1,,,,,,cold,cold,final,AI
 50,Bloomfield,LB1927b,0397,,,,*-āwataw-,PCA:1,,,,,,NG,,final
 51,Bloomfield,LB1927b,0397,,,,*-āwaθ-,PCA:1,,,,,,NG,,final
-52,Bloomfield,LB1927b,0401,,,,*-āwikanä-,PCA:1,,,,,,snow,,medial
-53,Bloomfield,LB1925b,0136,,,,*-axkī-,PCA:1,,,,,,land,,medial
-54,Bloomfield,LB1925b,0142,,,,*-āxkw-,PCA:1,,,,,,"wood, solid",,medial
-55,Bloomfield,LB1927b,0398,,,,*-āxkwä-,PCA:1,,,,,,wood,,medial
-56,Haas,MH1958b,"0237,0252",,,,*-aθany-,PCA:2,,,,,,tail,,medial
+52,Bloomfield,LB1927b,0401,,,,*-āwikanä-,PCA:1,,,,,,snow,snow,medial
+53,Bloomfield,LB1925b,0136,,,,*-axkī-,PCA:1,,,,,,land,land,medial
+54,Bloomfield,LB1925b,0142,,,,*-āxkw-,PCA:1,,,,,,"wood, solid","solid, wood, CLASSIFIER",medial
+55,Bloomfield,LB1927b,0398,,,,*-āxkwä-,PCA:1,,,,,,wood,wood,medial
+56,Haas,MH1958b,"0237,0252",,,,*-aθany-,PCA:2,,,,,,tail,tail,medial
 57,Bloomfield,LB1925b,0137,,,,*-ē-hk-aw-,PCA:1,,,,,,"frequent, annoy, injure an animate object by foot or body movement",,final,TA
 58,Haas,MH1958b,0245,,,,*-e·hθ-,PCA:2,,,,,,father
 59,Bloomfield,LB1925b,0137,,,,*-eck-aw-,PCA:1,,,,,,foot or body movement on animate object,,final,TA
 60,Bloomfield,LB1925b,0151,,,,*-ecw-,PCA:1,,,,,,cut ,cut,final,TA
-61,Bloomfield,LB1925b,0143,,,,*-ehk-,PCA:1,,,,,,"by foot, go",,final,unk.
+61,Bloomfield,LB1925b,0143,,,,*-ehk-,PCA:1,,,,,,"by foot, go",,final,unknown
 62,Bloomfield,LB1925b,0137,,,,*-eht-aw-,PCA:1,,,,,,hear animate object,,final,TA
-63,Bloomfield,LB1925b,"0137, 0139, 0151",,,,*-ekw-,PCA:1,,,,,,undergoing ,,final,INTR.,,,Y,TRANS
+63,Bloomfield,LB1925b,"0137, 0139, 0151",,,,*-ekw-,PCA:1,,,,,,undergoing ,,final,INTR,,,Y,TRANS
 64,Bloomfield,LB1927b,0394,,,,*-el-,PCA:1,,,,,,"by shot, shoot",,final,TI,,,,,,,,*-el-
-65,Haas,MH1958b,0251,,,,*-elaw-,PCA:2,,,,,,shoot,,final,TA,,,,,,,,*-el-
+65,Haas,MH1958b,0251,,,,*-elaw-,PCA:2,,,,,,shoot,shoot,final,TA,,,,,,,,*-el-
 66,Bloomfield,LB1925b,"0136, 0137",,,,*-en-,PCA:1,,,,,,action on object by hand,,final,TRANS,,CONCR
 67,Bloomfield,LB1925b,0153,,,,*-en-,PCA:1,,,,,,NG,,final,II
-68,Bloomfield,LB1927b,0399,,,,*-epyä-,PCA:1,,,,,,liquid,,medial
-69,Bloomfield,LB1927b,0399,,,,*-epyäk-,PCA:1,,,,,,liquid,,medial
+68,Bloomfield,LB1927b,0399,,,,*-epyä-,PCA:1,,,,,,liquid,"liquid, water",medial
+69,Bloomfield,LB1927b,0399,,,,*-epyäk-,PCA:1,,,,,,liquid,"liquid, water",medial
 70,Bloomfield,LB1925b,"0132, 0140",,,,*-esi-,PCA:1,,,,,,NG,,final,AI,,ABSTR
-71,Haas,MH1958b,0246,,,,*-ešk-,PCA:2,,,,,,(action) by foot,,final
-72,Bloomfield,LB1927b,0399,,,,*-etcyä-,PCA:1,,,,,,"belly, small, usually round, body",,medial
+71,Haas,MH1958b,0246,,,,*-ešk-,PCA:2,,,,,,(action) by foot,"foot, MANNER",final
+72,Bloomfield,LB1927b,0399,,,,*-etcyä-,PCA:1,,,,,,"belly, small, usually round, body","belly, body (small, round), CLASSIFIER",medial
 73,Bloomfield,LB1925b,"0136,0137",,,,*-etu-,PCA:1,,,,*-etwe-,,reciprocal,RECIPROCAL,final,AI,,,,,,,,,*-etī-
 74,Bloomfield,LB1925b,0142,,,,*-ēwi,PCA:1,,,,,,NG,,final,AI,,,Y,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""forming denominative verbs"""
-75,Bloomfield,LB1927b,0400,,,,*-exkwäw-,PCA:1,,,,,,woman,,medial
-76,Bloomfield,LB1927b,0400,,,,*-exkwäwä-,PCA:1,,,,,,woman,,medial,INTR.
+75,Bloomfield,LB1927b,0400,,,,*-exkwäw-,PCA:1,,,,,,woman,woman,medial
+76,Bloomfield,LB1927b,0400,,,,*-exkwäwä-,PCA:1,,,,,,woman,,medial,INTR
 77,Bloomfield,LB1925b,0133,,,,*-h-,PCA:1,,,,,,causative,CAUSATIVE,final,TA,,,Y,AI
 78,Bloomfield,LB1925b,0145,,,,*-h-,PCA:1,,,,,,NG,,final,TA
 79,Bloomfield,LB1925b,0141,,,,*-hc-im-,PCA:1,,,,,,lay an animate object,,final,TA
-80,Bloomfield,LB1927b,0395,,,,*-hc-imu-,PCA:1,,,,,,"fall, lie",,final,AI
-81,Bloomfield,LB1927b,0395,,,,*-hc-in,PCA:1,,,,,,"fall, lie",,final,AI
-82,Bloomfield,LB1927b,0401,,,,*-hcim-,PCA:1,,,,,,"lay, throw an inanimate object",,final
-83,Haas,MH1958b,0237,,,,*-hkwe·-,PCA:2,,,,,,neck,,medial
+80,Bloomfield,LB1927b,0395,,,,*-hc-imu-,PCA:1,,,,,,"fall, lie","fall, lie (position)",final,AI
+81,Bloomfield,LB1927b,0395,,,,*-hc-in,PCA:1,,,,,,"fall, lie","fall, lie (position)",final,AI
+82,Bloomfield,LB1927b,0401,,,,*-hcim-,PCA:1,,,,,,"lay, throw an inanimate object","lay, throw",final
+83,Haas,MH1958b,0237,,,,*-hkwe·-,PCA:2,,,,,,neck,neck,medial
 84,Bloomfield,LB1925b,0145,,,,*-htā-,PCA:1,,,,,,NG,,final,TI,,,,,,,*-h-
-85,Haas,MH1958b,0245,,,,*-hta·waka·y-,PCA:2,,,,,,ear,,medial
+85,Haas,MH1958b,0245,,,,*-hta·waka·y-,PCA:2,,,,,,ear,ear,medial
 86,Bloomfield,LB1925b,0145,,,,*-htaw-,PCA:1,,,,,,NG,,final,TI,,,,,,,*-h-
 87,Bloomfield,LB1925b,0145,,,,*-htō-,PCA:1,,,,,,NG,,final,TI,,,,,,,*-h-
-88,Bloomfield,LB1927b,0395,,,,*-hθ-,PCA:1,,,,,,"fall, lie",,prefinal
-89,Bloomfield,LB1925b,"0136, 0153",,,,*-hθ-,PCA:1,,,,,,"fall, lie",,final,unk.,,CONCR
-90,Bloomfield,LB1927b,0395,,,,*-hθ-en-,PCA:1,,,,,,"fall, lie",,final,II
-91,Bloomfield,LB1927b,0395,,,,*-hθ-etaw-,PCA:1,,,,,,"fall, lie",,final,TI
+88,Bloomfield,LB1927b,0395,,,,*-hθ-,PCA:1,,,,,,"fall, lie","fall, lie",prefinal
+89,Bloomfield,LB1925b,"0136, 0153",,,,*-hθ-,PCA:1,,,,,,"fall, lie",,final,unknown,,CONCR
+90,Bloomfield,LB1927b,0395,,,,*-hθ-en-,PCA:1,,,,,,"fall, lie","fall, lie (position)",final,II
+91,Bloomfield,LB1927b,0395,,,,*-hθ-etaw-,PCA:1,,,,,,"fall, lie","fall, lie (position)",final,TI
 92,Bloomfield,LB1927b,0393,,,,*-i,PCA:1,,,,,,NG,,final,PART
 93,Bloomfield,LB1925b,0135,,,,*-i-,PCA:1,,,,,,NG,,final,AI
 94,Bloomfield,LB1925b,0144,,,,*-ī-,PCA:1,,,,,,NG,,prefinal
-95,Haas,MH1958b,0237,,,,*-i·n-,PCA:2,,,,,,name,,medial
+95,Haas,MH1958b,0237,,,,*-i·n-,PCA:2,,,,,,name,name,medial
 96,Haas,MH1958c,0167,,,,*-i·pit,PCA:2,,,,,,tooth,,medial,Dep
 97,Haas,MH1958b,0247,,,,*-i·ši,PCA:2,,,,,,head,head,final,N
-98,Haas,MH1958b,0247,,,,*-i·θ-,PCA:2,,,,,,head,,medial
+98,Haas,MH1958b,0247,,,,*-i·θ-,PCA:2,,,,,,head,head,medial
 99,Bloomfield,LB1925b,"0136, 0153",,,,*-in-,PCA:1,,,,,,NG,,final,AI
 100,Haas,MH1958b,0248,,,,*-iti,PCA:2,,,,,,reciprocal,RECIPROCAL,final,AI
-101,Bloomfield,LB1925b,0141,,,,*-iw-,PCA:1,,,,,,NG,,final,unk.
+101,Bloomfield,LB1925b,0141,,,,*-iw-,PCA:1,,,,,,NG,,final,unknown
 102,Bloomfield,LB1927b,0395,,,,*-k-,PCA:1,,,,,,NG,,prefinal
 103,Bloomfield,LB1925b,0152,,,,*-kä-,PCA:1,,,,,,action on things,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""deverbative suffix"""
-104,Bloomfield,LB1927b,0399,,,,*-kamy-,PCA:1,,,,,,"water, liquid",,medial
+104,Bloomfield,LB1927b,0399,,,,*-kamy-,PCA:1,,,,,,"water, liquid","liquid, water",medial
 105,Bloomfield,LB1927b,0396,,,,*-kan-,PCA:1,,,,,,NG,,final,N,,,Y,TI
-106,Bloomfield,LB1925b,0141,,,,*-kāpawi-,PCA:1,,,,,,stand,,final,AI
-107,Bloomfield,LB1925b,0141,,,,*-kātä-,PCA:1,,,,,,leg,,medial
+106,Bloomfield,LB1925b,0141,,,,*-kāpawi-,PCA:1,,,,,,stand,stand,final,AI
+107,Bloomfield,LB1925b,0141,,,,*-kātä-,PCA:1,,,,,,leg,leg,medial
 108,Bloomfield,LB1925b,0144,,,,*-kātä-,PCA:1,,,,,,undergoing ,,final,II
 109,Haas,MH1958b,0246,,,,*-l,PCA:2,,,,,,transitivizing,TRANSITIVE,final,TRANS
 110,Bloomfield,LB1927b,0397,,,,*-leniw-,PCA:1,,,,,,NG,,final
-111,Bloomfield,LB1925b,0134,,,,*-lenιw-,PCA:1,,,,,,man,,medial
+111,Bloomfield,LB1925b,0134,,,,*-lenιw-,PCA:1,,,,,,man,"male, man",medial
 112,Bloomfield,LB1925b,0133,,,,*-m-,PCA:1,,,,,,action by speech or thought,,final,TA
 113,Bloomfield,LB1925b,0150,,,,*-m-u-,PCA:1,,,,,,by speech or thought ,,postradical,AI
 114,Bloomfield,LB1927b,"0395,0396",,,,*-min-,PCA:1,,,,,,"grain, berry, fruit","berry, fruit, grain",final,N,,,B
-115,Bloomfield,LB1925b,0139,,,,*-myā-,PCA:1,,,,,,smell,,medial
+115,Bloomfield,LB1925b,0139,,,,*-myā-,PCA:1,,,,,,smell,smell,medial
 116,Bloomfield,LB1925b,0144,,,,*-näh-,PCA:1,,,,,,seek ,,final,TI
 117,Bloomfield,LB1925b,0148,,,,*-nähw-,PCA:1,,,,,,seek,,final,TA
-118,Bloomfield,LB1925b,0148,,,,*-naθ-,PCA:1,,,,,,assail ,,final,unk.
-119,Bloomfield,LB1925b,0141,,,,*-nexkä-,PCA:1,,,,,,arm,,medial
+118,Bloomfield,LB1925b,0148,,,,*-naθ-,PCA:1,,,,,,assail ,,final,unknown
+119,Bloomfield,LB1925b,0141,,,,*-nexkä-,PCA:1,,,,,,arm,arm,medial
 120,Bloomfield,LB1925b,0138,,,,*-nt-,PCA:1,,,,,,action on inanimate object,,final,TI
-121,Bloomfield,LB1925b,0139,,,,*-ōθ-,PCA:1,,,,,,canoe,,medial
-122,Bloomfield,LB1925b,"0144, 0150",,,,*-pa-,PCA:1,,,,,,run,,medial
+121,Bloomfield,LB1925b,0139,,,,*-ōθ-,PCA:1,,,,,,canoe,canoe,medial
+122,Bloomfield,LB1925b,"0144, 0150",,,,*-pa-,PCA:1,,,,,,run,run,medial
 123,Bloomfield,LB1925b,0151,,,,*-pu-,PCA:1,,*-pw- plus *-u-,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: seen in verb *ackipowa 'he eats raw food'
 124,Bloomfield,LB1925b,0148,,,,*-putä-,PCA:1,,,,,,affected by rapid handling,,final,II
 125,Haas,MH1958c,0166,,,,*-pw-,PCA:2,,,,,,"do with mouth, bite, eat",,final
-126,Haas,MH1958c,0165,,,,*-sit-,PCA:2,,,,,,foot,,medial
-127,Haas,MH1958b,0245,,,,*-ški·nšekw-,PCA:2,,,,,,eye,,medial
-128,Haas,MH1958b,0246,,,,*-šky-,PCA:2,,,,,,"hair, leaf, foliage",,medial
-129,Haas,MH1958c,0171,,,,*-štikwa·n-,PCA:2,,,,,,head,,medial
-130,Haas,MH1958c,0164,,,,*-ta·na,PCA:2,,,,,,daughter,,final
-131,Haas,MH1958c,0167,,,,*-ta·teʔl-,PCA:2,,,,,,tell,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Notated like a medial, but makes more sense as an initial..."
+126,Haas,MH1958c,0165,,,,*-sit-,PCA:2,,,,,,foot,foot,medial
+127,Haas,MH1958b,0245,,,,*-ški·nšekw-,PCA:2,,,,,,eye,eye,medial
+128,Haas,MH1958b,0246,,,,*-šky-,PCA:2,,,,,,"hair, leaf, foliage","foliage, hair, leaf",medial
+129,Haas,MH1958c,0171,,,,*-štikwa·n-,PCA:2,,,,,,head,head,medial
+130,Haas,MH1958c,0164,,,,*-ta·na,PCA:2,,,,,,daughter,daughter,final
+131,Haas,MH1958c,0167,,,,*-ta·teʔl-,PCA:2,,,,,,tell,tell,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Notated like a medial, but makes more sense as an initial..."
 132,Bloomfield,LB1925b,0145,,,,*-tcimä-,PCA:1,,,,,,paddle ,,final,AI
-133,Haas,MH1958c,0165,,,,*-te·h-,PCA:2,,,,,,heart,,medial
-134,Bloomfield,LB1927b,0399,,,,*-tempä-,PCA:1,,,,,,head,,medial
-135,Haas,MH1958b,0248,,,,*-to·n-,PCA:2,,,,,,mouth,,medial
+133,Haas,MH1958c,0165,,,,*-te·h-,PCA:2,,,,,,heart,heart,medial
+134,Bloomfield,LB1927b,0399,,,,*-tempä-,PCA:1,,,,,,head,head,medial
+135,Haas,MH1958b,0248,,,,*-to·n-,PCA:2,,,,,,mouth,mouth,medial
 136,Bloomfield,LB1925b,0151,,,,*-u-,PCA:1,,,,,,NG,,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""derivative with meaning much like that of Indo-European middle voice"""
-137,Bloomfield,LB1925b,0132,,,,*-uhθä-,PCA:1,,,,,,walk,,final,unk.
+137,Bloomfield,LB1925b,0132,,,,*-uhθä-,PCA:1,,,,,,walk,,final,unknown
 138,Bloomfield,LB1927b,0396,,,,*-usw-,PCA:1,,,,,,tailed animal,animal (with tail),final,N
 139,Bloomfield,LB1927b,0395,,,,*-w-,PCA:1,,,,,,agentive,,final
 140,Bloomfield,LB1927b,0398,,,,*-w-,PCA:1,,,,,,NG,,final,N
-141,Bloomfield,LB1925b,0140,,,,*-wäwä-,PCA:1,,,,,,noise,,medial
+141,Bloomfield,LB1925b,0140,,,,*-wäwä-,PCA:1,,,,,,noise,noise,medial
 142,Haas,MH1958b,0252,,,,*-we·-,PCA:2,,,,,,sound,sound,initial,V
 143,Bloomfield,LB1925b,0135,,,,*-wikä-,PCA:1,,,,,,dwell,,medial
-144,Bloomfield,LB1925b,0134,,,,*-wikamik-,PCA:1,,,,,,house,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""non-initial element"""
-145,Bloomfield,LB1925b,0135,,,,*-wikān-,PCA:1,,,,,,dwelling ,,medial
-146,Bloomfield,LB1925b,0134,,,,*-xkwäw-,PCA:1,,,,,,woman ,,medial
+144,Bloomfield,LB1925b,0134,,,,*-wikamik-,PCA:1,,,,,,house,house,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""non-initial element"""
+145,Bloomfield,LB1925b,0135,,,,*-wikān-,PCA:1,,,,,,dwelling ,"dwelling, house",medial
+146,Bloomfield,LB1925b,0134,,,,*-xkwäw-,PCA:1,,,,,,woman ,woman,medial
 147,Bloomfield,LB1925b,0139,,,,*-yā-,PCA:1,,,,,,NG,,final,II
 148,Bloomfield,LB1925b,0144,,,,*-yā-,PCA:1,,,,,,go,go,final,AI
-149,Bloomfield,LB1927b,0400,,,,*-ʔcip-,PCA:1,,,,,,duck,,medial
+149,Bloomfield,LB1927b,0400,,,,*-ʔcip-,PCA:1,,,,,,duck,duck,medial
 150,Haas,MH1958b,0244,,,,*-ʔθ-,PCA:2,,,,,,older brother,older brother,initial
-151,Haas,MH1958c,0166,,,,*-θak-,PCA:2,,,,,,penis,,medial
-152,Bloomfield,LB1925b,0145,,,,*-θcentcyä-,PCA:1,,,,,,"hand, finger",,medial
-153,Bloomfield,LB1925b,0141,,,,*-θe'ciwä-,PCA:1,,,,,,testicles ,,medial
+151,Haas,MH1958c,0166,,,,*-θak-,PCA:2,,,,,,penis,penis,medial
+152,Bloomfield,LB1925b,0145,,,,*-θcentcyä-,PCA:1,,,,,,"hand, finger","finger, hand",medial
+153,Bloomfield,LB1925b,0141,,,,*-θe'ciwä-,PCA:1,,,,,,testicles ,testicle,medial
 154,Haas,MH1958c,"0161,0164",,,,*-θen(cye·)-,PCA:2,,,,,,arm(finger),,medial
-155,Haas,MH1958c,0167,,,,*a·htekw-,PCA:2,,,,,,"tree, stick",,medial
+155,Haas,MH1958c,0167,,,,*a·htekw-,PCA:2,,,,,,"tree, stick","stick, tree",medial
 156,Haas,MH1958b,0248,,,,*a·p-,PCA:2,,,,,,look,look,initial
-157,Haas,MH1958a,0243,,,,*a·pye·k-,PCA:2,,,,,,"string, row",,medial
-158,Bloomfield,LB1925b,0151,,,,*ack-,PCA:1,,,,,,"raw, fresh","raw, fresh",initial
+157,Haas,MH1958a,0243,,,,*a·pye·k-,PCA:2,,,,,,"string, row","row, string, CLASSIFIER",medial
+158,Bloomfield,LB1925b,0151,,,,*ack-,PCA:1,,,,,,"raw, fresh","fresh, raw",initial
 159,Bloomfield,LB1925b,0140,,,,*acyä-,PCA:1,,,,,,backwards ,backward,initial
-160,Bloomfield,LB1925b,0139,,,,"*akwā-, *akwa·-",PCA:1,,,,,,from water,,initial
-161,Haas,MH1958b,0246,,,,*ame·kw-,PCA:2,,,,,,fish,,medial
+160,Bloomfield,LB1925b,0139,,,,"*akwā-, *akwa·-",PCA:1,,,,,,from water,from (water),initial
+161,Haas,MH1958b,0246,,,,*ame·kw-,PCA:2,,,,,,fish,fish,medial
 162,Bloomfield,LB1925b,0151,,,,*atōt-,PCA:1,,,,,,on top of something ,,initial
 163,Bloomfield,LB1927b,0397,,,,*awaθ-,PCA:1,,,,,,take animate object away,take away,initial
 164,Bloomfield,LB1925b,0136,,,,*axky-,PCA:1,,,,,,land,,initial
@@ -171,14 +171,14 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 170,Haas,MH1958c,0161,,,,*ehkw-,PCA:2,,,,,,louse,louse,initial
 171,Bloomfield,LB1925b,0133,,,,*eθ-,PCA:1,,,,,,"thither, thus","thither, thus",initial,RR
 172,Bloomfield,LB1925b,0136,,,,*icp-,PCA:1,,,,,,high,high,initial
-173,Bloomfield,LB1927b,0395,,,,*ileni-,PCA:1,,,,,,man,"man, male",initial,,,,,,,,*-elaw-
+173,Bloomfield,LB1927b,0395,,,,*ileni-,PCA:1,,,,,,man,"male, man",initial,,,,,,,,*-elaw-
 174,Bloomfield,LB1927b,0395,,,,*iθ-,PCA:1,,,,,,"thus, thither","thus, thither",initial,RR
 175,Haas,MH1958b,0245,,,,*ka·sk-,PCA:2,,,,,,dry,dry,initial
 176,Haas,MH1958a,0243,,,,*ka·šk-,PCA:2,,,,,,scrape,scrape,initial
-177,Haas,MH1958b,0248,,,,*ka·t-,PCA:2,,,,,,"leg, foot",,medial
+177,Haas,MH1958b,0248,,,,*ka·t-,PCA:2,,,,,,"leg, foot","foot, leg",medial
 178,Haas,MH1958a,0243,,,,*ka·w-,PCA:2,,,,,,prickly,prick,initial
 179,Haas,MH1958a,0243,,,,*kaHk-,PCA:2,,,,,,sharp,sharp,initial
-180,Haas,MH1958b,0244,,,,*kap-,PCA:2,,,,,,"dip, out of liquid",dip,initial
+180,Haas,MH1958b,0244,,,,*kap-,PCA:2,,,,,,"dip, out of liquid","dip, out of (liquid)",initial
 181,Bloomfield,LB1925b,0137,,,,*kaw-,PCA:1,,,,,,fall over,fall over,initial
 182,Haas,MH1958b,0243,,,,*kaθk-,PCA:2,,,,,,black,black,initial
 183,Haas,MH1958b,0252,,,,*kaθo·-,PCA:2,,,,,,talk,talk,initial
@@ -186,50 +186,50 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 185,Bloomfield,LB1925b,0135,,,,*kēc-,PCA:1,,,,,,finish,finish,initial
 186,Bloomfield,LB1925b,0132,,,,*kēck-,PCA:1,,,,,,sever,sever,initial
 187,Bloomfield,LB1925b,0146,,,,*kek-,PCA:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'have' or related
-188,Bloomfield,LB1925b,0148,,,,*kekyäp-,PCA:1,,,,,,absence of a sense,,initial,,Y
+188,Bloomfield,LB1925b,0148,,,,*kekyäp-,PCA:1,,,,,,absence of a sense,absence,initial,,Y
 189,Haas,MH1958c,0170,,,,*keliw-,PCA:2,,,,,,hawk,hawk,initial
 190,Haas,MH1958c,0161,,,,*kemot-,PCA:2,,,,,,to steal,steal,initial
-191,Haas,MH1958c,0167,,,,*kent-,PCA:2,,,,,,"soak, immerse","soak, immerse",initial
+191,Haas,MH1958c,0167,,,,*kent-,PCA:2,,,,,,"soak, immerse","immerse, soak",initial
 192,Haas,MH1958a,0243,,,,*kenw-,PCA:2,,,,,,long,long,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: These might be preverbs?
-193,Haas,MH1958b,0244,,,,*kep-,PCA:2,,,,,,"closed, blocked","closed, blocked",initial
-194,Haas,MH1958c,"0167,0170",,,,*kesi·-,PCA:2,,,,,,"rub, wipe, wash","rub, wipe, wash",initial
+193,Haas,MH1958b,0244,,,,*kep-,PCA:2,,,,,,"closed, blocked","blocked, closed",initial
+194,Haas,MH1958c,"0167,0170",,,,*kesi·-,PCA:2,,,,,,"rub, wipe, wash","rub, wash, wipe",initial
 195,Haas,MH1958c,0165,,,,*kešit-,PCA:2,,,,,,hot,hot,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Extended root
-196,Haas,MH1958b,0247,,,,*kešy-,PCA:2,,,,,,"hot, heat","hot, heat",initial
+196,Haas,MH1958b,0247,,,,*kešy-,PCA:2,,,,,,"hot, heat","heat, hot",initial
 197,Haas,MH1958b,0252,,,,*ketak-,PCA:2,,,,,,spotted,spotted,initial
-198,Haas,MH1958a,0243,,,,*keʔt-,PCA:2,,,,,,"big, superlative",big,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: These might be preverbs?
+198,Haas,MH1958a,0243,,,,*keʔt-,PCA:2,,,,,,"big, superlative","big, SUPERLATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: These might be preverbs?
 199,Haas,MH1958b,0252,,,,*keθo·-,PCA:2,,,,,,talk,talk,initial
 200,Haas,MH1958a,0243,,,,*ki·n-,PCA:2,,,,,,"grind, sharpen","grind, sharpen",initial,,,,,,,,,,,,*ki·nt-,,,V,TI,"grind, sharpen",,MH1958a;0243,*ki·nl-,,,V,TA,"grind, sharpen",,MH1958a;0243,,,,,,p. 243: only exists in combination with finals *-t- or *-l-
 201,Haas,MH1958c,0165,,,,*ki·š-,PCA:2,,,,,,finish,finish,initial
 202,Haas,MH1958c,0164,,,,*ki·šehk-,PCA:2,,,,,,cedar,cedar,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Probably a stem?
 203,Haas,MH1958c,0164,,,,*ki·šek-,PCA:2,,,,,,"day, sky","day, sky",initial
-204,Haas,MH1958a,0243,,,,*ki·šk-,PCA:2,,,,,,"sever, cut through","sever, cut through",initial
+204,Haas,MH1958a,0243,,,,*ki·šk-,PCA:2,,,,,,"sever, cut through","cut through, sever",initial
 205,Haas,MH1958a,0242,,,,*ki·t-,PCA:2,,,,,,sore,sore,initial
 206,Haas,MH1958b,0252,,,,*ko·n-,PCA:2,,,,,,snow,snow,initial
 207,Haas,MH1958c,0165,,,,*kosekw-,PCA:2,,,,,,heavy,heavy,initial
 208,Haas,MH1958a,0242,,,,*kot-,PCA:2,,,,,,try,try,initial
 209,Haas,MH1958c,"0161,0166,0171",,,,*kot-,PCA:2,,,,,,one,one,initial,NUM
-210,Haas,MH1958b,0253,,,,*kotekw-,PCA:2,,,,,,"turn, circle","turn, circle (V)",initial
+210,Haas,MH1958b,0253,,,,*kotekw-,PCA:2,,,,,,"turn, circle","circle (V), turn",initial
 211,Haas,MH1958c,"0165,0171",,,,*koʔ-,PCA:2,,,,,,fear,fear,initial
-212,Haas,MH1958c,0167,,,,*kwa·p-,PCA:2,,,,,,out of water,,initial
+212,Haas,MH1958c,0167,,,,*kwa·p-,PCA:2,,,,,,out of water,out of (water),initial
 213,Haas,MH1958b,0252,,,,*kwan-,PCA:2,,,,,,"swallow, throat","swallow (V), throat",initial
 214,Haas,MH1958a,0241,,,,*kwet-,PCA:2,,,,,,"one, other","one, other",initial,NUM
 215,Haas,MH1958b,"0237,0253",,,,*kwetekw-,PCA:2,,,,,,turn,turn,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: I think these might be stems
 216,Haas,MH1958a,0242,,,,*kweʔ-,PCA:2,,,,,,fear,fear,initial
 217,Haas,MH1958b,0253,,,,*kwi·škwihθ-,PCA:2,,,,,,whistle,whistle,initial
-218,Haas,MH1958b,0247,,,,*kya·-,PCA:2,,,,,,"hide, conceal","hide, conceal",initial
+218,Haas,MH1958b,0247,,,,*kya·-,PCA:2,,,,,,"hide, conceal","conceal, hide",initial
 219,Haas,MH1958b,0244,,,,*le·-,PCA:2,,,,,,breathe,breathe,initial
 220,Haas,MH1958b,0252,,,,*le·p-,PCA:2,,,,,,tapering at base,taper,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 252 ""could be *θe·p-"""
-221,Haas,MH1958b,0251,,,,*lo·k-,PCA:2,,,,,,"skin, hide","skin (N), hide",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 251 ""could be *θo·k-"""
+221,Haas,MH1958b,0251,,,,*lo·k-,PCA:2,,,,,,"skin, hide","hide, skin (N)",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 251 ""could be *θo·k-"""
 222,Haas,MH1958b,0252,,,,*lo·p-,PCA:2,,,,,,swing,swing,initial,V
 223,Haas,MH1958b,0246,,,,*mak-,PCA:2,,,,,,grease,,,,,,,,,,,,,,*nama·kw-,,,N,,grease (?),,MH1958b;0246,,,,,,,,,,,,,,GVM: (?) in stem A is from Haas p. 256
 224,Bloomfield,LB1925b,0136,,,,*makw-,PCA:1,,,,,,rounded lump on a surface,,initial
-225,Bloomfield,LB1925b,0143,,,,*māt-,PCA:1,,,,,,"start, move, begin","start, move, begin",initial
+225,Bloomfield,LB1925b,0143,,,,*māt-,PCA:1,,,,,,"start, move, begin","begin, move, start",initial
 226,Bloomfield,LB1925b,0139,,,,*me'tekw-,PCA:1,,,,,,wood,wood,initial
 227,Bloomfield,LB1925b,0139,,,,*meçkw-,PCA:1,,,,,,red,red,initial
 228,Haas,MH1958c,0166,,,,*mehθ-,PCA:2,,,,,,firewood,firewood,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Unsure about this one, has an alternate form that looks odd too"
 229,Bloomfield,LB1927b,0397,,,,*melw-,PCA:1,,,,,,well,well,initial
 230,Haas,MH1958c,0164,,,,*melwi-,PCA:2,,,,,,beautiful,beautiful,initial
-231,Haas,MH1958b,0251,,,,*meskw-,PCA:2,,,,,,"red, blood","red, blood",initial
+231,Haas,MH1958b,0251,,,,*meskw-,PCA:2,,,,,,"red, blood","blood, red",initial
 232,Haas,MH1958b,0242,,,,*meʔši-,PCA:2,,,,,,big,big,initial
 233,Haas,MH1958b,"0237,0253",,,,*meʔtekw-,PCA:2,,,,,,tree,tree,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: I think these might be stems
 234,Haas,MH1958b,0242,,,,*meʔθ-,PCA:2,,,,,,big,big,initial
@@ -237,7 +237,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 236,Haas,MH1958b,0244,,,,*mi·s-,PCA:2,,,,,,"defecate, stink","defecate, stink",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Might be stems?
 237,Haas,MH1958b,0244,,,,*mi·t-,PCA:2,,,,,,"defecate, stink","defecate, stink",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Might be stems?
 238,Haas,MH1958b,0246,,,,*mo·ški-,PCA:2,,,,,,fill,fill,initial
-239,Haas,MH1958c,0165,,,,*mo·w-,PCA:2,,,,,,"excrement, soiled",,initial
+239,Haas,MH1958c,0165,,,,*mo·w-,PCA:2,,,,,,"excrement, soiled","excrement, soiled",initial
 240,Bloomfield,LB1925b,0139,,,,*mōw-,PCA:1,,,,,,soil ,soil,initial
 241,Haas,MH1958b,0252,,,,*mya·-,PCA:2,,,,,,smell,smell,initial
 242,Bloomfield,LB1925b,0137,,,,*naky-,PCA:1,,,,,,meet,,initial
@@ -286,7 +286,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 285,Haas,MH1958b,0244,,,,*se·kw-,PCA:2,,,,,,"cry, weep","cry, weep",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 244: ""*se·kw- (or *si·kw- ?)"" Also, may be a stem?"
 286,Haas,MH1958c,0167,,,,*šeki-,PCA:2,,,,,,urinate,urinate,initial
 287,Haas,MH1958c,0164,,,,*si·kw-,PCA:2,,,,,,"cry, weep","cry, weep",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Marked with ""(?)"" in source"
-288,Haas,MH1958b,0245,,,,*si·n-,PCA:2,,,,,,extract liquid,,initial
+288,Haas,MH1958b,0245,,,,*si·n-,PCA:2,,,,,,extract liquid,extract (liquid),initial
 289,Haas,MH1958b,"0237,0244",,,,*tahk-,PCA:2,,,,,,cold,cold,initial
 290,Bloomfield,LB1925b,0139,,,,*tahk-,PCA:1,,,,,,cool,cool,initial
 291,Bloomfield,LB1925b,0141,,,,*takw-,PCA:1,,,,,,with others,,initial
@@ -298,7 +298,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 297,Haas,MH1958b,0237,,,,*tepeθk-,PCA:2,,,,,,night,night,initial
 298,Bloomfield,LB1925b,0135,,,,*ul-,PCA:1,,,,,,arrange ,arrange,initial
 299,Bloomfield,LB1925b,0154,,,,*ump-,PCA:1,,,,,,up,up,initial
-300,Bloomfield,LB1925b,0154,,,,*unt-,PCA:1,,,,,,"thence, therefore","thence, therefore",initial
+300,Bloomfield,LB1925b,0154,,,,*unt-,PCA:1,,,,,,"thence, therefore","from there, thence, therefore",initial
 301,Bloomfield,LB1925b,0137,,,,*usām-,PCA:1,,,,,,excess ,excess,initial
 302,Haas,MH1958b,0248,,,,*wa·p-,PCA:2,,,,,,look,look,initial
 303,Bloomfield,LB1927b,"0393,0396",,,,*wäp-,PCA:1,,,,,,begin,begin,initial

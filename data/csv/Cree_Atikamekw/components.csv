@@ -6,15 +6,15 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 5,Beland,JPB1978,0245,atj ,,atik1240,-a:-,C-A:1,,,,,,NG,,final,II,,ABSTR,N,,,,,,,,,,,,,,,,,,,,V,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 6,Beland,JPB1978,0282,atj ,,atik1240,-a:c-,C-A:1,,,,,,NG,,final ,PART,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-c-,,,,,,,,,,,,GVM
 7,Beland,JPB1978,0190,atj,,atik1240,-a:cikan-,C-A:1,,,,,,instrument,INSTRUMENT,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-t-,-kan-,,,,,,,,GVM
-8,Beland,JPB1978,"0240,0260",atj ,,atik1240,-a:cim-,C-A:1,,,,,,narrate,,final,TA,,,N,,,,,,-a:citt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-9,Beland,JPB1978,0240,atj ,,atik1240,-a:cimo-,C-A:1,,,,,,narrate,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-10,Beland,JPB1978,0260,atj ,,atik1240,-a:citt-,C-A:1,,,,,,narrate,,final,TI,,,N,,,,,-a:cim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+8,Beland,JPB1978,"0240,0260",atj ,,atik1240,-a:cim-,C-A:1,,,,,,narrate,narrate,final,TA,,,N,,,,,,-a:citt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+9,Beland,JPB1978,0240,atj ,,atik1240,-a:cimo-,C-A:1,,,,,,narrate,narrate,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+10,Beland,JPB1978,0260,atj ,,atik1240,-a:citt-,C-A:1,,,,,,narrate,narrate,final,TI,,,N,,,,,-a:cim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 11,Beland,JPB1978,0284,atj ,,atik1240,-a:ciwan-,C-A:1,,,,,,stream,stream,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Many particle finals w/ concrete meanings correspond to classificatory medials, noun finals or intransitive finals"" ",,GVM
-12,Beland,JPB1978,0170,atj,,atik1240,-a:kan-,C-A:1,,,,,,bone ,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-kotta:kan- 'throat',,,,,,,,,,body part,,GVM
+12,Beland,JPB1978,0170,atj,,atik1240,-a:kan-,C-A:1,,,,,,bone ,bone,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-kotta:kan- 'throat',,,,,,,,,,body part,,GVM
 13,Beland,JPB1978,0189,atj,,atik1240,-a:kan-,C-A:1,,,,,,NG,,final,N,,ABSTR,Y,TA,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 14,Beland,JPB1978,0221,atj,,atik1240,-a:ke-,C-A:1,,,,,,inanimate indefinite (implied object) ,,final,AI ,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 15,Beland,JPB1978,"0144,0147,0179",atj,,atik1240,-a:kon-,C-A:1,,,,,,snow ,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ADJ: does not occur in dependent stems,,GVM
-16,Beland,JPB1978,0144,atj,,atik1240,-a:kone-,C-A:1,,,,,,snow ,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -a:kon-,,,postmedial -e-,,,,ADJ: complex,,GVM
+16,Beland,JPB1978,0144,atj,,atik1240,-a:kone-,C-A:1,,,,,,snow ,snow,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -a:kon-,,,postmedial -e-,,,,ADJ: complex,,GVM
 17,Beland,JPB1978,229. 230,atj,,atik1240,-a:kosi-,C-A:1,,,,,,NG,,final,AI,,ABSTR,Y,,,,-a:kwan-,,,,,,,,,,,,,,,,N,"AI, II",,,,,,,,,,,,,,,,,,,,-na:kosi-,-na:kwan-,,,,,,,,,*stem has category and/or subcategory but no stem - JS* added to transitive stems of sensory perception,,GVM
 18,Beland,JPB1978,0201,atj,,atik1240,-a:kw-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,often used in formation of animal names,,GVM
 19,Beland,JPB1978,"0229,0230",atj,,atik1240,-a:kwan-,C-A:1,,,,,,NG,,final,II,,ABSTR,Y,,,-a:kosi-,,,,,,,,,,,,,,,,,N,"AI, II",,,,,,,,,,,,,,,,,,,,-na:kosi-,-na:kwan-,,,,,,,,,*stem has category and/or subcategory but no stem - JS* added to transitive stems of sensory perception,,GVM
@@ -22,7 +22,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 21,Beland,JPB1978,0190,atj,,atik1240,-a:n-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 22,Beland,JPB1978,0179,atj,,atik1240,-a:nak-,C-A:1,,,,,,island,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 23,Beland,JPB1978,0246,atj ,,atik1240,-a:naka:-,C-A:1,,,,,,island,island,final,II,,,B,,,,,,,,,,,,,,,,,,,,N,II,,,,,,,,,,,,,,,,,,,,,,,medial -a:nak-,II -a:-,,,,,,*stem has category and/or subcategory but no stem - JS* complex; found in very few stems,,GVM
-24,Beland,JPB1978,"0147,0167",atj ,,atik1240,-a:p-,C-A:1,,,,,,"eye, white, smoke",,medial,,,,,,,,,,,-ca:p-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ADJ: body part; does not appear in dependent nouns; MAM: variant -ca:p- only defined as 'eye',,GVM
+24,Beland,JPB1978,"0147,0167",atj ,,atik1240,-a:p-,C-A:1,,,,,,"eye, white, smoke","eye, smoke (N), white",medial,,,,,,,,,,,-ca:p-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ADJ: body part; does not appear in dependent nouns; MAM: variant -ca:p- only defined as 'eye',,GVM
 25,Beland,JPB1978,0231,atj,,atik1240,-a:p-,C-A:1,,,,,,see,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:pi-,-a:patte-,,,,,,,,,,,GVM
 26,Beland,JPB1978,0179,atj,,atik1240,-a:pa:w-,C-A:1,,,,,,"flood, rinse ",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 27,Beland,JPB1978,0258,atj ,,atik1240,-a:pacih-,C-A:1,,,,,,use,use,final,TA,,,,,,,,,-a:pacitta:-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:pat- ,TA -h- 'cause',,,,,,,,GVM
@@ -34,7 +34,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 33,Beland,JPB1978,"0248,0249",atj ,,atik1240,-a:patte-,C-A:1,,,,,,smoked,smoked,final,II,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -a:p-,II -atte-,,,,,,complex,,GVM
 34,Beland,JPB1978,"0147,0159,0180",atj ,,atik1240,-a:pe-,C-A:1,,,,,,"male, man ",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,GVM
 35,Beland,JPB1978,0201,atj,,atik1240,-a:pew-,C-A:1,,,,,,male,"male, man",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:pe-,-w-,,,,,,,,GVM
-36,Beland,JPB1978,0231,atj,,atik1240,-a:pi-,C-A:1,,,,,,see,,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -a:p- ,AI -i-,,,,Y,,deverbal of AI wa:pi- 'to see',,GVM
+36,Beland,JPB1978,0231,atj,,atik1240,-a:pi-,C-A:1,,,,,,see,see,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -a:p- ,AI -i-,,,,Y,,deverbal of AI wa:pi- 'to see',,GVM
 37,Beland,JPB1978,0180,atj,,atik1240,-a:pi:k-,C-A:1,,,,,,"string, rope ",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 38,Beland,JPB1978,0190,atj,,atik1240,-a:pina:n-,C-A:1,,,,,,white,white,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:n-,,,,,Y,wa:pan 'white',,,GVM
 39,Beland,JPB1978,0278,atj ,,atik1240,-a:pis-,C-A:1,,,,,,smoked,smoked,final,TI,,,N,,,,,-a:pisw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -a:p-,TI -is-,,,,,,complex,,GVM
@@ -43,7 +43,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 42,Beland,JPB1978,0246,atj ,,atik1240,-a:piska:-,C-A:1,,,,,,rock,rock,final,II,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -a:pisk-,II -a:-,,,,,,complex,,GVM
 43,Beland,JPB1978,0201,atj,,atik1240,-a:piskw-,C-A:1,,,,,,"stone, metal ","metal, stone",final,N,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:pisk-,-w-,,,,,,,,GVM
 44,Beland,JPB1978,0278,atj ,,atik1240,-a:pisw-,C-A:1,,,,,,smoked,smoked,final,TA,,,N,,,,,,-a:pis-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -a:p-,TA -isw-,,,,,,complex,,GVM
-45,Beland,JPB1978,0167,atj,,atik1240,-a:pit-,C-A:1,,,,,,tooth,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; does not appear in dependent nouns,,GVM
+45,Beland,JPB1978,0167,atj,,atik1240,-a:pit-,C-A:1,,,,,,tooth,tooth,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; does not appear in dependent nouns,,GVM
 46,Beland,JPB1978,0217,atj,,atik1240,-a:pite-,C-A:1,,,,,,tooth,tooth,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,complex,,GVM
 47,Beland,JPB1978,0202,atj,,atik1240,-a:po:w-,C-A:1,,,,,,liquid,liquid,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 48,Beland,JPB1978,0180,atj,,atik1240,-a:pw- ,C-A:1,,,,,,"water, liquid ",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -61,7 +61,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 60,Beland,JPB1978,0277,atj ,,atik1240,-a:skohw-,C-A:1,,,,,,by stick,"stick, INSTRUMENT",final,TA,,,N,,,,,,-a:skoh-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -a:skw-,TA -ahw-,,,,,,complex,,GVM
 61,Beland,JPB1978,"0180,0246,0277",atj ,,atik1240,-a:skw-,C-A:1,,,,,,"wood, solid",,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 62,Beland,JPB1978,0202,atj,,atik1240,-a:skw-,C-A:1,,,,,,"wood, solid","solid, wood",final,N,,,B,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""homonymous with medial -a:skw-""",,GVM
-63,Beland,JPB1978,0246,atj ,,atik1240,-a:skwea:-,C-A:1,,,,,,wood,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -a:skw-,II -a:-,,postmedial -e- ,,,,complex; found after the names of trees,,GVM
+63,Beland,JPB1978,0246,atj ,,atik1240,-a:skwea:-,C-A:1,,,,,,wood,wood,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -a:skw-,II -a:-,,postmedial -e- ,,,,complex; found after the names of trees,,GVM
 64,Beland,JPB1978,"0238,0278",atj,,atik1240,-a:ss-,C-A:1,,,,,,by heat,"heat, MANNER",final,TI,,,N,,,,,-a:ssw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,derive middle reflexive verbs,,GVM
 65,Beland,JPB1978,0238,atj,,atik1240,-a:sso-,C-A:1,,,,,,heated,heated,final,AI,,,N,,,,-a:tte-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,derive middle reflexive verbs,,GVM
 66,Beland,JPB1978,0239,atj ,,atik1240,-a:sso-,C-A:1,,,,,,NG,,final,AI,,ABSTR,Y,TI,,,,,,,,,,,,,,,,,,,,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS* forms reflexive verbs of useful action,,GVM
@@ -72,14 +72,14 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 71,Beland,JPB1978,0158,atj,,atik1240,-a:t-,C-A:1,,,,,,NG,,postradical ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pim-,,,,,,,,,,"ADJ: Author says this is meaningful, but doesn't give a meaning",,GVM
 72,Beland,JPB1978,0232,atj,,atik1240,-a:t-,C-A:1,,,,,,NG,,prefinal ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,only found after one AI stem in a:kkosiwa:tisiw 'he is always sick',,GVM
 73,Beland,JPB1978,"0213,0232",atj,,atik1240,-a:taka:-,C-A:1,,,,,,swim,,final,AI ,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:taka:si-,,,,,,,,N,,,,GVM
-74,Beland,JPB1978,0232,atj,,atik1240,-a:taka:si-,C-A:1,,,,,,swim,,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AI -a:taka:-,AI -isi-,,,,,,,,GVM
+74,Beland,JPB1978,0232,atj,,atik1240,-a:taka:si-,C-A:1,,,,,,swim,swim,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AI -a:taka:-,AI -isi-,,,,,,,,GVM
 75,Beland,JPB1978,0232,atj,,atik1240,-a:tisi-,C-A:1,,,,,,always,always,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AI -isi-,,,prefinal -a:t-,,,,,,GVM
 76,Beland,JPB1978,"0181,0226",atj,,atik1240,-a:tt-,C-A:1,,,,,,"wood, stick, wooden surface",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:ttawi:-,-a:ttaha:-,,,,,,,,,,,GVM
 77,Beland,JPB1978,0213,atj,,atik1240,-a:ttaha:-,C-A:1,,,,,,"wooden, solid surface","surface (solid), surface (wood)",final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:tt-,,,,,,,"""the AI -a:- looks as if it was added to the TI final -ah- preceded by the medial -a:tt- 'wooden, solid surface.' It is ound after only one root."" complex",,GVM
 78,Beland,JPB1978,0226,atj,,atik1240,-a:ttawi:-,C-A:1,,,,,,"board, wooden surface","board (N), wood",final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:tt-,-awi:-,,,,,,complex; has no II counterpart,,GVM
 79,Beland,JPB1978,0238,atj,,atik1240,-a:tte-,C-A:1,,,,,,heated,heated,final,II,,,N,,,-a:sso-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,derive middle reflexive verbs,,GVM
-80,Beland,JPB1978,0188,atj,,atik1240,-a:ttem-,C-A:1,,,,,,wood,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:tt-,-e-,-m-,,,,,,,GVM
-81,Beland,JPB1978,0284,atj ,,atik1240,-a:ttik-,C-A:1,,,,,,wood,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Many particle finals w/ concrete meanings correspond to classificatory medials, noun finals or intransitive finals"" ",,GVM
+80,Beland,JPB1978,0188,atj,,atik1240,-a:ttem-,C-A:1,,,,,,wood,wood,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:tt-,-e-,-m-,,,,,,,GVM
+81,Beland,JPB1978,0284,atj ,,atik1240,-a:ttik-,C-A:1,,,,,,wood,wood,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Many particle finals w/ concrete meanings correspond to classificatory medials, noun finals or intransitive finals"" ",,GVM
 82,Beland,JPB1978,0202,atj,,atik1240,-a:ttikw-,C-A:1,,,,,,"tree, wood","tree, wood",final,N,,,B,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:tt-,-ikw-,,,,,,,,GVM
 83,Beland,JPB1978,0203,atj,,atik1240,-a:w-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""occurs in a few unanalyzable nouns""",,GVM
 84,Beland,JPB1978,0181,atj,,atik1240,-a:wakk-,C-A:1,,,,,,sand,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -91,16 +91,16 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 90,Beland,JPB1978,0235,atj,,atik1240,-ah-,C-A:1,,,,,,with or by water,"water, MANNER",final,TI,,,,,,,,-aho-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""specialized meaning""",,GVM
 91,Beland,JPB1978,0256,atj ,,atik1240,-ah-,C-A:1,,,,,,cause,,final,TA ,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 92,Beland,JPB1978,0275,atj ,,atik1240,-ah-,C-A:1,,,,,,"by tool, by instrument","instrument, tool, INSTRUMENT",final,TI,,,B,AI,,,,-ahw- ,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
-93,Beland,JPB1978,0250,atj ,,atik1240,-ahan-,C-A:1,,,,,,flood,,final,II,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+93,Beland,JPB1978,0250,atj ,,atik1240,-ahan-,C-A:1,,,,,,flood,flood,final,II,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 94,Beland,JPB1978,0235,atj,,atik1240,-aho-,C-A:1,,,,,,with or by water,"water, MANNER",final,AI,,,,,,,-ah-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""specialized meaning""",,GVM
 95,Beland,JPB1978,"0216,0243,0275",atj,,atik1240,-ahw- ,C-A:1,,,,,,"by tool, by instrument","instrument, tool, INSTRUMENT",final,TA,,,B,AI,,,,,-ah-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 96,Beland,JPB1978,0185,atj,,atik1240,-ak-,C-A:1,,,,,,NG,,postmedial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""found after some classificatory medials""",,GVM
 97,Beland,JPB1978,0213,atj,,atik1240,-aka:-,C-A:1,,,,,,NG,,final,AI,,ABSTR,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-98,Beland,JPB1978,"0146,0261",atj ,,atik1240,-akim-,C-A:1,,,,,,count,,final,TA,,,N,,,,,,-akitt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,ADJ: deverbal of TA akim- 'to count him',,GVM
-99,Beland,JPB1978,"0146,0261",atj ,,atik1240,-akitt-,C-A:1,,,,,,count,,final,TI,,,N,,,,,-akim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,ADJ: deverbal of TI akitt 'to count him',,GVM
+98,Beland,JPB1978,"0146,0261",atj ,,atik1240,-akim-,C-A:1,,,,,,count,count,final,TA,,,N,,,,,,-akitt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,ADJ: deverbal of TA akim- 'to count him',,GVM
+99,Beland,JPB1978,"0146,0261",atj ,,atik1240,-akitt-,C-A:1,,,,,,count,count,final,TI,,,N,,,,,-akim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,ADJ: deverbal of TI akitt 'to count him',,GVM
 100,Beland,JPB1978,"0235,0261",atj ,,atik1240,-akitt-,C-A:1,,,,,,count something,count,final,TI,,,N,,,,,-akim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of TI akitt- 'to count him, it'",,GVM
-101,Beland,JPB1978,0245,atj ,,atik1240,-ako:cin-,C-A:1,,,,,,hang,,final,AI,,,N,,,,-ako:te-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of AI ako:cin 'he, it hangs'",,GVM
-102,Beland,JPB1978,0245,atj ,,atik1240,-ako:te-,C-A:1,,,,,,hang,,final,II,,,N,,,-ako:cin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of II ako:tew 'he, it hangs'",,GVM
+101,Beland,JPB1978,0245,atj ,,atik1240,-ako:cin-,C-A:1,,,,,,hang,hang,final,AI,,,N,,,,-ako:te-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of AI ako:cin 'he, it hangs'",,GVM
+102,Beland,JPB1978,0245,atj ,,atik1240,-ako:te-,C-A:1,,,,,,hang,hang,final,II,,,N,,,-ako:cin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of II ako:tew 'he, it hangs'",,GVM
 103,Beland,JPB1978,0244,atj ,,atik1240,-akoccin-,C-A:1,,,,,,float,float,final,AI,,,,,,,-akottin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of AI akoccin 'he, it floats'",,GVM
 104,Beland,JPB1978,0196,atj,,atik1240,-akopp-,C-A:1,,,,,,dress,dress,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 105,Beland,JPB1978,0244,atj ,,atik1240,-akottin-,C-A:1,,,,,,float,float,final,II,,,,,,-akoccin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of II akottin 'he, it floats'",,GVM
@@ -108,7 +108,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 107,Beland,JPB1978,"0236,0237,0266,0270",atj,,atik1240,-amaw-,C-A:1,,,,,,for someone,for,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TI theme -am-,TA -aw-,,,,,,pairs with final -so- to form explicit reflexive verbs; fairly complex usage,,GVM
 108,Beland,JPB1978,"0258, 0270",atj ,,atik1240,-amaw-,C-A:1,,,,,,double-object,DITRANSITIVE,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 109,Beland,JPB1978,0197,atj,,atik1240,-amekoss-,C-A:1,,,,,,trout,trout,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,namekoss 'trout',,,GVM
-110,Beland,JPB1978,0203,atj,,atik1240,-amekw-,C-A:1,,,,,,fish,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,namekoss 'trout',,,GVM
+110,Beland,JPB1978,0203,atj,,atik1240,-amekw-,C-A:1,,,,,,fish,fish,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,namekoss 'trout',,,GVM
 111,Beland,JPB1978,0257,atj ,,atik1240,-amih-,C-A:1,,,,,,cause,,final,TA ,,,Y,TI,,,,,,,,,,,,,,,,,,,,TI,,,,,,,,,,,,,,,,,,,,,,,TI -am- ,TA -h-,,,,,,*stem has category and/or subcategory but no stem - JS* also formed with connective -i-; forms double-object verbs with causative meaning,,GVM
 112,Beland,JPB1978,"0256,0257",atj ,,atik1240,-amo:h-,C-A:1,,,,,,cause,,final,TA ,,,Y,TI,,,,,,,,,,,,,,,,,,,,TI,,,,,,,,,,,,,,,,,,,,,,,TA -amaw-,TA -h-,,,,,,*stem has category and/or subcategory but no stem - JS* forms double-object verbs with causative meaning,,GVM
 113,Beland,JPB1978,0265,atj ,,atik1240,-amor-,C-A:1,,,,,,"place to, cause to","place (V), CAUSATIVE",final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,TA,,,,,,,,,,,,,,,,,,,,,,,final -amaw-,"TA -ar- 'place, set'",,,,,,*stem has category and/or subcategory but no stem - JS* complex; no inanimate counterpart,,GVM
@@ -123,7 +123,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 122,Beland,JPB1978,0203,atj,,atik1240,-anw-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""found in a few unanalyzable stems""",,GVM
 123,Beland,JPB1978,0230,atj,,atik1240,-api-,C-A:1,,,,,,"set, sit, place","place (V), set (V), sit",final,AI,,,N,,,,-as̀te-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of AI api- 'to sit, set, place'",,GVM
 124,Beland,JPB1978,0265,atj ,,atik1240,-ar-,C-A:1,,,,,,"bring, carry","bring, carry",final,TA,,,N,,,,,,-ata:-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-125,Beland,JPB1978,0265,atj ,,atik1240,-ar-,C-A:1,,,,,,"place, set",,final,TA,,,B,TI,,,,,-ata:-,,,,,,,,,,,,,,,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
+125,Beland,JPB1978,0265,atj ,,atik1240,-ar-,C-A:1,,,,,,"place, set","place (V), set",final,TA,,,B,TI,,,,,-ata:-,,,,,,,,,,,,,,,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 126,Beland,JPB1978,0213,atj,,atik1240,-as̀aka:-,C-A:1,,,,,,skin,skin,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-as̀ak- ,-a:-,,,,,,"""-a:-, instead of the expected postmedial -e-, is found after this medial (-as̀ak- 'skin') in AI"" ",,GVM
 127,Beland,JPB1978,0277,atj ,,atik1240,-asinah-,C-A:1,,,,,,write by instrument,"write, INSTRUMENT",final,TI,,,N,,,,,-asinah-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"TI masinah- 'to write, take a picture of him, it'",complex,,GVM
 128,Beland,JPB1978,0195,atj,,atik1240,-asinahikan-,C-A:1,,,,,,write,write,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"masinahikan 'book, letter'",,,GVM
@@ -136,29 +136,29 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 135,Beland,JPB1978,0182,atj,,atik1240,-as̀kin-,C-A:1,,,,,,full,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 136,Beland,JPB1978,0264,atj ,,atik1240,-as̀kin-,C-A:1,,,,,,fill,fill,final,TA,,,N,,,,,,-as̀kin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 137,Beland,JPB1978,0264,atj ,,atik1240,-as̀kin-,C-A:1,,,,,,fill,fill,final,TI,,,N,,,,,-as̀kin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-138,Beland,JPB1978,0217,atj,,atik1240,-as̀kine- ,C-A:1,,,,,,full,,final,AI,,,,,,,-as̀kine- ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,complex,,GVM
-139,Beland,JPB1978,0217,atj,,atik1240,-as̀kine- ,C-A:1,,,,,,full,,final,II,,,,,,-as̀kine- ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,complex,,GVM
+138,Beland,JPB1978,0217,atj,,atik1240,-as̀kine- ,C-A:1,,,,,,full,full,final,AI,,,,,,,-as̀kine- ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,complex,,GVM
+139,Beland,JPB1978,0217,atj,,atik1240,-as̀kine- ,C-A:1,,,,,,full,full,final,II,,,,,,-as̀kine- ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,complex,,GVM
 140,Beland,JPB1978,0195,atj,,atik1240,-askisin-,C-A:1,,,,,,"moccasin, shoe","moccasin, shoe",final,N,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,makisin,,,GVM
 141,Beland,JPB1978,0209,atj,,atik1240,-askiy-,C-A:1,,,,,,territory,territory,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-aski-,-y-,,,,,,,,GVM
 142,Beland,JPB1978,0251,atj ,,atik1240,-askon-,C-A:1,,,,,,sky,sky,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -askw-,II -an-,,,,Y,,"""may also be considered as"" deverbal of IN wasko 'sky'",,GVM
 143,Beland,JPB1978,0181,atj,,atik1240,-askw-,C-A:1,,,,,,sky ,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 144,Beland,JPB1978,0204,atj,,atik1240,-as̀kw-,C-A:1,,,,,,"grass, herb","grass, herb",final,N,,,B,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-145,Beland,JPB1978,0279,atj ,,atik1240,-asp-,C-A:1,,,,,,tie,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-piso-,-pit-,-aspit-,,,,,,,,,,GVM
-146,Beland,JPB1978,0241,atj ,,atik1240,-aspiso-,C-A:1,,,,,,tie,,final,AI,,,N,,,,-aspite-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,form middle reflexive verbs of primary derivation,,GVM
-147,Beland,JPB1978,0268,atj ,,atik1240,-aspit-,C-A:1,,,,,,tie,,final,TA,,,N,,,,,,-aspit-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-148,Beland,JPB1978,0268,atj ,,atik1240,-aspit-,C-A:1,,,,,,tie,,final,TI,,,N,,,,,-aspit-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-149,Beland,JPB1978,0241,atj ,,atik1240,-aspite-,C-A:1,,,,,,tie,,final,II,,,N,,,-aspiso-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,form middle reflexive verbs of primary derivation,,GVM
+145,Beland,JPB1978,0279,atj ,,atik1240,-asp-,C-A:1,,,,,,tie,tie,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-piso-,-pit-,-aspit-,,,,,,,,,,GVM
+146,Beland,JPB1978,0241,atj ,,atik1240,-aspiso-,C-A:1,,,,,,tie,tie,final,AI,,,N,,,,-aspite-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,form middle reflexive verbs of primary derivation,,GVM
+147,Beland,JPB1978,0268,atj ,,atik1240,-aspit-,C-A:1,,,,,,tie,tie,final,TA,,,N,,,,,,-aspit-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+148,Beland,JPB1978,0268,atj ,,atik1240,-aspit-,C-A:1,,,,,,tie,tie,final,TI,,,N,,,,,-aspit-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+149,Beland,JPB1978,0241,atj ,,atik1240,-aspite-,C-A:1,,,,,,tie,tie,final,II,,,N,,,-aspiso-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,form middle reflexive verbs of primary derivation,,GVM
 150,Beland,JPB1978,0215,atj,,atik1240,-as̀ta:-,C-A:1,,,,,,"set, place ","place (V), set (V)",final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 151,Beland,JPB1978,"0230,0231",atj,,atik1240,-as̀te-,C-A:1,,,,,,"set, sit, place","place (V), set (V), sit",final,II,,,N,,,-api-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of II -as̀te-, 'to sit, set, place'",,GVM
 152,Beland,JPB1978,0147,atj ,,atik1240,-astimw-,C-A:1,,,,,,dog,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 153,Beland,JPB1978,0204,atj,,atik1240,-as̀timw-,C-A:1,,,,,,dog,dog,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""homonymous with medial -as̀timw- 'dog' and is paralleled by the independent stem atimw.",,GVM
 154,Beland,JPB1978,0182,atj,,atik1240,-at-,C-A:1,,,,,,"hill, mountain ",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-155,Beland,JPB1978,0279,atj ,,atik1240,-at-,C-A:1,,,,,,cold,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-aci-,-atin-,,,,,,,,,,,GVM
+155,Beland,JPB1978,0279,atj ,,atik1240,-at-,C-A:1,,,,,,cold,cold,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-aci-,-atin-,,,,,,,,,,,GVM
 156,Beland,JPB1978,0265,atj ,,atik1240,-ata:-,C-A:1,,,,,,"bring, carry","bring, carry",final,AI2,,,N,,,,-ar-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-157,Beland,JPB1978,0265,atj ,,atik1240,-ata:-,C-A:1,,,,,,"place, set",,final,AI2,,,B,TI,,,-ar-,,,,,,,,,,,,,,,,,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
+157,Beland,JPB1978,0265,atj ,,atik1240,-ata:-,C-A:1,,,,,,"place, set","place (V), set",final,AI2,,,B,TI,,,-ar-,,,,,,,,,,,,,,,,,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 158,Beland,JPB1978,0232,atj,,atik1240,-ati-,C-A:1,,,,,,NG,,final,AI,,ABSTR,N,,,,-an-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,found after root kosiwk- 'heavy',,GVM
 159,Beland,JPB1978,"0231,0279",atj,,atik1240,-atin-,C-A:1,,,,,,by cold,"cold, MANNER",final,II,,,N,,,-aci-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -at-,,,,,,GVM
-160,Beland,JPB1978,0247,atj ,,atik1240,-atin-,C-A:1,,,,,,"hill, mountain",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+160,Beland,JPB1978,0247,atj ,,atik1240,-atin-,C-A:1,,,,,,"hill, mountain","hill, mountain",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 161,Beland,JPB1978,0284,atj ,,atik1240,-atin-,C-A:1,,,,,,hill,hill,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Many particle finals w/ concrete meanings correspond to classificatory medials, noun finals or intransitive finals"" ",,GVM
 162,Beland,JPB1978,0247,atj ,,atik1240,-atina:-,C-A:1,,,,,,"hil, mountain",,final,II,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -atin-,II -a:-,,,,,,complex,,GVM
 163,Beland,JPB1978,0260,atj ,,atik1240,-att-,C-A:1,,,,,,"bite, eat","bite, eat",final,TI,,,N,,,,,-att-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -200,9 +200,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 199,Beland,JPB1978,0204,atj,,atik1240,-ekw-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 200,Beland,JPB1978,0204,atj,,atik1240,-epi:kw-,C-A:1,,,,,,snake,snake,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:pi:k-,,,,,,,,,GVM
 201,Beland,JPB1978,0169,atj,,atik1240,-eran-,C-A:1,,,,,,tongue,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part ,,GVM
-202,Beland,JPB1978,0279,atj ,,atik1240,-eri-,C-A:1,,,,,,think,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-erim-,-eritt-,,,,,,,,,,,GVM
-203,Beland,JPB1978,"0261,0279",atj ,,atik1240,-erim-,C-A:1,,,,,,think,,final,TA,,,N,,,,,,-eritt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -eri-,,,,,,GVM
-204,Beland,JPB1978,"0257,0261,0279",atj ,,atik1240,-eritt-,C-A:1,,,,,,think,,final,TI,,,N,,,,,-erim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -eri-,,,,,,GVM
+202,Beland,JPB1978,0279,atj ,,atik1240,-eri-,C-A:1,,,,,,think,think,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-erim-,-eritt-,,,,,,,,,,,GVM
+203,Beland,JPB1978,"0261,0279",atj ,,atik1240,-erim-,C-A:1,,,,,,think,think,final,TA,,,N,,,,,,-eritt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -eri-,,,,,,GVM
+204,Beland,JPB1978,"0257,0261,0279",atj ,,atik1240,-eritt-,C-A:1,,,,,,think,think,final,TI,,,N,,,,,-erim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -eri-,,,,,,GVM
 205,Beland,JPB1978,0169,atj,,atik1240,-es̀kan-,C-A:1,,,,,,horn,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part ,,GVM
 206,Beland,JPB1978,0284,atj ,,atik1240,-eskano-,C-A:1,,,,,,road,road,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Many particle finals w/ concrete meanings correspond to classificatory medials, noun finals or intransitive finals"" ",,GVM
 207,Beland,JPB1978,0205,atj,,atik1240,-eto:w-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -240,18 +240,18 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 239,Beland,JPB1978,0284,atj ,,atik1240,-ikamik-,C-A:1,,,,,,"place, house","house, place (N)",final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Many particle finals w/ concrete meanings correspond to classificatory medials, noun finals or intransitive finals"" ",,GVM
 240,Beland,JPB1978,0205,atj,,atik1240,-ikamikw-,C-A:1,,,,,,"place, house","house, place (N)",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ikamik-,-w-,,,,,,,,GVM
 241,Beland,JPB1978,0145,atj,,atik1240,-ike-,C-A:1,,,,,,animate indefinite implied object,,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,N,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ADJ: implied object,,GVM
-242,Beland,JPB1978,0217,atj,,atik1240,-ike- ,C-A:1,,,,,,house,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,complex,,GVM
+242,Beland,JPB1978,0217,atj,,atik1240,-ike- ,C-A:1,,,,,,house,"building, house",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,complex,,GVM
 243,Beland,JPB1978,0187,atj,,atik1240,-ikk-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-244,Beland,JPB1978,0271,atj ,,atik1240,-ikk-,C-A:1,,,,,,move,,final,TI,,,N,,,,,-ikkaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+244,Beland,JPB1978,0271,atj ,,atik1240,-ikk-,C-A:1,,,,,,move,move,final,TI,,,N,,,,,-ikkaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 245,Beland,JPB1978,0192,atj,,atik1240,-ikka:n-,C-A:1,,,,,,made,make,final,N,,,Y,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ikke-,-n-,,,,,,,,GVM
 246,Beland,JPB1978,0236,atj,,atik1240,-ikka:so-,C-A:1,,,,,,pretend,pretend (V),final,AI,,,Y,AI,,,,,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,-ikkaw-,-so-,,,,,,*stem has category and/or subcategory but no stem - JS* complex,,GVM
 247,Beland,JPB1978,0238,atj,,atik1240,-ikka:tiso-,C-A:1,,,,,,make for oneself,make (for self),final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AI final -ikke-,final -aw-,AI -itiso-,,,,,complex,,GVM
 248,Beland,JPB1978,0145,atj,,atik1240,-ikkaw-,C-A:1,,,,,,to make for someone,make (for),final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-249,Beland,JPB1978,0271,atj ,,atik1240,-ikkaw-,C-A:1,,,,,,move,,final,TA,,,N,,,,,,-ikk-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ikka:so-,,,,,,,,,,,,GVM
+249,Beland,JPB1978,0271,atj ,,atik1240,-ikkaw-,C-A:1,,,,,,move,move,final,TA,,,N,,,,,,-ikk-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ikka:so-,,,,,,,,,,,,GVM
 250,Beland,JPB1978,0222,atj,,atik1240,-ikke- ,C-A:1,,,,,,"make, gather, collect",,final,AI ,,,Y,,,,,,,,,,,,,,,,,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"*stem has category and/or subcategory but no stem - JS* forms verbs of making, gathering, collecting",,GVM
 251,Beland,JPB1978,0205,atj,,atik1240,-ikkw-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-252,Beland,JPB1978,0205,atj,,atik1240,-ikkwew-,C-A:1,,,,,,woman,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,iskwew 'woman',,,GVM
-253,Beland,JPB1978,0205,atj,,atik1240,-ikw-,C-A:1,,,,,,wood,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:ttikw-,,,,,,,,,,,,GVM
+252,Beland,JPB1978,0205,atj,,atik1240,-ikkwew-,C-A:1,,,,,,woman,"female, woman",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,iskwew 'woman',,,GVM
+253,Beland,JPB1978,0205,atj,,atik1240,-ikw-,C-A:1,,,,,,wood,wood,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:ttikw-,,,,,,,,,,,,GVM
 254,Beland,JPB1978,0158,atj,,atik1240,-im,C-A:1,,,,,,NG,,postradical ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 255,Beland,JPB1978,0206,atj,,atik1240,-imw-,C-A:1,,,,,,NG,,final,N,,ABSTR,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 256,Beland,JPB1978,0182,atj,,atik1240,-in-,C-A:1,,,,,,"wood, board ",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -262,14 +262,14 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 261,Beland,JPB1978,0206,atj,,atik1240,-inw-,C-A:1,,,,,,NG,,final,N,,ABSTR,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 262,Beland,JPB1978,0283,atj ,,atik1240,-inwa-,C-A:1,,,,,,NG,,final,PART,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,added to numeral roots,,GVM
 263,Beland,JPB1978,0182,atj,,atik1240,-ipe- ,C-A:1,,,,,,liquid,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-264,Beland,JPB1978,0217,atj,,atik1240,-ipe- ,C-A:1,,,,,,water,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,complex,,GVM
-265,Beland,JPB1978,0284,atj ,,atik1240,-ipek-,C-A:1,,,,,,water,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Many particle finals w/ concrete meanings correspond to classificatory medials, noun finals or intransitive finals"" ",,GVM
+264,Beland,JPB1978,0217,atj,,atik1240,-ipe- ,C-A:1,,,,,,water,water,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,complex,,GVM
+265,Beland,JPB1978,0284,atj ,,atik1240,-ipek-,C-A:1,,,,,,water,water,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Many particle finals w/ concrete meanings correspond to classificatory medials, noun finals or intransitive finals"" ",,GVM
 266,Beland,JPB1978,0241,atj ,,atik1240,-iporo-,C-A:1,,,,,,go down a rapid,down (a rapid),final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 267,Beland,JPB1978,0251,atj ,,atik1240,-ippon-,C-A:1,,,,,,snow,snow,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ippon- occurs at Obedjiwan and at Weymontachie; only occurs in II so:kippon 'it snows',,GVM
-268,Beland,JPB1978,0214,atj,,atik1240,-ipy-,C-A:1,,,,,,water,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+268,Beland,JPB1978,0214,atj,,atik1240,-ipy-,C-A:1,,,,,,water,water,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 269,Beland,JPB1978,0146,atj,,atik1240,-irew,C-A:1,,,,,,partridge ,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,GVM
 270,Beland,JPB1978,"0238,0278",atj,,atik1240,-is-,C-A:1,,,,,,by heat,"heat, MANNER",final,TI,,,N,,,,,-isw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-271,Beland,JPB1978,0242,atj ,,atik1240,-is̀-,C-A:1,,,,,,"so, thus",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+271,Beland,JPB1978,0242,atj ,,atik1240,-is̀-,C-A:1,,,,,,"so, thus","so, thus, QUANTITY, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 272,Beland,JPB1978,0278,atj ,,atik1240,-is̀-,C-A:1,,,,,,cut,cut,final,TI,,,N,,,,,-is̀w-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 273,Beland,JPB1978,"0228,0232",atj,,atik1240,-isi-,C-A:1,,,,,,NG,,final,AI,,ABSTR,N,,,,-an-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:taka:si-,,,,,,,,,,,,GVM
 274,Beland,JPB1978,0229,atj,,atik1240,-isi-,C-A:1,,,,,,NG,,final,AI,,ABSTR,N,,,,-a:-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -300,31 +300,31 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 300,Beland,JPB1978,0162,atj,,atik1240,-iwi-,C-A:1,,,,,,be,be,final,AI,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 301,Beland,JPB1978,"0242,0266",atj ,,atik1240,-iwir-,C-A:1,,,,,,"bring, convey","bring, convey",final,TA,,,N,,,,,,-iwita:-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 302,Beland,JPB1978,0266,atj ,,atik1240,-iwita:-,C-A:1,,,,,,"bring, convey","bring, convey",final,AI2,,,N,,,,-iwir-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-303,Beland,JPB1978,0279,atj ,,atik1240,-ka:paw-,C-A:1,,,,,,stand,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ka:pawi-,,,,,,,,,,,,GVM
-304,Beland,JPB1978,"0232,0279",atj,,atik1240,-ka:pawi-,C-A:1,,,,,,stand,,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -ka:paw-,,,,,,GVM
+303,Beland,JPB1978,0279,atj ,,atik1240,-ka:paw-,C-A:1,,,,,,stand,stand,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ka:pawi-,,,,,,,,,,,,GVM
+304,Beland,JPB1978,"0232,0279",atj,,atik1240,-ka:pawi-,C-A:1,,,,,,stand,stand,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -ka:paw-,,,,,,GVM
 305,Beland,JPB1978,0170,atj,,atik1240,-ka:s̀kam-,C-A:1,,,,,,nape of neck ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part ,,GVM
 306,Beland,JPB1978,0235,atj,,atik1240,-ka:so-,C-A:1,,,,,,NG,,final,AI,,ABSTR,Y,TI,,,-ka:te-,,,,,,,,,,,,,,,,V,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS* form AI verbs with a passive meaning,,GVM
 307,Beland,JPB1978,0235,atj,,atik1240,-ka:te-,C-A:1,,,,,,NG,,final,II,,ABSTR,Y,TI,,-ka:so-,,,,,,,,,,,,,,,,,V,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS* form AI verbs with a passive meaning,,GVM
 308,Beland,JPB1978,0276,atj ,,atik1240,-kah-,C-A:1,,,,,,chop with axe,chop,final,TI,,,N,,,,,-kahw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 309,Beland,JPB1978,0276,atj ,,atik1240,-kahw-,C-A:1,,,,,,chop with axe,chop,final,TA,,,N,,,,,,-kah-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 310,Beland,JPB1978,0187,atj,,atik1240,-kam-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-311,Beland,JPB1978,0248,atj ,,atik1240,-kama:-,C-A:1,,,,,,water,,final,II,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -kamy,II -a:-,,,,,,complex,,GVM
+311,Beland,JPB1978,0248,atj ,,atik1240,-kama:-,C-A:1,,,,,,water,water,final,II,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -kamy,II -a:-,,,,,,complex,,GVM
 312,Beland,JPB1978,0251,atj ,,atik1240,-kamin-,C-A:1,,,,,,"water, lake","lake, water",final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -kamy-,II -n-,,,,,,complex,,GVM
 313,Beland,JPB1978,0183,atj,,atik1240,-kamy-,C-A:1,,,,,,"water, liquid ",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-kama:-,,,,,,,,,,,,GVM
-314,Beland,JPB1978,0210,atj,,atik1240,-kamy-,C-A:1,,,,,,water,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+314,Beland,JPB1978,0210,atj,,atik1240,-kamy-,C-A:1,,,,,,water,water,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 315,Beland,JPB1978,0170,atj,,atik1240,-kan-,C-A:1,,,,,,bone ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"body part ; medial is homonymous with noun final -kan- instrument, product",,GVM
 316,Beland,JPB1978,"0170, 0193",atj,,atik1240,-kan-,C-A:1,,,,,,"instrument, product","instrument, product",final,N,,,B,TI,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ke-,-n-,,,,,,sometimes preceded by connective -i-,,GVM
 317,Beland,JPB1978,0232,atj,,atik1240,-kawi-,C-A:1,,,,,,drip,drip,final,AI,,,,,,,-kawin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 318,Beland,JPB1978,0232,atj,,atik1240,-kawin-,C-A:1,,,,,,drip,drip,final,II,,,,,,-kawi-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 319,Beland,JPB1978,"0219,0220",atj,,atik1240,-ke-,C-A:1,,,,,,inanimate indefinite (implied instrumental object) ,,final,AI ,,,Y,,,,,,,,,,,,,,,,,,,,N,"AI, TI",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
-320,Beland,JPB1978,0226,atj,,atik1240,-ki:-,C-A:1,,,,,,grow,,final,AI,,,N,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,has no II counterpart; also gets added to particle finals,,GVM
+320,Beland,JPB1978,0226,atj,,atik1240,-ki:-,C-A:1,,,,,,grow,grow,final,AI,,,N,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,has no II counterpart; also gets added to particle finals,,GVM
 321,Beland,JPB1978,0183,atj,,atik1240,-ki:s̀ik-,C-A:1,,,,,,sun,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-322,Beland,JPB1978,0248,atj ,,atik1240,-ki:s̀ik-,C-A:1,,,,,,day,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+322,Beland,JPB1978,0248,atj ,,atik1240,-ki:s̀ik-,C-A:1,,,,,,day,day,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 323,Beland,JPB1978,0248,atj ,,atik1240,-ki:s̀ika:-,C-A:1,,,,,,day,day,final,II,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -ki:s̀ik-,II -a:-,,,,,,complex,,GVM
 324,Beland,JPB1978,0171,atj,,atik1240,-kitikw-,C-A:1,,,,,,knee ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part ,,GVM
 325,Beland,JPB1978,0147,atj ,,atik1240,-kiwa:m-,C-A:1,,,,,,house,,final ,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,GVM
 326,Beland,JPB1978,"0147,0171",atj ,,atik1240,-kka:t-,C-A:1,,,,,,leg,,medial ,,,,,,,,,,,-ska:t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ADJ: body part, not used in dependent nouns",,GVM
-327,Beland,JPB1978,0147,atj ,,atik1240,-kkan-,C-A:1,,,,,,bone,,medial,,,,,,,,,,,-skan-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+327,Beland,JPB1978,0147,atj ,,atik1240,-kkan-,C-A:1,,,,,,bone,bone,medial,,,,,,,,,,,-skan-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 328,Beland,JPB1978,0279,atj ,,atik1240,-kko-,C-A:1,,,,,,sleep ,,prefinal ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-kkwa:mi-,,,,,,,,,,,,GVM
 329,Beland,JPB1978,0171,atj,,atik1240,-kko:-,C-A:1,,,,,,ankle,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part ,,GVM
 330,Beland,JPB1978,0194,atj,,atik1240,-kkoma:n-,C-A:1,,,,,,knife,knife,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mokkoma:n 'knife',,,GVM
@@ -334,17 +334,17 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 334,Beland,JPB1978,0269,atj ,,atik1240,-kkot-,C-A:1,,,,,,cut,cut,final,TI,,,N,,,,,-kkot-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 335,Beland,JPB1978,"0171,0215",atj,,atik1240,-kkw-,C-A:1,,,,,,"face, neck",,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part ,,GVM
 336,Beland,JPB1978,0279,atj ,,atik1240,-kkwa:-,C-A:1,,,,,,sleep ,,prefinal ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-kkwa:mi-,,,,,,,,,,,,GVM
-337,Beland,JPB1978,"0232,0279",atj,,atik1240,-kkwa:mi-,C-A:1,,,,,,sleep,,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -kkwa:-,prefinal -kko:-,,,,,GVM
+337,Beland,JPB1978,"0232,0279",atj,,atik1240,-kkwa:mi-,C-A:1,,,,,,sleep,sleep,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -kkwa:-,prefinal -kko:-,,,,,GVM
 338,Beland,JPB1978,0171,atj,,atik1240,-koccis̀kw-,C-A:1,,,,,,larynx,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -kott-,medial -iskw-,,,,,,"body part, complex (possible formatives listed)",,GVM
-339,Beland,JPB1978,0163,atj,,atik1240,-komess-,C-A:1,,,,,,friend,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
-340,Beland,JPB1978,0163,atj,,atik1240,-kosiss-,C-A:1,,,,,,son,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
+339,Beland,JPB1978,0163,atj,,atik1240,-komess-,C-A:1,,,,,,friend,friend,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
+340,Beland,JPB1978,0163,atj,,atik1240,-kosiss-,C-A:1,,,,,,son,son,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
 341,Beland,JPB1978,"0171,0172",atj,,atik1240,-kott-,C-A:1,,,,,,throat ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-kotta:kan- 'throat',-koccis̀kw- 'larynx',, ,,,,,,,body part; appears with abstract postmedial -aw- in mis̀s̀a:s̀kottawa:n 'beard',,GVM
 342,Beland,JPB1978,"0170,0172",atj,,atik1240,-kotta:kan-,C-A:1,,,,,,throat ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -kott-,medial -a:kan-,,,,,,"body part, complex ",,GVM
 343,Beland,JPB1978,0172,atj,,atik1240,-kotta:kan-,C-A:1,,,,,,throat ,throat,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -kott-,medial -a:kan-,,,,,,"body part, complex ",,GVM
-344,Beland,JPB1978,0279,atj ,,atik1240,-kwa:-,C-A:1,,,,,,sew,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-kwa:sso-,-kwa:t-,,,,,,,,,,,GVM
-345,Beland,JPB1978,"0239,0279",atj ,,atik1240,-kwa:sso-,C-A:1,,,,,,sew,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -kwa:-,,,,"""suffix -a:sso- is not added directly to the transitive inanimate final -kw:at- but rather shows an irregular contraction yielding to -kwa:sso-",,GVM
-346,Beland,JPB1978,"0269,0279",atj ,,atik1240,-kwa:t-,C-A:1,,,,,,sew,,final,TA,,,N,,,,,,-kwa:t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -kwa:-,,,,,,GVM
-347,Beland,JPB1978,"0269,0279",atj ,,atik1240,-kwa:t-,C-A:1,,,,,,sew,,final,TI,,,N,,,,,-kwa:t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -kwa:-,,,,,,GVM
+344,Beland,JPB1978,0279,atj ,,atik1240,-kwa:-,C-A:1,,,,,,sew,sew,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-kwa:sso-,-kwa:t-,,,,,,,,,,,GVM
+345,Beland,JPB1978,"0239,0279",atj ,,atik1240,-kwa:sso-,C-A:1,,,,,,sew,sew,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -kwa:-,,,,"""suffix -a:sso- is not added directly to the transitive inanimate final -kw:at- but rather shows an irregular contraction yielding to -kwa:sso-",,GVM
+346,Beland,JPB1978,"0269,0279",atj ,,atik1240,-kwa:t-,C-A:1,,,,,,sew,sew,final,TA,,,N,,,,,,-kwa:t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -kwa:-,,,,,,GVM
+347,Beland,JPB1978,"0269,0279",atj ,,atik1240,-kwa:t-,C-A:1,,,,,,sew,sew,final,TI,,,N,,,,,-kwa:t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -kwa:-,,,,,,GVM
 348,Beland,JPB1978,0187,atj,,atik1240,-m-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 349,Beland,JPB1978,"0240,0259",atj ,,atik1240,-m-,C-A:1,,,,,,"by mouth, by speech","mouth, speech, MANNER",final,TA,,,B,AI,,,,,-tt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 350,Beland,JPB1978,0259,atj ,,atik1240,-m-,C-A:1,,,,,,in relation to,in (relation to),final,TA,,,Y,AI,,,,,-t-,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS* found mainly with stems formed with initial wi:t 'with',,GVM
@@ -352,26 +352,26 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 352,Beland,JPB1978,0250,atj ,,atik1240,-makan-,C-A:1,,,,,,NG,,final,II,,ABSTR,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""occurs sometimes besides already available inanimate stems""; a preceding AI -a:- is regularly replaced by -e- before this final",,GVM
 353,Beland,JPB1978,0183,atj,,atik1240,-mikkw-,C-A:1,,,,,,red ,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 354,Beland,JPB1978,0183,atj,,atik1240,-min-,C-A:1,,,,,,berry ,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-355,Beland,JPB1978,0194,atj,,atik1240,-min-,C-A:1,,,,,,berry ,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mi:nis̀s̀ 'blueberry',,,GVM
-356,Beland,JPB1978,0164,atj,,atik1240,-miss-,C-A:1,,,,,,elder sister ,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
+355,Beland,JPB1978,0194,atj,,atik1240,-min-,C-A:1,,,,,,berry ,"berry, fruit, grain",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mi:nis̀s̀ 'blueberry',,,GVM
+356,Beland,JPB1978,0164,atj,,atik1240,-miss-,C-A:1,,,,,,elder sister ,sister (older),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
 357,Beland,JPB1978,0172,atj,,atik1240,-missit-,C-A:1,,,,,,"belly, stomach",,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 358,Beland,JPB1978,0164,atj,,atik1240,-mis̀s̀o:m-,C-A:1,,,,,,grandfather ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
-359,Beland,JPB1978,0164,atj,,atik1240,-mis̀s̀o:mes̀s̀-,C-A:1,,,,,,uncle,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
-360,Beland,JPB1978,0283,atj ,,atik1240,-mitana-,C-A:1,,,,,,decade,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Denotes decade, added to numeral roots ""Particle final shows an alternat form -itana-"" ",,GVM
+359,Beland,JPB1978,0164,atj,,atik1240,-mis̀s̀o:mes̀s̀-,C-A:1,,,,,,uncle,uncle,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
+360,Beland,JPB1978,0283,atj ,,atik1240,-mitana-,C-A:1,,,,,,decade,decade,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Denotes decade, added to numeral roots ""Particle final shows an alternat form -itana-"" ",,GVM
 361,Beland,JPB1978,0240,atj ,,atik1240,-mo-,C-A:1,,,,,,"by speech, by mouth","mouth, speech, MANNER",final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""used in the meaning of 'speak a language'",,GVM
 362,Beland,JPB1978,0210,atj,,atik1240,-my-,C-A:1,,,,,,NG,,final,N,,ABSTR,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 363,Beland,JPB1978,"0146, 0230",atj,,atik1240,-n-,C-A:1,,,,,,"see, think",,final ,TI,,,,,,,,-na:w-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-na:kosi-,-na:kwan-,,,,,,,,,,,GVM
 364,Beland,JPB1978,0188,atj,,atik1240,-n-,C-A:1,,,,,,NG,,final,N,,ABSTR,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""all analyzable noun stems in -n- are secondary formation from animate intransitive verbs, and denote action, instrument, product, and the like.""",,GVM
 365,Beland,JPB1978,0249,atj ,,atik1240,-n-,C-A:1,,,,,,NG,,final,II,,ABSTR,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,added to roots forming impersonal verbs,,GVM
-366,Beland,JPB1978,0241,atj ,,atik1240,-na:ko-,C-A:1,,,,,,appear,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA -na:w-,,,,,,,,,GVM
+366,Beland,JPB1978,0241,atj ,,atik1240,-na:ko-,C-A:1,,,,,,appear,"appear, look like, seem",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA -na:w-,,,,,,,,,GVM
 367,Beland,JPB1978,0277,atj ,,atik1240,-na:koh-,C-A:1,,,,,,"appear, look like",,final ,TI,,,N,,,,,-na:kohw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA -naw-,,,,,,,complex; formed from inflectional -ikw-,,GVM
 368,Beland,JPB1978,0277,atj ,,atik1240,-na:kohw-,C-A:1,,,,,,"appear, look like","appear, look like, seem",final,TA,,,N,,,,,,-na:koh-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA -naw-,,,,,,,complex; formed from inflectional -ikw-,,GVM
-369,Beland,JPB1978,"0230,0241",atj,,atik1240,-na:kosi-,C-A:1,,,,,,appear,,final,AI,,,B,,,,-na:kwan-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-na:w-,-n- ,-a:kosi-,,,,,Consists of two other finals,,GVM
-370,Beland,JPB1978,0241,atj ,,atik1240,-na:kosi-,C-A:1,,,,,,appear,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-371,Beland,JPB1978,0230,atj,,atik1240,-na:kwan-,C-A:1,,,,,,appear,,final,II,,,B,,,-na:kosi-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-na:w-,-n- ,-a:kosi-,,,,,Consists of two other finals,,GVM
+369,Beland,JPB1978,"0230,0241",atj,,atik1240,-na:kosi-,C-A:1,,,,,,appear,"appear, look like, seem",final,AI,,,B,,,,-na:kwan-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-na:w-,-n- ,-a:kosi-,,,,,Consists of two other finals,,GVM
+370,Beland,JPB1978,0241,atj ,,atik1240,-na:kosi-,C-A:1,,,,,,appear,"appear, look like, seem",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+371,Beland,JPB1978,0230,atj,,atik1240,-na:kwan-,C-A:1,,,,,,appear,"appear, look like, seem",final,II,,,B,,,-na:kosi-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-na:w-,-n- ,-a:kosi-,,,,,Consists of two other finals,,GVM
 372,Beland,JPB1978,0164,atj,,atik1240,-na:pem-,C-A:1,,,,,,husband ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
 373,Beland,JPB1978,"0230,0241",atj,,atik1240,-na:w-,C-A:1,,,,,,"see, think","see, think",final,TA,,,,,,,,,-n-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-na:kosi-,-na:kwan-,,,,,,,,,,,GVM
-374,Beland,JPB1978,0164,atj,,atik1240,-naha:k-,C-A:1,,,,,,"son-in-law, daughter-in-law",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
+374,Beland,JPB1978,0164,atj,,atik1240,-naha:k-,C-A:1,,,,,,"son-in-law, daughter-in-law","daughter-in-law, son-in-law",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
 375,Beland,JPB1978,0172,atj,,atik1240,-nakkati-,C-A:1,,,,,,bird's tail,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 376,Beland,JPB1978,"0146,0272",atj ,,atik1240,-naw-,C-A:1,,,,,,"see, think","see, think",final,TA,,,N,,,,,,-n-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 377,Beland,JPB1978,0183,atj,,atik1240,-naw-,C-A:1,,,,,,"mood, spirit ",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -381,12 +381,12 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 381,Beland,JPB1978,0164,atj,,atik1240,-nica:n-,C-A:1,,,,,,baby,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
 382,Beland,JPB1978,0225,atj,,atik1240,-nike-,C-A:1,,,,,,carry on shoulders,carry (on shoulder),final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,deverbal of Ai onikew 'he carries on his shoulders',,GVM
 383,Beland,JPB1978,0226,atj,,atik1240,-niki:-,C-A:1,,,,,,born,born,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,has no II counterpart,,GVM
-384,Beland,JPB1978,0279,atj ,,atik1240,-nikka:-,C-A:1,,,,,,name,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-nikka:so-,-nikka:te-,,,,,,,,,,,GVM
+384,Beland,JPB1978,0279,atj ,,atik1240,-nikka:-,C-A:1,,,,,,name,name,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-nikka:so-,-nikka:te-,,,,,,,,,,,GVM
 385,Beland,JPB1978,"0241,0242,0279",atj ,,atik1240,-nikka:so-,C-A:1,,,,,,named,named,final,AI,,,N,,,,-nikka:so-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA final -nikka:t-,AI final -o-,,prefinal -nikka:-,,,,only found after root is̀- 'so thus'; reciprocal reflexive forms also appear after this final,,GVM
-386,Beland,JPB1978,"0242,0269",atj ,,atik1240,-nikka:t-,C-A:1,,,,,,name,,final,TA,,,N,,,,,,-nikka:t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-387,Beland,JPB1978,"0242,0269",atj ,,atik1240,-nikka:t-,C-A:1,,,,,,name,,final,TI,,,N,,,,,-nikka:t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+386,Beland,JPB1978,"0242,0269",atj ,,atik1240,-nikka:t-,C-A:1,,,,,,name,name,final,TA,,,N,,,,,,-nikka:t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+387,Beland,JPB1978,"0242,0269",atj ,,atik1240,-nikka:t-,C-A:1,,,,,,name,name,final,TI,,,N,,,,,-nikka:t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 388,Beland,JPB1978,"0241,0242,0279",atj ,,atik1240,-nikka:tew-,C-A:1,,,,,,named,named,final,II,,,N,,,-nikka:tew-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA final -nikka:t-,AI final -o-,,prefinal -nikka:-,,,,only found after root is̀- 'so thus'; reciprocal reflexive forms also appear after this final,,GVM
-389,Beland,JPB1978,0258,atj ,,atik1240,-no:h-,C-A:1,,,,,,point out,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+389,Beland,JPB1978,0258,atj ,,atik1240,-no:h-,C-A:1,,,,,,point out,point out,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 390,Beland,JPB1978,0172,atj,,atik1240,-no:wem-,C-A:1,,,,,,cheek,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 391,Beland,JPB1978,"0234,0235",atj,,atik1240,-o-,C-A:1,,,,,,NG,,final,AI,,ABSTR,B,,,,-e-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,form animate 'middle' reflexive intransitive verbs; a preceding -t- from underlying θ is palatalized by this final,,GVM
 392,Beland,JPB1978,0164,atj,,atik1240,-o:kkam-,C-A:1,,,,,,wife,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
@@ -398,8 +398,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 398,Beland,JPB1978,0172,atj,,atik1240,-oskon-,C-A:1,,,,,,elbow ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 399,Beland,JPB1978,0207,atj,,atik1240,-os̀w-,C-A:1,,,,,,quadruped,quadruped,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 400,Beland,JPB1978,0224,atj,,atik1240,-otte-,C-A:1,,,,,,walk,,final,AI ,,,B,AI,,,,,,,,,,,,,,,,,,,V,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
-401,Beland,JPB1978,0279,atj ,,atik1240,-p-,C-A:1,,,,,,tie,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-piso-,-pit-,-aspit-,,,,,,,,,,GVM
-402,Beland,JPB1978,0279,atj ,,atik1240,-pa-,C-A:1,,,,,,run,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-patta:-,-pah-,,,,,,,,,,,GVM
+401,Beland,JPB1978,0279,atj ,,atik1240,-p-,C-A:1,,,,,,tie,tie,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-piso-,-pit-,-aspit-,,,,,,,,,,GVM
+402,Beland,JPB1978,0279,atj ,,atik1240,-pa-,C-A:1,,,,,,run,run,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-patta:-,-pah-,,,,,,,,,,,GVM
 403,Beland,JPB1978,"0214,0257,0258,0279",atj ,,atik1240,-pah-,C-A:1,,,,,,run from,,final,TA ,,,B,,,,,,,,,,,,,,,,,,,,,"TA, TI",,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -pa-,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 404,Beland,JPB1978,0183,atj,,atik1240,-pak-,C-A:1,,,,,,"leaf, bark ",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 405,Beland,JPB1978,"0261,0262",atj ,,atik1240,-pakis̀s̀im-,C-A:1,,,,,,throw down,throw down,final,TA,,,,,,,,,-pakittita:-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA -s̀s̀im-,,,prefinal -pakit-,,,,complex,,GVM
@@ -410,8 +410,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 410,Beland,JPB1978,0263,atj ,,atik1240,-pakitin-,C-A:1,,,,,,"set, place by hand","hand, place (V), set (V), MANNER",final,TI,,,N,,,,,-pakitin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TI -in-,,,,Y,,complex; deverbal of pakit- 'set place',,GVM
 411,Beland,JPB1978,"0261,0262",atj ,,atik1240,-pakittita:-,C-A:1,,,,,,throw down,throw down,final,AI2,,,,,,,-pakis̀s̀im-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AI2 -ttita:-,,,prefinal -pakit-,,,,complex,,GVM
 412,Beland,JPB1978,0207,atj,,atik1240,-pakw-,C-A:1,,,,,,leaf,leaf,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-pak-,-w-,,,,,,,,GVM
-413,Beland,JPB1978,0233,atj,,atik1240,-pari-,C-A:1,,,,,,move,,final,AI,,,,AI,,,-parin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-414,Beland,JPB1978,0233,atj,,atik1240,-parin-,C-A:1,,,,,,move,,final,II,,,,AI,,-pari-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"shows ""a specialized meaning,"" but this isn't clearly specified",,GVM
+413,Beland,JPB1978,0233,atj,,atik1240,-pari-,C-A:1,,,,,,move,move,final,AI,,,,AI,,,-parin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+414,Beland,JPB1978,0233,atj,,atik1240,-parin-,C-A:1,,,,,,move,move,final,II,,,,AI,,-pari-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"shows ""a specialized meaning,"" but this isn't clearly specified",,GVM
 415,Beland,JPB1978,"0214,0279",atj,,atik1240,-patta:-,C-A:1,,,,,,run,,final,AI ,,,B,,,,,,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -pa-,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 416,Beland,JPB1978,0224,atj,,atik1240,-pe-,C-A:1,,,,,,sleep,,final,AI ,,,N ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,related to AI nipa:w which shows the form nipe- in some stems,,GVM
 417,Beland,JPB1978,0172,atj,,atik1240,-pi:s̀kwa:n-,C-A:1,,,,,,muscle ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
@@ -421,13 +421,13 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 421,Beland,JPB1978,0196,atj,,atik1240,-pir-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""found in only one stem: AN namepir 'carp, sucker'""",,GVM
 422,Beland,JPB1978,0173,atj,,atik1240,-piskot-,C-A:1,,,,,,stomach,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 423,Beland,JPB1978,0240,atj ,,atik1240,-piso-,C-A:1,,,,,,tied,tied,final,AI,,,N,,,,-pite-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -p-,,,,,,GVM
-424,Beland,JPB1978,0241,atj ,,atik1240,-piso-,C-A:1,,,,,,fast,,final,AI,,,B,,,,-pite-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-425,Beland,JPB1978,"0240,0268",atj ,,atik1240,-pit-,C-A:1,,,,,,tie,,final,TA,,,N,,,,,,-pit-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -p-,,,,,,GVM
-426,Beland,JPB1978,"0240,0268",atj ,,atik1240,-pit-,C-A:1,,,,,,tie,,final,TI,,,N,,,,,-pit-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -p-,,,,,,GVM
+424,Beland,JPB1978,0241,atj ,,atik1240,-piso-,C-A:1,,,,,,fast,fast,final,AI,,,B,,,,-pite-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+425,Beland,JPB1978,"0240,0268",atj ,,atik1240,-pit-,C-A:1,,,,,,tie,tie,final,TA,,,N,,,,,,-pit-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -p-,,,,,,GVM
+426,Beland,JPB1978,"0240,0268",atj ,,atik1240,-pit-,C-A:1,,,,,,tie,tie,final,TI,,,N,,,,,-pit-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -p-,,,,,,GVM
 427,Beland,JPB1978,0268,atj ,,atik1240,-pit-,C-A:1,,,,,,"pull, handle roughly","drag, handle (roughly), haul, pull",final,TA,,,B,,,,,,-pit-,,,,,,,,,,,,,,N,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 428,Beland,JPB1978,0268,atj ,,atik1240,-pit-,C-A:1,,,,,,"pull, handle roughly","drag, handle (roughly), haul, pull",final,TI,,,B,,,,,-pit-,,,,,,,,,,,,,,,N,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 429,Beland,JPB1978,0240,atj ,,atik1240,-pite-,C-A:1,,,,,,tied,tied,final,II,,,N,,,-piso-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-430,Beland,JPB1978,0241,atj ,,atik1240,-pite-,C-A:1,,,,,,fast,,final,II,,,B,,,-piso-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+430,Beland,JPB1978,0241,atj ,,atik1240,-pite-,C-A:1,,,,,,fast,fast,final,II,,,B,,,-piso-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 431,Beland,JPB1978,0147,atj ,,atik1240,-piton-,C-A:1,,,,,,arm,,medial ,,,,,,,,,,,-spiton-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 432,Beland,JPB1978,0173,atj,,atik1240,-piton-,C-A:1,,,,,,arm,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; not used in dependent nouns,,GVM
 433,Beland,JPB1978,0242,atj ,,atik1240,-po-,C-A:1,,,,,,eat,eat,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -436,7 +436,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 436,Beland,JPB1978,0267,atj ,,atik1240,-po:ta:-,C-A:1,,,,,,"grind, saw","grind, saw",final,AI2,,,N,,,,-po:r-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 437,Beland,JPB1978,0173,atj,,atik1240,-ppan-,C-A:1,,,,,,lung,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 438,Beland,JPB1978,0279,atj ,,atik1240,-pw-,C-A:1,,,,,,taste,taste,final,TA,,,N,,,,,,-s̀t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-439,Beland,JPB1978,0173,atj,,atik1240,-pwa:m-,C-A:1,,,,,,thigh,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+439,Beland,JPB1978,0173,atj,,atik1240,-pwa:m-,C-A:1,,,,,,thigh,thigh,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 440,Beland,JPB1978,0194,atj,,atik1240,-ra:kan-,C-A:1,,,,,,"dish, bowl","bowl, dish",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"ora:kan 'dish, bowl'",,,GVM
 441,Beland,JPB1978,0173,atj,,atik1240,-ra:n-,C-A:1,,,,,,calf of leg,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 442,Beland,JPB1978,0185,atj,,atik1240,-rak-,C-A:1,,,,,,NG,,premedial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""could have a vague meaning of direction;"" always followed by a body part medial",,GVM
@@ -445,44 +445,44 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 445,Beland,JPB1978,0174,atj,,atik1240,-rakkacc-,C-A:1,,,,,,vagina,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 446,Beland,JPB1978,0224,atj,,atik1240,-re-,C-A:1,,,,,,fly,fly (V),final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 447,Beland,JPB1978,0207,atj,,atik1240,-rew-,C-A:1,,,,,,partridge,partridge,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-re-,-w-,,,,,,,,GVM
-448,Valentine,RV2002,0117,atj ,,atik1240,-ri,C-A:2,,,,,,self-initiated body movement,,final,AI
+448,Valentine,RV2002,0117,atj ,,atik1240,-ri,C-A:2,,,,,,self-initiated body movement,movement (body),final,AI
 449,Beland,JPB1978,0233,atj,,atik1240,-ri-,C-A:1,,,,,,on or by body part,"body part, LOCATIVE, MANNER",final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 450,Beland,JPB1978,0174,atj,,atik1240,-ri:ri-,C-A:1,,,,,,bladder ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-451,Beland,JPB1978,0207,atj,,atik1240,-riniw-,C-A:1,,,,,,man,,final,N,,,Y,N,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,iriniew 'man',,,GVM
+451,Beland,JPB1978,0207,atj,,atik1240,-riniw-,C-A:1,,,,,,man,"male, man",final,N,,,Y,N,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,iriniew 'man',,,GVM
 452,Beland,JPB1978,0174,atj,,atik1240,-riskw-,C-A:1,,,,,,gland,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-453,Beland,JPB1978,0174,atj,,atik1240,-ro:kan-,C-A:1,,,,,,hip,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+453,Beland,JPB1978,0174,atj,,atik1240,-ro:kan-,C-A:1,,,,,,hip,hip,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 454,Beland,JPB1978,0174,atj,,atik1240,-row-,C-A:1,,,,,,waist,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; does not appear in dependent nouns,,GVM
 455,Beland,JPB1978,0249,atj ,,atik1240,-rowe-,C-A:1,,,,,,wind,wind,final,II,,,Y,,,,,,,,,,,,,,,,,,,,Secondary derived,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS* forms impersonal verbs,,GVM
-456,Beland,JPB1978,0176,atj,,atik1240,-s̀ak-,C-A:1,,,,,,skin,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+456,Beland,JPB1978,0176,atj,,atik1240,-s̀ak-,C-A:1,,,,,,skin,skin,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 457,Beland,JPB1978,0176,atj,,atik1240,-s̀e-,C-A:1,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 458,Beland,JPB1978,0210,atj,,atik1240,-si:pi:y-,C-A:1,,,,,,river,river,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,si:piy 'river',,,GVM
-459,Beland,JPB1978,0176,atj,,atik1240,-s̀ikon-,C-A:1,,,,,,tail and fin (of fish),,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+459,Beland,JPB1978,0176,atj,,atik1240,-s̀ikon-,C-A:1,,,,,,tail and fin (of fish),"fin (fish), tail (fish)",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 460,Beland,JPB1978,0165,atj,,atik1240,-sikw-,C-A:1,,,,,,mother-in-law,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
 461,Beland,JPB1978,0165,atj,,atik1240,-s̀is̀s̀e-,C-A:1,,,,,,father-in-law,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
 462,Beland,JPB1978,0174,atj,,atik1240,-sit-,C-A:1,,,,,,foot,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-463,Beland,JPB1978,"0214,0272,0279",atj ,,atik1240,-s̀k-,C-A:1,,,,,,by foot or body movement,,final,TI,,,N,,,,,-s̀kaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,GVM
+463,Beland,JPB1978,"0214,0272,0279",atj ,,atik1240,-s̀k-,C-A:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,TI,,,N,,,,,-s̀kaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,GVM
 464,Beland,JPB1978,0279,atj ,,atik1240,-s̀k-,C-A:1,,,,,,by foot,,prefinal ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-s̀ka:-,-s̀kaw-,-s̀k-,,,,,,,,,,GVM
-465,Beland,JPB1978,"0214,0279",atj,,atik1240,-s̀ka:-,C-A:1,,,,,,by foot or body movement,,final,AI,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,GVM
+465,Beland,JPB1978,"0214,0279",atj,,atik1240,-s̀ka:-,C-A:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,AI,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,GVM
 466,Beland,JPB1978,"0145,0147,0171,0174",atj,,atik1240,-ska:t-,C-A:1,,,,,,leg,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ADJ: body part; used in dependent noun stems,,GVM
 467,Beland,JPB1978,0170,atj,,atik1240,-skan-,C-A:1,,,,,,bone ,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; used in dependent nouns,,GVM
-468,Beland,JPB1978,0175,atj,,atik1240,-skask-,C-A:1,,,,,,chest,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-469,Beland,JPB1978,0176,atj,,atik1240,-s̀kas̀s̀y,C-A:1,,,,,,"nail, claw, hoof ",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-470,Beland,JPB1978,0175,atj,,atik1240,-skattikw-,C-A:1,,,,,,forehead,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-471,Beland,JPB1978,"0214,0272,0279",atj ,,atik1240,-s̀kaw-,C-A:1,,,,,,by foot or body movement,,final,TA,,,N,,,,,,-s̀k-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,GVM
-472,Beland,JPB1978,0176,atj,,atik1240,-s̀ki:ssikw-,C-A:1,,,,,,eye,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-473,Beland,JPB1978,0175,atj,,atik1240,-ski:wan-,C-A:1,,,,,,"nose, nostril",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-474,Beland,JPB1978,0176,atj,,atik1240,-s̀kis̀y-,C-A:1,,,,,,lip,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-475,Beland,JPB1978,0175,atj,,atik1240,-skon-,C-A:1,,,,,,liver,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+468,Beland,JPB1978,0175,atj,,atik1240,-skask-,C-A:1,,,,,,chest,chest,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+469,Beland,JPB1978,0176,atj,,atik1240,-s̀kas̀s̀y,C-A:1,,,,,,"nail, claw, hoof ","claw, hoof, nail",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+470,Beland,JPB1978,0175,atj,,atik1240,-skattikw-,C-A:1,,,,,,forehead,forehead,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+471,Beland,JPB1978,"0214,0272,0279",atj ,,atik1240,-s̀kaw-,C-A:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,TA,,,N,,,,,,-s̀k-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,GVM
+472,Beland,JPB1978,0176,atj,,atik1240,-s̀ki:ssikw-,C-A:1,,,,,,eye,eye,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+473,Beland,JPB1978,0175,atj,,atik1240,-ski:wan-,C-A:1,,,,,,"nose, nostril","nose, nostril",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+474,Beland,JPB1978,0176,atj,,atik1240,-s̀kis̀y-,C-A:1,,,,,,lip,lip,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+475,Beland,JPB1978,0175,atj,,atik1240,-skon-,C-A:1,,,,,,liver,liver,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 476,Beland,JPB1978,0208,atj,,atik1240,-skw-,C-A:1,,,,,,bear,bear (N),final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 477,Beland,JPB1978,0146,atj,,atik1240,-skw- ,C-A:1,,,,,,bear ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,GVM
 478,Beland,JPB1978,"0235,0236",atj,,atik1240,-so-,C-A:1,,,,,,NG,,final,AI,,ABSTR,Y,AI,,,,,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,-ikka:so-,,,,,,,,,,*stem has category and/or subcategory but no stem - JS* final -e- is regularly replaced by -a:- before these; pairs with final -amaw- to form explicit reflexive verbs,,GVM
 479,Beland,JPB1978,"0168,0175",atj,,atik1240,-so:-,C-A:1,,,,,,tail ,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; used in dependent nouns,,GVM
-480,Beland,JPB1978,0176,atj,,atik1240,-s̀o:kan-,C-A:1,,,,,,hip,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+480,Beland,JPB1978,0176,atj,,atik1240,-s̀o:kan-,C-A:1,,,,,,hip,hip,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 481,Beland,JPB1978,0184,atj,,atik1240,-s̀o:riy-,C-A:1,,,,,,"metal, money",,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 482,Beland,JPB1978,0213,atj,,atik1240,-s̀o:s̀kw-,C-A:1,,,,,,"glide, slide","glide, slide",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,only root listed as combining with -a:ttaha-,,GVM
-483,Beland,JPB1978,0175,atj,,atik1240,-spikekan-,C-A:1,,,,,,rib,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-484,Beland,JPB1978,0175,atj,,atik1240,-spiskw-,C-A:1,,,,,,back,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-485,Beland,JPB1978,"0173,0176",atj,,atik1240,-spiton-,C-A:1,,,,,,arm,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; used in dependent nouns,,GVM
+483,Beland,JPB1978,0175,atj,,atik1240,-spikekan-,C-A:1,,,,,,rib,rib,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+484,Beland,JPB1978,0175,atj,,atik1240,-spiskw-,C-A:1,,,,,,back,back,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
+485,Beland,JPB1978,"0173,0176",atj,,atik1240,-spiton-,C-A:1,,,,,,arm,arm,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; used in dependent nouns,,GVM
 486,Beland,JPB1978,0279,atj ,,atik1240,-s̀s̀-,C-A:1,,,,,,"lie, fall ",,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-s̀s̀in-,-s̀s̀im-,,,,,,,,,,,GVM
 487,Beland,JPB1978,0184,atj,,atik1240,-ssa:m-,C-A:1,,,,,,snowshoe,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 488,Beland,JPB1978,0229,atj,,atik1240,-s̀s̀i-,C-A:1,,,,,,diminutive,,final ,AI,,,Y,AI,,,-s̀s̀in-,,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"*stem has category and/or subcategory but no stem - JS* called this an ""ending"", not a final; also add to the theme signs of transitive verbs; not very frequent",,GVM
@@ -496,15 +496,15 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 496,Beland,JPB1978,0147,atj ,,atik1240,-s̀s̀ip-,C-A:1,,,,,,duck ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,GVM
 497,Beland,JPB1978,0184,atj,,atik1240,-s̀s̀ip-,C-A:1,,,,,,duck,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 498,Beland,JPB1978,0196,atj,,atik1240,-s̀s̀ip-,C-A:1,,,,,,duck,duck,final,N,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-s̀s̀ip-,,,,,Y,s̀i:s̀s̀i:p 'duck',"""deverbal of s̀i:s̀s̀i:p 'duck,' this final may also be analyzed as consisting of medial -s̀s̀ip- and noun final zero""",,GVM
-499,Beland,JPB1978,0208,atj,,atik1240,-ssiw-,C-A:1,,,,,,bird,,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+499,Beland,JPB1978,0208,atj,,atik1240,-ssiw-,C-A:1,,,,,,bird,bird,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 500,Beland,JPB1978,0273,atj ,,atik1240,-s̀t-,C-A:1,,,,,,"for someone, for something",for,final,TI,,,Y,AI,,,,-s̀taw-,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,TI -s̀t- ,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
-501,Beland,JPB1978,0273,atj ,,atik1240,-s̀t-,C-A:1,,,,,,"place, set",,final,TI,,,Y,AI,,,,-s̀taw-,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
+501,Beland,JPB1978,0273,atj ,,atik1240,-s̀t-,C-A:1,,,,,,"place, set","place (V), set",final,TI,,,Y,AI,,,,-s̀taw-,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 502,Beland,JPB1978,0276,atj ,,atik1240,-s̀t-,C-A:1,,,,,,"place, set",,prefinal ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-s̀tahw-,-s̀tah- ,,,,,,,Y,"AI as̀ta: 'to place, set'",,,GVM
 503,Beland,JPB1978,0279,atj ,,atik1240,-s̀t-,C-A:1,,,,,,taste,,final ,TI,,,N,,,,,-pw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,suppletive form,,GVM
 504,Beland,JPB1978,0276,atj ,,atik1240,-s̀tah- ,C-A:1,,,,,,set by instrument,set (by instrument),final,TI,,,,,,,,-s̀tah- ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TI -ah-,,,prefinal -s̀t-,,,,complex,,GVM
 505,Beland,JPB1978,0276,atj ,,atik1240,-s̀tahw-,C-A:1,,,,,,set by instrument,set (by instrument),final,TA,,,,,,,,,-s̀tahw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA -ahw,,,prefinal -s̀t-,,,,complex,,GVM
 506,Beland,JPB1978,0273,atj ,,atik1240,-s̀taw-,C-A:1,,,,,,"for someone, for something",for,final,TA,,,Y,AI,,,,,-s̀t-,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,TI -s̀t- ,TA -aw-,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
-507,Beland,JPB1978,0273,atj ,,atik1240,-s̀taw-,C-A:1,,,,,,"place, set",,final,TA,,,Y,AI,,,,,-s̀t-,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
+507,Beland,JPB1978,0273,atj ,,atik1240,-s̀taw-,C-A:1,,,,,,"place, set","place (V), set",final,TA,,,Y,AI,,,,,-s̀t-,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 508,Beland,JPB1978,0165,atj,,atik1240,-s̀tess-,C-A:1,,,,,,elder brother ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
 509,Beland,JPB1978,0208,atj,,atik1240,-s̀tikw-,C-A:1,,,,,,river,river,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 510,Beland,JPB1978,0184,atj,,atik1240,-s̀tikw- ,C-A:1,,,,,,river,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -514,8 +514,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 514,Beland,JPB1978,0267,atj ,,atik1240,-t-,C-A:1,,,,,,NG,,final,TA,,ABSTR,Y,AI,,,,,-t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 515,Beland,JPB1978,0267,atj ,,atik1240,-t-,C-A:1,,,,,,NG,,final,TI,,ABSTR,Y,AI,,,,-t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 516,Beland,JPB1978,0279,atj ,,atik1240,-ta:-,C-A:1,,,,,,NG,,prefinal ,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-517,Beland,JPB1978,0243,atj ,,atik1240,-ta:ccim-,C-A:1,,,,,,crawl,,final,AI,,,Y,,,,,,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
-518,Beland,JPB1978,0243,atj ,,atik1240,-ta:ccimo-,C-A:1,,,,,,crawl,,final,AI,,,Y,,,,,,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,TA -ta:ccim-,middle reflexive -o-,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
+517,Beland,JPB1978,0243,atj ,,atik1240,-ta:ccim-,C-A:1,,,,,,crawl,crawl,final,AI,,,Y,,,,,,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
+518,Beland,JPB1978,0243,atj ,,atik1240,-ta:ccimo-,C-A:1,,,,,,crawl,crawl,final,AI,,,Y,,,,,,,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,TA -ta:ccim-,middle reflexive -o-,,,,,,*stem has category and/or subcategory but no stem - JS*,,GVM
 519,Beland,JPB1978,0177,atj,,atik1240,-ta:mikkikk-,C-A:1,,,,,,jaw,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 520,Beland,JPB1978,0165,atj,,atik1240,-ta:niss- ,C-A:1,,,,,,daughter,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
 521,Beland,JPB1978,0195,atj,,atik1240,-ta:pa:n-,C-A:1,,,,,,haul,"drag, haul, pull",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ta:pe-,-n-,,,,Y,ota:pa:n,"""this final may be analyzed either as a deverbal of IN ota:pa:n 'car' or as an animate intransitive ta:pe- 'haul' followed by noun final -n- with replacement of -e- by -a:-""",,GVM
@@ -530,8 +530,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 530,Beland,JPB1978,0177,atj,,atik1240,-tettakw-,C-A:1,,,,,,kidney ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 531,Beland,JPB1978,0178,atj,,atik1240,-ti:w-,C-A:1,,,,,,buttocks ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 532,Beland,JPB1978,"0184,0243",atj,,atik1240,-tipisk-,C-A:1,,,,,,night,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-533,Beland,JPB1978,0243,atj ,,atik1240,-tipisk-,C-A:1,,,,,,night,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-534,Beland,JPB1978,0243,atj ,,atik1240,-tipisko-,C-A:1,,,,,,night,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -tipisk- ,middle reflexive -o- 'abstract',,,,,,,,GVM
+533,Beland,JPB1978,0243,atj ,,atik1240,-tipisk-,C-A:1,,,,,,night,night,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+534,Beland,JPB1978,0243,atj ,,atik1240,-tipisko-,C-A:1,,,,,,night,night,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -tipisk- ,middle reflexive -o- 'abstract',,,,,,,,GVM
 535,Beland,JPB1978,0177,atj,,atik1240,-tipp-,C-A:1,,,,,,"top of head, brain, hair",,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 536,Beland,JPB1978,0178,atj,,atik1240,-tiry-,C-A:1,,,,,,shoulder-blade,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 537,Beland,JPB1978,0276,atj ,,atik1240,-tis̀-,C-A:1,,,,,,send,,prefinal ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-tis̀ahw-,-tis̀ah-,,,,,,,,,,,GVM
@@ -539,7 +539,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 539,Beland,JPB1978,0276,atj ,,atik1240,-tis̀ahw-,C-A:1,,,,,,"send, chase","chase, send",final,TA,,,B,AI,,,,,-tis̀ah-,,,,,,,,,,,,,,,AI,,,,,,,,,,,,,,,,,,,,,,,TA -ahw-,,,prefinal -tis̀-,,,,*stem has category and/or subcategory but no stem - JS* complex,,GVM
 540,Beland,JPB1978,0178,atj,,atik1240,-tiss-,C-A:1,,,,,,umbilical cord ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 541,Beland,JPB1978,0178,atj,,atik1240,-tittama:n-,C-A:1,,,,,,shoulder ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
-542,Beland,JPB1978,0166,atj,,atik1240,-to:kon-,C-A:1,,,,,,godchild,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
+542,Beland,JPB1978,0166,atj,,atik1240,-to:kon-,C-A:1,,,,,,godchild,godchild,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
 543,Beland,JPB1978,0178,atj,,atik1240,-to:n-,C-A:1,,,,,,mouth,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
 544,Beland,JPB1978,0166,atj,,atik1240,-to:s-,C-A:1,,,,,,aunt,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,GVM
 545,Beland,JPB1978,0178,atj,,atik1240,-to:ttan-,C-A:1,,,,,,heel ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,GVM
@@ -569,7 +569,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 569,Beland,JPB1978,0283,atj ,,atik1240,-wa:w-,C-A:1,,,,,,times,times,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 570,Beland,JPB1978,0191,atj,Obedjiwan,atik1240,-waya:n-,C-A:1,,,,,,"covering, garment, hide","covering, garment, hide",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""The noun final -waya:n- is preserved at Obedjiwan; there is a tendency to replace it by -wa:n- at Weymontachie and at Manouane where it appears much more frequently.""",,GVM
 571,Beland,JPB1978,0158,atj,,atik1240,-we-,C-A:1,,,,,,"speak, sound",,postradical ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,tep-,,,,,,,,,,,,GVM
-572,Beland,JPB1978,0224,atj,,atik1240,-we-,C-A:1,,,,,,"speak, sound",,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-w-,-e-,,,,,,complex,,GVM
+572,Beland,JPB1978,0224,atj,,atik1240,-we-,C-A:1,,,,,,"speak, sound","sound, speak",final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-w-,-e-,,,,,,complex,,GVM
 573,Beland,JPB1978,"0184,0243,0263,0272",atj,,atik1240,-wep-,C-A:1,,,,,,fling,,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,always combines with transitive finals,,GVM
 574,Beland,JPB1978,0252,atj ,,atik1240,-wepa:s̀s̀itan-,C-A:1,,,,,,"blown away, by wind",blown away,final,II,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 575,Beland,JPB1978,0275,atj ,,atik1240,-wepah-,C-A:1,,,,,,throw by instrument,"throw, INSTRUMENT",final,TI,,,N,,,,,-wepahw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -wep-,TA -ahw-,,,,,,complex,,GVM
@@ -600,18 +600,18 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 601,Beland,JPB1978,"0150,0157",atj ,,atik1240,irin-,C-A:1,,,,,,"ordinary, common ",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 602,Beland,JPB1978,0160,atj,,atik1240,is̀i-,C-A:1,,,,,,so,so,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 603,Beland,JPB1978,0282,atj ,,atik1240,is̀i-,C-A:1,,,,,,"thus, so",,final ,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"""Some particle finals are related (deverbal?) to independent particles"" ",,GVM
-604,Beland,JPB1978,0158,atj,,atik1240,is̀p-,C-A:1,,,,,,"up, high ","up, high",initial,,,,,,,,,,,is̀pim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+604,Beland,JPB1978,0158,atj,,atik1240,is̀p-,C-A:1,,,,,,"up, high ","high, up",initial,,,,,,,,,,,is̀pim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 605,Beland,JPB1978,0160,atj,,atik1240,it-,C-A:1,,,,,,thus,thus,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 606,Beland,JPB1978,0150,atj,,atik1240,ka:kike-,C-A:1,,,,,,permanent ,permanent,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 607,Beland,JPB1978,0160,atj,,atik1240,kaka:nw-,C-A:1,,,,,,long,long,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ADJ: irregular, reduplicated (kinw-)",,GVM
 608,Beland,JPB1978,0254,atj ,,atik1240,kas̀k-,C-A:1,,,,,,able,able,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 609,Beland,JPB1978,"0144,0145",atj,,atik1240,ki:s̀k-,C-A:1,,,,,,"cut, sever ","cut, sever",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 610,Beland,JPB1978,0160,atj,,atik1240,kinw-,C-A:1,,,,,,long,long,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-611,Beland,JPB1978,0158,atj,,atik1240,kip-,C-A:1,,,,,,close ,close (A),initial,,,,,,,,,,,kipw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+611,Beland,JPB1978,0158,atj,,atik1240,kip-,C-A:1,,,,,,close ,close,initial,,,,,,,,,,,kipw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 612,Beland,JPB1978,0255,atj ,,atik1240,kitw-,C-A:1,,,,,,sound,sound,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 613,Beland,JPB1978,0232,atj,,atik1240,kosiw-,C-A:1,,,,,,heavy,heavy,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 614,Beland,JPB1978,0254,atj ,,atik1240,kot-,C-A:1,,,,,,try,try,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-615,Beland,JPB1978,0256,atj ,,atik1240,mawi-,C-A:1,,,,,,"cry, complain","cry, complain",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+615,Beland,JPB1978,0256,atj ,,atik1240,mawi-,C-A:1,,,,,,"cry, complain","complain, cry",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 616,Beland,JPB1978,0283,atj ,,atik1240,miccet-,C-A:1,,,,,,many,many,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 617,Beland,JPB1978,0157,atj,,atik1240,mikkw-,C-A:1,,,,,,red,red,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 618,Beland,JPB1978,0157,atj,,atik1240,name-,C-A:1,,,,,,fish,fish,initial,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -627,7 +627,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 628,Valentine,RV2002,0103,atj ,,atik1240,pahkope-,C-A:2,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,likely 'in water';  used in intransitive motion verbs
 629,Beland,JPB1978,0159,atj,,atik1240,papa:m-,C-A:1,,,,,,along,along,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ADJ: reduplicated (pim-),,GVM
 630,Beland,JPB1978,"0158,0159,0214,0225",atj,,atik1240,pim-,C-A:1,,,,,,along ,along,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-631,Beland,JPB1978,0258,atj ,,atik1240,pim-,C-A:1,,,,,,extension in space or in time,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+631,Beland,JPB1978,0258,atj ,,atik1240,pim-,C-A:1,,,,,,extension in space or in time,"extension (space), extension (time)",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 632,Beland,JPB1978,0255,atj ,,atik1240,sek-,C-A:1,,,,,,scare,scare,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 633,Beland,JPB1978,0282,atj ,,atik1240,tatto,C-A:1,,,,,,so many,"many, QUANTITY, RELATIVE",final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"""Some particle finals are related (deverbal?) to independent particles"" ",,GVM
 634,Beland,JPB1978,0160,atj,,atik1240,tattw-,C-A:1,,,,,,so many ,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM

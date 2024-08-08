@@ -52,9 +52,9 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 51,Teeter,KT1971,0222,pqm,,male1292,-ohs,P-M:1,,,,,,walk,,final,AI,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 52,Bruening,BB2001a,0080,pqm,,male1292,-om,P-M:2,,,,,,NG,,final
 53,Bruening,BB2001a,0020,pqm,,male1292,-os,P-M:2,,,,,,reflexive,,final
-54,Teeter,KT1971,"0220,0248",pqm,,male1292,-owa,P-M:1,,,,,,benefactive,,final,unk.,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,unclear what output category is,,MAM
+54,Teeter,KT1971,"0220,0248",pqm,,male1292,-owa,P-M:1,,,,,,benefactive,,final,unknown,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,unclear what output category is,,MAM
 55,Teeter,KT1971,0223,pqm,,male1292,-pəm,P-M:1,,,,,,linear motion or position,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-56,Bruening,BB2001a,"0187,0282",pqm,,male1292,-s,P-M:2,,,,,,NG,,final,INTR.
+56,Bruening,BB2001a,"0187,0282",pqm,,male1292,-s,P-M:2,,,,,,NG,,final,INTR
 57,Teeter,KT1971,0222,pqm,,male1292,-si,P-M:1,,,,,,NG,,final,AI,,,,,,-ət,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 58,Bruening,BB2001a,"0101,0104",pqm,,male1292,-sis,P-M:2,,,,,,diminutive,,final
 59,Bruening,BB2001a,0220,pqm,,male1292,-su,P-M:2,,,,,,reflexive,,final
