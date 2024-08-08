@@ -82,8 +82,8 @@ export default class Components extends Map {
 
     const componentRecords = parseCSV(componentsCSV, Components.csvOptions)
     const tokenRecords     = parseCSV(tokensCSV, Components.csvOptions)
-    const records          = new Map
     const cols             = Components.columns
+    let   records          = new Map
 
     // Create Map of record IDs => records
     for (const record of componentRecords) {
@@ -110,7 +110,10 @@ export default class Components extends Map {
 
     }
 
-    for (const record of records.values()) {
+    // Sort records for easier comparison between database versions
+    records = Array.from(records.values()).sort((a, b) => a[cols.ID] - b[cols.ID])
+
+    for (const record of records) {
 
       // Check for (and skip) components without tokens
       if (!Array.isArray(record.tokens)) {

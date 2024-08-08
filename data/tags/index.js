@@ -81,12 +81,19 @@ async function loadTags() {
     .map(cat => cat.toLowerCase())
 
     if (tags.length) {
-      map.set(gloss, {
+
+      const tag = {
         gloss,
         subcategories,
         tags,
-        type: rawType.toLowerCase(),
-      })
+        type: rawType.toLowerCase() || `unknown`,
+      }
+
+      const tagsInfo = map.get(gloss)
+
+      if (tagsInfo) tagsInfo[tag.type] = tag
+      else map.set(gloss, { [tag.type]: tag })
+
     }
 
   }
@@ -139,15 +146,19 @@ async function updateSpreadsheet(lang) {
 
     const gloss       = record[cols.gloss]?.trim()
     const subcategory = record[cols.subcategory]?.toLowerCase()
-    const type        = record[cols.type]?.toLowerCase()
-    const tagsInfo    = tagsMap.get(gloss)
+    const type        = record[cols.type]?.toLowerCase() || `unknown`
+    const tagsInfo    = tagsMap.get(gloss)?.[type]
 
-    if (
-      tagsInfo // Do this check here rather than an early return to ensure you don't accidentally lose rows
-      && tagsInfo.type == type
-      && tagsInfo.subcategories.includes(subcategory)
-    ) {
-      record[cols.tags] = tagsInfo.tags.map(({ grammatical, tag }) => (grammatical ? tag.toUpperCase() : tag)).join(`, `)
+    // Check for tagsInfo here rather than an early return to ensure you don't accidentally lose rows
+    if (tagsInfo && tagsInfo.type == type) {
+
+      if (
+        (subcategory && tagsInfo.subcategories.includes(subcategory))
+        || !(subcategory || tagsInfo.subcategories.length)
+      ) {
+        record[cols.tags] = tagsInfo.tags.map(({ grammatical, tag }) => (grammatical ? tag.toUpperCase() : tag)).join(`, `)
+      }
+
     }
 
     const row = Object.values(record)
