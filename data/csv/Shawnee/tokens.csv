@@ -1,4 +1,4 @@
-Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
+Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
 1,Goddard,IG1965,0215,sjw,,shaw1249,-a·l-ak-,SH:2,,,,*wa·θ-,,hole,,initial
 2,Haas,MH1958a,0243,sjw,,shaw1249,-api,SH:2,,,,,,"tying, catching, drawing in, pulling up",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: ""non-initial element"" so may not be a component"
 3,Goddard,IG1965,0214,sjw,,shaw1249,-ča·l-,SH:2,,,,*-čya·θ-,,nose,,medial
@@ -6,7 +6,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 5,Goddard,IG1965,0215,sjw,,shaw1249,-ka·pawi-,SH:2,,,,*-ka·pawi-,,stand,,initial
 6,Costa,DJC2001,0266,sjw,,shaw1249,-mi,SH:1,,,,,,"berry, nut",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: DJC doesn't actually say it's a N final - the PA form it comes from is. Should check with him.
 7,Costa,DJC2001,0259,sjw,,shaw1249,-waa-,SH:1,,,,,,"skin, hide",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: DJC doesn't actually say it's a N final but it seems clear from the context.
-8,Goddard,IG1979a,0117,sjw,,shaw1249,-wil-,SH:2,,,,*-wiθ-,,horn,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+8,Goddard,IG1979a,0117,sjw,,shaw1249,-wil-,SH:2,,,,*-wiθ-,,horn,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 9,Haas,MH1958a,0243,sjw,,shaw1249,-ʔh-,SH:2,,,,,,instrumental,,final
 10,Haas,MH1958c,0167,sjw,,shaw1249,-ʔpani,SH:2,,,,,,vulva,,final
 11,Goddard,IG1965,0220,sjw,,shaw1249,hoθa·m-,SH:2,,,,*wesa·mi,,too much,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: PA form only gives full word
@@ -17,17 +17,17 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 16,Haas,MH1958a,0243,sjw,,shaw1249,kišk-,SH:2,,,,,,"sever, cut through",,initial
 17,Haas,MH1958a,0243,sjw,,shaw1249,kiʔki·t-,SH:2,,,,,,"sore, inflamed",,initial,,Y
 18,Haas,MH1958b,0252,sjw,,shaw1249,le·p-,SH:2,,,,,,tapering at base,,initial
-19,Goddard,IG1980,0145,sjw,,shaw1249,lʔθaw-,SH:2,,,,*θaʔθaw-,,fork(ed),,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+19,Goddard,IG1980,0145,sjw,,shaw1249,lʔθaw-,SH:2,,,,*θaʔθaw-,,fork(ed),,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 20,Haas,MH1966a,0482,sjw,,shaw1249,mškw-,SH:2,,,,,,red,,initial
 21,Haas,MH1958b,0252,sjw,,shaw1249,peʔš-,SH:2,,,,,,touch,,initial
 22,Haas,MH1958b,0251,sjw,,shaw1249,šaʔša·k-,SH:2,,,,,,stripped,,initial,,Y
 23,Goddard,IG1965,0208,sjw,,shaw1249,šaʔša·kw-,SH:2,,,,,,break,,initial
 24,Goddard,IG1965,0219,sjw,,shaw1249,wa·l-ʔ-ak-,SH:2,,,,*wa·l-,,hollow,,initial
-25,Goddard,IG1990a,0468,sjw,,shaw1249,,SH:2,,-a·lak-,,,,hole,,medial,,,,,,,,,,,,,,pe·kw-a·lak-ah-,V,TI2,clean it with a ramrod,,IG1990a;0468,,,mak-a·lak-at-,V,II,have big holes,,IG1990a;0468,,,,,,,,MAM
-26,Goddard,IG1990a,0468,sjw,,shaw1249,,SH:2,,-ah-,,,,by tool,,final,TI1,,,,,,,,,,,,,pe·kw-a·lak-ah-,V,TI3,clean it with a ramrod,,IG1990a;0468,,,,,,,,,,,,,,,,MAM
-27,Goddard,IG1990a,0468,sjw,,shaw1249,,SH:2,,-at-,,,,NG,,final,II,,,,,,,,,,,,,mak-a·lak-at-,V,II,have big holes,,IG1990a;0468,,,,,,,,,,,,,,,,MAM
-28,Goddard,IG1990a,0466,sjw,,shaw1249,,SH:2,,-e·-,,,,NG,,final,AI,,,,,,,,,,,m?kate·w-i·kil-e·-,,,V,AI,(horse) have a black-marked forehead,,IG1990a;0466,,,,,,,,,,,,,,assuming it's an AI final; not actually stated,,MAM
-29,Goddard,IG1990a,0466,sjw,,shaw1249,,SH:2,,-i·kin-,,*-i·nkeθ(e·)-,,forehead,,medial,,,,,,,,,,-i·kil-,,m?kate·w-i·kil-e·-,,,V,AI,(horse) have a black-marked forehead,,IG1990a;0466,,,,,,,,,,,,,,"""retention of the older shape -|i·kil-| with specialized reference to horses""",,MAM
-30,Goddard,IG1990a,0468,sjw,,shaw1249,,SH:2,,mak-,,,,big (pl.),,initial,,,,,,,,,,,,,,mak-a·lak-at-,V,II,have big holes,,IG1990a;0468,,,,,,,,,,,,,,,,MAM
-31,Goddard,IG1990a,0466,sjw,,shaw1249,,SH:2,,mʔkate·w-,,,,black,,initial,,,,,,,,,,,,m?kate·w-i·kil-e·-,,,V,AI,(horse) have a black-marked forehead,,IG1990a;0466,,,,,,,,,,,,,,,,MAM
-32,Goddard,IG1990a,0468,sjw,,shaw1249,,SH:2,,pe·kw-,,,,dry,,initial,,,,,,,,,,,,,,pe·kw-a·lak-ah-,V,TI1,clean it with a ramrod,,IG1990a;0468,,,,,,,,,,,,,,,,MAM
+25,Goddard,IG1990a,0468,sjw,,shaw1249,,SH:2,,-a·lak-,,,,hole,,medial,,,,,,,,,,,,,,pe·kw-a·lak-ah-,V,TI2,clean it with a ramrod,,IG1990a;0468,,,mak-a·lak-at-,V,II,have big holes,,IG1990a;0468,,,,,,,,,MAM
+26,Goddard,IG1990a,0468,sjw,,shaw1249,,SH:2,,-ah-,,,,by tool,,final,TI1,,,,,,,,,,,,,pe·kw-a·lak-ah-,V,TI3,clean it with a ramrod,,IG1990a;0468,,,,,,,,,,,,,,,,,MAM
+27,Goddard,IG1990a,0468,sjw,,shaw1249,,SH:2,,-at-,,,,NG,,final,II,,,,,,,,,,,,,mak-a·lak-at-,V,II,have big holes,,IG1990a;0468,,,,,,,,,,,,,,,,,MAM
+28,Goddard,IG1990a,0466,sjw,,shaw1249,,SH:2,,-e·-,,,,NG,,final,AI,,,,,,,,,,,m?kate·w-i·kil-e·-,,,V,AI,(horse) have a black-marked forehead,,IG1990a;0466,,,,,,,,,,,,,,assuming it's an AI final; not actually stated,,,MAM
+29,Goddard,IG1990a,0466,sjw,,shaw1249,,SH:2,,-i·kin-,,*-i·nkeθ(e·)-,,forehead,,medial,,,,,,,,,,-i·kil-,,m?kate·w-i·kil-e·-,,,V,AI,(horse) have a black-marked forehead,,IG1990a;0466,,,,,,,,,,,,,,"""retention of the older shape -|i·kil-| with specialized reference to horses""",,,MAM
+30,Goddard,IG1990a,0468,sjw,,shaw1249,,SH:2,,mak-,,,,big (pl.),,initial,,,,,,,,,,,,,,mak-a·lak-at-,V,II,have big holes,,IG1990a;0468,,,,,,,,,,,,,,,,,MAM
+31,Goddard,IG1990a,0466,sjw,,shaw1249,,SH:2,,mʔkate·w-,,,,black,,initial,,,,,,,,,,,,m?kate·w-i·kil-e·-,,,V,AI,(horse) have a black-marked forehead,,IG1990a;0466,,,,,,,,,,,,,,,,,MAM
+32,Goddard,IG1990a,0468,sjw,,shaw1249,,SH:2,,pe·kw-,,,,dry,,initial,,,,,,,,,,,,,,pe·kw-a·lak-ah-,V,TI1,clean it with a ramrod,,IG1990a;0468,,,,,,,,,,,,,,,,,MAM

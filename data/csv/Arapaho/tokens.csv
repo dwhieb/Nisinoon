@@ -1,14 +1,14 @@
-Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Allomorph-B,Condition-B,Allomorph-C,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Component occurs in stem (orig. orth)-D,Component occurs in stem (proj. orth)-D,Stem UR-D,Stem category-D,Stem subcategory-D,Stem translation-D,Secondary stem-D,Stem Source-D,Formative/component occurs in what component(s)-A,Formative/component occurs in what component(s)-B,Formative/component occurs in what component(s)-D,Formative/component occurs in what component(s)-D,Contains component (enter)-A,Contains component (enter)-B,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
-1,Cowell & Moss,AC_AM2003,"0351,0352,0354,0356",arp,,arap1274,-',AR:2,,,,,,NG,,final,II,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: I suspect this is a secondary final, but it's not specified",,MAM
-2,Cowell & Moss,AC_AM2003,0371,arp,,arap1274,-'oowo'-,AR:2,,,,,,down,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-3,Cowell & Moss,AC_AM2003,"0351,0353",arp,,arap1274,-'u,AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Glossed as ""II.PL""",,MAM
+Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Allomorph-B,Condition-B,Allomorph-C,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Component occurs in stem (orig. orth)-D,Component occurs in stem (proj. orth)-D,Stem UR-D,Stem category-D,Stem subcategory-D,Stem translation-D,Secondary stem-D,Stem Source-D,Formative/component occurs in what component(s)-A,Formative/component occurs in what component(s)-B,Formative/component occurs in what component(s)-D,Formative/component occurs in what component(s)-D,Contains component (enter)-A,Contains component (enter)-B,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
+1,Cowell & Moss,AC_AM2003,"0351,0352,0354,0356",arp,,arap1274,-',AR:2,,,,,,NG,,final,II,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: I suspect this is a secondary final, but it's not specified",,,MAM
+2,Cowell & Moss,AC_AM2003,0371,arp,,arap1274,-'oowo'-,AR:2,,,,,,down,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+3,Cowell & Moss,AC_AM2003,"0351,0353",arp,,arap1274,-'u,AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Glossed as ""II.PL""",,,MAM
 4,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-(V)h,AR:1,,,,,,causative/transitivizer,,final,TA,,,N
-5,Cowell & Moss,AC_AM2003,0352,arp,,arap1274,-∅,AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: There's no explicit null final in the glossed form, but it does seem to  be implied",,MAM
+5,Cowell & Moss,AC_AM2003,0352,arp,,arap1274,-∅,AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: There's no explicit null final in the glossed form, but it does seem to  be implied",,,MAM
 6,Cowell & Moss,AC_AM2008,0027,arp,,arap1274,-béé3ei-,AR:1,,,,,,[big?] belly,,medial
-7,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-biicei-,AR:2,,,,,,summer,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Might be a stem - ?,,MAM
-8,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-co'-,AR:2,,,,,,round,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-9,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-e',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-10,Cowell & Moss,AC_AM2003,"0367,0368,0386",arp,,arap1274,-ee-,AR:2,,,,,,middle voice,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+7,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-biicei-,AR:2,,,,,,summer,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Might be a stem - ?,,,MAM
+8,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-co'-,AR:2,,,,,,round,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+9,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-e',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+10,Cowell & Moss,AC_AM2003,"0367,0368,0386",arp,,arap1274,-ee-,AR:2,,,,,,middle voice,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 11,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-éé-,AR:1,,,,,,middle voice,,final,AI,,,Y,TA
 12,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-ei-,AR:1,,,,,,pseudo-transitive with animate objects,,final,AI+O,,,Y,TA
 13,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-éí'i-,AR:1,,,,,,pseudo-transitive with animate objects,,final,AI+O,,,Y,TA
@@ -16,108 +16,108 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 15,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-éíhi-,AR:1,,,,,,perfective passive,,final,AI,,,Y,TA,,-éíhiinóó-
 16,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-éíhii-,AR:1,,,,,,agentive,,final,N,,,Y,V
 17,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-éíhiinóó-,AR:1,,,,,,perfective passive,,final,II,,,Y,TA,-éíhi-
-18,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,-esoo-,AR:2,,,,,,land,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Guessing that it's a medial,,MAM
+18,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,-esoo-,AR:2,,,,,,land,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Guessing that it's a medial,,,MAM
 19,Cowell & Moss,AC_AM2005,0458,arp,,arap1274,-et,AR:1,,,,,,reciprocal,,final,TA,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: p. 458 must attach to TA stems before nominal participle final -t can attach
 20,Cowell & Moss,AC_AM2008,"0027,0166,0170",arp,,arap1274,-et-,AR:1,,,,,,ear,,medial,,,,,,,,,,,,,,,,,/neesetee-/,V,AI,"have good ears, hear well",,AC_AM2008;0170
 21,Cowell & Moss,AC_AM2008,"0020,0109,0149,0150",arp,,arap1274,-eti-,AR:1,,,,,,reflexive/reciprocal,,final,AI
 22,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-etí-,AR:1,,,,,,reciprocal and reflexive,,final,AI,,,Y,TA
-22,Cowell & Moss,AC_AM2003,0370,arp,,arap1274,-etí-,AR:2,,,,,,reciprocal,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-23,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-hehe',AR:2,,,,,,diminutive,,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-24,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-ho'óoóyóó-,AR:2,,,,,,rocks,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Glossed as ""rocks,"" but unsure where the plural morpheme is",,MAM
+22,Cowell & Moss,AC_AM2003,0370,arp,,arap1274,-etí-,AR:2,,,,,,reciprocal,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+23,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-hehe',AR:2,,,,,,diminutive,,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+24,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-ho'óoóyóó-,AR:2,,,,,,rocks,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Glossed as ""rocks,"" but unsure where the plural morpheme is",,,MAM
 25,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-i-,AR:1,,,,,,imperfective passive,,final,II,,,Y,TA,-i-
 26,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-i-,AR:1,,,,,,imperfective passive,,final,AI,,,Y,TA,,-i-
-27,Cowell & Moss,AC_AM2003,0366,arp,,arap1274,-i',AR:2,,,,,,NG,,final,II,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+27,Cowell & Moss,AC_AM2003,0366,arp,,arap1274,-i',AR:2,,,,,,NG,,final,II,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 28,Cowell & Moss,AC_AM2008,0027,arp,,arap1274,-ííb-,AR:1,,,,,,nose,,medial
 29,Cowell & Moss,AC_AM2005,0458,arp,,arap1274,-iin,AR:1,,,,,,impersonal,,final,II,,,Y,TA
 30,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-íín-,AR:1,,,,,,existential,,final,II,,,B,N,-ni-
-31,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-iini',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-32,Goddard,IG1979a,0117,arp,,arap1274,-iiniθ-,AR:2,,,,*-i-wiθe·,,horn,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: ""The Arapaho medial is -iiniθ-, with ii from the noun"" - not sure what that means. Also, I'm not sure if the i- is part of the medial or epenthetic or what in the PA form.",,MAM
+31,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-iini',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+32,Goddard,IG1979a,0117,arp,,arap1274,-iiniθ-,AR:2,,,,*-i-wiθe·,,horn,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: ""The Arapaho medial is -iiniθ-, with ii from the noun"" - not sure what that means. Also, I'm not sure if the i- is part of the medial or epenthetic or what in the PA form.",,,MAM
 33,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-ínoo'óó-,AR:1,,,,,,inchoative,,final,AI,,,N,,,-ínooˈóó-,,,-ooˈóó-
 34,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-ínoo'óó-,AR:1,,,,,,inchoative,,final,II,,,N,,-ínooˈóó-,,,,-ooˈóó-
-35,Cowell & Moss,AC_AM2003,"0354,0357",arp,,arap1274,-kó'einóó-,AR:2,,,,,,circle,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+35,Cowell & Moss,AC_AM2003,"0354,0357",arp,,arap1274,-kó'einóó-,AR:2,,,,,,circle,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 36,Cowell & Moss,AC_AM2008,"0123,0148,0176,0183",arp,,arap1274,-koohu,AR:1,,/koohu/,,,,run,,final,AI,,CONCR,,,,,/-koohuuton/,/-koohuut/,/kóóhu/,,,,,,,/no'ukoohu-/,V,AI,to arrive by running,,AC_AM2008;0176,,,/oowukooku-/,V,AI,to descend by running,,AC_AM2008;0176,,,/biiɜibeekoohu-/,V,AI,to cook s.t. up quickly,,AC_AM2008;0184,,,/nokohukoohu-/,V,AI,to take a nap,,AC_AM2008;0123,,,,,,,,,,"GVM: Stem B is spelled ""oowukooku-"" on p. 176"
-37,Cowell & Moss,AC_AM2003,0371,arp,,arap1274,-kuhn-,AR:2,,,,,,chase,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+37,Cowell & Moss,AC_AM2003,0371,arp,,arap1274,-kuhn-,AR:2,,,,,,chase,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 38,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-ni-,AR:1,,,,,,existential,,final,AI,,,B,N,,-íín-
-39,Cowell & Moss,AC_AM2003,"0353,0357",arp,,arap1274,-niicii-,AR:2,,,,,,river,,final,N,,,,,,,,,-niicie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-40,Cowell & Moss,AC_AM2003,"0351,0352",arp,,arap1274,-niθesoo-,AR:2,,,,,,pass,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-41,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,-noho'oooyoo-,AR:2,,,,,,rocky,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Guessing that it's a medial,,MAM
-42,Cowell & Moss,AC_AM2003,0370,arp,,arap1274,-noo'oen-,AR:2,,,,,,around,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-43,Cowell & Moss,AC_AM2003,0368,arp,,arap1274,-nooθ-,AR:2,,,,,,abandon,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-44,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-o'oo'oe-,AR:2,,,,,,brush,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+39,Cowell & Moss,AC_AM2003,"0353,0357",arp,,arap1274,-niicii-,AR:2,,,,,,river,,final,N,,,,,,,,,-niicie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+40,Cowell & Moss,AC_AM2003,"0351,0352",arp,,arap1274,-niθesoo-,AR:2,,,,,,pass,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+41,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,-noho'oooyoo-,AR:2,,,,,,rocky,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Guessing that it's a medial,,,MAM
+42,Cowell & Moss,AC_AM2003,0370,arp,,arap1274,-noo'oen-,AR:2,,,,,,around,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+43,Cowell & Moss,AC_AM2003,0368,arp,,arap1274,-nooθ-,AR:2,,,,,,abandon,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+44,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-o'oo'oe-,AR:2,,,,,,brush,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 45,Cowell & Moss,AC_AM2008,"0015,0183,0367",arp,,arap1274,-óku-,AR:1,,,,,,to sit,,final,AI,,CONCR,,,,,,,,,,,,,,/ɜi'óku-/,V,AI,to sit,,AC_AM2008;0183
-46,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-oo',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-47,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-oo'oe-,AR:2,,,,,,"shrub, willow",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+46,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-oo',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+47,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-oo'oe-,AR:2,,,,,,"shrub, willow",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 48,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-oo'óó-,AR:1,,,,,,inchoative,,final,AI,,,N,,,-ooˈóó-,,,-ínooˈóó-
 49,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-oo'óó-,AR:1,,,,,,inchoative,,final,II,,,N,,-ooˈóó-,,,,-ínooˈóó-
-50,Cowell & Moss,AC_AM2003,0369,arp,,arap1274,-oobei',AR:2,,,,,,ceremonial paint,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+50,Cowell & Moss,AC_AM2003,0369,arp,,arap1274,-oobei',AR:2,,,,,,ceremonial paint,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 51,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-óóhu-,AR:1,,,,,,self-benefactive,,final,AI,,,N,,,,,,-óúhu-
-52,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-ookoonee-,AR:2,,,,,,with water,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+52,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-ookoonee-,AR:2,,,,,,with water,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 53,Cowell & Moss,AC_AM2008,0015,arp,,arap1274,-óókuu-,AR:1,,,,,,to stand,,final
 54,Cowell & Moss,AC_AM2005,0458,arp,,arap1274,-oon,AR:1,,,,,,impersonal,,final,II,,,Y,TA
 55,Cowell & Moss,AC_AM2008,"0016,0027,0170,0190",arp,,arap1274,-óón-,AR:1,,/yóón/,,,,leg,,medial,,,,,,,,,,,,,,,,,/towoonee-/,V,AI,have a broken leg,,AC_AM2008;0170,,,/biisoonee-/,V,AI,have a hairy leg,,AC_AM2008;0170
-56,Cowell & Moss,AC_AM2003,0370,arp,,arap1274,-ootee-,AR:2,,,,,,camp,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+56,Cowell & Moss,AC_AM2003,0370,arp,,arap1274,-ootee-,AR:2,,,,,,camp,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 57,Cowell & Moss,AC_AM2008,0020,arp,,arap1274,-ooti-,AR:1,,,,,,NG,,final,II,,CONCR
-58,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-oow-,AR:2,,,,,,water,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+58,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-oow-,AR:2,,,,,,water,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 59,Cowell & Moss,AC_AM2008,0100,arp,,arap1274,-ooxeh,AR:1,,,,,,knife,,final,N
-60,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-otoy-,AR:2,,,,,,mountain,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-61,Cowell & Moss,AC_AM2003,"0351,0353",arp,,arap1274,-ótoyóú-,AR:2,,,,,,mountain,,medial,,,,,,,,,,-ótoyóó-,,-otoyoo-,,-otoyóú-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+60,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-otoy-,AR:2,,,,,,mountain,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+61,Cowell & Moss,AC_AM2003,"0351,0353",arp,,arap1274,-ótoyóú-,AR:2,,,,,,mountain,,medial,,,,,,,,,,-ótoyóó-,,-otoyoo-,,-otoyóú-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 62,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-óúhu-,AR:1,,,,,,self-benefactive,,final,AI,,,N,,,,,,-óóhu-
-62,Cowell & Moss,AC_AM2003,0369,arp,,arap1274,-óúhu-,AR:2,,,,,,self-benefactive,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+62,Cowell & Moss,AC_AM2003,0369,arp,,arap1274,-óúhu-,AR:2,,,,,,self-benefactive,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 63,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-owoo-,AR:1,,,,,,self-benefactive,,final,AI,,,Y,TI
-64,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,-ówu-,AR:2,,,,,,landform,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Guessing that it's a medial,,MAM
+64,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,-ówu-,AR:2,,,,,,landform,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Guessing that it's a medial,,,MAM
 65,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-owuun-,AR:1,,,,,,benefactive and related uses,,final,TA,,,N
-66,Cowell & Moss,AC_AM2003,0361,arp,,arap1274,-seeθoo,AR:2,,,,,,implement for,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-67,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,-so'-,AR:2,,,,,,flat,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Guessing that it's an initial,,MAM
-68,Cowell & Moss,AC_AM2003,0361,arp,,arap1274,-teeyoo-,AR:2,,,,,,take,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,MAM
+66,Cowell & Moss,AC_AM2003,0361,arp,,arap1274,-seeθoo,AR:2,,,,,,implement for,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+67,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,-so'-,AR:2,,,,,,flat,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Guessing that it's an initial,,,MAM
+68,Cowell & Moss,AC_AM2003,0361,arp,,arap1274,-teeyoo-,AR:2,,,,,,take,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,,MAM
 69,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-tii-,AR:1,,,,,,pseudotranstive with inan. objects,,final,AI+O,,,N
 70,Cowell & Moss,AC_AM2008,0020,arp,,arap1274,-tii-,AR:1,,,,,,NG,,final,AI,,ABSTR
 71,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-u-,AR:1,,,,,,imperfective passive,,final,II,,,Y,TA,-u-
 72,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-u-,AR:1,,,,,,imperfective passive,,final,AI,,,Y,TA,,-u-
-73,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-u',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-74,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-uuni',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+73,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-u',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+74,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-uuni',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 75,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-V̄t,AR:1,,,,,,nominal,,final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 457 If attaching to stem whose final vowel is short, this final lengthens that final vowel; -ei or -ee final vowels change to -oo"
 76,Cowell & Moss,AC_AM2008,"0123,0157,0158,0161",arp,,arap1274,-xoh,AR:1,,/xoh/,,,,convey s.o.,,final,TA,,CONCR,,,,,,/-xotii/,,,,,,,,/iinoo'eixoh-/,V,TA,to take s.o. hunting,,AC_AM2008;0157,,,/tousebiixoh-/,V,TA,to take s.o. to bathe,,AC_AM2008;0158,,,/no'uxoh-/,V,TA,to bring to a place,,AC_AM2008;0173,,,/ceixoh-/,V,TA,to bring here,,AC_AM2008;0173,,,,,xo,h,,,,"p. 158: ""Note that these verb stems preserve a component of volition for the object of the verb."""
-77,Cowell & Moss,AC_AM2003,0359,arp,,arap1274,-xóótei-,AR:2,,,,,,located,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Doesn't seem like a likely medial,,MAM
-78,Cowell & Moss,AC_AM2003,0352,arp,,arap1274,-xouu'oo-,AR:2,,,,,,smokes,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: Glossed as 'smokes' but note says ""The smoke in question would be from fire, volcanic activity, hot springs, or some similar source. There is an unrelated word (hîiicoo) for human use of tobacco, pipes, etc.",,MAM
-79,Cowell & Moss,AC_AM2003,0359,arp,,arap1274,-θi'ei'itei-,AR:2,,,,,,face in a certain direction,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-80,Cowell & Moss,AC_AM2003,0368,arp,,arap1274,-θo'ohcoo,AR:2,,,,,,pounded dried meat,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+77,Cowell & Moss,AC_AM2003,0359,arp,,arap1274,-xóótei-,AR:2,,,,,,located,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Doesn't seem like a likely medial,,,MAM
+78,Cowell & Moss,AC_AM2003,0352,arp,,arap1274,-xouu'oo-,AR:2,,,,,,smokes,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: Glossed as 'smokes' but note says ""The smoke in question would be from fire, volcanic activity, hot springs, or some similar source. There is an unrelated word (hîiicoo) for human use of tobacco, pipes, etc.",,,MAM
+79,Cowell & Moss,AC_AM2003,0359,arp,,arap1274,-θi'ei'itei-,AR:2,,,,,,face in a certain direction,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+80,Cowell & Moss,AC_AM2003,0368,arp,,arap1274,-θo'ohcoo,AR:2,,,,,,pounded dried meat,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 81,Cowell & Moss,AC_AM2008,"0173,0175,0208,0209",arp,,arap1274,beet-,AR:1,,/beet/,,,,finish,,initial,,,,,,,,,,beeɜ-,,/béet-/,,,,,/beetoxoh'-/,V,TA,to burn up,,AC_AM2008;0173,,,/beetoxoh'-/,V,TI,to burn up,,AC_AM2008;0173,,,/beeɜiii-/,V,AI,break camp,,AC_AM2008;0175
-82,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,beniis-,AR:2,,,,,,hairy/fuzzy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-83,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,beniix-,AR:2,,,,,,bald/bare,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+82,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,beniis-,AR:2,,,,,,hairy/fuzzy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+83,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,beniix-,AR:2,,,,,,bald/bare,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 84,Cowell & Moss,AC_AM2008,"0015,0175",arp,,arap1274,biis-,AR:1,,/biix/,,,,"hairy, furry",,initial,,,,,,,,,,,,,,,,,/biisinouhu-/,V,AI,to wear fur,,AC_AM2008;0175
 85,Cowell & Moss,AC_AM2008,0015,arp,,arap1274,bis-,AR:1,,,,,,all,,initial
-86,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,bonoh'ooo-,AR:2,,,,,,thunder,,initial,,,,,,,,,,bonoh'óoon-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-87,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,bóó'-,AR:2,,,,,,red,,initial,,,,,,,,,,boo'-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-88,Cowell & Moss,AC_AM2003,0352,arp,,arap1274,ceniiθ-,AR:2,,,,,,enter/inside,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-89,Cowell & Moss,AC_AM2003,0360,arp,,arap1274,ciit-,AR:2,,,,,,inside,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+86,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,bonoh'ooo-,AR:2,,,,,,thunder,,initial,,,,,,,,,,bonoh'óoon-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+87,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,bóó'-,AR:2,,,,,,red,,initial,,,,,,,,,,boo'-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+88,Cowell & Moss,AC_AM2003,0352,arp,,arap1274,ceniiθ-,AR:2,,,,,,enter/inside,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+89,Cowell & Moss,AC_AM2003,0360,arp,,arap1274,ciit-,AR:2,,,,,,inside,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 90,Cowell & Moss,AC_AM2008,0100,arp,,arap1274,ecex-,AR:1,,,,,,little,,initial
 91,Cowell & Moss,AC_AM2008,"0018,0144,0174,0177",arp,,arap1274,éet,AR:1,,/eet/,,,,push,,initial,,,,,,,,,,,,,,,,,/eeto'on-/,V,TA,to push or prod s.o.,,AC_AM2008;0144,,,/eeɜikuuɜ-/,V,TA,to push violently,,AC_AM2008;0174,/eeɜikuutii-/,V,AI+O,to push violently,,,,AC_AM2008;0174,,,/eet-o'on/,V,TA,to prod s.o. along
 92,Cowell & Moss,AC_AM2008,0297,arp,,arap1274,he'ii-,AR:1,,,,,,some...; I wonder...,,initial
-93,Cowell & Moss,AC_AM2003,"0352,0367",arp,,arap1274,heebeθ-,AR:2,,,,,,big,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: the second part of this form appears to be a full N, implying this part is a prenoun? Not sure.",,MAM
-94,Cowell & Moss,AC_AM2003,0352,arp,,arap1274,heeseise-,AR:2,,,,,,windy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-95,Cowell & Moss,AC_AM2003,0352,arp,,arap1274,heey-,AR:2,,,,,,"long, tall",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+93,Cowell & Moss,AC_AM2003,"0352,0367",arp,,arap1274,heebeθ-,AR:2,,,,,,big,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: the second part of this form appears to be a full N, implying this part is a prenoun? Not sure.",,,MAM
+94,Cowell & Moss,AC_AM2003,0352,arp,,arap1274,heeseise-,AR:2,,,,,,windy,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+95,Cowell & Moss,AC_AM2003,0352,arp,,arap1274,heey-,AR:2,,,,,,"long, tall",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 96,Cowell & Moss,AC_AM2008,0123,arp,,arap1274,hiinóó'ei-,AR:1,,/iinoo'ei-/,,,,to hunt,,initial,,,,,,,,,,,,,,,hiinóó'eixoh-,,/iinoo'ei-xoh-/,V,TA,to take s.o. hunting,,AC_AM2008;0123
 97,Cowell & Moss,AC_AM2008,0208,arp,,arap1274,hiix-,AR:1,,,,,,"already, perfective",,initial,,,,,,,,,,hiis-
-98,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,honouut-,AR:2,,,,,,hang,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Might be a stem - ?,,MAM
+98,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,honouut-,AR:2,,,,,,hang,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Might be a stem - ?,,,MAM
 99,Cowell & Moss,AC_AM2008,0123,arp,,arap1274,hoowkóóhu-,AR:1,,/oow-i-koohu-/,,,,"to run downward, downhill",,initial
-100,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,konook-,AR:2,,,,,,thick,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-101,Cowell & Moss,AC_AM2003,0359,arp,,arap1274,neeneb-,AR:2,,,,,,north,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-102,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,neet-,AR:2,,,,,,dead,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-103,Cowell & Moss,AC_AM2003,0359,arp,,arap1274,neneehiiθei'-,AR:2,,,,,,middle,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-104,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,nenees-,AR:2,,,,,,three,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-105,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,neniis-,AR:2,,,,,,two,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-106,Cowell & Moss,AC_AM2003,0359,arp,,arap1274,nenon-,AR:2,,,,,,north,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-107,Cowell & Moss,AC_AM2003,0369,arp,,arap1274,nihoon-,AR:2,,,,,,yellow,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-108,Cowell & Moss,AC_AM2003,0371,arp,,arap1274,niih'ei-,AR:2,,,,,,all directions,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-109,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,niinenii-,AR:2,,,,,,"tallow, animal fat",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+100,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,konook-,AR:2,,,,,,thick,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+101,Cowell & Moss,AC_AM2003,0359,arp,,arap1274,neeneb-,AR:2,,,,,,north,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+102,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,neet-,AR:2,,,,,,dead,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+103,Cowell & Moss,AC_AM2003,0359,arp,,arap1274,neneehiiθei'-,AR:2,,,,,,middle,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+104,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,nenees-,AR:2,,,,,,three,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+105,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,neniis-,AR:2,,,,,,two,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+106,Cowell & Moss,AC_AM2003,0359,arp,,arap1274,nenon-,AR:2,,,,,,north,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+107,Cowell & Moss,AC_AM2003,0369,arp,,arap1274,nihoon-,AR:2,,,,,,yellow,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+108,Cowell & Moss,AC_AM2003,0371,arp,,arap1274,niih'ei-,AR:2,,,,,,all directions,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+109,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,niinenii-,AR:2,,,,,,"tallow, animal fat",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 110,Cowell & Moss,AC_AM2008,0123,arp,,arap1274,nó'xoh-,AR:1,,/no'-i-xoh-/,,,,to bring s.o. [to a given reference point],,initial
 111,Cowell & Moss,AC_AM2008,0123,arp,,arap1274,nókohu-,AR:1,,/nokohu-/,,,,to sleep,,initial,,,,,,,,,,,,,,,nókohukóóhu-,,/nokohu-koohu-/,V,AI,to take a nap,,AC_AM2008;0123
-112,Cowell & Moss,AC_AM2003,0361,arp,,arap1274,nouu-,AR:2,,,,,,outside,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+112,Cowell & Moss,AC_AM2003,0361,arp,,arap1274,nouu-,AR:2,,,,,,outside,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 113,Cowell & Moss,AC_AM2008,"0145,0146,0157,0172",arp,,arap1274,óh,AR:1,,/oh/,,,,by tool,,final,TI,,,,,,,,,,,,,,,,/sébey-oh-/,V,TI,to aim at s.t.,,AC_AM2008;0145,,,/cihi'-óh-/,V,TI,to chop s.t.,,AC_AM2008;0145,,,/neniiw-óh-/,V,TI,to hold s.t. in the mouth,,AC_AM2008;0146,,,/towoh-/,V,TI,"to cut off, remove",,AC_AM2008;0157
-114,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,teiitoon-,AR:2,,,,,,"calm, still",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: the second part of this form appears to be a full N, implying this part is a prenoun? Not sure.",,MAM
-115,Cowell & Moss,AC_AM2003,0365,arp,,arap1274,tóókoox-,AR:2,,,,,,across,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-116,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,θee-θi'-,AR:2,,,,,,protrude/erect,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-117,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,θooxonee'-,AR:2,,,,,,stone hammer,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: unclear whether this is a word or component,,MAM
+114,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,teiitoon-,AR:2,,,,,,"calm, still",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: the second part of this form appears to be a full N, implying this part is a prenoun? Not sure.",,,MAM
+115,Cowell & Moss,AC_AM2003,0365,arp,,arap1274,tóókoox-,AR:2,,,,,,across,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+116,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,θee-θi'-,AR:2,,,,,,protrude/erect,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+117,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,θooxonee'-,AR:2,,,,,,stone hammer,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: unclear whether this is a word or component,,,MAM
 118,Cowell & Moss,AC_AM2008,"0123,0149,0150,0151",arp,,arap1274,,AR:1,,/-:ton/,,,,applicative,,final,TA,,ABSTR,Y,,,,,,,,,,,hóówukoohúúton-,,/oowukoohu-:ton-/,V,TA,to run downward/downhill to s.o.,,AC_AM2008;0123
 119,Cowell & Moss,AC_AM2008,0173,arp,,arap1274,,AR:1,,/-'/,,,,foot,,final,TI,,CONCR,,,,,/-'on/,,,,,,,,,/seyou'-/,V,TI,to crush by foot,,AC_AM2008;0173,,,/ceibeɜei'-/,V,TI,to push aside by foot,,AC_AM2008;0173
 120,Cowell & Moss,AC_AM2008,0173,arp,,arap1274,,AR:1,,/-'on/,,,,foot,,final,TA,,CONCR,,,,,,/-'/,,,,,,,,/seyou'on-/,V,TA,to crush by foot,,AC_AM2008;0173,,,/ceibeɜei'on-/,V,TA,to push aside by foot,,AC_AM2008;0173
@@ -167,7 +167,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 161,Cowell & Moss,AC_AM2008,0173,arp,,arap1274,,AR:1,,/-eenew/,,,,mental action,,final,TA,,CONCR,,,,,,/-eeneet/,,,,,,,,/ni'eenew-/,V,TA,to like,,AC_AM2008;0173,,,/bobooteenew-/,V,TA,to respect,,AC_AM2008;0173
 162,Cowell & Moss,AC_AM2008,"0178,0182",arp,,arap1274,,AR:1,,/-eese/,,,,"wind, wind action",,final,II,,CONCR,,,/-eeesi/
 163,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-eesin-/,,,,testicle,,medial,,,,,,,,,,,,,,,,,/beebeeɜeesinee-/,V,AI,have big testicles,,AC_AM2008;0170
-164,Cowell & Moss,AC_AM2008,"0178,0187",arp,,arap1274,,AR:1,,/-e3-/,,,,"fire, heat, flame",,medial,CLASS,,,,,,,,,,,,,,,,/cee-ce'ex-eɜ-oo'oo-/,V,II,to be sparkling or flashing with various colors,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [R:Crow Chief]
+195,Cowell & Moss,AC_AM2008,"0178,0187",arp,,arap1274,,AR:1,,/-e3-/,,,,"fire, heat, flame",,medial,CLASS,,,,,,,,,,,,,,,,/cee-ce'ex-eɜ-oo'oo-/,V,II,to be sparkling or flashing with various colors,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [R:Crow Chief]
 165,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-e3ee/,,,,"fire, heat",,final,AI,,CONCR,,,,/-etee/
 166,Cowell & Moss,AC_AM2008,0173,arp,,arap1274,,AR:1,,/-e3ei'oh/,,,,collision,,final,TI,,CONCR,,,,,/-eɜeih/,,,,,,,,,/ceneɜei'oh-/,V,TI,to knock down,,AC_AM2008;0173,,,/oneɜei'oh-/,V,TI,to knock over,,AC_AM2008;0173
 167,Cowell & Moss,AC_AM2008,"0173,0203",arp,,arap1274,,AR:1,,/-e3eih/,,,,collision,,final,TA,,CONCR,,,,,,/-eɜei'oh/,,,,,,,,/ceneɜeih-/,V,TA,to knock down,,AC_AM2008;0173,,,/oneɜeih-/,V,TA,to knock over,,AC_AM2008;0173
@@ -233,7 +233,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 224,Cowell & Moss,AC_AM2008,0104,arp,,arap1274,,AR:1,,/-íbin/,,,,berry,,final,N
 225,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ic-/,,,,"wood, timber",,medial,CLASS
 226,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-icoo/,,,,"wood, timber",,final,II,,CONCR
-227,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-i3-/,,,,"fire, heat",,medial,CLASS
+195,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-i3-/,,,,"fire, heat",,medial,CLASS
 228,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-i3in-/,,,,navel cord,,medial,,,,,,,,,,,,,,,,,/koxuɜinee-/,V,AI,to lose one's navel cord,,AC_AM2008;0170
 229,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-ih-/,,,,vagina,,medial,,,,,,,,,,,,,,,,,/beesihee-/,V,AI,have a big vagina,,AC_AM2008;0170
 230,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/-ih'ebi/,,,,drinking,,final,AI,,CONCR,,,,,/-ih'ebiiton/,/-ih'ebiit/,,,,,,,,/nonisih'ebi-/,V,AI,to get drunk,,AC_AM2008;0175,,,/nisicih'ehi-/,V,AI,to drink soda pop,,AC_AM2008;0175,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem B is spelled ""nisicih'ehi-"" on p. 175"
@@ -267,8 +267,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 258,Cowell & Moss,AC_AM2008,0173,arp,,arap1274,,AR:1,,/-iitoonen/,,,,"manual action, grasp, hold",,final,TA,,CONCR,,,,,,/-iitoon/,,,,,,,,/eciitoonen-/,V,TA,to strangle,,AC_AM2008;0173
 259,Cowell & Moss,AC_AM2008,0186,arp,,arap1274,,AR:1,,/-ise-/,,,,"go, fall",,final,II,,,,,,,,,,,,,,,,/wotein-ixono-ise-/,V,II,bones clatter to the ground,,AC_AM2008;0186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [R:Strong Bear and the Ghost]
 260,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-isono-/,,,,neck,,medial,,,,,,,,,,,,,,,,,/enisono-/,V,AI,have a long neck,,AC_AM2008;0170
-261,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-it-/,,,,"fire, heat",,medial,CLASS
-262,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ix-/,,,,"wood, timber",,medial,CLASS
+195,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-it-/,,,,"fire, heat",,medial,CLASS
+201,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ix-/,,,,"wood, timber",,medial,CLASS
 263,Cowell & Moss,AC_AM2008,0186,arp,,arap1274,,AR:1,,/-ixono-/,,,,bone,,medial,INCORP,,,,,,,,,,,,,,,,/wotein-ixono-ise-/,V,II,bones clatter to the ground,,AC_AM2008;0186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [R:Strong Bear and the Ghost]
 264,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ixoo/,,,,"wood, timber",,final,II,,CONCR
 265,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-iy-/,,,,penis,,medial,,,,,,,,,,,,,,,,,/bisiyei-/,V,AI,have one's penis exposed,,AC_AM2008;0170
@@ -495,8 +495,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 474,Cowell & Moss,AC_AM2008,"0126,0127",arp,,arap1274,,AR:1,,/:noo/,,,,stative,,final,II,,,B,AI
 475,Cowell & Moss,AC_AM2008,"0149,0150,0151,0161",arp,,arap1274,,AR:1,,/:t/,,,,applicative,,final,TA,,,Y
 476,Cowell & Moss,AC_AM2008,"0148,0149,0151,0370",arp,,arap1274,,AR:1,,/:w/,,,,joint transitive action,,final,TA,,,Y,AI
-477,Cowell & Moss,AC_AM2008,"0147,0151,0156",arp,,arap1274,,AR:1,,/(')enih/,,,,NG,,final,TA,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paul Moss
-478,Cowell & Moss,AC_AM2008,0147,arp,,arap1274,,AR:1,,/(')enih/,,,,NG,,final,AI,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paul Moss
+477,Cowell & Moss,AC_AM2008,"0147,0151,0156",arp,,arap1274,,AR:1,,/(')enih/,,,,NG,,final,TA,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paul Moss
+478,Cowell & Moss,AC_AM2008,0147,arp,,arap1274,,AR:1,,/(')enih/,,,,NG,,final,AI,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paul Moss
 479,Cowell & Moss,AC_AM2008,"0134,0144,0145,0157",arp,,arap1274,,AR:1,,/(e)n/,,,,by hand,,final,TI,,,N,,,,,,,,,,,,,/ciin-én-/,V,TI,"to put s.t. down, to lower",,AC_AM2008;0137,,,/se'-én-/,V,TI,to flatten s.t. ,,AC_AM2008;0145,,,/bii'ín-/,V,TI,to find s.t.,,AC_AM2008;0145,,,/cesín-/,V,TI,to drop s.t.,,AC_AM2008;0145
 480,Cowell & Moss,AC_AM2008,"0144,0145,0157,0173",arp,,arap1274,,AR:1,,/(e)n/,,,,by hand,,final,TA,,,N,,,,,,,,,,,,,/cíín-en-/,V,TA,"to put s.t. (AN) down, to lower",,AC_AM2008;0145,,,/sé'-en-/,V,TA,to flatten s.t. (AN),,AC_AM2008;0145,,,/césin-/,V,TA,to drop s.o.,,AC_AM2008;0145,,,/séyoun-/,V,TA,to crush s.t. (AN),,AC_AM2008;0145
 481,Cowell & Moss,AC_AM2008,0361,arp,,arap1274,,AR:1,,/(e)n/,,,,NG,,final,TI
@@ -873,7 +873,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 826,Cowell & Moss,AC_AM2008,"0175,0176,0179,0188",arp,,arap1274,,AR:1,,/no'ot/,,,,a lot,,initial,,,,,,,,,,,,,,,,,/no'oɜikobee-/,V,AI,to act tough,,AC_AM2008;0175,,,/no'ototee-/,V,AI,to eat a lot,,AC_AM2008;0176,,,/no'oteinooni-/,V,II,to be very noisy,,AC_AM2008;0176,,,/no'ot-eeci-/,V,II,to snow a lot,,AC_AM2008;0188
 827,Cowell & Moss,AC_AM2008,"0174,0347",arp,,arap1274,,AR:1,,/nohk/,,,,with,,initial,,,,,,,,,,,,,,,,,/nohkouh'-/,V,TA,to allow s.o. to join an activity,,AC_AM2008;0174
 828,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/noho'-/,,,,"upward, usually with surface contact",,initial
-828,Cowell & Moss,AC_AM2003,0371,arp,,arap1274,,AR:2,,/noho'/,,,,up,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+828,Cowell & Moss,AC_AM2003,0371,arp,,arap1274,,AR:2,,/noho'/,,,,up,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 828,Cowell & Moss,AC_AM2008,"0175,0179",arp,,arap1274,,AR:1,,/noho'/,,,,upward,,initial,,,,,,,,,,,,,,,,,/noho'ouuhu-/,V,AI,to climb up,,AC_AM2008;0175
 829,Cowell & Moss,AC_AM2008,0218,arp,,arap1274,,AR:1,,/nohohoon-/,,,,soon,,initial
 830,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/nokow-/,,,,"down at bottom, reference point at bottom",,initial

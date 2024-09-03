@@ -1,11 +1,11 @@
-Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
+Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
 1,Valentine,RV2002,0088,ciw,,chip1241,-aaso,OJ:3,,,,,,NG,,final,AI
 2,Valentine,RV2002,0108,ciw,,chip1241,-adengw-,OJ:3,,,,,,face,,medial
 3,Valentine,RV2002,0107,ciw,,chip1241,-akokw-,OJ:3,,,,,,pail,,medial,INCORP
 4,Valentine,RV2002,0087,ciw,,chip1241,-azh-,OJ:3,,,,,,skin,,medial
 5,Valentine,RV2002,0087,ciw,,chip1241,-azhag-,OJ:3,,,,,,skin,,medial
 6,Valentine,RV2002,0088,ciw,,chip1241,-iingw-,OJ:3,,,,,,face,,medial
-7,Costa,DJC2013,0221,ciw,,chip1241,-kana,OJ:4,,,,,,path,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+7,Costa,DJC2013,0221,ciw,,chip1241,-kana,OJ:4,,,,,,path,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 8,Valentine,RV2002,0088,ciw,,chip1241,-kw-,OJ:3,,,,,,NG,,medial
 9,Valentine,RV2002,0088,ciw,,chip1241,-kw-e-,OJ:3,,,,,,NG,,medial
 10,Valentine,RV2002,0087,ciw,,chip1241,-ndib-,OJ:3,,,,,,head,,medial
@@ -60,7 +60,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 59,Denny,JPD1978a,0318,ciw,,chip1241,mino,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'good'
 60,Valentine,RV2002,0112,ciw,,chip1241,miskw-,OJ:3,,,,,,red,,initial
 61,Denny,JPD1978a,0315,ciw,,chip1241,nāninkittāw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'several directions'?
-62,Goddard,IG1980,0145,ciw,,chip1241,nassaw-,OJ:1,,,,*θaʔθaw-,*θaʔθaw-,fork(ed),,initial,,,,,,,,,,,,,,,,,,,,,,,,,"just given as ""Ojibwe""; asked IG; he said SW",,MAM
+62,Goddard,IG1980,0145,ciw,,chip1241,nassaw-,OJ:1,,,,*θaʔθaw-,*θaʔθaw-,fork(ed),,initial,,,,,,,,,,,,,,,,,,,,,,,,,"just given as ""Ojibwe""; asked IG; he said SW",,,MAM
 63,Denny,JPD1978a,0316,ciw,,chip1241,nāw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'middle'
 64,Denny,JPD1978a,0310,ciw,,chip1241,nīš,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'two'
 65,Denny,JPD1978a,0317,ciw,,chip1241,nisi,OJ:5,,,,,,NG,,final,unknown
