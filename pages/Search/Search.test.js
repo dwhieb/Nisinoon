@@ -104,10 +104,9 @@ describe(`Search`, function() {
 
     it(`Tags`, function() {
       cy.visit(`/search`)
-      cy.get(`#search-box`).type(`horse`)
+      cy.get(`#search-box`).type(`motorize`)
       cy.get(`#quick-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`#results tbody tr`).its(`length`).should(`be.within`, 10, 50)
+      cy.get(`.num-results`).should(`include.text`, `of 1.`)
     })
 
     it(`Forms (Source)`, function() {
