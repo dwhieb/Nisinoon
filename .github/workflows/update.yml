@@ -4,6 +4,9 @@ name: update
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * 1'  # Runs every Monday at 9 AM UTC (4 AM CT during standard time, 3 AM CT during daylight saving time).
+
 
 env:
   DRIVE_CREDENTIALS: ${{ secrets.DRIVE_CREDENTIALS }}
