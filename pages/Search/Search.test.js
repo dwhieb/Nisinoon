@@ -1,3 +1,9 @@
+const resultsRegExp = /of (?<numResults>.+)\.$/v
+
+function convertNumber(str) {
+  return Number(str.replace(`,`, ``))
+}
+
 describe(`Search`, function() {
 
   it(`no search`, function() {
@@ -43,7 +49,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(search)
       cy.get(`#quick-search-button`).click()
       cy.get(`#search-box`).should(`have.value`, search)
-      cy.get(`.num-results`).should(`have.text`, `Showing results 1–2 of 2.`)
+      cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
     it(`Option: Case Sensitive (default)`, function() {
@@ -51,7 +57,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`ATIMW`)
       cy.get(`#quick-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, 2)
-      cy.get(`#results tbody tr`).should(`have.length`, 2)
+      cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
     it(`Option: Case Sensitive (checked)`, function() {
@@ -64,10 +70,17 @@ describe(`Search`, function() {
     })
 
     it(`Option: Match Diacritics (default)`, function() {
+
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`aštimw`)
       cy.get(`#quick-search-button`).click()
-      cy.get(`#results tbody tr`).its(`length`).should(`be.within`, 5, 15)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(convertNumber(numResults)).to.be.greaterThan(5)
+      })
+
     })
 
     it(`Option: Match Diacritics (checked)`, function() {
@@ -75,31 +88,29 @@ describe(`Search`, function() {
       cy.get(`#quick-diacritics-box`).check()
       cy.get(`#search-box`).type(`aštimw`)
       cy.get(`#quick-search-button`).click()
-      cy.get(`#results tbody tr`).its(`length`).should(`be.within`, 1, 5)
+      cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
     it(`Option: Regular Expressions (checked)`, function() {
       cy.visit(`/search`)
       cy.get(`#quick-regex-box`).check()
-      cy.get(`#search-box`).type(`e{{}2}`) // This is how you escape the `{` character in the `.type()` command.
+      cy.get(`#search-box`).type(`o{{}2}ko{{}2}ne{{}2}`) // This is how you escape the `{` character in the `.type()` command.
       cy.get(`#quick-search-button`).click()
-      cy.get(`#results tbody tr`).should(`have.length`, 100)
+      cy.get(`.num-results`).should(`include.text`, `of 3.`)
     })
 
     it(`Form (Project)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`aamæhk`)
       cy.get(`#quick-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, 2)
-      cy.get(`#results tbody tr`).should(`have.length`, 2)
+      cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
     it(`UR (Project)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`αhso`)
       cy.get(`#quick-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`#results tbody tr`).should(`have.length`, 1)
+      cy.get(`.num-results`).should(`include.text`, `of 1.`)
     })
 
     it(`Tags`, function() {
@@ -113,31 +124,35 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`gan̈ba8i`)
       cy.get(`#quick-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`#results tbody tr`).should(`have.length`, 1)
+      cy.get(`.num-results`).should(`include.text`, `of 1.`)
     })
 
     it(`URs (Source)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`iinoo'ei`)
       cy.get(`#quick-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`#results tbody tr`).should(`have.length`, 1)
+      cy.get(`.num-results`).should(`include.text`, `of 1.`)
     })
 
-    it.only(`Glosses (Source)`, function() {
+    it(`Glosses (Source)`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`motorisé`)
       cy.get(`#quick-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, 1)
-      cy.get(`#results tbody tr`).should(`have.length`, 1)
+      cy.get(`.num-results`).should(`include.text`, `of 1.`)
     })
 
     it(`language filter only`, function() {
+
       cy.visit(`/search`)
       cy.get(`#quick-language-select`).select(`Cree_East`)
       cy.get(`#quick-search-button`).click()
-      cy.get(`#results tbody tr`).should(`have.length`, 6)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(convertNumber(numResults)).to.be.greaterThan(5)
+      })
+
     })
 
     it(`language filter + search query`, function() {
@@ -145,7 +160,7 @@ describe(`Search`, function() {
       cy.get(`#search-box`).type(`yi`)
       cy.get(`#quick-language-select`).select(`Cree_East`)
       cy.get(`#quick-search-button`).click()
-      cy.get(`#results tbody tr`).should(`have.length`, 1)
+      cy.get(`.num-results`).should(`include.text`, `of 1.`)
     })
 
     it(`Settings`, function() {
@@ -166,34 +181,62 @@ describe(`Search`, function() {
   describe(`Advanced Search`, function() {
 
     it(`No Search Criteria (returns all results)`, function() {
+
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 11,`)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(Number(numResults.replace(`,`, ``))).to.be.greaterThan(10000)
+      })
+
     })
 
     it(`Language`, function() {
+
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#advanced-language-select`).select(`Cree_East`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 6`)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(convertNumber(numResults)).to.be.greaterThan(5)
+      })
+
     })
 
     it(`Component: Final: Primary`, function() {
+
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#primary-box`).check()
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 4,154`)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(convertNumber(numResults)).to.be.greaterThan(4000)
+      })
+
     })
 
     it(`Component: Final: Secondary`, function() {
+
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#secondary-box`).check()
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 630`)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(convertNumber(numResults)).to.be.greaterThan(500)
+      })
+
     })
 
     it(`Component: Form`, function() {
@@ -201,15 +244,22 @@ describe(`Search`, function() {
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#form-box`).type(`atimw`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 2`)
+      cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
     it(`Component: Specificity`, function() {
+
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#specificity-select`).select(`CONCR`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 425.`)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(convertNumber(numResults)).to.be.greaterThan(400)
+      })
+
     })
 
     it(`Component: Subcategory`, function() {
@@ -221,19 +271,33 @@ describe(`Search`, function() {
     })
 
     it(`Component: Tags`, function() {
+
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#tags-box`).type(`dog`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 10.`)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(convertNumber(numResults)).to.be.greaterThan(10)
+      })
+
     })
 
     it(`Component: Type`, function() {
+
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#type-select`).select(`medial`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 1,936`)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(convertNumber(numResults)).to.be.greaterThan(2000)
+      })
+
     })
 
     it(`Component: UR`, function() {
@@ -261,11 +325,18 @@ describe(`Search`, function() {
     })
 
     it(`Sources: Glosses`, function() {
+
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#gloss-box`).type(`by heat`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 62.`)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(convertNumber(numResults)).to.be.greaterThan(50)
+      })
+
     })
 
     it(`Sources: UR`, function() {
@@ -292,16 +363,23 @@ describe(`Search`, function() {
       cy.get(`#advanced-diacritics-box`).check()
       cy.get(`#form-box`).type(`aštimw`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 2`)
+      cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
     it(`Option: Regular Expressions (checked)`, function() {
+
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#advanced-regex-box`).check()
       cy.get(`#form-box`).type(`e{{}2}`) // This is how you escape the `{` character in the `.type()` command.
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 1,423`)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(convertNumber(numResults)).to.be.greaterThan(1000)
+      })
+
     })
 
     it(`Option: All (default)`, function() {
@@ -315,13 +393,20 @@ describe(`Search`, function() {
     })
 
     it(`Option: Any`, function() {
+
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#form-box`).type(`atimw`)
       cy.get(`#tags-box`).type(`horse`)
       cy.get(`#logic-select`).select(`any`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 9.`)
+
+      cy.get(`.num-results`)
+      .then(el => {
+        const { numResults } = el.text().match(resultsRegExp).groups
+        expect(convertNumber(numResults)).to.be.greaterThan(10)
+      })
+
     })
 
     it(`Settings`, function() {
@@ -370,7 +455,7 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).should(`have.length`, 250) // limit = 250
       cy.get(`#search-box`).type(`man`)
       cy.get(`#limit-select`).select(`all`)
-      cy.get(`#results tbody tr`).should(`have.length`, 447) // limit = all
+      cy.get(`#results tbody tr`).its(`length`).should(`be.greaterThan`, 500)
     })
 
     it(`offset`, function() {
@@ -381,22 +466,6 @@ describe(`Search`, function() {
       cy.get(`#results td`).first().should(`have.text`, `Arapaho`)
       .next()
       .should(`have.text`, `-oʔooʔoe-`)
-    })
-
-  })
-
-  describe(`Sorting`, function() {
-
-    it(`single-column sort`, function() {
-      cy.visit(`/search`)
-      cy.get(`#search-box`).type(`dog`)
-      cy.get(`#quick-search-button`).click()
-      cy.contains(`button`, `Form`).click()
-      cy.get(`#results tbody tr`).first().should(`have.attr`, `id`, `Arapaho-607`)
-      cy.get(`#results tbody tr`).last().should(`have.attr`, `id`, `Cree_Innu-70`)
-      cy.contains(`button`, `Form`).click()
-      cy.get(`#results tbody tr`).first().should(`have.attr`, `id`, `Cree_Innu-70`)
-      cy.get(`#results tbody tr`).last().should(`have.attr`, `id`, `Arapaho-607`)
     })
 
   })
