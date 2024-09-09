@@ -1,16 +1,16 @@
 ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
-1,Valentine 2002,RV2002,0112,ojs,,seve1240,-aanikw-,OJ:3,,,,,,hair,hair,medial
-2,Valentine 2002,RV2002,0112,ojs,,seve1240,-god-,OJ:3,,,,,,nose,nose,medial
-3,Valentine 2002,RV2002,0091,ojs,,seve1240,-jaab-,OJ:3,,,,,,eye,eye,medial
 4,Valentine 2002,RV2002,0116,ojs,,seve1240,-ngwaami,OJ:3,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,likely 'snore'
 5,Wolfart & Shrofel,HCW_SMS1977,0165,ojs,,seve1240,-ns,OJ:2,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,"""in lieu of nʔ""; cites Todd 1970"
 6,Wolfart & Shrofel,HCW_SMS1977,0165,ojs,,seve1240,-nš,OJ:2,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,"""in lieu of ny""; cites Todd 1970"
-7,Valentine 2002,RV2002,0112,ojs,,seve1240,-shtigwaan-,OJ:3,,,,,,head,head,medial
-8,Valentine 2002,RV2002,0089,ojs,,seve1240,agaas-,OJ:3,,,,,,short,short,initial
-9,Valentine 2002,RV2002,0105,ojs,,seve1240,aniibiiw-,OJ:3,,,,,,green,green,initial
-10,Valentine 2002,RV2002,0102,ojs,,seve1240,bayek-,OJ:3,,,,,,clean,clean,initial
-11,Valentine 2002,RV2002,0104,ojs,,seve1240,daashk-,OJ:3,,,,,,cut,cut,initial,,,,,,,,,,,,,,,,,,,,,,,,,"as is 'cut one's knee'. Usually means split, but Severn Ojibwe uses this initial for injury of body parts (where other dialects use giishk-)"
-12,Valentine 2002,RV2002,0103,ojs,"Kasabonika, Ontario; Wapekeka, Ontario",seve1240,ditibaanawe-,OJ:3,,,,,,curly,curly,initial
-14,Valentine 2002,RV2002,0102,ojs,,seve1240,ginag-,OJ:3,,,,,,itchy,itchy,initial
 15,Valentine 2002,RV2002,0091,ojs,,seve1240,ozhaawashkw-,OJ:3,,,,,,"blue, green","blue, green",initial
+10,Valentine 2002,RV2002,0102,ojs,,seve1240,bayek-,OJ:3,,,,,,clean,clean,initial
+12,Valentine 2002,RV2002,0103,ojs,"Kasabonika, Ontario; Wapekeka, Ontario",seve1240,ditibaanawe-,OJ:3,,,,,,curly,curly,initial
+11,Valentine 2002,RV2002,0104,ojs,,seve1240,daashk-,OJ:3,,,,,,cut,cut,initial,,,,,,,,,,,,,,,,,,,,,,,,,"as is 'cut one's knee'. Usually means split, but Severn Ojibwe uses this initial for injury of body parts (where other dialects use giishk-)"
+3,Valentine 2002,RV2002,0091,ojs,,seve1240,-jaab-,OJ:3,,,,,,eye,eye,medial
+9,Valentine 2002,RV2002,0105,ojs,,seve1240,aniibiiw-,OJ:3,,,,,,green,green,initial
+1,Valentine 2002,RV2002,0112,ojs,,seve1240,-aanikw-,OJ:3,,,,,,hair,hair,medial
+7,Valentine 2002,RV2002,0112,ojs,,seve1240,-shtigwaan-,OJ:3,,,,,,head,head,medial
+14,Valentine 2002,RV2002,0102,ojs,,seve1240,ginag-,OJ:3,,,,,,itchy,itchy,initial
+2,Valentine 2002,RV2002,0112,ojs,,seve1240,-god-,OJ:3,,,,,,nose,nose,medial
+8,Valentine 2002,RV2002,0089,ojs,,seve1240,agaas-,OJ:3,,,,,,short,short,initial
 16,Valentine 2002,RV2002,0106,ojs,,seve1240,zhoow-,OJ:3,,,,,,smile,smile,initial

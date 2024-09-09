@@ -1,28 +1,28 @@
 ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
 1,Valentine,RV2002,0091,---,,---,-aagam-,OJ:3,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,"classifier medial often seen in stems dealing with liquids, or the irises of eyes"
-2,Valentine,RV2002,0095,---,,---,-aagonag-,OJ:3,,,,,,snow,snow,medial,,,,,,,,,,,,,,,,,,,,,,,,,geographical medial (or perfinal')
-3,Valentine,RV2002,0103,---,,---,-aanikw-,OJ:3,,,,,,hair,hair,medial
 4,Valentine,RV2002,0087,---,,---,-ag-,OJ:3,,,,,,NG,,postmedial,,,,,,,,,,,,,,,,,,,,,,,,,historically used to derive medials
-5,Valentine,RV2002,0087,---,,---,-azh-e-,OJ:3,,,,,,skin,skin,medial
-8,Valentine,RV2002,0099,---,,---,-diy-,OJ:3,,,,,,rear,rear (N),medial
-9,Valentine,RV2002,0092,---,,---,-eg-,OJ:3,,,,,,sheetlike,"sheetlike, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,classifier medial
-10,Valentine,RV2002,0092,---,,---,-isag-,OJ:3,,,,,,wood(en),"wood(en), CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,classifier medial
-11,Valentine,RV2002,0087,---,,---,-jaab-,OJ:3,,,,,,eye,eye,medial
 12,Valentine,RV2002,0116,---,,---,-ngwaami,OJ:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,likely 'snore'
-13,Valentine,RV2002,0092,---,,---,-zid-,OJ:3,,,,,,foot,foot,medial
-14,Valentine,RV2002,0097,---,,---,asiniiw-,OJ:3,,,,,,stone,stone,initial
-15,Valentine,RV2002,0101,---,,---,bek-,OJ:3,,,,,,clean,clean,initial
-16,Valentine,RV2002,0099,---,,---,daw-,OJ:3,,,,,,lacking,lacking,initial
-17,Valentine,RV2002,0113,---,,---,gagiib-,OJ:3,,,,,,be closed up,closed up,initial,,Y
-18,Valentine,RV2002,0099,---,,---,giishk-,OJ:3,,,,,,severed cleanly,severed (cleanly),initial
-19,Valentine,RV2002,0102,---,,---,ginag-,OJ:3,,,,,,itchy,itchy,initial
-20,Valentine,RV2002,0103,---,,---,mimig-,OJ:3,,,,,,curly,curly,initial
-21,Valentine,RV2002,0087,---,,---,minw-,OJ:3,,,,,,good,good,initial
-22,Valentine,RV2002,0087,---,,---,miskw-,OJ:3,,,,,,red,red,initial
-23,Valentine,RV2002,0097,---,,---,mitigw-,OJ:3,,,,,,"wood, stick","stick, wood",initial
-24,Valentine,RV2002,0091,---,,---,ozhaawashkw-,OJ:3,,,,,,"blue, green","blue, green",initial
-25,Valentine,RV2002,0087,---,,---,oziig-,OJ:3,,,,,,wrinkled,wrinkled,initial
-26,Valentine,RV2002,0087,---,,---,waab-,OJ:3,,,,,,"white, light","light, white",initial
 27,Valentine,RV2002,0087,---,,---,wawiziigazhe-,OJ:3,,,,,,NG,,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,derived initial
-28,Valentine,RV2002,0092,---,,---,zhegw-,OJ:3,,,,,,under,under,initial
+24,Valentine,RV2002,0091,---,,---,ozhaawashkw-,OJ:3,,,,,,"blue, green","blue, green",initial
+15,Valentine,RV2002,0101,---,,---,bek-,OJ:3,,,,,,clean,clean,initial
+17,Valentine,RV2002,0113,---,,---,gagiib-,OJ:3,,,,,,be closed up,closed up,initial,,Y
+20,Valentine,RV2002,0103,---,,---,mimig-,OJ:3,,,,,,curly,curly,initial
+11,Valentine,RV2002,0087,---,,---,-jaab-,OJ:3,,,,,,eye,eye,medial
+13,Valentine,RV2002,0092,---,,---,-zid-,OJ:3,,,,,,foot,foot,medial
+21,Valentine,RV2002,0087,---,,---,minw-,OJ:3,,,,,,good,good,initial
+3,Valentine,RV2002,0103,---,,---,-aanikw-,OJ:3,,,,,,hair,hair,medial
+19,Valentine,RV2002,0102,---,,---,ginag-,OJ:3,,,,,,itchy,itchy,initial
+16,Valentine,RV2002,0099,---,,---,daw-,OJ:3,,,,,,lacking,lacking,initial
+26,Valentine,RV2002,0087,---,,---,waab-,OJ:3,,,,,,"white, light","light, white",initial
+8,Valentine,RV2002,0099,---,,---,-diy-,OJ:3,,,,,,rear,rear (N),medial
+22,Valentine,RV2002,0087,---,,---,miskw-,OJ:3,,,,,,red,red,initial
+18,Valentine,RV2002,0099,---,,---,giishk-,OJ:3,,,,,,severed cleanly,severed (cleanly),initial
+9,Valentine,RV2002,0092,---,,---,-eg-,OJ:3,,,,,,sheetlike,"sheetlike, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,classifier medial
+5,Valentine,RV2002,0087,---,,---,-azh-e-,OJ:3,,,,,,skin,skin,medial
 29,Valentine,RV2002,0106,---,,---,zhoow-,OJ:3,,,,,,smile,smile,initial
+2,Valentine,RV2002,0095,---,,---,-aagonag-,OJ:3,,,,,,snow,snow,medial,,,,,,,,,,,,,,,,,,,,,,,,,geographical medial (or perfinal')
+23,Valentine,RV2002,0097,---,,---,mitigw-,OJ:3,,,,,,"wood, stick","stick, wood",initial
+14,Valentine,RV2002,0097,---,,---,asiniiw-,OJ:3,,,,,,stone,stone,initial
+28,Valentine,RV2002,0092,---,,---,zhegw-,OJ:3,,,,,,under,under,initial
+10,Valentine,RV2002,0092,---,,---,-isag-,OJ:3,,,,,,wood(en),"wood(en), CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,classifier medial
+25,Valentine,RV2002,0087,---,,---,oziig-,OJ:3,,,,,,wrinkled,wrinkled,initial
