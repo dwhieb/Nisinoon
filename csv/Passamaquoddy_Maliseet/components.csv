@@ -1,114 +1,114 @@
-ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Allomorph-B,Condition-B,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Formative/component occurs in what component(s)-A,Formative/component occurs in what component(s)-B,Formative/component occurs in what component(s)-C,Formative/component occurs in what component(s)-D,Contains component (enter)-A,Contains component (enter)-B,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
-1,Teeter,KT1971,0240,pqm,,male1292,-(i)w,P-M:1,,,,,,attributive,,final,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: I think it's an II final, but not sure.",,MAM
+ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Allomorph-B,Condition-B,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Formative/component occurs in what component(s)-A,Formative/component occurs in what component(s)-B,Formative/component occurs in what component(s)-C,Formative/component occurs in what component(s)-D,Contains component (enter)-A,Contains component (enter)-B,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
+1,Teeter,KT1971,0240,pqm,,male1292,-(i)w,P-M:1,,,,,,attributive,ATTRIBUTIVE,final,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: I think it's an II final, but not sure.",,,MAM
 2,LeSourd,PL1995,0109,pqm,Passamaquoddy,pass1249,-ah-s-,P-M:3,,/-ah-hs-/,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: P. 110 ""complex final"""
-3,Teeter,KT1971,0241,pqm,,male1292,-ahak,P-M:1,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: The actual definition given is '?',,MAM
-4,Teeter,KT1971,0230,pqm,,male1292,-ahkw,P-M:1,,,,,,metal,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-5,Teeter,KT1971,0222,pqm,,male1292,-ahkw-,P-M:1,,,,,,"tree, long stiff object, metal",,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-6,Teeter,KT1971,0229,pqm,,male1292,-aksən,P-M:1,,,,,,shoe,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-7,Teeter,KT1971,0242,pqm,,male1292,-aləka,P-M:1,,,,,,hole,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-8,Teeter,KT1971,0222,pqm,,male1292,-aləkikw-,P-M:1,,,,,,eyes,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-9,Teeter,KT1971,0239,pqm,,male1292,-ape,P-M:1,,,,,,male,,medial,,,,,,,,,,,,,,skitape-,,,N,,man,,KT1971;0239,,,,,,,,,,,,,,,,,,,,MAM
-10,Teeter,KT1971,0222,pqm,,male1292,-apsk-,P-M:1,,,,,,"stone, round object, metal object",,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+3,Teeter,KT1971,0241,pqm,,male1292,-ahak,P-M:1,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: The actual definition given is '?',,,MAM
+4,Teeter,KT1971,0230,pqm,,male1292,-ahkw,P-M:1,,,,,,metal,metal,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+5,Teeter,KT1971,0222,pqm,,male1292,-ahkw-,P-M:1,,,,,,"tree, long stiff object, metal",,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+6,Teeter,KT1971,0229,pqm,,male1292,-aksən,P-M:1,,,,,,shoe,shoe,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+7,Teeter,KT1971,0242,pqm,,male1292,-aləka,P-M:1,,,,,,hole,hole,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+8,Teeter,KT1971,0222,pqm,,male1292,-aləkikw-,P-M:1,,,,,,eyes,eye,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+9,Teeter,KT1971,0239,pqm,,male1292,-ape,P-M:1,,,,,,male,"male, man",medial,,,,,,,,,,,,,,skitape-,,,N,,man,,KT1971;0239,,,,,,,,,,,,,,,,,,,,,MAM
+10,Teeter,KT1971,0222,pqm,,male1292,-apsk-,P-M:1,,,,,,"stone, round object, metal object",,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 11,Bruening,BB2001a,0247,pqm,,male1292,-asi-,P-M:2,,,,,,reflexive,,final
-12,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,-ɑlə̌ki-kʷe-,P-M:3,,,,,,eye,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-alěk(i)-/,/-kʷe-/
+12,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,-ɑlə̌ki-kʷe-,P-M:3,,,,,,eye,eye,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-alěk(i)-/,/-kʷe-/
 13,Bruening,BB2001a,0046,pqm,,male1292,-e,P-M:2,,,,,,NG,,final,AI,,,,,,,,,-è
-14,Teeter,KT1971,"0222,0244",pqm,,male1292,-ehl,P-M:1,,,,,,NG,,final,TA,,,,,,,,-eht,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-15,Teeter,KT1971,0222,pqm,,male1292,-eht,P-M:1,,,,,,NG,,final,TI,,,,,,,-ehl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"use of -eht ""strengthen[s] inanimate ən to on""",,MAM
-16,Teeter,KT1971,0239,pqm,,male1292,-ensi,P-M:1,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-17,Teeter,KT1971,0220,pqm,,male1292,-ewa,P-M:1,,,,,,benefactive,,final,TA,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-18,Teeter,KT1971,0221,pqm,,male1292,-ey,P-M:1,,,,,,NG,,final,V,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""attributes the property named to the subject""",,MAM
-19,Teeter,KT1971,0244,pqm,,male1292,-əhsə,P-M:1,,,,,,"do, act",,final,II,,,,,,,,,-əhsi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-20,Teeter,KT1971,"0213,0222,0248",pqm,,male1292,-əm,P-M:1,,,,,,NG,,final,TA,,ABSTR,,,,,,-ət,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-21,Teeter,KT1971,0248,pqm,,male1292,-əm,P-M:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-22,Teeter,KT1971,0229,pqm,,male1292,-əmekw,P-M:1,,,,,,fish,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-23,Teeter,KT1971,0222,pqm,,male1292,-ən,P-M:1,,,,,,by hand,,final,TA,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-24,Teeter,KT1971,0223,pqm,,male1292,-əp,P-M:1,,,,,,sit,,final,AI,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-25,Teeter,KT1971,0245,pqm,,male1292,-əphi,P-M:1,,,,,,run,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-26,Teeter,KT1971,0219,pqm,,male1292,-əs,P-M:1,,,,,,reflexive,,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-27,Teeter,KT1971,0222,pqm,,male1292,-əs-,P-M:1,,,,,,by heat,,final,TA,,CONCR,,,,,,,,,,,lakwəs-,,,V,TA,cook him/it,,KT1971;0222,,,,,,,,,,,,,,,,,,,,MAM
-28,Teeter,KT1971,"0218,0222",pqm,,male1292,-ət,P-M:1,,,,,,NG,,final,TI,,ABSTR,,,,,-əm,,,,,,təkətəm-,,,V,TI,hit it,,KT1971;0218,,,,,,,,,,,,,,,,,,,,MAM
-29,Teeter,KT1971,0219,pqm,,male1292,-ət,P-M:1,,,,,,reciprocal,,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-30,Teeter,KT1971,0222,pqm,,male1292,-ət,P-M:1,,,,,,NG,,final,II,,,,,-si,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-31,Teeter,KT1971,0243,pqm,,male1292,-ətem,P-M:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+14,Teeter,KT1971,"0222,0244",pqm,,male1292,-ehl,P-M:1,,,,,,NG,,final,TA,,,,,,,,-eht,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+15,Teeter,KT1971,0222,pqm,,male1292,-eht,P-M:1,,,,,,NG,,final,TI,,,,,,,-ehl,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"use of -eht ""strengthen[s] inanimate ən to on""",,,MAM
+16,Teeter,KT1971,0239,pqm,,male1292,-ensi,P-M:1,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+17,Teeter,KT1971,0220,pqm,,male1292,-ewa,P-M:1,,,,,,benefactive,BENEFACTIVE,final,TA,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+18,Teeter,KT1971,0221,pqm,,male1292,-ey,P-M:1,,,,,,NG,,final,V,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""attributes the property named to the subject""",,,MAM
+19,Teeter,KT1971,0244,pqm,,male1292,-əhsə,P-M:1,,,,,,"do, act","act, do",final,II,,,,,,,,,-əhsi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+20,Teeter,KT1971,"0213,0222,0248",pqm,,male1292,-əm,P-M:1,,,,,,NG,,final,TA,,ABSTR,,,,,,-ət,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+21,Teeter,KT1971,0248,pqm,,male1292,-əm,P-M:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+22,Teeter,KT1971,0229,pqm,,male1292,-əmekw,P-M:1,,,,,,fish,fish,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+23,Teeter,KT1971,0222,pqm,,male1292,-ən,P-M:1,,,,,,by hand,"hand, MANNER",final,TA,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+24,Teeter,KT1971,0223,pqm,,male1292,-əp,P-M:1,,,,,,sit,sit,final,AI,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+25,Teeter,KT1971,0245,pqm,,male1292,-əphi,P-M:1,,,,,,run,run,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+26,Teeter,KT1971,0219,pqm,,male1292,-əs,P-M:1,,,,,,reflexive,REFLEXIVE,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+27,Teeter,KT1971,0222,pqm,,male1292,-əs-,P-M:1,,,,,,by heat,"heat, MANNER",final,TA,,CONCR,,,,,,,,,,,lakwəs-,,,V,TA,cook him/it,,KT1971;0222,,,,,,,,,,,,,,,,,,,,,MAM
+28,Teeter,KT1971,"0218,0222",pqm,,male1292,-ət,P-M:1,,,,,,NG,,final,TI,,ABSTR,,,,,-əm,,,,,,təkətəm-,,,V,TI,hit it,,KT1971;0218,,,,,,,,,,,,,,,,,,,,,MAM
+29,Teeter,KT1971,0219,pqm,,male1292,-ət,P-M:1,,,,,,reciprocal,RECIPROCAL,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+30,Teeter,KT1971,0222,pqm,,male1292,-ət,P-M:1,,,,,,NG,,final,II,,,,,-si,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+31,Teeter,KT1971,0243,pqm,,male1292,-ətem,P-M:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 32,LeSourd,PL1995,"0103,0105,0106,0108",pqm,Passamaquoddy,pass1249,-hs,P-M:3,,,,,,diminutive,,final,,,,Y,,,,,,,,,,,,/nə̆mi-ht-ə̆w-hs-/,V,TI,see,,PL1995;0117,,,,,,,,,,,,,,,,,,"GVM: ""Stem"" A does include a theme sign -ə̆w- but is described as a stem"
 33,Bruening,BB2001a,0043,pqm,,male1292,-ht(u),P-M:2,,,,,,NG,,final,TI,,,,,,,-y-
-34,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,-hta-h-,P-M:3,,,,,,strike,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-ǐhte-/,/-h/
-35,Teeter,KT1971,0240,pqm,,male1292,-hto,P-M:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-36,Teeter,KT1971,0231,pqm,,male1292,-i,P-M:1,,,,,,NG,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""the sign of prenouns and preverbs""",,MAM
-37,Teeter,KT1971,0240,pqm,,male1292,-ikəwam,P-M:1,,,,,,dwelling,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-38,Teeter,KT1971,0230,pqm,,male1292,-is,P-M:1,,,,,,diminutive,,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+34,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,-hta-h-,P-M:3,,,,,,strike,strike,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-ǐhte-/,/-h/
+35,Teeter,KT1971,0240,pqm,,male1292,-hto,P-M:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+36,Teeter,KT1971,0231,pqm,,male1292,-i,P-M:1,,,,,,NG,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""the sign of prenouns and preverbs""",,,MAM
+37,Teeter,KT1971,0240,pqm,,male1292,-ikəwam,P-M:1,,,,,,dwelling,"dwelling, house",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+38,Teeter,KT1971,0230,pqm,,male1292,-is,P-M:1,,,,,,diminutive,DIMINUTIVE,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 39,Bruening,BB2001a,"0163,0179,0186,0224",pqm,,male1292,-is,P-M:2,,,,,,diminutive,,final
 40,LeSourd,PL1995,"0105,0106,0108,0120",pqm,Passamaquoddy,pass1249,-is,P-M:3,,,,,,diminutive,,final,,,,Y
-41,Teeter,KT1971,0221,pqm,,male1292,-iw,P-M:1,,,,,,NG,,final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""the specimen of the base noun referred to is identified as an exemplar of its class, a specimen par excellence""",,MAM
-42,Teeter,KT1971,0240,pqm,,male1292,-iw,P-M:1,,,,,,adverbializer,,final,ADV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-43,Teeter,KT1971,0248,pqm,,male1292,-iw,P-M:1,,,,,,stative,,final,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: I think it's an AI verb, but not sure.",,MAM
-44,Teeter,KT1971,0240,pqm,,male1292,-iwi,P-M:1,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-45,Teeter,KT1971,"0221,0241",pqm,,male1292,-iy,P-M:1,,,,,,NG,,final,V,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""the subject is characterized as having taken on the properties of a member of the class named by the base noun""",,MAM
-46,Teeter,KT1971,0221,pqm,,male1292,-iy,P-M:1,,,,,,NG,,final,AI,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""refers to motion or change of condition in the manner specified by the base""",,MAM
-47,Teeter,KT1971,0230,pqm,,male1292,-kən,P-M:1,,,,,,nominalizer,,final,N,,,Y,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-48,Bruening,BB2001a,0042,pqm,,male1292,-kihqon,P-M:2,,,,,,be (size),,final,II
-49,Bruening,BB2001a,0042,pqm,,male1292,-kil,P-M:2,,/kilo/,,,,be (size),,final,AI3
+41,Teeter,KT1971,0221,pqm,,male1292,-iw,P-M:1,,,,,,NG,,final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""the specimen of the base noun referred to is identified as an exemplar of its class, a specimen par excellence""",,,MAM
+42,Teeter,KT1971,0240,pqm,,male1292,-iw,P-M:1,,,,,,adverbializer,ADVERBIALIZER,final,ADV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+43,Teeter,KT1971,0248,pqm,,male1292,-iw,P-M:1,,,,,,stative,STATE,final,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: I think it's an AI verb, but not sure.",,,MAM
+44,Teeter,KT1971,0240,pqm,,male1292,-iwi,P-M:1,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+45,Teeter,KT1971,"0221,0241",pqm,,male1292,-iy,P-M:1,,,,,,NG,,final,V,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""the subject is characterized as having taken on the properties of a member of the class named by the base noun""",,,MAM
+46,Teeter,KT1971,0221,pqm,,male1292,-iy,P-M:1,,,,,,NG,,final,AI,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""refers to motion or change of condition in the manner specified by the base""",,,MAM
+47,Teeter,KT1971,0230,pqm,,male1292,-kən,P-M:1,,,,,,nominalizer,NOMINALIZER,final,N,,,Y,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+48,Bruening,BB2001a,0042,pqm,,male1292,-kihqon,P-M:2,,,,,,be (size),size,final,II
+49,Bruening,BB2001a,0042,pqm,,male1292,-kil,P-M:2,,/kilo/,,,,be (size),size,final,AI3
 50,Bruening,BB2001a,"0101,0105,0106,0109",pqm,,male1292,-n,P-M:2,,,,,,NG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Glossed as ""N,"" which is described as ""morpheme appearing in TI, AI+O, TA+O, and Subordinative verbs"
-51,Teeter,KT1971,0222,pqm,,male1292,-ohs,P-M:1,,,,,,walk,,final,AI,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+51,Teeter,KT1971,0222,pqm,,male1292,-ohs,P-M:1,,,,,,walk,walk,final,AI,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 52,Bruening,BB2001a,0080,pqm,,male1292,-om,P-M:2,,,,,,NG,,final
 53,Bruening,BB2001a,0020,pqm,,male1292,-os,P-M:2,,,,,,reflexive,,final
-54,Teeter,KT1971,"0220,0248",pqm,,male1292,-owa,P-M:1,,,,,,benefactive,,final,unk.,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,unclear what output category is,,MAM
-55,Teeter,KT1971,0223,pqm,,male1292,-pəm,P-M:1,,,,,,linear motion or position,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-56,Bruening,BB2001a,"0187,0282",pqm,,male1292,-s,P-M:2,,,,,,NG,,final,INTR.
-57,Teeter,KT1971,0222,pqm,,male1292,-si,P-M:1,,,,,,NG,,final,AI,,,,,,-ət,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+54,Teeter,KT1971,"0220,0248",pqm,,male1292,-owa,P-M:1,,,,,,benefactive,,final,unknown,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,unclear what output category is,,,MAM
+55,Teeter,KT1971,0223,pqm,,male1292,-pəm,P-M:1,,,,,,linear motion or position,"motion (linear), position (linear)",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+56,Bruening,BB2001a,"0187,0282",pqm,,male1292,-s,P-M:2,,,,,,NG,,final,INTR
+57,Teeter,KT1971,0222,pqm,,male1292,-si,P-M:1,,,,,,NG,,final,AI,,,,,,-ət,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 58,Bruening,BB2001a,"0101,0104",pqm,,male1292,-sis,P-M:2,,,,,,diminutive,,final
 59,Bruening,BB2001a,0220,pqm,,male1292,-su,P-M:2,,,,,,reflexive,,final
-60,Teeter,KT1971,0230,pqm,,male1292,-t,P-M:1,,,,,,instrument,,final,N,,,Y,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-61,Teeter,KT1971,0240,pqm,,male1292,-tehsi,P-M:1,,,,,,suddenly,,final,AI,,,,,,,,,-tehsə,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-62,Teeter,KT1971,0222,pqm,,male1292,-tək-,P-M:1,,,,,,"long, flexible object",,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-63,Bruening,BB2001a,0042,pqm,,male1292,-tokot,P-M:2,,,,,,be stringlike,,final,II
-64,Bruening,BB2001a,0042,pqm,,male1292,-toksu,P-M:2,,/toksi/,,,,be stringlike,,final,AI3
-65,Teeter,KT1971,0240,pqm,,male1292,-tpohk,P-M:1,,,,,,night,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+60,Teeter,KT1971,0230,pqm,,male1292,-t,P-M:1,,,,,,instrument,INSTRUMENT,final,N,,,Y,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+61,Teeter,KT1971,0240,pqm,,male1292,-tehsi,P-M:1,,,,,,suddenly,suddenly,final,AI,,,,,,,,,-tehsə,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+62,Teeter,KT1971,0222,pqm,,male1292,-tək-,P-M:1,,,,,,"long, flexible object",,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+63,Bruening,BB2001a,0042,pqm,,male1292,-tokot,P-M:2,,,,,,be stringlike,stringlike,final,II
+64,Bruening,BB2001a,0042,pqm,,male1292,-toksu,P-M:2,,/toksi/,,,,be stringlike,stringlike,final,AI3
+65,Teeter,KT1971,0240,pqm,,male1292,-tpohk,P-M:1,,,,,,night,night,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 66,Bruening,BB2001a,"0268,0269,0273,0278",pqm,,male1292,-uti-,P-M:2,,,,,,reciprocal,,final
 67,Bruening,BB2001a,"0027,0028,0035,0048",pqm,,male1292,-uw,P-M:2,,,,,,applicative,,final,,,,,,,,,,-a-
 68,Bruening,BB2001a,"0037,0048",pqm,,male1292,-uw,P-M:2,,,,,,NG,,final,TA
 69,Bruening,BB2001a,0291,pqm,,male1292,-uwe-,P-M:2,,,,,,NG,,final,AI+O
-70,Teeter,KT1971,0231,pqm,,male1292,-w,P-M:1,,,,,,adverbializer,,final,ADV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+70,Teeter,KT1971,0231,pqm,,male1292,-w,P-M:1,,,,,,adverbializer,ADVERBIALIZER,final,ADV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 71,Bruening,BB2001a,0043,pqm,,male1292,-y-,P-M:2,,,,,,NG,,final,TA,,,,,,,,-ht(u)
 72,Bruening,BB2001a,0169,pqm,,male1292,ckuwi-,P-M:2,,,,,,toward here,,initial,RR
-73,Teeter,KT1971,"0222,0241",pqm,,male1292,ewep-,P-M:1,,,,,,upward,upward,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-74,Teeter,KT1971,0233,pqm,,male1292,əl-,P-M:1,,,,,,thus,thus,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-75,Teeter,KT1971,0239,pqm,,male1292,əlohka-,P-M:1,,,,,,work,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+73,Teeter,KT1971,"0222,0241",pqm,,male1292,ewep-,P-M:1,,,,,,upward,upward,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+74,Teeter,KT1971,0233,pqm,,male1292,əl-,P-M:1,,,,,,thus,thus,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+75,Teeter,KT1971,0239,pqm,,male1292,əlohka-,P-M:1,,,,,,work,work,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 76,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,hkihka-,P-M:3,,/nə̆kĭhka-/,,,,all,all,initial,,,,,,,,,,,,,,,,/nə̆kĭhka-ne-/,V,AI,"die completely, all die",,PL1995;0124
 77,Bruening,BB2001a,0042,pqm,,male1292,kin-,P-M:2,,,,,,big,big,initial
-78,Teeter,KT1971,0243,pqm,,male1292,lap-,P-M:1,,,,,,look at,look,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+78,Teeter,KT1971,0243,pqm,,male1292,lap-,P-M:1,,,,,,look at,look,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 79,Bruening,BB2001a,0169,pqm,,male1292,mace-,P-M:2,,,,,,"away, beginning",,initial,RR
 80,Bruening,BB2001a,"0151,0182",pqm,,male1292,mehsi-,P-M:2,,,,,,for X reason,reason,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Mostly discussed as a preverb, but also called a relative root on p. 150"
 81,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,məkə̌sew-,P-M:3,,/məkə̌se-/,,,,black,black,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
-82,Teeter,KT1971,0244,pqm,,male1292,mil-,P-M:1,,,,,,every way,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+82,Teeter,KT1971,0244,pqm,,male1292,mil-,P-M:1,,,,,,every way,way (every),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 83,Bruening,BB2001a,"0050,0107,0109,0149",pqm,,male1292,oli-,P-M:2,,,,,,thus; to there,"thus, thither",initial,RR
 84,Bruening,BB2001a,0169,pqm,,male1292,olomi-,P-M:2,,,,,,away from here,away,initial,RR
 85,Bruening,BB2001a,"0169,0170",pqm,,male1292,oloqi-,P-M:2,,,,,,in that direction,,initial,RR
-86,Teeter,KT1971,0243,pqm,,male1292,papk-,P-M:1,,,,,,down,down,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+86,Teeter,KT1971,0243,pqm,,male1292,papk-,P-M:1,,,,,,down,down,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 87,Bruening,BB2001a,0169,pqm,,male1292,peci-,P-M:2,,,,,,toward,toward,initial,RR
-88,Teeter,KT1971,0242,pqm,,male1292,pənakw-,P-M:1,,,,,,dip down,dip,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+88,Teeter,KT1971,0242,pqm,,male1292,pənakw-,P-M:1,,,,,,dip down,dip,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 89,Bruening,BB2001a,0042,pqm,,male1292,pit-,P-M:2,,,,,,long,long,initial
-90,Teeter,KT1971,0241,pqm,,male1292,sakhi-,P-M:1,,,,,,in view,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""preverb (or initial)""",,MAM
-91,Teeter,KT1971,0241,pqm,,male1292,t-,P-M:1,,,,,,"""neutral initial""",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-92,Teeter,KT1971,0233,pqm,,male1292,təl-,P-M:1,,,,,,there,there,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-93,Teeter,KT1971,0240,pqm,,male1292,tohk-,P-M:1,,,,,,waken,waken,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+90,Teeter,KT1971,0241,pqm,,male1292,sakhi-,P-M:1,,,,,,in view,in view,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""preverb (or initial)""",,,MAM
+91,Teeter,KT1971,0241,pqm,,male1292,t-,P-M:1,,,,,,"""neutral initial""",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+92,Teeter,KT1971,0233,pqm,,male1292,təl-,P-M:1,,,,,,there,there,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+93,Teeter,KT1971,0240,pqm,,male1292,tohk-,P-M:1,,,,,,waken,waken,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 94,Bruening,BB2001a,"0049,0147,0148",pqm,,male1292,toli-,P-M:2,,,,,,there,there,initial,RR
-95,Teeter,KT1971,0233,pqm,,male1292,tot-,P-M:1,,,,,,so far,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+95,Teeter,KT1971,0233,pqm,,male1292,tot-,P-M:1,,,,,,so far,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 96,Bruening,BB2001a,"0050,0236",pqm,,male1292,tuci-,P-M:2,,,,,,degree,degree,initial,RR
-97,Teeter,KT1971,0241,pqm,,male1292,wəl-,P-M:1,,,,,,"right, proper","right (ADJ), proper",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-98,Teeter,KT1971,0233,pqm,,male1292,wət-,P-M:1,,,,,,how,how,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-99,Teeter,KT1971,0243,pqm,,male1292,wit-,P-M:1,,,,,,fellow,fellow,initial,,,,,,,,,,,,,,witapi-,,,N,,"male friend, companion",,KT1971;0243,,,,,,,,,,,,,,,,,,,,MAM
-100,Teeter,KT1971,"0242,0246",pqm,,male1292,wiwən-,P-M:1,,,,,,go around,go around,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-101,Teeter,KT1971,0246,pqm,,male1292,yal-,P-M:1,,,,,,go around (aimlessly),,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-102,LeSourd,PL1995,"0107,0111",pqm,Passamaquoddy,pass1249,,P-M:3,,/-alěk(i)-/,,,,hole,,medial,,,,,,,,,,,,,,,,/ələ̆m-alə̆k-ə̆t-/,V,II,a hole is located running away along the line of sight,,PL1995;0111,,,,,,,,,-ɑlə̌ki-kʷe-
-103,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,,P-M:3,,/-kʷe-/,,,,face,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ɑlə̌ki-kʷe-
+97,Teeter,KT1971,0241,pqm,,male1292,wəl-,P-M:1,,,,,,"right, proper","proper, right (ADJ)",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+98,Teeter,KT1971,0233,pqm,,male1292,wət-,P-M:1,,,,,,how,how,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+99,Teeter,KT1971,0243,pqm,,male1292,wit-,P-M:1,,,,,,fellow,fellow,initial,,,,,,,,,,,,,,witapi-,,,N,,"male friend, companion",,KT1971;0243,,,,,,,,,,,,,,,,,,,,,MAM
+100,Teeter,KT1971,"0242,0246",pqm,,male1292,wiwən-,P-M:1,,,,,,go around,go around,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+101,Teeter,KT1971,0246,pqm,,male1292,yal-,P-M:1,,,,,,go around (aimlessly),go around,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+102,LeSourd,PL1995,"0107,0111",pqm,Passamaquoddy,pass1249,,P-M:3,,/-alěk(i)-/,,,,hole,hole,medial,,,,,,,,,,,,,,,,/ələ̆m-alə̆k-ə̆t-/,V,II,a hole is located running away along the line of sight,,PL1995;0111,,,,,,,,,-ɑlə̌ki-kʷe-
+103,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,,P-M:3,,/-kʷe-/,,,,face,face,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ɑlə̌ki-kʷe-
 104,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ǐhte-/,,,,strike,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-hta-h-/
-105,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,,P-M:3,,/-h-/,,,,transitivizer,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-hta-h-/
+105,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,,P-M:3,,/-h-/,,,,transitivizer,TRANSITIVE,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-hta-h-/
 106,LeSourd,PL1995,0108,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ew-/,,,,NG,,final,TA
-107,LeSourd,PL1995,"0108,0116,0117,0126",pqm,Passamaquoddy,pass1249,,P-M:3,,/-hs-i-/,,,,diminutive,,final,AI,,,,,,,,,-hs-ə̆-,unclear,-hs-o-,unclear,,,/ə̆pi-hs-i-/,V,AI,sit,,PL1995;0117,,,,,,,,,,,,,,,,,,"GVM: P. 108 ""complex final"""
+107,LeSourd,PL1995,"0108,0116,0117,0126",pqm,Passamaquoddy,pass1249,,P-M:3,,/-hs-i-/,,,,diminutive,DIMINUTIVE,final,AI,,,,,,,,,-hs-ə̆-,unclear,-hs-o-,unclear,,,/ə̆pi-hs-i-/,V,AI,sit,,PL1995;0117,,,,,,,,,,,,,,,,,,"GVM: P. 108 ""complex final"""
 108,LeSourd,PL1995,"0108,0109,0121,0123",pqm,Passamaquoddy,pass1249,,P-M:3,,/mehci-/,,,,end,end,initial,,,,,,,,,,,,,,,,/mehci-ne-/,V,AI,die,,PL1995;0126
 109,LeSourd,PL1995,"0109,0117,0123,0125",pqm,Passamaquoddy,pass1249,,P-M:3,,/ə̆pi-/,,,,sit,sit,initial,,,,,,,,,,,,,,,,/ə̆pi-hs-i-/,V,AI,sit,,PL1995;0117
-110,LeSourd,PL1995,0109,pqm,Passamaquoddy,pass1249,,P-M:3,,/posi-/,,,,leave by boat,,initial
+110,LeSourd,PL1995,0109,pqm,Passamaquoddy,pass1249,,P-M:3,,/posi-/,,,,leave by boat,leave (by boat),initial
 111,LeSourd,PL1995,0109,pqm,Passamaquoddy,pass1249,,P-M:3,,/-w/,,,,NG,,final,AI
 112,LeSourd,PL1995,"0109,0116,0117",pqm,Passamaquoddy,pass1249,,P-M:3,,/-hs-ə̆n-/,,,,NG,,final,,,,Y,II,,,,,,,,,,,/ə̆li-kə̆n-hs-ə̆n-/,V,II,be cute,,PL1995;0117,,,,,,,,,,,,,,,,,,"GVM: P. 109 ""complex final"""
 113,LeSourd,PL1995,"0109,0111,0115",pqm,Passamaquoddy,pass1249,,P-M:3,,/-ə̆t-/,,,,NG,,final,II,,,,,,,,,/-ăh-/,__ 3 conjunct -k,,,,,/ələ̆m-alə̆k-ə̆t-/,V,II,a hole is located running away along the line of sight,,PL1995;0111,,,,,,,,,,,,,,,,,,"GVM: P. 110, footnote 5: ""It is possible that /-ə̆t-/ is replaced by /-ăh-/ before /-hs-/ in non-Conjunct forms as well. I have no data on this point."""
@@ -120,7 +120,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 119,LeSourd,PL1995,0115,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ə̆m-/,,,,NG,,final,TA,,,,,,,,,,,,,,,/tək-ə̆m-/,V,TA,hit,,PL1995;0115
 120,LeSourd,PL1995,0116,pqm,Passamaquoddy,pass1249,,P-M:3,,/nə̆mi-/,,,,see,see,initial,,,,,,,,,,,,,,,,/nə̆mi-ht-/,V,TI,see,,PL1995;0116,,,/nə̆mi-ht-ə̆w-hs-/,V,TI,see,,PL1995;0117,,,,,,,,,,"GVM: ""Stem"" B does include a theme sign -ə̆w- but is described as a stem"
 121,LeSourd,PL1995,0116,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ht-/,,,,NG,,final,TI,,,,,,,,,,,,,,,/nə̆mi-ht-/,V,TI,see,,PL1995;0116
-122,LeSourd,PL1995,0117,pqm,Passamaquoddy,pass1249,,P-M:3,,/-hs-is-/,,,,diminutive,,final,N
+122,LeSourd,PL1995,0117,pqm,Passamaquoddy,pass1249,,P-M:3,,/-hs-is-/,,,,diminutive,DIMINUTIVE,final,N
 123,LeSourd,PL1995,"0122,0123,0126",pqm,Passamaquoddy,pass1249,,P-M:3,,/-olti-/,,,,NG,,final,AI,,,,,,,,,,,,,ə̆p-olti-,,,V,AI,sit (PL),,PL1995;0128,sehtay-apas-olti-,,,V,AI,walk backwards (PL),,PL1995;0128,,,,,/-(ə̆)ti-/,,,,,"GVM: P. 122 ""morphologically complex final"" ""used in deriving explicitly plural AI stems"""
 124,LeSourd,PL1995,"0122,0123,0126",pqm,Passamaquoddy,pass1249,,P-M:3,,/-ohti-/,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-(ə̆)ti-/,,,,,"GVM: P. 122 ""morphologically complex final"" ""used in deriving explicitly plural AI stems"""
 125,LeSourd,PL1995,"0122,0123",pqm,Passamaquoddy,pass1249,,P-M:3,,/-ahti-/,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-(ə̆)ti-/,,,,,"GVM: P. 122 ""morphologically complex final"" ""used in deriving explicitly plural AI stems"""
@@ -130,10 +130,10 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 129,LeSourd,PL1995,"0122,0123,0125",pqm,Passamaquoddy,pass1249,,P-M:3,,/-ə̆ləti-/,,,,NG,,final,AI,,,,,,,,,,,,,sehk-ə̆ləti-,,,V,AI,stand (PL),,PL1995;0128,,,,,,,,,,,,,/-(ə̆)ti-/,,,,,"GVM: P. 122 ""morphologically complex final"" ""used in deriving explicitly plural AI stems"""
 130,LeSourd,PL1995,"0122,0123,0125",pqm,Passamaquoddy,pass1249,,P-M:3,,/-ya-/,,,,NG,,final,AI,,,,,,,,,,,,,,,/sehk-ə̆leti-ya-/,V,,stand (PL),,PL1995;0125,ə̆pi-ya-,,,V,AI,sit (PL),,PL1995;0128,,,,,,,,,,"GVM: P. 122 ""used in deriving explicitly plural AI stems"""
 131,LeSourd,PL1995,0122,pqm,Passamaquoddy,pass1249,,P-M:3,,/-(ə̆)ti-/,,,,reciprocal,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-olti-/,/-ohti-/,/-ahti-/,/-awəti-/
-132,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,,P-M:3,,/-apasi-/,,,,walk (of three or more),,final,AI,,,,,,,,,,,,,,,/sehtay-apasi-/,V,AI,three or more walk backwards,,PL1995;0124,sehtay-apas-olti-,,,V,AI,walk backwards (PL),,PL1995;0128,,,,,,,,,,"GVM: P. 123: ""explicitly plural in meaning"""
+132,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,,P-M:3,,/-apasi-/,,,,walk (of three or more),walk,final,AI,,,,,,,,,,,,,,,/sehtay-apasi-/,V,AI,three or more walk backwards,,PL1995;0124,sehtay-apas-olti-,,,V,AI,walk backwards (PL),,PL1995;0128,,,,,,,,,,"GVM: P. 123: ""explicitly plural in meaning"""
 133,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,,P-M:3,,/sehtay-/,,,,backwards,backward,initial,,,,,,,,,,,,,,,,/sehtay-apasi-/,V,AI,three or more walk backwards,,PL1995;0124,sehtay-apas-olti-,,,V,AI,walk backwards (PL),,PL1995;0128
 134,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ne-/,,,,die,,final,,,,,,,,,,,,,,,,/nə̆kĭhka-ne-/,V,AI,"die completely, all die",,PL1995;0124,,,/mehci-ne-/,V,AI,die,,PL1995;0126
 135,LeSourd,PL1995,0129,pqm,Passamaquoddy,pass1249,,P-M:3,,/kin-/,,,,big,big,initial,,,,,,,,,,,,,,,,/kin-ə̆kihkʷə̆n-/,V,II,be big,,PL1995;0129
-136,LeSourd,PL1995,0129,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ə̆kihkʷə̆n-/,,,,be a size,,final,II,,,,,,,,,,,,,,,/kin-ə̆kihkʷə̆n-/,V,II,be big,,PL1995;0129
+136,LeSourd,PL1995,0129,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ə̆kihkʷə̆n-/,,,,be a size,size,final,II,,,,,,,,,,,,,,,/kin-ə̆kihkʷə̆n-/,V,II,be big,,PL1995;0129
 137,LeSourd,PL1995,"0129,0130,0131",pqm,Passamaquoddy,pass1249,,P-M:3,,/ə̆l(i)/,,,,"manner, size, direction, kind; thus","manner, size, direction, kind, thus",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: P. 130 ""while it is convenient to gloss /ə̆l(i)-/ as 'thus', this root does not in itself have deictic force"
 138,LeSourd,PL1995,0131,pqm,Passamaquoddy,pass1249,,P-M:3,,/kʷə̆n(i)-/,,,,length

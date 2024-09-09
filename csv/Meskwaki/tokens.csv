@@ -1,4 +1,4 @@
-Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Component occurs in stem (orig. orth)-D,Component occurs in stem (proj. orth)-D,Stem UR-D,Stem category-D,Stem subcategory-D,Stem translation-D,Secondary stem-D,Stem Source-D,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
+Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Component occurs in stem (orig. orth)-D,Component occurs in stem (proj. orth)-D,Stem UR-D,Stem category-D,Stem subcategory-D,Stem translation-D,Secondary stem-D,Stem Source-D,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
 231,Bloomfield,LB1925a,0231,sac,,mesk1242,-ācōwi-,ME:1,,,,,,ford,,final
 241,Bloomfield,LB1925a,0231,sac,,mesk1242,-āgan-,ME:1,,,,,,NG,,final,N
 30,Bloomfield,LB1925a,0228,sac,,mesk1242,-ah-,ME:1,,,,,,by tool,,final
@@ -174,161 +174,161 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 171,Bloomfield,LB1925a,0226,sac,,mesk1242,wīnan-,ME:1,,,,,,flay and cut up,,initial
 124,Bloomfield,LB1925a,"0223,0224",sac,,mesk1242,wīt-,ME:1,,,,,,along,,initial
 191,Bloomfield,LB1925a,0227,sac,,mesk1242,wīt-,ME:1,,,,,,name,,initial
-10,Goddard,IG1990a,0452,sac,,mesk1242,-(e)šw-,ME:2,,,,,,cut,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+10,Goddard,IG1990a,0452,sac,,mesk1242,-(e)šw-,ME:2,,,,,,cut,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 303,Dahlstrom,AD2009,0224,sac,,mesk1242,-a·-,ME:2,,,,,,stative,,final,II
 320,Dahlstrom,AD2009,0237,sac,,mesk1242,-a·hke·-,ME:2,,,,,,throw,,final
-13,Goddard,IG1990a,0453,sac,,mesk1242,-a·hkw-,ME:2,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+13,Goddard,IG1990a,0453,sac,,mesk1242,-a·hkw-,ME:2,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 293,Goddard,IG1965,0213,sac,,mesk1242,-a·mehk-,ME:2,,,,*a·meHk-,,"earth, soil",,medial
 294,Goddard,IG1965,0213,sac,,mesk1242,-a·mehkw-,ME:2,,,,*a·meHkw-,,"earth, soil",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"listed as ""medial, with secondary w"""
-24,Goddard,IG1990a,0456,sac,,mesk1242,-a·mo-,ME:2,,,,,,(anim.) flees,,final,AI,,,,,,,,,,,pye·t-a·mo-,,,V,AI,flee in this direction,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+24,Goddard,IG1990a,0456,sac,,mesk1242,-a·mo-,ME:2,,,,,,(anim.) flees,,final,AI,,,,,,,,,,,pye·t-a·mo-,,,V,AI,flee in this direction,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 295,Goddard,IG1965,0214,sac,,mesk1242,-a·towe·,ME:2,,,,*-a·towe·,,speak a language,,final,AI
-30,Goddard,IG1990a,0457,sac,,mesk1242,-ah-,ME:2,,,,,,act on (inan.) by tool,,final,TI1,,,,,,,,,,,ni·miw-ah-,,,V,TI1,sing to accompany dancing,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+30,Goddard,IG1990a,0457,sac,,mesk1242,-ah-,ME:2,,,,,,act on (inan.) by tool,,final,TI1,,,,,,,,,,,ni·miw-ah-,,,V,TI1,sing to accompany dancing,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 307,Dahlstrom,AD2009,0224,sac,,mesk1242,-am,ME:2,,,,,,by mouth,,final,AI
 288,Goddard,IG1967b,0066,sac,,mesk1242,-am-,ME:2,,,,,,NG,,final,TA,,,,,,,,,,,wa·pam-,,,V,TA,see,,IG1967b;0066
 318,Dahlstrom,AD2009,0233,sac,,mesk1242,-anasite·-,ME:2,,,,,,foot,,medial,INCORP
-26,Goddard,IG1990a,0456,sac,,mesk1242,-api-,ME:2,,,,,,(anim.) sits,,final,AI,,,,,,,,,,,nemat-api-,,,V,AI,sit upright,,IG1990a;0456,atame·w-api-,,,V,AI,smoke sitting,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,MAM
+26,Goddard,IG1990a,0456,sac,,mesk1242,-api-,ME:2,,,,,,(anim.) sits,,final,AI,,,,,,,,,,,nemat-api-,,,V,AI,sit upright,,IG1990a;0456,atame·w-api-,,,V,AI,smoke sitting,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 308,Dahlstrom,AD2009,0224,sac,,mesk1242,-at,ME:2,,,,,,by mouth,,final,II
 289,Goddard,IG1967b,0066,sac,,mesk1242,-at-,ME:2,,,,,,NG,,final,TI,,,,,,,,,,,wa·pat-,,,V,TI,see,,IG1967b;0066
 291,Goddard,IG1967b,0066,sac,,mesk1242,-at-,ME:2,,,,,,NG,,final,II,,,,,,,,,,,sanakat-,,,V,II,be difficult,,IG1967b;0066
-11,Goddard,IG1990a,0452,sac,,mesk1242,-ay-,ME:2,,,,,,skin,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-8,Goddard,IG1990a,"0451,0456",sac,,mesk1242,-e·-,ME:2,,,,,,"(anim.) be, have",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-112,Costa,DJC2013,0217,sac,,mesk1242,-e·ha,ME:2,,,,,,diminutive,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Costa calls it a ""diminutive ending"", not a final here.",,HTL,MAM
-28,Goddard,IG1990a,"0456,0457,0465",sac,,mesk1242,-e·nem-,ME:2,,,,,,think about (anim.),,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-28,Goddard,IG1990a,0480,sac,,mesk1242,,ME:2,,-e·nem-,,,,think about,,final,TA,,,,,,,,,,,,,ki·ke·nowe·nem-,V,TA,think s/he is finished with a clan feast,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+11,Goddard,IG1990a,0452,sac,,mesk1242,-ay-,ME:2,,,,,,skin,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+8,Goddard,IG1990a,"0451,0456",sac,,mesk1242,-e·-,ME:2,,,,,,"(anim.) be, have",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+112,Costa,DJC2013,0217,sac,,mesk1242,-e·ha,ME:2,,,,,,diminutive,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Costa calls it a ""diminutive ending"", not a final here.",,,HTL,MAM
+28,Goddard,IG1990a,"0456,0457,0465",sac,,mesk1242,-e·nem-,ME:2,,,,,,think about (anim.),,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+28,Goddard,IG1990a,0480,sac,,mesk1242,,ME:2,,-e·nem-,,,,think about,,final,TA,,,,,,,,,,,,,ki·ke·nowe·nem-,V,TA,think s/he is finished with a clan feast,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 314,Dahlstrom,AD2009,0226,sac,,mesk1242,-e·nem-,ME:2,,,,,,consider,,final,AI
-22,Goddard,IG1990a,0456,sac,,mesk1242,-ehkwe·w-,ME:2,,,,,,woman,,medial,,,,,,,,,,,,mi·hkem-ehkwe·w-e·,,,V,AI,be courting,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+22,Goddard,IG1990a,0456,sac,,mesk1242,-ehkwe·w-,ME:2,,,,,,woman,,medial,,,,,,,,,,,,mi·hkem-ehkwe·w-e·,,,V,AI,be courting,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 313,Dahlstrom,AD2009,0225,sac,,mesk1242,-ekwa·m,ME:2,,,,,,sleep,,final,AI
-20,Goddard,IG1990a,0456,sac,,mesk1242,-em-,ME:2,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+20,Goddard,IG1990a,0456,sac,,mesk1242,-em-,ME:2,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 305,Dahlstrom,AD2009,"0224,0225,0233",sac,,mesk1242,-en,ME:2,,,,,,by hand,,final,AI
 306,Dahlstrom,AD2009,0224,sac,,mesk1242,-en,ME:2,,,,,,by hand,,final,II
 302,Dahlstrom,AD2009,0224,sac,,mesk1242,-esi-,ME:2,,,,,,stative,,final,AI
-4,Goddard,IG1990a,0451,sac,,mesk1242,-esi-,ME:2,,,,,,(anim.) be,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+4,Goddard,IG1990a,0451,sac,,mesk1242,-esi-,ME:2,,,,,,(anim.) be,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 290,Goddard,IG1967b,0066,sac,,mesk1242,-esi-,ME:2,,,,,,NG,,final,AI,,,,,,,,,,,sanakesi-,,,V,AI,be difficult,,IG1967b;0066
 310,Dahlstrom,AD2009,0224,sac,,mesk1242,-ešk,ME:2,,,,,,by foot,,final,II
 309,Dahlstrom,AD2009,0224,sac,,mesk1242,-eškaw,ME:2,,,,,,by foot,,final,AI
-6,Goddard,IG1990a,0451,sac,,mesk1242,-ešw-,ME:2,,,,,,act on (anim.) by cutting edge (causing ...),,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-38,Goddard,IG1990a,0460,sac,,mesk1242,-eton-,ME:2,,,,,,mouth,,medial,,,,,,,,,,,,mo·wečiwiya·kw-eton-Ø-,,,V,AI,one's mouth smells of excrement,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+6,Goddard,IG1990a,0451,sac,,mesk1242,-ešw-,ME:2,,,,,,act on (anim.) by cutting edge (causing ...),,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+38,Goddard,IG1990a,0460,sac,,mesk1242,-eton-,ME:2,,,,,,mouth,,medial,,,,,,,,,,,,mo·wečiwiya·kw-eton-Ø-,,,V,AI,one's mouth smells of excrement,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 312,Dahlstrom,AD2009,"0225,0233",sac,,mesk1242,-etone·-,ME:2,,,,,,mouth,,medial,INCORP
-111,Costa,DJC2013,0213,sac,,mesk1242,-əno(s),ME:2,,,,,,diminutive,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Costa calls it a ""diminutive ending"", not a final here.",,HTL,MAM
-110,Costa,DJC2013,0201,sac,,mesk1242,-h,ME:2,,,,,,diminutive,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Costa calls it a ""diminutive noun ending"", not a final here.",,HTL,MAM
-41,Goddard,IG1990a,0460,sac,,mesk1242,-i-na·kosi-,ME:2,,,,,,"appear, seem",,final,AI,,,,,,,,,,,a·hkwe·w-i-na·kosi-,,,V,AI,look angry,,IG1990a;0460,ame·-i-na·kosi-,,,V,AI,appear to notice,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,MAM
-18,Goddard,IG1990a,0454,sac,,mesk1242,-i-neniw-,ME:2,,,,,,"man, person",,final,N,,,,,,,,,,,,,asena·pe·-neniw-,N,,rock spirit,,IG1990a;0454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-15,Goddard,IG1990a,0453,sac,,mesk1242,-i·kwe·-,ME:2,,,,,,face,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+111,Costa,DJC2013,0213,sac,,mesk1242,-əno(s),ME:2,,,,,,diminutive,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Costa calls it a ""diminutive ending"", not a final here.",,,HTL,MAM
+110,Costa,DJC2013,0201,sac,,mesk1242,-h,ME:2,,,,,,diminutive,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Costa calls it a ""diminutive noun ending"", not a final here.",,,HTL,MAM
+41,Goddard,IG1990a,0460,sac,,mesk1242,-i-na·kosi-,ME:2,,,,,,"appear, seem",,final,AI,,,,,,,,,,,a·hkwe·w-i-na·kosi-,,,V,AI,look angry,,IG1990a;0460,ame·-i-na·kosi-,,,V,AI,appear to notice,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+18,Goddard,IG1990a,0454,sac,,mesk1242,-i-neniw-,ME:2,,,,,,"man, person",,final,N,,,,,,,,,,,,,asena·pe·-neniw-,N,,rock spirit,,IG1990a;0454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+15,Goddard,IG1990a,0453,sac,,mesk1242,-i·kwe·-,ME:2,,,,,,face,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 319,Dahlstrom,AD2009,0233,sac,,mesk1242,-ika·pa·-,ME:2,,,,,,stand,,final
-9,Goddard,IG1990a,0452,sac,,mesk1242,-ikwe·-,ME:2,,,,,,neck,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-7,Goddard,IG1990a,"0451,0452",sac,,mesk1242,-inamešk-,ME:2,,,,,,skin,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-36,Goddard,IG1990a,0459,sac,,mesk1242,-isa·-,ME:2,,,,,,move quickly,,final,AI,,,,,,-isa·-,,,,,nemasw-isa·-,,,V,AI,land feet first,,IG1990a;0459,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-58,Goddard,IG1990a,0465,sac,,mesk1242,-isa·-,ME:2,,,,,,move quickly,,final,II,,,,,-isa·-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-31,Goddard,IG1990a,0457,sac,,mesk1242,-isen-,ME:2,,,,,,"(inan.) lies, is",,final,II,,,,,,,,,,,ni·miw-isen-,,,V,II,it (song) be of the dancing variety,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-34,Goddard,IG1990a,0457,sac,,mesk1242,-ite·he·-,ME:2,,,,,,think,,final,AI,,,,,,,,,,,a·manow-ite·he·-,,,V,AI,think about sex,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+9,Goddard,IG1990a,0452,sac,,mesk1242,-ikwe·-,ME:2,,,,,,neck,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+7,Goddard,IG1990a,"0451,0452",sac,,mesk1242,-inamešk-,ME:2,,,,,,skin,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+36,Goddard,IG1990a,0459,sac,,mesk1242,-isa·-,ME:2,,,,,,move quickly,,final,AI,,,,,,-isa·-,,,,,nemasw-isa·-,,,V,AI,land feet first,,IG1990a;0459,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+58,Goddard,IG1990a,0465,sac,,mesk1242,-isa·-,ME:2,,,,,,move quickly,,final,II,,,,,-isa·-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+31,Goddard,IG1990a,0457,sac,,mesk1242,-isen-,ME:2,,,,,,"(inan.) lies, is",,final,II,,,,,,,,,,,ni·miw-isen-,,,V,II,it (song) be of the dancing variety,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+34,Goddard,IG1990a,0457,sac,,mesk1242,-ite·he·-,ME:2,,,,,,think,,final,AI,,,,,,,,,,,a·manow-ite·he·-,,,V,AI,think about sex,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 296,Goddard,IG1965,0215,sac,,mesk1242,-ka·pawi-,ME:2,,,,*-ka·pawi-,,stand,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""before other finals in secondary derivation"""
 39,Goddard,IG1990a,0460,sac,,mesk1242,-Ø-,ME:2,,,,,,NG,,final,AI
-16,Goddard,IG1990a,0453,sac,,mesk1242,-šin-,ME:2,,,,,,lie,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-40,Goddard,IG1990a,0460,sac,,mesk1242,a·hkwe·w-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,a·hkwe·w-i-na·kosi-,,,V,AI,look angry,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,a·hkwe·- 'be angry',initial probably means 'be angry',,MAM
-33,Goddard,IG1990a,0457,sac,,mesk1242,a·manow-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,a·manow-ite·he·-,,,V,AI,think about sex,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,a·man- 'be lustful',,,MAM
+16,Goddard,IG1990a,0453,sac,,mesk1242,-šin-,ME:2,,,,,,lie,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+40,Goddard,IG1990a,0460,sac,,mesk1242,a·hkwe·w-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,a·hkwe·w-i-na·kosi-,,,V,AI,look angry,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,a·hkwe·- 'be angry',initial probably means 'be angry',,,MAM
+33,Goddard,IG1990a,0457,sac,,mesk1242,a·manow-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,a·manow-ite·he·-,,,V,AI,think about sex,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,a·man- 'be lustful',,,,MAM
 321,Denny,JPD1977,0133,sac,,mesk1242,ahkamik,ME:2,,,,,,stretch of,,medial
 315,Dahlstrom,AD2009,"0229,0233,0235,0237",sac,,mesk1242,ahp-,ME:2,,,,,,on,,initial,,,,,,,,,,,,ahpe·nemo-,,,V,AI+O,depend on,,AD2009;0229,ahpapi-,,,V,AI+O,sit on,,AG2009;0229,ahpeka·-,,,V,AI+O,dance on,,AG2009;0229
-42,Goddard,IG1990a,0460,sac,,mesk1242,ame·-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,ame·-i-na·kosi-,,,V,AI,appear to notice,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"ame·- 'pay attention, be aware'",,,MAM
-17,Goddard,IG1990a,0454,sac,,mesk1242,asena·pe·-,ME:2,,,,*aʔsena·pe·-,,NG,,initial,,,,,,,,,,,,,,asena·pe·-neniw-,N,,rock spirit,,IG1990a;0454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-32,Goddard,IG1990a,0457,sac,,mesk1242,atame·w-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,atame·w-api-,,,V,AI,smoke sitting,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,atama·- 'smoke (AI)',,,MAM
+42,Goddard,IG1990a,0460,sac,,mesk1242,ame·-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,ame·-i-na·kosi-,,,V,AI,appear to notice,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"ame·- 'pay attention, be aware'",,,,MAM
+17,Goddard,IG1990a,0454,sac,,mesk1242,asena·pe·-,ME:2,,,,*aʔsena·pe·-,,NG,,initial,,,,,,,,,,,,,,asena·pe·-neniw-,N,,rock spirit,,IG1990a;0454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+32,Goddard,IG1990a,0457,sac,,mesk1242,atame·w-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,atame·w-api-,,,V,AI,smoke sitting,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,atama·- 'smoke (AI)',,,,MAM
 317,Dahlstrom,AD2009,"0229,0237",sac,,mesk1242,kek-,ME:2,,,,,,having,,initial,,,,,,,,,,,,kekišin-,,,V,AI+O,"lie having, be buried with",,AD2009;0229,kekate·mo-,,,V,AI+O,weep holding,,AG2009;0229
-105,Goddard,IG1990a,0479,sac,,mesk1242,ki·ke·now-,ME:2,,,,,,celebrate a clan feast,,initial,,,,,,,,,,,,,,ki·ke·nowe·nem-,V,TA,think s/he is finished with a clan feast,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,ki·ke·no- 'celebrate a clan feast (AI)',,,MAM
-99,Goddard,IG1990a,0478,sac,,mesk1242,ki·š-,ME:2,,,,,,finish,,initial,,,,,,,,,,,,ki·šisenye·-,,,V,AI,have finished eating,,IG1990a;0478,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-5,Goddard,IG1990a,0451,sac,,mesk1242,ki·šk-,ME:2,,,,,,severed,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-1,Goddard,IG1990a,"0451,0452",sac,,mesk1242,mahkw-,ME:2,,,,,,bear,,initial,,,,,,,,,,,,mahkw-,,,N,,bear,,IG1990a;0451,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mahkw- 'bear',Stem consists of initial alone (no zero final),,MAM
+105,Goddard,IG1990a,0479,sac,,mesk1242,ki·ke·now-,ME:2,,,,,,celebrate a clan feast,,initial,,,,,,,,,,,,,,ki·ke·nowe·nem-,V,TA,think s/he is finished with a clan feast,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,ki·ke·no- 'celebrate a clan feast (AI)',,,,MAM
+99,Goddard,IG1990a,0478,sac,,mesk1242,ki·š-,ME:2,,,,,,finish,,initial,,,,,,,,,,,,ki·šisenye·-,,,V,AI,have finished eating,,IG1990a;0478,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+5,Goddard,IG1990a,0451,sac,,mesk1242,ki·šk-,ME:2,,,,,,severed,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+1,Goddard,IG1990a,"0451,0452",sac,,mesk1242,mahkw-,ME:2,,,,,,bear,,initial,,,,,,,,,,,,mahkw-,,,N,,bear,,IG1990a;0451,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mahkw- 'bear',Stem consists of initial alone (no zero final),,,MAM
 311,Dahlstrom,AD2009,"0225,0233",sac,,mesk1242,mešk-,ME:2,,,,,,open,,initial
 301,Dahlstrom,AD2009,0224,sac,,mesk1242,meškw-,ME:2,,,,,,red,,initial
-19,Goddard,IG1990a,0456,sac,,mesk1242,mi·hk-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-21,Goddard,IG1990a,0456,sac,,mesk1242,mi·hkem-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,mi·hkem-ehkwe·w-e·,,,V,AI,be courting,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mi·hk-em- 'court (TA)',,,MAM
-37,Goddard,IG1990a,0460,sac,,mesk1242,mo·wečiwiya·kw-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,mo·wečiwiya·kw-eton-Ø-,,,V,AI,one's mouth smells of excrement,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mo·wečiwiya·kwat 'smell of excrement (II)',,,MAM
-27,Goddard,IG1990a,0456,sac,,mesk1242,na·kataw-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,na·kataw-e·nem-,,,V,TA,keep him/her in mind,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,na·kat- 'follow (inan.) (TI1)',,,MAM
+19,Goddard,IG1990a,0456,sac,,mesk1242,mi·hk-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+21,Goddard,IG1990a,0456,sac,,mesk1242,mi·hkem-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,mi·hkem-ehkwe·w-e·,,,V,AI,be courting,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mi·hk-em- 'court (TA)',,,,MAM
+37,Goddard,IG1990a,0460,sac,,mesk1242,mo·wečiwiya·kw-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,mo·wečiwiya·kw-eton-Ø-,,,V,AI,one's mouth smells of excrement,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mo·wečiwiya·kwat 'smell of excrement (II)',,,,MAM
+27,Goddard,IG1990a,0456,sac,,mesk1242,na·kataw-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,na·kataw-e·nem-,,,V,TA,keep him/her in mind,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,na·kat- 'follow (inan.) (TI1)',,,,MAM
 292,Goddard,IG1965,0211,sac,,mesk1242,na·m-,ME:2,,,,*-aθa·m-,,underneath,,initial
 298,Goddard,IG1965,0218,sac,,mesk1242,na·w-,ME:2,,,,*θa·w-,,middle,,initial
 299,Goddard,IG1965,0218,sac,,mesk1242,nana·w-,ME:2,,,,*θaˀθa·w-,,between,,initial,,Y
-35,Goddard,IG1990a,0459,sac,,mesk1242,nemasw-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,nemasw-isa·-,,,V,AI,land feet first,,IG1990a;0459,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nemaso- 'stand (AI)',,,MAM
-25,Goddard,IG1990a,0456,sac,,mesk1242,nemat-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,nemat-api-,,,V,AI,sit upright,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nemat- 'sit (inan.) upright (TI2)',initial probably means 'sit',,MAM
-2,Goddard,IG1990a,0451,sac,,mesk1242,nep-,ME:2,,,,,,die,,initial,,,,,,,,,,,,nep-,,,N,,die,,IG1990a;0451,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stem consists of initial alone (no zero final),,MAM
-109,Costa,DJC2013,0200,sac,,mesk1242,nepači-,ME:2,,,,,,by cold,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,MAM
-12,Goddard,IG1990a,0453,sac,,mesk1242,nepiw-,ME:2,,,,,,water,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nepy- 'water',,,MAM
-29,Goddard,IG1990a,0457,sac,,mesk1242,ni·miw-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,ni·miw-ah-,,,V,TI1,sing to accompany dancing,,IG1990a;0457,ni·miw-isen-,,,V,II,it (song) be of the dancing variety,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,Y,ni·mi- 'dance',initial probably means 'dance',,MAM
-107,Goddard,IG1990a,0480,sac,,mesk1242,oto·te·weniw-,ME:2,,,,,,have a town,,initial,,,,,,,,,,,,,,oto·te·weniwa·čim-,V,TA,be said of him/her that they have a town,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,oto·te·weni- 'have a town (AI)',,,MAM
+35,Goddard,IG1990a,0459,sac,,mesk1242,nemasw-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,nemasw-isa·-,,,V,AI,land feet first,,IG1990a;0459,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nemaso- 'stand (AI)',,,,MAM
+25,Goddard,IG1990a,0456,sac,,mesk1242,nemat-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,nemat-api-,,,V,AI,sit upright,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nemat- 'sit (inan.) upright (TI2)',initial probably means 'sit',,,MAM
+2,Goddard,IG1990a,0451,sac,,mesk1242,nep-,ME:2,,,,,,die,,initial,,,,,,,,,,,,nep-,,,N,,die,,IG1990a;0451,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stem consists of initial alone (no zero final),,,MAM
+109,Costa,DJC2013,0200,sac,,mesk1242,nepači-,ME:2,,,,,,by cold,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,MAM
+12,Goddard,IG1990a,0453,sac,,mesk1242,nepiw-,ME:2,,,,,,water,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nepy- 'water',,,,MAM
+29,Goddard,IG1990a,0457,sac,,mesk1242,ni·miw-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,ni·miw-ah-,,,V,TI1,sing to accompany dancing,,IG1990a;0457,ni·miw-isen-,,,V,II,it (song) be of the dancing variety,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,Y,ni·mi- 'dance',initial probably means 'dance',,,MAM
+107,Goddard,IG1990a,0480,sac,,mesk1242,oto·te·weniw-,ME:2,,,,,,have a town,,initial,,,,,,,,,,,,,,oto·te·weniwa·čim-,V,TA,be said of him/her that they have a town,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,oto·te·weni- 'have a town (AI)',,,,MAM
 304,Dahlstrom,AD2009,0224,sac,,mesk1242,pan-,ME:2,,,,,,miss,,initial
-14,Goddard,IG1990a,0453,sac,,mesk1242,pekow-,ME:2,,,,,,dust,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,pekw- 'dust',,,MAM
-23,Goddard,IG1990a,0456,sac,,mesk1242,pye·t-,ME:2,,,,,,bring; hither,,initial,,,,,,,,,,,,pye·t-ehkwe·w-e·,,,V,AI,bring home a wife,,IG1990a;0456,pye·t-a·mo-,,,V,AI,flee in this direction,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,Y,pye·t- 'bring (inan.) (TI2)',,,MAM
+14,Goddard,IG1990a,0453,sac,,mesk1242,pekow-,ME:2,,,,,,dust,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,pekw- 'dust',,,,MAM
+23,Goddard,IG1990a,0456,sac,,mesk1242,pye·t-,ME:2,,,,,,bring; hither,,initial,,,,,,,,,,,,pye·t-ehkwe·w-e·,,,V,AI,bring home a wife,,IG1990a;0456,pye·t-a·mo-,,,V,AI,flee in this direction,,IG1990a;0456,,,,,,,,,,,,,,,,,,,,Y,pye·t- 'bring (inan.) (TI2)',,,,MAM
 297,Goddard,IG1965,0217,sac,,mesk1242,ša·pw-,ME:2,,,,*ša·pw-,,through,,initial
 316,Dahlstrom,AD2009,"0229,0236,0237",sac,,mesk1242,takw-,ME:2,,,,,,together with,,initial,,,,,,,,,,,,takwi·-,,,V,AI+O,join,,AD2009;0229,tawkisen-,,,V,AI+O,lie together with [INAN. SUBJ],,AG2009;0229
 287,Goddard,IG1967b,0066,sac,,mesk1242,wa·p-,ME:2,,,,,,NG,,initial,,,,,,,,,,,,wa·pam-,,,V,TA,see,,IG1967b;0066,wa·pat-,,,V,TI,see,,IG1967b;0066
-3,Goddard,IG1990a,0451,sac,,mesk1242,wa·pešk-,ME:2,,,,,,white,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-26,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-api-,,,,sit,,final,AI,,,,,,,,,,,,,masa·n-ika·-api-,V,AI,foot fall asleep as one sits,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-28,Goddard,IG1990a,0480,sac,,mesk1242,,ME:2,,-e·nem-,,,,think about,,final,TA,,,,,,,,,,,,,ki·ke·nowe·nem-,V,TA,think s/he is finished with a clan feast,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-43,Goddard,IG1990a,0463,sac,,mesk1242,,ME:2,,-a·nak-,,*-a·θak-,,hole,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-45,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,pehkw-,,,,lumpy,,initial,,,,,,,,,,,,,,pehkw-ikan-e·-,V,AI,have a lump on one's bone,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-46,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-ikan-,,,,bone,,medial,,,,,,,,,,,,,,pehkw-ikan-e·-,V,AI,have a lump on one's bone,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-47,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-e·-,,,,NG,,final,AI,,,,,,,,,,,,,pehkw-ikan-e·-,V,AI,have a lump on one's bone,,IG1990a;0465,,,papi·w-ika·t-e·-,V,AI,have small feet,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,MAM
-48,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-to·n-,,,,mouth,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-49,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-eton(e·)-,,,,mouth,,medial,,,,,,,,,,,,,,ko·k-etone·-en-,V,TA,wash other's mouth,,IG1990a;0465,,,pa·hk-eton-Ø-,V,AI,open own mouth,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,Y,-to·n- 'mouth (dependent initial)',,,MAM
-50,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,ko·k-,,,,wash,,initial,,,,,,,,,,,,,,ko·k-etone·-en-,V,TA,wash other's mouth,,IG1990a;0465,,,ko·k-i·kene·-eno-,V,AI,wash own forehead,,IG1990a;0466,,,,,,,,,,,,,,,,,,,,,,,,MAM
-51,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-en-,,,,by hand,,final,TA,,,,,,,,,,,,,ko·k-etone·-en-,V,TA,wash other's mouth,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-52,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,pa·hk-,,,,open,,initial,,,,,,,,,,,,,,pa·hk-eton-Ø-,V,AI,open own mouth,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-53,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-hka·t-,,,,foot,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-54,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-ika·(t)-,,,,feet,,medial,,,,,,,,,,,,,,masa·n-ika·-api-,V,AI,foot fall asleep as one sits,,IG1990a;0465,,,papi·w-ika·t-e·-,V,AI,have small feet,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,Y,-hka·t- 'foot (dependent initial)',,,MAM
-55,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,masa·n-,,,,prickly,,initial,,,,,,,,,,,,,,masa·n-ika·-api-,V,AI,foot fall asleep as one sits,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-57,Goddard,IG1990a,"0465,0466",sac,,mesk1242,,ME:2,,papi·w-,,,,small (pl.),,initial,,,,,,,,,,,,,,papi·w-ika·t-e·-,V,AI,have small feet,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-59,Goddard,IG1990a,0466,sac,,mesk1242,,ME:2,,-hkešy-,,*-xkenθ-,,forehead,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""reanalyzed as |-hkešy-|""",,MAM
-60,Goddard,IG1990a,0466,sac,,mesk1242,,ME:2,,-i·kene·-,,*-inkeθe·-,,forehead,,medial,,,,,,,,,,,,,,ko·k-i·kene·-eno-,V,AI,wash own forehead,,IG1990a;0466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-61,Goddard,IG1990a,0466,sac,,mesk1242,,ME:2,,-eno-,,,,act on self by hand,,final,AI,,,,,,,,,,,,,ko·k-i·kene·-eno-,V,AI,wash own forehead,,IG1990a;0466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-62,Goddard,IG1990a,0469,sac,,mesk1242,,ME:2,,-a·pam-,,,,NG,,final,TA,,,,,,,,,,,,,pan-a·pam-,V,TA,lose sight of him/her,,IG1990a;0469,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wa·pam- 'watch (TA)',,,MAM
-64,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-i-,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ihw-,,,,,,,MAM
-65,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ahw-,,,,act on by tool,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ihw-,,,,,,,MAM
-66,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ihw-,,,,act on by mass or weight,,final,TA,,,,,,,,-ih-,,,,,kep-ihw-,V,TA,fence him/her in,,IG1990a;0470,,,ahp-ihw-,V,TA,pile (e.g. brush) on top of him/her,,IG1990a;0470,,,,,,,,,,,,,,,,,,-ahw-,-i-,,,"footnote: ""the gloss of the final is a first approximation.""",,MAM
-67,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,kep-,,,,closed,,initial,,,,,,,,,,,,,,kep-ihw-,V,TA,fence him/her in,,IG1990a;0470,,,kep-ih,V,TI1,fence it in,,IG1990a;0470,,,kep-ačih-,N,,"cork, stopper",,IG1990a;0470,,,,,,,,,,,,,,,,MAM
-68,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-at-,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ačih-,,,,,,,MAM
-69,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ih-,,,,act on by mass or weight,,final,TI1,,,,,,,-ihw-,,,,,,kep-ih,V,TI1,fence it in,,IG1990a;0470,,,,,,,,,,,,,,,,,,,,,,,,,-ačih-,,,,,"in footnote: final and stem meanings deduced from corresponding TA; ""the gloss of the final is a first approximation.""",,MAM
-70,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ačih-,,,,act on by mass or weight using stick,,final,TI1,,,,,,,,,,,,,nekwačih-ike·-,V,AI,do the hilling (of the corn),,IG1990a;0470,,,kep-ačih-,N,,"cork, stopper",,IG1990a;0470,,,,,,,,,,,,,,,,,,-ih-,-at-,,,nekwačih-ike·- has (apparently) non-occurring stem nekw-ačih-.,,MAM
-71,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,nekw-,,,,covered over,,initial,,,,,,,,,,,,,,nekwačih-ike·-,V,AI,do the hilling (of the corn),,IG1990a;0470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nekwačih-ike·- has (apparently) non-occurring stem nekw-ačih-.,,MAM
-72,Goddard,IG1990a,"0470,0472,0475",sac,,mesk1242,,ME:2,,-ike·-,,,,indefinite object,,final,AI,,,Y,TA,,,,,,,,,nekwačih-ike·-,V,AI,do the hilling (of the corn),,IG1990a;0470,išihčike·-,,ešiht-ike·-,V,AI,do thus,,IG1990a;0475,wi·swihčike·-,,wi·swiht-ike·-,V,AI,do the naming (of children),,IG1990a;0475,ni·mihčike·-,,ni·miht-ike·-,V,AI,hold a dance,,IG1990a;0476,,,,,,,,MAM
-74,Goddard,IG1990a,0471,sac,,mesk1242,,ME:2,,-i-,,,,be,,final,AI,,,Y,N,,,,,,,,,okima·w-i-,V,AI,be chief,,IG1990a;0471,,,oto·kima·m-i-,V,AI,,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,MAM
-75,Goddard,IG1990a,0472,sac,,mesk1242,,ME:2,,-ehke·-,,,,"make, obtain",,final,AI,,,Y,N,,,,,,,,,wi·kopy-ehke·-,V,AI,gather basswood bark,,IG1990a;0472,,,pene·w-ehke·-,V,AI,hunt turkeys,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,MAM
-76,Goddard,IG1990a,0472,sac,,mesk1242,,ME:2,,-i-,,,,have,,final,AI,,,Y,N,,,,,,,,,oto·kima·m-i-,V,AI,have a chief,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-77,Goddard,IG1990a,0472,sac,,mesk1242,,ME:2,,-em-,,,,have him/her as,,final,TA,,,Y,N,,,,,,,,,oto·kima·m-em-,V,TA,have him as chief,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-78,Goddard,IG1990a,0472,sac,,mesk1242,,ME:2,,-wen-,,,,nominalizer,,final,N,,,Y,AI,,,,,,,,,mehtose·neniwi-wen-,N,,life,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,forms abstract nouns,,MAM
-79,Goddard,IG1990a,0474,sac,,mesk1242,,ME:2,,-N-,,,,causative,,final,TA,,,Y,AI,,,,,,,pi·tikaN-,,pi·tike·-N-,V,TA,bring him/her inside,,IG1990a;0474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-80,Goddard,IG1990a,0474,sac,,mesk1242,,ME:2,,-h-,,,,causative,,final,TA,,,Y,AI,,,,,,,pemosah-,,pemose·-h-,V,TA,make him/her walk,,IG1990a;0474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-81,Goddard,IG1990a,0474,sac,,mesk1242,,ME:2,,-hkat-,,,,applicative,,final,TI1,,,Y,AI,,,,,,,,,mayo·-hkat-,V,TI1,bewail it,,IG1990a;0474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-82,Goddard,IG1990a,0474,sac,,mesk1242,,ME:2,,-nohkataw-,,,,applicative,,final,TA,,,Y,AI,,,,,,,,,okima·wi-nohkataw-,V,TA,be chief over them,,IG1990a;0474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-83,Goddard,IG1990a,0474,sac,,mesk1242,,ME:2,,-notaw-,,,,applicative,,final,TA,,,Y,AI,,,,,,,pye·notaw-,,pya·-notaw-,V,TA,come to him/her,,IG1990a;0474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-84,Goddard,IG1990a,"0475,0476",sac,,mesk1242,,ME:2,,-kye·-,,*-kye·-,,indefinite object,,final,AI,,,Y,TA,,,,,,,kano·hkye·-,,kano·N-kye·-,V,AI,speak,,IG1990a;0475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-85,Goddard,IG1990a,"0475,0476",sac,,mesk1242,,ME:2,,-iwe·-,,,,indefinite object,,final,AI,,,Y,TA,,,,,,,ešiwe·-,,eN-iwe·-,V,AI,state (thus),,IG1990a;0475,ni·mihiwe·-,,ni·mih-iwe·-,V,AI,give a dance for people,,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,,,MAM
-86,Goddard,IG1990a,0475,sac,,mesk1242,,ME:2,,-ke·-,,,,indefinite object,,final,AI,,,Y,TA,,,,,,,wa·pake·-,,wa·pam-ke·-,V,AI,look on,,IG1990a;0475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-87,Goddard,IG1990a,0475,sac,,mesk1242,,ME:2,,-eke·-,,,,indefinite object,,final,AI,,,Y,TA,,,,,,,no·ta·ke·-,,no·taw-eke·-,V,AI,hear (what people say),,IG1990a;0475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-88,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-ekosi-,,,,verb of undergoing,,final,AI,,,Y,TA,,-ekwat-,,,,,ina·čimekosi-,,ena·čim-ekosi-,V,AI,be told about (thus),,IG1990a;0476,ine·neta·kosi-,,ene·netaw-ekosi-,V,AI,be thought of (thus),,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,not positive these are pairs,,MAM
-89,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-ekwat-,,,,verb of undergoing,,final,II,,,Y,TA,-ekosi-,,,,,,ina·čimekwat-,,ena·čim-ekwat-,V,II,be told about (thus),,IG1990a;0476,ine·neta·kwat-,,ene·netaw-ekwat-,V,II,be thought of (thus),,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,not positive these are pairs,,MAM
-90,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-a·so-,,,,verb of undergoing,,final,AI,,,Y,TA,,-a·te·-,,,,,,,tepe·nem-a·so-,V,AI,be controlled,,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,not positive these are pairs,,MAM
-91,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-a·te·-,,,,verb of undergoing,,final,II,,,Y,TA,-a·so-,,,,,,,,tepe·net-a·te·-,V,II,be owned,,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,not positive these are pairs,,MAM
-92,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-a·kaniwi-,,,,verb of undergoing,,final,AI,,,Y,TA,,,,,,,,,wi·hkom-a·kaniwi-,V,AI,be invited,,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-93,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-e·weniwi-,,,,verb of undergoing,,final,AI,,,Y,TA,,,,,,,ine·weniwi-,,eN-e·weniwi-,V,AI,be called (thus),,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-94,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-(e)tiso-,,,,reflexive,,final,AI,,,Y,TA,,,,,,,wa·patiso-,,wa·pam-tiso-,V,AI,look at oneself,,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-95,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-(e)ti·-,,,,reciprocal,,final,AI,,,Y,TA,,,,,,,po·ne·neti·-,,po·ne·nem-ti·-,V,AI,stop thinking of each other,,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-96,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-o-,,,,middle reflexive,,final,AI,,,Y,TA,,,,,,,nemaso-,,nemaN-o-,V,AI,be standing,,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-97,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-e·-,,,,middle reflexive,,final,II,,,Y,TI2,,,,,,,,,nemat-e·-,V,II,be standing,,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-98,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-aw-,,,,double-object,double object,final,TA,,,Y,TI1,,,,,,,,,pemotam-aw-,V,TA,shoot him/it for him,Y,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-100,Goddard,IG1990a,0478,sac,,mesk1242,,ME:2,,-isenye·-,,,,eat,,final,AI,,,,,,,,,-i·seni-,,ki·šisenye·-,,,V,AI,have finished eating,,IG1990a;0478,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wi·seni- 'eat (AI)',"Allomorph: ""Leveling.. has produced a variant..."" (fn. 64).",,MAM
-101,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,pem-,,,,along,,initial,,,,,,,,,,,,pemose·-,,,V,AI,walk (along),,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-102,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,-ose·-,,,,walk,,final,AI,,,,,,,,,,,pemose·-,,,V,AI,walk (along),,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-103,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,we·p-,,,,begin,,initial,,,,,,,,,,,,we·pose·-,,,V,AI,NG,,IG1990a;0479,we·pose·-,,,V,AI,NG,,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,MAM
-104,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,-i,,,,NG,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-108,Goddard,IG1990a,0480,sac,,mesk1242,,ME:2,,-a·čim-,,,,say about,,final,TA,,,,,,,,,,,,,oto·te·weniwa·čim-,V,TA,be said of him/her that they have a town,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-187,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,meS-,,,,big,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-304,Goddard,IG1990a,0469,sac,,mesk1242,,ME:2,,pan-,,,,"drop, miss, fail",,initial,,,,,,,,,,,,,,pan-a·pam-,V,TA,lose sight of him/her,,IG1990a;0469,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-315,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,ahp-,,,,on top,,initial,,,,,,,,,,,,,,ahp-ihw-,V,TA,pile (e.g. brush) on top of him/her,,IG1990a;0470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+3,Goddard,IG1990a,0451,sac,,mesk1242,wa·pešk-,ME:2,,,,,,white,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+26,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-api-,,,,sit,,final,AI,,,,,,,,,,,,,masa·n-ika·-api-,V,AI,foot fall asleep as one sits,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+28,Goddard,IG1990a,0480,sac,,mesk1242,,ME:2,,-e·nem-,,,,think about,,final,TA,,,,,,,,,,,,,ki·ke·nowe·nem-,V,TA,think s/he is finished with a clan feast,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+43,Goddard,IG1990a,0463,sac,,mesk1242,,ME:2,,-a·nak-,,*-a·θak-,,hole,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+45,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,pehkw-,,,,lumpy,,initial,,,,,,,,,,,,,,pehkw-ikan-e·-,V,AI,have a lump on one's bone,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+46,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-ikan-,,,,bone,,medial,,,,,,,,,,,,,,pehkw-ikan-e·-,V,AI,have a lump on one's bone,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+47,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-e·-,,,,NG,,final,AI,,,,,,,,,,,,,pehkw-ikan-e·-,V,AI,have a lump on one's bone,,IG1990a;0465,,,papi·w-ika·t-e·-,V,AI,have small feet,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+48,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-to·n-,,,,mouth,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+49,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-eton(e·)-,,,,mouth,,medial,,,,,,,,,,,,,,ko·k-etone·-en-,V,TA,wash other's mouth,,IG1990a;0465,,,pa·hk-eton-Ø-,V,AI,open own mouth,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,Y,-to·n- 'mouth (dependent initial)',,,,MAM
+50,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,ko·k-,,,,wash,,initial,,,,,,,,,,,,,,ko·k-etone·-en-,V,TA,wash other's mouth,,IG1990a;0465,,,ko·k-i·kene·-eno-,V,AI,wash own forehead,,IG1990a;0466,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+51,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-en-,,,,by hand,,final,TA,,,,,,,,,,,,,ko·k-etone·-en-,V,TA,wash other's mouth,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+52,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,pa·hk-,,,,open,,initial,,,,,,,,,,,,,,pa·hk-eton-Ø-,V,AI,open own mouth,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+53,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-hka·t-,,,,foot,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+54,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,-ika·(t)-,,,,feet,,medial,,,,,,,,,,,,,,masa·n-ika·-api-,V,AI,foot fall asleep as one sits,,IG1990a;0465,,,papi·w-ika·t-e·-,V,AI,have small feet,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,Y,-hka·t- 'foot (dependent initial)',,,,MAM
+55,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,masa·n-,,,,prickly,,initial,,,,,,,,,,,,,,masa·n-ika·-api-,V,AI,foot fall asleep as one sits,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+57,Goddard,IG1990a,"0465,0466",sac,,mesk1242,,ME:2,,papi·w-,,,,small (pl.),,initial,,,,,,,,,,,,,,papi·w-ika·t-e·-,V,AI,have small feet,,IG1990a;0465,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+59,Goddard,IG1990a,0466,sac,,mesk1242,,ME:2,,-hkešy-,,*-xkenθ-,,forehead,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""reanalyzed as |-hkešy-|""",,,MAM
+60,Goddard,IG1990a,0466,sac,,mesk1242,,ME:2,,-i·kene·-,,*-inkeθe·-,,forehead,,medial,,,,,,,,,,,,,,ko·k-i·kene·-eno-,V,AI,wash own forehead,,IG1990a;0466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+61,Goddard,IG1990a,0466,sac,,mesk1242,,ME:2,,-eno-,,,,act on self by hand,,final,AI,,,,,,,,,,,,,ko·k-i·kene·-eno-,V,AI,wash own forehead,,IG1990a;0466,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+62,Goddard,IG1990a,0469,sac,,mesk1242,,ME:2,,-a·pam-,,,,NG,,final,TA,,,,,,,,,,,,,pan-a·pam-,V,TA,lose sight of him/her,,IG1990a;0469,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wa·pam- 'watch (TA)',,,,MAM
+64,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-i-,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ihw-,,,,,,,,MAM
+65,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ahw-,,,,act on by tool,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ihw-,,,,,,,,MAM
+66,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ihw-,,,,act on by mass or weight,,final,TA,,,,,,,,-ih-,,,,,kep-ihw-,V,TA,fence him/her in,,IG1990a;0470,,,ahp-ihw-,V,TA,pile (e.g. brush) on top of him/her,,IG1990a;0470,,,,,,,,,,,,,,,,,,-ahw-,-i-,,,"footnote: ""the gloss of the final is a first approximation.""",,,MAM
+67,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,kep-,,,,closed,,initial,,,,,,,,,,,,,,kep-ihw-,V,TA,fence him/her in,,IG1990a;0470,,,kep-ih,V,TI1,fence it in,,IG1990a;0470,,,kep-ačih-,N,,"cork, stopper",,IG1990a;0470,,,,,,,,,,,,,,,,,MAM
+68,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-at-,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ačih-,,,,,,,,MAM
+69,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ih-,,,,act on by mass or weight,,final,TI1,,,,,,,-ihw-,,,,,,kep-ih,V,TI1,fence it in,,IG1990a;0470,,,,,,,,,,,,,,,,,,,,,,,,,-ačih-,,,,,"in footnote: final and stem meanings deduced from corresponding TA; ""the gloss of the final is a first approximation.""",,,MAM
+70,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,-ačih-,,,,act on by mass or weight using stick,,final,TI1,,,,,,,,,,,,,nekwačih-ike·-,V,AI,do the hilling (of the corn),,IG1990a;0470,,,kep-ačih-,N,,"cork, stopper",,IG1990a;0470,,,,,,,,,,,,,,,,,,-ih-,-at-,,,nekwačih-ike·- has (apparently) non-occurring stem nekw-ačih-.,,,MAM
+71,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,nekw-,,,,covered over,,initial,,,,,,,,,,,,,,nekwačih-ike·-,V,AI,do the hilling (of the corn),,IG1990a;0470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,nekwačih-ike·- has (apparently) non-occurring stem nekw-ačih-.,,,MAM
+72,Goddard,IG1990a,"0470,0472,0475",sac,,mesk1242,,ME:2,,-ike·-,,,,indefinite object,,final,AI,,,Y,TA,,,,,,,,,nekwačih-ike·-,V,AI,do the hilling (of the corn),,IG1990a;0470,išihčike·-,,ešiht-ike·-,V,AI,do thus,,IG1990a;0475,wi·swihčike·-,,wi·swiht-ike·-,V,AI,do the naming (of children),,IG1990a;0475,ni·mihčike·-,,ni·miht-ike·-,V,AI,hold a dance,,IG1990a;0476,,,,,,,,,MAM
+74,Goddard,IG1990a,0471,sac,,mesk1242,,ME:2,,-i-,,,,be,,final,AI,,,Y,N,,,,,,,,,okima·w-i-,V,AI,be chief,,IG1990a;0471,,,oto·kima·m-i-,V,AI,,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+75,Goddard,IG1990a,0472,sac,,mesk1242,,ME:2,,-ehke·-,,,,"make, obtain",,final,AI,,,Y,N,,,,,,,,,wi·kopy-ehke·-,V,AI,gather basswood bark,,IG1990a;0472,,,pene·w-ehke·-,V,AI,hunt turkeys,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+76,Goddard,IG1990a,0472,sac,,mesk1242,,ME:2,,-i-,,,,have,,final,AI,,,Y,N,,,,,,,,,oto·kima·m-i-,V,AI,have a chief,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+77,Goddard,IG1990a,0472,sac,,mesk1242,,ME:2,,-em-,,,,have him/her as,,final,TA,,,Y,N,,,,,,,,,oto·kima·m-em-,V,TA,have him as chief,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+78,Goddard,IG1990a,0472,sac,,mesk1242,,ME:2,,-wen-,,,,nominalizer,,final,N,,,Y,AI,,,,,,,,,mehtose·neniwi-wen-,N,,life,,IG1990a;0472,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,forms abstract nouns,,,MAM
+79,Goddard,IG1990a,0474,sac,,mesk1242,,ME:2,,-N-,,,,causative,,final,TA,,,Y,AI,,,,,,,pi·tikaN-,,pi·tike·-N-,V,TA,bring him/her inside,,IG1990a;0474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+80,Goddard,IG1990a,0474,sac,,mesk1242,,ME:2,,-h-,,,,causative,,final,TA,,,Y,AI,,,,,,,pemosah-,,pemose·-h-,V,TA,make him/her walk,,IG1990a;0474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+81,Goddard,IG1990a,0474,sac,,mesk1242,,ME:2,,-hkat-,,,,applicative,,final,TI1,,,Y,AI,,,,,,,,,mayo·-hkat-,V,TI1,bewail it,,IG1990a;0474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+82,Goddard,IG1990a,0474,sac,,mesk1242,,ME:2,,-nohkataw-,,,,applicative,,final,TA,,,Y,AI,,,,,,,,,okima·wi-nohkataw-,V,TA,be chief over them,,IG1990a;0474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+83,Goddard,IG1990a,0474,sac,,mesk1242,,ME:2,,-notaw-,,,,applicative,,final,TA,,,Y,AI,,,,,,,pye·notaw-,,pya·-notaw-,V,TA,come to him/her,,IG1990a;0474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+84,Goddard,IG1990a,"0475,0476",sac,,mesk1242,,ME:2,,-kye·-,,*-kye·-,,indefinite object,,final,AI,,,Y,TA,,,,,,,kano·hkye·-,,kano·N-kye·-,V,AI,speak,,IG1990a;0475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+85,Goddard,IG1990a,"0475,0476",sac,,mesk1242,,ME:2,,-iwe·-,,,,indefinite object,,final,AI,,,Y,TA,,,,,,,ešiwe·-,,eN-iwe·-,V,AI,state (thus),,IG1990a;0475,ni·mihiwe·-,,ni·mih-iwe·-,V,AI,give a dance for people,,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+86,Goddard,IG1990a,0475,sac,,mesk1242,,ME:2,,-ke·-,,,,indefinite object,,final,AI,,,Y,TA,,,,,,,wa·pake·-,,wa·pam-ke·-,V,AI,look on,,IG1990a;0475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+87,Goddard,IG1990a,0475,sac,,mesk1242,,ME:2,,-eke·-,,,,indefinite object,,final,AI,,,Y,TA,,,,,,,no·ta·ke·-,,no·taw-eke·-,V,AI,hear (what people say),,IG1990a;0475,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+88,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-ekosi-,,,,verb of undergoing,,final,AI,,,Y,TA,,-ekwat-,,,,,ina·čimekosi-,,ena·čim-ekosi-,V,AI,be told about (thus),,IG1990a;0476,ine·neta·kosi-,,ene·netaw-ekosi-,V,AI,be thought of (thus),,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,not positive these are pairs,,,MAM
+89,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-ekwat-,,,,verb of undergoing,,final,II,,,Y,TA,-ekosi-,,,,,,ina·čimekwat-,,ena·čim-ekwat-,V,II,be told about (thus),,IG1990a;0476,ine·neta·kwat-,,ene·netaw-ekwat-,V,II,be thought of (thus),,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,not positive these are pairs,,,MAM
+90,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-a·so-,,,,verb of undergoing,,final,AI,,,Y,TA,,-a·te·-,,,,,,,tepe·nem-a·so-,V,AI,be controlled,,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,not positive these are pairs,,,MAM
+91,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-a·te·-,,,,verb of undergoing,,final,II,,,Y,TA,-a·so-,,,,,,,,tepe·net-a·te·-,V,II,be owned,,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,not positive these are pairs,,,MAM
+92,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-a·kaniwi-,,,,verb of undergoing,,final,AI,,,Y,TA,,,,,,,,,wi·hkom-a·kaniwi-,V,AI,be invited,,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+93,Goddard,IG1990a,0476,sac,,mesk1242,,ME:2,,-e·weniwi-,,,,verb of undergoing,,final,AI,,,Y,TA,,,,,,,ine·weniwi-,,eN-e·weniwi-,V,AI,be called (thus),,IG1990a;0476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+94,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-(e)tiso-,,,,reflexive,,final,AI,,,Y,TA,,,,,,,wa·patiso-,,wa·pam-tiso-,V,AI,look at oneself,,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+95,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-(e)ti·-,,,,reciprocal,,final,AI,,,Y,TA,,,,,,,po·ne·neti·-,,po·ne·nem-ti·-,V,AI,stop thinking of each other,,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+96,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-o-,,,,middle reflexive,,final,AI,,,Y,TA,,,,,,,nemaso-,,nemaN-o-,V,AI,be standing,,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+97,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-e·-,,,,middle reflexive,,final,II,,,Y,TI2,,,,,,,,,nemat-e·-,V,II,be standing,,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+98,Goddard,IG1990a,0477,sac,,mesk1242,,ME:2,,-aw-,,,,double-object,double object,final,TA,,,Y,TI1,,,,,,,,,pemotam-aw-,V,TA,shoot him/it for him,Y,IG1990a;0477,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+100,Goddard,IG1990a,0478,sac,,mesk1242,,ME:2,,-isenye·-,,,,eat,,final,AI,,,,,,,,,-i·seni-,,ki·šisenye·-,,,V,AI,have finished eating,,IG1990a;0478,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wi·seni- 'eat (AI)',"Allomorph: ""Leveling.. has produced a variant..."" (fn. 64).",,,MAM
+101,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,pem-,,,,along,,initial,,,,,,,,,,,,pemose·-,,,V,AI,walk (along),,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+102,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,-ose·-,,,,walk,,final,AI,,,,,,,,,,,pemose·-,,,V,AI,walk (along),,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+103,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,we·p-,,,,begin,,initial,,,,,,,,,,,,we·pose·-,,,V,AI,NG,,IG1990a;0479,we·pose·-,,,V,AI,NG,,IG1990a;0479,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+104,Goddard,IG1990a,0479,sac,,mesk1242,,ME:2,,-i,,,,NG,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+108,Goddard,IG1990a,0480,sac,,mesk1242,,ME:2,,-a·čim-,,,,say about,,final,TA,,,,,,,,,,,,,oto·te·weniwa·čim-,V,TA,be said of him/her that they have a town,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+187,Goddard,IG1990a,0465,sac,,mesk1242,,ME:2,,meS-,,,,big,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+304,Goddard,IG1990a,0469,sac,,mesk1242,,ME:2,,pan-,,,,"drop, miss, fail",,initial,,,,,,,,,,,,,,pan-a·pam-,V,TA,lose sight of him/her,,IG1990a;0469,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+315,Goddard,IG1990a,0470,sac,,mesk1242,,ME:2,,ahp-,,,,on top,,initial,,,,,,,,,,,,,,ahp-ihw-,V,TA,pile (e.g. brush) on top of him/her,,IG1990a;0470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 321,Denny,JPD1978a,0305,sac,,mesk1242,ahkamik,ME:3,,,,*-axkamik-,,stretch of ground or time,,medial
-329,Denny,JPD1978a,0312,sac,,mesk1242,ē,ME:3,,,,*-ē-,,process,,final,unk.,,ABSTR
-331,Denny,JPD1978a,0312,sac,,mesk1242,ehn,ME:3,,,,*-en-,,event,,final,unk.,,ABSTR
-326,Denny,JPD1978a,0311,sac,,mesk1242,i,ME:3,,,,,,NG,,final,unk.
-325,Denny,JPD1978a,0311,sac,,mesk1242,iw,ME:3,,,,,,NG,,final,unk.
+329,Denny,JPD1978a,0312,sac,,mesk1242,ē,ME:3,,,,*-ē-,,process,,final,unknown,,ABSTR
+331,Denny,JPD1978a,0312,sac,,mesk1242,ehn,ME:3,,,,*-en-,,event,,final,unknown,,ABSTR
+326,Denny,JPD1978a,0311,sac,,mesk1242,i,ME:3,,,,,,NG,,final,unknown
+325,Denny,JPD1978a,0311,sac,,mesk1242,iw,ME:3,,,,,,NG,,final,unknown
 324,Denny,JPD1978a,0311,sac,,mesk1242,nyēw,ME:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'four'
 327,Denny,JPD1978a,0312,sac,,mesk1242,pehkotē,ME:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'night'
-328,Denny,JPD1978a,0312,sac,,mesk1242,s,ME:3,,,,*-hθ-,,become,,final,unk.,,CONCR
+328,Denny,JPD1978a,0312,sac,,mesk1242,s,ME:3,,,,*-hθ-,,become,,final,unknown,,CONCR
 330,Denny,JPD1978a,0312,sac,,mesk1242,sāk,ME:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'likely 'protrude' or related
 322,Denny,JPD1978a,0301,sac,,mesk1242,wāpan,ME:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'dawn'
 432,Thomason,LT2021,,,,,-(e*y)a*py-,ME:4,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'string'. See medial -a*py-. 
@@ -378,7 +378,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 442,Thomason,LT2021,,,,,-a*t-,ME:4,,,,,,NG,,postradical,,,,,,,,,,,,akwiyat-,,,,,"especially, more so",,,anekat-,,,,,acquainted,,,kekinawat-,,,,,indicatively,,,kekyepat-,,,,,"foolish, stupid, lackwit"
 443,Thomason,LT2021,,,,,-a*w-,ME:4,,,,,,NG,,postradical,,,,,,,,,,,,akwaw-,,,,,full,,,-awak-,,,,,"earth, ground, land, dirt",,,meshkwameshkwawitowinikwe,,,V,,have bloodshot eyes,,,,,,,,,,,,,,,,"""postradical?"". VMN: there is a question mark next to the form of this entry, as well as in this comment. "
 444,Thomason,LT2021,,,,,-a*wak-,ME:4,,-a*w-ak-,,,,earth/ground/land,,medial,,,,,,,,,,,,akanawaki,,,V,,be hard ground,,,apitawaki,,,V,,be such an extent of earth,,,akwishkawaki,,,V,,be muddy earth,,,apawakate,,,V,,be hot (said of earth)
-446,Thomason,LT2021,,,,,-a*we*,ME:4,,,,,,NG,,final,unk.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: related to medial -a*we*-. 
+446,Thomason,LT2021,,,,,-a*we*,ME:4,,,,,,NG,,final,unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: related to medial -a*we*-. 
 445,Thomason,LT2021,,,,,-a*we*-,ME:4,,,,,,have eggs,,medial,,,,,,,,,,,,kekaweshin,,,V,,have eggs in nest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Compare IN owa*wan-, awa*wan-, wa*wan- `egg'. To date this medial is attested only in a single stem, AI keka*we*shin-. [Related:] final -a*we*. [Related:] IN owa*wan-, awa*wan-, wa*wan- `egg' ? "
 333,Thomason,LT2021,,,,,-achiw-,ME:4,,,,,,roots,,medial,,,,,,,,,,,,-achiwe-,,,N,,roots
 334,Thomason,LT2021,,,,,-achiwe*-,ME:4,,-achiw-e*-,,,,roots,,medial
@@ -455,9 +455,9 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 484,Thomason,LT2021,,,,,-e*ya*hkw-,ME:4,,-e*y-a*hkw-,,,,forest,,medial,,,,,,,,,,,,nanaweyakopyeya,,,V,,be water extending way out into the forest,,,nameyakwisah,,,,,goshawk; Goes-Through-the-Timber,,,noweyakwi,,,V,,go out of a forest,,,piteyakwipaho,,,V,,run into the woods,,,,,,,,"""[Related:] particle final -e*ya*hkwe `forest'"". "
 485,Thomason,LT2021,,,,,-e*ya*hkwe,ME:4,,,,,,forest,,final,PART
 486,Thomason,LT2021,,,,,-e*ya*mehk-,ME:4,,-e*y-a*mehk-,,,,forest of bottomland,,medial,,,,,,,,,,,,akweyamekiw,,,,,forest of the bottomland of a river,,,akweyamekiwi,,,,,be forest of the bottomland of a river
-448,Thomason,LT2021,,,,,-echa*m,ME:4,,,,,,instrumental,,final,unk.
+448,Thomason,LT2021,,,,,-echa*m,ME:4,,,,,,instrumental,,final,unknown
 447,Thomason,LT2021,,,,,-eche*-,ME:4,,,,,,small round thing,,medial,,,,,,,,,,,,asipechen,,,V,,"carry bunched up in the hand, carry a bunch of",,,apetochenaw,,,V,,hit in the middle of the body with a shot,,,chakechenaw,,,V,,hit all of with a shot,,,kipoche,,,V,,have one's belly be full,,,,,,,,"""small round thing (body, belly, etc.)."" ""There are attestations of at least 356 distinct stems containing this medial. [Related:] instrumental final -echa*m"". "
-471,Thomason,LT2021,,,,,-ehkwamy,ME:4,,,,,,ice surface,,final,unk.,,,,,,,,,-ahkwamy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: related to medial -eshkw-. 
+471,Thomason,LT2021,,,,,-ehkwamy,ME:4,,,,,,ice surface,,final,unknown,,,,,,,,,-ahkwamy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: related to medial -eshkw-. 
 449,Thomason,LT2021,,,,,-ehkwamye*-,ME:4,,-ehkwamy-e*-,,,,ice surface,,medial,,,,,,,,,,,,ashowekwamyepaho,,,V,,run across the ice surface,,,namakwamyesah,,,V,,shove under the ice,,,shashoshkwekwamyeya,,,V,,be slippery ice surface,,,tatakwakwamyeya,,,V,,be bare ice,,,,,,,,"""JP and SP use the variant -ahkwamye*-. YB's pronunciation: -ehkwemye*-. [Related:] IN mehkwamy- `the ice surface'. [Related:] medial -eshkw- [1], -ashkw- [2] `ice'. "
 450,Thomason,LT2021,,,,,-ehkwe*-,ME:4,,,,,,head,,medial,,,,,,,,,,-eshkwe*-,,-anekwe-,,,N,,hair,,,asipekwekapa,,,V,,stand with heads together,,,nakapekwepi,,,V,,sit with bowed head,,,nakekwenik,,,V,,stop one's horse,,,,,,,,"""head, neck, hair"". ""There are attestations of at least 105 distinct stems containing this medial."" "
 451,Thomason,LT2021,,,,,-ehkwe*-,ME:4,,,,,,NG,,medial,,,,,,,,,,,,-ekwemo,,,V,,seek help or advice,,,inekwem,,,V,,attract the attention of thither by speech,,,kishekwepit,,,V,,have sat down to,,,kiwatekwepi,,,V,,sit lonely
@@ -514,7 +514,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 505,Thomason,LT2021,,,,,-ihkena*hkwe*,ME:4,,,,,,turtle shell,,final,AI
 504,Thomason,LT2021,,,,,-ihkena*hkwe*-,ME:4,,-i-hkena*hkw-e*-,,,,turtle shell,,medial,,,,,,,,,,,,pokikenakweshkaw,,,V,,pierce a hole in the shell of with body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""There is only a single attestation of this medial. [Related:] dependent noun hkena*hkw- `turtle shell' [Related:] AI final -ihkena*hkwe* `turtle shell'. "
 506,Thomason,LT2021,,,,,-ihkeshe*we*-,ME:4,,-i-hkeshe*w-e*-,,,,fire/coals/ashes,,medial,,,,,,,,,,,,shikwikesheweshin,,,V,,lie in the left-over ashes,,,pawikeshewesahewa,,,V,,shake the ashes out of (a pipe),,,wikechikeshewenike,,,V,,stir the fire carefully,,,,,,,,,,,,,,,,"""Compare medial -eshe*- [1] `blaze, burn' and medial -eshe*we*- `fire, ashes, coals'. [Related:] IN kahkeshe*w-, kehkeshe*w- `charcoal'. "
-508,Thomason,LT2021,,,,,-ihkwe*kan,ME:4,,,,,,NG,,final,unk.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: Related to -ihkwe*kane*-. See entry. 
+508,Thomason,LT2021,,,,,-ihkwe*kan,ME:4,,,,,,NG,,final,unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: Related to -ihkwe*kane*-. See entry. 
 507,Thomason,LT2021,,,,,-ihkwe*kane*-,ME:4,,-i-hkwe*kan-e*-,,,,neck,,medial,,,,,,,,,,-ishkwe*kane*-,,kekichikwekanepiso,,,V,,have tied around one's neck,,,kokikwekanen,,,V,,wash the neck of,,,kokikwekanenowa,,,V,,wash one's neck,,,kenwishkwekanekochin,,,V,,hang with a long neck,,,,,,,,"""As of November 2018, there is only a single attested occurrence of the -ishkwe*kane*- variant of this medial, in AKFWEWI (AI kenwishkwe*kane*ko*chin-). [Related:] dependent noun hkwe*kan- [Related:] final -ihkwe*kan. "
 510,Thomason,LT2021,,,,,-ihpane*,ME:4,,,,,,"lung, inside of the throat",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: related to medial -ihpane*-. 
 509,Thomason,LT2021,,,,,-ihpane*-,ME:4,,,,,,lung,,medial,,,,,,,,,,,,kenikipaneshkaw,,,V,,tickle the throat of by internal action,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""There is only a single attestation of this medial. [Related:] AI final -ihpane* `lung, inside of the throat'. "
@@ -523,7 +523,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 512,Thomason,LT2021,,,,,-ihtawake*-,ME:4,,-i-htawak(ay)-e*-,,,,ear,,medial,,,,,,,,,,,,kokitawakeno,,,V,,wash one's ears,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Form entered in lexical files, but otherwise unattested. Historically, denominal medials always omitted noun final -ay. In 20th and 21st-century Meskwaki, noun final -ay is sometimes included in derivatives, and sometimes not. [Related:] dependent noun htawakay- `ear'. "
 514,Thomason,LT2021,,,,,-ik-,ME:4,,,,,,stick(like) configuration,,postradical,,,,,,,,,,,,machik-,,,V,,move in a sticklike manner,,,pasik-,,,,,"split, half",,,wakanakik-,,,,,without bark,,,-ikah,,,,,"by axe, shape with an axe, hew",,,,,,,,"""postradical, prefinal [Related:] AI final -ike* [2] `using a stick' [identical to papepipo] postradical/prefinal -ihk- `mass, totality' "". "
 520,Thomason,LT2021,,,,,-ika*-,ME:4,,,,,,foot,,medial,,,,,,,,,,,,wikawikapiwa,,,V,,he sits moving his feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Medial -ika*- historically meant `leg'. In Meskwaki, it replaced the old medial for `foot'. [Related:] dependent noun hka*t- [Related: ] final -ika*te*"". "
-622,Thomason,LT2021,,,,,-ika*te*,ME:4,,,,,,NG,,final,unk.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: related to medial -ika*-. 
+622,Thomason,LT2021,,,,,-ika*te*,ME:4,,,,,,NG,,final,unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: related to medial -ika*-. 
 516,Thomason,LT2021,,,,,-ikahkwane*-,ME:4,,-i-kahkwan-e*-,,,,shin,,medial,,,,,,,,,,,,pokwikakwanew,,,V,,hit and break the leg of,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""This old medial for `shin' has stepped up to mean `leg', often. [Related:] dependent noun kahkwan-. "
 517,Thomason,LT2021,,,,,-ikamik-,ME:4,,-ik-amik-,,,,household,,medial,,,,,,,,,,,,-ikamikesi,,,V,,be of N households,,,-ikamiki,,,,,N households
 518,Thomason,LT2021,,,,,-ikane*-,ME:4,,-i-kan-e*-,,,,bone,,medial,,,,,,,,,,,,nenyematokane-,,,,,with one's knees up,,,anwewekanesa,,,V,,move fast rattling one's bones,,,anwewekaneshkatimikat,,,V,,collide with each other as rattling bones,,,asawikaneya,,,V,,be a yellow bone,,,,,,,,"""[Related:] IN ahkan- `bone' "". "
@@ -557,7 +557,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 549,Thomason,LT2021,,,,,-ina*kane*-,ME:4,,-i-na*kan-e*-,,,,bowl,,medial,,,,,,,,,,-ana*kane*-,,kekinakanepih,,,V,,cause to sit having a bowl,,,kekinakanesen,,,V,,lie in a bowl,,,kekinakaneseto,,,V,,place in a bowl,,,kekinakaneshin,,,V,,lie in a bowl,,,,,,,,"""[Related:] IN ana*kan-"". "
 550,Thomason,LT2021,,,,,-ina*ne*-,ME:4,,-i-na*n-e*-,,,,calf of the leg,,medial,,,,,,,,,,,,chipinanesah,,,V,,poke in the calf,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""[Related:] dependent noun na*n-"". "
 551,Thomason,LT2021,,,,,-ina*we*h-,ME:4,,,,,,hour,,medial,,,,,,,,,,,,nishwinawehakat,,,V,,be two hours,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""There is only a single attestation of this medial. [Parse as:] English loan."" "
-625,Thomason,LT2021,,,,,-inahake*,ME:4,,,,,,NG,,final,unk.,,,,,,,,,-anahake*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: also -inahakaye*. Related to medial -inahake*-. 
+625,Thomason,LT2021,,,,,-inahake*,ME:4,,,,,,NG,,final,unknown,,,,,,,,,-anahake*,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: also -inahakaye*. Related to medial -inahake*-. 
 539,Thomason,LT2021,,,,,-inahake*-,ME:4,,-i-nahak-e*,,,,bark/rind/scales,,medial,,,,,,,,,,,,chachikinahakekwesihi,,,,,?,,,ishinahakekapa,,,V,,stand with such bark,,,kawinahakeya,,,V,,have rough bark,,,pakwaninahaken,,,V,,pull off scales of by hand,,,,,,,,"""[Related:] AI onahake*- [Related:] AN/IN onahakay- [Related:] final -inahake*, -anahake*, -inahakaye*"". "
 540,Thomason,LT2021,,,,,-inakahkwe*-,ME:4,,-i-nakahkw-e*-,,,,throat,,medial,,,,,,,,,,,,patapatakinakakwew,,,,,sting piercing the throat of,,,wisakinakakwewachi,,,V,,have one's throat ache from the cold,,,,,,,,,,,,,,,,,,,,,,,,"""This entry includes every instance of -inakahkwe*- attested in the edited corpus as of February 2021. [Related:] dependent noun nakahkw- `throat; palate, back of mouth' "". "
 541,Thomason,LT2021,,,,,-inakaye*-,ME:4,,-inakay-e*-,,,,penis,,medial,,,,,,,,,,,,kishakochinakayeshin,,,,,?,,,kishkinakayeshw,,,V,,cut off the penis of,,,wisakinakayeso,,,V,,burn one's penis painfully,,,,,,,,,,,,,,,,"""Historically, denominal medials always omitted noun final -ay. In 20th and 21st-century Meskwaki, noun final -ay is sometimes included in derivatives, and sometimes not. [Related:] dependent noun i*nakay- "". "

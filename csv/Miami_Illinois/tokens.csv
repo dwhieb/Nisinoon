@@ -1,4 +1,4 @@
-Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
+Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
 1,Costa,DJC2019,0007,mia,,miam1252,-aaciipihkii,MY:Standard,,,,,,root,,medial
 2,Costa,DJC2019,0008,mia,,miam1252,-aacimwi,MY:Standard,,,,,,story,,final,AI
 3,Costa,DJC2019,0009,mia,,miam1254,-aahkal,MY:Standard,,,,,,throw,,final,TA
@@ -72,7 +72,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 71,Costa,DJC2019,0005,mia,,miam1252,-aatawee,MY:Standard,,,,,,language,,final,AI
 72,Costa,DJC2019,0005,mia,,miam1252,-aataweem,MY:Standard,,,,,,language,,final,TA
 73,Costa,DJC2019,0003,mia,,miam1252,-aci,MY:Standard,,,,,,"cold, by",,final,AI
-74,Costa,DJC2013,0200,mia,,miam1252,-ači,MY:1,,,,,,cold,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+74,Costa,DJC2013,0200,mia,,miam1252,-ači,MY:1,,,,,,cold,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 75,Costa,DJC2019,0007,mia,,miam1252,-aciipihk,MY:Standard,,,,,,root,,final,N
 76,Costa,DJC2019,0005,mia,,miam1252,-aciw,MY:Standard,,,,,,hill,,final,N
 77,Costa,DJC2019,0005,mia,,miam1252,-ah(w),MY:Standard,,,,,,"instrument, by",,final,TA
@@ -329,5 +329,5 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 328,Costa,DJC2019,0008,mia,,miam1252,-wee,MY:Standard,,,,,,speak,,final,AI
 329,Haas,MH1958a,0243,mia,,miam1252,kak(k)-,MY:1,,,,,,scrape,,initial
 330,Goddard,IG1965,0211,mia,,miam1252,lam-,MY:1,,,,*-aθa·m-,,underneath,,initial
-331,Costa,DJC2013,0200,mia,,miam1252,nip-,MY:1,,,,,,cold,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+331,Costa,DJC2013,0200,mia,,miam1252,nip-,MY:1,,,,,,cold,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 332,Goddard,IG1965,0219,mia,,miam1252,wak-,MY:1,,,,"*wa·kene·wa, *wa·kenamwa",,bend,,initial,,,,,,,,,,,,,,,,,,,,,,,,,GVM: PA form: only verbs given

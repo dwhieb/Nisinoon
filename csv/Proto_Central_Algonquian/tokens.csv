@@ -1,4 +1,4 @@
-Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,,Speaker,1st check done,2nd check done
+Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,,Speaker,1st check done,2nd check done
 1,Bloomfield,LB1927b,0395,,,,-*at-ehtaw,PCA:1,,,,,,cold,,final,TI
 2,Bloomfield,LB1927b,0399,,,,-*sit-,PCA:1,,,,,,foot,,medial
 3,Bloomfield,LB1927b,0400,,,,-*sitä-,PCA:1,,,,,,foot,,medial
@@ -8,7 +8,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 7,Bloomfield,LB1927b,0396,,,,-äle-nt-,PCA:1,,,,,,thought,,final
 8,Bloomfield,LB1927b,0400,,,,-ēpit-,PCA:1,,,,,,tooth,,medial,AnimDep
 9,Bloomfield,LB1927b,0400,,,,-θcentcy-,PCA:1,,,,,,hand,,medial
-10,Bloomfield,LB1925b,0144,,,,*-'lä-,PCA:1,,,,,,"fly, rush",,final,unk.
+10,Bloomfield,LB1925b,0144,,,,*-'lä-,PCA:1,,,,,,"fly, rush",,final,unknown
 11,Bloomfield,LB1925b,0135,,,,*-'θeny-,PCA:1,,,,,,eat,,medial
 12,Bloomfield,LB1925b,0135,,,,*-ä-,PCA:1,,,,,,NG,,final,AI
 13,Bloomfield,LB1925b,0137,,,,*-ä-,PCA:1,,,,,,NG,,postinitial
@@ -37,12 +37,12 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 27,Bloomfield,LB1927b,0400,,,,*-amäkw-,PCA:1,,,,,,fish,,medial
 28,Bloomfield,LB1925b,0138,,,,*-amaw-,PCA:1,,,,,,to or for animate object,,final,TA
 29,Bloomfield,LB1925b,0145,,,,*-ant-,PCA:1,,,,,,NG,,final,TI
-30,Bloomfield,LB1925b,"0143, 0145",,,,*-āp-,PCA:1,,,,,,look,,final,unk.,,CONCR
+30,Bloomfield,LB1925b,"0143, 0145",,,,*-āp-,PCA:1,,,,,,look,,final,unknown,,CONCR
 31,Bloomfield,LB1927b,0397,,,,*-āpam-,PCA:1,,,,,,NG,,final
 32,Bloomfield,LB1927b,0397,,,,*-āpan-,PCA:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
 33,Bloomfield,LB1927b,0397,,,,*-āpant-,PCA:1,,,,,,NG,,final
 34,Bloomfield,LB1927b,0398,,,,*-āpexk-,PCA:1,,,,,,"stone, solid of similar consistency",,medial
-35,Bloomfield,LB1925b,0143,,,,*-api-,PCA:1,,,,,,sit,,final,unk.
+35,Bloomfield,LB1925b,0143,,,,*-api-,PCA:1,,,,,,sit,,final,unknown
 36,Bloomfield,LB1927b,0397,,,,*-āpi-,PCA:1,,,,,,NG,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
 37,Bloomfield,LB1927b,0397,,,,*-āpimin-,PCA:1,,,,,,NG,,final
 38,Bloomfield,LB1927b,0400,,,,*-apitä-,PCA:1,,,,,,tooth,,medial
@@ -70,9 +70,9 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 58,Haas,MH1958b,0245,,,,*-e·hθ-,PCA:2,,,,,,father
 59,Bloomfield,LB1925b,0137,,,,*-eck-aw-,PCA:1,,,,,,foot or body movement on animate object,,final,TA
 60,Bloomfield,LB1925b,0151,,,,*-ecw-,PCA:1,,,,,,cut ,,final,TA
-61,Bloomfield,LB1925b,0143,,,,*-ehk-,PCA:1,,,,,,"by foot, go",,final,unk.
+61,Bloomfield,LB1925b,0143,,,,*-ehk-,PCA:1,,,,,,"by foot, go",,final,unknown
 62,Bloomfield,LB1925b,0137,,,,*-eht-aw-,PCA:1,,,,,,hear animate object,,final,TA
-63,Bloomfield,LB1925b,"0137, 0139, 0151",,,,*-ekw-,PCA:1,,,,,,undergoing ,,final,INTR.,,,Y,TRANS
+63,Bloomfield,LB1925b,"0137, 0139, 0151",,,,*-ekw-,PCA:1,,,,,,undergoing ,,final,INTR,,,Y,TRANS
 64,Bloomfield,LB1927b,0394,,,,*-el-,PCA:1,,,,,,by shot,,final,TI,,,,,,,,*-el-
 64,Haas,MH1958b,"0237,0251",,,,*-el-,PCA:2,,,,,,shoot,,final,TI,,,,,,,*-elaw-
 65,Bloomfield,LB1927b,0394,,,,*-elaw-,PCA:1,,,,,,by shot,,final,TA
@@ -93,7 +93,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 74,Bloomfield,LB1925b,0142,,,,*-ēwi,PCA:1,,,,,,NG,,final,AI,,,Y,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""forming denominative verbs"""
 74,Bloomfield,LB1927b,"0396,0397",,,,*-ēwi-,PCA:1,,,,,,NG,,final,,,,Y,N
 75,Bloomfield,LB1927b,0400,,,,*-exkwäw-,PCA:1,,,,,,woman,,medial
-76,Bloomfield,LB1927b,0400,,,,*-exkwäwä-,PCA:1,,,,,,woman,,medial,INTR.
+76,Bloomfield,LB1927b,0400,,,,*-exkwäwä-,PCA:1,,,,,,woman,,medial,INTR
 77,Bloomfield,LB1925b,0133,,,,*-h-,PCA:1,,,,,,causative,,final,TA,,,Y,AI
 78,Bloomfield,LB1925b,0145,,,,*-h-,PCA:1,,,,,,NG,,final,TA
 79,Bloomfield,LB1927b,0395,,,,*-hc-im-,PCA:1,,,,,,"fall, lie",,final,TA
@@ -109,7 +109,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 86,Bloomfield,LB1925b,0145,,,,*-htaw-,PCA:1,,,,,,NG,,final,TI,,,,,,,*-h-
 87,Bloomfield,LB1925b,0145,,,,*-htō-,PCA:1,,,,,,NG,,final,TI,,,,,,,*-h-
 88,Bloomfield,LB1927b,0395,,,,*-hθ-,PCA:1,,,,,,"fall, lie",,prefinal
-89,Bloomfield,LB1925b,"0136, 0153",,,,*-hθ-,PCA:1,,,,,,"fall, lie",,final,unk.,,CONCR
+89,Bloomfield,LB1925b,"0136, 0153",,,,*-hθ-,PCA:1,,,,,,"fall, lie",,final,unknown,,CONCR
 90,Bloomfield,LB1927b,0395,,,,*-hθ-en-,PCA:1,,,,,,"fall, lie",,final,II
 91,Bloomfield,LB1927b,0395,,,,*-hθ-etaw-,PCA:1,,,,,,"fall, lie",,final,TI
 92,Bloomfield,LB1927b,0393,,,,*-i,PCA:1,,,,,,NG,,final,PART
@@ -121,10 +121,11 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 98,Haas,MH1958b,0247,,,,*-i·θ-,PCA:2,,,,,,head,,medial
 99,Bloomfield,LB1925b,"0136, 0153",,,,*-in-,PCA:1,,,,,,NG,,final,AI
 100,Haas,MH1958b,0248,,,,*-iti,PCA:2,,,,,,reciprocal,,final,AI
-101,Bloomfield,LB1925b,0141,,,,*-iw-,PCA:1,,,,,,NG,,final,unk.
+101,Bloomfield,LB1925b,0141,,,,*-iw-,PCA:1,,,,,,NG,,final,unknown
 102,Bloomfield,LB1927b,0395,,,,*-k-,PCA:1,,,,,,NG,,prefinal
 103,Bloomfield,LB1925b,0152,,,,*-kä-,PCA:1,,,,,,action on things,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""deverbative suffix"""
 104,Bloomfield,LB1927b,0399,,,,*-kamy-,PCA:1,,,,,,"water, liquid",,medial
+104,Bloomfield,LB1927b,0399,,,,*-ākamy-,PCA:1,,,,,,"water, liquid","liquid, water",medial
 105,Bloomfield,LB1927b,0396,,,,*-kan-,PCA:1,,,,,,NG,,final,N,,,Y,TI
 106,Bloomfield,LB1925b,0141,,,,*-kāpawi-,PCA:1,,,,,,stand,,final,AI
 107,Bloomfield,LB1925b,0141,,,,*-kātä-,PCA:1,,,,,,leg,,medial
@@ -138,7 +139,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 115,Bloomfield,LB1925b,0139,,,,*-myā-,PCA:1,,,,,,smell,,medial
 116,Bloomfield,LB1925b,0144,,,,*-näh-,PCA:1,,,,,,seek ,,final,TI
 117,Bloomfield,LB1925b,0148,,,,*-nähw-,PCA:1,,,,,,seek,,final,TA
-118,Bloomfield,LB1925b,0148,,,,*-naθ-,PCA:1,,,,,,assail ,,final,unk.
+118,Bloomfield,LB1925b,0148,,,,*-naθ-,PCA:1,,,,,,assail ,,final,unknown
 119,Bloomfield,LB1925b,0141,,,,*-nexkä-,PCA:1,,,,,,arm,,medial
 120,Bloomfield,LB1925b,0138,,,,*-nt-,PCA:1,,,,,,action on inanimate object,,final,TI
 121,Bloomfield,LB1925b,0139,,,,*-ōθ-,PCA:1,,,,,,canoe,,medial
@@ -160,7 +161,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 135,Haas,MH1958b,0248,,,,*-to·n-,PCA:2,,,,,,mouth,,medial
 136,Bloomfield,LB1925b,0151,,,,*-u-,PCA:1,,,,,,NG,,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""derivative with meaning much like that of Indo-European middle voice"""
 137,Bloomfield,LB1927b,0396,,,,*-uhθä-,PCA:1,,,,,,walk,,final
-137,Bloomfield,LB1925b,0132,,,,*-uhθä-,PCA:1,,,,,,walk,,final,unk.
+137,Bloomfield,LB1925b,0132,,,,*-uhθä-,PCA:1,,,,,,walk,,final,unknown
 138,Bloomfield,LB1927b,0396,,,,*-usw-,PCA:1,,,,,,tailed animal,,final,N
 139,Bloomfield,LB1927b,0395,,,,*-w-,PCA:1,,,,,,agentive,,final
 140,Bloomfield,LB1927b,0398,,,,*-w-,PCA:1,,,,,,NG,,final,N

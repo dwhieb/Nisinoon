@@ -1,4 +1,4 @@
-Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Comments,Speaker,1st check done,2nd check done
+Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
 1,Valentine 2002,RV2002,0112,ojs,,seve1240,-aanikw-,OJ:3,,,,,,hair,,medial
 2,Valentine 2002,RV2002,0112,ojs,,seve1240,-god-,OJ:3,,,,,,nose,,medial
 3,Valentine 2002,RV2002,0091,ojs,,seve1240,-jaab-,OJ:3,,,,,,eye,,medial
@@ -10,8 +10,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 9,Valentine 2002,RV2002,0105,ojs,,seve1240,aniibiiw-,OJ:3,,,,,,green,,initial
 10,Valentine 2002,RV2002,0102,ojs,,seve1240,bayek-,OJ:3,,,,,,clean,,initial
 11,Valentine 2002,RV2002,0104,ojs,,seve1240,daashk-,OJ:3,,,,,,cut,,initial,,,,,,,,,,,,,,,,,,,,,,,,,"as is 'cut one's knee'. Usually means split, but Severn Ojibwe uses this initial for injury of body parts (where other dialects use giishk-)"
-12,Valentine 2002,RV2002,0103,ojs,,seve1240,ditibaanawe-,OJ:3,,,,,,curly,,initial
-13,Valentine 2002,RV2002,0103,ojs,,seve1240,ditiban-,OJ:3,,,,,,curly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,Deer Lake
+12,Valentine 2002,RV2002,0103,ojs,"Kasabonika, Ontario; Wapekeka, Ontario",seve1240,ditibaanawe-,OJ:3,,,,,,curly,,initial
+12,Valentine 2002,RV2002,0103,ojs,"Deer Lake, Ontario",seve1240,ditiban-,OJ:3,,,,,,curly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,Deer Lake
 14,Valentine 2002,RV2002,0102,ojs,,seve1240,ginag-,OJ:3,,,,,,itchy,,initial
 15,Valentine 2002,RV2002,0091,ojs,,seve1240,ozhaawashkw-,OJ:3,,,,,,"blue, green",,initial
 16,Valentine 2002,RV2002,0106,ojs,,seve1240,zhoow-,OJ:3,,,,,,smile,,initial
