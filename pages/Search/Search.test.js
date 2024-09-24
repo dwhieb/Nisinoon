@@ -453,7 +453,7 @@ describe(`Search`, function() {
       cy.get(`#results tbody tr`).should(`have.length`, 100) // limit = 100 (default)
       cy.get(`#limit-select`).select(`250`)
       cy.get(`#results tbody tr`).should(`have.length`, 250) // limit = 250
-      cy.get(`#search-box`).type(`man`)
+      cy.get(`#search-box`).type(`ma`)
       cy.get(`#limit-select`).select(`all`)
       cy.get(`#results tbody tr`).its(`length`).should(`be.greaterThan`, 500)
     })
