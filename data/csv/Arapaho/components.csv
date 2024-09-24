@@ -190,7 +190,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 394,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-ouh'/,,,,social action through language,"action (social), language",final,TA,,CONCR,,,,,,,,,,,,,,/niitouh'/,V,TA,to include s.o. in an activity,,AC_AM2008;0174,,,/nohkouh'-/,V,TA,to allow s.o. to join an activity,,AC_AM2008;0174
 403,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-ouutii/,,,,social action through language,"action (social), language",final,AI+O,,CONCR,,,,,,,,,,,,,,/kokoh'ouutii-/,V,AI+O,to discuss s.t.,,AC_AM2008;0174
 407,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-ouw/,,,,social action through language,"action (social), language",final,TA,,CONCR,,,,,,,,,,,,,,/ciino'ouw-/,V,TA,to reject s.o.,,AC_AM2008;0174,,,/nih'ouw-/,V,TA,to scold s.o.,,AC_AM2008;0174
-488,Cowell & Moss,AC_AM2008,"0146,0151,0162",arp,,arap1274,,AR:1,,/(i)w/,,,,"by verbal action, by speech act","action (verbal), speech, MANNER",final,,,,,,,,,,,,,,,,,/ni'oo-w-/,V,TA,to approve of/agree with s.o.,,AC_AM2008;0146,,,/nehton-iw-/,V,TA,to deceive s.o. by speech,,AC_AM2008;0146
+488,Cowell & Moss,AC_AM2008,"0146,0151,0162",arp,,arap1274,,AR:1,,/(i)w/,,,,"by verbal action, by speech act","action (verbal), speech, INSTRUMENT",final,,,,,,,,,,,,,,,,,/ni'oo-w-/,V,TA,to approve of/agree with s.o.,,AC_AM2008;0146,,,/nehton-iw-/,V,TA,to deceive s.o. by speech,,AC_AM2008;0146
 350,Cowell & Moss,AC_AM2008,0182,arp,,arap1274,,AR:1,,/-ookoonee/,,,,water action (flowing),"action (water), flow",final,II,,CONCR,,,/-ookoonee/
 351,Cowell & Moss,AC_AM2008,0182,arp,,arap1274,,AR:1,,/-ookoonee/,,,,water action (flowing),"action (water), flow",final,AI,,CONCR,,,,/-ookoonee/
 156,Cowell & Moss,AC_AM2008,0182,arp,,arap1274,,AR:1,,/-eeesi/,,,,wind action,action (wind),final,AI,,CONCR,,,,/-eese/
@@ -587,10 +587,10 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 218,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-i'-/,,,,hair,hair,medial,,,,,,,,,,,,,,,,,/eni'ei-/,V,AI,have long hair,,AC_AM2008;0170
 117,Cowell & Moss,AC_AM2003,0354,arp,,arap1274,θooxonee'-,AR:2,,,,,,stone hammer,hammer,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: unclear whether this is a word or component,,,MAM
 318,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-oh-/,,,,hand,hand,medial,,,,,,,,,,,,,,,,,/ɜo'ohoen-/,V,AI,crush s.o.'s hand,,AC_AM2008;0170
-479,Cowell & Moss,AC_AM2008,"0134,0144,0145,0157",arp,,arap1274,,AR:1,,/(e)n/,,,,by hand,"hand, MANNER",final,TI,,,N,,,,,,,,,,,,,/ciin-én-/,V,TI,"to put s.t. down, to lower",,AC_AM2008;0137,,,/se'-én-/,V,TI,to flatten s.t. ,,AC_AM2008;0145,,,/bii'ín-/,V,TI,to find s.t.,,AC_AM2008;0145,,,/cesín-/,V,TI,to drop s.t.,,AC_AM2008;0145
-480,Cowell & Moss,AC_AM2008,"0144,0145,0157,0173",arp,,arap1274,,AR:1,,/(e)n/,,,,by hand,"hand, MANNER",final,TA,,,N,,,,,,,,,,,,,/cíín-en-/,V,TA,"to put s.t. (AN) down, to lower",,AC_AM2008;0145,,,/sé'-en-/,V,TA,to flatten s.t. (AN),,AC_AM2008;0145,,,/césin-/,V,TA,to drop s.o.,,AC_AM2008;0145,,,/séyoun-/,V,TA,to crush s.t. (AN),,AC_AM2008;0145
-322,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-ohoe/,,,,"hand motion, hand as instrument","hand, motion, MANNER",final,AI,,CONCR,,,,,/-ohoen/,,,,,,,,,/co'ohoe-/,V,AI,to make a fist,AC_AM2008;0176,,,,/ko'esohoe-/,V,AI,to clap one's hands,,AC_AM2008;0176
-323,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-ohoen/,,,,"hand motion, hand as instrument","hand, motion, MANNER",final,TA,,CONCR,,,/-ohoe/
+479,Cowell & Moss,AC_AM2008,"0134,0144,0145,0157",arp,,arap1274,,AR:1,,/(e)n/,,,,by hand,"hand, INSTRUMENT",final,TI,,,N,,,,,,,,,,,,,/ciin-én-/,V,TI,"to put s.t. down, to lower",,AC_AM2008;0137,,,/se'-én-/,V,TI,to flatten s.t. ,,AC_AM2008;0145,,,/bii'ín-/,V,TI,to find s.t.,,AC_AM2008;0145,,,/cesín-/,V,TI,to drop s.t.,,AC_AM2008;0145
+480,Cowell & Moss,AC_AM2008,"0144,0145,0157,0173",arp,,arap1274,,AR:1,,/(e)n/,,,,by hand,"hand, INSTRUMENT",final,TA,,,N,,,,,,,,,,,,,/cíín-en-/,V,TA,"to put s.t. (AN) down, to lower",,AC_AM2008;0145,,,/sé'-en-/,V,TA,to flatten s.t. (AN),,AC_AM2008;0145,,,/césin-/,V,TA,to drop s.o.,,AC_AM2008;0145,,,/séyoun-/,V,TA,to crush s.t. (AN),,AC_AM2008;0145
+322,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-ohoe/,,,,"hand motion, hand as instrument","hand, motion, INSTRUMENT",final,AI,,CONCR,,,,,/-ohoen/,,,,,,,,,/co'ohoe-/,V,AI,to make a fist,AC_AM2008;0176,,,,/ko'esohoe-/,V,AI,to clap one's hands,,AC_AM2008;0176
+323,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-ohoen/,,,,"hand motion, hand as instrument","hand, motion, INSTRUMENT",final,TA,,CONCR,,,/-ohoe/
 98,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,honouut-,AR:2,,,,,,hang,hang,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Might be a stem - ?,,,MAM
 510,Cowell & Moss,AC_AM2008,0179,arp,,arap1274,,AR:1,,/beɜe'/,,,,hard,hard,initial
 146,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-e'eix-/,,,,head,head,medial,,,,,,,,,,,,,,,,,/sesiine'eixoo-/,V,AI,have a headache,,AC_AM2008;0170
@@ -924,7 +924,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 209,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-ɜecoo/,,,,thinking,think,final,AI,,CONCR,,,,,/-ɜecooton/,/-ɜecoot/,,,,,,,,/kokoh'uɜecoo-/,V,AI,to think about s.t.,AC_AM2008;0176,,,,/teeniɜecoo-/,V,AI,to feel sad,,AC_AM2008;0176
 211,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-ɜecoot/,,,,thinking,think,final,TI,,,,,/-ɜecoo/,,/-ɜecooton/
 212,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-ɜecooton/,,,,thinking,think,final,TA,,CONCR,,,/-ɜecoo/,,,/-ɜecoot/
-636,Cowell & Moss,AC_AM2008,0027,arp,,arap1274,,AR:1,,/ɜecóó/,,,,"thinking, by thought","think, thought, MANNER",final
+636,Cowell & Moss,AC_AM2008,0027,arp,,arap1274,,AR:1,,/ɜecóó/,,,,"thinking, by thought","think, thought, INSTRUMENT",final
 590,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/eeɜew-/,,,,"to there, over there","thither, to there",initial
 104,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,nenees-,AR:2,,,,,,three,three,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 644,Cowell & Moss,AC_AM2008,0214,arp,,arap1274,,AR:1,,/ɜook/,,,,"through, as in transparent objects",through,initial
@@ -983,8 +983,8 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 352,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-ookoonetii/,,,,water,water,final,TA,,CONCR,,,,,,,,,,,,,,/seyookoonetii-/,V,AI+O,to water s.t.,,AC_AM2008;0174
 353,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-ookoono(o)ɜ/,,,,water,water,final,TA,,CONCR,,,,,,,,,,,,,,/seyookoonoɜ-/,V,TA,to water s.t.,,AC_AM2008;0174,,,/neetookoonooɜ-/,V,TA,to drown s.o.,,AC_AM2008;0174
 577,Cowell & Moss,AC_AM2008,0017,arp,,arap1274,,AR:1,,/éc/,,,,water,water
-349,Cowell & Moss,AC_AM2008,0219,arp,,arap1274,,AR:1,,/-ookoon-/,,,,"by water, for water as a tool or means","water, INSTRUMENT, MANNER",medial
-52,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-ookoonee-,AR:2,,,,,,with water,"water, MANNER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+349,Cowell & Moss,AC_AM2008,0219,arp,,arap1274,,AR:1,,/-ookoon-/,,,,"by water, for water as a tool or means","water, INSTRUMENT",medial
+52,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-ookoonee-,AR:2,,,,,,with water,"water, INSTRUMENT",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 299,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/-nouhu/,,,,clothing (wearing),wear (clothing),final,AI,,CONCR,,,,,,/-nouhuut/,,,,,,,,/biisinouhu-/,V,AI,to wear fur,,AC_AM2008;0175,,,/nookunouhu-/,V,AI,to wear white,,AC_AM2008;0175
 300,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/-nouhuut/,,,,clothing (wearing),wear (clothing),final,TI,,CONCR,,,/-nouhu/
 487,Cowell & Moss,AC_AM2008,0126,arp,,arap1274,,AR:1,,/(i)nouhu/,,,,"concerning clothing, wear X type of clothes",wear (clothing),final,AI,,CONCR

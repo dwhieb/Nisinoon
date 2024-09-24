@@ -1,14 +1,16 @@
 Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Project Definition,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
+13,Armoskaite,SA2010,"0062, 0066, 0067",bla,,siks1238,-aa,BF:1,,,,,,pseudo-intransitive,,final,AI+O,,,,,,,,,,,ihkiitaa,,ihkiit-aa,V,pseudo-intransitive,bake,,SA2010;0062,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+22,Armoskaite,SA2010,"0062, 0064, 0065",bla,,siks1238,-aki,BF:1,,,,,,pseudo-intransitive,,final,AI+O,,,,,,,,,,,ssinnaki,,ss-yinn-aki,V,pseudo-intransitive,break by hand,,SA2010;0062,o'taki,,o't-aki,V,pseudo-intransitive,,,SA2010;0063,,,,,,,,,,,,,,,,,MAM
+46,Armoskaite,SA2010,"0062, 0064, 0065, 0066, 0067",bla,,siks1238,-i,BF:1,,,,,,pseudo-intransitive,,final,AI+O,,,,,,,,,,,sisoyi,,siso-i,V,pseudo-intransitive,cut,,SA2010;0062,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+63,Armoskaite,SA2010,0064,bla,,siks1238,-imaa,BF:1,,,,,,pseudo-intransitive,,final,AI+O,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SA: ""Frantz (1971:50) states that -imaa adds a semantic component of valid personal motivation on the part of the actor of the action. I could not replicate Frantz's finding in my fieldwork and leave this issue for further research.""",,,MAM
 11,Armoskaite & Junker,SA_MOJ2017,0003,bla,,siks1238,-a'tsis,BF:1,,,,,,instrument,,final,N,,,Y,INTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 12,Bliss et al. ,HB_ET_AL2012,0006,bla,,siks1238,-a'tsis,BF:1,,,,,,instrument,,final,N,,,Y,V
 6,Genee,IXG2013,0101,bla,,siks1238,-a,BF:1,,,,,,NG,,final,,,,N
 7,Bliss,HB2010,0060,bla,,siks1238,-a,BF:1,,,,,,NG,,final,AI,,ABSTR
 8,Genee,IXG2013,0102,bla,,siks1238,-á,BF:1,,,,,,NG,,final,AI
-13,Armoskaite,SA2010,"0062, 0066, 0067",bla,,siks1238,-aa,BF:1,,,,,,pseudo-intransitive,AI+O,final,AI+O,,,,,,,,,,,ihkiitaa,,ihkiit-aa,V,pseudo-intransitive,bake,,SA2010;0062,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 14,Armoskaite,SA2010,0067,bla,,siks1238,-aa,BF:1,,,,,,intransitive,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 15,Genee,IXG2013,"0102,0104,0105,0106",bla,,siks1238,-aa,BF:1,,,,,,NG,,final,AI
 16,Bliss et al. ,HB_ET_AL2012,0001,bla,,siks1238,-aa,BF:1,,,,,,NG,,final,AI
-22,Armoskaite,SA2010,"0062, 0064, 0065",bla,,siks1238,-aki,BF:1,,,,,,pseudo-intransitive,AI+O,final,AI+O,,,,,,,,,,,ssinnaki,,ss-yinn-aki,V,pseudo-intransitive,break by hand,,SA2010;0062,o'taki,,o't-aki,V,pseudo-intransitive,,,SA2010;0063,,,,,,,,,,,,,,,,,MAM
 23,Genee,IXG2013,"0098,0101,0102,0108",bla,,siks1238,-aki,BF:1,,,,,,NG,,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Discussed as ""detransitivizing"" as it attaches to an inherently transitive verb but creates an intransitive verb. "
 24,Bliss et al. ,HB_ET_AL2012,0011,bla,,siks1238,-aki,BF:1,,,,,,NG,,final,AI
 25,Armoskaite,SA2010,"0062, 0064, 0067",bla,,siks1238,-at,BF:1,,,,,,TA,,final,TA,,,,,,,,-atoo,,,sisowat,,siso-at,V,TA,cut,,SA2010;0062,ihkiitat,,ihkiit-at,V,TA,bake,,SA2010;0062,o'kaas-at,,,V,TA,grab,,SA2010;0063,,,,,,,,,MAM
@@ -44,7 +46,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 43,Bliss et al. ,HB_ET_AL2012,0006,bla,,siks1238,-hsin,BF:1,,,,,,NG,,final,N,,ABSTR,Y,V
 44,Barrie & Dunham,MB_JD2008,"0020,0036",bla,,siks1238,-hskin-,BF:1,,,,,,back,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 45,Armoskaite,SA2010,"0060, 0061",bla,,siks1238,-i,BF:1,,,,,,TI,,final,TI,,,,,,,-o,,,,ssinni,,ss-yinn-i,V,TI,break by hand,,SA2010;0062,o'tsi,,o't-i,V,TI,take,,SA2010;0063,,,,,,,,,,,,,,,,,MAM
-46,Armoskaite,SA2010,"0062, 0064, 0065, 0066, 0067",bla,,siks1238,-i,BF:1,,,,,,pseudo-intransitive,AI+O,final,AI+O,,,,,,,,,,,sisoyi,,siso-i,V,pseudo-intransitive,cut,,SA2010;0062,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 47,Armoskaite,SA2010,0067,bla,,siks1238,-i,BF:1,,,,,,intransitive,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 48,Armoskaite,SA2010,0068,bla,,siks1238,-i,BF:1,,,,,,TA,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 49,Genee,IXG2013,0102,bla,,siks1238,-i,BF:1,,,,,,NG,,final,AI
@@ -61,7 +62,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 60,Barrie & Dunham,MB_JD2008,"0019,0036",bla,,siks1238,-ikinaki,BF:1,,,,,,leg(s),,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: not clear that this is a medial because there's no final after it.,,,MAM
 61,Barrie & Dunham,MB_JD2008,0031,bla,,siks1238,-ikinsst-,BF:1,,,,,,arm,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 62,Barrie & Dunham,MB_JD2008,"0021,0026,0036",bla,,siks1238,-iksi-,BF:1,,,,,,"wood, root(?)",,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: question mark in original,,,MAM
-63,Armoskaite,SA2010,0064,bla,,siks1238,-imaa,BF:1,,,,,,pseudo-intransitive,AI+O,final,AI+O,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"SA: ""Frantz (1971:50) states that -imaa adds a semantic component of valid personal motivation on the part of the actor of the action. I could not replicate Frantz's finding in my fieldwork and leave this issue for further research.""",,,MAM
 64,Genee,IXG2013,0102,bla,,siks1238,-imaa,BF:1,,,,,,NG,,final,AI
 65,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,-imm,BF:1,,,,,,feels for (object) as a (N),,final,TA,,,,,i'taki,,,-i'tsi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb"" and later a ""root."" They say it creates TA verbs so assuming TA final although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,,MAM
 66,Barrie & Dunham,MB_JD2008,0001,bla,,siks1238,-inaamm,BF:1,,,,,,look like a (N),,final,AI,,,,,,-inaattsi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: B&D call this a ""light verb."" Assuming AI final (they specify animacy on this one) although ""Somewhat similar to denominals in English""; attaches to bare nouns.",,,MAM

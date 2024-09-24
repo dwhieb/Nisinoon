@@ -201,7 +201,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 460,Beland,JPB1978,0165,atj,,atik1240,-sikw-,C-A:1,,,,,,mother-in-law,mother-in-law,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,,GVM
 461,Beland,JPB1978,0165,atj,,atik1240,-s̀is̀s̀e-,C-A:1,,,,,,father-in-law,father-in-law,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,,GVM
 462,Beland,JPB1978,0174,atj,,atik1240,-sit-,C-A:1,,,,,,foot,foot,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,,GVM
-464,Beland,JPB1978,0279,atj ,,atik1240,-s̀k-,C-A:1,,,,,,by foot,"foot, MANNER",prefinal ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-s̀ka:-,-s̀kaw-,-s̀k-,,,,,,,,,,,GVM
+464,Beland,JPB1978,0279,atj ,,atik1240,-s̀k-,C-A:1,,,,,,by foot,"foot, INSTRUMENT",prefinal ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-s̀ka:-,-s̀kaw-,-s̀k-,,,,,,,,,,,GVM
 466,Beland,JPB1978,"0145,0147,0171,0174",atj,,atik1240,-ska:t-,C-A:1,,,,,,leg,leg,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ADJ: body part; used in dependent noun stems,,,GVM
 467,Beland,JPB1978,0170,atj,,atik1240,-skan-,C-A:1,,,,,,bone,bone,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; used in dependent nouns,,,GVM
 477,Beland,JPB1978,0146,atj,,atik1240,-skw- ,C-A:1,,,,,,bear,bear,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,,GVM
@@ -298,9 +298,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 574,Beland,JPB1978,0252,atj ,,atik1240,-wepa:s̀s̀itan-,C-A:1,,,,,,"blown away, by wind",blown away,final,II,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 78,Beland,JPB1978,0226,atj,,atik1240,-a:ttawi:-,C-A:1,,,,,,"board, wooden surface","board (N), wood",final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:tt-,-awi:-,,,,,,complex; has no II counterpart,,,GVM
 295,Beland,JPB1978,0206,atj,,atik1240,-ittakw-,C-A:1,,,,,,"board, wood","board (N), wood",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ittak-,-w-,,,,,,,,,GVM
-449,Beland,JPB1978,0233,atj,,atik1240,-ri-,C-A:1,,,,,,on or by body part,"body part, LOCATIVE, MANNER",final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-580,Beland,JPB1978,0272,atj ,,atik1240,-wepis̀k-,C-A:1,,,,,,throw by foot or body movement,"body, foot, throw, MANNER",final,TI,,,N,,,,,-wepis̀kaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -wep- ,TA -s̀kaw-,,,,,,,,,GVM
-581,Beland,JPB1978,0272,atj ,,atik1240,-wepis̀kaw-,C-A:1,,,,,,throw by foot or body movement,"body, foot, throw, MANNER",final,TA,,,N,,,,,,-wepis̀k-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -wep-,TA -s̀k-,,,,,,,,,GVM
+449,Beland,JPB1978,0233,atj,,atik1240,-ri-,C-A:1,,,,,,on or by body part,"body part, LOCATIVE, INSTRUMENT",final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+580,Beland,JPB1978,0272,atj ,,atik1240,-wepis̀k-,C-A:1,,,,,,throw by foot or body movement,"body, foot, throw, INSTRUMENT",final,TI,,,N,,,,,-wepis̀kaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -wep- ,TA -s̀kaw-,,,,,,,,,GVM
+581,Beland,JPB1978,0272,atj ,,atik1240,-wepis̀kaw-,C-A:1,,,,,,throw by foot or body movement,"body, foot, throw, INSTRUMENT",final,TA,,,N,,,,,,-wepis̀k-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -wep-,TA -s̀k-,,,,,,,,,GVM
 12,Beland,JPB1978,0170,atj,,atik1240,-a:kan-,C-A:1,,,,,,bone,bone,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-kotta:kan- 'throat',,,,,,,,,,body part,,,GVM
 327,Beland,JPB1978,0147,atj ,,atik1240,-kkan-,C-A:1,,,,,,bone,bone,medial,,,,,,,,,,,-skan-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 383,Beland,JPB1978,0226,atj,,atik1240,-niki:-,C-A:1,,,,,,born,born,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,has no II counterpart,,,GVM
@@ -328,8 +328,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 586,Beland,JPB1978,0208,atj,"Manouane, Weymontachie, Obedjiwan",atik1240,-yekinw-,C-A:1,,,,,,cloth,cloth,final,N,,,B,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-i:k-,-inw-,,,,,,"""the distinction between the two suffixes is no more in used [sic] at Manouane where -yekinw- only has been recorded; both suffixes are found at Weymontachie and at Obedjiwan.""",,,GVM
 196,Beland,JPB1978,0191,atj,,atik1240,-ekin-,C-A:1,,,,,,"cloth, material","cloth, material",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""This final is related to medial -ekk- 'cloth, woven'""",,,GVM
 155,Beland,JPB1978,0279,atj ,,atik1240,-at-,C-A:1,,,,,,cold,cold,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-aci-,-atin-,,,,,,,,,,,,GVM
-89,Beland,JPB1978,"0231,0279",atj,,atik1240,-aci-,C-A:1,,,,,,by cold,"cold, MANNER",final,AI,,,N,,,,-atin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -at-,,,,,,,GVM
-159,Beland,JPB1978,"0231,0279",atj,,atik1240,-atin-,C-A:1,,,,,,by cold,"cold, MANNER",final,II,,,N,,,-aci-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -at-,,,,,,,GVM
+89,Beland,JPB1978,"0231,0279",atj,,atik1240,-aci-,C-A:1,,,,,,by cold,"cold, INSTRUMENT",final,AI,,,N,,,,-atin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -at-,,,,,,,GVM
+159,Beland,JPB1978,"0231,0279",atj,,atik1240,-atin-,C-A:1,,,,,,by cold,"cold, INSTRUMENT",final,II,,,N,,,-aci-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -at-,,,,,,,GVM
 615,Beland,JPB1978,0256,atj ,,atik1240,mawi-,C-A:1,,,,,,"cry, complain","complain, cry",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 298,Beland,JPB1978,0200,atj,,atik1240,-iwas̀s̀-,C-A:1,,,,,,container,container,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 98,Beland,JPB1978,"0146,0261",atj ,,atik1240,-akim-,C-A:1,,,,,,count,count,final,TA,,,N,,,,,,-akitt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,ADJ: deverbal of TA akim- 'to count him',,,GVM
@@ -414,21 +414,21 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 436,Beland,JPB1978,0267,atj ,,atik1240,-po:ta:-,C-A:1,,,,,,"grind, saw","grind, saw",final,AI2,,,N,,,,-po:r-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 320,Beland,JPB1978,0226,atj,,atik1240,-ki:-,C-A:1,,,,,,grow,grow,final,AI,,,N,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,has no II counterpart; also gets added to particle finals,,,GVM
 589,Beland,JPB1978,0150,atj ,,atik1240,a:pittaw,C-A:1,,,,,,half,half,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-259,Beland,JPB1978,0262,atj ,,atik1240,-in-,C-A:1,,,,,,by hand,"hand, MANNER",final,TA,,,B,,,,,,-in-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stem has category and/or subcategory but no stem,,,GVM
-260,Beland,JPB1978,0262,atj ,,atik1240,-in-,C-A:1,,,,,,by hand,"hand, MANNER",final,TI,,,B,,,,,-in-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stem has category and/or subcategory but no stem,,,GVM
-409,Beland,JPB1978,0263,atj ,,atik1240,-pakitin-,C-A:1,,,,,,"set, place by hand","hand, place (V), set (V), MANNER",final,TA,,,N,,,,,,-pakitin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA -in-,,,,Y,,complex; deverbal of pakit- 'set place',,,GVM
-410,Beland,JPB1978,0263,atj ,,atik1240,-pakitin-,C-A:1,,,,,,"set, place by hand","hand, place (V), set (V), MANNER",final,TI,,,N,,,,,-pakitin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TI -in-,,,,Y,,complex; deverbal of pakit- 'set place',,,GVM
-578,Beland,JPB1978,0263,atj ,,atik1240,-wepin-,C-A:1,,,,,,throw by hand,"hand, throw, MANNER",final,TA,,,B,,,,,,-wepin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -wep-,TI -in-,,,,Y,,"complex; primarily found in primary derivation; may be considered deverbal of TI wepin- 'to throw him, it, by hand'",,,GVM
-579,Beland,JPB1978,0263,atj ,,atik1240,-wepin-,C-A:1,,,,,,throw by hand,"hand, throw, MANNER",final,TI,,,B,,,,,-wepin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -wep-,TA -in-,,,,Y,,"complex; primarily found in primary derivation; may be considered deverbal of TA wepin- 'to throw him, it, by hand'",,,GVM
+259,Beland,JPB1978,0262,atj ,,atik1240,-in-,C-A:1,,,,,,by hand,"hand, INSTRUMENT",final,TA,,,B,,,,,,-in-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stem has category and/or subcategory but no stem,,,GVM
+260,Beland,JPB1978,0262,atj ,,atik1240,-in-,C-A:1,,,,,,by hand,"hand, INSTRUMENT",final,TI,,,B,,,,,-in-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stem has category and/or subcategory but no stem,,,GVM
+409,Beland,JPB1978,0263,atj ,,atik1240,-pakitin-,C-A:1,,,,,,"set, place by hand","hand, place (V), set (V), INSTRUMENT",final,TA,,,N,,,,,,-pakitin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA -in-,,,,Y,,complex; deverbal of pakit- 'set place',,,GVM
+410,Beland,JPB1978,0263,atj ,,atik1240,-pakitin-,C-A:1,,,,,,"set, place by hand","hand, place (V), set (V), INSTRUMENT",final,TI,,,N,,,,,-pakitin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TI -in-,,,,Y,,complex; deverbal of pakit- 'set place',,,GVM
+578,Beland,JPB1978,0263,atj ,,atik1240,-wepin-,C-A:1,,,,,,throw by hand,"hand, throw, INSTRUMENT",final,TA,,,B,,,,,,-wepin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -wep-,TI -in-,,,,Y,,"complex; primarily found in primary derivation; may be considered deverbal of TI wepin- 'to throw him, it, by hand'",,,GVM
+579,Beland,JPB1978,0263,atj ,,atik1240,-wepin-,C-A:1,,,,,,throw by hand,"hand, throw, INSTRUMENT",final,TI,,,B,,,,,-wepin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -wep-,TA -in-,,,,Y,,"complex; primarily found in primary derivation; may be considered deverbal of TA wepin- 'to throw him, it, by hand'",,,GVM
 101,Beland,JPB1978,0245,atj ,,atik1240,-ako:cin-,C-A:1,,,,,,hang,hang,final,AI,,,N,,,,-ako:te-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of AI ako:cin 'he, it hangs'",,,GVM
 102,Beland,JPB1978,0245,atj ,,atik1240,-ako:te-,C-A:1,,,,,,hang,hang,final,II,,,N,,,-ako:cin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"deverbal of II ako:tew 'he, it hangs'",,,GVM
 292,Beland,JPB1978,0271,atj ,,atik1240,-itt-,C-A:1,,,,,,hear,hear,final,TI,,,N,,,,,-ittaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 296,Beland,JPB1978,0271,atj ,,atik1240,-ittaw-,C-A:1,,,,,,hear,hear,final,TA,,,N,,,,,,-itt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 288,Beland,JPB1978,0206,atj,,atik1240,-itew-,C-A:1,,,,,,heat,heat,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ite-,-w-,,,,,,,,,GVM
-64,Beland,JPB1978,"0238,0278",atj,,atik1240,-a:ss-,C-A:1,,,,,,by heat,"heat, MANNER",final,TI,,,N,,,,,-a:ssw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,derive middle reflexive verbs,,,GVM
-68,Beland,JPB1978,"0238,0278",atj,,atik1240,-a:ssw-,C-A:1,,,,,,by heat,"heat, MANNER",final,TA,,,N,,,,,,-a:ss-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,derive middle reflexive verbs,,,GVM
-270,Beland,JPB1978,"0238,0278",atj,,atik1240,-is-,C-A:1,,,,,,by heat,"heat, MANNER",final,TI,,,N,,,,,-isw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-285,Beland,JPB1978,"0238,0278",atj,,atik1240,-isw-,C-A:1,,,,,,by heat,"heat, MANNER",final,TA,,,N,,,,,,-is-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+64,Beland,JPB1978,"0238,0278",atj,,atik1240,-a:ss-,C-A:1,,,,,,by heat,"heat, INSTRUMENT",final,TI,,,N,,,,,-a:ssw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,derive middle reflexive verbs,,,GVM
+68,Beland,JPB1978,"0238,0278",atj,,atik1240,-a:ssw-,C-A:1,,,,,,by heat,"heat, INSTRUMENT",final,TA,,,N,,,,,,-a:ss-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,derive middle reflexive verbs,,,GVM
+270,Beland,JPB1978,"0238,0278",atj,,atik1240,-is-,C-A:1,,,,,,by heat,"heat, INSTRUMENT",final,TI,,,N,,,,,-isw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+285,Beland,JPB1978,"0238,0278",atj,,atik1240,-isw-,C-A:1,,,,,,by heat,"heat, INSTRUMENT",final,TA,,,N,,,,,,-is-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 65,Beland,JPB1978,0238,atj,,atik1240,-a:sso-,C-A:1,,,,,,heated,heated,final,AI,,,N,,,,-a:tte-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,derive middle reflexive verbs,,,GVM
 79,Beland,JPB1978,0238,atj,,atik1240,-a:tte-,C-A:1,,,,,,heated,heated,final,II,,,N,,,-a:sso-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,derive middle reflexive verbs,,,GVM
 280,Beland,JPB1978,0238,atj,,atik1240,-iso-,C-A:1,,,,,,heated,heated,final,AI,,,N,,,,-ite-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -474,17 +474,17 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 41,Beland,JPB1978,"0246,0284",atj ,,atik1240,-a:pisk-,C-A:1,,,,,,"stone, metal","metal, stone",final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 43,Beland,JPB1978,0201,atj,,atik1240,-a:piskw-,C-A:1,,,,,,"stone, metal","metal, stone",final,N,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:pisk-,-w-,,,,,,,,,GVM
 140,Beland,JPB1978,0195,atj,,atik1240,-askisin-,C-A:1,,,,,,"moccasin, shoe","moccasin, shoe",final,N,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,makisin,,,,GVM
-349,Beland,JPB1978,"0240,0259",atj ,,atik1240,-m-,C-A:1,,,,,,"by mouth, by speech","mouth, speech, MANNER",final,TA,,,B,AI,,,,,-tt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-361,Beland,JPB1978,0240,atj ,,atik1240,-mo-,C-A:1,,,,,,"by speech, by mouth","mouth, speech, MANNER",final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""used in the meaning of 'speak a language'",,,GVM
-549,Beland,JPB1978,"0259,0260",atj ,,atik1240,-tt-,C-A:1,,,,,,"by mouth, by speech","mouth, speech, MANNER",final,TI,,,B,,,,,-m-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stem has category and/or subcategory but no stem,,,GVM
+349,Beland,JPB1978,"0240,0259",atj ,,atik1240,-m-,C-A:1,,,,,,"by mouth, by speech","mouth, speech, INSTRUMENT",final,TA,,,B,AI,,,,,-tt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+361,Beland,JPB1978,0240,atj ,,atik1240,-mo-,C-A:1,,,,,,"by speech, by mouth","mouth, speech, INSTRUMENT",final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""used in the meaning of 'speak a language'",,,GVM
+549,Beland,JPB1978,"0259,0260",atj ,,atik1240,-tt-,C-A:1,,,,,,"by mouth, by speech","mouth, speech, INSTRUMENT",final,TI,,,B,,,,,-m-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stem has category and/or subcategory but no stem,,,GVM
 244,Beland,JPB1978,0271,atj ,,atik1240,-ikk-,C-A:1,,,,,,move,move,final,TI,,,N,,,,,-ikkaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 249,Beland,JPB1978,0271,atj ,,atik1240,-ikkaw-,C-A:1,,,,,,move,move,final,TA,,,N,,,,,,-ikk-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ikka:so-,,,,,,,,,,,,,GVM
 413,Beland,JPB1978,0233,atj,,atik1240,-pari-,C-A:1,,,,,,move,move,final,AI,,,,AI,,,-parin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 414,Beland,JPB1978,0233,atj,,atik1240,-parin-,C-A:1,,,,,,move,move,final,II,,,,AI,,-pari-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"shows ""a specialized meaning,"" but this isn't clearly specified",,,GVM
 593,Beland,JPB1978,0214,atj,,atik1240,a:tt-,C-A:1,,,,,,move,move,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-463,Beland,JPB1978,"0214,0272,0279",atj ,,atik1240,-s̀k-,C-A:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,TI,,,N,,,,,-s̀kaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,,GVM
-465,Beland,JPB1978,"0214,0279",atj,,atik1240,-s̀ka:-,C-A:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,AI,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,,GVM
-471,Beland,JPB1978,"0214,0272,0279",atj ,,atik1240,-s̀kaw-,C-A:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,TA,,,N,,,,,,-s̀k-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,,GVM
+463,Beland,JPB1978,"0214,0272,0279",atj ,,atik1240,-s̀k-,C-A:1,,,,,,by foot or body movement,"movement (body, foot), INSTRUMENT",final,TI,,,N,,,,,-s̀kaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,,GVM
+465,Beland,JPB1978,"0214,0279",atj,,atik1240,-s̀ka:-,C-A:1,,,,,,by foot or body movement,"movement (body, foot), INSTRUMENT",final,AI,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,,GVM
+471,Beland,JPB1978,"0214,0272,0279",atj ,,atik1240,-s̀kaw-,C-A:1,,,,,,by foot or body movement,"movement (body, foot), INSTRUMENT",final,TA,,,N,,,,,,-s̀k-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -s̀k-,,,,,,,GVM
 448,Valentine,RV2002,0117,atj ,,atik1240,-ri,C-A:2,,,,,,self-initiated body movement,movement (body),final,AI
 384,Beland,JPB1978,0279,atj ,,atik1240,-nikka:-,C-A:1,,,,,,name,name,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-nikka:so-,-nikka:te-,,,,,,,,,,,,GVM
 386,Beland,JPB1978,"0242,0269",atj ,,atik1240,-nikka:t-,C-A:1,,,,,,name,name,final,TA,,,N,,,,,,-nikka:t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -614,8 +614,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 268,Beland,JPB1978,0214,atj,,atik1240,-ipy-,C-A:1,,,,,,water,water,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 311,Beland,JPB1978,0248,atj ,,atik1240,-kama:-,C-A:1,,,,,,water,water,final,II,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -kamy,II -a:-,,,,,,complex,,,GVM
 314,Beland,JPB1978,0210,atj,,atik1240,-kamy-,C-A:1,,,,,,water,water,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-90,Beland,JPB1978,0235,atj,,atik1240,-ah-,C-A:1,,,,,,with or by water,"water, MANNER",final,TI,,,,,,,,-aho-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""specialized meaning""",,,GVM
-94,Beland,JPB1978,0235,atj,,atik1240,-aho-,C-A:1,,,,,,with or by water,"water, MANNER",final,AI,,,,,,,-ah-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""specialized meaning""",,,GVM
+90,Beland,JPB1978,0235,atj,,atik1240,-ah-,C-A:1,,,,,,with or by water,"water, INSTRUMENT",final,TI,,,,,,,,-aho-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""specialized meaning""",,,GVM
+94,Beland,JPB1978,0235,atj,,atik1240,-aho-,C-A:1,,,,,,with or by water,"water, INSTRUMENT",final,AI,,,,,,,-ah-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""specialized meaning""",,,GVM
 57,Beland,JPB1978,0247,atj ,,atik1240,-a:s̀ka:-,C-A:1,,,,,,wave,wave,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,found in very few stems,,,GVM
 38,Beland,JPB1978,0190,atj,,atik1240,-a:pina:n-,C-A:1,,,,,,white,white,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:n-,,,,,Y,wa:pan 'white',,,,GVM
 455,Beland,JPB1978,0249,atj ,,atik1240,-rowe-,C-A:1,,,,,,wind,wind,final,II,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stem has category and/or subcategory but no stem - forms impersonal verbs,,,GVM
