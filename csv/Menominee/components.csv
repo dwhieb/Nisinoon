@@ -1,5 +1,4 @@
 ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Allomorph-B,Condition-B,Allomorph-C,Condition-C,Allomorph-D,Condition-D,Allomorph-E,Condition-E,Allomorph-F,Condition-F,Allomorph-G,Condition-G,Allomorph-H,Condition-H,Allomorph-I,Condition-I,Allomorph-J,Condition-J,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
-22,Bloomfield,LB1927b,0401,mez,,meno1252,-neniw-,MN:4,,,,,,man,man,final
 56,Denny,JPD1978a,0312,mez,,meno1252,w,MN:5,,,,,,NG,,final,unknown
 402,Macaulay,MAM_LB2024,17.29,mez,,meno1252,-æhsaehseh,MN:WNALP,,,,,,a bit,"a bit, a little",final,PART,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17.29: Formed like the local of a diminutive noun, added to particles.",,,,
 1877,Macaulay,MAM_LB2024,,mez,,meno1252,ma͞enaw-,MN:WNALP,,,,,,a little,"a bit, a little",initial
@@ -21,6 +20,15 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
  
  Derived from intransitive verbs.",,,,
 172,Bloomfield,LB1962,14.62,mez,,meno1252,-En,MN:1,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,,Y,TA
+170,Bloomfield,LB1962,14.5,mez,,meno1252,-on,MN:1,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,,Y,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.50: some AI stems in i/o replace by o (some variable, some only choice)",,,,
+202,Bloomfield,LB1962,14.53,mez,,meno1252,-wa·n,MN:1,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,,Y,AI
+200,Bloomfield,LB1962,14.49,mez,,meno1252,-wan,MN:1,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,,Y,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.49: AI stems in i/o replace this by wa.,,,,
+201,Bloomfield,LB1962,14.55,mez,,meno1252,-wan,MN:1,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,,Y,AI2
+171,Bloomfield,LB1962,"14.48,51,52,54",mez,,meno1252,-ya·n,MN:1,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.48: AI stems in -ape 'sit' drop e; add this
+ 
+ 14.51: some AI stems in i/o drop i; add this
+ 
+ 14.52: AI stems in i· replace by this",,,,
 1178,Macaulay,MAM_LB2024,"3.45; 14.1,44,88,92,95,313,326,357",mez,,meno1252,-n5,MN:WNALP,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,ABSTR,Y,,,,,,-kowen5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.44: abstract noun final freely attaches to stems of AI verbs (action, instrument, product, and the like); attaches to other categories too.
 The following rules all after AI stem:
 14.45: a͞e --> ā / __ -n.
@@ -41,15 +49,6 @@ The following rules all after AI stem:
 14.62: -En added to one TA stem, forming verbal abstract. I'll treat as -n with epenthesis.
 14.63: -Ekon, -Ekowen added to one TA stem. I'll treat as -kon, -kowen.
 14.64: -Ekwan added to one TA stem. I'll treat as -kwan."
-170,Bloomfield,LB1962,14.5,mez,,meno1252,-on,MN:1,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,,Y,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.50: some AI stems in i/o replace by o (some variable, some only choice)",,,,
-202,Bloomfield,LB1962,14.53,mez,,meno1252,-wa·n,MN:1,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,,Y,AI
-200,Bloomfield,LB1962,14.49,mez,,meno1252,-wan,MN:1,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,,Y,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.49: AI stems in i/o replace this by wa.,,,,
-201,Bloomfield,LB1962,14.55,mez,,meno1252,-wan,MN:1,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,,Y,AI2
-171,Bloomfield,LB1962,"14.48,51,52,54",mez,,meno1252,-ya·n,MN:1,,,,,,"action, object, instrument, product","action, instrument, object, product",final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.48: AI stems in -ape 'sit' drop e; add this
- 
- 14.51: some AI stems in i/o drop i; add this
- 
- 14.52: AI stems in i· replace by this",,,,
 1322,Macaulay,MAM_LB2024,"3.31; 15.16,165,168,225; 16.113; 18.30,40,44,49,55,82,91,100,101,112,114,129,133,137,146,151,155,159,171,175,184,186,188",mez,,meno1252,-qtā,MN:WNALP,,,,,,"body movement, activity","activity (body), movement (body)",final,AI1,,ABSTR,,,,,,,-ēqtā,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.168: abstract final that denotes activity or movement; allomorph only for 'he is hunting',,,,
 1323,Macaulay,MAM_LB2024,15.168,mez,,meno1252,-qtā,MN:WNALP,,,,,,"body movement, activity","activity (body), movement (body)",final,II,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.168: abstract final that denotes activity or movement; in general used only of animate actors - corresponding II verbs derived with -makat, but three II stems derived with this.",,,,
 2373,Macaulay,MAM_LB2024,17.5,mez,,meno1252,saew-,MN:WNALP,,,,,,"actually, rather, as if","actually, as if, rather",initial
@@ -185,11 +184,11 @@ The following rules all after AI stem:
  21.114: sporadic assibiliation before -ahkw-, -aecī-.",,,,
 2378,Macaulay,MAM_LB2024,,mez,,meno1252,sāhsak-,MN:WNALP,,,,,,bare,bare,initial
 680,Macaulay,MAM_LB2024,"14.10,214,290; 18.158",mez,,meno1252,-anaka͞ehkw-,MN:WNALP,,,,,,bark,bark,medial
-188,Bloomfield,LB1962,"14.10,214,290; 18.158",mez,,meno1252,-anakɛ·hkw,MN:1,,,,,,bark,bark,final,N,,,N
 902,Macaulay,MAM_LB2024,"14.10,305; 18.187",mez,,meno1252,-ēkopy,MN:WNALP,,,,,,bark,bark,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.10: has accretion ē,,,,
 1113,Macaulay,MAM_LB2024,"14.10,305; 18.187",mez,,meno1252,-kopy-,MN:WNALP,,,,,,bark,bark,medial
 1862,Macaulay,MAM_LB2024,18.18,mez,,meno1252,maek-,MN:WNALP,,,,,,bark,bark,initial
 2535,Macaulay,MAM_LB2024,"14.10,214,290; 18.158",mez,,meno1252,wanaka͞ehkw-,MN:WNALP,,,,,,bark,bark,initial
+188,Bloomfield,LB1962,"14.10,214,290; 18.158",mez,,meno1252,-anakɛ·hkw,MN:1,,,,,,bark,bark (N),final,N,,,N
 390,Macaulay,MAM_LB2024,17.47,mez,,meno1252,-a͞ehNak,MN:WNALP,,,,,,barrel,barrel,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17.47: like -aehNakw 'wood, board'",,,,
 759,Macaulay,MAM_LB2024,14.354,mez,,meno1252,-aqsekan,MN:WNALP,,,,,,bass,bass,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.354: this represents 'knife' in kēskaqsekan 'short knife' and 'bass' in mianaqsekan.,,,,
 1417,Macaulay,MAM_LB2024,20.7 14.395 AMC,mez,,meno1252,-yīhkītw,MN:WNALP,,,,,,bay,bay,final,N,,,,,,,,,-ewīhkītw
@@ -320,8 +319,8 @@ The following rules all after AI stem:
 2113,Macaulay,MAM_LB2024,,mez,,meno1252,nīsk-,MN:WNALP,,,,,,bother,bother,initial
 543,Macaulay,MAM_LB2024,14.384; 20.5,mez,,meno1252,-ahkahkw,MN:WNALP,,,,,,box,box,final,N
 1554,Macaulay,MAM_LB2024,,mez,,meno1252,apa͞ehnī-,MN:WNALP,,,,,,boy,boy,initial
-107,Bloomfield,LB1962,14.31; 18.18,mez,,meno1252,-mɛnet-,MN:1,,,,,,"brain, DEPENDENT",brain,medial,Dep,,,N
-1880,Macaulay,MAM_LB2024,14.31; 18.18,mez,,meno1252,maenet-,MN:WNALP,,,,,,"brain, DEPENDENT",brain,initial,Dep
+107,Bloomfield,LB1962,14.31; 18.18,mez,,meno1252,-mɛnet-,MN:1,,,,,,brain,"brain, DEPENDENT",medial,Dep,,,N
+1880,Macaulay,MAM_LB2024,14.31; 18.18,mez,,meno1252,maenet-,MN:WNALP,,,,,,brain,"brain, DEPENDENT",initial,Dep
 2160,Macaulay,MAM_LB2024,"2.89; 17.4,8; 21.13,64,113,114",mez,,meno1252,oht-,MN:WNALP,,,,,,branch,branch,initial
 1566,Macaulay,MAM_LB2024,,mez,,meno1252,aqawa͞ew-,MN:WNALP,,,,,,"brant, large wild goose","brant, goose",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.154: unanalyzable,,,,
 2328,Macaulay,MAM_LB2024,"4.26; 21.26,27",mez,,meno1252,pōhkw-,MN:WNALP,,,,,,"break, break in two",break (in two),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.26: reduplication has long ā plus h.
@@ -344,9 +343,9 @@ The following rules all after AI stem:
 2498,Macaulay,MAM_LB2024,,mez,,meno1252,tōnōhs-,MN:WNALP,,,,,,"bull, ox","bull, ox",initial
 1491,Macaulay,MAM_LB2024,14.96,mez,,meno1252,ahs-,MN:WNALP,,,,,,bundle,bundle,initial
 2018,Macaulay,MAM_LB2024,21.107,mez,,meno1252,naekw-,MN:WNALP,,,,,,"buried, covered","buried, covered",initial,,,,,,,,,,naekwah-
+178,Bloomfield,LB1962,14.110; 18.153,mez,,meno1252,-hsi·w,MN:1,,,,,,burn,burn,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.110: contains II -hsi· 'burn',,,,
 559,Macaulay,MAM_LB2024,"15.238,243",mez,,meno1252,-āhkonawa͞e,MN:WNALP,,,,,,burn,burn,final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.243: prefinal -āhkw + AI, II -aenawa͞e",,,,
 560,Macaulay,MAM_LB2024,"15.238,243",mez,,meno1252,-āhkonawa͞e,MN:WNALP,,,,,,burn,burn,final,II,,,,,,,,,-āhkonawa͞et
-178,Bloomfield,LB1962,14.110; 18.153,mez,,meno1252,-hsi·w,MN:1,,,,,,burn,burn,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.110: contains II -hsi· 'burn',,,,
 1010,Macaulay,MAM_LB2024,15.268,mez,,meno1252,-hsī1,MN:WNALP,,,,,,burn,burn,final,AI1
 1011,Macaulay,MAM_LB2024,14.110; 15.268,mez,,meno1252,-hsī1,MN:WNALP,,,,,,burn,burn,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.268: homonymous II final is implied.,,,,
 302,Bloomfield,LB1962,15.97; 18.151; 19.31,mez,,meno1252,-a·hk,MN:1,,,,,,burn; dry,"burn, dry",prefinal,,,,N
@@ -369,10 +368,10 @@ The following rules all after AI stem:
 2246,Macaulay,MAM_LB2024,"4.47,26,64; 16.122; 18.176; 21.114",mez,,meno1252,paeqt-,MN:WNALP,,,,,,by accident,by accident,initial,,,,,,,,,,paeqs-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.122: paeqt- replaced by paeqs- before TA -aehkaw, TI -aehk.",,,,
 2593,Macaulay,MAM_LB2024,17.12,mez,,meno1252,wīhkawāqc-,MN:WNALP,,,,,,by mistake,by mistake,initial
 749,Macaulay,MAM_LB2024,15.292,mez,,meno1252,-aqNapāhki,MN:WNALP,,,,,,cache,cache,final,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,aqnapāhkow,15.292: deverbal from aqnapāhkow.,,,,
-147,Bloomfield,LB1962,14.250; 18.68,mez,,meno1252,-na·n-,MN:1,,,,,,calf of leg,calf (leg),medial,Dep,,,N
 1217,Macaulay,MAM_LB2024,14.25,mez,,meno1252,-nān,MN:WNALP,,,,,,calf of leg,calf (leg),final,N
 1218,Macaulay,MAM_LB2024,14.250; 18.68 HR,mez,,meno1252,-nān-,MN:WNALP,,,,,,calf of leg,calf (leg),medial
-2062,Macaulay,MAM_LB2024,21.21,mez,,meno1252,nān-,MN:WNALP,,,,,,calf of leg,calf (leg),initial,Dep
+147,Bloomfield,LB1962,14.250; 18.68,mez,,meno1252,-na·n-,MN:1,,,,,,calf of leg,"calf (leg), DEPENDENT",medial,Dep,,,N
+2062,Macaulay,MAM_LB2024,21.21,mez,,meno1252,nān-,MN:WNALP,,,,,,calf of leg,"calf (leg), DEPENDENT",initial,Dep
 2570,Macaulay,MAM_LB2024,,mez,,meno1252,wē-,MN:WNALP,,,,,,call by name,call (by name),initial
 2151,Macaulay,MAM_LB2024,4.66; 21.15,mez,,meno1252,ōhōh-,MN:WNALP,,,,,,call out,call out,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4.66: vowel never raised.,,,,
 400,Macaulay,MAM_LB2024,18.189,mez,,meno1252,-aehpyān,MN:WNALP,,,,,,camp site,campsite,final,N
@@ -460,8 +459,8 @@ The following rules all after AI stem:
 1529,Macaulay,MAM_LB2024,21.11,mez,,meno1252,anameh-,MN:WNALP,,,,,,Christianity,Christianity,initial,,,,,,,,,,anameha͞ew-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.110: extended initial equal to AI stem plus /w/ (anāmeha͞ew-).,,,,
 2219,Macaulay,MAM_LB2024,14.37,mez,,meno1252,otunep-,MN:WNALP,,,,,,chub,chub,initial
 1452,Macaulay,MAM_LB2024,14.26,mez,,meno1252,a͞ehs-,MN:WNALP,,,,,,clam,clam,initial
-415,Macaulay,MAM_LB2024,"14.129,306; 18.7,190",mez,,meno1252,-aekasy-,MN:WNALP,,,,,,"claw, nail, hoof","claw, hoof, nail",medial,,,,,,,,,,-aekasī-,,-aeskasy-
 174,Bloomfield,LB1962,14.129; 18.190,mez,,meno1252,-ɛskasi·w,MN:1,,,,,,"claw, nail, hoof","claw, hoof, nail",final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.129: contains medial -ɛskasy- 'claw, nail' (variant of -ɛkasy-) with AI -ɛ·; + agent -w.",,,,
+415,Macaulay,MAM_LB2024,"14.129,306; 18.7,190",mez,,meno1252,-aekasy-,MN:WNALP,,,,,,"claw, nail, hoof","claw, hoof, nail",medial,,,,,,,,,,-aekasī-,,-aeskasy-
 177,Bloomfield,LB1962,14.129; 18.190,mez,,meno1252,-ɛkasi·w,MN:1,,,,,,"claw, nail","claw, nail",final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.129: contains medial -ɛkasy- 'claw, nail' with AI -ɛ·",,,,
 82,Bloomfield,LB1962,14.306,mez,,meno1252,-skasy-,MN:1,,,,,,"claw, nail","claw, nail, DEPENDENT",medial,Dep,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.306: this is a by-form of the medial which usually appears as -kasy- [that's a typo; should be -ɛkasy-],,,,
 2419,Macaulay,MAM_LB2024,14.306,mez,,meno1252,skasy-,MN:WNALP,,,,,,"claw, nail","claw, nail, DEPENDENT",initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.306: this is a by-form of the medial which usually appears as -kasy- [that's a typo; should be -aekasy-],,,,
@@ -477,12 +476,12 @@ The following rules all after AI stem:
 1572,Macaulay,MAM_LB2024,4.52,mez,,meno1252,aqset-,MN:WNALP,,,,,,close to something,close (A),initial
 228,Bloomfield,LB1962,18.1; 21.100,mez,,meno1252,ce·ka·hkw-,MN:1,,,,,,close down,close down,initial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.1 #10: initial ce·k- ['near'] and medial -a·hkw- ['wood'] form complex initial in ci·ka·hkopiw.,,,,
 1762,Macaulay,MAM_LB2024,"21.49,78",mez,,meno1252,kask-,MN:WNALP,,,,,,close off,close off,initial,,,,,,,,,,kaskam-
+1792,Macaulay,MAM_LB2024,21.21,mez,,meno1252,kīhk-,MN:WNALP,,,,,,"fast, close","close, fast",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.21: makes reduplication with short a.,,,,
 1712,Macaulay,MAM_LB2024,"21.23,71,102",mez,,meno1252,kaep-,MN:WNALP,,,,,,closed,closed,initial,,,,,,,,,,kaepw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.23: makes reduplication with short a; first vowel of initial replaced by ī.,,,,
 1420,Macaulay,MAM_LB2024,"14.336,337; 18.30",mez,,meno1252,-yīkanw,MN:WNALP,,,,,,cloth,cloth,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.337: composed of medial -yīk- 'cloth' + N final -anw.,,,,
 1421,Macaulay,MAM_LB2024,14.331; 18.30,mez,,meno1252,-yīkw,MN:WNALP,,,,,,cloth,cloth,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.331: composed of -yīk- 'cloth' and N final -w; freely added to nouns.,,,,
 1031,Macaulay,MAM_LB2024,15.252; 18.41,mez,,meno1252,-īhk-,MN:WNALP,,,,,,"cloth, curtain","cloth, curtain",medial,,,,,,,,,,-īhkaen-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.41: -īhkaen- before AI -a͞e in derived N.,,,,
 945,Macaulay,MAM_LB2024,4.5; 14.196,mez,,meno1252,-ewēyān,MN:WNALP,,,,,,"cloth, garment","cloth, garment",final,N,,,,,,,,,-owēyān,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.196: preceded by prefinal -o in wāpoweyān,,,,
-1402,Bloomfield,LB1962,4.11,mez,,meno1252,-yɛ·k-,MN:WNALP,,,,,,"cloth, leather","cloth, leather",medial
 1418,Macaulay,MAM_LB2024,"4.22,29; 14.331,336,339,340; 16.147; 18.9,30",mez,,meno1252,-yīk-,MN:WNALP,,,,,,"cloth, leather","cloth, leather",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18.30: vowel often kept long
  
  18.9: an exception to presence of common post-medial element -a͞e.",,,,
@@ -501,11 +500,11 @@ The following rules all after AI stem:
 2207,Macaulay,MAM_LB2024,,mez,,meno1252,osyāk-,MN:WNALP,,,,,,cob,cob,initial,,,,,,,,,,ocyāk-
 1740,Macaulay,MAM_LB2024,,mez,,meno1252,kahpē-,MN:WNALP,,,,,,coffee,coffee,initial
 705,Macaulay,MAM_LB2024,17.42,mez,,meno1252,-āpaeh,MN:WNALP,,,,,,coin,coin,final,PART
-330,Macaulay,MAM_LB2024,15.252,mez,,meno1252,-ace1,MN:WNALP,,,,,,cold,cold,final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.252: prefinal -at 'cold' with AI -e. Matches II -ataen1.,,,,
 308,Bloomfield,LB1962,16.47; 19.24,mez,,meno1252,-at,MN:1,,,,,,cold,cold,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.47: In -acehsem, acehNEt(o·)",,,,
+194,Bloomfield,LB1962,14.109,mez,,meno1252,-kɛqsi·w,MN:1,,,,,,cold,cold,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.109: consists of II -kɛqsi· + agent -w.,,,,
+330,Macaulay,MAM_LB2024,15.252,mez,,meno1252,-ace1,MN:WNALP,,,,,,cold,cold,final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.252: prefinal -at 'cold' with AI -e. Matches II -ataen1.,,,,
 824,Macaulay,MAM_LB2024,15.252; 18.96; 19.24,mez,,meno1252,-ataen1,MN:WNALP,,,,,,cold,cold,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.252: prefinal -at with II -aen. Matches AI1 -ace1.,,,,
 1067,Macaulay,MAM_LB2024,14.109; 15.320,mez,,meno1252,-kaeqsī,MN:WNALP,,,,,,cold,cold,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,kaeqsiw,15.320: deverbal from kaeqsiw.,,,,
-194,Bloomfield,LB1962,14.109,mez,,meno1252,-kɛqsi·w,MN:1,,,,,,cold,cold,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.109: consists of II -kɛqsi· + agent -w.,,,,
 1714,Macaulay,MAM_LB2024,,mez,,meno1252,kaeqs-,MN:WNALP,,,,,,cold,cold,initial
 331,Macaulay,MAM_LB2024,16.47,mez,,meno1252,-acehNEt,MN:WNALP,,,,,,by cold,"cold, INSTRUMENT",final,TI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.47: Equals 16.46 (-hNEtō 'lay, drop, bring down, throw down, place') with added prefinal -at 'cold'.",,,,
 332,Macaulay,MAM_LB2024,16.47; 19.24,mez,,meno1252,-acehsem,MN:WNALP,,,,,,by cold,"cold, INSTRUMENT",final,TA,,,,,,,,,-acem,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.47: prefinal -at 'cold' + TA -hsem,,,,
@@ -606,10 +605,12 @@ The following rules all after AI stem:
  
  18.97: -at- 'stomach' - same comment about -ata͞e- 'girth, thickest part of the body'",,,,
 2446,Macaulay,MAM_LB2024,,mez,,meno1252,taem-,MN:WNALP,,,,,,deep,deep,initial
+1737,Macaulay,MAM_LB2024,,mez,,meno1252,kahkāmāw-,MN:WNALP,,,,,,fat meat on deer's back,"deer, fat, meat",initial
 1962,Macaulay,MAM_LB2024,"15.214; 21.15,24,114",mez,,meno1252,mēt-,MN:WNALP,,,,,,defecate,defecate,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.24: makes reduplication with ē.,,,,
 2158,Macaulay,MAM_LB2024,,mez,,meno1252,ohsw-,MN:WNALP,,,,,,defend,defend,initial
 2240,Macaulay,MAM_LB2024,,mez,,meno1252,paen-,MN:WNALP,,,,,,descend,descend,initial,,,,,,,,,,paena͞e-
 1948,Macaulay,MAM_LB2024,21.14,mez,,meno1252,mēhkaw-,MN:WNALP,,,,,,destroy,destroy,initial,,,,,,,,,,mēhkw-
+2061,Macaulay,MAM_LB2024,21.107,mez,,meno1252,nan-,MN:WNALP,,,,,,"fight, fight back, destroy","destroy, fight, fight back",initial,,,,,,,,,,nanah-
 1756,Macaulay,MAM_LB2024,14.39,mez,,meno1252,kānōhs-,MN:WNALP,,,,,,diamond,diamond,initial
 1768,Macaulay,MAM_LB2024,21.22,mez,,meno1252,kaya͞en-,MN:WNALP,,,,,,"different, other","different, other",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.22: makes reduplication with short a and the first vowel of the initial is lengthened.,,,,
 2387,Macaulay,MAM_LB2024,,mez,,meno1252,sanak-,MN:WNALP,,,,,,"difficult, expensive","difficult, expensive",initial
@@ -632,9 +633,9 @@ The following rules all after AI stem:
 2476,Macaulay,MAM_LB2024,21.25,mez,,meno1252,tapa-,MN:WNALP,,,,,,dodge,dodge,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.25: reduplication has short a plus h; first vowel of initial is lengthened.,,,,
 746,Macaulay,MAM_LB2024,17.54,mez,,meno1252,-aqnaem,MN:WNALP,,,,,,dog,dog,final,PART
 747,Macaulay,MAM_LB2024,"3.6,59; 14.391; 18.3,11,161; 20.23",mez,,meno1252,-aqnaemw,MN:WNALP,,,,,,dog,dog,final,N
-112,Bloomfield,LB1962,14.32; 18.18,mez,,meno1252,-i·-,MN:1,,,,,,dog,dog,medial,Dep,,,N
 1512,Macaulay,MAM_LB2024,"3.6,59; 4.25,26; 6.4,19; 14.174; 20.23",mez,,meno1252,an-,MN:WNALP,,,,,,dog,dog,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,occurs only in ana͞em,,,,
-1670,Macaulay,MAM_LB2024,15.219; 16.176; 21.5,mez,,meno1252,ī-,MN:WNALP,,,,,,dog,dog,initial,Dep
+112,Bloomfield,LB1962,14.32; 18.18,mez,,meno1252,-i·-,MN:1,,,,,,dog,"dog, DEPENDENT",medial,Dep,,,N
+1670,Macaulay,MAM_LB2024,15.219; 16.176; 21.5,mez,,meno1252,ī-,MN:WNALP,,,,,,dog,"dog, DEPENDENT",initial,Dep
 1931,Macaulay,MAM_LB2024,,mez,,meno1252,masī-,MN:WNALP,,,,,,doll,doll,initial
 459,Macaulay,MAM_LB2024,17.62,mez,,meno1252,-aenosyāh,MN:WNALP,,,,,,doorway,doorway,final,PART
 1488,Macaulay,MAM_LB2024,21.107,mez,,meno1252,ahpaket-,MN:WNALP,,,,,,down,down,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.107: ""In a number of formations conveniently regarded as primary, the initial is followed by a TI final.""",,,,
@@ -668,9 +669,9 @@ The following rules all after AI stem:
 2575,Macaulay,MAM_LB2024,21.111,mez,,meno1252,wēk-,MN:WNALP,,,,,,dwell,dwell,initial
 1066,Macaulay,MAM_LB2024,"14.157,372",mez,,meno1252,-kaenew,MN:WNALP,,,,,,eagle,eagle,final,N
 1705,Macaulay,MAM_LB2024,,mez,,meno1252,kaen-,MN:WNALP,,,,,,eagle,eagle,initial
+1001,Bloomfield,LB1962,"14.117; 18.15,94",mez,,meno1252,-hs-,MN:1,,,,,,ear,ear,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.117: ""[Agent noun] -hsɛ·w contains a foreign medial -hs- 'ear' with AI -ɛ·.",,,,
 16,Goddard,IG1965,0218,mez,,meno1252,-htawak-,MN:2,,,,*-htawak(ay)i,,ear,ear,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 410,Macaulay,MAM_LB2024,"16.137; 18.6,109; 19.27",mez,,meno1252,-aeht-,MN:WNALP,,,,,,ear,ear,medial,,,,,,,,,,-aehta͞e-,,-aehtawak-
-1001,Bloomfield,LB1962,"14.117; 18.15,94",mez,,meno1252,-hs-,MN:1,,,,,,ear,ear,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.117: ""[Agent noun] -hsɛ·w contains a foreign medial -hs- 'ear' with AI -ɛ·.",,,,
 1003,Macaulay,MAM_LB2024,14.117; 18.94,mez,,meno1252,-hsa͞ew,MN:WNALP,,,,,,ear,ear,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.117: contains foreign medial -hs- 'ear' with AI -a͞e, + agent -w.",,,,
 1023,Macaulay,MAM_LB2024,14.218; 18.109,mez,,meno1252,-htawak,MN:WNALP,,,,,,ear,ear,final,N
 1454,Macaulay,MAM_LB2024,"16.137; 18.6,109; 19.27",mez,,meno1252,aeht-,MN:WNALP,,,,,,ear,ear,initial,Dep,,,,,,,,,aehta͞e-
@@ -682,7 +683,6 @@ The following rules all after AI stem:
 573,Macaulay,MAM_LB2024,"14.127,345; 15.208,239; 18.151,176; 20.14",mez,,meno1252,-ahky-,MN:WNALP,,,,,,"earth, land","earth, ground, land",medial,,,,,,,,,,-hky-,,-ahkī-,,-ahkīwa͞e-,,-āhkihky-,,,,,,,,,,,,,,,,,,,,,,,,,Y,ahky-,"14.345: -ahkī- appears in final -ahkīy, which appears in a foreign word.
  15.239: -ahkī- appears before -qNa͞e. 
  18.176: medial deverbal from initial ahky- (noun ahkēw).",,,,
-197,Bloomfield,LB1962,14.125; 18.176,mez,,meno1252,-hki·w,MN:1,,,,,,"earth, land","earth, ground, land",final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.125: in most formations -hki·w is medial -hky- 'earth, land' with II -ɛ· and agential -w; also occurs in 'bluejay' & 'herb, medicine'",,,,
 3,Goddard,IG1965,0213,mez,,meno1252,-a·mɛhkw-,MN:2,,,,*a·meHkw-,,"earth, soil","earth, soil",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 1988,Macaulay,MAM_LB2024,21.79,mez,,meno1252,myāN-,MN:WNALP,,,,,,easy,easy,initial,,,,,,,,,,myāNōw-
 64,Bloomfield,LB1962,,mez,,meno1252,-ahcekɛ·,MN:1,,,,,,eat,eat,final,AI1,,,N
@@ -709,8 +709,8 @@ The following rules all after AI stem:
 2334,Macaulay,MAM_LB2024,,mez,,meno1252,pōs-,MN:WNALP,,,,,,embark,"embark, get in (vehicle), get on (boat)",initial
 926,Macaulay,MAM_LB2024,6.105; 14.202; 18.17,mez,,meno1252,-ēskī-,MN:WNALP,,,,,,enemy,enemy,medial
 927,Macaulay,MAM_LB2024,6.105; 14.202,mez,,meno1252,-ēskīw,MN:WNALP,,,,,,enemy,enemy,final,N,,,,,,,,,-āskīw
-748,Macaulay,MAM_LB2024,14.28,mez,,meno1252,-āqnakw,MN:WNALP,,,,,,entrails,"entrails, intestines",final,N
 325,Bloomfield,LB1962,14.28,mez,,meno1252,-āqnakw-,MN:1,,,,,,entrails,"entrails, intestines",medial,,,,N
+748,Macaulay,MAM_LB2024,14.28,mez,,meno1252,-āqnakw,MN:WNALP,,,,,,entrails,"entrails, intestines",final,N
 126,Bloomfield,LB1962,18.18,mez,,meno1252,-nakesy-,MN:1,,,,,,entrails,"entrails, intestines, DEPENDENT",medial,Dep,,,N
 2053,Macaulay,MAM_LB2024,18.18,mez,,meno1252,nakesy-,MN:WNALP,,,,,,entrails,"entrails, intestines, DEPENDENT",initial,Dep
 1221,Macaulay,MAM_LB2024,"16.108,182; 20.3",mez,,meno1252,-Naqt,MN:WNALP,,,,,,"entune, sing","entune, sing",final,TI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,enāqtaw,"16.108: TI final with formal object, deverbal from enāqtaw. No corresponding TA.",,,,
@@ -737,10 +737,77 @@ The following rules all after AI stem:
 1879,Macaulay,MAM_LB2024,18.148,mez,,meno1252,maeneqkw-,MN:WNALP,,,,,,eye,eye,initial
 164,Bloomfield,LB1962,18.148,mez,,meno1252,-meneqkw-,MN:1,,,,,,eye,"eye, DEPENDENT",medial,Dep,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.148: -men- as premedial.,,,,
 1303,Macaulay,MAM_LB2024,"18.1,67,73,148",mez,,meno1252,-qkw-,MN:WNALP,,,,,,"eye, face","eye, face",medial,,,,,,,,,,-qkī-,,-ānakeqkw-
-79,Bloomfield,LB1962,"14.285; 18.89,145",mez,,meno1252,-ske·hsekw-,MN:1,,,,,,"eye, face","eye, face",medial,Dep,,,N
 1344,Macaulay,MAM_LB2024,14.285,mez,,meno1252,-skēhsekw,MN:WNALP,,,,,,"eye, face","eye, face",final,N
-2420,Macaulay,MAM_LB2024,"14.285; 18.89,145",mez,,meno1252,skēhsekw-,MN:WNALP,,,,,,"eye, face","eye, face",initial,Dep
+79,Bloomfield,LB1962,"14.285; 18.89,145",mez,,meno1252,-ske·hsekw-,MN:1,,,,,,"eye, face","eye, face, DEPENDENT",medial,Dep,,,N
+2420,Macaulay,MAM_LB2024,"14.285; 18.89,145",mez,,meno1252,skēhsekw-,MN:WNALP,,,,,,"eye, face","eye, face, DEPENDENT",initial,Dep
 1156,Macaulay,MAM_LB2024,7.15; 18.65; 20.8,mez,,meno1252,-mōhkehkwan-,MN:WNALP,,,,,,eyebrow,eyebrow,medial
+2521,Macaulay,MAM_LB2024,,mez,,meno1252,wa͞ewet-,MN:WNALP,,,,,,face to face,face to face,initial
+378,Macaulay,MAM_LB2024,"14.89,90,302; 15.250,261,283; 16.59; 18.12,155; 21.90,115",mez,,meno1252,-aehkw-,MN:WNALP,,,,,,"face, head, hair","face, hair, head",medial,,,,,,,,,,-aehkī-,,-ātaehkī-,,-hkw-,,-hkī-,,-ānaehkī-
+1450,Macaulay,MAM_LB2024,,mez,,meno1252,aehkw-,MN:WNALP,,,,,,"face, head, hair","face, hair, head, DEPENDENT",initial,Dep,,,,,,,,,aehkī-
+275,Bloomfield,LB1962,3.50; 21.103,mez,,meno1252,-a·qnam,MN:1,,,,,,facing,facing,postradical,,,,N
+2323,Macaulay,MAM_LB2024,,mez,,meno1252,pītāqnam-,MN:WNALP,,,,,,facing here,facing (here),initial
+1464,Macaulay,MAM_LB2024,21.103,mez,,meno1252,aeNāqnam-,MN:WNALP,,,,,,facing there,facing (there),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,āqnam-,21.103: postradical -āqnam 'facing' deverbal of initial āqnam-.,,,,
+2125,Macaulay,MAM_LB2024,16.102,mez,,meno1252,nōN-,MN:WNALP,,,,,,fail,fail,initial
+2338,Macaulay,MAM_LB2024,17.8; 21.71,mez,,meno1252,pwā-,MN:WNALP,,,,,,fail,fail,initial,,,,,,,,,,pwāw-
+2098,Macaulay,MAM_LB2024,,mez,,meno1252,nēhs-,MN:WNALP,,,,,,fall apart,fall apart,initial
+1765,Macaulay,MAM_LB2024,4.30; 21.25,mez,,meno1252,kaw-,MN:WNALP,,,,,,fall over,fall over,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.25: reduplication has short a plus h; first vowel of initial is lengthened.,,,,
+626,Macaulay,MAM_LB2024,"15.249,250,282",mez,,meno1252,-akocena͞e,MN:WNALP,,,,,,"fall, hang","fall, hang",final,AI7,,,,,,,,,-aecena͞e,,-aehcena͞e
+635,Macaulay,MAM_LB2024,"15.249,250,282",mez,,meno1252,-akota͞e,MN:WNALP,,,,,,"fall, hang","fall, hang",final,II,,,,,,,,,-aeta͞e,,-aehNaen
+957,Macaulay,MAM_LB2024,7.15; 15.250,mez,,meno1252,-hcena͞e,MN:WNALP,,,,,,"fall, lie, snag","fall, lie, snag",final,AI7,,,,,,,,,-aehcena͞e
+1960,Macaulay,MAM_LB2024,,mez,,meno1252,mēsāt-,MN:WNALP,,,,,,fancy,fancy,initial
+2543,Macaulay,MAM_LB2024,17.22,mez,,meno1252,wāqnaw-,MN:WNALP,,,,,,far,far,initial
+1805,Macaulay,MAM_LB2024,,mez,,meno1252,kohk-,MN:WNALP,,,,,,farther on,farther,initial
+2512,Macaulay,MAM_LB2024,,mez,,meno1252,wa͞epyāt-,MN:WNALP,,,,,,fast,fast,initial
+552,Macaulay,MAM_LB2024,3.31,mez,,meno1252,-ahkata͞ewa͞e,MN:WNALP,,,,,,fasting,fast (V),final,AI1
+1722,Macaulay,MAM_LB2024,"4.29; 21.33,101",mez,,meno1252,kaesy-,MN:WNALP,,,,,,"fast, loud","fast, loud",initial,,,,,,,,,,kaesyā-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.33: abstract postradical -ā with initial kaesy- (not clear if this one or homophonous one),,,,
+2422,Macaulay,MAM_LB2024,,mez,,meno1252,sōhk-,MN:WNALP,,,,,,"fast, tight","fast, tight",initial
+2183,Macaulay,MAM_LB2024,,mez,,meno1252,onakw-,MN:WNALP,,,,,,fat,fat,initial
+1073,Macaulay,MAM_LB2024,15.124,mez,,meno1252,-kami,MN:WNALP,,,,,,fat (middle),fat (MIDDLE),final,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.124: In section on reflexive verbs in -i beside TA -w.,,,,
+1265,Macaulay,MAM_LB2024,18.179,mez,,meno1252,-paemy-,MN:WNALP,,,,,,"fat, oil","fat, oil",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,paemy-,18.179: deverbal from initial paemy-.,,,,
+2239,Macaulay,MAM_LB2024,14.153; 18.179,mez,,meno1252,paemy-,MN:WNALP,,,,,,"fat, oil","fat, oil",initial,,,,,,,,,,paemew-
+118,Bloomfield,LB1962,"6.85,98,100, 16.37, 18.16",mez,,meno1252,-o·hn-,MN:1,,,,,,father,"father, DEPENDENT",medial,Dep,,,N
+2149,Macaulay,MAM_LB2024,"6.85,98,100; 16.37; 18.16",mez,,meno1252,ōhn-,MN:WNALP,,,,,,father,"father, DEPENDENT",initial,Dep
+2245,Macaulay,MAM_LB2024,21.64,mez,,meno1252,pa͞eqsekw-,MN:WNALP,,,,,,faulty,faulty,initial,,,,,,,,,,pa͞eqsekwāt-
+2190,Macaulay,MAM_LB2024,,mez,,meno1252,onwā-,MN:WNALP,,,,,,favorable,favorable,initial
+1801,Macaulay,MAM_LB2024,"4.48,49,51,66; 16.105; 21.9,107,108",mez,,meno1252,ko-,MN:WNALP,,,,,,fear,fear,initial,,,,,,,,,,koqt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4.48,66: not clear if treating koqN- as an initial or stem.
+ 
+ 4.49,51: not clear if treating koqt- as an initial or stem.
+ 
+ 15.105: initial ko- could be set up as kop- or kok-, joined without connective.
+ 
+ 21.9: ko- could be set up as kop-.
+ 
+ 21.53 treats koqt- as an initial; 21.107-108 (""initials like stems""): initial is followed by a TI final -qt / TA final -qN; some forms ""most conveniently regarded as primary.""",,,,
+1049,Macaulay,MAM_LB2024,"14.244,255,310",mez,,meno1252,-īkwan,MN:WNALP,,,,,,feather,feather,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.310: suggests that this is composed of medial and N final -an or -kwan.,,,,
+1050,Macaulay,MAM_LB2024,"14.244,255; 18.78",mez,,meno1252,-īkwan-,MN:WNALP,,,,,,feather,feather,medial,,,,,,,,,,-kwan-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.244: gives as a medial used as a N final.
+ 
+ 14.255: foreign",,,,
+1106,Macaulay,MAM_LB2024,"4.25; 14.11,115,244,255; 18.1,78",mez,,meno1252,-kon2,MN:WNALP,,,,,,feather,feather,medial,,,,,,,,,,-kona͞e-2
+1108,Macaulay,MAM_LB2024,14.115; 18.78,mez,,meno1252,-kona͞ew,MN:WNALP,,,,,,feather,feather,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.115: medial -kon- 'feather' with AI -a͞e; appears in 2 words.,,,,
+1953,Macaulay,MAM_LB2024,,mez,,meno1252,mēkon-,MN:WNALP,,,,,,feather,feather,initial
+1969,Macaulay,MAM_LB2024,"6.10,66; 14.1,121,133; 18.13,170; 21.15",mez,,meno1252,mīy-,MN:WNALP,,,,,,feces,feces,initial
+591,Macaulay,MAM_LB2024,16.25,mez,,meno1252,-ahsam,MN:WNALP,,,,,,feed,feed,final,TA
+1492,Macaulay,MAM_LB2024,"3.6,17; 4.74",mez,,meno1252,ahsā-,MN:WNALP,,,,,,feed,feed,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ahsāmäw (ahsā´miwew) ahsā´niw
+ 
+ 16.22: verb forms contain TA -am, TI -aht",,,,
+1976,Macaulay,MAM_LB2024,,mez,,meno1252,mōN-,MN:WNALP,,,,,,feel,feel,initial
+2394,Macaulay,MAM_LB2024,,mez,,meno1252,sasīpā-,MN:WNALP,,,,,,feel into,feel into,initial
+689,Macaulay,MAM_LB2024,"14.2,197",mez,,meno1252,-anaqs,MN:WNALP,,,,,,fellow,fellow,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.197: ""suggesting diminutive -qs.""",,,,
+94,Bloomfield,LB1962,18.16,mez,,meno1252,-tɛhtaw-,MN:1,,,,,,fellow parent-in-law,"fellow, parent-in-law, DEPENDENT",medial,Dep,,,N
+2442,Macaulay,MAM_LB2024,18.16,mez,,meno1252,taehtaw-,MN:WNALP,,,,,,fellow parent-in-law,"fellow, parent-in-law, DEPENDENT",initial,Dep
+2165,Macaulay,MAM_LB2024,14.16,mez,,meno1252,okōw-,MN:WNALP,,,,,,female,female,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.160: unanalyzable,,,,
+1996,Macaulay,MAM_LB2024,"4.59; 5.6,7,8,13,24; 7.26,34,38; 8.22,30; 9.9; 10.16,26; 11.13; 16.181; 21.21,107,114",mez,,meno1252,nā-,MN:WNALP,,,,,,fetch,fetch,initial,,,,,,,,,,nās-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"5.13: nāt- a stem of TI class 3.
+ 
+ 21.21: nāN- (stem form) reduplicates with short a.
+ 
+ 21.107: nāt- is an ""extended initial,"" with TI final -t
+ 
+ 21.114: Final t of initials is assibilated to s before TA -aehtaw, TI -aeht.",,,,
+1835,Macaulay,MAM_LB2024,17.4,mez,,meno1252,kyāq-,MN:WNALP,,,,,,fie,fie,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.4: based on an initial that does not occur in other words.,,,,
+1951,Macaulay,MAM_LB2024,,mez,,meno1252,mēkā-,MN:WNALP,,,,,,fight,fight,initial
+500,Macaulay,MAM_LB2024,17.73; 18.72; 21.115,mez,,meno1252,-aesken,MN:WNALP,,,,,,filling,filling,final,PART,,,,,,,,,-ōsken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17.73: fillings, measures, cupfuls",,,,
+1843,Macaulay,MAM_LB2024,16.122; 21.9,mez,,meno1252,mae-,MN:WNALP,,,,,,find,find,initial,,,,,,,,,,maehk-
+1849,Macaulay,MAM_LB2024,21.108,mez,,meno1252,maehkaw-,MN:WNALP,,,,,,find,find,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.108: Some extended initials equal TA stems. TA -aehkaw: in maehkaw-.,,,,
 1477,Macaulay,MAM_LB2024,17.19,mez,,meno1252,a͞eyawes-,MN:WNALP,,,,,,"at first, formerly","first, formerly",initial
 1391,Macaulay,MAM_LB2024,"4.5,14,27; 16.48,58,126,146; 18.90; 21.96",mez,,meno1252,-wa͞ep-,MN:WNALP,,,,,,"fling, throw","fling, throw",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4.14: defined as 'throw'; mutation of t -> c before this medial.
  
@@ -771,6 +838,7 @@ The following rules all after AI stem:
 2558,Macaulay,MAM_LB2024,,mez,,meno1252,wāw-,MN:WNALP,,,,,,be lost,lost,initial
 1926,Macaulay,MAM_LB2024,,mez,,meno1252,maqnakw-,MN:WNALP,,,,,,bad luck,luck (bad),initial
 2290,Macaulay,MAM_LB2024,,mez,,meno1252,paqsī-,MN:WNALP,,,,,,bad luck,luck (bad),initial
+22,Bloomfield,LB1927b,0401,mez,,meno1252,-neniw-,MN:4,,,,,,man,man,final
 879,Macaulay,MAM_LB2024,"15.192,193",mez,,meno1252,-e,MN:WNALP,,,,,,be so many,"many, QUANTITY",final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.192: after numeral initials.,,,,
 884,Macaulay,MAM_LB2024,"15.192,193",mez,,meno1252,-e,MN:WNALP,,,,,,be so many,"many, QUANTITY",final,II,,,,,,,,,-aenw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.192: after numeral initials.
  
@@ -786,7 +854,6 @@ The following rules all after AI stem:
  
  Corresponds to -ht9",,,,
 1153,Macaulay,MAM_LB2024,"15.116; 16.11,32,101; 18.82",mez,,meno1252,-mi9,MN:WNALP,,,,,,"by mouth, speech, vocal sound (middle)","mouth, speech, sound, INSTRUMENT",final,AI2,,,,,,,,,-aemi9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.116: corresponds to TA -m,,,,
-13,Bloomfield,LB1924,0341,mez,,meno1252,-ehk-,MN:6,,,,,,by foot or body-movement,"movement (body, foot), INSTRUMENT",final,,,,,,,,,,-eck-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,does not say what type of final (from other sources: TI)
 357,Macaulay,MAM_LB2024,"4.52,53; 16.122,123,125; 18.79,83,90,112,136,151,171,178,186; 21.107,115",mez,,meno1252,-aehk1,MN:WNALP,,,,,,"by foot, body movement","movement (body, foot), INSTRUMENT",final,TI1,,,,,,,,,-aesk1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.122: replaces TI -aesk1 in accordance with the usual distribution of the prefinals -aehk and -aesk; causes assibilation of preceding [t],,,,
 358,Macaulay,MAM_LB2024,11.3; 15.227,mez,,meno1252,-aehkā,MN:WNALP,,,,,,"by foot, body movement","movement (body, foot), INSTRUMENT",final,AI1,,,,,,,,,-aeskā,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"11.3: imperative AI verbs with this final formed with -h instead of -non.
  
@@ -796,6 +863,7 @@ The following rules all after AI stem:
 503,Macaulay,MAM_LB2024,"15.69; 16.125; 18.36,176",mez,,meno1252,-aeskōsi,MN:WNALP,,,,,,"by foot, body movement (middle)","movement (body, foot), INSTRUMENT, MIDDLE",final,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.69: corresponding to TA -aeskōN; derived from TA -aeskaw + AI -aesi.,,,,
 504,Macaulay,MAM_LB2024,"15.69; 16.125; 18.36,176",mez,,meno1252,-aeskōta͞e,MN:WNALP,,,,,,"by foot, body movement (middle)","movement (body, foot), INSTRUMENT, MIDDLE",final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.69: Corresponding to TI -aeskōtō; derived from TA -aeskaw + II -aeta͞e.,,,,
 27,Goddard,IG1965,0214,mez,,meno1252,a·čemi-,MN:2,,,,*a·t-,,narrate,narrate,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+1161,Macaulay,MAM_LB2024,16.156,mez,,meno1252,-mw1,MN:WNALP,,,,,,"final, TA",NG,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.156: corresponds to TI1 -mot1.,,,,
 10,Bloomfield,LB1927b,0398,mez,,meno1252,-ātaʔnōhkä-,MN:4,,,,,,NG,NG,final
 1447,Macaulay,MAM_LB2024,7.2; 13.24; 21.8,mez,,meno1252,a͞e-,MN:WNALP,,,,,,be the one,one,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.8: forms only the defective AI and II a͞ew 'he, it is the one'.
  
@@ -806,6 +874,8 @@ The following rules all after AI stem:
 2180,Macaulay,MAM_LB2024,,mez,,meno1252,ona͞emāw-,MN:WNALP,,,,,,all preparations made,preparation,initial
 35,Denny,JPD1978a,0312,mez,,meno1252,ɛ,MN:5,,,,*-ē-,,process ,process,final,unknown,,ABSTR
 1893,Macaulay,MAM_LB2024,14.154,mez,,meno1252,maesw-,MN:WNALP,,,,,,cottontail rabbit,rabbit (cottontail),initial
+93,Bloomfield,LB1962,18.16,mez,,meno1252,-sɛkw-,MN:1,,,,,,female relative,"relative (female), DEPENDENT",medial,Dep,,,N
+2360,Macaulay,MAM_LB2024,,mez,,meno1252,saekw-,MN:WNALP,,,,,,female relative,"relative (female), DEPENDENT",initial,Dep
 440,Macaulay,MAM_LB2024,"16.128; 18.41,70,97,98,110,112,113,159,184; 21.107,114",mez,,meno1252,-aen2,MN:WNALP,,,,,,"by shot, missile","shot, missile, INSTRUMENT",final,TI1,,,,,,,,,-sot2
 446,Macaulay,MAM_LB2024,16.128; 18.97; 21.114,mez,,meno1252,-aenaw2,MN:WNALP,,,,,,"by shot, missile","shot, missile, INSTRUMENT",final,TA,,,,,,,,,-SW2
 2039,Macaulay,MAM_LB2024,14.154,mez,,meno1252,na͞ewa͞ew-,MN:WNALP,,,,,,blowing snake,snake (blowing),initial
@@ -828,79 +898,6 @@ The following rules all after AI stem:
 1039,Macaulay,MAM_LB2024,17.71; 18.111,mez,,meno1252,-īhtaem,MN:WNALP,,,,,,deep water,water (deep),final,PART
 1037,Macaulay,MAM_LB2024,15.246; 16.41; 18.111,mez,,meno1252,-īht-,MN:WNALP,,,,,,"body of water, deep water","water (deep), water (body of)",medial,,,,,,,,,,-īhtaemy-
 487,Macaulay,MAM_LB2024,14.109,mez,,meno1252,-aeqsīw,MN:WNALP,,,,,,cold weather,weather (cold),final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,kaeqsiw,"14.109: containing -kaeqsī (II final), deverbal from kaeqsiw 'it is cold weather', occurs in ocīkaeqsyah.",,,,
-2521,Macaulay,MAM_LB2024,,mez,,meno1252,wa͞ewet-,MN:WNALP,,,,,,face to face,,initial
-378,Macaulay,MAM_LB2024,"14.89,90,302; 15.250,261,283; 16.59; 18.12,155; 21.90,115",mez,,meno1252,-aehkw-,MN:WNALP,,,,,,"face, head, hair",,medial,,,,,,,,,,-aehkī-,,-ātaehkī-,,-hkw-,,-hkī-,,-ānaehkī-
-1450,Macaulay,MAM_LB2024,,mez,,meno1252,aehkw-,MN:WNALP,,,,,,"face, head, hair",,initial,Dep,,,,,,,,,aehkī-
-275,Bloomfield,LB1962,3.50; 21.103,mez,,meno1252,-a·qnam,MN:1,,,,,,facing,,postradical,,,,N
-2323,Macaulay,MAM_LB2024,,mez,,meno1252,pītāqnam-,MN:WNALP,,,,,,facing here,,initial
-1464,Macaulay,MAM_LB2024,21.103,mez,,meno1252,aeNāqnam-,MN:WNALP,,,,,,facing there,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,āqnam-,21.103: postradical -āqnam 'facing' deverbal of initial āqnam-.,,,,
-2125,Macaulay,MAM_LB2024,16.102,mez,,meno1252,nōN-,MN:WNALP,,,,,,fail,,initial
-2338,Macaulay,MAM_LB2024,17.8; 21.71,mez,,meno1252,pwā-,MN:WNALP,,,,,,fail,,initial,,,,,,,,,,pwāw-
-2098,Macaulay,MAM_LB2024,,mez,,meno1252,nēhs-,MN:WNALP,,,,,,fall apart,,initial
-1765,Macaulay,MAM_LB2024,4.30; 21.25,mez,,meno1252,kaw-,MN:WNALP,,,,,,fall over,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.25: reduplication has short a plus h; first vowel of initial is lengthened.,,,,
-626,Macaulay,MAM_LB2024,"15.249,250,282",mez,,meno1252,-akocena͞e,MN:WNALP,,,,,,"fall, hang",,final,AI7,,,,,,,,,-aecena͞e,,-aehcena͞e
-635,Macaulay,MAM_LB2024,"15.249,250,282",mez,,meno1252,-akota͞e,MN:WNALP,,,,,,"fall, hang",,final,II,,,,,,,,,-aeta͞e,,-aehNaen
-957,Macaulay,MAM_LB2024,7.15; 15.250,mez,,meno1252,-hcena͞e,MN:WNALP,,,,,,"fall, lie, snag",,final,AI7,,,,,,,,,-aehcena͞e
-1960,Macaulay,MAM_LB2024,,mez,,meno1252,mēsāt-,MN:WNALP,,,,,,fancy,,initial
-2543,Macaulay,MAM_LB2024,17.22,mez,,meno1252,wāqnaw-,MN:WNALP,,,,,,far,,initial
-1805,Macaulay,MAM_LB2024,,mez,,meno1252,kohk-,MN:WNALP,,,,,,farther on,,initial
-2512,Macaulay,MAM_LB2024,,mez,,meno1252,wa͞epyāt-,MN:WNALP,,,,,,fast,,initial
-1792,Macaulay,MAM_LB2024,21.21,mez,,meno1252,kīhk-,MN:WNALP,,,,,,"fast, close",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.21: makes reduplication with short a.,,,,
-1722,Macaulay,MAM_LB2024,"4.29; 21.33,101",mez,,meno1252,kaesy-,MN:WNALP,,,,,,"fast, loud",,initial,,,,,,,,,,kaesyā-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.33: abstract postradical -ā with initial kaesy- (not clear if this one or homophonous one),,,,
-2422,Macaulay,MAM_LB2024,,mez,,meno1252,sōhk-,MN:WNALP,,,,,,"fast, tight",,initial
-552,Macaulay,MAM_LB2024,3.31,mez,,meno1252,-ahkata͞ewa͞e,MN:WNALP,,,,,,fasting,,final,AI1
-2183,Macaulay,MAM_LB2024,,mez,,meno1252,onakw-,MN:WNALP,,,,,,fat,,initial
-1073,Macaulay,MAM_LB2024,15.124,mez,,meno1252,-kami,MN:WNALP,,,,,,fat (middle),,final,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.124: In section on reflexive verbs in -i beside TA -w.,,,,
-1737,Macaulay,MAM_LB2024,,mez,,meno1252,kahkāmāw-,MN:WNALP,,,,,,fat meat on deer's back,,initial
-1265,Macaulay,MAM_LB2024,18.179,mez,,meno1252,-paemy-,MN:WNALP,,,,,,"fat, oil",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,paemy-,18.179: deverbal from initial paemy-.,,,,
-2239,Macaulay,MAM_LB2024,14.153; 18.179,mez,,meno1252,paemy-,MN:WNALP,,,,,,"fat, oil",,initial,,,,,,,,,,paemew-
-118,Bloomfield,LB1962,"6.85,98,100, 16.37, 18.16",mez,,meno1252,-o·hn-,MN:1,,,,,,father,,medial,Dep,,,N
-2149,Macaulay,MAM_LB2024,"6.85,98,100; 16.37; 18.16",mez,,meno1252,ōhn-,MN:WNALP,,,,,,father,,initial,Dep
-2245,Macaulay,MAM_LB2024,21.64,mez,,meno1252,pa͞eqsekw-,MN:WNALP,,,,,,faulty,,initial,,,,,,,,,,pa͞eqsekwāt-
-2190,Macaulay,MAM_LB2024,,mez,,meno1252,onwā-,MN:WNALP,,,,,,favorable,,initial
-1801,Macaulay,MAM_LB2024,"4.48,49,51,66; 16.105; 21.9,107,108",mez,,meno1252,ko-,MN:WNALP,,,,,,fear,,initial,,,,,,,,,,koqt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4.48,66: not clear if treating koqN- as an initial or stem.
- 
- 4.49,51: not clear if treating koqt- as an initial or stem.
- 
- 15.105: initial ko- could be set up as kop- or kok-, joined without connective.
- 
- 21.9: ko- could be set up as kop-.
- 
- 21.53 treats koqt- as an initial; 21.107-108 (""initials like stems""): initial is followed by a TI final -qt / TA final -qN; some forms ""most conveniently regarded as primary.""",,,,
-1049,Macaulay,MAM_LB2024,"14.244,255,310",mez,,meno1252,-īkwan,MN:WNALP,,,,,,feather,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.310: suggests that this is composed of medial and N final -an or -kwan.,,,,
-1050,Macaulay,MAM_LB2024,"14.244,255; 18.78",mez,,meno1252,-īkwan-,MN:WNALP,,,,,,feather,,medial,,,,,,,,,,-kwan-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.244: gives as a medial used as a N final.
- 
- 14.255: foreign",,,,
-1106,Macaulay,MAM_LB2024,"4.25; 14.11,115,244,255; 18.1,78",mez,,meno1252,-kon2,MN:WNALP,,,,,,feather,,medial,,,,,,,,,,-kona͞e-2
-1108,Macaulay,MAM_LB2024,14.115; 18.78,mez,,meno1252,-kona͞ew,MN:WNALP,,,,,,feather,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.115: medial -kon- 'feather' with AI -a͞e; appears in 2 words.,,,,
-1953,Macaulay,MAM_LB2024,,mez,,meno1252,mēkon-,MN:WNALP,,,,,,feather,,initial
-1969,Macaulay,MAM_LB2024,"6.10,66; 14.1,121,133; 18.13,170; 21.15",mez,,meno1252,mīy-,MN:WNALP,,,,,,feces,,initial
-591,Macaulay,MAM_LB2024,16.25,mez,,meno1252,-ahsam,MN:WNALP,,,,,,feed,,final,TA
-1492,Macaulay,MAM_LB2024,"3.6,17; 4.74",mez,,meno1252,ahsā-,MN:WNALP,,,,,,feed,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"ahsāmäw (ahsā´miwew) ahsā´niw
- 
- 16.22: verb forms contain TA -am, TI -aht",,,,
-1976,Macaulay,MAM_LB2024,,mez,,meno1252,mōN-,MN:WNALP,,,,,,feel,,initial
-2394,Macaulay,MAM_LB2024,,mez,,meno1252,sasīpā-,MN:WNALP,,,,,,feel into,,initial
-689,Macaulay,MAM_LB2024,"14.2,197",mez,,meno1252,-anaqs,MN:WNALP,,,,,,fellow,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.197: ""suggesting diminutive -qs.""",,,,
-94,Bloomfield,LB1962,18.16,mez,,meno1252,-tɛhtaw-,MN:1,,,,,,fellow parent-in-law,,medial,Dep,,,N
-2442,Macaulay,MAM_LB2024,18.16,mez,,meno1252,taehtaw-,MN:WNALP,,,,,,fellow parent-in-law,,initial,Dep
-2165,Macaulay,MAM_LB2024,14.16,mez,,meno1252,okōw-,MN:WNALP,,,,,,female,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.160: unanalyzable,,,,
-93,Bloomfield,LB1962,18.16,mez,,meno1252,-sɛkw-,MN:1,,,,,,female relative,,medial,Dep,,,N
-2360,Macaulay,MAM_LB2024,,mez,,meno1252,saekw-,MN:WNALP,,,,,,female relative,,initial,Dep
-1996,Macaulay,MAM_LB2024,"4.59; 5.6,7,8,13,24; 7.26,34,38; 8.22,30; 9.9; 10.16,26; 11.13; 16.181; 21.21,107,114",mez,,meno1252,nā-,MN:WNALP,,,,,,fetch,,initial,,,,,,,,,,nās-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"5.13: nāt- a stem of TI class 3.
- 
- 21.21: nāN- (stem form) reduplicates with short a.
- 
- 21.107: nāt- is an ""extended initial,"" with TI final -t
- 
- 21.114: Final t of initials is assibilated to s before TA -aehtaw, TI -aeht.",,,,
-1835,Macaulay,MAM_LB2024,17.4,mez,,meno1252,kyāq-,MN:WNALP,,,,,,fie,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.4: based on an initial that does not occur in other words.,,,,
-1951,Macaulay,MAM_LB2024,,mez,,meno1252,mēkā-,MN:WNALP,,,,,,fight,,initial
-2061,Macaulay,MAM_LB2024,21.107,mez,,meno1252,nan-,MN:WNALP,,,,,,"fight, fight back, destroy",,initial,,,,,,,,,,nanah-
-500,Macaulay,MAM_LB2024,17.73; 18.72; 21.115,mez,,meno1252,-aesken,MN:WNALP,,,,,,filling,,final,PART,,,,,,,,,-ōsken,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17.73: fillings, measures, cupfuls",,,,
-1161,Macaulay,MAM_LB2024,16.156,mez,,meno1252,-mw1,MN:WNALP,,,,,,"final, TA",,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.156: corresponds to TI1 -mot1.,,,,
-1843,Macaulay,MAM_LB2024,16.122; 21.9,mez,,meno1252,mae-,MN:WNALP,,,,,,find,,initial,,,,,,,,,,maehk-
-1849,Macaulay,MAM_LB2024,21.108,mez,,meno1252,maehkaw-,MN:WNALP,,,,,,find,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.108: Some extended initials equal TA stems. TA -aehkaw: in maehkaw-.,,,,
 2313,Macaulay,MAM_LB2024,21.107,mez,,meno1252,pēqs-,MN:WNALP,,,,,,fine cut,,initial,,,,,,,,,,pēqskah-
 1185,Macaulay,MAM_LB2024,"6.65; 14.224,295",mez,,meno1252,-naehcy,MN:WNALP,,,,,,"finger, hand",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.224: normally ""a distinction is made between -naehky- 'arm' and -naehcy- 'finger,"" except in nena͞eh",,,,
 1186,Macaulay,MAM_LB2024,"6.65; 14.224,295,311; 18.175",mez,,meno1252,-naehcy-,MN:WNALP,,,,,,"finger, hand",,medial,,,,,,,,,,-naehcī-
@@ -952,8 +949,8 @@ The following rules all after AI stem:
 1927,Macaulay,MAM_LB2024,,mez,,meno1252,maqnanw-,MN:WNALP,,,,,,flint,,initial
 726,Macaulay,MAM_LB2024,16.7,mez,,meno1252,-āpāwa͞e,MN:WNALP,,,,,,flood,,final,AI
 725,Macaulay,MAM_LB2024,"18.120,165; 21.115",mez,,meno1252,-āpāw-,MN:WNALP,,,,,,"flood, rinse",,medial
-867,Macaulay,MAM_LB2024,14.113; 15.318,mez,,meno1252,-cewan,MN:WNALP,,,,,,flow,,final,II,,,,,,,,,-ācewan
 179,Bloomfield,LB1962,14.113,mez,,meno1252,-cewanw,MN:1,,,,,,flow,,final,N,,,N,,,,,,-a·cewanw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.113: contains II -cewan 'flow'; used in women's names,,,,
+867,Macaulay,MAM_LB2024,14.113; 15.318,mez,,meno1252,-cewan,MN:WNALP,,,,,,flow,,final,II,,,,,,,,,-ācewan
 1089,Macaulay,MAM_LB2024,15.26,mez,,meno1252,-kawe,MN:WNALP,,,,,,flow,,final,AI1,,,,,,,,,-āsekawe
 1090,Macaulay,MAM_LB2024,15.26,mez,,meno1252,-kawe,MN:WNALP,,,,,,flow,,final,II,,,,,,,,,-āsekawe
 1305,Macaulay,MAM_LB2024,"15.239; 18.123,176",mez,,meno1252,-qNa͞e,MN:WNALP,,,,,,fly,,final,AI1
@@ -966,8 +963,8 @@ The following rules all after AI stem:
  21.113: added without connective -e- after aeN-.",,,,
 844,Macaulay,MAM_LB2024,15.322,mez,,meno1252,-awan,MN:WNALP,,,,,,fog,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,awān,15.322: deverbal from awān 'there is a fog'.,,,,
 1602,Macaulay,MAM_LB2024,,mez,,meno1252,awā-,MN:WNALP,,,,,,fog,,initial,,,,,,,,,,awāh-
-470,Macaulay,MAM_LB2024,17.46; 18.47,mez,,meno1252,-aepīmak,MN:WNALP,,,,,,foliage,,final,PART,,,,,,,,,-pīmak
 471,Bloomfield,LB1962,14.320; 17.46; 18.47,mez,,meno1252,-ɛpi·makw,MN:1,,,,,,foliage,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.320: composed of -aepīm- 'foliage' (allomorph -aepīmak-) + N final -w.,,,,
+470,Macaulay,MAM_LB2024,17.46; 18.47,mez,,meno1252,-aepīmak,MN:WNALP,,,,,,foliage,,final,PART,,,,,,,,,-pīmak
 469,Macaulay,MAM_LB2024,"14.320; 18.7,47",mez,,meno1252,-aepīm-,MN:WNALP,,,,,,"foliage, leaves",,medial,,,,,,,,,,-aepīmak-,,-pīmak-
 1895,Macaulay,MAM_LB2024,,mez,,meno1252,maeta͞e-,MN:WNALP,,,,,,follow a trail,,initial,,,,,,,,,,maetaemw-
 1143,Macaulay,MAM_LB2024,18.45; 20.8,mez,,meno1252,-mēcem-,MN:WNALP,,,,,,food,,medial
@@ -1021,8 +1018,8 @@ The following rules all after AI stem:
 1228,Macaulay,MAM_LB2024,16.85,mez,,meno1252,-nehkāN,MN:WNALP,,,,,,give a name,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.85: with prefinal -nehkā,,,,
 1229,Macaulay,MAM_LB2024,"16.85,182",mez,,meno1252,-nehkāt,MN:WNALP,,,,,,give a name,,final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.85: with prefinal -nehkā,,,,
 752,Macaulay,MAM_LB2024,15.132,mez,,meno1252,-aqōmi,MN:WNALP,,,,,,give a signal call (middle),,final,AI2
-1246,Macaulay,MAM_LB2024,"14.52,95; 15.174,298; 20.6",mez,,meno1252,-ōhsī,MN:WNALP,,,,,,give birth,,final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nōhsī-,15.174: Deverbal from unused AI stem nōhsī-.,,,,
 1247,Bloomfield,LB1962,"14.52,95; 15.298",mez,,meno1252,-o·hsya·n,MN:1,,,,,,give birth,,final,N
+1246,Macaulay,MAM_LB2024,"14.52,95; 15.174,298; 20.6",mez,,meno1252,-ōhsī,MN:WNALP,,,,,,give birth,,final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nōhsī-,15.174: Deverbal from unused AI stem nōhsī-.,,,,
 1531,Macaulay,MAM_LB2024,"21.14,108",mez,,meno1252,ānaw-,MN:WNALP,,,,,,give up,,initial,,,,,,,,,,ānw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.14: ""ānaw- (~ānw-; there is also a form ānaehs-)""",,,,
 872,Macaulay,MAM_LB2024,15.16,mez,,meno1252,-ckī,MN:WNALP,,,,,,given to doing,,final,AI,,,Y,,,,,,-hkī,,-sehkī,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.16: forms AI verbs of addiction from other AI verbs. Can be class 1 or 2 (some are variable).
  
@@ -1055,10 +1052,10 @@ The following rules all after AI stem:
 117,Bloomfield,LB1962,"14.33, 18.16",mez,,meno1252,-o·hkw-,MN:1,,,,,,grandmother,,medial,Dep,,,N
 2148,Macaulay,MAM_LB2024,14.33; 18.16,mez,,meno1252,ōhkw-,MN:WNALP,,,,,,grandmother,,initial,Dep
 775,Macaulay,MAM_LB2024,17.59,mez,,meno1252,-as,MN:WNALP,,,,,,grass,,final,PART
-802,Macaulay,MAM_LB2024,14.292; 20.8,mez,,meno1252,-askw,MN:WNALP,,,,,,"grass, herb",,final,N,,,B,,,,,,-awaskw,,-maskw,,-waskw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.292: also appears as a secondary final added to Ns.,,,,
-803,Macaulay,MAM_LB2024,"3.60; 14.151; 18.159; 20.5,18",mez,,meno1252,-askw-,MN:WNALP,,,,,,"grass, herb",,medial,,,,,,,,,,-ask-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,maskw-,20.5: deverbal from maskw-,,,,
 316,Bloomfield,LB1962,"18.1,103,159",mez,,meno1252,-ɛsk-,MN:1,,,,,,"grass, herb",,premedial,,,,N
 227,Bloomfield,LB1962,21.101,mez,,meno1252,kɛsyaskw-,MN:1,,,,,,"grass, herb",,initial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.101: (Medials in Postradical Use): -askw- 'grass, herb' in kɛsyaskw-, ...",,,,
+802,Macaulay,MAM_LB2024,14.292; 20.8,mez,,meno1252,-askw,MN:WNALP,,,,,,"grass, herb",,final,N,,,B,,,,,,-awaskw,,-maskw,,-waskw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.292: also appears as a secondary final added to Ns.,,,,
+803,Macaulay,MAM_LB2024,"3.60; 14.151; 18.159; 20.5,18",mez,,meno1252,-askw-,MN:WNALP,,,,,,"grass, herb",,medial,,,,,,,,,,-ask-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,maskw-,20.5: deverbal from maskw-,,,,
 1934,Macaulay,MAM_LB2024,"3.60; 14.1,134,164,292; 18.159; 19.23; 20.18",mez,,meno1252,maskw-,MN:WNALP,,,,,,"grass, herb",,initial,,,,,,,,,,a͞esk-
 1913,Macaulay,MAM_LB2024,,mez,,meno1252,mamīm-,MN:WNALP,,,,,,grease,,initial
 1584,Macaulay,MAM_LB2024,"3.34,35; 21.21,75,91",mez,,meno1252,ask-,MN:WNALP,,,,,,"green, fresh, raw",,initial,,,,,,,,,,askew-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.21: makes reduplication with short a in the combination askīwaka͞e-.,,,,
@@ -1110,9 +1107,9 @@ The following rules all after AI stem:
 214,Bloomfield,LB1962,"16.137,139,140,182; 18.6,109; 19.27; 21.114,115",mez,,meno1252,-ɛht,MN:1,,,,,,hear,,final,TI1,,,N,,,,,,-ɛ·noht,,-e·ht,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.137: corresponds to TA -ɛhtaw1; contains medial -ɛht- 'ear' as prefinal element.,,,,
 208,Bloomfield,LB1962,"16.137; 18.6,109; 19.27; 21.114",mez,,meno1252,-ɛhtaw,MN:1,,,,,,hear,,final,TA,,,N,,,,,,-ɛ·nohtaw,,-e·htaw,,-ɛ·htaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.137: corresponds to TI -ɛht1; contains medial -ɛht- 'ear' as prefinal element,,,,
 2131,Macaulay,MAM_LB2024,18.16,mez,,meno1252,nw-,MN:WNALP,,,,,,hear,,initial
+1365,Bloomfield,LB1962,14.343; 17.44,mez,,meno1252,-tɛ·hy,MN:1,,,,,,heart,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.343: composed of -tɛ·h- 'heart' + N final -y,,,,
 1360,Macaulay,MAM_LB2024,17.44; 18.21,mez,,meno1252,-ta͞eh,MN:WNALP,,,,,,heart,,final,PART
 1361,Macaulay,MAM_LB2024,14.343; 16.14; 18.21,mez,,meno1252,-ta͞eh-,MN:WNALP,,,,,,heart,,medial,,,,,,,,,,-ta͞eha͞e-
-1365,Bloomfield,LB1962,14.343; 17.44,mez,,meno1252,-tɛ·hy,MN:1,,,,,,heart,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.343: composed of -tɛ·h- 'heart' + N final -y,,,,
 2439,Macaulay,MAM_LB2024,14.343; 16.14; 18.21,mez,,meno1252,ta͞eh-,MN:WNALP,,,,,,heart,,initial,Dep
 1733,Macaulay,MAM_LB2024,,mez,,meno1252,kaey-,MN:WNALP,,,,,,heart (card),,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Only in keyōn 'heart (card)'.,,,,
 801,Macaulay,MAM_LB2024,14.371; 20.5,mez,,meno1252,-askota͞ew,MN:WNALP,,,,,,hearth; prairie,,final,N
@@ -1159,8 +1156,8 @@ The following rules all after AI stem:
 1891,Macaulay,MAM_LB2024,,mez,,meno1252,maesas-,MN:WNALP,,,,,,horsefly,,initial
 1684,Macaulay,MAM_LB2024,,mez,,meno1252,kā-,MN:WNALP,,,,,,"hot, sizzle",,initial,,,,,,,,,,kayā-
 1718,Macaulay,MAM_LB2024,"21.36,84",mez,,meno1252,kaes-,MN:WNALP,,,,,,"hot, warm",,initial,,,,,,,,,,kaeseqN-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.36: postradical -ē after kaes-, but not clear if that applies to this initial.",,,,
-894,Macaulay,MAM_LB2024,14.346; 17.63; 18.110,mez,,meno1252,-Eht-,MN:WNALP,,,,,,house,,medial,,,,,,,,,,-Ehta͞e-
 896,Bloomfield,LB1962,14.346; 18.110,mez,,meno1252,-Ehtɛ·my,MN:1,,,,,,house,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.346: composed of -Ehtɛ·- (allomorph of -Eht-) 'house' + N final -my.,,,,
+894,Macaulay,MAM_LB2024,14.346; 17.63; 18.110,mez,,meno1252,-Eht-,MN:WNALP,,,,,,house,,medial,,,,,,,,,,-Ehta͞e-
 897,Macaulay,MAM_LB2024,14.12,mez,,meno1252,-Ehta͞ew,MN:WNALP,,,,,,house,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.120: contains medial -Eht- 'house' and II -a͞e; plus agent -w; only appears in particle final -Ehtyāh.,,,,
 898,Macaulay,MAM_LB2024,14.120; 17.63,mez,,meno1252,-Ehtyāh,MN:WNALP,,,,,,house,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17.63: composed of medial -Eht- 'house', II -a͞e and N final -w with inflectional -Eh.",,,,
 899,Macaulay,MAM_LB2024,"14.4,221",mez,,meno1252,-ēk,MN:WNALP,,,,,,house,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.4: Has accretion of initial ē. In nēk 'my house' the accretive ē is prefixed to the medial -ik- 'dwell'.,,,,
@@ -1260,9 +1257,9 @@ The following rules all after AI stem:
 428,Macaulay,MAM_LB2024,14.316; 18.180,mez,,meno1252,-aemanīqs,MN:WNALP,,,,,,kingfisher,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.316: medial -aemanī- plus diminutive -qs. Medial not otherwise attested.,,,,
 2161,Macaulay,MAM_LB2024,,mez,,meno1252,oka͞esk-,MN:WNALP,,,,,,kingfisher,,initial
 2208,Macaulay,MAM_LB2024,,mez,,meno1252,ot-,MN:WNALP,,,,,,"kiss, pop",,initial,,,,,,,,,,oci-
+75,Bloomfield,LB1962,18.18,mez,,meno1252,-kɛtɛkw-,MN:1,,,,,,knee,,medial,Dep,,,N
 955,Macaulay,MAM_LB2024,"14.242,310; 18.61",mez,,meno1252,-hcekwan,MN:WNALP,,,,,,knee,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.310: suggests that this is composed of medial and N final -an or -kwan.,,,,
 956,Macaulay,MAM_LB2024,7.15; 18.61; 21.94,mez,,meno1252,-hcekwan-,MN:WNALP,,,,,,knee,,medial,,,,,,,,,,-hcekwana͞e-
-75,Bloomfield,LB1962,18.18,mez,,meno1252,-kɛtɛkw-,MN:1,,,,,,knee,,medial,Dep,,,N
 1657,Macaulay,MAM_LB2024,7.15; 18.61; 21.94,mez,,meno1252,hcekwan-,MN:WNALP,,,,,,knee,,initial,Dep,,,,,,,,,hcekwana͞e-
 1727,Macaulay,MAM_LB2024,18.18,mez,,meno1252,kaetaekw-,MN:WNALP,,,,,,knee,,initial,Dep
 2135,Macaulay,MAM_LB2024,18.61; 21.94,mez,,meno1252,ocehcekwan-,MN:WNALP,,,,,,knee,,initial,,,,,,,,,,oceqcekwan-
@@ -1321,10 +1318,10 @@ The following rules all after AI stem:
 1681,Macaulay,MAM_LB2024,17.5,mez,,meno1252,ka-,MN:WNALP,,,,,,let it be,,initial
 2119,Macaulay,MAM_LB2024,16.62,mez,,meno1252,nōhkwā-,MN:WNALP,,,,,,lick,,initial
 298,Bloomfield,LB1962,19.31,mez,,meno1252,-a·hN,MN:1,,,,,,"lie, fall",,prefinal,,,,N
-406,Macaulay,MAM_LB2024,,mez,,meno1252,-aehsi,MN:WNALP,,,,,,"lie, fall",,final,AI
 306,Bloomfield,LB1962,"3.55; 15.161,250,251; 16.46; 19.31; 21.84",mez,,meno1252,-hN,MN:1,,,,,,"lie, fall",,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3.54: added to various final suffixes, yielding complexes like AI -hN-enɛ·-, II -hN-ɛn, TA -hN-e-m, TI -hN-Eto·-.
  
  See 3.54 for definition & explanation of prefinal accretion.",,,,
+406,Macaulay,MAM_LB2024,,mez,,meno1252,-aehsi,MN:WNALP,,,,,,"lie, fall",,final,AI
 1711,Macaulay,MAM_LB2024,21.23,mez,,meno1252,kaenw-,MN:WNALP,,,,,,"lie, untruth",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.23: makes reduplication with short a; first vowel of initial replaced by ā.,,,,
 1501,Macaulay,MAM_LB2024,,mez,,meno1252,akēnw-,MN:WNALP,,,,,,lift leg (urinate),,initial
 167,Bloomfield,LB1962,14.119; 15.105,mez,,meno1252,-a·qNahtɛ·,MN:1,,,,,,light,,final,II,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.105: consists of medial -a·qN- 'light' with II -ahtɛ·.,,,,
@@ -1370,8 +1367,8 @@ The following rules all after AI stem:
 2157,Macaulay,MAM_LB2024,14.375,mez,,meno1252,ohsiy-,MN:WNALP,,,,,,long ridge,,initial
 2408,Macaulay,MAM_LB2024,"21.27,65",mez,,meno1252,sēp-,MN:WNALP,,,,,,"long, slow",,initial,,,,,,,,,,sēpskāt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.25: sēpskāt- has abstract postradical -skāt-.
 21.27: reduplication has long ē plus q.",,,,
-728,Macaulay,MAM_LB2024,"15.284; 18.2,89,171; 20.7; 21.114",mez,,meno1252,-āpe,MN:WNALP,,,,,,look,,final,AI1,,,,,,,,,-atawāpe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wāpew,18.2: from wāpew 'he looks on',,,,
 318,Bloomfield,LB1962,,mez,,meno1252,na·h-,MN:1,,,,,,look,,prepronoun,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,before pronouns and local forms,,,,
+728,Macaulay,MAM_LB2024,"15.284; 18.2,89,171; 20.7; 21.114",mez,,meno1252,-āpe,MN:WNALP,,,,,,look,,final,AI1,,,,,,,,,-atawāpe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wāpew,18.2: from wāpew 'he looks on',,,,
 713,Macaulay,MAM_LB2024,15.93; 16.24,mez,,meno1252,-āpahsi,MN:WNALP,,,,,,look at (middle),,final,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.93: AI middle refl corresp to TA -āpam,,,,
 1470,Macaulay,MAM_LB2024,,mez,,meno1252,aes-,MN:WNALP,,,,,,"look back, watch for",,initial
 714,Macaulay,MAM_LB2024,"16.24,182; 18.2,89; 20.7; 21.114",mez,,meno1252,-āpaht,MN:WNALP,,,,,,"look, look at, see",,final,TI1,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wāpahtam,"16.24, 18.2: deverbal of wāpahtam; matching TA -āpam. Freely used after initials; preceeding [t] always assibilated.",,,,
@@ -1386,8 +1383,8 @@ The following rules all after AI stem:
  
  21.23: makes reduplication with short a; first vowel of initial replaced by ā.",,,,
 2122,Macaulay,MAM_LB2024,21.109,mez,,meno1252,nōhtākw-,MN:WNALP,,,,,,loud,,initial
-379,Macaulay,MAM_LB2024,"14.130; 18.151,153",mez,,meno1252,-aehkw-,MN:WNALP,,,,,,louse,,medial,,,,,,,,,,-aemaehkw-,,-aemaehkoma͞e-,,-aehkoma͞e-,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,ehkuah,18.153: deverbal from the noun ehkuah.,,,,
 180,Bloomfield,LB1962,14.13,mez,,meno1252,-ɛhkomɛ·hsi·w,MN:1,,,,,,louse,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.130: contains medial -ɛhkomɛ·- 'louse' + AI -hsi·; + agent -w.,,,,
+379,Macaulay,MAM_LB2024,"14.130; 18.151,153",mez,,meno1252,-aehkw-,MN:WNALP,,,,,,louse,,medial,,,,,,,,,,-aemaehkw-,,-aemaehkoma͞e-,,-aehkoma͞e-,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,ehkuah,18.153: deverbal from the noun ehkuah.,,,,
 2477,Macaulay,MAM_LB2024,16.62,mez,,meno1252,tapā-,MN:WNALP,,,,,,love,,initial
 1690,Macaulay,MAM_LB2024,17.17,mez,,meno1252,kaehkemen-,MN:WNALP,,,,,,lucky,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17.17: -n appears in ""unanalyzable particles"" including this one.",,,,
 2226,Macaulay,MAM_LB2024,"3.38; 14.1,133,353; 15.4; 18.151; 21.33",mez,,meno1252,paehkw-,MN:WNALP,,,,,,"lump, bit",,initial,,,,,,,,,,paehkwā-
@@ -1509,17 +1506,78 @@ The following rules all after AI stem:
 1682,Macaulay,MAM_LB2024,12.2,mez,,meno1252,ka-,MN:WNALP,,,,,,negative,,initial
 101,Bloomfield,LB1962,"14.33, 18.16",mez,,meno1252,-pwa·n-,MN:1,,,,,,"nephew, niece",,medial,Dep,,,N
 2340,Macaulay,MAM_LB2024,14.33; 18.16,mez,,meno1252,pwān-,MN:WNALP,,,,,,"nephew, niece",,initial,Dep
+326,Bloomfield,LB1962,"14.10,214",mez,,meno1252,-asa͞eqN-,MN:1,,,,,,nest,,medial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.10: found in wasa͞eq 'nest'; consists of a medial with initial a or ā, preceded by w; stems do not appear elsewhere as medials.",,,,
 777,Macaulay,MAM_LB2024,,mez,,meno1252,-asa͞eN-,MN:WNALP,,,,,,nest,,medial
 778,Macaulay,MAM_LB2024,"14.10,214",mez,,meno1252,-asa͞eqN,MN:WNALP,,,,,,nest,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.10: found in wasa͞eq 'nest'; consists of a medial with initial a or ā, preceded by w; stem does not appear elsewhere as medial.",,,,
-326,Bloomfield,LB1962,"14.10,214",mez,,meno1252,-asa͞eqN-,MN:1,,,,,,nest,,medial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.10: found in wasa͞eq 'nest'; consists of a medial with initial a or ā, preceded by w; stems do not appear elsewhere as medials.",,,,
 2549,Macaulay,MAM_LB2024,,mez,,meno1252,wasa͞eqn-,MN:WNALP,,,,,,nest,,initial
 750,Macaulay,MAM_LB2024,14.399,mez,,meno1252,-aqnāpy,MN:WNALP,,,,,,net,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,from aqnap AN 'net',,,,
 2312,Macaulay,MAM_LB2024,17.11,mez,,meno1252,pēnoc-,MN:WNALP,,,,,,"new, strange",,initial
 2203,Macaulay,MAM_LB2024,"21.13,66,75",mez,,meno1252,osk-,MN:WNALP,,,,,,"new, young",,initial,,,,,,,,,,oskewāt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.13: initial wa͞esk- resembles this one with initial change.,,,,
-327,Macaulay,MAM_LB2024,14.97; 15.166,mez,,meno1252,-ā,MN:WNALP,,,,,,NG,,final,AI1
-328,Macaulay,MAM_LB2024,"15.169,229",mez,,meno1252,-ā,MN:WNALP,,,,,,NG,,final,AI2,,,,,,,,,-a͞e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.169: appears in short stems; a few of normal shape.,,,,
 299,Bloomfield,LB1962,15.237; 19.9,mez,,meno1252,-a·hpɛ,MN:1,,,,,,NG,,prefinal,,,,N
 285,Bloomfield,LB1962,16.28,mez,,meno1252,-a·pa·,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.28: In -a·pa·m, -a·pa·ht",,,,
+548,Bloomfield,LB1962,14.104,mez,,meno1252,-a·hkasiw,MN:1,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.104: contains AI -a·hkasi 'dry up',,,,
+296,Bloomfield,LB1962,15.238; 19.21,mez,,meno1252,-ahkw,MN:1,,,,,,NG,,prefinal,,,,N
+59,Bloomfield,LB1962,21.4,mez,,meno1252,-ak,MN:1,,,,,,NG,,postradical,,,ABSTR,N
+309,Bloomfield,LB1962,15.203,mez,,meno1252,-ak,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.203: in AI -akɛse, II -akat",,,,
+274,Bloomfield,LB1962,"3.51; 4.48,49; 15.202,203,311; 18.8,9; 19.23; 21.40",mez,,meno1252,-ak-,MN:1,,,,,,NG,,postmedial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18.9: especially before finals AI -ɛse, II -at",,,,
+278,Bloomfield,LB1962,,mez,,meno1252,-am,MN:1,,,,,,NG,,postradical,,,,N
+290,Bloomfield,LB1962,15.138; 16.8; 19.23,mez,,meno1252,-am,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.138: In -amEkose. 16.8: In -ameh, ""with inflectional -am as prefinal.""",,,,
+279,Bloomfield,LB1962,21.107,mez,,meno1252,-ama·t,MN:1,,,,,,NG,,postradical,,,,N
+195,Bloomfield,LB1962,3.44,mez,,meno1252,-amekw,MN:1,,,,,,NG,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3.44: ""the final -amekw never occurs elsewhere, and the medial -ik- alone does not occur at the end of noun stems; we describe -ikamekw as a derivative noun-final suffix formed by coalescence.""",,,,
+276,Bloomfield,LB1962,21.53,mez,,meno1252,-an,MN:1,,,,,,NG,,postradical,,,,N
+305,Bloomfield,LB1962,19.2,mez,,meno1252,-an,MN:1,,,,,,NG,,prefinal,,,,N
+292,Bloomfield,LB1962,15.151; 19.23,mez,,meno1252,-anak,MN:1,,,,,,NG,,prefinal,,,,N
+796,Bloomfield,LB1962,14.341; 18.159,mez,,meno1252,-askɛnw,MN:WNALP,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.341: composed of -ask- (allomorph of -askw-) 'grass, herb' + N final -ɛnw",,,,
+187,Bloomfield,LB1962,14.172,mez,,meno1252,-askw,MN:1,,,,,,NG,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.172: only one noun given with this one (oqsas 'muskrat'),,,,
+183,Bloomfield,LB1962,14.114,mez,,meno1252,-atw,MN:1,,,,,,NG,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.114: contains II -at,,,,
+270,Bloomfield,LB1962,18.9,mez,,meno1252,-awak-,MN:1,,,,,,NG,,postmedial,,,,N
+269,Bloomfield,LB1962,18.9,mez,,meno1252,-awɛ·-,MN:1,,,,,,NG,,postmedial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.9: from AI -awɛ· (18.108),,,,
+264,Bloomfield,LB1962,"18.9,24",mez,,meno1252,-ay-,MN:1,,,,,,NG,,postmedial,,,,N
+271,Bloomfield,LB1962,18.9,mez,,meno1252,-e·-,MN:1,,,,,,NG,,postmedial,,,,N
+209,Bloomfield,LB1962,16.135,mez,,meno1252,-e·qtaw,MN:1,,,,,,NG,,final,TA,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.135: in one stem only; no TI.,,,,
+905,Bloomfield,LB1962,14.63,mez,,meno1252,-Ekowen,MN:1,,,,,,NG,,final,N
+193,Bloomfield,LB1962,14.108,mez,,meno1252,-esew,MN:1,,,,,,NG,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.108: contains AI -ɛse ""with foreign e for ɛ""",,,,
+287,Bloomfield,LB1962,"16.36,46",mez,,meno1252,-ɛ·,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.36: in -ɛ·qNEm, -ɛ·qNEt(o·) (which already contains prefinal -ɛqN 'blow'); 16.46: in -ɛ·hsem, -ɛ·hNEt(o·) (which already contains prefinal -hN)",,,,
+258,Bloomfield,LB1962,"15.202,251; 16.46,56,65,102,143,161,162; 18.1,8,9,19,157,180",mez,,meno1252,-ɛ·-,MN:1,,,,,,NG,,postmedial,,,,N
+260,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛ·k-,MN:1,,,,,,NG,,postmedial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.9: -ɛ· + k,,,,
+311,Bloomfield,LB1962,16.44,mez,,meno1252,-ɛ·n,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.44: In -ɛ·nem, -ɛ·neht 'think'",,,,
+266,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛ·wɛ·-,MN:1,,,,,,NG,,postmedial,,,,N
+263,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛ·wɛ·k-,MN:1,,,,,,NG,,postmedial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.9: -ɛ·wɛ· + -ak,,,,
+267,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛ·yaw-,MN:1,,,,,,NG,,postmedial,,,,N
+268,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛ·yawɛ·w-,MN:1,,,,,,NG,,postmedial,,,,N
+181,Bloomfield,LB1962,14.83; 16.5,mez,,meno1252,-ɛhcekan,MN:1,,,,,,NG,,final,N,,,N
+184,Bloomfield,LB1962,14.118; 18.86,mez,,meno1252,-ɛhNaqtɛ·w,MN:1,,,,,,NG,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.118: contains II -ɛhNaqtɛ· 'burn', which is based on medial -ɛhN- 'wood', plus agent -w.",,,,
+261,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛm-,MN:1,,,,,,NG,,postmedial,,,,N
+257,Bloomfield,LB1962,14.316; 18.180,mez,,meno1252,-ɛmany-,MN:1,,,,,,NG,,medial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.316: N final -ɛmani·qs contains medial -ɛmani·-.
+ 
+ 18.180: -ɛmany- (?) with postmedial -ɛ·, yielding -ɛmani·-. Only appears in N final -ɛmani·qs.",,,,
+262,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛmɛ·-,MN:1,,,,,,NG,,postmedial,,,,N
+273,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛmy-,MN:1,,,,,,NG,,postmedial,,,,N
+265,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛn-,MN:1,,,,,,NG,,postmedial,,,,N
+952,Bloomfield,LB1962,"16.152,182",mez,,meno1252,-h,MN:1,,,,,,NG,,final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.152: contained in -ɛseh (composed of prefinal -ɛs and TI final -h).,,,,
+1024,Bloomfield,LB1962,"15.63; 16.142,152",mez,,meno1252,-hw,MN:1,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.152: contained in -ɛsehw (composed of prefinal -ɛs and TA final -hw).,,,,
+283,Bloomfield,LB1962,15.253,mez,,meno1252,-k,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.253: Appears in AI -ke, II -kɛn 'grow, shape'",,,,
+272,Bloomfield,LB1962,18.9,mez,,meno1252,-kɛ·-,MN:1,,,,,,NG,,postmedial,,,,N
+280,Bloomfield,LB1962,15.303,mez,,meno1252,-mak,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.303: in II final -makat,,,,
+307,Bloomfield,LB1962,16.53,mez,,meno1252,-o·,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.53: In -o·m, -o·ht 'carry on the back'",,,,
+61,Bloomfield,LB1962,15.172,mez,,meno1252,-o·tɛ,MN:1,,,,,,NG,,final,AI1,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.172: only one verb listed, kemo·tɛw 's/he steals something'.",,,,
+203,Bloomfield,LB1962,16.51,mez,,meno1252,-om,MN:1,,,,,,NG,,final,TA,,,N
+215,Bloomfield,LB1962,"16.51,182",mez,,meno1252,-ot,MN:1,,,,,,NG,,final,TI1,,,N
+1341,Bloomfield,LB1962,16.182,mez,,meno1252,-sk,MN:1,,,,,,NG,,final,TI1
+1345,Bloomfield,LB1962,14.145,mez,,meno1252,-skwan,MN:1,,,,,,NG,,final,N
+281,Bloomfield,LB1962,16.21,mez,,meno1252,-w,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.21: added before -m (with epenthetic [e]) in one word.,,,,
+259,Bloomfield,LB1962,18.9; 19.18,mez,,meno1252,-w-,MN:1,,,,,,NG,,postmedial,,,,N
+169,Bloomfield,LB1962,14.55,mez,,meno1252,-wan,MN:1,,,,,,NG,,final,N,,,N
+1404,Bloomfield,LB1962,7.3,mez,,meno1252,-yɛ·w,MN:1,,,,,,NG,,final,TA
+1422,Bloomfield,LB1962,14.167,mez,,meno1252,-yi·kw ,MN:1,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.167: appears in unanalyzable Ns,,,,
+223,Bloomfield,LB1962,21.102,mez,,meno1252,kɛpanw-,MN:1,,,,,,NG,,initial,,,,N
+243,Bloomfield,LB1962,21.33,mez,,meno1252,nak-,MN:1,,,,,,NG,,initial,,,,N
+244,Bloomfield,LB1962,17.13,mez,,meno1252,packy-,MN:1,,,,,,NG,,initial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17.13: Preceding y drops in packɛ·q 'a little bit', initial packy-.",,,,
+245,Bloomfield,LB1962,21.34,mez,,meno1252,pahkw-,MN:1,,,,,,NG,,initial,,,,N
+240,Bloomfield,LB1962,21.21,mez,,meno1252,si·p-,MN:1,,,,,,NG,,initial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.21: makes reduplication with short a.,,,,
+250,Bloomfield,LB1962,21.101,mez,,meno1252,wa·naskw-,MN:1,,,,,,NG,,initial,,,,N
+327,Macaulay,MAM_LB2024,14.97; 15.166,mez,,meno1252,-ā,MN:WNALP,,,,,,NG,,final,AI1
+328,Macaulay,MAM_LB2024,"15.169,229",mez,,meno1252,-ā,MN:WNALP,,,,,,NG,,final,AI2,,,,,,,,,-a͞e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.169: appears in short stems; a few of normal shape.,,,,
 329,Macaulay,MAM_LB2024,17.11,mez,,meno1252,-ac,MN:WNALP,,,,,,NG,,final,PART,,,,,,,,,-c,,-āc
 337,Macaulay,MAM_LB2024,15.216,mez,,meno1252,-acki,MN:WNALP,,,,,,NG,,final,AI2
 340,Macaulay,MAM_LB2024,,mez,,meno1252,-ae,MN:WNALP,,,,,,NG,,final,AI1
@@ -1591,38 +1649,26 @@ The following rules all after AI stem:
 533,Macaulay,MAM_LB2024,18.173,mez,,meno1252,-ahcy-,MN:WNALP,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18.173: B has ""(?)"" after -ahcy-; no def; before AI -a͞e: noun with possessor nena͞emahcyaneh.",,,,
 536,Macaulay,MAM_LB2024,14.137,mez,,meno1252,-āhk,MN:WNALP,,,,,,NG,,final,N
 538,Macaulay,MAM_LB2024,14.85; 15.180,mez,,meno1252,-āhka͞e,MN:WNALP,,,,,,NG,,final,AI
-548,Bloomfield,LB1962,14.104,mez,,meno1252,-a·hkasiw,MN:1,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.104: contains AI -a·hkasi 'dry up',,,,
 553,Macaulay,MAM_LB2024,18.115,mez,,meno1252,-ahkawa͞e-,MN:WNALP,,,,,,NG,,medial
-296,Bloomfield,LB1962,15.238; 19.21,mez,,meno1252,-ahkw,MN:1,,,,,,NG,,prefinal,,,,N
 572,Macaulay,MAM_LB2024,"14.29,207",mez,,meno1252,-ahkwahkw,MN:WNALP,,,,,,NG,,final,N,,,,,,,,,-ānahkwahkw,,-ahkwāhs,,-ānahkwāhs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.29: -āhs appears in two Ns that vary between stem shapes in -ahkwahkw and -ahkwāhs.,,,,
 593,Macaulay,MAM_LB2024,16.22,mez,,meno1252,-aht,MN:WNALP,,,,,,NG,,final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.22: Corresponds to TA -am.,,,,
 598,Macaulay,MAM_LB2024,18.107,mez,,meno1252,-ahta͞e-,MN:WNALP,,,,,,NG,,medial
 604,Macaulay,MAM_LB2024,16.143,mez,,meno1252,-ahw2,MN:WNALP,,,,,,NG,,final,TA,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.143: secondary; added to nouns.,,,,
-59,Bloomfield,LB1962,21.4,mez,,meno1252,-ak,MN:1,,,,,,NG,,postradical,,,ABSTR,N
-309,Bloomfield,LB1962,15.203,mez,,meno1252,-ak,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.203: in AI -akɛse, II -akat",,,,
-274,Bloomfield,LB1962,"3.51; 4.48,49; 15.202,203,311; 18.8,9; 19.23; 21.40",mez,,meno1252,-ak-,MN:1,,,,,,NG,,postmedial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18.9: especially before finals AI -ɛse, II -at",,,,
 606,Macaulay,MAM_LB2024,15.177,mez,,meno1252,-aka͞e,MN:WNALP,,,,,,NG,,final,AI1
 608,Macaulay,MAM_LB2024,15.203,mez,,meno1252,-akaese,MN:WNALP,,,,,,NG,,final,AI1,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.203: with prefinal -ak; added to pepōn to count years.,,,,
 615,Macaulay,MAM_LB2024,15.203,mez,,meno1252,-akat,MN:WNALP,,,,,,NG,,final,II,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.203: with prefinal -ak; added to pepōn to count years.,,,,
 620,Macaulay,MAM_LB2024,16.91,mez,,meno1252,-aket,MN:WNALP,,,,,,NG,,final,TI
 621,Macaulay,MAM_LB2024,16.182,mez,,meno1252,-aket,MN:WNALP,,,,,,NG,,final,TI2
 632,Macaulay,MAM_LB2024,16.99,mez,,meno1252,-akoN2,MN:WNALP,,,,,,NG,,final,TA
-278,Bloomfield,LB1962,,mez,,meno1252,-am,MN:1,,,,,,NG,,postradical,,,,N
-290,Bloomfield,LB1962,15.138; 16.8; 19.23,mez,,meno1252,-am,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.138: In -amEkose. 16.8: In -ameh, ""with inflectional -am as prefinal.""",,,,
 640,Macaulay,MAM_LB2024,14.14,mez,,meno1252,-am,MN:WNALP,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.140: only in necīqcekwam,,,,
 641,Macaulay,MAM_LB2024,16.23,mez,,meno1252,-am,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.23: Corresponds to TI -at; combines with -kopy- 'buttocks';,,,,
-279,Bloomfield,LB1962,21.107,mez,,meno1252,-ama·t,MN:1,,,,,,NG,,postradical,,,,N
 650,Macaulay,MAM_LB2024,"16.180,182",mez,,meno1252,-amāt1,MN:WNALP,,,,,,NG,,final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.180: consists of -amow + -aet, with contraction of owae to ā. Corresponds to primary final -amow (not the applicative).",,,,
-195,Bloomfield,LB1962,3.44,mez,,meno1252,-amekw,MN:1,,,,,,NG,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3.44: ""the final -amekw never occurs elsewhere, and the medial -ik- alone does not occur at the end of noun stems; we describe -ikamekw as a derivative noun-final suffix formed by coalescence.""",,,,
 653,Macaulay,MAM_LB2024,15.18,mez,,meno1252,-amow1,MN:WNALP,,,,,,NG,,final,TA
 655,Macaulay,MAM_LB2024,14.185,mez,,meno1252,-amy,MN:WNALP,,,,,,NG,,final,N
-276,Bloomfield,LB1962,21.53,mez,,meno1252,-an,MN:1,,,,,,NG,,postradical,,,,N
-305,Bloomfield,LB1962,19.2,mez,,meno1252,-an,MN:1,,,,,,NG,,prefinal,,,,N
 656,Macaulay,MAM_LB2024,15.309,mez,,meno1252,-an,MN:WNALP,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.309: appears in impersonal verbs,,,,
 657,Macaulay,MAM_LB2024,"16.65; 18.151,159,184,185,186,188; 19.3",mez,,meno1252,-aN,MN:WNALP,,,,,,NG,,final,TA
 660,Macaulay,MAM_LB2024,14.143,mez,,meno1252,-ān,MN:WNALP,,,,,,NG,,final,N
 661,Macaulay,MAM_LB2024,17.17,mez,,meno1252,-ān,MN:WNALP,,,,,,NG,,final,PART
-292,Bloomfield,LB1962,15.151; 19.23,mez,,meno1252,-anak,MN:1,,,,,,NG,,prefinal,,,,N
 684,Macaulay,MAM_LB2024,14.92,mez,,meno1252,-anāmwan,MN:WNALP,,,,,,NG,,final,N,,,,,,,,,-ēwanāmwan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.92: used in archaic words for 'language'.,,,,
 692,Macaulay,MAM_LB2024,16.9,mez,,meno1252,-aneh,MN:WNALP,,,,,,NG,,final,TA
 699,Macaulay,MAM_LB2024,"14.175,336,337; 18.38",mez,,meno1252,-anw,MN:WNALP,,,,,,NG,,final,N
@@ -1636,9 +1682,7 @@ The following rules all after AI stem:
 776,Macaulay,MAM_LB2024,17.19,mez,,meno1252,-as,MN:WNALP,,,,,,NG,,final,PART,,,,,,,,,-a͞es
 784,Macaulay,MAM_LB2024,15.251,mez,,meno1252,-āsenae,MN:WNALP,,,,,,NG,,final,AI
 791,Macaulay,MAM_LB2024,14.357,mez,,meno1252,-āseya͞e,MN:WNALP,,,,,,NG,,final,AI
-796,Bloomfield,LB1962,14.341; 18.159,mez,,meno1252,-askɛnw,MN:WNALP,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.341: composed of -ask- (allomorph of -askw-) 'grass, herb' + N final -ɛnw",,,,
 800,Macaulay,MAM_LB2024,16.72,mez,,meno1252,-aski,MN:WNALP,,,,,,NG,,final,AI2
-187,Bloomfield,LB1962,14.172,mez,,meno1252,-askw,MN:1,,,,,,NG,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.172: only one noun given with this one (oqsas 'muskrat'),,,,
 810,Macaulay,MAM_LB2024,15.311,mez,,meno1252,-at,MN:WNALP,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.311: apart from stems which are matched by AI -aese, appears in a number of forms for which no AI pendant can be cited.",,,,
 813,Macaulay,MAM_LB2024,16.23,mez,,meno1252,-at,MN:WNALP,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.23: combines with -kopy- 'buttocks'; corresponding TA -am.,,,,
 814,Macaulay,MAM_LB2024,16.65,mez,,meno1252,-at,MN:WNALP,,,,,,NG,,final,TI1
@@ -1646,17 +1690,13 @@ The following rules all after AI stem:
 820,Macaulay,MAM_LB2024,15.187,mez,,meno1252,-āta͞e,MN:WNALP,,,,,,NG,,final,AI1
 826,Macaulay,MAM_LB2024,15.205; 18.124,mez,,meno1252,-ātaese,MN:WNALP,,,,,,NG,,final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.205: only appears in two forms.,,,,
 831,Macaulay,MAM_LB2024,15.218,mez,,meno1252,-ati,MN:WNALP,,,,,,NG,,final,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.218: appears in sōwatow 'he skates',,,,
-183,Bloomfield,LB1962,14.114,mez,,meno1252,-atw,MN:1,,,,,,NG,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.114: contains II -at,,,,
 837,Macaulay,MAM_LB2024,14.152,mez,,meno1252,-āw,MN:WNALP,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.152: appears in otherwise unanalyzable nouns,,,,
 839,Macaulay,MAM_LB2024,"3.41; 5.12; 7.30; 8.20,25; 11.9; 16.119",mez,,meno1252,-aw1,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.119: corresponds to -zero TI2 final.,,,,
 841,Macaulay,MAM_LB2024,"15.245; 18.9,108; 21.3",mez,,meno1252,-awa͞e,MN:WNALP,,,,,,NG,,final,AI1
 842,Macaulay,MAM_LB2024,15.188; 21.3,mez,,meno1252,-āwa͞e,MN:WNALP,,,,,,NG,,final,AI1
-270,Bloomfield,LB1962,18.9,mez,,meno1252,-awak-,MN:1,,,,,,NG,,postmedial,,,,N
 847,Macaulay,MAM_LB2024,15.206,mez,,meno1252,-awe,MN:WNALP,,,,,,NG,,final,AI
 850,Macaulay,MAM_LB2024,14.166,mez,,meno1252,-awekw,MN:WNALP,,,,,,NG,,final,N
-269,Bloomfield,LB1962,18.9,mez,,meno1252,-awɛ·-,MN:1,,,,,,NG,,postmedial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.9: from AI -awɛ· (18.108),,,,
 853,Macaulay,MAM_LB2024,"14.181,311,344; 18.131",mez,,meno1252,-ay,MN:WNALP,,,,,,NG,,final,N
-264,Bloomfield,LB1962,"18.9,24",mez,,meno1252,-ay-,MN:1,,,,,,NG,,postmedial,,,,N
 854,Macaulay,MAM_LB2024,15.306,mez,,meno1252,-aya͞e,MN:WNALP,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.306: 1 example; archaic.,,,,
 866,Macaulay,MAM_LB2024,14.276; 18.126,mez,,meno1252,-cewa͞e-,MN:WNALP,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""obscure medial"""
 873,Macaulay,MAM_LB2024,15.307,mez,,meno1252,-ckī,MN:WNALP,,,,,,NG,,final,II,,,,,,,,,-ackī
@@ -1664,18 +1704,14 @@ The following rules all after AI stem:
 882,Macaulay,MAM_LB2024,4.12,mez,,meno1252,-e,MN:WNALP,,,,,,NG,,final,AI8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4.12: (Describing mutation of N, t) One could describe these forms as having a basic final -e, when then drops by 4.35.",,,,
 883,Macaulay,MAM_LB2024,15.192,mez,,meno1252,-e,MN:WNALP,,,,,,NG,,final,II
 885,Macaulay,MAM_LB2024,"15.214; 18.43; 21.110,114",mez,,meno1252,-ē,MN:WNALP,,,,,,NG,,final,AI1
-271,Bloomfield,LB1962,18.9,mez,,meno1252,-e·-,MN:1,,,,,,NG,,postmedial,,,,N
-209,Bloomfield,LB1962,16.135,mez,,meno1252,-e·qtaw,MN:1,,,,,,NG,,final,TA,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.135: in one stem only; no TI.,,,,
 887,Macaulay,MAM_LB2024,"15.133,192,193,194,214,252,253,256,259",mez,,meno1252,-e3,MN:WNALP,,,,,,NG,,final,AI1
 893,Macaulay,MAM_LB2024,14.192,mez,,meno1252,-ēhsy,MN:WNALP,,,,,,NG,,final,N
 904,Macaulay,MAM_LB2024,15.15,mez,,meno1252,-Ekōwa͞ewaese,MN:WNALP,,,,,,NG,,final,AI1
-905,Bloomfield,LB1962,14.63,mez,,meno1252,-Ekowen,MN:1,,,,,,NG,,final,N
 906,Macaulay,MAM_LB2024,14.165,mez,,meno1252,-Ekw,MN:WNALP,,,,,,NG,,final,N
 910,Macaulay,MAM_LB2024,3.55,mez,,meno1252,-em,MN:WNALP,,,,,,NG,,final,TA
 914,Macaulay,MAM_LB2024,15.217,mez,,meno1252,-ēni,MN:WNALP,,,,,,NG,,final,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.217: In akēnow.,,,,
 920,Macaulay,MAM_LB2024,16.161,mez,,meno1252,-Es3,MN:WNALP,,,,,,NG,,final,TI,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.161: One example, added to AI stem in derived noun. (Can't tell what kind of TI.)",,,,
 922,Macaulay,MAM_LB2024,,mez,,meno1252,-ese,MN:WNALP,,,,,,NG,,final,AI
-193,Bloomfield,LB1962,14.108,mez,,meno1252,-esew,MN:1,,,,,,NG,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.108: contains AI -ɛse ""with foreign e for ɛ""",,,,
 931,Macaulay,MAM_LB2024,"3.55; 16.46,182",mez,,meno1252,-Et1,MN:WNALP,,,,,,NG,,final,TI2
 934,Macaulay,MAM_LB2024,14.107; 15.79,mez,,meno1252,-Eta͞ew,MN:WNALP,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.107: contains II -Eta͞e 'heat, ripen'",,,,
 935,Macaulay,MAM_LB2024,14.157,mez,,meno1252,-ew,MN:WNALP,,,,,,NG,,final,N
@@ -1685,26 +1721,8 @@ The following rules all after AI stem:
 941,Macaulay,MAM_LB2024,18.6,mez,,meno1252,-ēwanaehka͞e,MN:WNALP,,,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,deverb,,,,
 946,Macaulay,MAM_LB2024,14.182,mez,,meno1252,-ey,MN:WNALP,,,,,,NG,,final,N
 947,Macaulay,MAM_LB2024,15.19,mez,,meno1252,-eya͞e,MN:WNALP,,,,,,NG,,final,AI
-287,Bloomfield,LB1962,"16.36,46",mez,,meno1252,-ɛ·,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.36: in -ɛ·qNEm, -ɛ·qNEt(o·) (which already contains prefinal -ɛqN 'blow'); 16.46: in -ɛ·hsem, -ɛ·hNEt(o·) (which already contains prefinal -hN)",,,,
-258,Bloomfield,LB1962,"15.202,251; 16.46,56,65,102,143,161,162; 18.1,8,9,19,157,180",mez,,meno1252,-ɛ·-,MN:1,,,,,,NG,,postmedial,,,,N
-260,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛ·k-,MN:1,,,,,,NG,,postmedial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.9: -ɛ· + k,,,,
-311,Bloomfield,LB1962,16.44,mez,,meno1252,-ɛ·n,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.44: In -ɛ·nem, -ɛ·neht 'think'",,,,
-266,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛ·wɛ·-,MN:1,,,,,,NG,,postmedial,,,,N
-263,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛ·wɛ·k-,MN:1,,,,,,NG,,postmedial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.9: -ɛ·wɛ· + -ak,,,,
-267,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛ·yaw-,MN:1,,,,,,NG,,postmedial,,,,N
-268,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛ·yawɛ·w-,MN:1,,,,,,NG,,postmedial,,,,N
-181,Bloomfield,LB1962,14.83; 16.5,mez,,meno1252,-ɛhcekan,MN:1,,,,,,NG,,final,N,,,N
-184,Bloomfield,LB1962,14.118; 18.86,mez,,meno1252,-ɛhNaqtɛ·w,MN:1,,,,,,NG,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.118: contains II -ɛhNaqtɛ· 'burn', which is based on medial -ɛhN- 'wood', plus agent -w.",,,,
-261,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛm-,MN:1,,,,,,NG,,postmedial,,,,N
-257,Bloomfield,LB1962,14.316; 18.180,mez,,meno1252,-ɛmany-,MN:1,,,,,,NG,,medial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.316: N final -ɛmani·qs contains medial -ɛmani·-.
- 
- 18.180: -ɛmany- (?) with postmedial -ɛ·, yielding -ɛmani·-. Only appears in N final -ɛmani·qs.",,,,
-262,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛmɛ·-,MN:1,,,,,,NG,,postmedial,,,,N
-273,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛmy-,MN:1,,,,,,NG,,postmedial,,,,N
-265,Bloomfield,LB1962,18.9,mez,,meno1252,-ɛn-,MN:1,,,,,,NG,,postmedial,,,,N
 950,Macaulay,MAM_LB2024,14.135,mez,,meno1252,-h,MN:WNALP,,,,,,NG,,final,N
 951,Macaulay,MAM_LB2024,17.14,mez,,meno1252,-h,MN:WNALP,,,,,,NG,,final,PART,,,,,,,,,-ah,,-aeh,,-ēh,,-ih
-952,Bloomfield,LB1962,"16.152,182",mez,,meno1252,-h,MN:1,,,,,,NG,,final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.152: contained in -ɛseh (composed of prefinal -ɛs and TI final -h).,,,,
 953,Macaulay,MAM_LB2024,"3.31; 4.4; 15.113; 16.2; 18.99,104; 21.31,108",mez,,meno1252,-h2,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.2: matching TI -ht(ō)2; most general and most freely used pair of transitive finals... freely added to all manner of initials, ... especially common after initials ending in -at, -a:t, or formed with postradical -a:t, used sparingly after medials.",,,,
 961,Macaulay,MAM_LB2024,15.179; 16.181,mez,,meno1252,-hka͞e,MN:WNALP,,,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.179: appears in one verb; one derived noun.,,,,
 966,Macaulay,MAM_LB2024,15.195,mez,,meno1252,-hke,MN:WNALP,,,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.195: appears in non-occurring stem.,,,,
@@ -1726,7 +1744,6 @@ The following rules all after AI stem:
 1018,Macaulay,MAM_LB2024,"16.16,22",mez,,meno1252,-ht4,MN:WNALP,,,,,,NG,,final,TI2,,,,,,,,,-AHT4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.16: matches TA -m4.,,,,
 1020,Macaulay,MAM_LB2024,"16.13,23,30",mez,,meno1252,-ht8,MN:WNALP,,,,,,NG,,final,TI1,,,,,,,,,-aeht8
 1022,Macaulay,MAM_LB2024,15.76,mez,,meno1252,-hta͞e,MN:WNALP,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.76: the final corresponds to TI pēht- which [does] not exist as [a verb stem] but function[s] as [a derived initial].,,,,
-1024,Bloomfield,LB1962,"15.63; 16.142,152",mez,,meno1252,-hw,MN:1,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.152: contained in -ɛsehw (composed of prefinal -ɛs and TA final -hw).,,,,
 1025,Macaulay,MAM_LB2024,"15.208; 16.71,72",mez,,meno1252,-i,MN:WNALP,,,,,,NG,,final,AI2
 1026,Macaulay,MAM_LB2024,16.74,mez,,meno1252,-ī,MN:WNALP,,,,,,NG,,final,AI,,,,,,,,,-ō
 1027,Macaulay,MAM_LB2024,15.219; 16.73,mez,,meno1252,-ī,MN:WNALP,,,,,,NG,,final,AI
@@ -1738,11 +1755,9 @@ The following rules all after AI stem:
 1054,Macaulay,MAM_LB2024,14.159,mez,,meno1252,-īw,MN:WNALP,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.159: appears in unanalyzable Ns,,,,
 1055,Macaulay,MAM_LB2024,"18.112,178",mez,,meno1252,-īwa͞ehNaen,MN:WNALP,,,,,,NG,,final,II,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18.112: -īwa͞e before II -hNaen to form secondary final, added to nouns of nationality for the sound of speech.",,,,
 1056,Macaulay,MAM_LB2024,"14.183,350",mez,,meno1252,-iy,MN:WNALP,,,,,,NG,,final,N
-283,Bloomfield,LB1962,15.253,mez,,meno1252,-k,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.253: Appears in AI -ke, II -kɛn 'grow, shape'",,,,
 1058,Macaulay,MAM_LB2024,17.15,mez,,meno1252,-k,MN:WNALP,,,,,,NG,,final,PART,,,,,,,,,-aeqsek
 1060,Macaulay,MAM_LB2024,15.176,mez,,meno1252,-ka͞e,MN:WNALP,,,,,,NG,,final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.176: -ka͞e is implied in the man's name wāpekaew 'Makes White'; compare wāpekan AN 'clay'.,,,,
 1065,Macaulay,MAM_LB2024,16.57,mez,,meno1252,-kaen,MN:WNALP,,,,,,NG,,final,TI
-272,Bloomfield,LB1962,18.9,mez,,meno1252,-kɛ·-,MN:1,,,,,,NG,,postmedial,,,,N
 1100,Macaulay,MAM_LB2024,15.22,mez,,meno1252,-kī,MN:WNALP,,,,,,NG,,final,AI
 1116,Macaulay,MAM_LB2024,"14.161,329; 18.184",mez,,meno1252,-kw,MN:WNALP,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.161: appears in unanlyzable nouns.
  
@@ -1757,7 +1772,6 @@ The following rules all after AI stem:
 1131,Macaulay,MAM_LB2024,"16.16,22",mez,,meno1252,-m4,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,-AM4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.16: matches TI -ht4.,,,,
 1132,Macaulay,MAM_LB2024,"16.13,23",mez,,meno1252,-m8,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,-am8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.13: Corresponds to TI1 -ht.,,,,
 1134,Macaulay,MAM_LB2024,14.91,mez,,meno1252,-maehki,MN:WNALP,,,,,,NG,,final,AI
-280,Bloomfield,LB1962,15.303,mez,,meno1252,-mak,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.303: in II final -makat,,,,
 1139,Macaulay,MAM_LB2024,15.303,mez,,meno1252,-makaese,MN:WNALP,,,,,,NG,,final,AI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.303: consists of prefinal -mak plus -aese.,,,,
 1140,Macaulay,MAM_LB2024,"15.168,198,204,303,304",mez,,meno1252,-makat,MN:WNALP,,,,,,NG,,final,II,,,Y,,,,,,-ōmakat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.303: II final -at and prefinal -mak, freely added to AI stems that are not paralleled by some II formation (and some that are).",,,,
 1146,Macaulay,MAM_LB2024,18.29,mez,,meno1252,-mēkw,MN:WNALP,,,,,,NG,,final,N
@@ -1780,14 +1794,10 @@ The following rules all after AI stem:
 1235,Macaulay,MAM_LB2024,15.182,mez,,meno1252,-nōhka͞e,MN:WNALP,,,,,,NG,,final,AI1
 1236,Macaulay,MAM_LB2024,16.154,mez,,meno1252,-nōhw,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,enōha͞ew,"16.154: Deverbal of enōha͞ew; ""implied"" in an unused stem which is the base of 's/he teaches it to him/her'.",,,,
 1237,Macaulay,MAM_LB2024,16.154,mez,,meno1252,-nōhw,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,enōha͞ew,"16.154: the TI is ""implied"" by an unused stem; the TA unattested (B has it in paren). Deverbal of enōha͞ew.",,,,
-307,Bloomfield,LB1962,16.53,mez,,meno1252,-o·,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.53: In -o·m, -o·ht 'carry on the back'",,,,
-61,Bloomfield,LB1962,15.172,mez,,meno1252,-o·tɛ,MN:1,,,,,,NG,,final,AI1,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.172: only one verb listed, kemo·tɛw 's/he steals something'.",,,,
 1242,Macaulay,MAM_LB2024,16.124; 19.25,mez,,meno1252,-ōhk1,MN:WNALP,,,,,,NG,,final,TI1,,,,,,,,,-HK1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.124: matching TA -ōhkaw1.,,,,
 1244,Macaulay,MAM_LB2024,16.124; 19.25; 21.108,mez,,meno1252,-ōhkaw1,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,-hkaw1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.124: matching TI -ōhk1.,,,,
-203,Bloomfield,LB1962,16.51,mez,,meno1252,-om,MN:1,,,,,,NG,,final,TA,,,N
 1253,Macaulay,MAM_LB2024,16.103,mez,,meno1252,-ōN2,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.103: very limited; ""seems to be present"" in a single man's name",,,,
 1256,Macaulay,MAM_LB2024,14.177,mez,,meno1252,-oqnw,MN:WNALP,,,,,,NG,,final,N
-215,Bloomfield,LB1962,"16.51,182",mez,,meno1252,-ot,MN:1,,,,,,NG,,final,TI1,,,N
 1260,Macaulay,MAM_LB2024,14.16,mez,,meno1252,-ōw,MN:WNALP,,,,,,NG,,final,N
 1274,Macaulay,MAM_LB2024,18.142,mez,,meno1252,-pakw-,MN:WNALP,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.142: has question mark after medial. Before AI -e/-ae: kecēpakow.,,,,
 1275,Macaulay,MAM_LB2024,14.144,mez,,meno1252,-pan,MN:WNALP,,,,,,NG,,final,N
@@ -1800,9 +1810,7 @@ The following rules all after AI stem:
 1324,Macaulay,MAM_LB2024,18.26,mez,,meno1252,-qtaka͞e-,MN:WNALP,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18.26: has question mark for definition and contains dash before a͞e. Appears in asiaqtaka͞ehsen, asiaqtaka͞ehnen.",,,,
 1326,Macaulay,MAM_LB2024,16.133,mez,,meno1252,-qtaw12,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,-otaw12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.133: corresponds to -qt12,,,,
 1328,Macaulay,MAM_LB2024,16.16,mez,,meno1252,-s3,MN:WNALP,,,,,,NG,,final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.160: corresponds to TA -sw3; only in one pair of verbs.,,,,
-1341,Bloomfield,LB1962,16.182,mez,,meno1252,-sk,MN:1,,,,,,NG,,final,TI1
 1342,Macaulay,MAM_LB2024,15.183,mez,,meno1252,-ska͞e,MN:WNALP,,,,,,NG,,final,AI,,,,,,,,,-aeska͞e
-1345,Bloomfield,LB1962,14.145,mez,,meno1252,-skwan,MN:1,,,,,,NG,,final,N
 1346,Macaulay,MAM_LB2024,16.16,mez,,meno1252,-sw3,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.160: corresponds to TI1 -s3; only in one pair of verbs.,,,,
 1348,Macaulay,MAM_LB2024,"16.61,62,63,64,65",mez,,meno1252,-t10,MN:WNALP,,,,,,NG,,final,TI1,,,,,,,,,-at10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.61: matching TA -N10.,,,,
 1349,Macaulay,MAM_LB2024,"16.62,64,65,66,73",mez,,meno1252,-t11,MN:WNALP,,,,,,NG,,final,TI2,,,,,,,,,-at11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.62: corresponds to TA -N11.,,,,
@@ -1813,27 +1821,22 @@ The following rules all after AI stem:
 1382,Macaulay,MAM_LB2024,17.33,mez,,meno1252,-tok,MN:WNALP,,,,,,NG,,final,PART,,,,,,,,,-towak,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"12.28: dubitative modal inflection -ne (position 1) + -towak (position 10)/-tok (position 10).
  
  17.33: dubitative, static - in section on ""significant particle finals""; says ""compare the pronominal forms""",,,,
-281,Bloomfield,LB1962,16.21,mez,,meno1252,-w,MN:1,,,,,,NG,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.21: added before -m (with epenthetic [e]) in one word.,,,,
 1387,Macaulay,MAM_LB2024,"14.151,319,320,321,328,330,331,333,351; 17.61,63; 18.22,25,27,34,37,86,110,136,149,184,186",mez,,meno1252,-w,MN:WNALP,,,,,,NG,,final,N
 1388,Macaulay,MAM_LB2024,16.176,mez,,meno1252,-w,MN:WNALP,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.176: TA -w is matched by TI -m in na͞ewa͞ew, na͞emwah 'he sees him, it', but otherwise no matching TI.",,,,
-259,Bloomfield,LB1962,18.9; 19.18,mez,,meno1252,-w-,MN:1,,,,,,NG,,postmedial,,,,N
 1390,Macaulay,MAM_LB2024,15.17,mez,,meno1252,-wā,MN:WNALP,,,,,,NG,,final,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"7.10: Final postC wā is replaced by ī before -w.
  
  15.170: only in one verb, wāqsiw.",,,,
 1392,Macaulay,MAM_LB2024,14.141,mez,,meno1252,-wam,MN:WNALP,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.141: only in wēkewam,,,,
-169,Bloomfield,LB1962,14.55,mez,,meno1252,-wan,MN:1,,,,,,NG,,final,N,,,N
 1397,Macaulay,MAM_LB2024,18.171,mez,,meno1252,-wēyān,MN:WNALP,,,,,,NG,,final,N
 1399,Macaulay,MAM_LB2024,"14.349,350",mez,,meno1252,-wy,MN:WNALP,,,,,,NG,,final,N
 1400,Macaulay,MAM_LB2024,"14.180,343,347,348; 18.21,44,139,140,164,176",mez,,meno1252,-y,MN:WNALP,,,,,,NG,,final,N
 1401,Macaulay,MAM_LB2024,"4.8,24; 15.171; 16.68,88",mez,,meno1252,-yā,MN:WNALP,,,,,,NG,,final,AI3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"7.11: yā replaced with ī before -w3, -an3, -akh3, -a͞ek3, passive endings -n3, -aehk3 conj.
  
  15.171: with prefinal -y, appears in two verbs of locomotion, esīw, mācīw.",,,,
-1404,Bloomfield,LB1962,7.3,mez,,meno1252,-yɛ·w,MN:1,,,,,,NG,,final,TA
 1409,Macaulay,MAM_LB2024,15.265,mez,,meno1252,-yāhki,MN:WNALP,,,,,,NG,,final,AI
 1410,Macaulay,MAM_LB2024,16.141,mez,,meno1252,-yāht,MN:WNALP,,,,,,NG,,final,TI1
 1414,Macaulay,MAM_LB2024,17.6,mez,,meno1252,-yaw,MN:WNALP,,,,,,NG,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.60: like N final 'body',,,,
 1416,Macaulay,MAM_LB2024,15.308,mez,,meno1252,-yī,MN:WNALP,,,,,,NG,,final,II
-1422,Bloomfield,LB1962,14.167,mez,,meno1252,-yi·kw ,MN:1,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.167: appears in unanalyzable Ns,,,,
 1427,Macaulay,MAM_LB2024,16.179,mez,,meno1252,-yīw,MN:WNALP,,,,,,NG,,final,TA
 1431,Macaulay,MAM_LB2024,15.2,mez,,meno1252,-zero,MN:WNALP,,,,,,NG,,final,AI1
 1432,Macaulay,MAM_LB2024,,mez,,meno1252,-zero,MN:WNALP,,,,,,NG,,final,AI4
@@ -1856,7 +1859,6 @@ The following rules all after AI stem:
 1748,Macaulay,MAM_LB2024,18.112; 21.110,mez,,meno1252,kāketowa͞e-,MN:WNALP,,,,,,NG,,initial,complex
 1755,Macaulay,MAM_LB2024,21.115,mez,,meno1252,kanaw-,MN:WNALP,,,,,,NG,,initial
 1771,Macaulay,MAM_LB2024,21.107,mez,,meno1252,kē-,MN:WNALP,,,,,,NG,,initial
-223,Bloomfield,LB1962,21.102,mez,,meno1252,kɛpanw-,MN:1,,,,,,NG,,initial,,,,N
 1814,Macaulay,MAM_LB2024,21.64,mez,,meno1252,kona͞ep-,MN:WNALP,,,,,,NG,,initial
 1828,Macaulay,MAM_LB2024,14.113; 21.10,mez,,meno1252,kwa͞ehk-,MN:WNALP,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.113; 21.10: appears in a foreign name,,,,
 1841,Macaulay,MAM_LB2024,3.27,mez,,meno1252,macēq-,MN:WNALP,,,,,,NG,,initial
@@ -1867,22 +1869,17 @@ The following rules all after AI stem:
 1952,Macaulay,MAM_LB2024,21.107,mez,,meno1252,mēkāt-,MN:WNALP,,,,,,NG,,initial
 1954,Macaulay,MAM_LB2024,15.24,mez,,meno1252,mēkyā-,MN:WNALP,,,,,,NG,,initial
 2036,Macaulay,MAM_LB2024,21.11,mez,,meno1252,na͞eqta͞e-,MN:WNALP,,,,,,NG,,initial
-243,Bloomfield,LB1962,21.33,mez,,meno1252,nak-,MN:1,,,,,,NG,,initial,,,,N
 2137,Macaulay,MAM_LB2024,14.1,mez,,meno1252,ocīpaehk-,MN:WNALP,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.10: consists of a medial added to prefix o-.,,,,
 2187,Macaulay,MAM_LB2024,21.11,mez,,meno1252,onēw-,MN:WNALP,,,,,,NG,,initial
 2189,Macaulay,MAM_LB2024,15.188,mez,,meno1252,onw-,MN:WNALP,,,,,,NG,,initial
 2221,Macaulay,MAM_LB2024,,mez,,meno1252,p-,MN:WNALP,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3.41 (re short stems) - ""In other cases, the stem ends in a recognizable final but what precedes the final does not occur elsewhere... The extreme instances of this are those in which the stem shows nothing that could be called a root.""",,,,
-244,Bloomfield,LB1962,17.13,mez,,meno1252,packy-,MN:1,,,,,,NG,,initial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17.13: Preceding y drops in packɛ·q 'a little bit', initial packy-.",,,,
 2263,Macaulay,MAM_LB2024,"21.64,72",mez,,meno1252,pāhkaw-,MN:WNALP,,,,,,NG,,initial
-245,Bloomfield,LB1962,21.34,mez,,meno1252,pahkw-,MN:1,,,,,,NG,,initial,,,,N
 2284,Macaulay,MAM_LB2024,,mez,,meno1252,pāp-,MN:WNALP,,,,,,NG,,initial
 2285,Macaulay,MAM_LB2024,21.71,mez,,meno1252,papa͞ehk-,MN:WNALP,,,,,,NG,,initial
 2318,Macaulay,MAM_LB2024,21.38,mez,,meno1252,pīk-,MN:WNALP,,,,,,NG,,initial
-240,Bloomfield,LB1962,21.21,mez,,meno1252,si·p-,MN:1,,,,,,NG,,initial,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.21: makes reduplication with short a.,,,,
 2458,Macaulay,MAM_LB2024,,mez,,meno1252,taetaehp-,MN:WNALP,,,,,,NG,,initial
 2485,Macaulay,MAM_LB2024,21.52,mez,,meno1252,tātaep-,MN:WNALP,,,,,,NG,,initial
 2492,Macaulay,MAM_LB2024,14.112,mez,,meno1252,tawahs-,MN:WNALP,,,,,,NG,,initial
-250,Bloomfield,LB1962,21.101,mez,,meno1252,wa·naskw-,MN:1,,,,,,NG,,initial,,,,N
 2528,Macaulay,MAM_LB2024,21.22,mez,,meno1252,wan-,MN:WNALP,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.22: makes reduplication with short a and the first vowel of the initial is lengthened.,,,,
 2529,Macaulay,MAM_LB2024,21.22,mez,,meno1252,wan-,MN:WNALP,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.22: makes reduplication with short a and the first vowel of the initial is lengthened.,,,,
 2603,Macaulay,MAM_LB2024,17.22,mez,,meno1252,ya͞eciw-,MN:WNALP,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.22: particle that contains this initial unanalyzable.,,,,
@@ -1892,8 +1889,8 @@ The following rules all after AI stem:
 512,Macaulay,MAM_LB2024,14.317; 18.20,mez,,meno1252,-aetīqs,MN:WNALP,,,,,,"NG, complex",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.317: composed of medial -aetī- 'rump' plus diminutive -qs.,,,,
 1157,Macaulay,MAM_LB2024,20.8,mez,,meno1252,-mōhkomān,MN:WNALP,,,,,,"NG, deverb",,final,N
 166,Bloomfield,LB1962,"15.324; 18.38; 20.7,8",mez,,meno1252,-ani·tɛpɛhkat,MN:1,,,,,,night,,final,II,,,N,,,,,,-wani·tɛpɛhkat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wani·tepɛ·hkat,15.324: deverbal from wani·tepɛ·hkat 'it is night',,,,
-694,Macaulay,MAM_LB2024,"14.392; 18.38; 20.7,8",mez,,meno1252,-anītaepaehkanw,MN:WNALP,,,,,,night,,final,N,,,,,,,,,-wanītaepaehkanw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wanītepa͞ehkan,"14.392: deverbal from wanītepa͞ehkan 'night, darkness'.",,,,
 1053,Bloomfield,LB1962,14.338; 18.38,mez,,meno1252,-i·tɛpɛhkanw,MN:1,,,,,,night,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.338: composed of medial -i·tɛpɛhk- 'night' with N final -anw.,,,,
+694,Macaulay,MAM_LB2024,"14.392; 18.38; 20.7,8",mez,,meno1252,-anītaepaehkanw,MN:WNALP,,,,,,night,,final,N,,,,,,,,,-wanītaepaehkanw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wanītepa͞ehkan,"14.392: deverbal from wanītepa͞ehkan 'night, darkness'.",,,,
 1372,Macaulay,MAM_LB2024,17.65,mez,,meno1252,-taepaeh,MN:WNALP,,,,,,night,,final,PART,,,,,,,,,-ītaepaeh
 1373,Macaulay,MAM_LB2024,17.65; 18.38,mez,,meno1252,-taepaehk-,MN:WNALP,,,,,,night,,medial,,,,,,,,,,-ātaepaehk-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,taepaehk-,deverbal from initial taepaehk-,,,,
 2111,Macaulay,MAM_LB2024,15.24,mez,,meno1252,nīp-,MN:WNALP,,,,,,night,,initial,,,,,,,,,,nīpā-
@@ -1962,8 +1959,8 @@ The following rules all after AI stem:
 2517,Macaulay,MAM_LB2024,,mez,,meno1252,wa͞esē-,MN:WNALP,,,,,,paint,,initial
 987,Macaulay,MAM_LB2024,"15.63,64,65",mez,,meno1252,-hosi,MN:WNALP,,,,,,paint (middle),,final,AI2,,,,,,,,,-ahosi,,-asehosi
 989,Macaulay,MAM_LB2024,"15.63,64,65",mez,,meno1252,-hota͞e,MN:WNALP,,,,,,paint (middle),,final,II,,,,,,,,,-ahota͞e,,-asehota͞e
-1206,Macaulay,MAM_LB2024,14.286,mez,,meno1252,-nakackw,MN:WNALP,,,,,,palate & floor of mouth,,final,N
 122,Bloomfield,LB1962,14.286; 18.147,mez,,meno1252,-nakackw-,MN:1,,,,,,palate & floor of mouth,,medial,Dep,,,N
+1206,Macaulay,MAM_LB2024,14.286,mez,,meno1252,-nakackw,MN:WNALP,,,,,,palate & floor of mouth,,final,N
 2050,Macaulay,MAM_LB2024,14.286; 18.147,mez,,meno1252,nakackw-,MN:WNALP,,,,,,palate & floor of mouth,,initial,Dep
 679,Macaulay,MAM_LB2024,18.147,mez,,meno1252,-anakackw-,MN:WNALP,,,,,,palate and floor of mouth,,medial
 1897,Macaulay,MAM_LB2024,14.154,mez,,meno1252,maeta͞ew-,MN:WNALP,,,,,,participant in the Medicine Lodge,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.154: unanalyzable,,,,
@@ -1985,12 +1982,12 @@ The following rules all after AI stem:
 119,Bloomfield,LB1962,"14.311,344; 18.18",mez,,meno1252,-pi·w-,MN:1,,,,,,pelvis,,medial,Dep,,,N
 1286,Bloomfield,LB1962,14.344,mez,,meno1252,-pi·way,MN:1,,,,,,pelvis,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.344: composed of medial -pi·w- 'pelvis' + N final -ay,,,,
 2324,Macaulay,MAM_LB2024,"14.311,344; 18.18",mez,,meno1252,pīw-,MN:WNALP,,,,,,pelvis,,initial,Dep
+191,Bloomfield,LB1962,14.104; 18.24,mez,,meno1252,-nakɛ·w,MN:1,,,,,,penis,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.104: contains AI -nakɛ· + agent -w.,,,,
 913,Macaulay,MAM_LB2024,"14.4,217",mez,,meno1252,-ēnak,MN:WNALP,,,,,,penis,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.4: has initial accretion ē in dependent N,,,,
 1205,Macaulay,MAM_LB2024,"14.4,217; 18.14,24",mez,,meno1252,-nak-,MN:WNALP,,,,,,penis,,medial,,,,,,,,,,-ēnak-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.4: medial occurs as dependent noun with accretion of initial ē.
  
  18.24: -akay- is haplologic with postmedial -ay.",,,,
 1207,Macaulay,MAM_LB2024,14.104,mez,,meno1252,-naka͞e,MN:WNALP,,,,,,penis,,final,AI
-191,Bloomfield,LB1962,14.104; 18.24,mez,,meno1252,-nakɛ·w,MN:1,,,,,,penis,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.104: contains AI -nakɛ· + agent -w.,,,,
 1645,Macaulay,MAM_LB2024,14.4,mez,,meno1252,ēnak-,MN:WNALP,,,,,,penis,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.4: medial -nak- occurs in dependent noun with accretion of initial ē.,,,,
 1865,Macaulay,MAM_LB2024,21.64,mez,,meno1252,ma͞ekw-,MN:WNALP,,,,,,perhaps,,initial,,,,,,,,,,ma͞ekwāt-
 211,Bloomfield,LB1962,21.113,mez,,meno1252,-pɛnaN,MN:1,,,,,,perish,,final,TA,,,N
@@ -2096,8 +2093,8 @@ The following rules all after AI stem:
 1745,Macaulay,MAM_LB2024,14.157,mez,,meno1252,kākākew-,MN:WNALP,,,,,,raven,,initial
 2508,Macaulay,MAM_LB2024,"21.13,48",mez,,meno1252,wa͞en-,MN:WNALP,,,,,,ready,,initial,,,,,,,,,,wa͞enōsk-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.48: lists wa͞en- as taking the abstract postradical -ōsk; but in 21.13 it's given as wa͞eN- (looks like oN- with initial change).,,,,
 1561,Macaulay,MAM_LB2024,15.208,mez,,meno1252,āpokw-,MN:WNALP,,,,,,receive a hunter’s treat,,initial
-510,Macaulay,MAM_LB2024,"15.159,160,161,162; 16.11",mez,,meno1252,-aeti,MN:WNALP,,,,,,reciprocal,,final,AI2,,,Y,,,,,,-Eti,,-ti,,-aehti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.159: makes reciprocal AI2 verbs from TA stems.,,,,
 66,Bloomfield,LB1962,16.11,mez,,meno1252,-hti,MN:1,,,,,,reciprocal,,final,AI2,,,N
+510,Macaulay,MAM_LB2024,"15.159,160,161,162; 16.11",mez,,meno1252,-aeti,MN:WNALP,,,,,,reciprocal,,final,AI2,,,Y,,,,,,-Eti,,-ti,,-aehti,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.159: makes reciprocal AI2 verbs from TA stems.,,,,
 104,Bloomfield,LB1962,18.18,mez,,meno1252,-tɛtih-,MN:1,,,,,,rectum,,medial,Dep,,,N
 2460,Macaulay,MAM_LB2024,18.18,mez,,meno1252,taetih-,MN:WNALP,,,,,,rectum,,initial,Dep
 1851,Macaulay,MAM_LB2024,"1.56; 6.36; 14.1,133,394; 21.12,23,74",mez,,meno1252,maehkw-,MN:WNALP,,,,,,red,,initial,,,,,,,,,,maehkīw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.12: Beside maehkw- 'red' there are foreign forms maskw-, maskwaw-, meskw-.
@@ -2135,8 +2132,8 @@ The following rules all after AI stem:
 731,Macaulay,MAM_LB2024,15.301,mez,,meno1252,-apī,MN:WNALP,,,,,,roast,,final,AI2,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,apōw,"15.301: deverbal from apōw. Added to initial, N.",,,,
 1564,Macaulay,MAM_LB2024,8.4,mez,,meno1252,apw-,MN:WNALP,,,,,,roast,,initial
 1904,Macaulay,MAM_LB2024,,mez,,meno1252,mahka-,MN:WNALP,,,,,,rob,,initial
-975,Macaulay,MAM_LB2024,14.123; 18.168,mez,,meno1252,-hkoney-,MN:WNALP,,,,,,robe,,medial,,,,,,,,,,-hkoneya͞e-
 196,Bloomfield,LB1962,14.123; 18.168,mez,,meno1252,-hkoneyɛ·w,MN:1,,,,,,robe,,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.123: contains medial -hkoney- 'robe' + AI -ɛ·; + agent -w,,,,
+975,Macaulay,MAM_LB2024,14.123; 18.168,mez,,meno1252,-hkoney-,MN:WNALP,,,,,,robe,,medial,,,,,,,,,,-hkoneya͞e-
 2232,Macaulay,MAM_LB2024,14.154,mez,,meno1252,pa͞ehpa͞ehnaew-,MN:WNALP,,,,,,robin,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.154: unanalyzable,,,,
 2513,Macaulay,MAM_LB2024,,mez,,meno1252,wa͞eq-,MN:WNALP,,,,,,"rock, swing",,initial
 2580,Macaulay,MAM_LB2024,21.29,mez,,meno1252,wēp-,MN:WNALP,,,,,,"rock, swing",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.29: reduplicates as wāwa͞ewēp- (only in particle).,,,,
@@ -2160,8 +2157,8 @@ The following rules all after AI stem:
  14.133: stem and initial",,,,
 2556,Macaulay,MAM_LB2024,4.19; 16.162,mez,,meno1252,wāta-,MN:WNALP,,,,,,round,,initial,,,,,,,,,,wātan-
 2566,Macaulay,MAM_LB2024,15.253,mez,,meno1252,wāweyak-,MN:WNALP,,,,,,round,,initial
-350,Macaulay,MAM_LB2024,"14.2,87,94,124,196,315,322; 15.101,284,296; 18.11,12,15,171; 21.88,114,115",mez,,meno1252,-aecy-,MN:WNALP,,,,,,"round body, belly",,medial,,,,,,,,,,-aeca͞e-,,-aemaecī-,,-aeqcī-,,-aeqcy-,,-aecī-,,,,,,,,,,,,,,,,,,,,,,,,,18.171: -aeca͞e has foreign ca͞e for cī.,,,,
 176,Bloomfield,LB1962,14.124; 18.171,mez,,meno1252,-ɛci·w,MN:1,,,,,,"round body, belly",,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.124: contains medial -ɛcy- 'round body, belly' + AI -ɛ·, + agent -w",,,,
+350,Macaulay,MAM_LB2024,"14.2,87,94,124,196,315,322; 15.101,284,296; 18.11,12,15,171; 21.88,114,115",mez,,meno1252,-aecy-,MN:WNALP,,,,,,"round body, belly",,medial,,,,,,,,,,-aeca͞e-,,-aemaecī-,,-aeqcī-,,-aeqcy-,,-aecī-,,,,,,,,,,,,,,,,,,,,,,,,,18.171: -aeca͞e has foreign ca͞e for cī.,,,,
 834,Macaulay,MAM_LB2024,"14.378; 18.167; 20.7,8",mez,,meno1252,-atōw,MN:WNALP,,,,,,round thing,,final,N,,,,,,,,,-watōw
 1721,Macaulay,MAM_LB2024,4.16; 14.169; 21.57,mez,,meno1252,kaesē-,MN:WNALP,,,,,,rub,,initial,,,,,,,,,,kaesēp-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.169 gives initial kaesēp- without definition but form it occurs in is ""sliver-cat, creaking branches""
  
@@ -2170,10 +2167,10 @@ The following rules all after AI stem:
 1706,Macaulay,MAM_LB2024,,mez,,meno1252,kaen-,MN:WNALP,,,,,,rub on ground,,initial
 1810,Macaulay,MAM_LB2024,,mez,,meno1252,kōhpat-,MN:WNALP,,,,,,"ruin, desolate",,initial
 511,Macaulay,MAM_LB2024,14.317; 15.57; 18.20,mez,,meno1252,-aetī-,MN:WNALP,,,,,,rump,,medial,,,,,,,,,,-aetīya͞e-
-1079,Macaulay,MAM_LB2024,16.78,mez,,meno1252,-kaN,MN:WNALP,,,,,,run,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,kana͞ew,deverbal from kana͞ew,,,,
-1085,Macaulay,MAM_LB2024,"16.78,182",mez,,meno1252,-kat,MN:WNALP,,,,,,run,,final,TI1
 288,Bloomfield,LB1962,16.6,mez,,meno1252,-pa,MN:1,,,,,,run,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: 16.6: In -pah.,,,,
 60,Bloomfield,LB1962,"15.114; 16.6,97",mez,,meno1252,-pahi,MN:1,,,,,,run,,final,AI,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.114: seems to occur only as part of the derived suffix TA -pahoN.,,,,
+1079,Macaulay,MAM_LB2024,16.78,mez,,meno1252,-kaN,MN:WNALP,,,,,,run,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,kana͞ew,deverbal from kana͞ew,,,,
+1085,Macaulay,MAM_LB2024,"16.78,182",mez,,meno1252,-kat,MN:WNALP,,,,,,run,,final,TI1
 1268,Macaulay,MAM_LB2024,"7.12; 11.3; 15.269; 16.6,33,75,182; 18.112,137; 21.113",mez,,meno1252,-pahtō,MN:WNALP,,,,,,run,,final,AI4,,,B,,,,,,-wepahtō,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"7.12: class 4
  
  15.269: freely added to all manner of initials; prefinal -pa; as a secondary final, it is freely added to AI verbs; class 4 AI verbs replace ō by ā before -w3, and by āw before -an3, -ahk3, -a͞ek3
@@ -2208,9 +2205,9 @@ The following rules all after AI stem:
  
  21.26: reduplication has long ā plus h.",,,,
 2258,Macaulay,MAM_LB2024,"21.9,113",mez,,meno1252,pah-,MN:WNALP,,,,,,sear,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.9: could be set up as pah-.,,,,
+121,Bloomfield,LB1962,"14.133,239; 17.57; 18.18",mez,,meno1252,-tɛhtan-,MN:1,,,,,,seat,,medial,Dep,,,N
 1363,Macaulay,MAM_LB2024,"14.133,239,310",mez,,meno1252,-taehtan,MN:WNALP,,,,,,seat,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.310: suggests that this is composed of medial and N final -an.,,,,
 1364,Macaulay,MAM_LB2024,17.57,mez,,meno1252,-taehtan,MN:WNALP,,,,,,seat,,final,PART
-121,Bloomfield,LB1962,"14.133,239; 17.57; 18.18",mez,,meno1252,-tɛhtan-,MN:1,,,,,,seat,,medial,Dep,,,N
 2441,Macaulay,MAM_LB2024,"14.133,239; 17.57; 18.18",mez,,meno1252,taehtan-,MN:WNALP,,,,,,seat,,initial,Dep
 1680,Macaulay,MAM_LB2024,12.3,mez,,meno1252,k-,MN:WNALP,,,,,,second person,,initial
 1777,Macaulay,MAM_LB2024,21.97,mez,,meno1252,kēm-,MN:WNALP,,,,,,secret,,initial,,,,,,,,,,kēmōt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.97: -ōt- in kēmōt- resembles the medial -ōt- 'household'.,,,,
@@ -2265,8 +2262,8 @@ The following rules all after AI stem:
 2030,Macaulay,MAM_LB2024,,mez,,meno1252,naeqnekw-,MN:WNALP,,,,,,sideways,,initial
 1930,Macaulay,MAM_LB2024,,mez,,meno1252,masen-,MN:WNALP,,,,,,"sign, mark",,initial
 2425,Macaulay,MAM_LB2024,6.36; 19.1,mez,,meno1252,sōni-,MN:WNALP,,,,,,silver,,initial
-767,Macaulay,MAM_LB2024,18.105,mez,,meno1252,-aqt-,MN:WNALP,,,,,,sinew,,medial
 89,Bloomfield,LB1962,14.310; 18.18,mez,,meno1252,-ci·qt-,MN:1,,,,,,sinew,,medial,Dep,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.18: occurs only in Dependent N.,,,,
+767,Macaulay,MAM_LB2024,18.105,mez,,meno1252,-aqt-,MN:WNALP,,,,,,sinew,,medial
 1573,Macaulay,MAM_LB2024,18.105,mez,,meno1252,aqt-,MN:WNALP,,,,,,sinew,,initial
 1633,Macaulay,MAM_LB2024,21.8,mez,,meno1252,cīqt-,MN:WNALP,,,,,,sinew,,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.18: occurs only in dependent N.,,,,
 532,Macaulay,MAM_LB2024,"15.38; 16.143,180",mez,,meno1252,-ahamāsi,MN:WNALP,,,,,,sing,,final,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TI -ah, TA -amow, and AI -aesi with contraction, has special meaning 'sing'",,,,
@@ -2283,8 +2280,8 @@ The following rules all after AI stem:
  
  21.20: reduplicates normally with āy-.",,,,
 2017,Macaulay,MAM_LB2024,17.2; 21.106,mez,,meno1252,naekotwāsetahN-,MN:WNALP,,,,,,six,,initial,,,,,,,,,,naekotwāsetahNw-
-530,Macaulay,MAM_LB2024,14.319; 18.22,mez,,meno1252,-ahak-,MN:WNALP,,,,,,skin,,medial
 531,Bloomfield,LB1962,14.319,mez,,meno1252,-ahakw,MN:1,,,,,,skin,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.319: composed of medial -ahak- 'skin' + noun final -w,,,,
+530,Macaulay,MAM_LB2024,14.319; 18.22,mez,,meno1252,-ahak-,MN:WNALP,,,,,,skin,,medial
 1239,Macaulay,MAM_LB2024,14.222; 18.31,mez,,meno1252,-nōk-,MN:WNALP,,,,,,skin,,medial
 1238,Macaulay,MAM_LB2024,14.222,mez,,meno1252,-nōk,MN:WNALP,,,,,,skin,,final,N
 2123,Macaulay,MAM_LB2024,14.222; 18.31,mez,,meno1252,nōk-,MN:WNALP,,,,,,skin,,initial,Dep
@@ -2319,8 +2316,8 @@ The following rules all after AI stem:
 2599,Macaulay,MAM_LB2024,14.31,mez,,meno1252,wīpīsk-,MN:WNALP,,,,,,small rodent resembling a chipmunk,,initial
 652,Macaulay,MAM_LB2024,14.377,mez,,meno1252,-āmōw,MN:WNALP,,,,,,small winged insect,,final,N,,,,,,,,,-aemōw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.377: -aemōw a ""deviant form""",,,,
 282,Bloomfield,LB1962,16.26,mez,,meno1252,-ca·,MN:1,,,,,,smell,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.26: appears before -m in -ca·m 'smell'; ""apparently foreign for cya·, and with retention of the long vowel.""",,,,
-857,Macaulay,MAM_LB2024,16.26,mez,,meno1252,-cām,MN:WNALP,,,,,,smell,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.26: with prefinal -cā, apparently foreign for cyā, and with retention of the long vowel, occurs in an archaic form in a fairytale.",,,,
 312,Bloomfield,LB1962,16.29,mez,,meno1252,-mya·,MN:1,,,,,,smell,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.29: in -mya·m, -mya·ht",,,,
+857,Macaulay,MAM_LB2024,16.26,mez,,meno1252,-cām,MN:WNALP,,,,,,smell,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.26: with prefinal -cā, apparently foreign for cyā, and with retention of the long vowel, occurs in an archaic form in a fairytale.",,,,
 1163,Macaulay,MAM_LB2024,"16.29,182",mez,,meno1252,-myāht,MN:WNALP,,,,,,smell,,final,TI,,,,,,,,,-myāqs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.29: with prefinal -myā.,,,,
 1164,Macaulay,MAM_LB2024,15.143,mez,,meno1252,-myākose,MN:WNALP,,,,,,smell,,final,AI1,,,B,,,,,,-wemyākose,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.143: prefinal -myā 'smell' with -Ekose.,,,,
 1165,Macaulay,MAM_LB2024,15.143,mez,,meno1252,-myākwat,MN:WNALP,,,,,,smell,,final,II,,,B,,,,,,-wemyākwat,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.143: prefinal -myā 'smell' with -Ekwat.,,,,
@@ -2336,10 +2333,10 @@ The following rules all after AI stem:
 723,Macaulay,MAM_LB2024,15.85; 18.89,mez,,meno1252,-āpaqta͞e,MN:WNALP,,,,,,smoke (middle),,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,matching AI -āpaqsi,,,,
 890,Macaulay,MAM_LB2024,15.228,mez,,meno1252,-Ehkamā,MN:WNALP,,,,,,smoke tobacco,,final,AI1,,,,,,,,,-hkamā
 2199,Macaulay,MAM_LB2024,"18.63,184",mez,,meno1252,osāqs-,MN:WNALP,,,,,,"smooth, slippery",,initial
+284,Bloomfield,LB1962,16.38,mez,,meno1252,-t,MN:1,,,,,,snag,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.38: in -cem, -ceht(o·)",,,,
 860,Macaulay,MAM_LB2024,"16.16,38,182; 18.151",mez,,meno1252,-ceht,MN:WNALP,,,,,,snag,,final,TI2
 861,Macaulay,MAM_LB2024,"16.16,38; 18.151",mez,,meno1252,-cem,MN:WNALP,,,,,,snag,,final,TA
 863,Macaulay,MAM_LB2024,7.15; 15.247; 18.151,mez,,meno1252,-cena͞e,MN:WNALP,,,,,,snag,,final,AI7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.247: consists of prefinal -t with AI -na͞e. Occurs after medial -āhkw- 'wood, solid'.",,,,
-284,Bloomfield,LB1962,16.38,mez,,meno1252,-t,MN:1,,,,,,snag,,prefinal,,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16.38: in -cem, -ceht(o·)",,,,
 1358,Macaulay,MAM_LB2024,15.247; 18.151,mez,,meno1252,-ta͞e,MN:WNALP,,,,,,snag,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.247: consists of prefinal -t with II -a͞e. Occurs after medial -āhkw- 'wood, solid'.",,,,
 1094,Macaulay,MAM_LB2024,14.383; 20.22,mez,,meno1252,-kenūpikw,MN:WNALP,,,,,,snake,,final,N,,,,,,,,,-kenaepikw
 2253,Macaulay,MAM_LB2024,,mez,,meno1252,paet-,MN:WNALP,,,,,,snare,,initial
@@ -2538,10 +2535,10 @@ The following rules all after AI stem:
 1898,Macaulay,MAM_LB2024,15.193; 17.2; 21.106,mez,,meno1252,maetātahN-,MN:WNALP,,,,,,ten,,initial,,,,,,,,,,maetātahNw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"tahN-, tahNw-","abstract AI final -e after -tahN(w) 'so many' deverbal from initial tahN-, tahNw-",,,,
 2105,Macaulay,MAM_LB2024,15.81,mez,,meno1252,nī-,MN:WNALP,,,,,,tender,,initial
 592,Macaulay,MAM_LB2024,14.21,mez,,meno1252,-ahsiy,MN:WNALP,,,,,,"tent pole, wigwam pole",,final,N
-1197,Macaulay,MAM_LB2024,18.131,mez,,meno1252,-naeqsew-,MN:WNALP,,,,,,testicle,,medial,,,,,,,,,,-qnaesew-
-1198,Macaulay,MAM_LB2024,14.104; 18.131,mez,,meno1252,-naeqsewa͞ew,MN:WNALP,,,,,,testicle,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.104: contains AI -naeqsewa͞e,,,,
 67,Bloomfield,LB1962,18.18,mez,,meno1252,-nɛqN-,MN:1,,,,,,testicle,,medial,Dep,,,N
 1308,Bloomfield,LB1962,14.344,mez,,meno1252,-qnɛseway,MN:1,,,,,,testicle,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.344: composed of medial -qnɛsew- 'testicle' + N final -ay.,,,,
+1197,Macaulay,MAM_LB2024,18.131,mez,,meno1252,-naeqsew-,MN:WNALP,,,,,,testicle,,medial,,,,,,,,,,-qnaesew-
+1198,Macaulay,MAM_LB2024,14.104; 18.131,mez,,meno1252,-naeqsewa͞ew,MN:WNALP,,,,,,testicle,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.104: contains AI -naeqsewa͞e,,,,
 2027,Macaulay,MAM_LB2024,18.18,mez,,meno1252,naeqN-,MN:WNALP,,,,,,testicle,,initial,Dep
 233,Bloomfield,LB1962,17.17,mez,,meno1252,wɛ·wɛ·nen-,MN:1,,,,,,thank you,,initial,,,,N
 2166,Macaulay,MAM_LB2024,,mez,,meno1252,om-,MN:WNALP,,,,,,that way,,initial
@@ -2552,8 +2549,8 @@ The following rules all after AI stem:
 1515,Macaulay,MAM_LB2024,"15.60,109; 16.91; 21.75,113",mez,,meno1252,aN-,MN:WNALP,,,,,,there,,initial
 1692,Macaulay,MAM_LB2024,,mez,,meno1252,kaehpak-,MN:WNALP,,,,,,thick,,initial
 2231,Macaulay,MAM_LB2024,21.4,mez,,meno1252,paehn-,MN:WNALP,,,,,,thick,,initial,,,,,,,,,,paehnak-
-1296,Macaulay,MAM_LB2024,14.343; 18.44,mez,,meno1252,-pwām-,MN:WNALP,,,,,,thigh,,medial,,,,,,,,,,-pwāma͞e-
 1297,Bloomfield,LB1962,14.343,mez,,meno1252,-pwa·my,MN:1,,,,,,thigh,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.343: composed of medial -pwa·m- 'thight' + N final -y.,,,,
+1296,Macaulay,MAM_LB2024,14.343; 18.44,mez,,meno1252,-pwām-,MN:WNALP,,,,,,thigh,,medial,,,,,,,,,,-pwāma͞e-
 2339,Macaulay,MAM_LB2024,14.343; 18.44,mez,,meno1252,pwām-,MN:WNALP,,,,,,thigh,,initial,Dep
 2372,Macaulay,MAM_LB2024,,mez,,meno1252,saesw-,MN:WNALP,,,,,,thin layer,,initial
 2370,Macaulay,MAM_LB2024,,mez,,meno1252,sa͞eqtak-,MN:WNALP,,,,,,thin-woven,,initial
@@ -2647,13 +2644,13 @@ The following rules all after AI stem:
 1764,Macaulay,MAM_LB2024,,mez,,meno1252,katōn-,MN:WNALP,,,,,,trap,,initial
 2480,Macaulay,MAM_LB2024,,mez,,meno1252,taqnw-,MN:WNALP,,,,,,trap,,initial
 2071,Macaulay,MAM_LB2024,,mez,,meno1252,nanātaw-,MN:WNALP,,,,,,treat medicinally,,initial
+294,Bloomfield,LB1962,"14.211; 15.203; 19.23,31",mez,,meno1252,-ak,MN:1,,,,,,tree,,prefinal,,,,N
+289,Bloomfield,LB1962,14.199,mez,,meno1252,-ɛmy,MN:1,,,,,,tree,,prefinal,,,,N
 431,Macaulay,MAM_LB2024,"14.199,212",mez,,meno1252,-aemyāhs,MN:WNALP,,,,,,tree,,final,N,,,B,,,,,,-aemehsy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.199: prefinal -aemy and diminutive -āhs. The meaning diverges in sa͞ekemyah 'pimple, boil'.
  
  14.212: -aemehsy also as a secondary suffix.",,,,
-294,Bloomfield,LB1962,"14.211; 15.203; 19.23,31",mez,,meno1252,-ak,MN:1,,,,,,tree,,prefinal,,,,N
 607,Macaulay,MAM_LB2024,14.211,mez,,meno1252,-akaehsy,MN:WNALP,,,,,,tree,,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.211: composed of prefinal -ak 'tree' and N final -aehsy,,,,
 848,Macaulay,MAM_LB2024,"14.213,322",mez,,meno1252,-awēhsy,MN:WNALP,,,,,,tree,,final,N,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.213: composed of prefinal -awē and N final -aehsy,,,,
-289,Bloomfield,LB1962,14.199,mez,,meno1252,-ɛmy,MN:1,,,,,,tree,,prefinal,,,,N
 1885,Macaulay,MAM_LB2024,"3.26; 4.24,26,36; 6.6; 14.21",mez,,meno1252,maeqtEkw-,MN:WNALP,,,,,,"tree, wood, stick",,initial
 2021,Macaulay,MAM_LB2024,,mez,,meno1252,naenaehk-,MN:WNALP,,,,,,tremble,,initial
 1215,Macaulay,MAM_LB2024,14.366; 20.8 HR,mez,,meno1252,-nama͞ekohs,MN:WNALP,,,,,,trout,,final,N
@@ -2742,8 +2739,8 @@ The following rules all after AI stem:
 1224,Macaulay,MAM_LB2024,"15.141; 16.127; 18.6,116; 19.29; 21.108",mez,,meno1252,-naw1,MN:WNALP,,,,,,"vision, intellect, emotion",,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.127: used of seeing and of intellect and of emotion. Used in two short stems; after initials.,,,,
 1837,Macaulay,MAM_LB2024,14.154,mez,,meno1252,kyāta͞ew-,MN:WNALP,,,,,,visitor,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.154: unanalyzable,,,,
 1955,Macaulay,MAM_LB2024,,mez,,meno1252,mēm-,MN:WNALP,,,,,,vomit,,initial
-1083,Macaulay,MAM_LB2024,"14.240,310",mez,,meno1252,-kasan,MN:WNALP,,,,,,vulva,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.310: suggests that this is composed of medial and N final -an.,,,,
 78,Bloomfield,LB1962,14.240; 18.59,mez,,meno1252,-kasan-,MN:1,,,,,,vulva,,medial,Dep,,,N
+1083,Macaulay,MAM_LB2024,"14.240,310",mez,,meno1252,-kasan,MN:WNALP,,,,,,vulva,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.310: suggests that this is composed of medial and N final -an.,,,,
 1761,Macaulay,MAM_LB2024,14.240; 18.59,mez,,meno1252,kasan-,MN:WNALP,,,,,,vulva,,initial,Dep
 681,Macaulay,MAM_LB2024,15.125,mez,,meno1252,-anakami,MN:WNALP,,,,,,wade (middle),,final,AI2
 1356,Macaulay,MAM_LB2024,"14.2,355; 20.4",mez,,meno1252,-tācekwan,MN:WNALP,,,,,,wagon,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,otācekwan,"14.2: B rejects an analysis of this as coalescence from AI final -tāceki and verbal abstract N final -n in favor of treating it as deverbal from otācekwan. (""the description of the final as deverbal seems most convenient"").
@@ -2826,18 +2823,18 @@ The following rules all after AI stem:
 2320,Macaulay,MAM_LB2024,"21.26,33,82,107",mez,,meno1252,pīm-,MN:WNALP,,,,,,"wind, twist",,initial,,,,,,,,,,pīmeskw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.26: reduplication has long ī plus h.
  
  21.33: gives pīmeskw- as initial (with postradical extension -ā).",,,,
-396,Macaulay,MAM_LB2024,18.91,mez,,meno1252,-aehpa͞e-,MN:WNALP,,,,,,wing,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.91: Given as -aehp-a͞e-.,,,,
-539,Macaulay,MAM_LB2024,"14.272,312; 18.1,7,33; 19.23",mez,,meno1252,-ahka͞e-,MN:WNALP,,,,,,wing,,medial,,,,,,,,,,-nahka͞e-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.312: -nahka͞e- before N final -hkwan.
- 
- 18.1 (7): In wīpehkuahka͞eqnaew before a complex N final.
- 
- 18.33: Given as -ahk-a͞e-, -nahk-a͞e-",,,,
 146,Bloomfield,LB1962,"14.272,312; 18.1,7,33; 19.23",mez,,meno1252,-ahkɛ·-,MN:1,,,,,,wing,,medial,Dep,,,N,,,,,,-nahkɛ·-,before N final -hkwan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.312: -nahkɛ·- before N final -hkwan.
  
  18.1 (7): In wi·pehkuahkɛ·qnɛw before a complex N final.
  
  18.33: Given as -ahk-ɛ·-, -nahk-ɛ·-",,,,
 1204,Bloomfield,LB1962,14.312,mez,,meno1252,-nahkɛ·hkwan,MN:1,,,,,,wing,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.312: composed of medial -ahkɛ·- 'wing' (allomorph -nahkɛ·-) and final -hkwan.,,,,
+396,Macaulay,MAM_LB2024,18.91,mez,,meno1252,-aehpa͞e-,MN:WNALP,,,,,,wing,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.91: Given as -aehp-a͞e-.,,,,
+539,Macaulay,MAM_LB2024,"14.272,312; 18.1,7,33; 19.23",mez,,meno1252,-ahka͞e-,MN:WNALP,,,,,,wing,,medial,,,,,,,,,,-nahka͞e-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.312: -nahka͞e- before N final -hkwan.
+ 
+ 18.1 (7): In wīpehkuahka͞eqnaew before a complex N final.
+ 
+ 18.33: Given as -ahk-a͞e-, -nahk-a͞e-",,,,
 1480,Macaulay,MAM_LB2024,"14.272,312; 18.1,7,33; 19.23",mez,,meno1252,ahka͞e-,MN:WNALP,,,,,,wing,,initial,Dep,,,,,,,,,nahka͞e-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.312: -nahka͞e- before N final -hkwan.
  
  18.1 (7): In wīpehkuahka͞eqnaew before a complex N final.

@@ -518,7 +518,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 929,Macaulay,MAM_LB2024,"15.80; 16.162; 18.109,112,138,169,190",mez,,meno1252,-Esw4,MN:WNALP,,,,,,by cutting edge,,final,TA,,,,,,,,,-qsw4,,-sw4,,-hsw4
 923,Macaulay,MAM_LB2024,15.8,mez,,meno1252,-Esi,MN:WNALP,,,,,,by cutting edge (middle),,final,AI2
 932,Macaulay,MAM_LB2024,15.8,mez,,meno1252,-Eta͞e,MN:WNALP,,,,,,by cutting edge (middle),,final,II
-13,Bloomfield,LB1924,0341,mez,,meno1252,-ehk-,MN:6,,,,,,by foot or body-movement,,final,,,,,,,,,,-eck-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,does not say what type of final (from other sources: TI)
+357,Bloomfield,LB1924,0341,mez,,meno1252,-ehk-,MN:6,,,,,,by foot or body-movement,,final,,,,,,,,,,-eck-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,does not say what type of final (from other sources: TI)
 357,Macaulay,MAM_LB2024,"4.52,53; 16.122,123,125; 18.79,83,90,112,136,151,171,178,186; 21.107,115",mez,,meno1252,-aehk1,MN:WNALP,,,,,,"by foot, body movement",,final,TI1,,,,,,,,,-aesk1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.122: replaces TI -aesk1 in accordance with the usual distribution of the prefinals -aehk and -aesk; causes assibilation of preceding [t]
 358,Macaulay,MAM_LB2024,11.3; 15.227,mez,,meno1252,-aehkā,MN:WNALP,,,,,,"by foot, body movement",,final,AI1,,,,,,,,,-aeskā,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"11.3: imperative AI verbs with this final formed with -h instead of -non.
  
@@ -678,7 +678,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1421,Macaulay,MAM_LB2024,14.331; 18.30,mez,,meno1252,-yīkw,MN:WNALP,,,,,,cloth,,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.331: composed of -yīk- 'cloth' and N final -w; freely added to nouns.
 1031,Macaulay,MAM_LB2024,15.252; 18.41,mez,,meno1252,-īhk-,MN:WNALP,,,,,,"cloth, curtain",,medial,,,,,,,,,,-īhkaen-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18.41: -īhkaen- before AI -a͞e in derived N.
 945,Macaulay,MAM_LB2024,4.5; 14.196,mez,,meno1252,-ewēyān,MN:WNALP,,,,,,"cloth, garment",,final,N,,,,,,,,,-owēyān,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.196: preceded by prefinal -o in wāpoweyān
-1402,Bloomfield,LB1962,4.11,mez,,meno1252,-yɛ·k-,MN:WNALP,,,,,,"cloth, leather",,medial
+1418,Bloomfield,LB1962,4.11,mez,,meno1252,-yɛ·k-,MN:WNALP,,,,,,"cloth, leather",,medial
 1418,Macaulay,MAM_LB2024,"4.22,29; 14.331,336,339,340; 16.147; 18.9,30",mez,,meno1252,-yīk-,MN:WNALP,,,,,,"cloth, leather",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18.30: vowel often kept long
  
  18.9: an exception to presence of common post-medial element -a͞e."
@@ -886,7 +886,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 573,Macaulay,MAM_LB2024,"14.127,345; 15.208,239; 18.151,176; 20.14",mez,,meno1252,-ahky-,MN:WNALP,,,,,,"earth, land",,medial,,,,,,,,,,-hky-,,-ahkī-,,-ahkīwa͞e-,,-āhkihky-,,,,,,,,,,,,,,,,,,,,,,,,,Y,ahky-,"14.345: -ahkī- appears in final -ahkīy, which appears in a foreign word.
  15.239: -ahkī- appears before -qNa͞e. 
  18.176: medial deverbal from initial ahky- (noun ahkēw)."
-197,Bloomfield,LB1962,14.125; 18.176,mez,,meno1252,-hki·w,MN:1,,,,,,"earth, land",,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.125: in most formations -hki·w is medial -hky- 'earth, land' with II -ɛ· and agential -w; also occurs in 'bluejay' & 'herb, medicine'"
+555,Bloomfield,LB1962,14.125; 18.176,mez,,meno1252,-hki·w,MN:1,,,,,,"earth, land",,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.125: in most formations -hki·w is medial -hky- 'earth, land' with II -ɛ· and agential -w; also occurs in 'bluejay' & 'herb, medicine'"
 643,Goddard,IG1965,0213,mez,,meno1252,-a·mɛhk-,MN:2,,,,*a·meHk-,,"earth, soil",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 3,Goddard,IG1965,0213,mez,,meno1252,-a·mɛhkw-,MN:2,,,,*a·meHkw-,,"earth, soil",,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 1988,Macaulay,MAM_LB2024,21.79,mez,,meno1252,myāN-,MN:WNALP,,,,,,easy,,initial,,,,,,,,,,myāNōw-
