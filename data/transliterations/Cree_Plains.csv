@@ -56,7 +56,7 @@ Cree_Plains,C-P:2,‑ahtāmin‑,‑ahtaamin‑
 Cree_Plains,C-P:2,‑ahtāmin‑,‑ahtaamin‑
 Cree_Plains,C-P:1,‑ahtik,‑ahtik
 Cree_Plains,C-P:1,‑āhtikw,‑āhtikw
-Cree_Plains,C-P:2,‑āhtikw‑,‑aahtikw‑
+Cree_Plains,C-P:3,āhtikw,aahtikw
 Cree_Plains,C-P:1,‑ahw‑,‑ahw‑
 Cree_Plains,C-P:2,‑ak‑,‑ak‑
 Cree_Plains,C-P:2,‑ak‑,‑ak‑
@@ -163,12 +163,10 @@ Cree_Plains,C-P:2,‑āwikan‑,‑aawikan‑
 Cree_Plains,C-P:2,‑ayowinis‑,‑ayowinis‑
 Cree_Plains,C-P:2,‑ayōwinis‑,‑ayoowinis‑
 Cree_Plains,C-P:2,‑cichē‑,‑čičhee‑
-Cree_Plains,C-P:1,‑cihc‑,‑čihč‑
 Cree_Plains,C-P:2,‑cihc‑,‑čihč‑
 Cree_Plains,C-P:2,‑cihc‑,‑čihč‑
 Cree_Plains,C-P:1,‑cihcê‑,‑čihčee‑
 Cree_Plains,C-P:2,‑cihcē‑,‑čihčee‑
-Cree_Plains,C-P:1,‑cihciy,‑čihčiy
 Cree_Plains,C-P:1,‑ê‑,‑ee‑
 Cree_Plains,C-P:1,‑ê‑,‑ee‑
 Cree_Plains,C-P:1,‑ê‑,‑ee‑
@@ -301,7 +299,6 @@ Cree_Plains,C-P:2,‑iskwēw‑,‑iskweew‑
 Cree_Plains,C-P:3,‑iso,‑iso
 Cree_Plains,C-P:2,‑iso‑,‑iso‑
 Cree_Plains,C-P:2,‑iso‑,‑iso‑
-Cree_Plains,C-P:1,‑iso‑,‑iso‑
 Cree_Plains,C-P:4,‑iso‑,‑iso‑
 Cree_Plains,C-P:2,‑iso‑,‑iso‑
 Cree_Plains,C-P:2,‑iso‑,‑iso‑
@@ -313,7 +310,6 @@ Cree_Plains,C-P:2,‑itās‑,‑itaas‑
 Cree_Plains,C-P:3,‑ito,‑ito
 Cree_Plains,C-P:2,‑ito‑,‑ito‑
 Cree_Plains,C-P:2,‑ito‑,‑ito‑
-Cree_Plains,C-P:1,‑ito‑,‑ito‑
 Cree_Plains,C-P:2,‑iwas‑,‑iwas‑
 Cree_Plains,C-P:2,‑iwas‑,‑iwas‑
 Cree_Plains,C-P:2,‑īwas‑,‑iiwas‑
@@ -450,7 +446,6 @@ Cree_Plains,C-P:2,‑tē‑,‑tee‑
 Cree_Plains,C-P:2,‑tēhci‑,‑teehči‑
 Cree_Plains,C-P:1,‑têm‑,‑teem‑
 Cree_Plains,C-P:1,‑tihp‑,‑tihp‑
-Cree_Plains,C-P:2,‑to‑,‑to‑
 Cree_Plains,C-P:1,‑tokan‑,‑tokan‑
 Cree_Plains,C-P:2,‑tōkan‑,‑tookan‑
 Cree_Plains,C-P:2,‑tōkan‑,‑tookan‑
@@ -553,7 +548,6 @@ Cree_Plains,C-P:6,i,i
 Cree_Plains,C-P:3,ī,ii
 Cree_Plains,C-P:3,ī,ii
 Cree_Plains,C-P:1,i‑,i‑
-Cree_Plains,C-P:6,iht,iht
 Cree_Plains,C-P:1,ikât‑,ikaat‑
 Cree_Plains,C-P:3,ikw,ikw
 Cree_Plains,C-P:1,ikw‑,ikw‑
@@ -562,7 +556,6 @@ Cree_Plains,C-P:3,ipayi,ipayi
 Cree_Plains,C-P:1,is‑,is‑
 Cree_Plains,C-P:3,isin,isin
 Cree_Plains,C-P:1,isko‑,isko‑
-Cree_Plains,C-P:3,iskot,iskot
 Cree_Plains,C-P:2,it‑,it‑
 Cree_Plains,C-P:1,it‑,it‑
 Cree_Plains,C-P:1,it‑,it‑
@@ -606,7 +599,6 @@ Cree_Plains,C-P:3,kīsōw‑,kiisoow‑
 Cree_Plains,C-P:3,kistik,kistik
 Cree_Plains,C-P:1,kitimâk‑,kitimaak‑
 Cree_Plains,C-P:4,ko·n‑,koon‑
-Cree_Plains,C-P:3,kon,kon
 Cree_Plains,C-P:3,kōn,koon
 Cree_Plains,C-P:2,kōn‑,koon‑
 Cree_Plains,C-P:1,kot‑,kot‑
@@ -730,7 +722,6 @@ Cree_Plains,C-P:2,sīhk‑,siihk‑
 Cree_Plains,C-P:1,sîkô‑,siikoo‑
 Cree_Plains,C-P:4,sikw,sikw
 Cree_Plains,C-P:3,sīp,siip
-Cree_Plains,C-P:1,sipwê‑,sipwee‑
 Cree_Plains,C-P:2,sipwē‑,sipwee‑
 Cree_Plains,C-P:2,sīsīp‑,siisiip‑
 Cree_Plains,C-P:3,skiw,skiw
