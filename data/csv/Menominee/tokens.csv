@@ -19,45 +19,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 578,Macaulay,MAM_LB2024,"15.64,108; 18.37,177,184,",mez,,meno1252,-ahosi,MN:WNALP,,,,,,act or convey through a medium (middle),,final,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.64: middle reflexive corresponding to TA -ahoN, TI -ahotō 'act or convey through a medium': AI -ahi + AI -si"
 580,Macaulay,MAM_LB2024,"15.64,108; 18.184",mez,,meno1252,-ahota͞e,MN:WNALP,,,,,,act or convey through a medium (middle),,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15.64: middle reflexive corresponding to TA -ahoN, TI -ahotō 'act or convey through a medium': AI -ahi + II -ta͞e"
 172,Bloomfield,LB1962,14.62,mez,,meno1252,-En,MN:1,,,,,,"action, object, instrument, product",,final,N,,,Y,TA
-1178,Macaulay,MAM_LB2024,"3.45; 14.1,44,88,92,95,313,326,357",mez,,meno1252,-n5,MN:WNALP,,,,,,"action, object, instrument, product",,final,N,,ABSTR,Y,,,,,,-kowen5,,-kon5,,-nān5,,-ān5,,-ōwen5,,-wen5,,-kwan5,,,,,,,,,,,,,,,,,,,,,"14.44: abstract noun final freely attaches to stems of AI verbs (action, instrument, product, and the like); attaches to other categories too.
- 
- Following rules all after AI stem:
- 
- 14.45: a͞e --> ā / __ -n.
- 
- 14.47: Final a͞e retained in AI verbs in medial -aehN- + -a͞e. Examples all show [en] - raising of /ae/? One exception keeps a͞e. I'll just say: a͞e --> zero / __ -n (then epenthesis operates).
- 
- 14.48: Stems in -ape 'sit' drop e & take -yān. ape --> apyā / __ -n. (several cases where suffix comes out -yān; see below.)
- 
- 14.49: AI stems in i/o replace by wa. i --> wa / __ -n
- 
- 14.50: some AI stems in i/o replace by o (some variable, some only choice). i --> o / __ -n.
- 
- 14.51: some AI stems in i/o replace by yā (i --> yā / __ -n); one stem keeps /i/.
- 
- 14.52: AI stems in ī replace by yā. ī --> yā / __ -n [VAI1].
- 
- 14.53: AI stems in ī/ō replace by wā. ī --> wā / __ -n [VAI2].
- 
- 14.54: One AI stem in ī/ō replaces by yā. ī --> yā / __ -n [VAI2].
- 
- 14.55: One AI stem in i/o replaces by o, adds -wan. i --> owa / __ -n [VAI2]
- 
- 14.56: AI stems ending in e optionally add -wen, -n.
- 
- 14.57: One AI stem in a͞e adds -wen, varies with -n.
- 
- 14.58: One AI stem in ī/ō adds -nān.
- 
- 14.60: -ān freely added to TI1 stems.
- 
- 14.61: -ōwen added to TI2 stem zero 'use'.
- 
- 14.62: -En added to one TA stem, forming verbal abstract. I'll treat as -n with epenthesis.
- 
- 14.63: -Ekon, -Ekowen added to one TA stem. I'll treat as -kon, -kowen.
- 
- 14.64: -Ekwan added to one TA stem. I'll treat as -kwan."
+1178,Macaulay,MAM_LB2024,"3.45; 14.1,44,88,92,95,313,326,357",mez,,meno1252,-n5,MN:WNALP,,,,,,"action, object, instrument, product",,final,N,,ABSTR,Y,,,,,,-kowen5,,-kon5,,-nān5,,-ān5,,-ōwen5,,-wen5,,-kwan5,,,,,,,,,,,,,,,,,,,,,"14.44: abstract noun final freely attaches to stems of AI verbs (action, instrument, product, and the like); attaches to other categories too. Following rules all after AI stem: 14.45: a͞e --> ā / __ -n; 14.47: Final a͞e retained in AI verbs in medial -aehN- + -a͞e. Examples all show [en] - raising of /ae/? One exception keeps a͞e. I'll just say: a͞e --> zero / __ -n (then epenthesis operates); 14.48: Stems in -ape 'sit' drop e & take -yān. ape --> apyā / __ -n. (several cases where suffix comes out -yān; see below.); 14.49: AI stems in i/o replace by wa. i --> wa / __ -n; 14.50: some AI stems in i/o replace by o (some variable, some only choice). i --> o / __ -n; 14.51: some AI stems in i/o replace by yā (i --> yā / __ -n); one stem keeps /i/; 14.52: AI stems in ī replace by yā. ī --> yā / __ -n [VAI1]; 14.53: AI stems in ī/ō replace by wā. ī --> wā / __ -n [VAI2]; 14.54: One AI stem in ī/ō replaces by yā. ī --> yā / __ -n [VAI2]; 14.55: One AI stem in i/o replaces by o, adds -wan. i --> owa / __ -n [VAI2]; 14.56: AI stems ending in e optionally add -wen, -n; 14.57: One AI stem in a͞e adds -wen, varies with -n; 14.58: One AI stem in ī/ō adds -nān; 14.60: -ān freely added to TI1 stems; 14.61: -ōwen added to TI2 stem zero 'use'; 14.62: -En added to one TA stem, forming verbal abstract. I'll treat as -n with epenthesis; 14.63: -Ekon, -Ekowen added to one TA stem. I'll treat as -kon, -kowen; 14.64: -Ekwan added to one TA stem. I'll treat as -kwan."
 170,Bloomfield,LB1962,14.5,mez,,meno1252,-on,MN:1,,,,,,"action, object, instrument, product",,final,N,,,Y,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.50: some AI stems in i/o replace by o (some variable, some only choice)"
 202,Bloomfield,LB1962,14.53,mez,,meno1252,-wa·n,MN:1,,,,,,"action, object, instrument, product",,final,N,,,Y,AI
 200,Bloomfield,LB1962,14.49,mez,,meno1252,-wan,MN:1,,,,,,"action, object, instrument, product",,final,N,,,Y,AI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.49: AI stems in i/o replace this by wa.
