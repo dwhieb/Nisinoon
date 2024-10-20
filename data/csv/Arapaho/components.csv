@@ -549,7 +549,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 141,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-co'ou'-/,,,,forehead,forehead,medial,,,,,,,,,,,,,,,,,/beesico'ou'ei-/,V,AI,have a big forehead,,AC_AM2008;0170
 316,Cowell & Moss,AC_AM2008,0182,arp,,arap1274,,AR:1,,/-oɜi/,,,,freezing action,freeze,final,AI,,CONCR,,,,/-ote/
 386,Cowell & Moss,AC_AM2008,0182,arp,,arap1274,,AR:1,,/-ote/,,,,freezing action,freeze,final,II,,CONCR,,,/-oɜi/
-934,Cowell & Moss,AC_AM2008,"0215,0216",arp,,arap1274,,AR:1,,/seh-/,,,,"from here to there, speaker/reference point remaining here","from here, hence, thither, to there",initial
+934,Cowell & Moss,AC_AM2008,"0215,0216",arp,,arap1274,,AR:1,,/seh-/,,,,"from here to there, speaker/reference point remaining here","in that way, so, thither, thus, to there, RELATIVE",initial
 327,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-on-/,,,,fur,fur,medial,,,,,,,,,,,,,,,,,/co'onee-/,V,AI,have thick fur,,AC_AM2008;0170
 84,Cowell & Moss,AC_AM2008,"0015,0175",arp,,arap1274,biis-,AR:1,,/biix/,,,,"hairy, furry","furry, hairy",initial,,,,,,,,,,,,,,,,,/biisinouhu-/,V,AI,to wear fur,,AC_AM2008;0175
 82,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,beniis-,AR:2,,,,,,hairy/fuzzy,"fuzzy, hairy",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -925,7 +925,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 211,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-ɜecoot/,,,,thinking,think,final,TI,,,,,/-ɜecoo/,,/-ɜecooton/
 212,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-ɜecooton/,,,,thinking,think,final,TA,,CONCR,,,/-ɜecoo/,,,/-ɜecoot/
 636,Cowell & Moss,AC_AM2008,0027,arp,,arap1274,,AR:1,,/ɜecóó/,,,,"thinking, by thought","think, thought, INSTRUMENT",final
-590,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/eeɜew-/,,,,"to there, over there","thither, to there",initial
+590,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/eeɜew-/,,,,"to there, over there","in that way, so, thither, thus, to there, RELATIVE",initial
 104,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,nenees-,AR:2,,,,,,three,three,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 644,Cowell & Moss,AC_AM2008,0214,arp,,arap1274,,AR:1,,/ɜook/,,,,"through, as in transparent objects",through,initial
 678,Cowell & Moss,AC_AM2008,"0213,0216",arp,,arap1274,,AR:1,,/iiɜih/,,,,"through, by passing among or between multiple objects",through,initial

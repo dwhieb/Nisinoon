@@ -72,7 +72,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 71,Bruening,BB2001a,0043,pqm,,male1292,-y-,P-M:2,,,,,,NG,,final,TA,,,,,,,,-ht(u)
 72,Bruening,BB2001a,0169,pqm,,male1292,ckuwi-,P-M:2,,,,,,toward here,,initial,RR
 73,Teeter,KT1971,"0222,0241",pqm,,male1292,ewep-,P-M:1,,,,,,upward,upward,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-74,Teeter,KT1971,0233,pqm,,male1292,əl-,P-M:1,,,,,,thus,thus,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+74,Teeter,KT1971,0233,pqm,,male1292,əl-,P-M:1,,,,,,thus,"in that way, so, thither, thus, to there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 75,Teeter,KT1971,0239,pqm,,male1292,əlohka-,P-M:1,,,,,,work,work,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 76,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,hkihka-,P-M:3,,/nə̆kĭhka-/,,,,all,all,initial,,,,,,,,,,,,,,,,/nə̆kĭhka-ne-/,V,AI,"die completely, all die",,PL1995;0124
 77,Bruening,BB2001a,0042,pqm,,male1292,kin-,P-M:2,,,,,,big,big,initial
@@ -81,7 +81,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 80,Bruening,BB2001a,"0151,0182",pqm,,male1292,mehsi-,P-M:2,,,,,,for X reason,reason,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Mostly discussed as a preverb, but also called a relative root on p. 150"
 81,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,məkə̌sew-,P-M:3,,/məkə̌se-/,,,,black,black,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
 82,Teeter,KT1971,0244,pqm,,male1292,mil-,P-M:1,,,,,,every way,way (every),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-83,Bruening,BB2001a,"0050,0107,0109,0149",pqm,,male1292,oli-,P-M:2,,,,,,thus; to there,"thus, thither",initial,RR
+83,Bruening,BB2001a,"0050,0107,0109,0149",pqm,,male1292,oli-,P-M:2,,,,,,thus; to there,"in that way, so, thither, thus, to there, RELATIVE",initial,RR
 84,Bruening,BB2001a,0169,pqm,,male1292,olomi-,P-M:2,,,,,,away from here,away,initial,RR
 85,Bruening,BB2001a,"0169,0170",pqm,,male1292,oloqi-,P-M:2,,,,,,in that direction,,initial,RR
 86,Teeter,KT1971,0243,pqm,,male1292,papk-,P-M:1,,,,,,down,down,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -135,5 +135,5 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 134,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ne-/,,,,die,,final,,,,,,,,,,,,,,,,/nə̆kĭhka-ne-/,V,AI,"die completely, all die",,PL1995;0124,,,/mehci-ne-/,V,AI,die,,PL1995;0126
 135,LeSourd,PL1995,0129,pqm,Passamaquoddy,pass1249,,P-M:3,,/kin-/,,,,big,big,initial,,,,,,,,,,,,,,,,/kin-ə̆kihkʷə̆n-/,V,II,be big,,PL1995;0129
 136,LeSourd,PL1995,0129,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ə̆kihkʷə̆n-/,,,,be a size,size,final,II,,,,,,,,,,,,,,,/kin-ə̆kihkʷə̆n-/,V,II,be big,,PL1995;0129
-137,LeSourd,PL1995,"0129,0130,0131",pqm,Passamaquoddy,pass1249,,P-M:3,,/ə̆l(i)/,,,,"manner, size, direction, kind; thus","manner, size, direction, kind, thus",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: P. 130 ""while it is convenient to gloss /ə̆l(i)-/ as 'thus', this root does not in itself have deictic force"
+137,LeSourd,PL1995,"0129,0130,0131",pqm,Passamaquoddy,pass1249,,P-M:3,,/ə̆l(i)/,,,,"manner, size, direction, kind; thus","direction, in that way, kind, manner, size, so, thither, thus, to there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: P. 130 ""while it is convenient to gloss /ə̆l(i)-/ as 'thus', this root does not in itself have deictic force"
 138,LeSourd,PL1995,0131,pqm,Passamaquoddy,pass1249,,P-M:3,,/kʷə̆n(i)-/,,,,length

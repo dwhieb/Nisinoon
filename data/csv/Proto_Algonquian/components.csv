@@ -793,7 +793,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1000,Hewson,JH_nd-b,0071,alg,,algo1256,*ayak,PA:4,,,,,,"group, set"
 1001,Hewson,JH_nd-a,0042,alg,,algo1256,*ayaw-,PA:6,,,,,,"get, use","get, use",initial
 1002,Hewson,JH_nd-a,0043,alg,,algo1256,*aye·θkw-,PA:6,,,,,,"tired, stiff","stiff, tired",initial
-1003,Bloomfield,LB1946,0123,alg,,algo1256,*ayyeeθ-,PA:1,,,,,,"thither, thus (of plural objects)","thither, thus",initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,reduplicated form of *eθ-; suppletive for plural,,,MAM
+1003,Bloomfield,LB1946,0123,alg,,algo1256,*ayyeeθ-,PA:1,,,,,,"thither, thus (of plural objects)","in that way, so, thither, thus, to there, RELATIVE",initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,reduplicated form of *eθ-; suppletive for plural,,,MAM
 1004,Aubin,GA1975b,0012,alg,,algo1256,*aʔ-,PA:4,,,,,,to place,place (V),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120
 1006,Hewson,JH_nd-a,0026,alg,,algo1256,*aʔči-,PA:6,,,,,,"place, arrange",,initial
 1007,Hewson,JH_nd-b,0058,alg,,algo1256,*aʔl,PA:4,,,,,,"place, arrange","arrange, place (V)",final,TA
@@ -910,7 +910,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1140,Hewson,JH_nd-b,0102,alg,,algo1256,*epak,PA:4,,,,,,leaf,,final
 1141,Hewson,JH_nd-b,0102,alg,,algo1256,*epy(e:)(k),PA:4,,,,,,liquid,"liquid, water",medial
 1142,Hewson,JH_nd-b,0104,alg,,algo1256,*epye:ʔθ,PA:4,,,,,,"rain, precipitation"
-1145,Aubin,GA1975b,0026,alg,,algo1256,*eš-,PA:4,,,,,,"thither, thus","thither, thus",initial,RR,,,,,,,,,,,,,,*ešihto:-,,,V,TI,make so,,GA1975b;0026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120; *ešihto:- B146.115
+1145,Aubin,GA1975b,0026,alg,,algo1256,*eš-,PA:4,,,,,,"thither, thus","in that way, so, thither, thus, to there, RELATIVE",initial,RR,,,,,,,,,,,,,,*ešihto:-,,,V,TI,make so,,GA1975b;0026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120; *ešihto:- B146.115
 1146,Hewson,JH_nd-b,0105,alg,,algo1256,*ese:wehkw(e:),PA:4,,,,,,cook
 1147,Hewson,JH_nd-b,0105,alg,,algo1256,*esi,PA:4,,,,,,middle reflexive,"MIDDLE, REFLEXIVE",final,AI
 1148,Aubin,GA1975b,0025,alg,,algo1256,*esi-,PA:4,,,,,,say so,"say, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.109
@@ -938,7 +938,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1172,Hewson,JH_nd-a,0054,alg,,algo1256,*ešp(aw)-,PA:6,,,,,,high,high,initial
 1173,Hewson,JH_nd-b,0104,alg,,algo1256,*esw,PA:4,,,,,,by heat,"heat, MANNER",final,TA,,,,,,*eso,*ete:,,*es
 1174,Hewson,JH_nd-b,0115,alg,,algo1256,*ešw,PA:4,,,,,,by cutting edge,"cutting edge, INSTRUMENT",final,TA,,,,,,,,,*eš
-1175,Aubin,GA1975b,0027,alg,,algo1256,*et-,PA:4,,,,,,"thus, so","so, thus",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.112
+1175,Aubin,GA1975b,0027,alg,,algo1256,*et-,PA:4,,,,,,"thus, so","in that way, so, thither, thus, to there, RELATIVE",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.112
 1176,Hewson,JH_nd-b,0104,alg,,algo1256,*ete:,PA:4,,,,,,by heat,"heat, MANNER",final,II,,,,,,*eso,,*esw,*es
 1177,Hewson,JH_nd-b,0121,alg,,algo1256,*ete:,PA:4,,,,,,reflexive,REFLEXIVE,final,II,,,Y
 1178,Hewson,JH_nd-b,0122,alg,,algo1256,*eton(e:),PA:4,,,,,,mouth
@@ -950,9 +950,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1184,Hewson,JH_nd-b,0128,alg,,algo1256,*expw,PA:4,,,,,,taste
 1186,Hewson,JH_nd-b,0104,alg,,algo1256,*eʔtekw,PA:4,,,,,,island
 1187,Hewson,JH_nd-b,0126,alg,,algo1256,*eθ,PA:4,,,,,,pursue,pursue,postinitial
-1188,Bloomfield,LB1946,"0091,0092,0103,0116",alg,,algo1256,*eθ-,PA:1,,,,,,"thither, thus; that way",,initial,,,,,,,,,,,*eš-,before front vowel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beside ayyeeθ-,,,MAM
-1189,Bloomfield,LB1946,"0120,0121",alg,,algo1256,*eθ-,PA:1,,,,,,"thither, thus","thither, thus",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-1195,Aubin,GA1975b,0028,alg,,algo1256,*eθa:t-,PA:4,,,,,,"thus, so","thus, so",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.121
+1188,Bloomfield,LB1946,"0091,0092,0103,0116",alg,,algo1256,*eθ-,PA:1,,,,,,"thither, thus; that way","in that way, so, thither, thus, to there, RELATIVE",initial,,,,,,,,,,,*eš-,before front vowel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beside ayyeeθ-,,,MAM
+1189,Bloomfield,LB1946,"0120,0121",alg,,algo1256,*eθ-,PA:1,,,,,,"thither, thus","in that way, so, thither, thus, to there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+1195,Aubin,GA1975b,0028,alg,,algo1256,*eθa:t-,PA:4,,,,,,"thus, so","in that way, so, thither, thus, to there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.121
 1196,Bloomfield,LB1946,0121,alg,,algo1256,*eθaat-,PA:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*eθ-,*-aat,,,,"""Meaningful"" postradical.",,,MAM
 1197,Hewson,JH_nd-b,0126,alg,,algo1256,*eθkwe:(w)(e:),PA:4,,,,,,"female, woman"
 1198,Hewson,JH_nd-a,0063,alg,,algo1256,*eθkwe·-,PA:6,,,,,,"woman, female","female, woman",initial
@@ -1935,7 +1935,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 2261,Hewson,JH_nd-a,0270,alg,,algo1256,*tahkw(aw)-,PA:6,,,,,,"short, shallow; grasp, hold fast",,initial
 2262,Goddard,IG1965,0208,alg,,algo1256,*tahkye·-,PA:6,,,,,,NG,,initial
 2263,Hewson,JH_nd-b,0231,alg,,algo1256,*tahši,PA:6,,,,,,so many,"many, QUANTITY, RELATIVE",initial
-2264,Bloomfield,LB1946,0120,alg,,algo1256,*tahθ-,PA:1,,,,,,so many,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+2264,Bloomfield,LB1946,0120,alg,,algo1256,*tahθ-,PA:1,,,,,,so many,"many, QUANTITY, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 2266,Hewson,JH_nd-b,0231,alg,,algo1256,*tahθ(w),PA:6,,,,,,so many,"many, QUANTITY, RELATIVE",initial
 2268,Hewson,JH_nd-a,0272,alg,,algo1256,*takw-,PA:6,,,,,,"unite, together; pound, crush, joined",,initial
 2270,Hewson,JH_nd-a,0274,alg,,algo1256,*takwa·k(w)-,PA:6,,,,,,"fall, autumn","autumn, fall (N)",initial
