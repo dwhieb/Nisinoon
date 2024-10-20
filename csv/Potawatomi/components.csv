@@ -250,15 +250,15 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 23,Lockwood,HTL_nd,,pot,,pota1247,eko-,POT:WNALP,,,,,,"to such extent, as long as",,initial
 132,Lockwood,HTL2017,0069,pot,,pota1247,eko-,POT:WNALP,,,,,,"to such extent, as long as",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: ekew-
 246,Lockwood,HTL2017,0168,pot ,,pota1247,ekw-,POT:WNALP,,,,,,as long as,,initial,RR
-25,Lockwood,HTL_nd,,pot ,,pota1247,eN-,POT:WNALP,,,,,,thus,thus,initial
-108,Lockwood,HTL2017,"0043,0070",pot,,pota1247,eN-,POT:WNALP,,ǝN-,,,,thus,thus,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"allomorph: /ǝn-/, /əʒ-/"
-241,Lockwood,HTL2017,0168,pot,,pota1247,en-,POT:WNALP,,eN-,,,,so; to a certain place; in a certain way,so,initial,RR
+25,Lockwood,HTL_nd,,pot ,,pota1247,eN-,POT:WNALP,,,,,,thus,"in that way, so, thither, thus, to there, RELATIVE",initial
+108,Lockwood,HTL2017,"0043,0070",pot,,pota1247,eN-,POT:WNALP,,ǝN-,,,,thus,"in that way, so, thither, thus, to there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"allomorph: /ǝn-/, /əʒ-/"
+241,Lockwood,HTL2017,0168,pot,,pota1247,en-,POT:WNALP,,eN-,,,,so; to a certain place; in a certain way,"so, RELATIVE",initial,RR
 26,Lockwood,HTL_nd,,pot,,pota1247,enem-,POT:WNALP,,,,,,away,away,initial
 143,Lockwood,HTL2017,0071,pot,,pota1247,enem-,POT:WNALP,,,,,,away,away,initial
 245,Lockwood,HTL2017,0168,pot,,pota1247,epich-,POT:WNALP,,,,,,such an extent; meanwhile; still,"meanwhile, still (ADV)",initial,RR
 27,Lockwood,HTL_nd,,pot,,pota1247,epit-,POT:WNALP,,,,,,"inasmuch as, while, degree, yet","inasmuch, while, during, degree, yet",initial
 134,Lockwood,HTL2017,0070,pot,,pota1247,epit-,POT:WNALP,,,,,,"inasmuch as, while, degree, yet","inasmuch, while, during, degree, yet",initial,RR
-240,Lockwood,HTL2017,0168,pot ,,pota1247,ezh-,POT:WNALP,,eN-,,,,so; to a certain place; in a certain way,so,initial,RR
+240,Lockwood,HTL2017,0168,pot ,,pota1247,ezh-,POT:WNALP,,eN-,,,,so; to a certain place; in a certain way,"so, RELATIVE",initial,RR
 28,Lockwood,HTL_nd,,pot ,,pota1247,gad-,POT:WNALP,,,,,,push,push,initial
 166,Lockwood,HTL2017,0073,pot ,,pota1247,gad-,POT:WNALP,,,,,,push,push,initial
 29,Lockwood,HTL_nd,,pot,,pota1247,gek-,POT:WNALP,,,,,,hide,hide,initial
@@ -386,7 +386,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 148,Lockwood,HTL2017,0071,pot ,,pota1247,zhab-,POT:WNALP,,,,,,through,through,initial
 56,Lockwood,HTL_nd,,pot,,pota1247,ziw-,POT:WNALP,,,,,,sour,sour,initial
 171,Lockwood,HTL2017,0074,pot,,pota1247,ziw-,POT:WNALP,,,,,,sour,sour,initial
-105,Lockwood,CH1948a,0007,pot,,pota1247,,POT:WNALP,,od-,,,,"from there, reason why",reason,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"allomorph: /oʤ-/, /oz-/"
+105,Lockwood,CH1948a,0007,pot,,pota1247,,POT:WNALP,,od-,,,,"from there, reason why","from there, reason, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"allomorph: /oʤ-/, /oz-/"
 106,Lockwood,CH1948a,0004,pot ,,pota1247,,POT:WNALP,,na:d-,,,,go after,,initial
 107,Lockwood,CH1948a,0007,pot,,pota1247,,POT:WNALP,,a:bǝz-,,,,continually,continually,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"""likely derived from /a:bǝd-/ 'continually' though this form is not attested in Potawatomi"""
 340,Hockett,CH1948a,0007,pot,,pota1247,,POT:5,,√n/,,,,NG,,initial,,,,,,,,,,,,,,,,,,√napo,N,,drink,,CH1948a;0007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL: This word also appears in Forest County Potawatomi dictionary; the initial is still unclear because the possessed form is n- instead of nde- as might be expected if it were the relative root.,,,HTL

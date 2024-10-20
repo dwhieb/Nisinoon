@@ -7,7 +7,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 23,Rhodes,RR1976,"0213,0262",ojg,,ojib1241,-(i)nike:-,OJ:6,,/nike/,,,,arm,arm,medial
 993,Rhodes,RR1980,0183,ojg,,ojib1241,,OJ:9,,/sǐn/,,,,fall,fall,final
 31,Rhodes,RR1976,0268,ojg,,ojib1241,-(i)zid-,OJ:6,,/zide/,,,,foot,foot,medial
-605,Rhodes,RR1976,0258,ojg,,ojib1241,in-,OJ:6,,/in/,,,,thus,thus,initial,RR
+605,Rhodes,RR1976,0258,ojg,,ojib1241,in-,OJ:6,,/in/,,,,thus,"in that way, so, thither, thus, to there, RELATIVE",initial,RR
 424,Rhodes,RR1976,0264,ojg,,ojib1241,,OJ:6,,/-aškw-e:/,,,,"grass, hay; herbs","grass, hay, herb",medial
 129,Goddard,IG1965,0214,ojg,,ojib1241,-ča·N-,OJ:1,,,,*-čya·θ-,,nose,nose,medial
 232,Rhodes,RR1976,0213,ojg,,ojib1241,-ndibe:-,OJ:6,,/-ndib-e:/,,,,head,head,medial
@@ -558,7 +558,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 594,Rhodes,RR1980,0184,ojg,,ojib1241,ǐm,OJ:9,,,,,,speak,,final,,,CONCR
 595,Rhodes,RR1980,"0184,0186",ojg,,ojib1241,ǐm-,OJ:9,,,,,,by speech,"speech, MANNER",final,TA,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,im,odam,indam,imo,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 596,Rhodes,RR1980,0184,ojg,,ojib1241,imo,OJ:9,,,,,,(agent) by speech,"speech, MANNER",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,im-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-597,Denny,JPD1981,0006,ojg,,ojib1241,in,OJ:5,,,,,,thither,thither,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,
+597,Denny,JPD1981,0006,ojg,,ojib1241,in,OJ:5,,,,,,thither,"in that way, so, thither, thus, to there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,
 598,Rhodes,RR1980,0184,ojg,,ojib1241,in,OJ:9,,,,,,NG,,final,II,,ABSTR
 599,Rhodes,RR1980,0184,ojg,,ojib1241,in,OJ:9,,,,,,by hand,"hand, MANNER",final,TA,,ABSTR,,,,,,inam,,,,,,,,,,,,,,,,,,,,,in,inam,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 6,Rhodes,RR1976,0266,ojg,,ojib1241,-(i)bimide:(w)-,OJ:6,,,,,,oil,oil,medial
