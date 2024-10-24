@@ -14,12 +14,12 @@ export default function groupColumns(record, ...colTypes) {
     for (const letteredColumn of letteredColumns) {
 
       const [, letter] = letteredColumn.split(`-`)
-      const i = letterToIndex(letter)
-      const data = record[letteredColumn]
+      const i          = letterToIndex(letter)
+      const data       = record[letteredColumn]
 
       if (data) {
-        items[i] ??= {}
-        const item = items.at(i)
+        items[i]    ??= {}
+        const item    = items.at(i)
         item[colType] = data
       }
 
