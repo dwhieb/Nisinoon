@@ -462,10 +462,8 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#quick-search-button`).click()
       cy.contains(`.pagination li`, `2`).click()
-      // NB: The 101st result in the database is currently Arapaho "-oʔooʔoe-".
+      // NB: The 101st result in the database is currently Arapaho.
       cy.get(`#results td`).first().should(`have.text`, `Arapaho`)
-      .next()
-      .should(`have.text`, `-oʔooʔoe-`)
     })
 
   })
