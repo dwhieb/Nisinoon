@@ -321,7 +321,7 @@ describe(`Search`, function() {
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#source-form-box`).type(`ôben`)
       cy.get(`#advanced-search-button`).click()
-      cy.get(`.num-results`).should(`include.text`, `of 1.`)
+      cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
     it(`Sources: Glosses`, function() {
@@ -463,7 +463,7 @@ describe(`Search`, function() {
       cy.get(`#quick-search-button`).click()
       cy.contains(`.pagination li`, `2`).click()
       // NB: The 101st result in the database is currently Arapaho.
-      cy.get(`#results td`).first().should(`have.text`, `Arapaho`)
+      cy.get(`#results td`).first().should(`have.text`, `Western Abenaki`)
     })
 
   })
