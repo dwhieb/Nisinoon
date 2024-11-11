@@ -1,2 +1,1009 @@
-ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done
+ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
+17,Day,GMD1995,XXIII,abe,,west2630,-adôgwes,AB:3,,,,,,cross-cousin,"cross-cousin, DEPENDENT",initial
+72,Day,GMD1995,XXVI,abe,,west2630,-anowa,AB:3,,,,,,cheek,"cheek, DEPENDENT",initial
+177,Day,GMD1995,XXX,abe,,west2630,-beskwan,AB:3,,,,,,the back of the body,"back (N), DEPENDENT",initial
+246,Day,GMD1995,XXXIII,abe,,west2630,-Co,AB:3,,,,,,fleshy lump or muscle,"lump, muscle, DEPENDENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,"not clear if the capital ""C"" is a typo or is supposed to be that way"
+250,Day,GMD1995,XXXIII,abe,,west2630,-dadan,AB:3,,,,,,father,"father, DEPENDENT",initial
+267,Day,GMD1995,XXXIV,abe,,west2630,-deb,AB:3,,,,,,head,"head, DEPENDENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. odeb-
+778,Day,GMD1995,LIV,abe,,west2630,odeb-,AB:3,,,,,,head,head,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. -deb
+278,Day,GMD1995,XXXIV,abe,,west2630,-deli,AB:3,,,,,,shoulder blade,"shoulder blade, DEPENDENT",initial
+280,Day,GMD1995,XXXIV,abe,,west2630,-dezi,AB:3,,,,,,gizzard,"gizzard, DEPENDENT",initial
+287,Day,GMD1995,XXXIV,abe,,west2630,-dolka,AB:3,,,,,,"stomach, chest, breast","breast, chest, stomach, DEPENDENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. -lagezi
+288,Day,GMD1995,XXXIV,abe,,west2630,-dollo,AB:3,,,,,,kidney,"kidney, DEPENDENT",initial
+289,Day,GMD1995,XXXIV,abe,,west2630,-don,AB:3,,,,,,mouth,"mouth, DEPENDENT",initial
+290,Day,GMD1995,XXXIV,abe,,west2630,-doz,AB:3,,,,,,daughter,"daughter, DEPENDENT",initial
+294,Day,GMD1995,XXXV,abe,,west2630,-eld-,AB:3,,,,,,hand,"hand, DEPENDENT",initial,,,,,,,,,,-elj-
+324,Day,GMD1995,XXXVI,abe,,west2630,-geji,AB:3,,,,,,"rump, buttocks","buttocks, rump, DEPENDENT",initial
+338,Day,GMD1995,XXXVI,abe,,west2630,-geskwan,AB:3,,,,,,elbow,"elbow, DEPENDENT",initial
+401,Day,GMD1995,XXXIX,abe,,west2630,-haga,AB:3,,,,,,body,"body, DEPENDENT",initial
+404,Day,GMD1995,XXXIX,abe,,west2630,-ibid,AB:3,,,,,,tooth,"tooth, DEPENDENT",initial
+405,Day,GMD1995,XXXIX,abe,,west2630,-icemiz,AB:3,,,,,,younger sibling,"sibling (younger), DEPENDENT",initial
+406,Day,GMD1995,XXXIX,abe,,west2630,-id-,AB:3,,,,,,together with,"together, DEPENDENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,see wid-
+408,Day,GMD1995,XXXIX,abe,,west2630,-idokan,AB:3,,,,,,elder brother,"brother (older), DEPENDENT",initial
+409,Day,GMD1995,XXXIX,abe,,west2630,-idôpso,AB:3,,,,,,sibling of the opposite sex,"sibling (opposite sex), DEPENDENT",initial
+410,Day,GMD1995,XXXIX,abe,,west2630,-igawes,AB:3,,,,,,mother,"mother, DEPENDENT",initial
+411,Day,GMD1995,XXXIX,abe,,west2630,-ijia,AB:3,,,,,,"brother (ego male), parallel male cousin","brother (of man), cousin (male), DEPENDENT",initial
+413,Day,GMD1995,XL,abe,,west2630,-ikkwa,AB:3,,,,,,"thigh, ham, hindquarter","ham, hindquarter, thigh, DEPENDENT",initial
+416,Day,GMD1995,XL,abe,,west2630,-ilalo,AB:3,,,,,,tongue,"tongue, DEPENDENT",initial
+417,Day,GMD1995,XL,abe,,west2630,-ilem,AB:3,,,,,,sister-in-law,"sister-in-law, DEPENDENT",initial
+418,Day,GMD1995,XL,abe,,west2630,-ili,AB:3,,,,,,navel,"navel, DEPENDENT",initial
+419,Day,GMD1995,XL,abe,,west2630,-ilidebôn,AB:3,,,,,,brain,"brain, DEPENDENT",initial
+420,Day,GMD1995,XL,abe,,west2630,-itkwa,AB:3,,,,,,"thumb, (pl.) fingers","finger, thumb, DEPENDENT",initial
+421,Day,GMD1995,XL,abe,,west2630,-ito,AB:3,,,,,,"fur, beard on one side","beard, fur, DEPENDENT",initial
+427,Day,GMD1995,XL,abe,,west2630,-jat,AB:3,,,,,,"sinew, tendon","sinew, tendon, DEPENDENT",initial
+440,Day,GMD1995,XLI,abe,,west2630,-Ji,AB:3,,,,,,"turd, dung, manure","dung, manure, turd, DEPENDENT",initial
+441,Day,GMD1995,XLI,abe,,west2630,-Jo,AB:3,,,,,,container,"container, DEPENDENT",initial
+439,Day,GMD1995,XLI,abe,,west2630,-jôl,AB:3,,,,,,"nose, nostril","nose, nostril, DEPENDENT",initial
+449,Day,GMD1995,XLI,abe,,west2630,-kaz,AB:3,,,,,,"claw, nail, hoof","claw, hoof, nail, DEPENDENT",initial
+454,Day,GMD1995,XLI,abe,,west2630,-kezen,AB:3,,,,,,"shoe, moccasin","moccasin, shoe, DEPENDENT",initial
+466,Day,GMD1995,XLII,abe,,west2630,-kôd,AB:3,,,,,,leg,"leg, DEPENDENT",initial
+481,Day,GMD1995,XLII,abe,,west2630,-kwedegw,AB:3,,,,,,knee,"knee, DEPENDENT",initial,,,,,,,,,,-kedegw
+488,Day,GMD1995,XLIII,abe,,west2630,-lagezi,AB:3,,,,,,"belly, abdomen","abdomen, belly, DEPENDENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. -dolka
+530,Day,GMD1995,XLIV,abe,,west2630,-logan,AB:3,,,,,,hip,"hip, DEPENDENT",initial
+564,Day,GMD1995,XLVI,abe,,west2630,-mahom,AB:3,,,,,,grandfather,"grandfather, DEPENDENT",initial
+613,Day,GMD1995,XLVIII,abe,,west2630,-messiz,AB:3,,,,,,elder sister,"sister (older), DEPENDENT",initial
+641,Day,GMD1995,XLIX,abe,,west2630,-mosom,AB:3,,,,,,remote male ancestor,"ancestor (male), DEPENDENT",initial
+721,Day,GMD1995,LII,abe,,west2630,-nijôn,AB:3,,,,,,child,"child, DEPENDENT",initial,,,,,,,,,,-ijôn
+756,Day,GMD1995,LIV,abe,,west2630,-nôgskwa,AB:3,,,,,,girl,"girl, DEPENDENT",initial
+843,Day,GMD1995,LVII,abe,,west2630,-ôjikw,AB:3,,,,,,"uncle, stepfather","stepfather, uncle, DEPENDENT",initial
+787,Day,GMD1995,LV,abe,,west2630,-okem,AB:3,,,,,,"aunt (father's sister, mother's brother's wife)","aunt, DEPENDENT",initial
+793,Day,GMD1995,LV,abe,,west2630,-olegwi,AB:3,,,,,,armpit,"armpit, DEPENDENT",initial
+795,Day,GMD1995,LV,abe,,west2630,-olhaga,AB:3,,,,,,waist,"waist, DEPENDENT",initial
+804,Day,GMD1995,LV,abe,,west2630,-oses,AB:3,,,,,,grandchild,"grandchild, DEPENDENT",initial
+871,Day,GMD1995,LVIII,abe,,west2630,-ôwigan,AB:3,,,,,,"spine, backbone","backbone, spine, DEPENDENT",initial
+878,Day,GMD1995,LVIII,abe,,west2630,-pan,AB:3,,,,,,lung,"lung, DEPENDENT",initial
+882,Day,GMD1995,LVIII,abe,,west2630,-pedin,AB:3,,,,,,arm,"arm, DEPENDENT",initial
+890,Day,GMD1995,LIX,abe,,west2630,-pigasen,AB:3,,,,,,a rib,"rib, DEPENDENT",initial
+926,Day,GMD1995,LX,abe,,west2630,-sem,AB:3,,,,,,"daughter-in-law, son's wife","daughter-in-law, DEPENDENT",initial
+941,Day,GMD1995,LXI,abe,,west2630,-sizegw,AB:3,,,,,,eye,"eye, DEPENDENT",initial
+951,Day,GMD1995,LXI,abe,,west2630,-skwen,AB:3,,,,,,liver,"liver, DEPENDENT",initial
+952,Day,GMD1995,LXI,abe,,west2630,"-sôboan, -sôboôn",AB:3,,,,,,eyelashes,"eyelash, DEPENDENT",initial
+965,Day,GMD1995,LXII,abe,,west2630,-tôgan,AB:3,,,,,,Adam's apple,"Adam's apple, DEPENDENT",initial
+1071,Day,GMD1995,LXVI,abe,,west2630,-zasiz,AB:3,,,,,,mother's brother,"uncle, DEPENDENT",initial
+1081,Day,GMD1995,LXVI,abe,,west2630,-zegwes,AB:3,,,,,,mother-in-law,"mother-in-law, DEPENDENT",initial
+1089,Day,GMD1995,LXVII,abe,,west2630,-zid,AB:3,,,,,,foot (of animal or person),"foot, DEPENDENT",initial
+1092,Day,GMD1995,LXVII,abe,,west2630,-zihlos,AB:3,,,,,,father-in-law,"father-in-law, DEPENDENT",initial
+1105,Day,GMD1995,LXVII,abe,,west2630,-zoskwigan,AB:3,,,,,,lower leg,"leg, DEPENDENT",initial
+2,Day,GMD1995,XXIII,abe,,west2630,aaza-,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see ahaza-
+3,Day,GMD1995,XXIII,abe,,west2630,abab-,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,untranslated root known only in abaskweda
+4,Day,GMD1995,XXIII,abe,,west2630,abag-,AB:3,,,,,,flat,flat,initial
+5,Day,GMD1995,XXIII,abe,,west2630,abaz-,AB:3,,,,,,"wood, woody","wood, woody",initial
+6,Day,GMD1995,XXIII,abe,,west2630,abi,AB:3,,,,,,"sit, repose, be in a place or state","in (a place), repose, sit, STATE",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+7,Day,GMD1995,XXIII,abe,,west2630,abic-,AB:3,,,,,,"aside, to the side",aside,initial,,,,,,,,,,,,,,,,,,,,,,,,,"cf. mska-, pska-"
+8,Day,GMD1995,XXIII,abe,,west2630,abit-,AB:3,,,,,,inhabit; invite,"inhabit, invite",initial
+9,Day,GMD1995,XXIII,abe,,west2630,abon,AB:3,,,,,,a bed,bed,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+10,Day,GMD1995,XXIII,abe,,west2630,abôn,AB:3,,,,,,bread,bread,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+11,Day,GMD1995,XXIII,abe,,west2630,adag-,AB:3,,,,,,"dishonest, uncertain; unreliable","dishonest, uncertain, unreliable",initial
+12,Day,GMD1995,XXIII,abe,,west2630,adal- ,AB:3,,,,,,where or when,"when, where",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. atal- 
+13,Day,GMD1995,XXIII,abe,,west2630,adeb- ,AB:3,,,,,,"twisting, rolling; mouth-puckering","pucker, roll (V), twist",initial
+14,Day,GMD1995,XXIII,abe,,west2630,adel- ,AB:3,,,,,,"barring, in front of, obstructing","bar (V), in (front), obstruct",initial
+15,Day,GMD1995,XXIII,abe,,west2630,adia,AB:3,,,,,,dog,dog,initial,,,,,,,,,,,,,,,,,,,,,,,,,obsolescent; free root
+16,Day,GMD1995,XXIII,abe,,west2630,adow- ,AB:3,,,,,,together,together,initial
+18,Day,GMD1995,XXIII,abe,,west2630,agaj- ,AB:3,,,,,,"shy, bashful, ashamed","ashamed, bashful, shy",initial
+19,Day,GMD1995,XXIII,abe,,west2630,agaki-,AB:3,,,,,,teach,teach,initial
+20,Day,GMD1995,XXIII,abe,,west2630,agask- ,AB:3,,,,,,groundhog,groundhog,initial
+21,Day,GMD1995,XXIII,abe,,west2630,agebalam,AB:3,,,,,,bullfrog,bullfrog,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+22,Day,GMD1995,XXIV,abe,,west2630,agi-,AB:3,,,,,,"count, read","count, read",initial
+23,Day,GMD1995,XXIV,abe,,west2630,agogen-,AB:3,,,,,,loosen,loosen,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. ôben- 
+24,Day,GMD1995,XXIV,abe,,west2630,agôm-,AB:3,,,,,,"across, on the other side","across, side (other)",initial
+25,Day,GMD1995,XXIV,abe,,west2630,agwan-,AB:3,,,,,,"out of sight, hidden because covered","covered, hidden, out (of sight)",initial
+26,Day,GMD1995,XXIV,abe,,west2630,agweda-,AB:3,,,,,,upstream,upstream,initial
+27,Day,GMD1995,XXIV,abe,,west2630,agwô-,AB:3,,,,,,"deteriorating, spoiling (as by rusting, decaying, etc.)","decay, deteriorate, rust, spoil",initial
+28,Day,GMD1995,XXIV,abe,,west2630,ahamo,AB:3,,,,,,fowl (wild or domestic),fowl,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+29,Day,GMD1995,XXIV,abe,,west2630,ahaza-,AB:3,,,,,,transparent,transparent,initial
+31,Day,GMD1995,XXIV,abe,,west2630,ahim,AB:3,,,,,,cloth,cloth,initial,,,,,,,,,,,,,,,,,,,,,,,,,see ayhim; free root
+112,Day,GMD1995,XXVII,abe,,west2630,ayhim-,AB:3,,,,,,own,own,initial,,,,,,,,,,ahim-
+32,Day,GMD1995,XXIV,abe,,west2630,ahlab,AB:3,,,,,,a net,net (N),initial,,,,,,,,,,hlab,,,,,,,,,,,,,,,free root
+33,Day,GMD1995,XXIV,abe,,west2630,aidawi-,AB:3,,,,,,on both sides,side (both),initial
+34,Day,GMD1995,XXIV,abe,,west2630,aiyami- ,AB:3,,,,,,pray ,pray ,initial
+35,Day,GMD1995,XXIV,abe,,west2630,ajali-,AB:3,,,,,,impossible,impossible,initial
+36,Day,GMD1995,XXIV,abe,,west2630,ajidaw- ,AB:3,,,,,,"face downward, head lower than body",face down,initial
+37,Day,GMD1995,XXIV,abe,,west2630,akemô,AB:3,,,,,,a louse,louse,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+38,Day,GMD1995,XXIV,abe,,west2630,akho-,AB:3,,,,,,hang,hang,initial
+39,Day,GMD1995,XXIV,abe,,west2630,aki,AB:3,,,,,,land,land,initial,,,,,,,,,,ki,,,,,,,,,,,,,,,free root
+40,Day,GMD1995,XXIV,abe,,west2630,akig-,AB:3,,,,,,a seal,seal (N),initial
+41,Day,GMD1995,XXIV,abe,,west2630,akika,AB:3,,,,,,"sow, plant","plant (V), sow",initial,,,,,,,,,,kika,,,,,,,,,,,,,,,free root
+42,Day,GMD1995,XXIV,abe,,west2630,akikôn,AB:3,,,,,,field,field,initial,,,,,,,,,,kikôn,,,,,,,,,,,,,,,free root
+43,Day,GMD1995,XXIV,abe,,west2630,akokw,AB:3,,,,,,kettle,kettle,initial,,,,,,,,,,kokw,,,,,,,,,,,,,,,free root
+44,Day,GMD1995,XXIV,abe,,west2630,akw-,AB:3,,,,,,"stop, cease","cease, stop",initial
+45,Day,GMD1995,XXIV,abe,,west2630,akw- ,AB:3,,,,,,"rough, bitter","bitter, rough",initial
+46,Day,GMD1995,XXV,abe,,west2630,akwôb-,AB:3,,,,,,"thus, so much, in such a time, amount, manner; according to, accordingly as","according to, amount, manner, much, thus, time, RELATIVE, QUANTITY",initial
+47,Day,GMD1995,XXV,abe,,west2630,al-,AB:3,,,,,,"how, as, like, the way that, etc. ","as, how, like, way",initial
+48,Day,GMD1995,XXV,abe,,west2630,alakws,AB:3,,,,,,star,star,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+49,Day,GMD1995,XXV,abe,,west2630,alaskana,AB:3,,,,,,wolverine,wolverine,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+50,Day,GMD1995,XXV,abe,,west2630,ale-,AB:3,,,,,,"stagnant, still, dead","dead, stagnant, still (A)",initial
+51,Day,GMD1995,XXV,abe,,west2630,alem-,AB:3,,,,,,"continuing, going farther","continue, farther",initial
 1,Goddard,IG1979a,0112,abe,,west2630,alən-,AB:1,,,,*elen-,,ordinary,ordinary,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+52,Day,GMD1995,XXV,abe,,west2630,alhla,AB:3,,,,,,female of deer family,doe,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+53,Day,GMD1995,XXV,abe,,west2630,alkô,AB:3,,,,,,decay,decay,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+54,Day,GMD1995,XXV,abe,,west2630,aln-,AB:3,,,,,,"common, usual, ordinary (also native as opposed to European or White)","common, native, ordinary, usual",initial
+55,Day,GMD1995,XXV,abe,,west2630,alnaka- ,AB:3,,,,,,on the right side or direction (opposite of left),right (side),initial
+56,Day,GMD1995,XXV,abe,,west2630,aloka,AB:3,,,,,,work,work,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+58,Day,GMD1995,XXV,abe,,west2630,alôm-,AB:3,,,,,,"inside, under (with reference to water)","inside, under (water)",initial
+57,Day,GMD1995,XXV,abe,,west2630,alosa,AB:3,,,,,,go (especially on foot),go,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+59,Day,GMD1995,XXV,abe,,west2630,als,AB:3,,,,,,shellfish,shellfish,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+60,Day,GMD1995,XXV,abe,,west2630,alzi,AB:3,,,,,,water weed,weed,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+61,Day,GMD1995,XXV,abe,,west2630,amalki,AB:3,,,,,,"step, step on, tread","step, step on, tread",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+62,Day,GMD1995,XXV,abe,,west2630,amals-,AB:3,,,,,,"be in a certain state of health, be feeling physically","feel (physically), state (health)",initial
+63,Day,GMD1995,XXV,abe,,west2630,amisk-,AB:3,,,,,,beaver,beaver,initial
+64,Day,GMD1995,XXV,abe,,west2630,amiz,AB:3,,,,,,pet (commonly one's dog),"dog, pet (N)",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+65,Day,GMD1995,XXV,abe,,west2630,amkwôn,AB:3,,,,,,spoon,spoon,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+69,Day,GMD1995,XXV,abe,,west2630,an-,AB:3,,,,,,forget,forget,initial,,,,,,,,,,,,,,,,,,,,,,,,,from wan
+66,Day,GMD1995,XXV,abe,,west2630,anabi,AB:3,,,,,,coat,coat,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+67,Day,GMD1995,XXV,abe,,west2630,anak-,AB:3,,,,,,"spread on ground, cover ground","cover (ground), spread",initial
+68,Day,GMD1995,XXV,abe,,west2630,anawi-,AB:3,,,,,,"correct, repaired, in original condition","correct, repaired",initial
+70,Day,GMD1995,XXVI,abe,,west2630,anibi-,AB:3,,,,,,American elm,elm,initial
+71,Day,GMD1995,XXVI,abe,,west2630,anig-,AB:3,,,,,,"grow up, become covered with plant growth",grow up,initial
+73,Day,GMD1995,XXVI,abe,,west2630,aodi-,AB:3,,,,,,"fight as in a battle, make war","battle, fight (V), war",initial,,,,,,,,,,awdi
+74,Day,GMD1995,XXVI,abe,,west2630,aos-,AB:3,,,,,,changing position,change (position),initial,,,,,,,,,,,,,,,,,,,,,,,,,see awes- and aws-
+76,Day,GMD1995,XXVI,abe,,west2630,apen,AB:3,,,,,,ground nut,ground nut,initial,,,,,,,,,,pen,,,,,,,,,,,,,,,free root
+77,Day,GMD1995,XXVI,abe,,west2630,apetaw-,AB:3,,,,,,"up in the air, off the ground","up (in the air), off (the ground)",initial
+78,Day,GMD1995,XXVI,abe,,west2630,apihan,AB:3,,,,,,"cord, rope","cord, rope",initial,,,,,,,,,,"pian, pihan",,,,,,,,,,,,,,,free root
+79,Day,GMD1995,XXVI,abe,,west2630,apikôn,AB:3,,,,,,"string, cord","cord, string",initial,,,,,,,,,,pikôn,,,,,,,,,,,,,,,free root
+80,Day,GMD1995,XXVI,abe,,west2630,apkw-,AB:3,,,,,,cover,cover,initial
+81,Day,GMD1995,XXVI,abe,,west2630,apt-,AB:3,,,,,,"against, opposed, facing","against, facing, opposed",initial,,,,,,,,,,apc-
+82,Day,GMD1995,XXVI,abe,,west2630,asen,AB:3,,,,,,"stone, rock","rock, stone",initial,,,,,,,,,,sen,,,,,,,,,,,,,,,free root
+83,Day,GMD1995,XXVI,abe,,west2630,askami-,AB:3,,,,,,"always (in the future), forever","always, forever",initial
+84,Day,GMD1995,XXVI,abe,,west2630,askan,AB:3,,,,,,"horn, antler","antler, horn",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+85,Day,GMD1995,XXVI,abe,,west2630,askaskw-,AB:3,,,,,,green,green,initial
+86,Day,GMD1995,XXVI,abe,,west2630,asokw,AB:3,,,,,,"cloud, sky","cloud, sky",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+87,Day,GMD1995,XXVI,abe,,west2630,asow-,AB:3,,,,,,cover,cover,initial
+88,Day,GMD1995,XXVI,abe,,west2630,asp-,AB:3,,,,,,of a certain size (also wide open),"open (A), size",initial
+89,Day,GMD1995,XXVI,abe,,west2630,aspon-,AB:3,,,,,,"stingy, parsimonious ","parsimonious, stingy",initial
+90,Day,GMD1995,XXVI,abe,,west2630,assi-,AB:3,,,,,,influence by teaching or example,influence (V),initial
+91,Day,GMD1995,XXVI,abe,,west2630,asta-,AB:3,,,,,,"prick, stab","prick, stab",initial
+92,Day,GMD1995,XXVI,abe,,west2630,atal-,AB:3,,,,,,"there (in general, customarily); there where (in general, customarily); when, while","there, when, where, while",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. adal- 
+93,Day,GMD1995,XXVI,abe,,west2630,atass-,AB:3,,,,,,"each time, every time, whenever","each, every, time, whenever",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. azi
+94,Day,GMD1995,XXVI,abe,,west2630,atema,AB:3,,,,,,weave snowshoe,weave (snowshoe),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+95,Day,GMD1995,XXVII,abe,,west2630,atôbi,AB:3,,,,,,a bow (weapon),bow (N),initial,,,,,,,,,,tôbi,,,,,,,,,,,,,,,free root
+96,Day,GMD1995,XXVII,abe,,west2630,ats-,AB:3,,,,,,"dye, color","color, dye",initial
+97,Day,GMD1995,XXVII,abe,,west2630,atsakh-,AB:3,,,,,,"lock, close with a piece of metal or a key","close, lock",initial
+98,Day,GMD1995,XXVII,abe,,west2630,awa-,AB:3,,,,,,"slightly, barely","barely, slightly",initial
+99,Day,GMD1995,XXVII,abe,,west2630,awad,AB:3,,,,,,carry on back,carry (on back),initial,,,,,,,,,,awaj-,,,,,,,,,,,,,,,cf. awal-; free root
+100,Day,GMD1995,XXVII,abe,,west2630,awakôd-,AB:3,,,,,,"in small amount or degree, hardly, barely, of little importance","barely, hardly, small (amount, degree), unimportant, QUANTITY",initial,,,,,,,,,,awakôj-
+101,Day,GMD1995,XXVII,abe,,west2630,awal-,AB:3,,,,,,carry something on back,carry (on back),initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. awad-
+102,Day,GMD1995,XXVII,abe,,west2630,awam-,AB:3,,,,,,"dress feet, put on shoes",put on (shoes),initial
+103,Day,GMD1995,XXVII,abe,,west2630,awan,AB:3,,,,,,"air, atmosphere","air, atmosphere",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+104,Day,GMD1995,XXVII,abe,,west2630,awas-,AB:3,,,,,,"over, beyond, on other side","beyond, over, side (other)",initial
+105,Day,GMD1995,XXVII,abe,,west2630,awaz-,AB:3,,,,,,"warm, heat","heat, warm",initial
+107,Day,GMD1995,XXVII,abe,,west2630,awes-,AB:3,,,,,,change position,change (position),initial,,,,,,,,,,,,,,,,,,,,,,,,,"see aos-, aws- "
+108,Day,GMD1995,XXVII,abe,,west2630,awib,AB:3,,,,,,pith,pith,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+109,Day,GMD1995,XXVII,abe,,west2630,awib-,AB:3,,,,,,"calm, peaceful","calm, peaceful",initial
+110,Day,GMD1995,XXVII,abe,,west2630,awig-,AB:3,,,,,,"mark, draw, write","draw, mark, write",initial
+111,Day,GMD1995,XXVII,abe,,west2630,aws-,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see awes- and aos- 
+113,Day,GMD1995,XXVII,abe,,west2630,ayhim,AB:3,,,,,,cloth,cloth,initial,,,,,,,,,,ahim,,,,,,,,,,,,,,,free root
+115,Day,GMD1995,XXVII,abe,,west2630,azawa-,AB:3,,,,,,"reversing, returning, moving backwards","move (backwards), return, reverse",initial,,,,,,,,,,"aza-, wazwa-"
+116,Day,GMD1995,XXVII,abe,,west2630,azawaskw-,AB:3,,,,,,"square or cube, a surface or solid with square corners","cube, square",initial
+117,Day,GMD1995,XXVII,abe,,west2630,azesko,AB:3,,,,,,mud,mud,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+119,Day,GMD1995,XXVIII,abe,,west2630,azi,AB:3,,,,,,each,each,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. atass-; free root
+118,Day,GMD1995,XXVII,abe,,west2630,azi-,AB:3,,,,,,dip,dip,initial
+120,Day,GMD1995,XXVIII,abe,,west2630,azig-,AB:3,,,,,,"thin, sparse, open","open (A), sparse, thin",initial
+121,Day,GMD1995,XXVIII,abe,,west2630,azik-,AB:3,,,,,,"enclose, wrap","enclose, wrap",initial
+122,Day,GMD1995,XXVIII,abe,,west2630,azin-,AB:3,,,,,,"enclose, shut in","enclose, shut in",initial
+123,Day,GMD1995,XXVIII,abe,,west2630,azow-,AB:3,,,,,,"change, exchange, trade","change, exchange, trade",initial
+124,Day,GMD1995,XXVIII,abe,,west2630,ba-,AB:3,,,,,,approach,approach,initial
+125,Day,GMD1995,XXVIII,abe,,west2630,baakw-,AB:3,,,,,,"anew, afresh, newly","afresh, anew, newly",initial,,,,,,,,,,,,,,,,,,,,,,,,,see bahakw- 
+126,Day,GMD1995,XXVIII,abe,,west2630,baam-,AB:3,,,,,,more (sign of the comparative degree),more,initial,,,,,,,,,,,,,,,,,,,,,,,,,see baham-
+127,Day,GMD1995,XXVIII,abe,,west2630,babad-,AB:3,,,,,,very like (more like than baki or dahôlawi),like,initial,,,,,,,,,,babaj- 
+129,Day,GMD1995,XXVIII,abe,,west2630,babas-,AB:3,,,,,,half,half,initial
+130,Day,GMD1995,XXVIII,abe,,west2630,babôm-,AB:3,,,,,,"around (in space and in general), about, approximately","about, approximately, around, QUANTITY",initial
+131,Day,GMD1995,XXVIII,abe,,west2630,bag-,AB:3,,,,,,"strike, hit, smash","hit, smash, strike",initial
+132,Day,GMD1995,XXVIII,abe,,west2630,bagad-,AB:3,,,,,,"returning, coming back","come back, return",initial
+133,Day,GMD1995,XXVIII,abe,,west2630,bagi-,AB:3,,,,,,"leave, abandon","abandon, leave",initial
+134,Day,GMD1995,XXVIII,abe,,west2630,bagiha-,AB:3,,,,,,"sprinkle, baptize, bless as with holy water","baptize, bless, sprinkle",initial
+137,Day,GMD1995,XXVIII,abe,,west2630,baiy-,AB:3,,,,,,"come, arrive","arrive, come",initial
+138,Day,GMD1995,XXVIII,abe,,west2630,bak-,AB:3,,,,,,clean,clean,initial
+140,Day,GMD1995,XXVIII,abe,,west2630,bakal-,AB:3,,,,,,"certain, sure","certain, sure",initial
+139,Day,GMD1995,XXVIII,abe,,west2630,baki,AB:3,,,,,,"like, similar","like, similar",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+141,Day,GMD1995,XXVIII,abe,,west2630,bakwa,AB:3,,,,,,"arrow shaft, blunt arrow",arrow,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+142,Day,GMD1995,XXVIII,abe,,west2630,bakwsa-,AB:3,,,,,,dry,dry,initial
+143,Day,GMD1995,XXIX,abe,,west2630,bal-,AB:3,,,,,,"wrong, erroneous","erroneous, wrong",initial
+144,Day,GMD1995,XXIX,abe,,west2630,balôb,AB:3,,,,,,"despair, be discouraged","despair, discouraged",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+145,Day,GMD1995,XXIX,abe,,west2630,bam-,AB:3,,,,,,"where, when","when, where",initial
+146,Day,GMD1995,XXIX,abe,,west2630,"bao-, baw-",AB:3,,,,,,"exert personal power by wishing, wish with power",wish,initial
+147,Day,GMD1995,XXIX,abe,,west2630,bapi,AB:3,,,,,,play,play,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+148,Day,GMD1995,XXIX,abe,,west2630,bas-,AB:3,,,,,,"swell, puff up","puff up, swell",initial
+149,Day,GMD1995,XXIX,abe,,west2630,bask-,AB:3,,,,,,"uncovered, open (of a field or water), bare (of a body)","bare (A), open (A), uncovered",initial,,,,,,,,,,,,,,,,,,,,,,,,,now archaic and mostly replaced by mamasag- 
+150,Day,GMD1995,XXIX,abe,,west2630,baskh-,AB:3,,,,,,"burst, explode; shoot","burst, explode, shoot",initial
+151,Day,GMD1995,XXIX,abe,,west2630,basod-,AB:3,,,,,,near in space or time,near,initial,,,,,,,,,,basoj-,,,,,,,,,,,,,,,see kwahl-
+153,Day,GMD1995,XXIX,abe,,west2630,batkwa-,AB:3,,,,,,facing someone,facing,initial
+155,Day,GMD1995,XXIX,abe,,west2630,baw-,AB:3,,,,,,"shake, tremble","shake, tremble",initial
+156,Day,GMD1995,XXIX,abe,,west2630,baziz-,AB:3,,,,,,pimply,pimply,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. lômpski-
+157,Day,GMD1995,XXIX,abe,,west2630,bedeg-,AB:3,,,,,,"return, come back","come back, return",initial
+158,Day,GMD1995,XXIX,abe,,west2630,begeda-,AB:3,,,,,,smoke,smoke,initial
+159,Day,GMD1995,XXIX,abe,,west2630,begig-,AB:3,,,,,,"brown by heat, toast, roast","brown (V), roast, toast",initial
+160,Day,GMD1995,XXIX,abe,,west2630,begiki-,AB:3,,,,,,brittle,brittle,initial
+161,Day,GMD1995,XXIX,abe,,west2630,bego,AB:3,,,,,,"gum, pitch","gum, pitch",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+162,Day,GMD1995,XXIX,abe,,west2630,begw-,AB:3,,,,,,"sand, dust, soil","dust, sand, soil",initial
+163,Day,GMD1995,XXIX,abe,,west2630,behanem,AB:3,,,,,,woman,woman,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+164,Day,GMD1995,XXIX,abe,,west2630,bela-,AB:3,,,,,,"wait, delay, take one's time","delay, wait",initial
+165,Day,GMD1995,XXIX,abe,,west2630,belag-,AB:3,,,,,,"peel, remove rind, scales, skin, or bark",peel,initial
+166,Day,GMD1995,XXIX,abe,,west2630,belaz,AB:3,,,,,,passenger pigeon ,pigeon,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+167,Day,GMD1995,XXX,abe,,west2630,bem-,AB:3,,,,,,"moving or extending in space or time, variably translated by along, by, pass, here and there, etc. ","along, by, extend, here and there, move, pass",initial,,,,,,,,,,bm- 
+168,Day,GMD1995,XXX,abe,,west2630,bema-,AB:3,,,,,,"on the side, to the side",side,initial
+169,Day,GMD1995,XXX,abe,,west2630,bemi,AB:3,,,,,,"oil, grease","grease, oil",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+170,Day,GMD1995,XXX,abe,,west2630,bemiji-,AB:3,,,,,,"on the side, to the side",side,initial
+171,Day,GMD1995,XXX,abe,,west2630,bemowa,AB:3,,,,,,a boil,boil (N),initial,,,,,,,,,,bmowa,,,,,,,,,,,,,,,free root
+172,Day,GMD1995,XXX,abe,,west2630,ben-,AB:3,,,,,,"downward, down","down, downward",initial,,,,,,,,,,,,,,,,,,,,,,,,,see bôn-
+173,Day,GMD1995,XXX,abe,,west2630,besan-,AB:3,,,,,,full,full,initial,,,,,,,,,,"bsan-, psan-",,,,,,,,,,,,,,,in most words contracted to bsan-
+174,Day,GMD1995,XXX,abe,,west2630,besi-,AB:3,,,,,,"split, divide, open up","divide, open up, split",initial
+176,Day,GMD1995,XXX,abe,,west2630,besk,AB:3,,,,,,night hawk (onomatopoeic root for bird's call),nighthawk,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+175,Day,GMD1995,XXX,abe,,west2630,beska-,AB:3,,,,,,"aside, to one side, branching off","aside, branch off, side",initial
+178,Day,GMD1995,XXX,abe,,west2630,beskwel-,AB:3,,,,,,"ignite, catch fire","catch fire, ignite",initial,,,,,,,,,,bskwel-
+179,Day,GMD1995,XXX,abe,,west2630,beza,AB:3,,,,,,gunpowder,gunpowder,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+189,Day,GMD1995,XXX,abe,,west2630,bezeg-,AB:3,,,,,,dark,dark,initial
+181,Day,GMD1995,XXX,abe,,west2630,beziko,AB:3,,,,,,bison,bison,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+182,Day,GMD1995,XXX,abe,,west2630,bezo,AB:3,,,,,,"wild cat (bobcat, lynx)","bobcat, lynx, wildcat",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+183,Day,GMD1995,XXX,abe,,west2630,bia-,AB:3,,,,,,"mealy, powdery, crumbly","crumbly, mealy, powdery",initial
+184,Day,GMD1995,XXX,abe,,west2630,bid-,AB:3,,,,,,"enter, go into","enter, go into",initial
+186,Day,GMD1995,XXX,abe,,west2630,bid-,AB:3,,,,,,"unintentional, accidental, by mistake","accidental, by mistake, unintentional",initial
+185,Day,GMD1995,XXX,abe,,west2630,bidem-,AB:3,,,,,,shoot with bow or sling,"bow (N), shoot, sling",initial
+187,Day,GMD1995,XXX,abe,,west2630,bigid-,AB:3,,,,,,"puff, spurt","puff, spurt",initial
+188,Day,GMD1995,XXX,abe,,west2630,bigwa-,AB:3,,,,,,"hollow, hollow sounding",hollow,initial
+189,Day,GMD1995,XXX,abe,,west2630,bigwed-,AB:3,,,,,,open,open,initial,,,,,,,,,,bkwed-
+190,Day,GMD1995,XXX,abe,,west2630,bika-,AB:3,,,,,,"fold, double ","double, fold",initial,,,,,,,,,,bka- 
+191,Day,GMD1995,XXXI,abe,,west2630,bikag-,AB:3,,,,,,"cross, make a crossing",cross (V),initial
+207,Day,GMD1995,XXXI,abe,,west2630,bkôg- ,AB:3,,,,,,"bent, crooked","bent, crooked",initial,,,,,,,,,,,,,,,,,,,,,,,,,see bikôg-
+193,Day,GMD1995,XXXI,abe,,west2630,bil-,AB:3,,,,,,"new, strange, different, foreign","different, foreign, new, strange",initial
+194,Day,GMD1995,XXXI,abe,,west2630,bildowi-,AB:3,,,,,,"new, strange ","new, strange ",initial
+195,Day,GMD1995,XXXI,abe,,west2630,bilow-,AB:3,,,,,,"different, strange","different, strange",initial
+196,Day,GMD1995,XXXI,abe,,west2630,bils-,AB:3,,,,,,totally numb as when anesthetized ,numb,initial
+197,Day,GMD1995,XXXI,abe,,west2630,bim-,AB:3,,,,,,"twisting, turning on a longitudinal axis","turn, twist",initial
+198,Day,GMD1995,XXXI,abe,,west2630,bita,AB:3,,,,,,"froth, foam","foam, froth",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+199,Day,GMD1995,XXXI,abe,,west2630,bitaw-,AB:3,,,,,,"having something between two or more layers horizontally or vertically; double, doubled, between","between, double, doubled, layers",initial
+200,Day,GMD1995,XXXI,abe,,west2630,bith-,AB:3,,,,,,"catch, get, snatch up","catch, get, snatch up",initial
+201,Day,GMD1995,XXXI,abe,,west2630,bitta,AB:3,,,,,,"very, much","much, very, QUANTITY",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+202,Day,GMD1995,XXXI,abe,,west2630,biw-,AB:3,,,,,,"small, fine, little","fine, little, small",initial
+203,Day,GMD1995,XXXI,abe,,west2630,bizag-,AB:3,,,,,,bushy,bushy,initial
+204,Day,GMD1995,XXXI,abe,,west2630,bizew,AB:3,,,,,,automatic,automatic,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+205,Day,GMD1995,XXXI,abe,,west2630,bizo-,AB:3,,,,,,"useless, unimportant, good for nothing","unimportant, useless",initial
+211,Day,GMD1995,XXXI,abe,,west2630,bo-,AB:3,,,,,,winter,winter,initial
+212,Day,GMD1995,XXXI,abe,,west2630,bodawaz-,AB:3,,,,,,"confer, talk over","confer, talk over",initial
+221,Day,GMD1995,XXXII,abe,,west2630,bôg-,AB:3,,,,,,"bump, strike","bump, strike",initial
+213,Day,GMD1995,XXXI,abe,,west2630,bogeja- ,AB:3,,,,,,"prick, pierce, sting","pierce, prick, sting",initial
+222,Day,GMD1995,XXXII,abe,,west2630,bôgw-,AB:3,,,,,,"pure, unmixed, genuine, only","genuine, only, pure, unmixed",initial
+223,Day,GMD1995,XXXII,abe,,west2630,bôj-,AB:3,,,,,,on the left side,left (side),initial
+214,Day,GMD1995,XXXI,abe,,west2630,bokw-,AB:3,,,,,,short,short,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. daakw
+224,Day,GMD1995,XXXII,abe,,west2630,bôkw-,AB:3,,,,,,shallow (water),shallow,initial
+225,Day,GMD1995,XXXII,abe,,west2630,bôn-,AB:3,,,,,,"down, downward (in some words)","down, downward",initial,,,,,,,,,,,,,,,,,,,,,,,,,see ben-
+215,Day,GMD1995,XXXI,abe,,west2630,bona,AB:3,,,,,,"place, put, set","place, put, set",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+216,Day,GMD1995,XXXII,abe,,west2630,boni-,AB:3,,,,,,"leave, abandon, free, put away","abandon, free, leave, put away",initial
+217,Day,GMD1995,XXXII,abe,,west2630,bonsa,AB:3,,,,,,"tend fire, make fire","make (fire), tend (fire)",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+218,Day,GMD1995,XXXII,abe,,west2630,bosk-,AB:3,,,,,,bury,bury,initial
+219,Day,GMD1995,XXXII,abe,,west2630,boskw-,AB:3,,,,,,break or sever transversely,"break, sever",initial
+226,Day,GMD1995,XXXII,abe,,west2630,bôw-,AB:3,,,,,,"happy, joyful","happy, joyful",initial
+220,Day,GMD1995,XXXII,abe,,west2630,bozi,AB:3,,,,,,"embark, get into a water craft",embark,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+227,Day,GMD1995,XXXII,abe,,west2630,bôzid-,AB:3,,,,,,"over, above, beyond","above, beyond, over",initial
+230,Day,GMD1995,XXXII,abe,,west2630,cacak-,AB:3,,,,,,spotted,spotted,initial
+231,Day,GMD1995,XXXII,abe,,west2630,cakw-,AB:3,,,,,,"all night, i.e. until daylight",night,initial
+232,Day,GMD1995,XXXII,abe,,west2630,can-,AB:3,,,,,,stop,stop,initial
+233,Day,GMD1995,XXXII,abe,,west2630,ceb-,AB:3,,,,,,separate,separate,initial
+234,Day,GMD1995,XXXII,abe,,west2630,cegas-,AB:3,,,,,,"ignite, kindle, burn","burn, ignite, kindle",initial
+235,Day,GMD1995,XXXII,abe,,west2630,cici-,AB:3,,,,,,very small,small,initial
+236,Day,GMD1995,XXXII,abe,,west2630,cicigw-,AB:3,,,,,,"narrow, fine, slender","fine, narrow, slender",initial
+237,Day,GMD1995,XXXII,abe,,west2630,ciga-,AB:3,,,,,,"silent, quiet","quiet, silent",initial
+238,Day,GMD1995,XXXII,abe,,west2630,cigit-,AB:3,,,,,,"let, leave","leave, let",initial
+239,Day,GMD1995,XXXII,abe,,west2630,cigitwa-,AB:3,,,,,,"pull out hair, depilate, shave","depilate, pull out (hair), shave",initial
+240,Day,GMD1995,XXXII,abe,,west2630,cik-,AB:3,,,,,,sweep,sweep,initial
+241,Day,GMD1995,XXXII,abe,,west2630,cila-,AB:3,,,,,,"bad tempered, peevish","bad-tempered, peevish",initial
+242,Day,GMD1995,XXXIII,abe,,west2630,cita-,AB:3,,,,,,tight,tight,initial
+243,Day,GMD1995,XXXIII,abe,,west2630,citô-,AB:3,,,,,,"further, more and more","further, more",initial
+245,Day,GMD1995,XXXIII,abe,,west2630,côls- ,AB:3,,,,,,"grasshopper, cricket","cricket, grasshopper",initial
+244,Day,GMD1995,XXXIII,abe,,west2630,cow-,AB:3,,,,,,"must, certain, need, want","certain, must, need, want",initial
+247,Day,GMD1995,XXXIII,abe,,west2630,daakw-,AB:3,,,,,,"short in dimension, space, or time","short (dimension, space, time)",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. bokw-
+248,Day,GMD1995,XXXIII,abe,,west2630,dab-,AB:3,,,,,,enough,enough,initial
+249,Day,GMD1995,XXXIII,abe,,west2630,dabs-,AB:3,,,,,,"low, down low",low,initial
+251,Day,GMD1995,XXXIII,abe,,west2630,dadeb-,AB:3,,,,,,"same, even, level","even, level, same",initial
+252,Day,GMD1995,XXXIII,abe,,west2630,daga-,AB:3,,,,,,"hit, strike","hit, strike",initial
+253,Day,GMD1995,XXXIII,abe,,west2630,dagas-,AB:3,,,,,,"a little, small amount or number","a little, amount (small), number (small)",initial
+254,Day,GMD1995,XXXIII,abe,,west2630,dagw-,AB:3,,,,,,"pound, grind","grind, pound",initial
+255,Day,GMD1995,XXXIII,abe,,west2630,dagwagw-,AB:3,,,,,,"finish, complete","complete, finish",initial
+256,Day,GMD1995,XXXIII,abe,,west2630,dagwôgw-,AB:3,,,,,,"autumn, fall season","autumn, fall (N)",initial
+259,Day,GMD1995,XXXIII,abe,,west2630,dagwôk-,AB:3,,,,,,uphill,uphill,initial
+257,Day,GMD1995,XXXIII,abe,,west2630,dagwôlskw-,AB:3,,,,,,"crust on snow, crusty snow",snow crust,initial
+258,Day,GMD1995,XXXIII,abe,,west2630,dahôlaw-,AB:3,,,,,,"like, be like","alike, like",initial,,,,,,,,,,,,,,,,,,,,,,,,,"cf. baki, babad-, babaj-"
+261,Day,GMD1995,XXXIII,abe,,west2630,dalpô-,AB:3,,,,,,"scold, reprimand, berate, dispute, contend, argue, quarrel","argue, berate, contend, dispute, quarrel, reprimand, scold",initial
+262,Day,GMD1995,XXXIII,abe,,west2630,dap-,AB:3,,,,,,"put in, insert","insert, put in",initial
+263,Day,GMD1995,XXXIII,abe,,west2630,das-,AB:3,,,,,,"on, onto, on top of, down onto ","on, on top, onto",initial
+264,Day,GMD1995,XXXIII,abe,,west2630,daw-,AB:3,,,,,,down inside,down (inside),initial
+265,Day,GMD1995,XXXIII,abe,,west2630,dawz-,AB:3,,,,,,"cut open, cut a hole in","cut open, cut (hole)",initial
+266,Day,GMD1995,XXXIV,abe,,west2630,daza-,AB:3,,,,,,"push back, reject, refuse","push back, refuse, reject",initial
+268,Day,GMD1995,XXXIV,abe,,west2630,deba-,AB:3,,,,,,measure,measure,initial
+269,Day,GMD1995,XXXIV,abe,,west2630,debal-,AB:3,,,,,,own,own,initial
+270,Day,GMD1995,XXXIV,abe,,west2630,debask-,AB:3,,,,,,"observe, watch, pay attention to","observe, pay (attention), watch",initial
+271,Day,GMD1995,XXXIV,abe,,west2630,debelo-,AB:3,,,,,,"tell, talk about, discuss, mention","discuss, mention, talk about, tell",initial
+272,Day,GMD1995,XXXIV,abe,,west2630,debesta,AB:3,,,,,,listen,listen,initial,,,,,,,,,,debseda,,,,,,,,,,,,,,,free root
+273,Day,GMD1995,XXXIV,abe,,west2630,debok-,AB:3,,,,,,night (later than evening),night,initial
+275,Day,GMD1995,XXXIV,abe,,west2630,degwôk-,AB:3,,,,,,uphill,uphill,initial
+276,Day,GMD1995,XXXIV,abe,,west2630,dekasm-,AB:3,,,,,,swim,swim,initial
+277,Day,GMD1995,XXXIV,abe,,west2630,deksk- ,AB:3,,,,,,"tangle, tousled, mixed up (used for hair)","tangle, tousled",initial
+279,Day,GMD1995,XXXIV,abe,,west2630,dem-,AB:3,,,,,,sever transversely (with any tool),sever,initial
+281,Day,GMD1995,XXXIV,abe,,west2630,dlap,AB:3,,,,,,"the club in playing cards, a playing card, a map","club (playing card), map",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+282,Day,GMD1995,XXXIV,abe,,west2630,dod-,AB:3,,,,,,"such a time, place, or manner","manner, place, time, RELATIVE",initial,,,,,,,,,,doj-,,,,,,,,,,,,,,,see doj-
+283,Day,GMD1995,XXXIV,abe,,west2630,dog-,AB:3,,,,,,"spread, split","split, spread",initial
+285,Day,GMD1995,XXXIV,abe,,west2630,dok-,AB:3,,,,,,wake,wake,initial
+286,Day,GMD1995,XXXIV,abe,,west2630,dokw-,AB:3,,,,,,rump,rump,initial
+292,Day,GMD1995,XXXV,abe,,west2630,dôpk-,AB:3,,,,,,"lift, raise","lift, raise",initial
+293,Day,GMD1995,XXXV,abe,,west2630,dôwda- ,AB:3,,,,,,open,open,initial
+291,Day,GMD1995,XXXV,abe,,west2630,dozgo-,AB:3,,,,,,spend the night,spend (night),initial
+296,Day,GMD1995,XXXV,abe,,west2630,gaak-,AB:3,,,,,,gull,gull,initial,,,,,,,,,,,,,,,,,,,,,,,,,onomatopoeic root
+297,Day,GMD1995,XXXV,abe,,west2630,gabasa,AB:3,,,,,,sturgeon,sturgeon,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+298,Day,GMD1995,XXXV,abe,,west2630,gack-,AB:3,,,,,,scratch,scratch,initial
+299,Day,GMD1995,XXXV,abe,,west2630,gad-,AB:3,,,,,,"take off, take away, remove","remove, take away, take off",initial,,,,,,,,,,gaj-
+300,Day,GMD1995,XXXV,abe,,west2630,gadaw-,AB:3,,,,,,"want to, about to be","about (to be), want (to)",initial
+301,Day,GMD1995,XXXV,abe,,west2630,gadka,AB:3,,,,,,dig,dig,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+302,Day,GMD1995,XXXV,abe,,west2630,gagaps-,AB:3,,,,,,deaf,deaf,initial
+303,Day,GMD1995,XXXV,abe,,west2630,gagôw-,AB:3,,,,,,angry,angry,initial
+305,Day,GMD1995,XXXV,abe,,west2630,gakhig-,AB:3,,,,,,tease,tease,initial
+328,Day,GMD1995,XXXVI,abe,,west2630,gel-,AB:3,,,,,,hold,hold,initial,,,,,,,,,,gal-
+307,Day,GMD1995,XXXV,abe,,west2630,gam-,AB:3,,,,,,out of sight,out (of sight),initial
+308,Day,GMD1995,XXXV,abe,,west2630,gameg-,AB:3,,,,,,"enter water, dive, sink","dive, sink",initial
+309,Day,GMD1995,XXXV,abe,,west2630,ganozas,AB:3,,,,,,willow,willow,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+310,Day,GMD1995,XXXV,abe,,west2630,"gao-, gaw-",AB:3,,,,,,sleep,sleep,initial
+311,Day,GMD1995,XXXV,abe,,west2630,gas-,AB:3,,,,,,"so much, so many, thus (in degree or extent or number) ","many, much, thus, QUANTITY, RELATIVE",initial
+312,Day,GMD1995,XXXV,abe,,west2630,gash-,AB:3,,,,,,wipe,wipe,initial
+313,Day,GMD1995,XXXV,abe,,west2630,gasko,AB:3,,,,,,heron,heron,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+314,Day,GMD1995,XXXV,abe,,west2630,gasp-,AB:3,,,,,,"unexpectedly, unintentionally, accidentally, suddenly ","accidentally, suddenly, unexpectedly, unintentionally",initial
+315,Day,GMD1995,XXXVI,abe,,west2630,gass-,AB:3,,,,,,together with,together,initial
+316,Day,GMD1995,XXXVI,abe,,west2630,gata-,AB:3,,,,,,"ready, prepared","prepared, ready",initial
+317,Day,GMD1995,XXXVI,abe,,west2630,gaw-,AB:3,,,,,,"lean, tip over","lean, tip over",initial
+318,Day,GMD1995,XXXVI,abe,,west2630,gawho-,AB:3,,,,,,"gain, win, acquire","acquire, gain, win",initial
+382,Day,GMD1995,XXXVIII,abe,,west2630,gawskw-,AB:3,,,,,,"to the finish, to the end, to exhaustion, to death; enough; exactly","enough, exactly, to (death) to (end), to (exhaustion) to (finish)",initial,,,,,,,,,,gwskw-
+319,Day,GMD1995,XXXVI,abe,,west2630,geb-,AB:3,,,,,,"shut, close, enclosure, stoppered up","close, enclosure, shut, stoppered up",initial
+320,Day,GMD1995,XXXVI,abe,,west2630,geda-,AB:3,,,,,,sink,sink,initial,,,,,,,,,,,,,,,,,,,,,,,,,see also gweda- 
+321,Day,GMD1995,XXXVI,abe,,west2630,gedemôg-,AB:3,,,,,,"pitiful, poor, miserable","miserable, pitiful, poor",initial
+322,Day,GMD1995,XXXVI,abe,,west2630,gejaw-,AB:3,,,,,,"joking, not serious","joking, not serious",initial,,,,,,,,,,gejo-
+323,Day,GMD1995,XXXVI,abe,,west2630,gejeg-,AB:3,,,,,,tickle,tickle,initial
+325,Day,GMD1995,XXXVI,abe,,west2630,gejig-,AB:3,,,,,,scratch,scratch,initial
+327,Day,GMD1995,XXXVI,abe,,west2630,gejok-,AB:3,,,,,,caress,caress,initial
+329,Day,GMD1995,XXXVI,abe,,west2630,gelab-,AB:3,,,,,,tie,tie,initial
+330,Day,GMD1995,XXXVI,abe,,west2630,gelad-,AB:3,,,,,,"hold by cold, freeze","cold, freeze",initial
+331,Day,GMD1995,XXXVI,abe,,west2630,gelami-,AB:3,,,,,,"amuse, take pleasure, joy","amuse, take (joy), take (pleasure)",initial
+332,Day,GMD1995,XXXVI,abe,,west2630,gelaps-,AB:3,,,,,,"grip, bite, grab","bite, grab, grip",initial
+333,Day,GMD1995,XXXVI,abe,,west2630,gelo-,AB:3,,,,,,"speak, talk","speak, talk",initial
+334,Day,GMD1995,XXXVI,abe,,west2630,gemoden-,AB:3,,,,,,steal,steal,initial
+335,Day,GMD1995,XXXVI,abe,,west2630,genesk-,AB:3,,,,,,"useless, worthless, unimportant, slight","slight, unimportant, useless, worthless",initial
+336,Day,GMD1995,XXXVI,abe,,west2630,gesin-,AB:3,,,,,,shiver,shiver,initial
+337,Day,GMD1995,XXXVI,abe,,west2630,geskw-,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see gwaskw- 
+339,Day,GMD1995,XXXVI,abe,,west2630,gez-,AB:3,,,,,,"quick, swift","quick, swift",initial
+340,Day,GMD1995,XXXVI,abe,,west2630,gezab-,AB:3,,,,,,"warm, hot","hot, warm",initial
+341,Day,GMD1995,XXXVII ,abe,,west2630,gezal-,AB:3,,,,,,love,love,initial
+342,Day,GMD1995,XXXVII ,abe,,west2630,gezips-,AB:3,,,,,,make a hissing noise,hiss,initial
+343,Day,GMD1995,XXXVII ,abe,,west2630,gia,AB:3,,,,,,"thou, you (singular)","thou, you",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+344,Day,GMD1995,XXXVII ,abe,,west2630,gib-,AB:3,,,,,,"tip over, overturn, prostrate, an upright object","overturn, prostrate, tip over, upright",initial
+358,Day,GMD1995,XXXVII ,abe,,west2630,git-,AB:3,,,,,,"big, great, old ","big, great, old ",initial,,,,,,,,,,gic- ,,,,,,,,,,,,,,,"(many words formed from git- do not have plurals because there the git- root implies the great one, e.g. gitaaden, getôma)"
+346,Day,GMD1995,XXXVII ,abe,,west2630,giga,AB:3,,,,,,cure,cure,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+347,Day,GMD1995,XXXVII ,abe,,west2630,gigij-,AB:3,,,,,,"tender, sensitive","sensitive, tender",initial
+348,Day,GMD1995,XXXVII ,abe,,west2630,gikh-,AB:3,,,,,,"injure by words, berate, insult ","berate, insult",initial
+349,Day,GMD1995,XXXVII ,abe,,west2630,giktah-,AB:3,,,,,,"poke, prod, nudge","nudge, poke, prod",initial
+350,Day,GMD1995,XXXVII ,abe,,west2630,giktam-,AB:3,,,,,,pay attention to,pay (attention),initial
+351,Day,GMD1995,XXXVII ,abe,,west2630,gikwsi-,AB:3,,,,,,whistle,whistle,initial
+352,Day,GMD1995,XXXVII ,abe,,west2630,gim-,AB:3,,,,,,"secretly, stealthily","secretly, stealthily",initial
+353,Day,GMD1995,XXXVII ,abe,,west2630,gin-,AB:3,,,,,,"intensifying element translated as very, much, strong, brave","brave, much, strong, very",initial
+354,Day,GMD1995,XXXVII ,abe,,west2630,giona,AB:3,,,,,,"1st plural personal pronoun exclusive, we, ours, us; i.e. he and I, they and I","ours, us, we",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+355,Day,GMD1995,XXXVII ,abe,,west2630,giowô,AB:3,,,,,,"you (plural, definite number)",you (plural),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+356,Day,GMD1995,XXXVII ,abe,,west2630,gip-,AB:3,,,,,,"moving to shore, going onto shore, away from the water, into the land ","away from (water), to (shore)",initial,,,,,,,,,,gp-,,,,,,,,,,,,,,,cf. zakh-
+357,Day,GMD1995,XXXVII ,abe,,west2630,gis-,AB:3,,,,,,cook,cook,initial
+359,Day,GMD1995,XXXVII ,abe,,west2630,gita-,AB:3,,,,,,"sharpen, whet","sharpen, whet",initial
+360,Day,GMD1995,XXXVII ,abe,,west2630,giw-,AB:3,,,,,,"around, about (perhaps aimlessly)","about, around",initial
+361,Day,GMD1995,XXXVII ,abe,,west2630,giz-,AB:3,,,,,,"can, be able to","able, can",initial
+362,Day,GMD1995,XXXVII ,abe,,west2630,giz- ,AB:3,,,,,,"complete, completed action, already, make, do","already, complete, do, make",initial
+363,Day,GMD1995,XXXVIII,abe,,west2630,goa,AB:3,,,,,,white pine tree,pine,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+368,Day,GMD1995,XXXVIII,abe,,west2630,gôb-,AB:3,,,,,,stand,stand,initial
+369,Day,GMD1995,XXXVIII,abe,,west2630,gôd-,AB:3,,,,,,"hide, hidden","hidden, hide",initial,,,,,,,,,,gôj-
+386,Day,GMD1995,XXXVIII,abe,,west2630,gwedegw-,AB:3,,,,,,"upset, overturn","overturn, upset",initial,,,,,,,,,,godegw-,,,,,,,,,,,,,,,cf. gweleb-
+370,Day,GMD1995,XXXVIII,abe,,west2630,gôgôgo-,AB:3,,,,,,dentate,dentate,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. kagad
+371,Day,GMD1995,XXXVIII,abe,,west2630,gôgow-,AB:3,,,,,,"saw toothed, dentate","dentate, saw-toothed",initial
+372,Day,GMD1995,XXXVIII,abe,,west2630,gôgsini-,AB:3,,,,,,"calm, aimless, lonely","aimless, calm, lonely",initial
+365,Day,GMD1995,XXXVIII,abe,,west2630,gokokh-,AB:3,,,,,,make the call of the owl,"call, owl",initial
+366,Day,GMD1995,XXXVIII,abe,,west2630,gottl-,AB:3,,,,,,mixed,mixed,initial
+374,Day,GMD1995,XXXVIII,abe,,west2630,gôw-,AB:3,,,,,,"rough, prickly, thorny","prickly, rough, thorny",initial
+367,Day,GMD1995,XXXVIII,abe,,west2630,goz-,AB:3,,,,,,away,away,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. gwôz
+376,Day,GMD1995,XXXVIII,abe,,west2630,gsini-,AB:3,,,,,,"lonesome, tiresome","lonesome, tiresome",initial
+377,Day,GMD1995,XXXVIII,abe,,west2630,gwagw-,AB:3,,,,,,push,push,initial
+378,Day,GMD1995,XXXVIII,abe,,west2630,gwagwad-,AB:3,,,,,,"try, attempt","attempt, try",initial
+379,Day,GMD1995,XXXVIII,abe,,west2630,gwagwah-,AB:3,,,,,,holler,holler,initial
+380,Day,GMD1995,XXXVIII,abe,,west2630,gwah-,AB:3,,,,,,"call, shout, or holler at someone","call, holler, shout",initial,,,,,,,,,,,,,,,,,,,,,,,,,"obsolescent, see gwagwah-"
+381,Day,GMD1995,XXXVIII,abe,,west2630,gwahli-,AB:3,,,,,,surprise,surprise,initial
+383,Day,GMD1995,XXXVIII,abe,,west2630,gwassôgw-,AB:3,,,,,,insult,insult,initial
+384,Day,GMD1995,XXXVIII,abe,,west2630,gwazia-,AB:3,,,,,,swallow,swallow,initial
+385,Day,GMD1995,XXXVIII,abe,,west2630,gweda-,AB:3,,,,,,sink,sink,initial,,,,,,,,,,geda-
+387,Day,GMD1995,XXXVIII,abe,,west2630,gwej-,AB:3,,,,,,"test, try","test, try",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. gwagwad- 
+388,Day,GMD1995,XXXIX,abe,,west2630,gweleb-,AB:3,,,,,,"turn over, turn around","turn around, turn over",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. gwedegw-
+389,Day,GMD1995,XXXIX,abe,,west2630,gwelegw-,AB:3,,,,,,"turn on axis, twist, roll","roll, turn (on axis), twist",initial
+390,Day,GMD1995,XXXIX,abe,,west2630,gwen-,AB:3,,,,,,"long, tall; long in space, dimension, or time","long, space, tall, time",initial
+391,Day,GMD1995,XXXIX,abe,,west2630,gwesi-,AB:3,,,,,,"respect, honor","honor, regard, respect",initial,,,,,,,,,,gwsi-
+392,Day,GMD1995,XXXIX,abe,,west2630,gwezia-,AB:3,,,,,,swallow,swallow,initial
+393,Day,GMD1995,XXXIX,abe,,west2630,gwikwesi-,AB:3,,,,,,whistle,whistle,initial
+394,Day,GMD1995,XXXIX,abe,,west2630,gwila-,AB:3,,,,,,"look for, search","look for, search",initial
+395,Day,GMD1995,XXXIX,abe,,west2630,gwilo-,AB:3,,,,,,search,search,initial
+396,Day,GMD1995,XXXIX,abe,,west2630,gwina,AB:3,,,,,,"such, many, large, very","large, many, such, very, QUANTITY",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+397,Day,GMD1995,XXXIX,abe,,west2630,gwita-,AB:3,,,,,,fear,fear,initial
+398,Day,GMD1995,XXXIX,abe,,west2630,gwôz-,AB:3,,,,,,"away, elsewhere, remove","away, elsewhere, remove",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. goz-
+402,Day,GMD1995,XXXIX,abe,,west2630,hl-,AB:3,,,,,,"tell, say to someone","say, tell",initial
+407,Day,GMD1995,XXXIX,abe,,west2630,ida,AB:3,,,,,,say,say,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+414,Day,GMD1995,XL,abe,,west2630,ikôl-,AB:3,,,,,,"defend, protect","defend, protect",initial
+415,Day,GMD1995,XL,abe,,west2630,il-,AB:3,,,,,,"while, during","during, while",initial
+422,Day,GMD1995,XL,abe,,west2630,izigan-,AB:3,,,,,,on one side,on (side),initial
+423,Day,GMD1995,XL,abe,,west2630,jajal-,AB:3,,,,,,incapable,incapable,initial
+424,Day,GMD1995,XL,abe,,west2630,jaji-,AB:3,,,,,,terrible,terrible,initial
+425,Day,GMD1995,XL,abe,,west2630,jajig-,AB:3,,,,,,"opposing, contrary","contrary, oppose",initial
+426,Day,GMD1995,XL,abe,,west2630,jan-,AB:3,,,,,,stop,stop,initial
+428,Day,GMD1995,XL,abe,,west2630,jeb-,AB:3,,,,,,"separate, apart; alone","alone, apart, separate",initial
+429,Day,GMD1995,XL,abe,,west2630,jega-,AB:3,,,,,,"ignite, kindle, light","ignite, kindle, light (V)",initial
+430,Day,GMD1995,XL,abe,,west2630,jesak-,AB:3,,,,,,scrape,scrape,initial
+431,Day,GMD1995,XL,abe,,west2630,jiba-,AB:3,,,,,,"a cross, a crossing",,initial
+432,Day,GMD1995,XL,abe,,west2630,jibag-,AB:3,,,,,,"terrible, ugly","terrible, ugly",initial
+433,Day,GMD1995,XL,abe,,west2630,jidan-,AB:3,,,,,,"stiff, hard (as leather), inflexible (as a bow), hard to work (as spruce gum), tough","hard, inflexible, stiff, tough",initial
+434,Day,GMD1995,XL,abe,,west2630,jig-,AB:3,,,,,,"let, allow","allow, let",initial
+435,Day,GMD1995,XL,abe,,west2630,jigôw-,AB:3,,,,,,"persist, keep going, keep doing even during difficulties","keep (doing), keep (going), persist",initial
+436,Day,GMD1995,XL,abe,,west2630,jil-,AB:3,,,,,,"wound; injure, bruise","bruise, injure, wound",initial
+437,Day,GMD1995,XL,abe,,west2630,jilj-,AB:3,,,,,,notch,notch,initial
+438,Day,GMD1995,XLI,abe,,west2630,jita-,AB:3,,,,,,"compressed, tight fitting, close together","close (A), compressed, tight",initial
+442,Day,GMD1995,XLI,abe,,west2630,kada-,AB:3,,,,,,"big, stout, thick, strong","big, stout, strong, thick",initial
+443,Day,GMD1995,XLI,abe,,west2630,kag-,AB:3,,,,,,all day,all (day),initial
+444,Day,GMD1995,XLI,abe,,west2630,kagad-,AB:3,,,,,,"scalloped, sawtoothed, dentate","dentate, saw-toothed, scalloped",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. gôgôgo-
+445,Day,GMD1995,XLI,abe,,west2630,kakk-,AB:3,,,,,,brittle,brittle,initial
+446,Day,GMD1995,XLI,abe,,west2630,kani,AB:3,,,,,,"calm, normal","calm, normal",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+447,Day,GMD1995,XLI,abe,,west2630,kask-,AB:3,,,,,,wide ,wide ,initial,,,,,,,,,,ksk-
+448,Day,GMD1995,XLI,abe,,west2630,kawakw-,AB:3,,,,,,"gather by picking, pulling, or plucking (not by cutting or digging)","gather, pick, pluck, pull",initial
+451,Day,GMD1995,XLI,abe,,west2630,keleg-,AB:3,,,,,,in strips or stripes,"strip, stripe",initial
+452,Day,GMD1995,XLI,abe,,west2630,kemô,AB:3,,,,,,louse,louse,initial,,,,,,,,,,,,,,,,,,,,,,,,,see akemô; free root
+453,Day,GMD1995,XLI,abe,,west2630,kepag-,AB:3,,,,,,thick,thick,initial
+455,Day,GMD1995,XLI,abe,,west2630,kezig-,AB:3,,,,,,"lame, sore","lame, sore",initial
+457,Day,GMD1995,XLI,abe,,west2630,kigôw-,AB:3,,,,,,orphaned,orphaned,initial
+459,Day,GMD1995,XLI,abe,,west2630,kikad-,AB:3,,,,,,"near to, close, nearby on the ground","close (A), near",initial
+460,Day,GMD1995,XLI,abe,,west2630,kikô-,AB:3,,,,,,curse,curse,initial
+462,Day,GMD1995,XLI,abe,,west2630,kina,AB:3,,,,,,"look, look at","look, look at",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+463,Day,GMD1995,XLII,abe,,west2630,kita,AB:3,,,,,,"listen, listen to or for","listen, listen for, listen to",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+467,Day,GMD1995,XLII,abe,,west2630,kôgw,AB:3,,,,,,porcupine,porcupine,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+468,Day,GMD1995,XLII,abe,,west2630,kôjo,AB:3,,,,,,vein,vein,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+464,Day,GMD1995,XLII,abe,,west2630,kokkw-,AB:3,,,,,,"lumpy, humpy","humpy, lumpy",initial
+469,Day,GMD1995,XLII,abe,,west2630,kôksw,AB:3,,,,,,"brittle wood, specifically white cedar","cedar (white), wood (brittle)",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+470,Day,GMD1995,XLII,abe,,west2630,ksibas,AB:3,,,,,,try to do something,try,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+471,Day,GMD1995,XLII,abe,,west2630,ksin-,AB:3,,,,,,"tiresome, boring; lonesome","boring, lonesome, tiresome",initial
+472,Day,GMD1995,XLII,abe,,west2630,ksk-,AB:3,,,,,,wide ,wide ,initial,,,,,,,,,,,,,,,,,,,,,,,,,see kask-
+473,Day,GMD1995,XLII,abe,,west2630,kska-,AB:3,,,,,,"short cut, short way",shortcut,initial
+474,Day,GMD1995,XLII,abe,,west2630,kskim-,AB:3,,,,,,"numb, paralyzed","numb, paralyzed",initial
+475,Day,GMD1995,XLII,abe,,west2630,kwahl-,AB:3,,,,,,"near, nearby",near,initial,,,,,,,,,,,,,,,,,,,,,,,,,see basod-
+476,Day,GMD1995,XLII,abe,,west2630,kwaj-,AB:3,,,,,,"outside, outdoors","outdoors, outside",initial
+477,Day,GMD1995,XLII,abe,,west2630,kwalagw-,AB:3,,,,,,concave,concave,initial
+478,Day,GMD1995,XLII,abe,,west2630,kwat,AB:3,,,,,,"bark container, cup, now also bowl, pitcher","bowl, container, cup, pitcher",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+479,Day,GMD1995,XLII,abe,,west2630,kwata-,AB:3,,,,,,mistrust,mistrust,initial
+480,Day,GMD1995,XLII,abe,,west2630,kwedaz-,AB:3,,,,,,"out of sight, unseen","out (of sight), unseen",initial
+482,Day,GMD1995,XLII,abe,,west2630,kwezôwa-,AB:3,,,,,,"pulled out, stretched out, extended (especially in a curve or hook)","extended, pulled out, stretched out",initial
+483,Day,GMD1995,XLII,abe,,west2630,la,AB:3,,,,,,be true,true,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+484,Day,GMD1995,XLII,abe,,west2630,ladab-,AB:3,,,,,,creep or run like certain plants,"creep (of a plant), run (of a plant)",initial
+485,Day,GMD1995,XLII,abe,,west2630,ladaka,AB:3,,,,,,"act, behave, conduct oneself","act, behave, conduct (oneself)",initial,,,,,,,,,,wadaka,,,,,,,,,,,,,,,"cf. wadaka, lamto; free root"
+486,Day,GMD1995,XLII,abe,,west2630,ladegwa-,AB:3,,,,,,sew around something (a moccasin making term),sew around,initial
+487,Day,GMD1995,XLIII,abe,,west2630,lag-,AB:3,,,,,,scrape or work to soften a hide,"scrape (hide), soften (hide), work (hide)",initial
+489,Day,GMD1995,XLIII,abe,,west2630,lagi-,AB:3,,,,,,"direct, order, send","direct, order, send",initial
+490,Day,GMD1995,XLIII,abe,,west2630,lahôdo,AB:3,,,,,,"run, rut, feed, be active as an animal","feed, run, rut",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+491,Day,GMD1995,XLIII,abe,,west2630,laka,AB:3,,,,,,throw; hoe,"hoe, throw",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+492,Day,GMD1995,XLIII,abe,,west2630,lakann-,AB:3,,,,,,travel,travel,initial
+493,Day,GMD1995,XLIII,abe,,west2630,lal-,AB:3,,,,,,"believe, think","believe, think",initial
+494,Day,GMD1995,XLIII,abe,,west2630,lalômo,AB:3,,,,,,make vocal sound,sound,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+495,Day,GMD1995,XLIII,abe,,west2630,lamto,AB:3,,,,,,"behave, act","act, behave",initial,,,,,,,,,,,,,,,,,,,,,,,,,"cf. ladaka, wadaka; free root"
+496,Day,GMD1995,XLIII,abe,,west2630,latag-,AB:3,,,,,,"pull out into a rope or string-like form, spin","pull out (string-like), rope, spin",initial
+497,Day,GMD1995,XLIII,abe,,west2630,lats-,AB:3,,,,,,"color, dye","color, dye",initial
+498,Day,GMD1995,XLIII,abe,,west2630,lawaka,AB:3,,,,,,"use something, use it",use,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+499,Day,GMD1995,XLIII,abe,,west2630,legwas-,AB:3,,,,,,dream,dream,initial
+500,Day,GMD1995,XLIII,abe,,west2630,lejag-,AB:3,,,,,,"knead as bread, mix as cement","knead, mix",initial
+501,Day,GMD1995,XLIII,abe,,west2630,lemi-,AB:3,,,,,,"coax, wheedle, lure by promises","coax, lure, wheedle",initial
+502,Day,GMD1995,XLIII,abe,,west2630,lenô-,AB:3,,,,,,"sniff, inhale","inhale, sniff",initial
+504,Day,GMD1995,XLIII,abe,,west2630,les-,AB:3,,,,,,lie down flat,lie down (flat),initial
+503,Day,GMD1995,XLIII,abe,,west2630,leseda,AB:3,,,,,,"hear something, learn by hearing","hear, learn",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+505,Day,GMD1995,XLIII,abe,,west2630,leskan-,AB:3,,,,,,weave,weave,initial
+506,Day,GMD1995,XLIII,abe,,west2630,lez-,AB:3,,,,,,cut,cut,initial
+507,Day,GMD1995,XLIII,abe,,west2630,li,AB:3,,,,,,"to, towards, until, at, like, as","as, at, like, to, towards, until",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+508,Day,GMD1995,XLIII,abe,,west2630,libia-,AB:3,,,,,,paddle,paddle,initial
+509,Day,GMD1995,XLIII,abe,,west2630,lidahô-,AB:3,,,,,,think,think,initial
+510,Day,GMD1995,XLIII,abe,,west2630,lido-,AB:3,,,,,,"fly (in general), fly towards something",fly (V),initial
+511,Day,GMD1995,XLIII,abe,,west2630,lig-,AB:3,,,,,,be (in a state or condition or nature),"condition, nature, state (N), STATE",initial
+512,Day,GMD1995,XLIII,abe,,west2630,ligeba-,AB:3,,,,,,"in longitudinal strips, lengthwise","lengthwise, strip",initial
+513,Day,GMD1995,XLIV,abe,,west2630,ligeda,AB:3,,,,,,jump,jump,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+514,Day,GMD1995,XLIV,abe,,west2630,ligw-,AB:3,,,,,,roll,roll,initial
+515,Day,GMD1995,XLIV,abe,,west2630,lihl-,AB:3,,,,,,move to or towards,move to,initial
+516,Day,GMD1995,XLIV,abe,,west2630,lijoa-,AB:3,,,,,,flow as a stream of liquid,flow,initial
+517,Day,GMD1995,XLIV,abe,,west2630,lijowab-,AB:3,,,,,,"peddle, travel selling","peddle, sell",initial
+518,Day,GMD1995,XLIV,abe,,west2630,likmôz,AB:3,,,,,,shave (as wood),shave (wood),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+519,Day,GMD1995,XLIV,abe,,west2630,likwagi-,AB:3,,,,,,bleed,bleed,initial
+520,Day,GMD1995,XLIV,abe,,west2630,limôgw-,AB:3,,,,,,"smell of something, have a certain odor","odor, smell (V)",initial
+521,Day,GMD1995,XLIV,abe,,west2630,lina-,AB:3,,,,,,"seem, feel, appear like","appear, feel, seem",initial
+522,Day,GMD1995,XLIV,abe,,west2630,linto,AB:3,,,,,,sing,sing,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+523,Day,GMD1995,XLIV,abe,,west2630,linton-,AB:3,,,,,,accept something,accept,initial
+524,Day,GMD1995,XLIV,abe,,west2630,lio-,AB:3,,,,,,"do something to, treat","do, treat",initial
+525,Day,GMD1995,XLIV,abe,,west2630,lipo,AB:3,,,,,,eat,eat,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+526,Day,GMD1995,XLIV,abe,,west2630,lipod-,AB:3,,,,,,rub,rub,initial
+527,Day,GMD1995,XLIV,abe,,west2630,lita-,AB:3,,,,,,flow as liquid,flow,initial
+528,Day,GMD1995,XLIV,abe,,west2630,litôgw,AB:3,,,,,,be heard,heard,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+529,Day,GMD1995,XLIV,abe,,west2630,liwi-,AB:3,,,,,,"name, call","call, name",initial
+534,Day,GMD1995,XLIV,abe,,west2630,lôb-,AB:3,,,,,,see,see,initial
+535,Day,GMD1995,XLIV,abe,,west2630,lôba-,AB:3,,,,,,use,use,initial
+536,Day,GMD1995,XLIV,abe,,west2630,lôbag-,AB:3,,,,,,braid,braid,initial
+537,Day,GMD1995,XLIV,abe,,west2630,lôbagia-,AB:3,,,,,,swing,swing,initial
+538,Day,GMD1995,XLIV,abe,,west2630,lôbas-,AB:3,,,,,,cut into strips,cut (strip),initial
+539,Day,GMD1995,XLV,abe,,west2630,lôbata-,AB:3,,,,,,knock or rap on something,"knock, rap",initial
+540,Day,GMD1995,XLV,abe,,west2630,lôbedal-,AB:3,,,,,,laugh at ,laugh at ,initial,,,,,,,,,,ôbedal-
+541,Day,GMD1995,XLV,abe,,west2630,lôbiks-,AB:3,,,,,,"make a pack, pack up, i.e. get ready to go","get (ready), make (pack), pack, prepare",initial,,,,,,,,,,ôbiks-
+542,Day,GMD1995,XLV,abe,,west2630,lôdaw-,AB:3,,,,,,climb,climb,initial
+543,Day,GMD1995,XLV,abe,,west2630,lôdo-,AB:3,,,,,,speak,speak,initial
+544,Day,GMD1995,XLV,abe,,west2630,lôg-,AB:3,,,,,,"bent, shaped in a curve","bent, curved",initial
+545,Day,GMD1995,XLV,abe,,west2630,lôgo-,AB:3,,,,,,"relation, be related",related,initial
+531,Day,GMD1995,XLIV,abe,,west2630,lokwa,AB:3,,,,,,chop wood,chop (wood),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+532,Day,GMD1995,XLIV,abe,,west2630,lokwaz-,AB:3,,,,,,"call, call out, holler, make sound","call, holler, make (sound)",initial
+533,Day,GMD1995,XLIV,abe,,west2630,lolo,AB:3,,,,,,a boogey man ,boogeyman,initial,,,,,,,,,,,,,,,,,,,,,,,,,child language; free root
+546,Day,GMD1995,XLV,abe,,west2630,lômps-,AB:3,,,,,,decorate,decorate,initial
+547,Day,GMD1995,XLV,abe,,west2630,lômpski-,AB:3,,,,,,pimply,pimply,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. baziz-
+548,Day,GMD1995,XLV,abe,,west2630,lôpt-,AB:3,,,,,,"make tracks, leave a trail","track (N), trail (N)",initial
+549,Day,GMD1995,XLV,abe,,west2630,lôwad-,AB:3,,,,,,"have value, be worth","valuable, value, worth",initial,,,,,,,,,,ôwad-
+550,Day,GMD1995,XLV,abe,,west2630,lôwz-,AB:3,,,,,,"live, be alive","alive, live (V)",initial
+561,Day,GMD1995,XLV,abe,,west2630,maha-,AB:3,,,,,,"collect, gather","collect, gather",initial,,,,,,,,,,maa,,,,,,,,,,,,,,,commonly maa- 
+552,Day,GMD1995,XLV,abe,,west2630,maahôw-,AB:3,,,,,,"take, seize","seize, take",initial
+562,Day,GMD1995,XLV,abe,,west2630,mahana-,AB:3,,,,,,"gather to keep, work to acquire; be greedy","acquire, gather, greedy",initial,,,,,,,,,,maana-
+554,Day,GMD1995,XLV,abe,,west2630,mac-,AB:3,,,,,,"finish, end, complete","complete, end, finish",initial
+555,Day,GMD1995,XLV,abe,,west2630,mad-,AB:3,,,,,,bad,bad,initial,,,,,,,,,,maj-
+556,Day,GMD1995,XLV,abe,,west2630,madaw-,AB:3,,,,,,"lame, crippled","crippled, lame",initial
+557,Day,GMD1995,XLV,abe,,west2630,maga,AB:3,,,,,,give away,give away,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+558,Day,GMD1995,XLV,abe,,west2630,mago,AB:3,,,,,,defecate,defecate,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+559,Day,GMD1995,XLV,abe,,west2630,magôl-,AB:3,,,,,,shovel,shovel,initial
+560,Day,GMD1995,XLV,abe,,west2630,magwi-,AB:3,,,,,,swell,swell,initial
+563,Day,GMD1995,XLV,abe,,west2630,mahl-,AB:3,,,,,,hardwood,hardwood,initial
+565,Day,GMD1995,XLVI,abe,,west2630,mahôdo-,AB:3,,,,,,"go about, be active; be a supernatural one","active, go (about), supernatural",initial
+568,Day,GMD1995,XLVI,abe,,west2630,majim-,AB:3,,,,,,always,always,initial,,,,,,,,,,,,,,,,,,,,,,,,,"cf. waid-, waij-"
+569,Day,GMD1995,XLVI,abe,,west2630,maksa,AB:3,,,,,,blanket,blanket,initial,,,,,,,,,,,,,,,,,,,,,,,,,see masksa; free root
+570,Day,GMD1995,XLVI,abe,,west2630,mama,AB:3,,,,,,pileated woodpecker,woodpecker,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+571,Day,GMD1995,XLVI,abe,,west2630,mamasag-,AB:3,,,,,,nude,"naked, nude",initial,,,,,,,,,,bask-
+572,Day,GMD1995,XLVI,abe,,west2630,mamaska-,AB:3,,,,,,toad,toad,initial,,,,,,,,,,,,,,,,,,,,,,,,,see maska
+573,Day,GMD1995,XLVI,abe,,west2630,mamedaw-,AB:3,,,,,,excellect,excellect,initial
+574,Day,GMD1995,XLVI,abe,,west2630,mamesan-,AB:3,,,,,,"mock, ridicule","mock, ridicule",initial
+575,Day,GMD1995,XLVI,abe,,west2630,mamhlaw-,AB:3,,,,,,"much, great","great, much, QUANTITY",initial
+576,Day,GMD1995,XLVI,abe,,west2630,mamil-,AB:3,,,,,,"away from the shore, in the middle, in the deep","away (from shore), deep, middle",initial
+577,Day,GMD1995,XLVI,abe,,west2630,mamôgim-,AB:3,,,,,,"disparage, denigrate","denigrate, disparage",initial
+578,Day,GMD1995,XLVI,abe,,west2630,man-,AB:3,,,,,,"direct; sudden, straight","direct, straight, sudden",initial
+579,Day,GMD1995,XLVI,abe,,west2630,mandokwa,AB:3,,,,,,ponder a problem,ponder,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+580,Day,GMD1995,XLVI,abe,,west2630,mann-,AB:3,,,,,,"slow, slowly",slow,initial
+581,Day,GMD1995,XLVI,abe,,west2630,mano-,AB:3,,,,,,buy,buy,initial
+582,Day,GMD1995,XLVI,abe,,west2630,manosa-,AB:3,,,,,,"starve, fast","fast, starve",initial
+583,Day,GMD1995,XLVI,abe,,west2630,mao-,AB:3,,,,,,contact,contact,initial
+566,Day,GMD1995,XLVI,abe,,west2630,mahôw-,AB:3,,,,,,"chief, principle, head","chief, head, principle",initial,,,,,,,,,,commonly maôw-
+584,Day,GMD1995,XLVI,abe,,west2630,maôw-,AB:3,,,,,,"exact, correct","correct, exact",initial,,,,,,,,,,,,,,,,,,,,,,,,,see mahôw
+585,Day,GMD1995,XLVI,abe,,west2630,mask-,AB:3,,,,,,female genitals ,genitalia (female),initial
+588,Day,GMD1995,XLVI,abe,,west2630,maskwa,AB:3,,,,,,"paper, birch bark","birch bark, paper",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+589,Day,GMD1995,XLVII,abe,,west2630,mat-,AB:3,,,,,,"end, finish","end, finish",initial
+590,Day,GMD1995,XLVII,abe,,west2630,mawi-,AB:3,,,,,,better,better,initial
+591,Day,GMD1995,XLVII,abe,,west2630,maz-,AB:3,,,,,,"remove, clear","clear (V), remove",initial
+592,Day,GMD1995,XLVII,abe,,west2630,medas,AB:3,,,,,,"legging, stocking","legging, stocking",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+593,Day,GMD1995,XLVII,abe,,west2630,medas-,AB:3,,,,,,"the youngest, the baby","baby, young",initial
+594,Day,GMD1995,XLVII,abe,,west2630,medaw-,AB:3,,,,,,"good, fine, acceptable, passable, nice","acceptable, fine, good, nice, passable",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. môdaw-
+646,Day,GMD1995,XLIX,abe,,west2630,môdaw-,AB:3,,,,,,"rather good, fairly well, all right","all right, good, well",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. medaw-
+595,Day,GMD1995,XLVII,abe,,west2630,medawl-,AB:3,,,,,,spirit power,"power, spirit",initial
+596,Day,GMD1995,XLVII,abe,,west2630,megen-,AB:3,,,,,,choose ,choose ,initial
+597,Day,GMD1995,XLVII,abe,,west2630,megi,AB:3,,,,,,scab,scab,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+598,Day,GMD1995,XLVII,abe,,west2630,megos,AB:3,,,,,,vocal sound or call of an animal,"call (N), sound",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+599,Day,GMD1995,XLVII,abe,,west2630,mejej-,AB:3,,,,,,"internal, inside a person or animal","inside, internal",initial
+600,Day,GMD1995,XLVII,abe,,west2630,mejes-,AB:3,,,,,,the last,last,initial
+601,Day,GMD1995,XLVII,abe,,west2630,mekw-,AB:3,,,,,,red,red,initial,,,,,,,,,,mkw- ,,,,,,,,,,,,,,,see meskw-
+602,Day,GMD1995,XLVII,abe,,west2630,meli,AB:3,,,,,,pus,pus,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+603,Day,GMD1995,XLVII,abe,,west2630,melik-,AB:3,,,,,,"strong, stout","stout, strong",initial
+604,Day,GMD1995,XLVII,abe,,west2630,melisj-,AB:3,,,,,,"cry, weep","cry, weep",initial
+605,Day,GMD1995,XLVII,abe,,west2630,melj-,AB:3,,,,,,hand,hand,initial
+606,Day,GMD1995,XLVII,abe,,west2630,melôd-,AB:3,,,,,,"smell, recieve or detect an odor",smell (V),initial
+607,Day,GMD1995,XLVII,abe,,west2630,men-,AB:3,,,,,,"separate, discrete, distinct, apart, isolated, (scattered)","apart, discrete, distinct, isolated, scattered, separate",initial
+608,Day,GMD1995,XLVII,abe,,west2630,menoda,AB:3,,,,,,bag,bag,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+609,Day,GMD1995,XLVII,abe,,west2630,menon-,AB:3,,,,,,smooth,smooth,initial
+610,Day,GMD1995,XLVII,abe,,west2630,mes-,AB:3,,,,,,big,"big, great, large",initial,,,,,,,,,,ms-
+611,Day,GMD1995,XLVII,abe,,west2630,meska-,AB:3,,,,,,find,find,initial
+614,Day,GMD1995,XLVIII,abe,,west2630,meza-,AB:3,,,,,,"freeze, frozen","freeze, frozen",initial
+615,Day,GMD1995,XLVIII,abe,,west2630,meze-,AB:3,,,,,,"get, find, promise, obtain","find, get, obtain, promise (V)",initial
+616,Day,GMD1995,XLVIII,abe,,west2630,mezi-,AB:3,,,,,,all,all,initial
+617,Day,GMD1995,XLVIII,abe,,west2630,mezik-,AB:3,,,,,,"bottom, low","bottom, low",initial
+618,Day,GMD1995,XLVIII,abe,,west2630,mici,AB:3,,,,,,eat (AI),eat,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+619,Day,GMD1995,XLVIII,abe,,west2630,miga-,AB:3,,,,,,"fight, war","fight, war",initial
+620,Day,GMD1995,XLVIII,abe,,west2630,migwen,AB:3,,,,,,feather,feather,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+621,Day,GMD1995,XLVIII,abe,,west2630,mij-,AB:3,,,,,,eat (TI),eat,initial
+622,Day,GMD1995,XLVIII,abe,,west2630,mijeb-,AB:3,,,,,,contain,contain,initial
+623,Day,GMD1995,XLVIII,abe,,west2630,mika-,AB:3,,,,,,find,find,initial
+624,Day,GMD1995,XLVIII,abe,,west2630,mikaw-,AB:3,,,,,,"find something new, discover","discover, find",initial,,,,,,,,,,miko-
+626,Day,GMD1995,XLVIII,abe,,west2630,mikoa,AB:3,,,,,,squirrel,squirrel,initial
+627,Day,GMD1995,XLVIII,abe,,west2630,mikom-,AB:3,,,,,,advise,advise,initial
+628,Day,GMD1995,XLVIII,abe,,west2630,mikw-,AB:3,,,,,,remember,remember,initial
+629,Day,GMD1995,XLVIII,abe,,west2630,mil-,AB:3,,,,,,give something to someone,give,initial
+630,Day,GMD1995,XLVIII,abe,,west2630,mil-,AB:3,,,,,,"much, many","many, much, QUANTITY",initial
+631,Day,GMD1995,XLVIII,abe,,west2630,mileg-,AB:3,,,,,,"many different things, kinds, or ways","many, much, QUANTITY",initial
+632,Day,GMD1995,XLVIII,abe,,west2630,min-,AB:3,,,,,,"berry, fruit, seed","berry, fruit, seed",initial
+633,Day,GMD1995,XLVIII,abe,,west2630,mina,AB:3,,,,,,again,again,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+634,Day,GMD1995,XLVIII,abe,,west2630,mish-,AB:3,,,,,,repair by sewing,"repair, sew",initial
+635,Day,GMD1995,XLVIII,abe,,west2630,mizwa,AB:3,,,,,,dandruff,dandruff,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+636,Day,GMD1995,XLIX,abe,,west2630,mkaza,AB:3,,,,,,black,black,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+645,Day,GMD1995,XLIX,abe,,west2630,môd-,AB:3,,,,,,move   ,"begin, depart, move, start",initial,,,,,,,,,,môj-
+642,Day,GMD1995,XLIX,abe,,west2630,mowa-,AB:3,,,,,,eat (TA),eat,initial,,,,,,,,,,moha-
+648,Day,GMD1995,XLIX,abe,,west2630,môl-,AB:3,,,,,,"marked, striped","marked, striped",initial
+649,Day,GMD1995,XLIX,abe,,west2630,môlh-,AB:3,,,,,,"strange, curious, odd ","curious, odd, strange",initial,,,,,,,,,,,,,,,,,,,,,,,,,see also môshag-
+639,Day,GMD1995,XLIX,abe,,west2630,molô-,AB:3,,,,,,deep,deep,initial
+650,Day,GMD1995,XLIX,abe,,west2630,mômji-,AB:3,,,,,,congratulate,congratulate,initial
+651,Day,GMD1995,XLIX,abe,,west2630,mômôg-,AB:3,,,,,,"hasty, expedient, rough in an emergency","expedient, hasty, rough",initial
+652,Day,GMD1995,XLIX,abe,,west2630,môshag-,AB:3,,,,,,"strange, queer","queer, strange",initial,,,,,,,,,,ôshag-,,,,,,,,,,,,,,,cf. môlh-
+640,Day,GMD1995,XLIX,abe,,west2630,mosk-,AB:3,,,,,,"emerge (as from hiding, water, cover)",emerge,initial
+653,Day,GMD1995,XLIX,abe,,west2630,môw-,AB:3,,,,,,"together, grouped","grouped, together",initial
+643,Day,GMD1995,XLIX,abe,,west2630,moz,AB:3,,,,,,moose ,moose ,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+644,Day,GMD1995,XLIX,abe,,west2630,mozema-,AB:3,,,,,,cut hair,cut (hair),initial
+655,Day,GMD1995,XLIX,abe,,west2630,msal-,AB:3,,,,,,"much, many","many, much, QUANTITY",initial
+656,Day,GMD1995,XLIX,abe,,west2630,msk-,AB:3,,,,,,grass,grass,initial
+657,Day,GMD1995,XLIX,abe,,west2630,mska-,AB:3,,,,,,"to the side, aside",aside,initial,,,,,,,,,,pska-,,,,,,,,,,,,,,,cf. abic-
+658,Day,GMD1995,XLIX,abe,,west2630,mskag,AB:3,,,,,,black spruce,spruce (black),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+659,Day,GMD1995,XLIX,abe,,west2630,mskask,AB:3,,,,,,red spruce,spruce (red),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+660,Day,GMD1995,XLIX,abe,,west2630,mskaw-,AB:3,,,,,,"esteem, praise","esteem, praise",initial
+661,Day,GMD1995,L,abe,,west2630,mski-,AB:3,,,,,,"still, quiet, dead (with reference to water)","dead (water), quiet (water), still (A)",initial
+663,Day,GMD1995,L,abe,,west2630,mt-,AB:3,,,,,,"exposed, in sight, in the open","exposed, visible",initial
+664,Day,GMD1995,L,abe,,west2630,naai-,AB:3,,,,,,downstream,downstream,initial,,,,,,,,,,,,,,,,,,,,,,,,,see nahai-
+665,Day,GMD1995,L,abe,,west2630,naaz-,AB:3,,,,,,get out of the way,out of (the way),initial
+666,Day,GMD1995,L,abe,,west2630,nadawa-,AB:3,,,,,,"scout around, spy","scout (V), spy (V)",initial
+667,Day,GMD1995,L,abe,,west2630,nademi-,AB:3,,,,,,"lend, loan, give for a while","lend, loan",initial
+668,Day,GMD1995,L,abe,,west2630,nadial-,AB:3,,,,,,hunt,hunt,initial
+669,Day,GMD1995,L,abe,,west2630,nadod-,AB:3,,,,,,"ask, query, question","ask, query, question",initial
+670,Day,GMD1995,L,abe,,west2630,nadon-,AB:3,,,,,,cut cards,cut (cards),initial
+671,Day,GMD1995,L,abe,,west2630,nagak-,AB:3,,,,,,"soil, sand","sand, soil",initial
+672,Day,GMD1995,L,abe,,west2630,nagw-,AB:3,,,,,,under,under,initial
+674,Day,GMD1995,L,abe,,west2630,nahama,AB:3,,,,,,turkey,turkey,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+675,Day,GMD1995,L,abe,,west2630,nakô-,AB:3,,,,,,"all of a group, unanimous","all, unanimous",initial
+676,Day,GMD1995,L,abe,,west2630,nakwal-,AB:3,,,,,,next in a sequence,next,initial
+677,Day,GMD1995,L,abe,,west2630,nakwh-,AB:3,,,,,,sneeze,sneeze,initial
+678,Day,GMD1995,L,abe,,west2630,nalaw-,AB:3,,,,,,"everywhere, all over, here and there","all over, everywhere, here and there",initial
+679,Day,GMD1995,L,abe,,west2630,nami-,AB:3,,,,,,"see, observe","observe, see",initial
+680,Day,GMD1995,L,abe,,west2630,nana-,AB:3,,,,,,"awkward, incomplete, poorly","awkward, incomplete, poorly",initial
+681,Day,GMD1995,L,abe,,west2630,nanakôj-,AB:3,,,,,,"confused, careless, awkward","awkward, careless, confused",initial
+682,Day,GMD1995,L,abe,,west2630,nanam-,AB:3,,,,,,"shake, tremble, sway, rock","rock (V), shake, sway, tremble",initial
+683,Day,GMD1995,L,abe,,west2630,nananhi-,AB:3,,,,,,"by chance, accidentally","accidentally, by chance",initial
+684,Day,GMD1995,L,abe,,west2630,nanawal-,AB:3,,,,,,take care of,take (care of),initial
+685,Day,GMD1995,L,abe,,west2630,nanawôb-,AB:3,,,,,,"be on the lookout, stand watch, watch for","on (the lookout), watch for",initial
+686,Day,GMD1995,L,abe,,west2630,nanazaw-,AB:3,,,,,,"conserve, save","conserve, save",initial
+687,Day,GMD1995,LI,abe,,west2630,nani-,AB:3,,,,,,"ordinary, common","common, ordinary",initial
+688,Day,GMD1995,LI,abe,,west2630,nanôbal-,AB:3,,,,,,"careless, clumsy, inattentive","careless, clumsy, inattentive",initial
+689,Day,GMD1995,LI,abe,,west2630,nanôdegew-,AB:3,,,,,,blind,blind,initial
+690,Day,GMD1995,LI,abe,,west2630,naod-,AB:3,,,,,,"towards the speaker, to here, hither","hither, to here, toward (speaker)",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. nawa
+691,Day,GMD1995,LI,abe,,west2630,naoza-,AB:3,,,,,,pursue game animal (usually by following tracks),"pursue (animal), track (V)",initial
+692,Day,GMD1995,LI,abe,,west2630,nas,AB:3,,,,,,three,three,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+693,Day,GMD1995,LI,abe,,west2630,nas-,AB:3,,,,,,put on an article of clothing,put on (clothing),initial
+694,Day,GMD1995,LI,abe,,west2630,nasa,AB:3,,,,,,breathe,breathe,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+695,Day,GMD1995,LI,abe,,west2630,naska-,AB:3,,,,,,"continual, endless","continual, endless",initial
+696,Day,GMD1995,LI,abe,,west2630,naskwa-,AB:3,,,,,,comb,comb,initial
+697,Day,GMD1995,LI,abe,,west2630,natam-,AB:3,,,,,,first one in a series,first,initial,,,,,,,,,,nitam-
+698,Day,GMD1995,LI,abe,,west2630,nawa,AB:3,,,,,,"come, come here ",come,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. naod-; free root
+699,Day,GMD1995,LI,abe,,west2630,nawad-,AB:3,,,,,,"stop or pause in a journey, stay over","pause, stay over, stop",initial
+700,Day,GMD1995,LI,abe,,west2630,nawaskw-,AB:3,,,,,,"bow head, bent head","bow (head), bent (head)",initial
+701,Day,GMD1995,LI,abe,,west2630,nbakad-,AB:3,,,,,,"deceive, trick","deceive, trick",initial
+829,Day,GMD1995,LVI,abe,,west2630,ôda,AB:3,,,,,,"no, not","no, not",initial,,,,,,,,,,nda,,,,,,,,,,,,,,,free root
+703,Day,GMD1995,LI,abe,,west2630,negem-,AB:3,,,,,,easy,easy,initial,,,,,,,,,,ngem-
+704,Day,GMD1995,LI,abe,,west2630,negôn-,AB:3,,,,,,"old, ancient","ancient, old",initial
+705,Day,GMD1995,LI,abe,,west2630,negwed-,AB:3,,,,,,one in a series,one,initial,,,,,,,,,,"negwej-, ngwed-"
+708,Day,GMD1995,LI,abe,,west2630,negwit-,AB:3,,,,,,"by self, alone",alone,initial,,,,,,,,,,negwic-
+709,Day,GMD1995,LI,abe,,west2630,nekihl-,AB:3,,,,,,"fall, go down","fall, go down",initial
+710,Day,GMD1995,LI,abe,,west2630,nemi-,AB:3,,,,,,"lead astray, get into trouble, seduce","get into (trouble), lead (astray), seduce",initial
+711,Day,GMD1995,LII,abe,,west2630,nesk-,AB:3,,,,,,"unpleasant, disrupting, troublesome, disagreeable","disagreeable, disrupting, troublesome, unpleasant",initial
+714,Day,GMD1995,LII,abe,,west2630,ngwej-,AB:3,,,,,,NG,,initial
+715,Day,GMD1995,LII,abe,,west2630,nibao-,AB:3,,,,,,marry,marry,initial
+716,Day,GMD1995,LII,abe,,west2630,nibe-,AB:3,,,,,,summer,summer,initial
+717,Day,GMD1995,LII,abe,,west2630,nibô-,AB:3,,,,,,night,night,initial
+718,Day,GMD1995,LII,abe,,west2630,nidazo,AB:3,,,,,,a domestic animal,animal (domestic),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+719,Day,GMD1995,LII,abe,,west2630,nigidaw-,AB:3,,,,,,"forked, divided","divided, forked",initial
+720,Day,GMD1995,LII,abe,,west2630,nihl-,AB:3,,,,,,kill,kill,initial
+722,Day,GMD1995,LII,abe,,west2630,nikôn-,AB:3,,,,,,"first or next in time or place, ahead, in front","ahead, first, in (front), next",initial
+723,Day,GMD1995,LII,abe,,west2630,nikwôb-,AB:3,,,,,,now,now,initial
+724,Day,GMD1995,LII,abe,,west2630,nimsk-,AB:3,,,,,,"get, fetch, go for","fetch, get, go for",initial
+726,Day,GMD1995,LII,abe,,west2630,niton-,AB:3,,,,,,"accept, receive ","accept, adopt, receive ",initial,,,,,,,,,,nton-
+727,Day,GMD1995,LII,abe,,west2630,niwask-,AB:3,,,,,,divine spirit,spirit,initial
+728,Day,GMD1995,LII,abe,,west2630,nkag-,AB:3,,,,,,all day,all (day),initial
+729,Day,GMD1995,LII,abe,,west2630,nkam-,AB:3,,,,,,out of sight,out (of sight),initial
+730,Day,GMD1995,LII,abe,,west2630,nkasa-,AB:3,,,,,,"put out, extinguish","extinguish, put out",initial
+731,Day,GMD1995,LII,abe,,west2630,nkawa-,AB:3,,,,,,hope,hope,initial
+751,Day,GMD1995,LIII,abe,,west2630,nôb-,AB:3,,,,,,"like, similar","like, similar",initial
+752,Day,GMD1995,LIII,abe,,west2630,nôba-,AB:3,,,,,,male (in the names of certain animals),male (animal),initial
+820,Day,GMD1995,LVI,abe,,west2630,ôba-,AB:3,,,,,,"knock, rap ","knock, rap",initial,,,,,,,,,,nôba-
+734,Day,GMD1995,LIII,abe,,west2630,nod ... igad,AB:3,,,,,,one who does ... as a trade or profession,AGENT,initial,,,,,,,,,,noj ... igad,,,,,,,,,,,,,,,free root
+732,Day,GMD1995,LII,abe,,west2630,nod-,AB:3,,,,,,(Followed by a participle means being by trade or profession the one who does ... for a living or as a speciality),AGENT,initial,,,,,,,,,,noji-,,,,,,,,,,,,,,,see nod... igad
+733,Day,GMD1995,LII,abe,,west2630,nod-,AB:3,,,,,,hear,hear,initial
+754,Day,GMD1995,LIII,abe,,west2630,nôd-,AB:3,,,,,,"(purposive preverb) going to, be about to, in process of","about to, going to, in (process)",initial
+735,Day,GMD1995,LIII,abe,,west2630,noda-,AB:3,,,,,,"lack, be short of, deficient, be in short supply ","be (short of), deficient, lack",initial,,,,,,,,,,,,,,,,,,,,,,,,,see also nodô-
+736,Day,GMD1995,LIII,abe,,west2630,nodô-,AB:3,,,,,,less,less,initial
+755,Day,GMD1995,LIII,abe,,west2630,nôg-,AB:3,,,,,,"soon to be, almost","almost, soon",initial
+739,Day,GMD1995,LIII,abe,,west2630,nojoka,AB:3,,,,,,touch,touch,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+740,Day,GMD1995,LIII,abe,,west2630,nok-,AB:3,,,,,,"soft, loose","loose, soft",initial
+741,Day,GMD1995,LIII,abe,,west2630,nolem-,AB:3,,,,,,"weak, mild, soft","mild, soft, weak",initial
+742,Day,GMD1995,LIII,abe,,west2630,nolka,AB:3,,,,,,deer,deer,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+743,Day,GMD1995,LIII,abe,,west2630,noni,AB:3,,,,,,"suckle, nurse an infant, suck ","nurse (V), suck, suckle",initial,,,,,,,,,,,,,,,,,,,,,,,,,see also noz-; free root
+757,Day,GMD1995,LIV,abe,,west2630,nôp-,AB:3,,,,,,put through as thread through a needle,put through,initial
+744,Day,GMD1995,LIII,abe,,west2630,nopa-,AB:3,,,,,,far,far,initial
+758,Day,GMD1995,LIV,abe,,west2630,nôpko-,AB:3,,,,,,encircle at the neck,encircle (at the neck),initial
+745,Day,GMD1995,LIII,abe,,west2630,nosaw-,AB:3,,,,,,"alongside, near without touching","alongside, near",initial
+746,Day,GMD1995,LIII,abe,,west2630,nosk-,AB:3,,,,,,"in addition, additionally","additionally, in (addition)",initial
+747,Day,GMD1995,LIII,abe,,west2630,noskwa-,AB:3,,,,,,"lick, lap","lap, lick",initial
+748,Day,GMD1995,LIII,abe,,west2630,nosok-,AB:3,,,,,,follow,follow,initial
+749,Day,GMD1995,LIII,abe,,west2630,nosp-,AB:3,,,,,,high,high,initial
+759,Day,GMD1995,LIV,abe,,west2630,nôw-,AB:3,,,,,,mid,mid,initial
+760,Day,GMD1995,LIV,abe,,west2630,nôw-,AB:3,,,,,,long in time or distance,"long (time, distance)",initial
+750,Day,GMD1995,LIII,abe,,west2630,noz-,AB:3,,,,,,"suckle, give suck to ",suckle,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. noni
+761,Day,GMD1995,LIV,abe,,west2630,nsa-,AB:3,,,,,,careful,careful,initial
+762,Day,GMD1995,LIV,abe,,west2630,nsaw-,AB:3,,,,,,between,between,initial
+763,Day,GMD1995,LIV,abe,,west2630,nskaz-,AB:3,,,,,,angry,angry,initial
+764,Day,GMD1995,LIV,abe,,west2630,nsô-,AB:3,,,,,,"danger, dangerous","danger, dangerous",initial
+765,Day,GMD1995,LIV,abe,,west2630,nsp-,AB:3,,,,,,with,with,initial
+767,Day,GMD1995,LIV,abe,,west2630,ntop-,AB:3,,,,,,catch,catch,initial
+768,Day,GMD1995,LIV,abe,,west2630,ntosta-,AB:3,,,,,,"hear, accept, believe","accept, believe, hear",initial
+769,Day,GMD1995,LIV,abe,,west2630,ntôw-,AB:3,,,,,,"capable, competent, expert, be able to do something well","able, capable, competent, expert",initial
+817,Day,GMD1995,LVI,abe,,west2630,ô-,AB:3,,,,,,"continually, always, usually","always, continually, usually",initial
+1048,Day,GMD1995,LXV,abe,,west2630,wôb-,AB:3,,,,,,white ,white,initial,,,,,,,,,,ôb-
+819,Day,GMD1995,LVI,abe,,west2630,ôb-,AB:3,,,,,,(sign of past progressive action),"PAST, PROGRESSIVE",initial
+821,Day,GMD1995,LVI,abe,,west2630,ôbad-,AB:3,,,,,,"in back, behind","behind, in (back)",initial
+822,Day,GMD1995,LVI,abe,,west2630,ôbam-,AB:3,,,,,,lean,lean,initial
+823,Day,GMD1995,LVI,abe,,west2630,ôbanka-,AB:3,,,,,,wandering about,wander,initial
+825,Day,GMD1995,LVI,abe,,west2630,ôben-,AB:3,,,,,,"loosen, untie, free","free, loosen, untie",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. agogen-
+827,Day,GMD1995,LVI,abe,,west2630,ôbojegel-,AB:3,,,,,,"upside down, wrongside out, reversed","reversed, upside down",initial
+770,Day,GMD1995,LIV,abe,,west2630,od-,AB:3,,,,,,"from, for ","for, from",initial,,,,,,,,,,"oj-, wd-, wj-"
+828,Day,GMD1995,LVI,abe,,west2630,ôd-,AB:3,,,,,,"increasing, becoming greater, more","increase, more, QUANTITY",initial,,,,,,,,,,ôji-
+771,Day,GMD1995,LIV,abe,,west2630,oda-,AB:3,,,,,,visit ,visit ,initial,,,,,,,,,,otsi-
+830,Day,GMD1995,LVI,abe,,west2630,ôdab-,AB:3,,,,,,"sit for a time, rest, repose","repose, rest (V), sit",initial
+772,Day,GMD1995,LIV,abe,,west2630,odag-,AB:3,,,,,,"moist, damp","damp, moist",initial
+773,Day,GMD1995,LIV,abe,,west2630,odald-,AB:3,,,,,,"regret, be sorry about","regret, sorry",initial
+774,Day,GMD1995,LIV,abe,,west2630,odama,AB:3,,,,,,smoke,smoke,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+775,Day,GMD1995,LIV,abe,,west2630,odami-,AB:3,,,,,,"trouble, disturb","disturb, trouble (V)",initial
+776,Day,GMD1995,LIV,abe,,west2630,odana,AB:3,,,,,,village,village,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+777,Day,GMD1995,LIV,abe,,west2630,odaodg-,AB:3,,,,,,"behind, in back of","behind, in (back)",initial
+831,Day,GMD1995,LVI,abe,,west2630,ôdaw-,AB:3,,,,,,"over, beyond, reaching out","beyond, over, reach out",initial
+779,Day,GMD1995,LIV,abe,,west2630,odeli,AB:3,,,,,,shoulder ,shoulder ,initial,,,,,,,,,,,,,,,,,,,,,,,,,see also olemôgan; free root
+780,Day,GMD1995,LIV,abe,,west2630,oden-,AB:3,,,,,,take    ,take    ,initial,,,,,,,,,,wden-
+832,Day,GMD1995,LVI,abe,,west2630,ôdoka,AB:3,,,,,,"tell, relate, narrate","narrate, relate, tell",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. ôjem-; free root
+833,Day,GMD1995,LVII,abe,,west2630,ôdol-,AB:3,,,,,,"on back, (leaning or lying) on back",on (back),initial
+781,Day,GMD1995,LIV,abe,,west2630,odopi,AB:3,,,,,,alder,alder,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+782,Day,GMD1995,LV,abe,,west2630,odow-,AB:3,,,,,,"distinguished, of high quality","distinguished, quality (high)",initial
+834,Day,GMD1995,LVII,abe,,west2630,ôgawa-,AB:3,,,,,,"shade, in shade, shadow","shade, shadow",initial
+835,Day,GMD1995,LVII,abe,,west2630,ôgaza-,AB:3,,,,,,"hire, employ","employ, hire",initial
+836,Day,GMD1995,LVII,abe,,west2630,ôgem,AB:3,,,,,,snowshoe,snowshoe,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+837,Day,GMD1995,LVII,abe,,west2630,ôgenaw-,AB:3,,,,,,"quiet, tranquil, peaceful","peaceful, quiet, tranquil",initial
+838,Day,GMD1995,LVII,abe,,west2630,ôgwa-,AB:3,,,,,,lie deposited (as snow or sand),"deposited (sand, snow)",initial
+839,Day,GMD1995,LVII,abe,,west2630,ôgwij-,AB:3,,,,,,swim,swim,initial
+840,Day,GMD1995,LVII,abe,,west2630,ôhô,AB:3,,,,,,yes,yes,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+784,Day,GMD1995,LV,abe,,west2630,ojeb-,AB:3,,,,,,"small, narrow, shrunken, shriveled","narrow, shriveled, shrunken, small",initial
+841,Day,GMD1995,LVII,abe,,west2630,ôjem-,AB:3,,,,,,"narrate, relate, tell story or news","narrate, relate, tell (story, news)",initial,,,,,,,,,,,,,,,,,,,,,,,,,"cf. ôdoka, ôthlok-"
+785,Day,GMD1995,LV,abe,,west2630,ojib-,AB:3,,,,,,"stagger, fall","fall, stagger",initial
+786,Day,GMD1995,LV,abe,,west2630,ojipel-,AB:3,,,,,,"curl, curly","curl, curly",initial
+788,Day,GMD1995,LV,abe,,west2630,okwa,AB:3,,,,,,"maggot, grub","grub (N), maggot",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+790,Day,GMD1995,LV,abe,,west2630,ol,AB:3,,,,,,a watercraft,watercraft,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+789,Day,GMD1995,LV,abe,,west2630,ol-,AB:3,,,,,,good  ,good  ,initial,,,,,,,,,,wl-
+791,Day,GMD1995,LV,abe,,west2630,olaman,AB:3,,,,,,red ochre,ochre (red),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+792,Day,GMD1995,LV,abe,,west2630,olanig-,AB:3,,,,,,"fisher, black cat","cat (black), fisher",initial
+844,Day,GMD1995,LVII,abe,,west2630,ôlem-,AB:3,,,,,,continuing,continue,initial
+794,Day,GMD1995,LV,abe,,west2630,olemôgan,AB:3,,,,,,shoulder ,shoulder ,initial,,,,,,,,,,,,,,,,,,,,,,,,,see also odeli; free root
+1009,Day,GMD1995,LXIV,abe,,west2630,weli-,AB:3,,,,,,make,make,initial,,,,,,,,,,oli-
+798,Day,GMD1995,LV,abe,,west2630,olôg-,AB:3,,,,,,night ,night ,initial,,,,,,,,,,wlôg-
+797,Day,GMD1995,LV,abe,,west2630,ologas,AB:3,,,,,,rawhide string,string (rawhide),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+799,Day,GMD1995,LV,abe,,west2630,olôm-,AB:3,,,,,,"be right, be correct","correct (A), right (A)",initial,,,,,,,,,,wlôm-
+800,Day,GMD1995,LV,abe,,west2630,olôw-,AB:3,,,,,,blue,blue,initial,,,,,,,,,,wlôw-
+845,Day,GMD1995,LVII,abe,,west2630,ôma,AB:3,,,,,,fish (verb),fish (V),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+846,Day,GMD1995,LVII,abe,,west2630,ômawi-,AB:3,,,,,,"injure, hurt","hurt, injure",initial
+847,Day,GMD1995,LVII,abe,,west2630,ômiki,AB:3,,,,,,"get up, arise (as from bed)","arise, get up",initial,,,,,,,,,,ômki,,,,,,,,,,,,,,,free root
+848,Day,GMD1995,LVII,abe,,west2630,ômilka,AB:3,,,,,,smoke dry meat,smoke (meat),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+849,Day,GMD1995,LVII,abe,,west2630,ômka,AB:3,,,,,,"bet, gamble","bet, gamble",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+851,Day,GMD1995,LVII,abe,,west2630,ômpsa,AB:3,,,,,,"sweat, perspire","perspire, sweat",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+852,Day,GMD1995,LVII,abe,,west2630,ômska,AB:3,,,,,,stand up,stand up,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+853,Day,GMD1995,LVII,abe,,west2630,ômwa,AB:3,,,,,,a bee,bee,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+801,Day,GMD1995,LV,abe,,west2630,oniga-,AB:3,,,,,,"carry, portage","carry, portage",initial
+854,Day,GMD1995,LVII,abe,,west2630,ônim-,AB:3,,,,,,blame,blame,initial
+855,Day,GMD1995,LVII,abe,,west2630,ônkaw-,AB:3,,,,,,"in addition serially, linked, joined, connected","connected, joined, linked",initial
+856,Day,GMD1995,LVII,abe,,west2630,ônkohl-,AB:3,,,,,,sell,sell,initial
+861,Day,GMD1995,LVIII,abe,,west2630,ôpt-,AB:3,,,,,,"(sign of progressive), being, becoming","INCHOATIVE, PROGRESSIVE, STATE",initial,,,,,,,,,,ôpc-
+858,Day,GMD1995,LVIII,abe,,west2630,ôpetaw-,AB:3,,,,,,"up from the ground, above","above, up",initial
+859,Day,GMD1995,LVIII,abe,,west2630,ôpkw-,AB:3,,,,,,"open (as a hinge), turn (as a key)","open, turn",initial
+860,Day,GMD1995,LVIII,abe,,west2630,ôpskwa-,AB:3,,,,,,whirling,whirl,initial
+1010,Day,GMD1995,LXIV,abe,,west2630,wesag-,AB:3,,,,,,bitter,bitter,initial,,,,,,,,,,osag-
+803,Day,GMD1995,LV,abe,,west2630,osag-,AB:3,,,,,,hurt,hurt,initial
+805,Day,GMD1995,LV,abe,,west2630,oska-,AB:3,,,,,,"work, exercise, manipulate","exercise, manipulate, work",initial
+1012,Day,GMD1995,LXIV,abe,,west2630,weska-,AB:3,,,,,,"thaw, melt (as snow or ice)","melt, thaw",initial,,,,,,,,,,oska-
+807,Day,GMD1995,LV,abe,,west2630,oskid-,AB:3,,,,,,"on, on top of ",on (top of),initial,,,,,,,,,,"oskij-, wskid-"
+809,Day,GMD1995,LVI,abe,,west2630,oskwa-,AB:3,,,,,,pointed,pointed,initial,,,,,,,,,,wskwa-
+810,Day,GMD1995,LVI,abe,,west2630,ospôz-,AB:3,,,,,,"early in the morning, in the morning","early, morning",initial,,,,,,,,,,wspôz-
+1011,Day,GMD1995,LXIV,abe,,west2630,wessw-,AB:3,,,,,,"fur, hairy  ","fur, hairy  ",initial,,,,,,,,,,ossw-
+863,Day,GMD1995,LVIII,abe,,west2630,ôt-,AB:3,,,,,,being engaged in,engaged in,initial
+864,Day,GMD1995,LVIII,abe,,west2630,ôtal-,AB:3,,,,,,continuing there,"continue, there",initial
+865,Day,GMD1995,LVIII,abe,,west2630,ôthlok-,AB:3,,,,,,tell a story,tell (story),initial,,,,,,,,,,,,,,,,,,,,,,,,,"cf. ôdoka, ôjem-"
+866,Day,GMD1995,LVIII,abe,,west2630,ôtk-,AB:3,,,,,,move,move,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. môd-
+867,Day,GMD1995,LVIII,abe,,west2630,ôtsi-,AB:3,,,,,,"camp, make camp",camp (V),initial
+869,Day,GMD1995,LVIII,abe,,west2630,ôwdi-,AB:3,,,,,,"path, trail, road, street","path, road, street, trail",initial
+870,Day,GMD1995,LVIII,abe,,west2630,ôwi-,AB:3,,,,,,belong (somewhere),belong,initial
+872,Day,GMD1995,LVIII,abe,,west2630,ôzahag-,AB:3,,,,,,"hard, difficult, miserable","difficult, hard, miserable",initial
+813,Day,GMD1995,LVI,abe,,west2630,ozegwin-,AB:3,,,,,,cough,cough,initial
+873,Day,GMD1995,LVIII,abe,,west2630,ôzida-,AB:3,,,,,,"in return, returning ",return,initial
+814,Day,GMD1995,LVI,abe,,west2630,ozig-,AB:3,,,,,,"poor, miserable, unhappy","miserable, poor, unhappy",initial
+815,Day,GMD1995,LVI,abe,,west2630,ozogena,AB:3,,,,,,tail,tail,initial,,,,,,,,,,wzogena,,,,,,,,,,,,,,,free root
+816,Day,GMD1995,LVI,abe,,west2630,ozôm-,AB:3,,,,,,"too much, too--",too much,initial,,,,,,,,,,wzôm-
+874,Day,GMD1995,LVIII,abe,,west2630,ôzow-,AB:3,,,,,,"to the side, aside, off course, not straight, not right","aside, not (right), not (straight), off (course)",initial
+875,Day,GMD1995,LVIII,abe,,west2630,pabal-,AB:3,,,,,,smooth,smooth,initial
+876,Day,GMD1995,LVIII,abe,,west2630,paga-,AB:3,,,,,,"a piece, a part","part, piece",initial
+877,Day,GMD1995,LVIII,abe,,west2630,pamô-,AB:3,,,,,,eat something with a meal,eat,initial
+879,Day,GMD1995,LVIII,abe,,west2630,papahw-,AB:3,,,,,,tin,tin,initial
+880,Day,GMD1995,LVIII,abe,,west2630,pasa-,AB:3,,,,,,longitudinal depression,depression (longitudinal),initial
+881,Day,GMD1995,LVIII,abe,,west2630,pato,AB:3,,,,,,"clotted blood, dried blood","blood (clotted, dried)",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+883,Day,GMD1995,LIX,abe,,west2630,pego,AB:3,,,,,,"pitch, gum; rubber","gum, pitch, rubber",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+885,Day,GMD1995,LIX,abe,,west2630,pes-,AB:3,,,,,,"several, numerous","numerous, several, QUANTITY",initial
+886,Day,GMD1995,LIX,abe,,west2630,peskwa-,AB:3,,,,,,"swell, open (as a flower)","open, swell",initial
+887,Day,GMD1995,LIX,abe,,west2630,pezagw-,AB:3,,,,,,"thick (as a liquid), soft and wet, slimy","thick (liquid), slimy, soft, wet",initial
+889,Day,GMD1995,LIX,abe,,west2630,piaso,AB:3,,,,,,"animal hair, human body hair",hair,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+893,Day,GMD1995,LIX,abe,,west2630,pikwa-,AB:3,,,,,,"wear away, erode, lose a piece, peel (bark)","erode, peel, wear away",initial,,,,,,,,,,pkwa-
+895,Day,GMD1995,LIX,abe,,west2630,pkwam-,AB:3,,,,,,ice,ice,initial
+896,Day,GMD1995,LIX,abe,,west2630,poda-,AB:3,,,,,,blow (as air or water),blow,initial
+897,Day,GMD1995,LIX,abe,,west2630,pôgw-,AB:3,,,,,,"pure, genuine, real","genuine, pure, real",initial
+898,Day,GMD1995,LIX,abe,,west2630,pôj-,AB:3,,,,,,left side or direction,left (side),initial
+899,Day,GMD1995,LIX,abe,,west2630,pôlôba-,AB:3,,,,,,"proud, vain","proud, vain",initial
+900,Day,GMD1995,LIX,abe,,west2630,pôwi-,AB:3,,,,,,"happy, joyful","happy, joyful",initial
+901,Day,GMD1995,LIX,abe,,west2630,psakw-,AB:3,,,,,,"reflect light, shine, flash","flash, reflect, shine",initial
+905,Day,GMD1995,LIX,abe,,west2630,pso-,AB:3,,,,,,patch,patch,initial
+906,Day,GMD1995,LIX,abe,,west2630,psô-,AB:3,,,,,,snow,snow,initial
+907,Day,GMD1995,LIX,abe,,west2630,sab-,AB:3,,,,,,lukewarm,lukewarm,initial
+908,Day,GMD1995,LX,abe,,west2630,sabag-,AB:3,,,,,,"thin liquid mixture, watery","liquid (thin), watery",initial
+909,Day,GMD1995,LX,abe,,west2630,saga-,AB:3,,,,,,"on the ground, near the ground, low","low, near (the ground), on (the ground)",initial
+910,Day,GMD1995,LX,abe,,west2630,sagi-,AB:3,,,,,,"injure, hurt physically","hurt, injure",initial
+911,Day,GMD1995,LX,abe,,west2630,sagwi-,AB:3,,,,,,deep (as tide water),deep (water),initial
+912,Day,GMD1995,LX,abe,,west2630,salk-,AB:3,,,,,,"sudden, abrupt","abrupt, sudden",initial
+913,Day,GMD1995,LX,abe,,west2630,sam-,AB:3,,,,,,feed,feed,initial
+914,Day,GMD1995,LX,abe,,west2630,sanigw-,AB:3,,,,,,blow nose,blow (nose),initial
+915,Day,GMD1995,LX,abe,,west2630,sapkwa,AB:3,,,,,,"put away, hide","hide, put away",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+939,Day,GMD1995,LXI,abe,,west2630,sisa-,AB:3,,,,,,"spreading, scattering, here and there","here and there, scatter, spread",initial,,,,,,,,,,sasa-
+917,Day,GMD1995,LX,abe,,west2630,sasag-,AB:3,,,,,,straight,straight,initial
+918,Day,GMD1995,LX,abe,,west2630,sasi-,AB:3,,,,,,"weep, cry","cry, weep",initial
+919,Day,GMD1995,LX,abe,,west2630,sawa-,AB:3,,,,,,"dress, clothing, clothe","clothe, clothing, dress",initial
+920,Day,GMD1995,LX,abe,,west2630,sawôga,AB:3,,,,,,glide,glide,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+921,Day,GMD1995,LX,abe,,west2630,sazib-,AB:3,,,,,,"brittle, fragile","brittle, fragile",initial
+922,Day,GMD1995,LX,abe,,west2630,sebô-,AB:3,,,,,,"along the edge, along the side","along (edge, side)",initial
+923,Day,GMD1995,LX,abe,,west2630,segada-,AB:3,,,,,,lying flat,lie (flat),initial
+924,Day,GMD1995,LX,abe,,west2630,segag-,AB:3,,,,,,vomit,vomit,initial
+925,Day,GMD1995,LX,abe,,west2630,segi,AB:3,,,,,,"urine, urinate","urinate, urine",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+928,Day,GMD1995,LX,abe,,west2630,senod-,AB:3,,,,,,the shore,shore,initial
+930,Day,GMD1995,LX,abe,,west2630,seseg-,AB:3,,,,,,"spit, expectorate","expectorate, spit",initial
+931,Day,GMD1995,LX,abe,,west2630,siba-,AB:3,,,,,,"leak, trickle out","leak, trickle out",initial
+932,Day,GMD1995,LX,abe,,west2630,sibal-,AB:3,,,,,,"spread, stretch out","spread, stretch out",initial
+933,Day,GMD1995,LX,abe,,west2630,sibes,AB:3,,,,,,a bird,bird,initial,,,,,,,,,,sibs,,,,,,,,,,,,,,,free root
+935,Day,GMD1995,LXI,abe,,west2630,sid-,AB:3,,,,,,"alongside touching, up against","alongside, up (against)",initial,,,,,,,,,,sij-
+936,Day,GMD1995,LXI,abe,,west2630,sig-,AB:3,,,,,,empty,empty,initial
+938,Day,GMD1995,LXI,abe,,west2630,sipel-,AB:3,,,,,,treat therapeutically,treat (therapeutically),initial
+940,Day,GMD1995,LXI,abe,,west2630,sisi-,AB:3,,,,,,sound of a rattle (onomatopoeic),rattle (sound),initial,,,,,,,,,,,,,,,,,,,,,,,,,sizi-
+942,Day,GMD1995,LXI,abe,,west2630,sizi-,AB:3,,,,,,make a sizzling sound ,sizzle (sound),initial,,,,,,,,,,,,,,,,,,,,,,,,,sisi-
+1065,Day,GMD1995,LXVI,abe,,west2630,zaka,AB:3,,,,,,stand,stand,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. ska; free root
+944,Day,GMD1995,LXI,abe,,west2630,skaw-,AB:3,,,,,,"wait for, await","await, wait for",initial
+945,Day,GMD1995,LXI,abe,,west2630,skawa-,AB:3,,,,,,envy,envy,initial
+946,Day,GMD1995,LXI,abe,,west2630,skawôb-,AB:3,,,,,,"watch for, wait and watch ","wait, watch for",initial,,,,,,,,,,skoôb-
+947,Day,GMD1995,LXI,abe,,west2630,skog,AB:3,,,,,,snake,snake,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+949,Day,GMD1995,LXI,abe,,west2630,skwa-,AB:3,,,,,,female,female,initial
+950,Day,GMD1995,LXI,abe,,west2630,skweda,AB:3,,,,,,fire,fire,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+953,Day,GMD1995,LXI,abe,,west2630,spem-,AB:3,,,,,,"above, on high","above, high",initial
+954,Day,GMD1995,LXI,abe,,west2630,spigw-,AB:3,,,,,,"upward, rising","upward, rise",initial
+955,Day,GMD1995,LXI,abe,,west2630,spôz-,AB:3,,,,,,"early, in the morning","early, morning",initial
+956,Day,GMD1995,LXI,abe,,west2630,tal-,AB:3,,,,,,"there (usually, not at a specific time) (often has the force of general action even losing any notion of there)",there,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. dal-
+260,Day,GMD1995,XXXIII,abe,,west2630,dal-,AB:3,,,,,,there (now or at a specific time),there,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. tal-
+957,Day,GMD1995,LXII,abe,,west2630,taza-,AB:3,,,,,,"clear of obstruction, having clear space",clear (A),initial
+958,Day,GMD1995,LXII,abe,,west2630,tego,AB:3,,,,,,a wave,wave (N),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+959,Day,GMD1995,LXII,abe,,west2630,tek-,AB:3,,,,,,cold,cold,initial
+960,Day,GMD1995,LXII,abe,,west2630,tekwen-,AB:3,,,,,,"arrest, make prisoner",arrest,initial
+961,Day,GMD1995,LXII,abe,,west2630,tekwigw-,AB:3,,,,,,heavy,heavy,initial
+962,Day,GMD1995,LXII,abe,,west2630,temiskw-,AB:3,,,,,,a figure with straight sides and square corners,"square, straight",initial
+966,Day,GMD1995,LXII,abe,,west2630,tosôn,AB:3,,,,,,a shed,shed (N),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+963,Day,GMD1995,LXII,abe,,west2630,tow-,AB:3,,,,,,moving or flying in the air,"fly (V), move (in air)",initial
+967,Day,GMD1995,LXII,abe,,west2630,waask-,AB:3,,,,,,shallow (said of water),shallow (water),initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. walas- 
+984,Day,GMD1995,LXIII,abe,,west2630,walas-,AB:3,,,,,,shallow (said of water),shallow (water),initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. waask-
+968,Day,GMD1995,LXII,abe,,west2630,waban-,AB:3,,,,,,to trouble,trouble (V),initial
+969,Day,GMD1995,LXII,abe,,west2630,wabi,AB:3,,,,,,"haunch, ham","ham, haunch",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+970,Day,GMD1995,LXII,abe,,west2630,wacil,AB:3,,,,,,white oak acorn,acorn (white oak),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+972,Day,GMD1995,LXII,abe,,west2630,wadap,AB:3,,,,,,split root cordage,cordage (split root),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+973,Day,GMD1995,LXII,abe,,west2630,waden-,AB:3,,,,,,"take, get, choose","choose, get, take",initial,,,,,,,,,,,,,,,,,,,,,,,,,see oden- 
+974,Day,GMD1995,LXII,abe,,west2630,wag-,AB:3,,,,,,"damage, injure, destroy","damage, destroy, injure",initial
+975,Day,GMD1995,LXII,abe,,west2630,wagwan,AB:3,,,,,,a heel,heel (N),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+976,Day,GMD1995,LXII,abe,,west2630,"waid-, waij-",AB:3,,,,,,"always, continually, all the time","always, continually",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. majim-
+977,Day,GMD1995,LXII,abe,,west2630,waj-,AB:3,,,,,,from  ,from  ,initial,,,,,,,,,,,,,,,,,,,,,,,,,see oj-
+978,Day,GMD1995,LXII,abe,,west2630,waja-,AB:3,,,,,,kiss,kiss,initial
+979,Day,GMD1995,LXII,abe,,west2630,wajapk-,AB:3,,,,,,a root,root,initial
+980,Day,GMD1995,LXII,abe,,west2630,wajo,AB:3,,,,,,mountain,mountain,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+981,Day,GMD1995,LXII,abe,,west2630,wajôn-,AB:3,,,,,,"have, possess","have, possess",initial
+982,Day,GMD1995,LXIII,abe,,west2630,wakas-,AB:3,,,,,,few,few,initial
+983,Day,GMD1995,LXIII,abe,,west2630,wakwô-,AB:3,,,,,,"enclose, shut in","enclose, shut in",initial
+985,Day,GMD1995,LXIII,abe,,west2630,walda,AB:3,,,,,,know,know,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+986,Day,GMD1995,LXIII,abe,,west2630,wam-,AB:3,,,,,,enough,enough,initial
+987,Day,GMD1995,LXIII,abe,,west2630,wam-,AB:3,,,,,,fit,fit,initial
+988,Day,GMD1995,LXIII,abe,,west2630,wan-,AB:3,,,,,,"lost, lose","lose, lost",initial
+989,Day,GMD1995,LXIII,abe,,west2630,wanas-,AB:3,,,,,,"meet, encounter","encounter, meet",initial
+990,Day,GMD1995,LXIII,abe,,west2630,wanask-,AB:3,,,,,,"the end, an end",end (N),initial
+991,Day,GMD1995,LXIII,abe,,west2630,wanôg-,AB:3,,,,,,arise from lying or sitting position,"arise, get up",initial
+992,Day,GMD1995,LXIII,abe,,west2630,wanta-,AB:3,,,,,,"interrupt, disturb, lose","disturb, interrupt, lose",initial
+993,Day,GMD1995,LXIII,abe,,west2630,waod-,AB:3,,,,,,"join, put together, make contact, collide","collide, contact (V), join, put (together)",initial,,,,,,,,,,waoj-
+995,Day,GMD1995,LXIII,abe,,west2630,wasawa,AB:3,,,,,,pumpkin,pumpkin,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+996,Day,GMD1995,LXIII,abe,,west2630,wassa-,AB:3,,,,,,"clear, clean, light, shining","clean, clear, light, shine",initial
+997,Day,GMD1995,LXIII,abe,,west2630,waw-,AB:3,,,,,,learn,learn,initial
+998,Day,GMD1995,LXIII,abe,,west2630,wawab-,AB:3,,,,,,"up high, in the air, upwards","in (air), up (high), upwards",initial
+999,Day,GMD1995,LXIII,abe,,west2630,wawas-,AB:3,,,,,,holy,holy,initial
+1000,Day,GMD1995,LXIII,abe,,west2630,wawi-,AB:3,,,,,,"frequent in space or time, often, all over, everywhere","all (over), everywhere, frequent",initial
+1001,Day,GMD1995,LXIII,abe,,west2630,wazab-,AB:3,,,,,,thin,thin,initial
+1002,Day,GMD1995,LXIII,abe,,west2630,wazas-,AB:3,,,,,,slippery,slippery,initial
+1003,Day,GMD1995,LXIII,abe,,west2630,wazaz-,AB:3,,,,,,the edge of a place,edge,initial
+1004,Day,GMD1995,LXIII,abe,,west2630,wazesa,AB:3,,,,,,nest,nest,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1005,Day,GMD1995,LXIII,abe,,west2630,wazôli,AB:3,,,,,,snow,snow,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1013,Day,GMD1995,LXIV,abe,,west2630,wi-,AB:3,,,,,,"say, tell, call, name","call, name (V), say, tell",initial
+1014,Day,GMD1995,LXIV,abe,,west2630,wiag-,AB:3,,,,,,"glad, rejoicing, pleasurable","glad, pleasurable, rejoice",initial
+1015,Day,GMD1995,LXIV,abe,,west2630,wibegw-,AB:3,,,,,,gray,gray,initial
+1016,Day,GMD1995,LXIV,abe,,west2630,wid-,AB:3,,,,,,together with,together,initial,,,,,,,,,,,,,,,,,,,,,,,,,see wij- and -id-
+1017,Day,GMD1995,LXIV,abe,,west2630,wig-,AB:3,,,,,,"dwell, camp, live","camp (V), dwell, live (V)",initial
+1018,Day,GMD1995,LXIV,abe,,west2630,wig-,AB:3,,,,,,like,like,initial
+1019,Day,GMD1995,LXIV,abe,,west2630,wigebi,AB:3,,,,,,"bast, inner bark cordage","bast, cordage (inner bark)",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1021,Day,GMD1995,LXIV,abe,,west2630,wigwa,AB:3,,,,,,paper birch bark,birchbark,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1020,Day,GMD1995,LXIV,abe,,west2630,wigwa-,AB:3,,,,,,piece of birch bark,birchbark,initial
+1022,Day,GMD1995,LXIV,abe,,west2630,wigwe-,AB:3,,,,,,"lacking something, as a body part",lack,initial
+1024,Day,GMD1995,LXIV,abe,,west2630,wika,AB:3,,,,,,fat on the outside of the body,fat (N),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1025,Day,GMD1995,LXIV,abe,,west2630,wika,AB:3,,,,,,"build a shelter, house","build (house, shelter)",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1026,Day,GMD1995,LXIV,abe,,west2630,wiko-,AB:3,,,,,,ask for,ask for,initial
+1027,Day,GMD1995,LXIV,abe,,west2630,wikw-,AB:3,,,,,,"draw, pull to; call hither, attract","attract, call (hither), draw, pull to",initial
+1028,Day,GMD1995,LXIV,abe,,west2630,wikwi-,AB:3,,,,,,"until, as far as","as far as, until",initial
+1029,Day,GMD1995,LXIV,abe,,west2630,wilawi-,AB:3,,,,,,"rich, wealthy","rich, wealthy",initial
+1031,Day,GMD1995,LXV,abe,,west2630,win,AB:3,,,,,,bone marrow,marrow,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1030,Day,GMD1995,LXIV,abe,,west2630,wini-,AB:3,,,,,,"indecisive, unassured","indecisive, unassured",initial
+1032,Day,GMD1995,LXV,abe,,west2630,winoz,AB:3,,,,,,wild onion,onion (wild),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1033,Day,GMD1995,LXV,abe,,west2630,wins,AB:3,,,,,,yellow birch,birch (yellow),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1034,Day,GMD1995,LXV,abe,,west2630,winwa-,AB:3,,,,,,"ask for, petition, supplicate","ask for, petition, supplicate",initial
+1035,Day,GMD1995,LXV,abe,,west2630,wios,AB:3,,,,,,meat,meat,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1036,Day,GMD1995,LXV,abe,,west2630,"wisse-, wissi-",AB:3,,,,,,"completely, thoroughly","completely, thoroughly",initial
+1037,Day,GMD1995,LXV,abe,,west2630,wiwn-,AB:3,,,,,,"encircling, all around","all (around), encircling",initial
+1038,Day,GMD1995,LXV,abe,,west2630,wiz-,AB:3,,,,,,"be named, be called","called, named",initial
+1039,Day,GMD1995,LXV,abe,,west2630,wiza-,AB:3,,,,,,hurry,hurry,initial
+1040,Day,GMD1995,LXV,abe,,west2630,wizaw-,AB:3,,,,,,"becoming narrow, narrowing",narrow,initial
+1041,Day,GMD1995,LXV,abe,,west2630,wizaw-,AB:3,,,,,,"make neat, tidy, pick up","neat, pick up, tidy",initial
+1042,Day,GMD1995,LXV,abe,,west2630,wizôw-,AB:3,,,,,,yellow  ,yellow  ,initial
+1052,Day,GMD1995,LXV,abe,,west2630,wônimi-,AB:3,,,,,,"lead astray, seduce, get into trouble","get into (trouble), lead (astray), seduce",initial,,,,,,,,,,wnimi-
+1049,Day,GMD1995,LXV,abe,,west2630,wôg-,AB:3,,,,,,"bend, curve","bend, curve",initial
+1050,Day,GMD1995,LXV,abe,,west2630,wôgwas,AB:3,,,,,,bear's den,den,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1051,Day,GMD1995,LXV,abe,,west2630,wôl-,AB:3,,,,,,"hollowed out, hollow",hollow,initial
+1053,Day,GMD1995,LXV,abe,,west2630,wôwan,AB:3,,,,,,egg,egg,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1054,Day,GMD1995,LXV,abe,,west2630,wsk-,AB:3,,,,,,"new, young, raw","new, raw, young",initial
+1064,Day,GMD1995,LXVI,abe,,west2630,zahag-,AB:3,,,,,,"hard, difficult ","difficult, hard",initial,,,,,,,,,,,,,,,,,,,,,,,,,commonly zaag-
+1061,Day,GMD1995,LXVI,abe,,west2630,zaba-,AB:3,,,,,,"noise, disturbance","disturbance, noise",initial
+1062,Day,GMD1995,LXVI,abe,,west2630,zag-,AB:3,,,,,,"fear, fright, afraid","afraid, fear, fright",initial
+1063,Day,GMD1995,LXVI,abe,,west2630,zaga-,AB:3,,,,,,bite,bite,initial
+1066,Day,GMD1995,LXVI,abe,,west2630,zakh-,AB:3,,,,,,the woods,"forest, woods",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. gip- 
+1067,Day,GMD1995,LXVI,abe,,west2630,zakoz-,AB:3,,,,,,"win, triumph, conquer","conquer, triumph, win",initial
+1068,Day,GMD1995,LXVI,abe,,west2630,zalak-,AB:3,,,,,,at a point in time in the past,PAST,initial
+1069,Day,GMD1995,LXVI,abe,,west2630,zalôn-,AB:3,,,,,,sumac cone,cone (sumac),initial
+1070,Day,GMD1995,LXVI,abe,,west2630,zao-,AB:3,,,,,,"out, pushing out, protruding, showing, exposing","expose, out, push out, protrude, show",initial
+1072,Day,GMD1995,LXVI,abe,,west2630,zata,AB:3,,,,,,blueberry,blueberry,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1073,Day,GMD1995,LXVI,abe,,west2630,zaw-,AB:3,,,,,,tired,tired,initial
+1075,Day,GMD1995,LXVI,abe,,west2630,zaz-,AB:3,,,,,,"untidy, slovenly","slovenly, untidy",initial
+1074,Day,GMD1995,LXVI,abe,,west2630,zazam-,AB:3,,,,,,"whip, spank, beat","beat, spank, whip",initial
+1076,Day,GMD1995,LXVI,abe,,west2630,zazôgw-,AB:3,,,,,,"not sensible, not intelligent",unintelligent,initial
+1077,Day,GMD1995,LXVI,abe,,west2630,zazôm-,AB:3,,,,,,weak,weak,initial
+1078,Day,GMD1995,LXVI,abe,,west2630,zedi,AB:3,,,,,,evergreen (coniferous) bough,bough (evergreen),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1079,Day,GMD1995,LXVI,abe,,west2630,zegik-,AB:3,,,,,,tight,tight,initial
+1082,Day,GMD1995,LXVII,abe,,west2630,zegwesk-,AB:3,,,,,,"break up, take apart, divide ","break up, divide, take apart",initial,,,,,,,,,,zegosk-
+1083,Day,GMD1995,LXVII,abe,,west2630,zeleg-,AB:3,,,,,,"press, squeeze","press, squeeze",initial
+1084,Day,GMD1995,LXVII,abe,,west2630,zezo-,AB:3,,,,,,paint,paint,initial
+1085,Day,GMD1995,LXVII,abe,,west2630,ziad-,AB:3,,,,,,"sift, sieve","sieve, sift",initial
+1086,Day,GMD1995,LXVII,abe,,west2630,zib-,AB:3,,,,,,"next, then, later, in addition, moreover, besides","besides, in (addition), later, moreover, next, then",initial
+1087,Day,GMD1995,LXVII,abe,,west2630,zibk-,AB:3,,,,,,"late, long time","late, long time",initial
+1088,Day,GMD1995,LXVII,abe,,west2630,zibo,AB:3,,,,,,river,river,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1090,Day,GMD1995,LXVII,abe,,west2630,zigo-,AB:3,,,,,,"remaining, left over","left over, remain",initial
+1091,Day,GMD1995,LXVII,abe,,west2630,zigwa-,AB:3,,,,,,empty,empty,initial
+1093,Day,GMD1995,LXVII,abe,,west2630,zik-,AB:3,,,,,,"on or near the ground, low down","low, near (the ground), on (the ground)",initial
+1094,Day,GMD1995,LXVII,abe,,west2630,zin-,AB:3,,,,,,"wring out, squeeze","squeeze, wring out",initial
+1095,Day,GMD1995,LXVII,abe,,west2630,zipoda,AB:3,,,,,,rub to make smooth,"rub, smooth",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1096,Day,GMD1995,LXVII,abe,,west2630,ziptag-,AB:3,,,,,,stretch,stretch,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. zow-
+1097,Day,GMD1995,LXVII,abe,,west2630,ziw-,AB:3,,,,,,lonesome,lonesome,initial
+1108,Day,GMD1995,LXVIII,abe,,west2630,zôb-,AB:3,,,,,,through,through,initial
+1098,Day,GMD1995,LXVII,abe,,west2630,zobag-,AB:3,,,,,,rub on,rub on,initial
+1099,Day,GMD1995,LXVII,abe,,west2630,zog-,AB:3,,,,,,"pour out, spread out","pour out, spread out",initial
+1109,Day,GMD1995,LXVIII,abe,,west2630,zôg-,AB:3,,,,,,"emerge, appear, sprout (a plant or bud)","appear, emerge, sprout",initial
+1100,Day,GMD1995,LXVII,abe,,west2630,zogeba,AB:3,,,,,,"evaporate, (ice) settles, (snow) melts","evaporate, melt, settle (ice)",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1101,Day,GMD1995,LXVII,abe,,west2630,zogel-,AB:3,,,,,,cook,cook,initial
+1110,Day,GMD1995,LXVIII,abe,,west2630,zôgel-,AB:3,,,,,,"hard, strong, sound, tight, difficult","difficult, hard, sound (A), strong, tight",initial
+1102,Day,GMD1995,LXVII,abe,,west2630,zogelô-,AB:3,,,,,,rain,rain,initial
+1111,Day,GMD1995,LXVIII,abe,,west2630,zôgenaw-,AB:3,,,,,,"quiet, tranquil, peaceful","peaceful, quiet, tranquil",initial
+1103,Day,GMD1995,LXVII,abe,,west2630,zogwa-,AB:3,,,,,,paint face,paint (face),initial
+1112,Day,GMD1995,LXVIII,abe,,west2630,zôkh-,AB:3,,,,,,approach,approach,initial
+1104,Day,GMD1995,LXVII,abe,,west2630,zokw-,AB:3,,,,,,"take apart, come apart, break up, detach","break up, come apart, detach, take apart",initial
+1113,Day,GMD1995,LXVIII,abe,,west2630,zôkwkwa-,AB:3,,,,,,"sound, ring","ring, sound",initial
+1114,Day,GMD1995,LXVIII,abe,,west2630,zôkwta,AB:3,,,,,,"exhaust, run out of","exhaust, run out of",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
+1106,Day,GMD1995,LXVII,abe,,west2630,zow-,AB:3,,,,,,stretch,stretch,initial,,,,,,,,,,,,,,,,,,,,,,,,,see ziptag-
+1115,Day,GMD1995,LXVIII,abe,,west2630,zôwa-,AB:3,,,,,,often,often,initial
+1107,Day,GMD1995,LXVIII,abe,,west2630,zowi,AB:3,,,,,,sour ,sour ,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
