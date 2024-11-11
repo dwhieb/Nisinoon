@@ -901,7 +901,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 901,Day,GMD1995,LIX,abe,,west2630,psakw-,AB:3,,,,,,"reflect light, shine, flash",,initial
 173,Day,GMD1995,LIX,abe,,west2630,psan-,AB:3,,,,,,full,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see besan-
 657,Day,GMD1995,LIX,abe,,west2630,pska-,AB:3,,,,,,"to the side, aside  ",,initial,,,,,,,,,,,,,,,,,,,,,,,,,"see mska-, abic-"
-904,Day,GMD1995,LIX,abe,,west2630,pskwa-,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see peskwa-
+886,Day,GMD1995,LIX,abe,,west2630,pskwa-,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see peskwa-
 905,Day,GMD1995,LIX,abe,,west2630,pso-,AB:3,,,,,,patch,,initial
 906,Day,GMD1995,LIX,abe,,west2630,psô-,AB:3,,,,,,snow,,initial
 907,Day,GMD1995,LIX,abe,,west2630,sab-,AB:3,,,,,,lukewarm,,initial
@@ -913,7 +913,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 913,Day,GMD1995,LX,abe,,west2630,sam-,AB:3,,,,,,feed,,initial
 914,Day,GMD1995,LX,abe,,west2630,sanigw-,AB:3,,,,,,blow nose,,initial
 915,Day,GMD1995,LX,abe,,west2630,sapkwa,AB:3,,,,,,"put away, hide",,initial
-916,Day,GMD1995,LX,abe,,west2630,sasa-,AB:3,,,,,,"spreading, scattering",,initial,,,,,,,,,,,,,,,,,,,,,,,,,see sisa-
+939,Day,GMD1995,LX,abe,,west2630,sasa-,AB:3,,,,,,"spreading, scattering",,initial,,,,,,,,,,,,,,,,,,,,,,,,,see sisa-
 917,Day,GMD1995,LX,abe,,west2630,sasag-,AB:3,,,,,,straight,,initial
 918,Day,GMD1995,LX,abe,,west2630,sasi-,AB:3,,,,,,"weep, cry",,initial
 919,Day,GMD1995,LX,abe,,west2630,sawa-,AB:3,,,,,,"dress, clothing, clothe",,initial
@@ -926,26 +926,26 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 926,Day,GMD1995,LX,abe,,west2630,-sem,AB:3,,,,,,"daughter-in-law, son's wife",,initial
 82,Day,GMD1995,LX,abe,,west2630,sen,AB:3,,,,,,a stone,,initial,,,,,,,,,,asen
 928,Day,GMD1995,LX,abe,,west2630,senod-,AB:3,,,,,,the shore,,initial
-929,Day,GMD1995,LX,abe,,west2630,senoj-,AB:3,,,,,,the shore,,initial
+928,Day,GMD1995,LX,abe,,west2630,senoj-,AB:3,,,,,,the shore,,initial
 930,Day,GMD1995,LX,abe,,west2630,seseg-,AB:3,,,,,,"spit, expectorate",,initial
 931,Day,GMD1995,LX,abe,,west2630,siba-,AB:3,,,,,,"leak, trickle out",,initial
 932,Day,GMD1995,LX,abe,,west2630,sibal-,AB:3,,,,,,"spread, stretch out",,initial
 933,Day,GMD1995,LX,abe,,west2630,sibes,AB:3,,,,,,a bird,,initial,,,,,,,,,,sibs
-934,Day,GMD1995,LXI,abe,,west2630,sibs,AB:3,,,,,,a bird ,,initial,,,,,,,,,,sibes
+933,Day,GMD1995,LXI,abe,,west2630,sibs,AB:3,,,,,,a bird ,,initial,,,,,,,,,,sibes
 935,Day,GMD1995,LXI,abe,,west2630,sid-,AB:3,,,,,,"alongside touching, up against",,initial,,,,,,,,,,sij-
 936,Day,GMD1995,LXI,abe,,west2630,sig-,AB:3,,,,,,empty,,initial
-937,Day,GMD1995,LXI,abe,,west2630,sij-,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see sid-
+935,Day,GMD1995,LXI,abe,,west2630,sij-,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see sid-
 938,Day,GMD1995,LXI,abe,,west2630,sipel-,AB:3,,,,,,treat therapeutically,,initial
 939,Day,GMD1995,LXI,abe,,west2630,sisa-,AB:3,,,,,,"spreading, scattering, here and there",,initial,,,,,,,,,,sasa-
 940,Day,GMD1995,LXI,abe,,west2630,sisi-,AB:3,,,,,,sound of a rattle (onomatopoeic),,initial,,,,,,,,,,sizi-
 941,Day,GMD1995,LXI,abe,,west2630,-sizegw,AB:3,,,,,,eye,,initial
 942,Day,GMD1995,LXI,abe,,west2630,sizi-,AB:3,,,,,,make a sizzling sound ,,initial,,,,,,,,,,sisi-
-943,Day,GMD1995,LXI,abe,,west2630,ska,AB:3,,,,,,stand,,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. zaka
+1065,Day,GMD1995,LXI,abe,,west2630,ska,AB:3,,,,,,stand,,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. zaka
 944,Day,GMD1995,LXI,abe,,west2630,skaw-,AB:3,,,,,,"wait for, await",,initial
 945,Day,GMD1995,LXI,abe,,west2630,skawa-,AB:3,,,,,,envy,,initial
 946,Day,GMD1995,LXI,abe,,west2630,skawôb-,AB:3,,,,,,"watch for, wait and watch ",,initial,,,,,,,,,,skoôb-
 947,Day,GMD1995,LXI,abe,,west2630,skog,AB:3,,,,,,snake,,initial
-948,Day,GMD1995,LXI,abe,,west2630,skoôb-,AB:3,,,,,,wait and watch,,initial,,,,,,,,,,skawôb-
+946,Day,GMD1995,LXI,abe,,west2630,skoôb-,AB:3,,,,,,wait and watch,,initial,,,,,,,,,,skawôb-
 949,Day,GMD1995,LXI,abe,,west2630,skwa-,AB:3,,,,,,female,,initial
 950,Day,GMD1995,LXI,abe,,west2630,skweda,AB:3,,,,,,fire,,initial
 951,Day,GMD1995,LXI,abe,,west2630,-skwen,AB:3,,,,,,liver,,initial
@@ -991,7 +991,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 991,Day,GMD1995,LXIII,abe,,west2630,wanôg-,AB:3,,,,,,arise from lying or sitting position,,initial
 992,Day,GMD1995,LXIII,abe,,west2630,wanta-,AB:3,,,,,,"interrupt, disturb, lose",,initial
 993,Day,GMD1995,LXIII,abe,,west2630,waod-,AB:3,,,,,,"join, put together, make contact, collide",,initial,,,,,,,,,,waoj-
-994,Day,GMD1995,LXIII,abe,,west2630,waoj-,AB:3,,,,,,NG,,initial,,,,,,,,,,waod-
+993,Day,GMD1995,LXIII,abe,,west2630,waoj-,AB:3,,,,,,NG,,initial,,,,,,,,,,waod-
 995,Day,GMD1995,LXIII,abe,,west2630,wasawa,AB:3,,,,,,pumpkin,,initial
 996,Day,GMD1995,LXIII,abe,,west2630,wassa-,AB:3,,,,,,"clear, clean, light, shining",,initial
 997,Day,GMD1995,LXIII,abe,,west2630,waw-,AB:3,,,,,,learn,,initial
@@ -1003,9 +1003,9 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1003,Day,GMD1995,LXIII,abe,,west2630,wazaz-,AB:3,,,,,,the edge of a place,,initial
 1004,Day,GMD1995,LXIII,abe,,west2630,wazesa,AB:3,,,,,,nest,,initial
 1005,Day,GMD1995,LXIII,abe,,west2630,wazôli,AB:3,,,,,,snow,,initial
-1006,Day,GMD1995,LXIV,abe,,west2630,wazwa-,AB:3,,,,,,"reversing, returning, moving backward",,initial,,,,,,,,,,azawa- and aza-
+115,Day,GMD1995,LXIV,abe,,west2630,wazwa-,AB:3,,,,,,"reversing, returning, moving backward",,initial,,,,,,,,,,azawa- and aza-
 770,Day,GMD1995,LXIV,abe,,west2630,wd-,AB:3,,,,,,from  ,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see od- and oj-
-1008,Day,GMD1995,LXIV,abe,,west2630,wden,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see oden-
+780,Day,GMD1995,LXIV,abe,,west2630,wden,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see oden-
 1009,Day,GMD1995,LXIV,abe,,west2630,weli-,AB:3,,,,,,make,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see oli-
 1010,Day,GMD1995,LXIV,abe,,west2630,wesag-,AB:3,,,,,,bitter,,initial,,,,,,,,,,osag-
 1011,Day,GMD1995,LXIV,abe,,west2630,wessw-,AB:3,,,,,,"fur, hairy  ",,initial,,,,,,,,,,,,,,,,,,,,,,,,,see ossw-
@@ -1020,7 +1020,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1020,Day,GMD1995,LXIV,abe,,west2630,wigwa-,AB:3,,,,,,piece of birch bark,,initial
 1021,Day,GMD1995,LXIV,abe,,west2630,wigwa,AB:3,,,,,,paper birch bark,,initial
 1022,Day,GMD1995,LXIV,abe,,west2630,wigwe-,AB:3,,,,,,"lacking something, as a body part",,initial
-1023,Day,GMD1995,LXIV,abe,,west2630,wij-,AB:3,,,,,,together with,,initial
+1016,Day,GMD1995,LXIV,abe,,west2630,wij-,AB:3,,,,,,together with,,initial
 1024,Day,GMD1995,LXIV,abe,,west2630,wika,AB:3,,,,,,fat on the outside of the body,,initial
 1025,Day,GMD1995,LXIV,abe,,west2630,wika,AB:3,,,,,,"build a shelter, house",,initial
 1026,Day,GMD1995,LXIV,abe,,west2630,wiko-,AB:3,,,,,,ask for,,initial
@@ -1044,7 +1044,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 798,Day,GMD1995,LXV,abe,,west2630,wlôg-,AB:3,,,,,,night,,initial,,,,,,,,,,olôg-
 799,Day,GMD1995,LXV,abe,,west2630,wlôm-,AB:3,,,,,,"be right, be correct",,initial,,,,,,,,,,olôm-
 800,Day,GMD1995,LXV,abe,,west2630,wlôw-,AB:3,,,,,,blue,,initial,,,,,,,,,,olôw-
-1047,Day,GMD1995,LXV,abe,,west2630,wnimi-,AB:3,,,,,,"lead astray, seduce, get into trouble",,initial,,,,,,,,,,wônimi-
+1052,Day,GMD1995,LXV,abe,,west2630,wnimi-,AB:3,,,,,,"lead astray, seduce, get into trouble",,initial,,,,,,,,,,wônimi-
 1048,Day,GMD1995,LXV,abe,,west2630,wôb-,AB:3,,,,,,white ,,initial,,,,,,,,,,ôb-
 1049,Day,GMD1995,LXV,abe,,west2630,wôg-,AB:3,,,,,,"bend, curve",,initial
 1050,Day,GMD1995,LXV,abe,,west2630,wôgwas,AB:3,,,,,,bear's den,,initial
@@ -1057,11 +1057,11 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 810,Day,GMD1995,LXVI,abe,,west2630,wspôz-,AB:3,,,,,,early in the morning,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see ospôz-
 815,Day,GMD1995,LXVI,abe,,west2630,wzogena,AB:3,,,,,,tail ,,initial,,,,,,,,,,ozogena
 816,Day,GMD1995,LXVI,abe,,west2630,wzôm-,AB:3,,,,,,"too much, too--",,initial,,,,,,,,,,ozôm-
-1060,Day,GMD1995,LXVI,abe,,west2630,zaag-,AB:3,,,,,,"difficult, hard",,initial,,,,,,,,,,,,,,,,,,,,,,,,,see zahag-
+1064,Day,GMD1995,LXVI,abe,,west2630,zaag-,AB:3,,,,,,"difficult, hard",,initial,,,,,,,,,,,,,,,,,,,,,,,,,see zahag-
 1061,Day,GMD1995,LXVI,abe,,west2630,zaba-,AB:3,,,,,,"noise, disturbance",,initial
 1062,Day,GMD1995,LXVI,abe,,west2630,zag-,AB:3,,,,,,"fear, fright, afraid",,initial
 1063,Day,GMD1995,LXVI,abe,,west2630,zaga-,AB:3,,,,,,bite,,initial
-1064,Day,GMD1995,LXVI,abe,,west2630,zahag-,AB:3,,,,,,"hard, difficult ",,initial,,,,,,,,,,commonly zaag-
+1064,Day,GMD1995,LXVI,abe,,west2630,zahag-,AB:3,,,,,,"hard, difficult ",,initial,,,,,,,,,,,,,,,,,,,,,,,,,commonly zaag-
 1065,Day,GMD1995,LXVI,abe,,west2630,zaka,AB:3,,,,,,stand,,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. ska
 1066,Day,GMD1995,LXVI,abe,,west2630,zakh-,AB:3,,,,,,the woods,,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. gip- 
 1067,Day,GMD1995,LXVI,abe,,west2630,zakoz-,AB:3,,,,,,"win, triumph, conquer",,initial
@@ -1077,7 +1077,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1077,Day,GMD1995,LXVI,abe,,west2630,zazôm-,AB:3,,,,,,weak,,initial
 1078,Day,GMD1995,LXVI,abe,,west2630,zedi,AB:3,,,,,,evergreen (coniferous) bough,,initial
 1079,Day,GMD1995,LXVI,abe,,west2630,zegik-,AB:3,,,,,,tight,,initial
-1080,Day,GMD1995,LXVI,abe,,west2630,zegosk-,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,zegwesk- 
+1082,Day,GMD1995,LXVI,abe,,west2630,zegosk-,AB:3,,,,,,NG,,initial,,,,,,,,,,zegwesk- 
 1081,Day,GMD1995,LXVI,abe,,west2630,-zegwes,AB:3,,,,,,mother-in-law,,initial
 1082,Day,GMD1995,LXVII,abe,,west2630,zegwesk-,AB:3,,,,,,"break up, take apart, divide ",,initial,,,,,,,,,,zegosk-
 1083,Day,GMD1995,LXVII,abe,,west2630,zeleg-,AB:3,,,,,,"press, squeeze",,initial
@@ -1106,9 +1106,9 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1106,Day,GMD1995,LXVII,abe,,west2630,zow-,AB:3,,,,,,stretch,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see ziptag-
 1107,Day,GMD1995,LXVIII,abe,,west2630,zowi,AB:3,,,,,,sour ,,initial
 1108,Day,GMD1995,LXVIII,abe,,west2630,zôb-,AB:3,,,,,,through,,initial
-1109,Day,GMD1995,LXVIII,abe,,west2630,zôg-,AB:3,,,,,,"emerge, appear, spround (a plant or bud)",,initial
+1109,Day,GMD1995,LXVIII,abe,,west2630,zôg-,AB:3,,,,,,"emerge, appear, sprout (a plant or bud)",,initial
 1110,Day,GMD1995,LXVIII,abe,,west2630,zôgel-,AB:3,,,,,,"hard, strong, sound, tight, difficult",,initial
-1111,Day,GMD1995,LXVIII,abe,,west2630,zôgenaw-,AB:3,,,,,,"quiet, tranquid, peaceful",,initial
+1111,Day,GMD1995,LXVIII,abe,,west2630,zôgenaw-,AB:3,,,,,,"quiet, tranquil, peaceful",,initial
 1112,Day,GMD1995,LXVIII,abe,,west2630,zôkh-,AB:3,,,,,,approach,,initial
 1113,Day,GMD1995,LXVIII,abe,,west2630,zôkwkwa-,AB:3,,,,,,"sound, ring",,initial
 1114,Day,GMD1995,LXVIII,abe,,west2630,zôkwta,AB:3,,,,,,"exhaust, run out of",,initial
