@@ -1525,3 +1525,6 @@ UNMATCHED_COMPONENT-Abenaki_Western-1114,UNMATCHED_COMPONENT,Abenaki_Western: Th
 UNMATCHED_COMPONENT-Abenaki_Western-1115,UNMATCHED_COMPONENT,Abenaki_Western: The component ID for token undefined does not exist.
 MISSING_TOKEN-Abenaki_Western-undefined,MISSING_TOKEN,Abenaki_Western: Component undefined does not have any tokens.
 MISSING_TOKEN-Abenaki_Western-207,MISSING_TOKEN,Abenaki_Western: Component 207 does not have any tokens.
+UNMATCHED_COMPONENT-Kickapoo-369,UNMATCHED_COMPONENT,Kickapoo: The component ID for token undefined does not exist.
+MISSING_TOKEN-Kickapoo-167,MISSING_TOKEN,Kickapoo: Component 167 does not have any tokens.
+MISSING_TOKEN-Kickapoo-669,MISSING_TOKEN,Kickapoo: Component 669 does not have any tokens.

@@ -8,8 +8,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 7,Voorhis,PV1977,0046,kic,,kick1244,-'aten-,KP:1,,,,,,be X (of cold),,final,II,,,,,-'aci-,,,,,,θiikaten-,,,V,II,"be frozen, freeze",,PV1977;0046
 8,Voorhis,PV1977,"0044,0047",kic,,kick1244,-'i-,KP:1,,,,,,"have, have an X, have Xs",,final,AI,,,,,,,,,,,otahki-,,,V,AI,have land,Y,PV1977;0044,osooniaahemi-,,,V,AI,have money,,PV1977;0048
 9,Voorhis,PV1983,"0078,0079,0084",kic,,kick1244,-'í-,KP:1,,,,,,"...-y, covered or infested with ...",,medial,,,,Y,N,,,,,,,manetooθeehíi-,,,V,AI,be buggy or wormy,Y,PV1983;0079,manetooθeehíi-,,,V,II,be buggy or wormy,Y,PV1983;0079,móecíi-,,,V,AI,be covered with dung = have dung on oneself,Y,PV1983;0084,okooníi-,,,V,AI,be covered with snow,Y,PV1983;0084
-10,Voorhis,PV1983,0084,kic,,kick1244,-'íteehee-,KP:1,,,,,,desire to,,final,AI,,,,,,,,,,,(w)iiθeníiteehee-,,,V,AI,desire to eat,,PV1983;0085,,,,,,,,,,,,,,,,,,,,,,,,,,,,-iteehee-,-∅
-11,Voorhis,PV1977,0048,kic,,kick1244,-'iθo-,KP:1,,,,,,"have an X name, belong to the X clan",,final,,,,,,,,,,,,maaniθiθ-,,,V,AI,have a White American name,,PV1977;0048,mahkwiθo-,,,V,AI,belong to the bear clan,,PV1977;0048,mekeθíiθo-,,,V,AI,belong to the eagle clan,,PV1977;0048,miiniθo-,,,V,AI,belong to the berry clan,,PV1977;0048
+549,Voorhis,PV1983,0084,kic,,kick1244,-'íteehee-,KP:1,,,,,,desire to,,final,AI,,,,,,,,,,,(w)iiθeníiteehee-,,,V,AI,desire to eat,,PV1983;0085,,,,,,,,,,,,,,,,,,,,,,,,,,,,-iteehee-,-∅
+575,Voorhis,PV1977,0048,kic,,kick1244,-'iθo-,KP:1,,,,,,"have an X name, belong to the X clan",,final,,,,,,,,,,,,maaniθiθ-,,,V,AI,have a White American name,,PV1977;0048,mahkwiθo-,,,V,AI,belong to the bear clan,,PV1977;0048,mekeθíiθo-,,,V,AI,belong to the eagle clan,,PV1977;0048,miiniθo-,,,V,AI,belong to the berry clan,,PV1977;0048
 12,Goddard,IG1990a,0467,kic,,kick1244,-∅,KP:2,,,,,,NG,,final,AI,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 13,Voorhis,PV1977,0045,kic,,kick1244,-∅,KP:1,,,,,,NG,,final,AI,,,,,,,,,,,aahtee-,,,V,AI,"be/become extinguished, be/go out (of fire or of something burning)",,PV1977;0045,aseno-,,,V,AI,be none/lacking/all gone,,PV1977;0045,asken-,,,V,AI,be raw,,PV1977;0046
 14,Voorhis,PV1977,0045,kic,,kick1244,-∅,KP:1,,,,,,NG,,final,II,,,,,,,,,,,aahtee-,,,V,II,"be/become extinguished, be/go out (of fire or of something burning)",,PV1977;0045,aseno-,,,V,II,be none/lacking/all gone,,PV1977;0045,asken-,,,V,II,be raw,,PV1977;0046
@@ -42,7 +42,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 40,Voorhis,PV1988,0145,kic,,kick1244,-aak- ,KP:1,,,,,,"part of a house, yard",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 42,Voorhis,PV1983,"0078,0083",kic,,kick1244,-aakam-,KP:1,,,,,,liquid,,medial,CLASS,,,,,,,,,,,menwaakami-,,,V,II,be good (of a liquid) = be clear liquid,,PV1983;0084,mahkwaataakamiθen-,,,V,II,be still (of a liquid),,PV1983;0084
 42,Voorhis,PV1988,0145,kic,,kick1244,-aakam- ,KP:1,,,,,,liquid,,medial
-44,Voorhis,PV1977,0047,kic,,kick1244,-áaki,KP:1,,,,,,X groups,,final
+45,Voorhis,PV1977,0047,kic,,kick1244,-áaki,KP:1,,,,,,X groups,,final
 45,Voorhis,PV1988,0145,kic,,kick1244,-áaki-,KP:1,,,,,,"groups, bundles, bunches, packages",,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 46,Voorhis,PV1977,0048,kic,,kick1244,-aakoom-,KP:1,,,,,,be related to him as an X,,final,TA,,,,,,,,,,,ooθaakoom-,,,V,TA,be related to him as a son,,PV1977;0048,ooθaakoom-,,,V,TA,be related to him as a father,,PV1977;0048
 47,Voorhis,PV1988,0145,kic,,kick1244,-aakoθi-,KP:1,,,,,,be …-ed (passive),,final,AI
@@ -101,7 +101,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 98,Voorhis,PV1977,"0046,0047",kic,,kick1244,-aatee-,KP:1,,,,,,be X in color,,final,II,,,,,,,,,,,inaatee-,,,V,II,be so/like that in color (relative),,PV1977;0046,mahkateaatee-,,,V,II,be black in color,,PV1977;0046,kaahpiihaate-,,,V,II,"be coffee colored, be brown",,PV1977;0047,swaaminaatee-,,,V,II,"be grape colored, be purple",,PV1977;0047
 101,Voorhis,PV1988,0146,kic,,kick1244,-aateθi-,KP:1,,,,,,feel so,,final,AI
 101,Voorhis,PV1977,0046,kic,,kick1244,-aateθi-,KP:1,,,,,,feel X,,final,AI,,,,,,,,,,,inaateθi-,,,V,AI,"feel so, feel like that (relative)",,PV1977;0046,kesaataateθi-,,,V,AI,feel friendly,,PV1977;0046,opaateθi-,,,V,AI,feel happy,,PV1977;0046
-103,Voorhis,PV1977,0047,kic,,kick1244,-aatoe-,KP:1,,,,,,speak/talk the X language,,final,AI,,,Y,,,,,,,,kiikaapoaatoee-,,,V,AI,speak the Kickapoo language = speak Kickapoo,Y,PV1977;0047,maaniθaatoee-,,,V,AI,speak the White American language = speak English,Y,PV1977;0047,oθaakiaatoee-,,,V,AI,speak the Sauk language,Y,PV1977;0047
+105,Voorhis,PV1977,0047,kic,,kick1244,-aatoe-,KP:1,,,,,,speak/talk the X language,,final,AI,,,Y,,,,,,,,kiikaapoaatoee-,,,V,AI,speak the Kickapoo language = speak Kickapoo,Y,PV1977;0047,maaniθaatoee-,,,V,AI,speak the White American language = speak English,Y,PV1977;0047,oθaakiaatoee-,,,V,AI,speak the Sauk language,Y,PV1977;0047
 105,Voorhis,PV1988,0146,kic,,kick1244,-aatoee-,KP:1,,,,,,"speak or talk the language of such a people, speak or talk a language",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 105,Voorhis,PV1977,0049,kic,,kick1244,-aatoee-,KP:1,,,,,,speak/talk (a language),,final,AI,,,,,,,,,,,inaatoee-,,,V,AI,speak (a language) so (relative) = speak such a language,,PV1977;0049,mianaatoee-,,,V,AI,speak (a language) badly,,PV1977;0049,waanaatoee-,,,V,AI,be unable to speak (a language),,PV1977;0049
 107,Voorhis,PV1988,0146,kic,,kick1244,-aatotam-,KP:1,,,,,,"speak, talk, or tell about it",,final,TI
@@ -147,67 +147,67 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 145,Voorhis,PV1977,0053,kic,,kick1244,́-áisim-,KP:1,,,,,,water him,,final,TA,,,,,,,,́-áiθetoo-,,,*tahkáisim-,,,V,TA,water him,,PV1977;0053,kiisáisim-,,,V,TA,finish watering him,,PV1977;0053,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Here I tried putting the accent above/before the hyphen, as it's written in-text...still not sure about it"
 147,Voorhis,PV1988,0147,kic,,kick1244,-aiθetoo-,KP:1,,,,,,water it,,final,TI,,,,,,,-aisim-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 147,Voorhis,PV1977,0053,kic,,kick1244,́-áiθetoo-,KP:1,,,,,,water it,,final,TI,,,,,,,́-áisim-,,,,tahkáiθetoo-,,,V,TI,water it,,PV1977;0053,aahteáiθetoo-,,,V,TI,put out a fire in/on it by watering it,,PV1977;0053,kiisáiθetoo-,,,V,TI,finish watering it,,PV1977;0053,,,,,,,,,,,,,,,,,"GVM: Here I tried putting the accent above/before the hyphen, as it's written in-text...still not sure about it"
-149,Voorhis,PV1988,0147,kic,,kick1244,-akimo-,KP:1,,,,,,"cost, be priced, cost or be priced at so many dollars",,final,AI,,,,,,-akitee-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+150,Voorhis,PV1988,0147,kic,,kick1244,-akimo-,KP:1,,,,,,"cost, be priced, cost or be priced at so many dollars",,final,AI,,,,,,-akitee-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 150,Voorhis,PV1977,"0044,0049",kic,,kick1244,-akimo-,KP:1,,,,,,"cost, be priced",,final,AI,,,,,,-akitee-,,,,,keeθookimo-,,,V,AI,cost/be priced at how much?,,PV1977;0044,inakimo-,,,V,AI,cost/be priced so,,PV1977;0044,,,,,,,,,,,,,,,,,,,,,,,,,GVM: The ? is included in-text
 151,Voorhis,PV1988,0147,kic,,kick1244,-akitaaθo-,KP:1,,,,,,count,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 152,Voorhis,PV1977,0049,kic,,kick1244,-akitee,KP:1,,,,,,"cost, be priced",,final,II,,,,,-akimo-,,,,,,áníakitee-,,,V,II,cost/be priced excessively = be expensive,,PV1977;0049,inakitee-,,,V,II,cost/be priced so (relative) = cost/be priced at so much (relative),,PV1977;0049
-153,Voorhis,PV1988,0147,kic,,kick1244,-akitee-,KP:1,,,,,,"cost, be priced, cost or be priced at so many dollars",,final,II,,,,,-akimo-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+152,Voorhis,PV1988,0147,kic,,kick1244,-akitee-,KP:1,,,,,,"cost, be priced, cost or be priced at so many dollars",,final,II,,,,,-akimo-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 154,Voorhis,PV1988,0147,kic,,kick1244,-akoocin-,KP:1,,,,,,hang,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-155,Voorhis,PV1977,0049,kic,,kick1244,-akoocin-,KP:1,,,,,,hang,,final,AI,,,,,,,,,,,askakoo-cin-,,,V,AI,be tired of hanging,,PV1977;0050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: marked with * in-text
+154,Voorhis,PV1977,0049,kic,,kick1244,-akoocin-,KP:1,,,,,,hang,,final,AI,,,,,,,,,,,askakoo-cin-,,,V,AI,be tired of hanging,,PV1977;0050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: marked with * in-text
 156,Voorhis,PV1988,0148,kic,,kick1244,-akootoo-,KP:1,,,,,,hang it up,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-157,Voorhis,PV1977,0053,kic,,kick1244,-akootoo-,KP:1,,,,,,hang it up,,final,TI,,,,,,,*-akoon/s-,,,,akootoo-,,,V,TI,hang it up,,PV1977;0053,kepakootoo-,,,V,TI,hang it up in the way,,PV1977;0053
+156,Voorhis,PV1977,0053,kic,,kick1244,-akootoo-,KP:1,,,,,,hang it up,,final,TI,,,,,,,*-akoon/s-,,,,akootoo-,,,V,TI,hang it up,,PV1977;0053,kepakootoo-,,,V,TI,hang it up in the way,,PV1977;0053
 158,Voorhis,PV1988,0148,kic,,kick1244,-am-,KP:1,,,,,,him by mouth; eat him,,final,TA
 159,Voorhis,PV1988,0148,kic,,kick1244,-am-,KP:1,,,,,,inanimate,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not clear what the meaning is.,,,MAM
-160,Voorhis,PV1977,0053,kic,,kick1244,-am-,KP:1,,,,,,use the mouth on him,,final,TA,,,,,,,,-atam-,,,amw-,,,V,TA,eat/drink him,,PV1977;0053,caakam-,,,V,TA,eat/drink all of him = eat/drink him up,,PV1977;0053,tanam-,,,V,TA,eat/drink him at that place (relative),,PV1977;0053
+158,Voorhis,PV1977,0053,kic,,kick1244,-am-,KP:1,,,,,,use the mouth on him,,final,TA,,,,,,,,-atam-,,,amw-,,,V,TA,eat/drink him,,PV1977;0053,caakam-,,,V,TA,eat/drink all of him = eat/drink him up,,PV1977;0053,tanam-,,,V,TA,eat/drink him at that place (relative),,PV1977;0053
 161,Voorhis,PV1988,0148,kic,,kick1244,-amatam-,KP:1,,,,,,be (of illness or pain),,final,AI
 162,Voorhis,PV1988,0148,kic,,kick1244,-amaθehka(w)-,KP:1,,,,,,"make or get him (of illness or pain, causative)",,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 163,Voorhis,PV1988,0148,kic,,kick1244,-an-,KP:1,,,,,,be (of flavour),,final,II
-164,Voorhis,PV1977,0046,kic,,kick1244,-an-,KP:1,,,,,,be X (of flavor),,final,II,,,,,-en-,,,,,,peskipan-,,,V,II,be sour,,PV1977;0046,(w)iikan-,,,V,II,be delicious,,PV1977;0046,(w)iiskopan-,,,V,II,be sweet/salty,,PV1977;0046,(w)iiθakan-,,,V,II,be bitter/hot tasting,,PV1977;0046
-165,Voorhis,PV1988,0148,kic,,kick1244,-anen-,KP:1,,,,,,be rotten,,final,AI,,,,,,-anet-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+163,Voorhis,PV1977,0046,kic,,kick1244,-an-,KP:1,,,,,,be X (of flavor),,final,II,,,,,-en-,,,,,,peskipan-,,,V,II,be sour,,PV1977;0046,(w)iikan-,,,V,II,be delicious,,PV1977;0046,(w)iiskopan-,,,V,II,be sweet/salty,,PV1977;0046,(w)iiθakan-,,,V,II,be bitter/hot tasting,,PV1977;0046
+166,Voorhis,PV1988,0148,kic,,kick1244,-anen-,KP:1,,,,,,be rotten,,final,AI,,,,,,-anet-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 166,Voorhis,PV1977,0050,kic,,kick1244,-anen-,KP:1,,,,,,rot,,final,AI,,,,,,-anet-,,,,,anen-,,,V,AI,be rotten,,PV1977;0050,tananen-,,,V,AI,be rotten at that place (relative),,PV1977;0050
-167,Voorhis,PV1988,0148,kic,,kick1244,-anet-,KP:1,,,,,,be rotten,,final,II,,,,,-anen-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+168,Voorhis,PV1988,0148,kic,,kick1244,-anet-,KP:1,,,,,,be rotten,,final,II,,,,,-anen-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 168,Voorhis,PV1977,0050,kic,,kick1244,-anet-,KP:1,,,,,,rot,,final,II,,,,,-anen-,,,,,,anet-,,,V,II,be rotten,,PV1977;0050,tananet-,,,V,II,be rotten at that place (relative),,PV1977;0050
 169,Voorhis,PV1988,0148,kic,,kick1244,-anoham-,KP:1,,,,,,"buy it on credit, borrow or owe money for it",,final,TI,,,,,,,-anohw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-170,Voorhis,PV1977,0053,kic,,kick1244,-anoham-,KP:1,,,,,,buy it on credit/owe money for it,,final,TI,,,,,,,-anohw-,,,,meθanoham-,,,V,TI,"buy it on credit, owe/borrow money for it",,PV1977;0053
+169,Voorhis,PV1977,0053,kic,,kick1244,-anoham-,KP:1,,,,,,buy it on credit/owe money for it,,final,TI,,,,,,,-anohw-,,,,meθanoham-,,,V,TI,"buy it on credit, owe/borrow money for it",,PV1977;0053
 171,Voorhis,PV1988,0148,kic,,kick1244,-anohw-,KP:1,,,,,,"buy him on credit, borrow or owe money for him",,final,TA,,,,,,,,-anoham-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-172,Voorhis,PV1977,0053,kic,,kick1244,-anohw-,KP:1,,,,,,buy him on credit/owe money for him,,final,TA,,,,,,,,-anoham-,,,inanohikee-,,,V,TA,borrow/owe so (much money) for something (relative),Y,PV1977;0053,meθanohw-,,,V,TA,"buy him on credit, owe/borrow money for him",,PV1977;0053
+171,Voorhis,PV1977,0053,kic,,kick1244,-anohw-,KP:1,,,,,,buy him on credit/owe money for him,,final,TA,,,,,,,,-anoham-,,,inanohikee-,,,V,TA,borrow/owe so (much money) for something (relative),Y,PV1977;0053,meθanohw-,,,V,TA,"buy him on credit, owe/borrow money for him",,PV1977;0053
 173,Voorhis,PV1988,0148,kic,,kick1244,-anw-,KP:1,,,,,,"earth, ground ",,final,NI
-174,Voorhis,PV1988,0148,kic,,kick1244,-apenee-,KP:1,,,,,,be hungry,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+175,Voorhis,PV1988,0148,kic,,kick1244,-apenee-,KP:1,,,,,,be hungry,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 175,Voorhis,PV1977,0050,kic,,kick1244,-apenee-,KP:1,,,,,,be hungry,,final,AI,,,,,,,,,,,kiikapenee-,,,V,AI,endure being hungry,,PV1977;0050,pietapenee-,,,V,AI,be hungry on arrival,,PV1977;0050
 176,Voorhis,PV1988,0148,kic,,kick1244,-api-,KP:1,,,,,,sit; sit there (rel.),,final,AI
-177,Voorhis,PV1977,"0043,0044,0050",kic,,kick1244,-api-,KP:1,,,,,,sit,,final,AI,,,,,,,,,,,naakweepi-,,,V,AI,sit first/in front/ahead,,PV1977;0043,askapi-,,,V,AI,be tired of sitting,,PV1977;0043,niisoopi-,,,V,AI,be two sitting,,PV1977;0044,kiihkapi-,,,V,AI,sit farther away,,PV1977;0050
+176,Voorhis,PV1977,"0043,0044,0050",kic,,kick1244,-api-,KP:1,,,,,,sit,,final,AI,,,,,,,,,,,naakweepi-,,,V,AI,sit first/in front/ahead,,PV1977;0043,askapi-,,,V,AI,be tired of sitting,,PV1977;0043,niisoopi-,,,V,AI,be two sitting,,PV1977;0044,kiihkapi-,,,V,AI,sit farther away,,PV1977;0050
 178,Voorhis,PV1988,0148,kic,,kick1244,-apin/s-,KP:1,,,,,,tie him,,final,TA,,,,,,,,-apitoo-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-179,Voorhis,PV1977,0053,kic,,kick1244,-apin/s-,KP:1,,,,,,tie him,,final,TA,,,,,,,,-apitoo-,,,kiisapin/s-,,,V,TA,finish tying him,,PV1977;0053,(w)eepapin/s-,,,V,TA,begin to tie him,,PV1977;0053,pehkwapin/s-,,,V,TA,make him a spherical bundle by tying him = tie him in a spherical bundle,,PV1977;0053
+178,Voorhis,PV1977,0053,kic,,kick1244,-apin/s-,KP:1,,,,,,tie him,,final,TA,,,,,,,,-apitoo-,,,kiisapin/s-,,,V,TA,finish tying him,,PV1977;0053,(w)eepapin/s-,,,V,TA,begin to tie him,,PV1977;0053,pehkwapin/s-,,,V,TA,make him a spherical bundle by tying him = tie him in a spherical bundle,,PV1977;0053
 180,Voorhis,PV1988,0148,kic,,kick1244,-apitoo-,KP:1,,,,,,tie it,,final,TI,,,,,,,-apin/s-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-181,Voorhis,PV1977,0053,kic,,kick1244,-apitoo-,KP:1,,,,,,tie it,,final,TI,,,,,,,-apin/s-,,,,pehkwapitoo-,,,V,TI,make it a spherical bundle by tying it = tie it in a spherical bundle,,PV1977;0053
+180,Voorhis,PV1977,0053,kic,,kick1244,-apitoo-,KP:1,,,,,,tie it,,final,TI,,,,,,,-apin/s-,,,,pehkwapitoo-,,,V,TI,make it a spherical bundle by tying it = tie it in a spherical bundle,,PV1977;0053
 182,Voorhis,PV1988,0148,kic,,kick1244,-apwih-,KP:1,,,,,,wait for him,,final,TA
-183,Voorhis,PV1977,0053,kic,,kick1244,-apwih-,KP:1,,,,,,wait for him,,final,TA,,,,,,,,*-ahpwihtoo-,,,apwih-,,,V,TA,wait for him,,PV1977;0053,tanapwih-,,,V,TA,wait for him at that place (relative),,PV1977;0053
+182,Voorhis,PV1977,0053,kic,,kick1244,-apwih-,KP:1,,,,,,wait for him,,final,TA,,,,,,,,*-ahpwihtoo-,,,apwih-,,,V,TA,wait for him,,PV1977;0053,tanapwih-,,,V,TA,wait for him at that place (relative),,PV1977;0053
 184,Voorhis,PV1988,0148,kic,,kick1244,-asih-,KP:1,,,,,,put a load on him,,final,TA,,,,,,,,-asih-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-185,Voorhis,PV1977,0053,kic,,kick1244,-asih-,KP:1,,,,,,put a load on him,,final,TA,,,,,,,,-asihtoo-,,,aníasih-,,,V,TA,put a load on him excessively = put an excessive load on him,,PV1977;0054,kiisasih-,,,V,TA,finish putting a load on him,,PV1977;0054
+184,Voorhis,PV1977,0053,kic,,kick1244,-asih-,KP:1,,,,,,put a load on him,,final,TA,,,,,,,,-asihtoo-,,,aníasih-,,,V,TA,put a load on him excessively = put an excessive load on him,,PV1977;0054,kiisasih-,,,V,TA,finish putting a load on him,,PV1977;0054
 186,Voorhis,PV1988,0148,kic,,kick1244,-asihtoo-,KP:1,,,,,,put a load on it,,final,TI,,,,,,,-asih-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-187,Voorhis,PV1977,0053,kic,,kick1244,-asihtoo-,KP:1,,,,,,put a load on it,,final,TI,,,,,,,-asih-,,,,aníasihtoo-,,,V,TI,put a load on it excessively = put an excessive load on it,,PV1977;0054
+186,Voorhis,PV1977,0053,kic,,kick1244,-asihtoo-,KP:1,,,,,,put a load on it,,final,TI,,,,,,,-asih-,,,,aníasihtoo-,,,V,TI,put a load on it excessively = put an excessive load on it,,PV1977;0054
 188,Voorhis,PV1988,0148,kic,,kick1244,-ask-,KP:1,,,,,,"grass, weeds, small plants",,medial
-189,Voorhis,PV1983,0084,kic,,kick1244,-ask-,KP:1,,,,,,"grass, weeds, small plants",,medial,CLASS,,,,,,,,,,,ihpaskat-,,,V,II,"be tall (of grass, weeds, or small plants)",,PV1983;0084,kiiskahkesam-,,,V,TI,"cut it apart (grass, weeds, or small plants)",,PV1983;0084
+188,Voorhis,PV1983,0084,kic,,kick1244,-ask-,KP:1,,,,,,"grass, weeds, small plants",,medial,CLASS,,,,,,,,,,,ihpaskat-,,,V,II,"be tall (of grass, weeds, or small plants)",,PV1983;0084,kiiskahkesam-,,,V,TI,"cut it apart (grass, weeds, or small plants)",,PV1983;0084
 190,Voorhis,PV1988,0148,kic,,kick1244,-askeso-,KP:1,,,,,,get a haircut,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 191,Voorhis,PV1988,0148,kic,,kick1244,-askesw-,KP:1,,,,,,cut his hair,,final,TA
 192,Voorhis,PV1988,0148,kic,,kick1244,-at-,KP:1,,,,,,be,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 193,Voorhis,PV1977,0046,kic,,kick1244,-at-,KP:1,,,,,,NG,,final,II,,,,,,,,,,,eecinóat-,,,V,II,be easy,,PV1977;0046,θanakat-,,,V,II,be difficult,,PV1977;0046
-194,Voorhis,PV1983,"0078,0083",kic,,kick1244,-at-,KP:1,,,,,,be,,final,II,,,,,-eθi-,,,,,,pesikwaahkwat-,,,V,II,be straight (of wood or of something wooden),,PV1983;0078
+192,Voorhis,PV1983,"0078,0083",kic,,kick1244,-at-,KP:1,,,,,,be,,final,II,,,,,-eθi-,,,,,,pesikwaahkwat-,,,V,II,be straight (of wood or of something wooden),,PV1983;0078
 195,Voorhis,PV1988,0148,kic,,kick1244,-ataham-,KP:1,,,,,,hit or strike it,,final,TI,,,,,,,-atahw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-196,Voorhis,PV1977,0054,kic,,kick1244,-ataham-,KP:1,,,,,,hit/strike it,,final,TI,,,,,,,-atahw-,,,,kiipataham-,,,V,TI,hit/strike it down in a fall = knock it down by hitting/striking it,,PV1977;0054
+195,Voorhis,PV1977,0054,kic,,kick1244,-ataham-,KP:1,,,,,,hit/strike it,,final,TI,,,,,,,-atahw-,,,,kiipataham-,,,V,TI,hit/strike it down in a fall = knock it down by hitting/striking it,,PV1977;0054
 197,Voorhis,PV1988,0148,kic,,kick1244,-atahw-,KP:1,,,,,,hit or strike him,,final,TA,,,,,,,,-ataham-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-198,Voorhis,PV1977,0054,kic,,kick1244,-atahw-,KP:1,,,,,,hit/strike him,,final,TA,,,,,,,,-ataham-,,,sekwatahw-,,,V,TA,squash him by hitting/striking him,,PV1977;0054,(w)iiθakatahw-,,,V,TA,hurt him by hitting/striking him,,PV1977;0054
+197,Voorhis,PV1977,0054,kic,,kick1244,-atahw-,KP:1,,,,,,hit/strike him,,final,TA,,,,,,,,-ataham-,,,sekwatahw-,,,V,TA,squash him by hitting/striking him,,PV1977;0054,(w)iiθakatahw-,,,V,TA,hurt him by hitting/striking him,,PV1977;0054
 199,Voorhis,PV1988,0148,kic,,kick1244,-atam-,KP:1,,,,,,"it by mouth; eat it, drink it",,final,TI
 200,Voorhis,PV1977,0053,kic,,kick1244,-atam-,KP:1,,,,,,use the mouth on it,,final,TI,,,,,,,-am-,,,,caakatam-,,,V,TI,eat/drink all of it = eat/drink it up,,PV1977;0053,otaahpatam-,,,V,TI,pick it up by using one's mouth on it = pick it up in one's mouth,,PV1977;0053,paaθatam-,,,V,TI,split it by using the mouth on it = split it in one's mouth,,PV1977;0053,tanatam-,,,V,TI,eat/drink it at that place (relative),,PV1977;0053
-201,Voorhis,PV1983,"0078,0079,0081",kic,,kick1244,-atee-,KP:1,,,,,,width,,medial,,,,,,,,,,,,aahcikateeki-,,,V,AI,be of small width = be narrow,,PV1983;0078,aahcikateaa-,,,V,II,be of small width = be narrow,,PV1983;0078,makateeki-,,,V,AI,be of large width = be wide,,PV1983;0078,makateaa-,,,V,II,be of large width = be wide,,PV1983;0078
+202,Voorhis,PV1983,"0078,0079,0081",kic,,kick1244,-atee-,KP:1,,,,,,width,,medial,,,,,,,,,,,,aahcikateeki-,,,V,AI,be of small width = be narrow,,PV1983;0078,aahcikateaa-,,,V,II,be of small width = be narrow,,PV1983;0078,makateeki-,,,V,AI,be of large width = be wide,,PV1983;0078,makateaa-,,,V,II,be of large width = be wide,,PV1983;0078
 202,Voorhis,PV1988,0149,kic,,kick1244,-atee- ,KP:1,,,,,,width,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 203,Voorhis,PV1988,0149,kic,,kick1244,-aten-,KP:1,,,,,,be (of cold),,final,II
 204,Voorhis,PV1988,0149,kic,,kick1244,-atoneeham-,KP:1,,,,,,"seek it, look for it",,final,TI,,,,,,,-atoneehw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-205,Voorhis,PV1977,0054,kic,,kick1244,-atoneeham-,KP:1,,,,,,seek/look for it,,final,TI,,,,,,,-atoneehw-,,,,kíatoneeham-,,,V,TI,look around aimlessly for it,,PV1977;0054
+204,Voorhis,PV1977,0054,kic,,kick1244,-atoneeham-,KP:1,,,,,,seek/look for it,,final,TI,,,,,,,-atoneehw-,,,,kíatoneeham-,,,V,TI,look around aimlessly for it,,PV1977;0054
 206,Voorhis,PV1988,0149,kic,,kick1244,-atoneehw-,KP:1,,,,,,"seek him, look for him",,final,TA,,,,,,,,-atoneeham-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-207,Voorhis,PV1977,0054,kic,,kick1244,-atoneehw-,KP:1,,,,,,seek/look for him,,final,TA,,,,,,,,-atoneeham-,,,kíatoneehw-,,,V,TA,look around aimlessly for him,,PV1977;0054,pietoneehw-,,,V,TA,come to seek/look for him,,PV1977;0054
+206,Voorhis,PV1977,0054,kic,,kick1244,-atoneehw-,KP:1,,,,,,seek/look for him,,final,TA,,,,,,,,-atoneeham-,,,kíatoneehw-,,,V,TA,look around aimlessly for him,,PV1977;0054,pietoneehw-,,,V,TA,come to seek/look for him,,PV1977;0054
 208,Voorhis,PV1988,0023,kic,,kick1244,-ciikwan-,KP:1,,,,,,knee,,medial,InanDep
-209,Voorhis,PV1983,"0081,0086",kic,,kick1244,-ecee-,KP:1,,,,,,body,,medial,,,,,,,,,,,,koteceen-,,,V,TA,feel of his body,,PV1983;0081,makecee-,,,V,AI,have a large body,,PV1983;0081,makeceaa-,,,V,II,have a large body,,PV1983;0078,pemiteceeθen-,,,V,II,lie with one's body crosswise,,PV1983;0081,,,,,,,Y,meθiha-
+210,Voorhis,PV1983,"0081,0086",kic,,kick1244,-ecee-,KP:1,,,,,,body,,medial,,,,,,,,,,,,koteceen-,,,V,TA,feel of his body,,PV1983;0081,makecee-,,,V,AI,have a large body,,PV1983;0081,makeceaa-,,,V,II,have a large body,,PV1983;0078,pemiteceeθen-,,,V,II,lie with one's body crosswise,,PV1983;0081,,,,,,,Y,meθiha-
 210,Voorhis,PV1988,0149,kic,,kick1244,-ecee- ,KP:1,,,,,,body,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 211,Goddard,IG1990a,"0460,0462,0467,0468",kic,,kick1244,-ee-,KP:1,,,,,,NG,,final,AI,,,,,,,,,,,miasiaakw-inekw-ee-,,,V,AI,have bad-smelling armpits,,IG1990a;0460,,,askipak-imahkeθen-e·-,V,AI,be wearing green shoes,,IG1990a;0462,,,,,,,,,,,,,,,,,,,,,,,,,Uses raised dot for length in stem 'be wearing green shoes',,,MAM
 212,Voorhis,PV1988,0149,kic,,kick1244,-eeh-,KP:1,,,,,,"small, young (diminutive); …-er (agentive)",,final,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -228,58 +228,58 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 227,Voorhis,PV1988,0149,kic,,kick1244,-eenetam-,KP:1,,,,,,it by mind; think so about it,,final,TI,,,,,,,-eenem-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 228,Voorhis,PV1977,0054,kic,,kick1244,-eenetam-,KP:1,,,,,,"use the mind/thoughts on it, think about it",,final,TI,,,,,,,-eenem-,,,,eenikeenetam-,,,V,TI,"laugh on thinking about it = laught at the thought of it, laugh at it",,PV1977;0054,mehkweenetam-,,,V,TI,find it by mind/thoughts = think of/recall it,,PV1977;0054
 229,Voorhis,PV1983,0082,kic,,kick1244,-eenetam-,KP:1,,,,,,NG,,final,TI,,,,,,,,,,,eenikeenetam-,,,V,TI,laugh at it,,PV1983;0083,mehkweenetam-,,,V,TI,"think of it, recall it",,PV1983;0083,nenehkeenetam-,,,V,TI,think about it,,PV1983;0083
-230,Voorhis,PV1988,0149,kic,,kick1244,-ehkaa-,KP:1,,,,,,go,,final,AI
+231,Voorhis,PV1988,0149,kic,,kick1244,-ehkaa-,KP:1,,,,,,go,,final,AI
 231,Voorhis,PV1977,0051,kic,,kick1244,-ehkaa-,KP:1,,,,,,go,,final,AI,,,,,,,,,,,pemehkaa-,,,V,AI,go along/past,,PV1977;0050
 232,Voorhis,PV1977,0051,kic,,kick1244,-ehkaamikat-,KP:1,,,,,,go,,final,II,,,,,,,,,,,pemehkaamikat-,,,V,AI,go along/past,,PV1977;0050
 233,Voorhis,PV1988,0149,kic,,kick1244,-ehkee-,KP:1,,,,,,"acquire, gather, pick, harvest, hunt",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-234,Voorhis,PV1977,0047,kic,,kick1244,-ehkee-,KP:1,,,,,,acquire/gather/pick/harvest/hunt Xs,,final,AI,,,,,,,,,,,apasiihkee-,,,V,AI,gather poles,,PV1977;0047,memeeθehkee-,,,V,AI,hunt fishes = fish,,PV1977;0047,miinehkee-,,,V,AI,gather/pick berries,,PV1977;0047,siisiipeehehkee-,,,V,AI,hunt ducks,,PV1977;0047
+233,Voorhis,PV1977,0047,kic,,kick1244,-ehkee-,KP:1,,,,,,acquire/gather/pick/harvest/hunt Xs,,final,AI,,,,,,,,,,,apasiihkee-,,,V,AI,gather poles,,PV1977;0047,memeeθehkee-,,,V,AI,hunt fishes = fish,,PV1977;0047,miinehkee-,,,V,AI,gather/pick berries,,PV1977;0047,siisiipeehehkee-,,,V,AI,hunt ducks,,PV1977;0047
 235,Voorhis,PV1988,0149,kic,,kick1244,-ehkw-,KP:1,,,,,,female' in personal names,,final,NA
-236,Voorhis,PV1983,0081,kic,,kick1244,-ehkwee-,KP:1,,,,,,"hair of the head, head",,medial,,,,,,,,,,,,aθipehkweekaa-,,,V,AI,dance with heads together,,PV1983;0081,cahkoohkwee-,,,V,AI,have short hair,,PV1983;0081,nóehkwwskaa-,,,V,AI,put one's head outdoors,,PV1983;0081
+237,Voorhis,PV1983,0081,kic,,kick1244,-ehkwee-,KP:1,,,,,,"hair of the head, head",,medial,,,,,,,,,,,,aθipehkweekaa-,,,V,AI,dance with heads together,,PV1983;0081,cahkoohkwee-,,,V,AI,have short hair,,PV1983;0081,nóehkwwskaa-,,,V,AI,put one's head outdoors,,PV1983;0081
 237,Voorhis,PV1988,0149,kic,,kick1244,-ehkwee- ,KP:1,,,,,,"hair of the head, head",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 238,Voorhis,PV1988,0149,kic,,kick1244,-ehpo-,KP:1,,,,,,snow,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PV: Impersonal verb
-239,Voorhis,PV1977,0050,kic,,kick1244,-ehpo-,KP:1,,,,,,snow,,final,INTR.,,,,,,,,,,,tanehpo-,,,V,,snow at that place (relative),,PV1977;0050
+238,Voorhis,PV1977,0050,kic,,kick1244,-ehpo-,KP:1,,,,,,snow,,final,INTR.,,,,,,,,,,,tanehpo-,,,V,,snow at that place (relative),,PV1977;0050
 240,Voorhis,PV1988,0149,kic,,kick1244,-ehta(w)-,KP:1,,,,,,"hear him, understand him; think he sounds so",,final,TA,,,,,,,,-ehtam-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-241,Voorhis,PV1977,0054,kic,,kick1244,-ehta(w)-,KP:1,,,,,,hear/understand him; think he sounds X,,final,TA,,,,,,,,-ehtam-,,,nenohta(w)-,,,V,TA,hear/understand him,,PV1977;0054,eenikehta(w)-,,,V,TA,laugh on hearing him = laugh at the sound of him,,PV1977;0054,metaaθehta(w)-,,,V,TA,"like to hear him, enjoy hearing him",,PV1977;0054,paaskehta(w)-,,,V,TA,think he sounds cracked,,PV1977;0055
+240,Voorhis,PV1977,0054,kic,,kick1244,-ehta(w)-,KP:1,,,,,,hear/understand him; think he sounds X,,final,TA,,,,,,,,-ehtam-,,,nenohta(w)-,,,V,TA,hear/understand him,,PV1977;0054,eenikehta(w)-,,,V,TA,laugh on hearing him = laugh at the sound of him,,PV1977;0054,metaaθehta(w)-,,,V,TA,"like to hear him, enjoy hearing him",,PV1977;0054,paaskehta(w)-,,,V,TA,think he sounds cracked,,PV1977;0055
 242,Voorhis,PV1988,0149,kic,,kick1244,-ehtaee-,KP:1,,,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"no translation given. Says ""(meaning?)"".",,,MAM
 243,Voorhis,PV1988,0149,kic,,kick1244,-ehtam-,KP:1,,,,,,"hear it, understand it; think it sounds so",,final,TI,,,,,,,-ehta(w)-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-244,Voorhis,PV1977,0054,kic,,kick1244,-ehtam-,KP:1,,,,,,hear/understand it; think it sounds X,,final,TI,,,,,,,-ehta(w)-,,,,nenohtam-,,,V,TI,hear/understand it,,PV1977;0054,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: this form is marked *unattested ONLY on p. 55 regarding the meaning ""think it sounds X"""
+243,Voorhis,PV1977,0054,kic,,kick1244,-ehtam-,KP:1,,,,,,hear/understand it; think it sounds X,,final,TI,,,,,,,-ehta(w)-,,,,nenohtam-,,,V,TI,hear/understand it,,PV1977;0054,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: this form is marked *unattested ONLY on p. 55 regarding the meaning ""think it sounds X"""
 245,Voorhis,PV1988,0149,kic,,kick1244,-eii-,KP:1,,,,,,do  ,,final,AI
-246,Voorhis,PV1977,0049,kic,,kick1244,-eii-,KP:1,,,,,,"do, act, behave",,final,AI,,,,,,,,,,,kiiseii-,,,V,AI,finish doing = finish,,PV1977;0049,koceii-,,,V,AI,try to do = try,,PV1977;0049
+245,Voorhis,PV1977,0049,kic,,kick1244,-eii-,KP:1,,,,,,"do, act, behave",,final,AI,,,,,,,,,,,kiiseii-,,,V,AI,finish doing = finish,,PV1977;0049,koceii-,,,V,AI,try to do = try,,PV1977;0049
 247,Voorhis,PV1988,0150,kic,,kick1244,-ekaa-,KP:1,,,,,,dance,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-248,Voorhis,PV1977,"0044,0050",kic,,kick1244,-ekaa-,KP:1,,,,,,dance,,final,AI,,,,,,,,,,,niisookaa-,,,V,AI,be two dancing,,PV1977;0044,nahekaa-,,,V,AI,know how to dance,,PV1977;0044,inekaa-,,,V,AI,dance so (relative),,PV1977;0050,tanekaa-,,,V,AI,dance at that place (relative),,PV1977;0050
+247,Voorhis,PV1977,"0044,0050",kic,,kick1244,-ekaa-,KP:1,,,,,,dance,,final,AI,,,,,,,,,,,niisookaa-,,,V,AI,be two dancing,,PV1977;0044,nahekaa-,,,V,AI,know how to dance,,PV1977;0044,inekaa-,,,V,AI,dance so (relative),,PV1977;0050,tanekaa-,,,V,AI,dance at that place (relative),,PV1977;0050
 249,Voorhis,PV1988,0150,kic,,kick1244,-ekin-,KP:1,,,,,,be (of size),,final,AI
 250,Voorhis,PV1977,0046,kic,,kick1244,-ekin-,KP:1,,,,,,NG,,final,AI,,,,,,-yaa-,,,,,mesekin-,,,V,AI,be big/large,,PV1977;0046
 251,Voorhis,PV1983,0086,kic,,kick1244,-ekoθi-,KP:1,,,,,,passivizer,,final,AI,,,Y,TA
 252,Voorhis,PV1988,0150,kic,,kick1244,-ekwaam-,KP:1,,,,,,sleep,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-253,Voorhis,PV1977,"0050,0051",kic,,kick1244,-ekwaam-,KP:1,,,,,,sleep,,final,AI,,,,,,,,,,,nepaa-,,,V,AI,sleep; sleep at that place (relative),,PV1977;0050,kesóekwaam-,,,V,AI,sleep intensely = sleep soundly ,,PV1977;0050,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 51 ""suspected of unproductivity"""
+252,Voorhis,PV1977,"0050,0051",kic,,kick1244,-ekwaam-,KP:1,,,,,,sleep,,final,AI,,,,,,,,,,,nepaa-,,,V,AI,sleep; sleep at that place (relative),,PV1977;0050,kesóekwaam-,,,V,AI,sleep intensely = sleep soundly ,,PV1977;0050,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 51 ""suspected of unproductivity"""
 254,Voorhis,PV1983,0086,kic,,kick1244,-ekwat-,KP:1,,,,,,passivizer,,final,II,,,Y,TA
 255,Voorhis,PV1988,0150,kic,,kick1244,-en-,KP:1,,,,,,…-ing (action; object,,final,NI
 256,Voorhis,PV1988,0150,kic,,kick1244,-en-,KP:1,,,,,,be (of flavour),,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 257,Voorhis,PV1988,0150,kic,,kick1244,-en-,KP:1,,,,,,be ,,final,II
 258,Voorhis,PV1988,0150,kic,,kick1244,-en-,KP:1,,,,,,inanimate,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not clear what the meaning is.,,,MAM
 259,Voorhis,PV1988,0150,kic,,kick1244,-en-,KP:1,,,,,,"him by hand, take or hold him",,final,TA,,,,,,,,-enam-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-260,Voorhis,PV1977,"0042,0054",kic,,kick1244,-en-,KP:1,,,,,,"use the hand on him, take/hold of him",,final,TA,,,,,,,,-enam-,,,kookikaan-,,,V,TA,wash his feet by hand,,PV1977;0042,kookiikween-,,,V,TA,wash his face by hand,,PV1977;0043,caaken-,,,V,TA,take all of him,,PV1977;0054,naaten-,,,V,TA,stop and take him = stop and get him,,PV1977;0054,,,,,,,,,"GVM: ""refer[s] only to use of the hand involving grasping or movement of the fingers"""
+259,Voorhis,PV1977,"0042,0054",kic,,kick1244,-en-,KP:1,,,,,,"use the hand on him, take/hold of him",,final,TA,,,,,,,,-enam-,,,kookikaan-,,,V,TA,wash his feet by hand,,PV1977;0042,kookiikween-,,,V,TA,wash his face by hand,,PV1977;0043,caaken-,,,V,TA,take all of him,,PV1977;0054,naaten-,,,V,TA,stop and take him = stop and get him,,PV1977;0054,,,,,,,,,"GVM: ""refer[s] only to use of the hand involving grasping or movement of the fingers"""
 261,Voorhis,PV1977,0045,kic,,kick1244,-en-,KP:1,,,,,,NG,,final,II,,,,,,-en-,,,,,niisen-,,,V,II,be two,,PV1977;0045,taθen-,,,V,II,be so much/many (relative),,PV1977;0045,θaaken-,,,V,II,be sprouted,,PV1977;0045,,,,,,,,,,,,,,,,,"GVM: p. 45: ""occur[s] with the roots denoting numerals, in addition to a few others"""
-262,Voorhis,PV1977,0046,kic,,kick1244,-en-,KP:1,,,,,,be X (of flavor),,final,AI,,,,,,-an-,,,,,peskipen-,,,V,AI,be sour,,PV1977;0046,(w)iiken-,,,V,AI,be delicious,,PV1977;0046,(w)iiskopen-,,,V,AI,be sweet/salty,,PV1977;0046
+256,Voorhis,PV1977,0046,kic,,kick1244,-en-,KP:1,,,,,,be X (of flavor),,final,AI,,,,,,-an-,,,,,peskipen-,,,V,AI,be sour,,PV1977;0046,(w)iiken-,,,V,AI,be delicious,,PV1977;0046,(w)iiskopen-,,,V,AI,be sweet/salty,,PV1977;0046
 263,Voorhis,PV1988,0150,kic,,kick1244,-enaan-,KP:1,,,,,,rain,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PV: Impersonal verb,,,MAM
-264,Voorhis,PV1977,0050,kic,,kick1244,-enaan-,KP:1,,,,,,rain,,final,INTR.,,,,,,,,,,,(w)eepenaan-,,,V,,rain,,PV1977;0050,poonenaan-,,,V,,stop raining,,PV1977;0050
+263,Voorhis,PV1977,0050,kic,,kick1244,-enaan-,KP:1,,,,,,rain,,final,INTR.,,,,,,,,,,,(w)eepenaan-,,,V,,rain,,PV1977;0050,poonenaan-,,,V,,stop raining,,PV1977;0050
 265,Voorhis,PV1988,0150,kic,,kick1244,-enam-,KP:1,,,,,,"it by hand, take or hold it",,final,TI,,,,,,,-en-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-266,Voorhis,PV1977,0054,kic,,kick1244,-enam-,KP:1,,,,,,"use the hand on him, take/hold of him",,final,TI,,,,,,,-en-,,,,kiisenam-,,,V,TI,finish taking it,,PV1977;0054,naatenam-,,,V,TI,stop and take it = stop and get it,,PV1977;0054,niisoonam-,,,V,TI,hold two of it,,PV1977;0054,piitenam-,,,V,TI,move/put/take it in by hand,,PV1977;0054,,,,,,,,,"GVM: ""refer[s] only to use of the hand involving grasping or movement of the fingers"""
+265,Voorhis,PV1977,0054,kic,,kick1244,-enam-,KP:1,,,,,,"use the hand on him, take/hold of him",,final,TI,,,,,,,-en-,,,,kiisenam-,,,V,TI,finish taking it,,PV1977;0054,naatenam-,,,V,TI,stop and take it = stop and get it,,PV1977;0054,niisoonam-,,,V,TI,hold two of it,,PV1977;0054,piitenam-,,,V,TI,move/put/take it in by hand,,PV1977;0054,,,,,,,,,"GVM: ""refer[s] only to use of the hand involving grasping or movement of the fingers"""
 267,Voorhis,PV1988,0150,kic,,kick1244,-enoohi-,KP:1,,,,,,be (diminutive),,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 268,Voorhis,PV1977,0046,kic,,kick1244,-enoohi-,KP:1,,,,,,NG,,final,AI,,,,,,-yaahen-,,,,,aahcike-noohi-,,,V,AI,be little/small,,PV1977;0046
-269,Voorhis,PV1988,0151,kic,,kick1244,-entoneemo-,KP:1,,,,,,"speak, talk",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-270,Voorhis,PV1977,0047,kic,,kick1244,-enwi,KP:1,,,,,,X times,,final
+301,Voorhis,PV1988,0151,kic,,kick1244,-entoneemo-,KP:1,,,,,,"speak, talk",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+271,Voorhis,PV1977,0047,kic,,kick1244,-enwi,KP:1,,,,,,X times,,final
 271,Voorhis,PV1988,0150,kic,,kick1244,-enwi-,KP:1,,,,,,so many times,,final,PART
 272,Voorhis,PV1988,0150,kic,,kick1244,-esam-,KP:1,,,,,,cut it,,final,TI,,,,,,,-esw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-273,Voorhis,PV1977,0054,kic,,kick1244,-esam-,KP:1,,,,,,cut it,,final,TI,,,,,,,-esam-,,,,onesam-,,,V,TI,cut it,,PV1977;0054,kiiskesam-,,,V,TI,cut it apart,,PV1977;0054,pehtesam-,,,V,TI,cut it in error,,PV1977;0054
-274,Voorhis,PV1983,"0079,0084,0085",kic,,kick1244,-esee-,KP:1,,,,,,ear,,medial,,,,,,,,,,,,kookeseen-,,,V,TA,wash his ear or ears by hand,,PV1983;0079,mahweaanakesee-,,,V,AI,have wolf ears = do just what one is told not to do,,PV1983;0080,kookeseehw-,,,V,TA,"wash his ears by tool (for example, with a cloth)",,PV1983;0081,kookeseen-,,,V,TA,wash his ears by hand,,PV1983;0081,-aanakesee-,-esee-,-'íteehee-,,,,Y,-htaakay-
-275,Voorhis,PV1983,"0084,0085,0086",kic,,kick1244,-esee-,KP:1,,,,,,"hear, understand",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-esee-,-∅
+272,Voorhis,PV1977,0054,kic,,kick1244,-esam-,KP:1,,,,,,cut it,,final,TI,,,,,,,-esam-,,,,onesam-,,,V,TI,cut it,,PV1977;0054,kiiskesam-,,,V,TI,cut it apart,,PV1977;0054,pehtesam-,,,V,TI,cut it in error,,PV1977;0054
+277,Voorhis,PV1983,"0079,0084,0085",kic,,kick1244,-esee-,KP:1,,,,,,ear,,medial,,,,,,,,,,,,kookeseen-,,,V,TA,wash his ear or ears by hand,,PV1983;0079,mahweaanakesee-,,,V,AI,have wolf ears = do just what one is told not to do,,PV1983;0080,kookeseehw-,,,V,TA,"wash his ears by tool (for example, with a cloth)",,PV1983;0081,kookeseen-,,,V,TA,wash his ears by hand,,PV1983;0081,-aanakesee-,-esee-,-'íteehee-,,,,Y,-htaakay-
+276,Voorhis,PV1983,"0084,0085,0086",kic,,kick1244,-esee-,KP:1,,,,,,"hear, understand",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-esee-,-∅
 276,Voorhis,PV1988,0150,kic,,kick1244,-esee- ,KP:1,,,,,,"hear, understand",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 277,Voorhis,PV1988,0150,kic,,kick1244,-esee- ,KP:1,,,,,,ear,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 278,Voorhis,PV1988,0150,kic,,kick1244,-esiihi-,KP:1,,,,,,be (diminutive),,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 279,Voorhis,PV1977,0046,kic,,kick1244,-esiihi-,KP:1,,,,,,NG,,final,AI,,,,,,-yaahen-,,,,,píesiihi-,,,V,AI,be little/small,,PV1977;0046
 280,Voorhis,PV1988,0150,kic,,kick1244,-esitoo-,KP:1,,,,,,distribute it,,final,TI
-281,Voorhis,PV1977,0054,kic,,kick1244,-esitoo-,KP:1,,,,,,distribute it,,final,TI,,,,,,,,,,,caakesitoo-,,,V,TI,distribute all of it,,PV1977;0054,tetepesitoo-,,,V,TI,distributed it circularly = pass it around,,PV1977;0054
+280,Voorhis,PV1977,0054,kic,,kick1244,-esitoo-,KP:1,,,,,,distribute it,,final,TI,,,,,,,,,,,caakesitoo-,,,V,TI,distribute all of it,,PV1977;0054,tetepesitoo-,,,V,TI,distributed it circularly = pass it around,,PV1977;0054
 282,Voorhis,PV1988,0150,kic,,kick1244,-eska(w)-,KP:1,,,,,,him by foot or body movement; kick or step on him; put him on (of clothing),,final,TA,,,,,,,,-eskam-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 283,Voorhis,PV1977,0054,kic,,kick1244,-eska(w)-,KP:1,,,,,,"use the foot/body on him, step on/kick him",,final,TA,,,,,,,,-eskam-,,,aahteeska(w)-,,,V,TA,extinguish him by foot/body = stamp out a fire in/on him,,PV1977;0054,pehteska(w)-,,,V,TA,step on/kick him in error,,PV1977;0054
 284,Voorhis,PV1988,0150,kic,,kick1244,-eskaa-,KP:1,,,,,,"move (change position or location); make, get (causative with medials); put, take, move (with medials)",,final,AI,,,,,,-eskaa-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -289,14 +289,14 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 288,Voorhis,PV1988,0150,kic,,kick1244,-eskam-,KP:1,,,,,,it by foot or by body movement; kick or step on it; put it on (of clothing),,final,TI,,,,,,,-eska(w)-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 289,Voorhis,PV1977,0054,kic,,kick1244,-eskam-,KP:1,,,,,,"use the foot/body on it, step on/kick it",,final,TI,,,,,,,-eska(w)-,,,,paneskam-,,,V,TI,miss it by foot/body,,PV1977;0054
 290,Voorhis,PV1988,0150,kic,,kick1244,-esw-,KP:1,,,,,,cut him,,final,TA,,,,,,,,-esam-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-291,Voorhis,PV1977,0054,kic,,kick1244,-esw-,KP:1,,,,,,cut him,,final,TA,,,,,,,,-esw-,,,onesw-,,,V,TA,cut him,,PV1977;0054,kiisesw-,,,V,TA,finish cutting him,,PV1977;0054,kiiskesw-,,,V,TA,cut him apart,,PV1977;0054,pehtesw-,,,V,TA,cut him in error,,PV1977;0054
+290,Voorhis,PV1977,0054,kic,,kick1244,-esw-,KP:1,,,,,,cut him,,final,TA,,,,,,,,-esw-,,,onesw-,,,V,TA,cut him,,PV1977;0054,kiisesw-,,,V,TA,finish cutting him,,PV1977;0054,kiiskesw-,,,V,TA,cut him apart,,PV1977;0054,pehtesw-,,,V,TA,cut him in error,,PV1977;0054
 292,Voorhis,PV1977,0046,kic,,kick1244,-et-,KP:1,,,,,,NG,,final,II,,,,,,,,,,,maaneet-,,,V,II,be much/many,,PV1977;0046,panaatet-,,,V,II,be lost,,PV1977;0046
 293,Voorhis,PV1988,0150,kic,,kick1244,-etee-,KP:1,,,,,,be (of heat),,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 294,Voorhis,PV1977,0046,kic,,kick1244,-etee-,KP:1,,,,,,be X (of heat),,final,II,,,,,-eθo-,,,,,,apetee-,,,V,II,be warm,,PV1977;0046,kesitee-,,,V,II,be hot,,PV1977;0046
 295,Voorhis,PV1983,0079,kic,,kick1244,-etee-,KP:1,,,,,,heat,,final,II,,,,,-eθo-,,-eθw-,-eθam-
 296,Voorhis,PV1988,0150,kic,,kick1244,-etii-,KP:1,,,,,,one another (reciprocal),,final,AI
 297,Voorhis,PV1977,0048,kic,,kick1244,-etii-,KP:1,,,,,,be Xs to one another,,final,AI,,,,,,,,,,,oiihkaanetii-,,,V,AI,be friends to one another,,PV1977;0048
-298,Voorhis,PV1983,"0078,0081",kic,,kick1244,-etonee-,KP:1,,,,,,mouth,,medial,,,,,,,,,,,,maketon-,,,V,AI,have a big mouth,,PV1983;0078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,-toon-
+300,Voorhis,PV1983,"0078,0081",kic,,kick1244,-etonee-,KP:1,,,,,,mouth,,medial,,,,,,,,,,,,maketon-,,,V,AI,have a big mouth,,PV1983;0078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,-toon-
 299,Voorhis,PV1988,0150,kic,,kick1244,-etonee- ,KP:1,,,,,,be,,final,II
 300,Voorhis,PV1988,0150,kic,,kick1244,-etonee- ,KP:1,,,,,,mouth,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 301,Voorhis,PV1977,0050,kic,,kick1244,-etoneemo-,KP:1,,,,,,"speak, talk",,final,AI,,,,,,,,,,,apienetoneemo-,,,V,AI,speak slowly,,PV1977;0050,poonetoneemo-,,,V,AI,cease speaking,,PV1977;0050,tanetoneemo-,,,V,AI,speak at that place (relative),,PV1977;0050
@@ -305,8 +305,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 304,Voorhis,PV1983,0079,kic,,kick1244,-eθam-,KP:1,,,,,,heat,,final,TI,,,,,-eθo-,-etee-,-eθw-
 305,Goddard,IG1990a,0462,kic,,kick1244,-eθi-,KP:2,,,,,,NG,,final,AI,,,,,,-ia-,,,,,askipak-eθi-,,,V,AI,be green,,IG1990a;0462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 306,Voorhis,PV1988,0151,kic,,kick1244,-eθi-,KP:1,,,,,,be,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-307,Voorhis,PV1977,"0043,0044,0045,0046",kic,,kick1244,-eθi-,KP:1,,,,,,be,,final,AI,,,,,,,,,,,paahtaaθi-,,,V,AI,be broken,,PV1977;0043,askeθi-,,,V,AI,be tired [in one's muscles],,PV1977;0043,pemiteθi-,,,V,AI,be crosswise,,PV1977;0044,miiθeθi-,,,V,AI,"be hairy, etc.",,PV1977;0044
-308,Voorhis,PV1983,"0078,0083,0084",kic,,kick1244,-eθi-,KP:1,,,,,,be,,final,AI,,,,,,-at-,,,,,pesikwaahkoθi-,,,V,AI,be straight (of wood or of something wooden),,PV1983;0078,-aateθi-,,,,,feel,,PV1983;0085
+306,Voorhis,PV1977,"0043,0044,0045,0046",kic,,kick1244,-eθi-,KP:1,,,,,,be,,final,AI,,,,,,,,,,,paahtaaθi-,,,V,AI,be broken,,PV1977;0043,askeθi-,,,V,AI,be tired [in one's muscles],,PV1977;0043,pemiteθi-,,,V,AI,be crosswise,,PV1977;0044,miiθeθi-,,,V,AI,"be hairy, etc.",,PV1977;0044
+306,Voorhis,PV1983,"0078,0083,0084",kic,,kick1244,-eθi-,KP:1,,,,,,be,,final,AI,,,,,,-at-,,,,,pesikwaahkoθi-,,,V,AI,be straight (of wood or of something wooden),,PV1983;0078,-aateθi-,,,,,feel,,PV1983;0085
 309,Voorhis,PV1988,0151,kic,,kick1244,-eθikee-,KP:1,,,,,,cook,,final,AI
 310,Voorhis,PV1988,0151,kic,,kick1244,-eθo-,KP:1,,,,,,"be (of heat); be hot, feel hot (referring to discomfort); be intoxicated; make or get (of heat, causative with medials)",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 311,Voorhis,PV1977,0044,kic,,kick1244,-eθo-,KP:1,,,,,,be,,final,AI,,,,,,,,,,,kesiθo-,,,V,AI,be hot,,PV1977;0044
@@ -339,67 +339,67 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 338,Voorhis,PV1977,0045,kic,,kick1244,-i-,KP:1,,,,,,NG,,final,AI,,,,,,,,,,,nekoti-,,,V,AI,be one,,PV1977;0045,niisi-,,,V,AI,be two,,PV1977;0045,tasi-,,,V,AI,be so much/many (relative),,PV1977;0045,θaaki-,,,V,AI,be sprouted,,PV1977;0045,,,,,,,,,"GVM: p. 45: ""occur[s] with the roots denoting numerals, in addition to a few others"""
 339,Voorhis,PV1977,0048,kic,,kick1244,-i-,KP:1,,,,,,have one's X/Xs still living,,final,,,,,,,,,,,,oki-,,,V,AI,have one's mother still living,,PV1977;0048,ooθi-,,,V,AI,have one's father still living,,PV1977;0048,,,,,,,,,,,,,,,,,,,,,,,,,GVM: This is described as being used only with terms for parents
 340,Voorhis,PV1983,0078,kic,,kick1244,-i-,KP:1,,,,,,be,,final,AI,,,,,,-i-,,,,,manetooθeehíi-,,,V,AI,be buggy or wormy,,PV1983;0079
-341,Voorhis,PV1983,0078,kic,,kick1244,-i-,KP:1,,,,,,be,,final,II,,,,,-i-,,,,,,anookaaki-,,,V,II,be muddy (of part of a house or of a yard),,PV1983;0078,manetooθeehíi-,,,V,II,be buggy or wormy,,PV1983;0079
+333,Voorhis,PV1983,0078,kic,,kick1244,-i-,KP:1,,,,,,be,,final,II,,,,,-i-,,,,,,anookaaki-,,,V,II,be muddy (of part of a house or of a yard),,PV1983;0078,manetooθeehíi-,,,V,II,be buggy or wormy,,PV1983;0079
 342,Voorhis,PV1977,"0043,0048",kic,,kick1244,-́i-,KP:1,,,,,,be a,,final,AI,,,,,,,,,,,ihkwéi,,,V,AI,be a woman,,PV1977;0043,meskoθi-,,,V,AI,be red,,PV1977;0044,kenooθi-,,,V,AI,be long,,PV1977;0044,otoohtopakoohi-,,,V,AI,be a small leaf,,PV1977;0048,,,,,,,,,"GVM: In the text, the accent/apostrophe is over the hyphen. The closest I could transcribe it is -'i-, and from what I understand, it depicts a shortening of a previous long vowel if the morpheme -'i- attaches to it; essentially, the ' is an orthographic representation of a shortening process that occurs where certain vowel lengths and qualities come together..."
 343,Voorhis,PV1988,0151,kic,,kick1244,-́í-,KP:1,,,,,,"…-y, covered with, infested with",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"can't reproduce original; has accent over first dash, then accent over <i>.",,,MAM
 344,Goddard,IG1990a,"0462,0463",kic,,kick1244,-ia-,KP:2,,,,,,be,,final,II,,,,,-eθi-,,,,,,askipak-ia-,,,V,II,be green,,IG1990a;0462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-345,Voorhis,PV1977,0044,kic,,kick1244,-ia-,KP:1,,,,,,be,,final,II,,,,,,,,,,,miisia-,,,V,II,be hairy/woolly/furry/fuzzy,,PV1977;0044
+344,Voorhis,PV1977,0044,kic,,kick1244,-ia-,KP:1,,,,,,be,,final,II,,,,,,,,,,,miisia-,,,V,II,be hairy/woolly/furry/fuzzy,,PV1977;0044
 346,Voorhis,PV1988,0151,kic,,kick1244,-iaakw-,KP:1,,,,,,smell,,medial
-347,Voorhis,PV1983,"0079,0083,0086",kic,,kick1244,-iaakw-,KP:1,,,,,,smell,,medial,,,,,,,,,,,,miasiaakwat-,,,V,II,have a bad smell = smell bad,,PV1983;0079,miaasiaakoθi-,,,V,AI,have a bad smell = smell bad,,PV1983;0080,miasiaakwinekwee-,,,V,AI,have armpits with a bad smell = have bad-smelling armpits,,PV1983;0083,,,,,,,,,,,,-iaam-,-ekw-
+346,Voorhis,PV1983,"0079,0083,0086",kic,,kick1244,-iaakw-,KP:1,,,,,,smell,,medial,,,,,,,,,,,,miasiaakwat-,,,V,II,have a bad smell = smell bad,,PV1983;0079,miaasiaakoθi-,,,V,AI,have a bad smell = smell bad,,PV1983;0080,miasiaakwinekwee-,,,V,AI,have armpits with a bad smell = have bad-smelling armpits,,PV1983;0083,,,,,,,,,,,,-iaam-,-ekw-
 348,Voorhis,PV1988,0151,kic,,kick1244,-iaam-,KP:1,,,,,,think he smells so,,final,TA,,,,,,,,-iaatam-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-349,Voorhis,PV1977,0055,kic,,kick1244,-iaam-,KP:1,,,,,,think he smells X,,final,TA,,,,,,,,-iaatam-,,,miasiaam-,,,V,TA,think he smells bad,,PV1977;0055
-350,Voorhis,PV1983,0086,kic,,kick1244,-iaam-,KP:1,,,,,,think he smells ...,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-iaam-,-ekw-
+348,Voorhis,PV1977,0055,kic,,kick1244,-iaam-,KP:1,,,,,,think he smells X,,final,TA,,,,,,,,-iaatam-,,,miasiaam-,,,V,TA,think he smells bad,,PV1977;0055
+348,Voorhis,PV1983,0086,kic,,kick1244,-iaam-,KP:1,,,,,,think he smells ...,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-iaam-,-ekw-
 351,Voorhis,PV1988,0151,kic,,kick1244,-iaatam-,KP:1,,,,,,think it smells so,,final,TI,,,,,,,-iaam-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-352,Voorhis,PV1977,0044,kic,,kick1244,-iaatam-,KP:1,,,,,,think it smells,,final,TI,,,,,,,,,,,miasiaatam-,,,V,TI,think it smells bad,,PV1977;0044
-353,Voorhis,PV1977,0055,kic,,kick1244,-iaatam-,KP:1,,,,,,think it smells X,,final,TI,,,,,,,-iaam-,,,,miasiaatam-,,,V,TI,think it smells bad,,PV1977;0055
+351,Voorhis,PV1977,0044,kic,,kick1244,-iaatam-,KP:1,,,,,,think it smells,,final,TI,,,,,,,,,,,miasiaatam-,,,V,TI,think it smells bad,,PV1977;0044
+351,Voorhis,PV1977,0055,kic,,kick1244,-iaatam-,KP:1,,,,,,think it smells X,,final,TI,,,,,,,-iaam-,,,,miasiaatam-,,,V,TI,think it smells bad,,PV1977;0055
 354,Voorhis,PV1988,0151,kic,,kick1244,-iai-,KP:1,,,,,,"do, act, behave so",,final,AI
-355,Voorhis,PV1977,"0049,0050",kic,,kick1244,-iái-,KP:1,,,,,,"do, act, behave",,final,AI,,,,,,,,,,,kaskiái-,,,V,AI,be able to do = be able,,PV1977;0050,kiisiái-,,,V,AI,finish doing = finish,,PV1977;0049,kociái-,,,V,AI,try to do = try,,PV1977;0049,menwiái-,,,V,AI,do well,,PV1977;0050
+354,Voorhis,PV1977,"0049,0050",kic,,kick1244,-iái-,KP:1,,,,,,"do, act, behave",,final,AI,,,,,,,,,,,kaskiái-,,,V,AI,be able to do = be able,,PV1977;0050,kiisiái-,,,V,AI,finish doing = finish,,PV1977;0049,kociái-,,,V,AI,try to do = try,,PV1977;0049,menwiái-,,,V,AI,do well,,PV1977;0050
 356,Voorhis,PV1988,0151,kic,,kick1244,-iceepihky-,KP:1,,,,,,root,,final,NI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 357,Voorhis,PV1988,0151,kic,,kick1244,-icim-,KP:1,,,,,,get him caught or snagged,,final,TA
-358,Voorhis,PV1977,0054,kic,,kick1244,-icim-,KP:1,,,,,,get him caught/snagged,,final,TA,,,,,,,,-icitoo-,,,kaskicim-,,,V,TA,get him caught tightly = get him caught in a tight place,,PV1977;0054
+357,Voorhis,PV1977,0054,kic,,kick1244,-icim-,KP:1,,,,,,get him caught/snagged,,final,TA,,,,,,,,-icitoo-,,,kaskicim-,,,V,TA,get him caught tightly = get him caught in a tight place,,PV1977;0054
 359,Voorhis,PV1988,0151,kic,,kick1244,-icimee-,KP:1,,,,,,swim,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-360,Voorhis,PV1977,"0042,0050",kic,,kick1244,-icimee-,KP:1,,,,,,swim,,final,AI,,,,,,,,,,,kíicimee-,,,V,AI,swim around aimlessly,,PV1977;0042,nahicimee-,,,V,AI,know how to swim,,PV1977;0050,pemicimee-,,,V,AI,swim along/past,,PV1977;0050
+359,Voorhis,PV1977,"0042,0050",kic,,kick1244,-icimee-,KP:1,,,,,,swim,,final,AI,,,,,,,,,,,kíicimee-,,,V,AI,swim around aimlessly,,PV1977;0042,nahicimee-,,,V,AI,know how to swim,,PV1977;0050,pemicimee-,,,V,AI,swim along/past,,PV1977;0050
 361,Voorhis,PV1988,0151,kic,,kick1244,-icin-,KP:1,,,,,,be caught or snagged,,final,AI
-362,Voorhis,PV1977,0050,kic,,kick1244,-icin-,KP:1,,,,,,be caught/snagged,,final,AI,,,,,,-iten-,,,,,kaskicin-,,,V,AI,be caught tightly = be caught in a tight place,,PV1977;0050
+361,Voorhis,PV1977,0050,kic,,kick1244,-icin-,KP:1,,,,,,be caught/snagged,,final,AI,,,,,,-iten-,,,,,kaskicin-,,,V,AI,be caught tightly = be caught in a tight place,,PV1977;0050
 363,Voorhis,PV1988,0151,kic,,kick1244,-icitoo-,KP:1,,,,,,get it caught or snagged,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-364,Voorhis,PV1977,0054,kic,,kick1244,-icitoo-,KP:1,,,,,,get it caught/snagged,,final,TI,,,,,,,-icim-,,,,kaskicitoo-,,,V,TI,get it caught tightly = get it caught in a tight place,,PV1977;0054,taatwicitoo-,,,V,TI,tear it by getting it caught/snagged,,PV1977;0054
+363,Voorhis,PV1977,0054,kic,,kick1244,-icitoo-,KP:1,,,,,,get it caught/snagged,,final,TI,,,,,,,-icim-,,,,kaskicitoo-,,,V,TI,get it caught tightly = get it caught in a tight place,,PV1977;0054,taatwicitoo-,,,V,TI,tear it by getting it caught/snagged,,PV1977;0054
 365,Voorhis,PV1988,0151,kic,,kick1244,-iee-,KP:1,,,,,,"someone, people (indefinite animate object)",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 366,Voorhis,PV1988,0151,kic,,kick1244,-iee-,KP:1,,,,,,"someone, people (indefinite animate object)",,final,TI,,,,,,,-iee-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 367,Voorhis,PV1988,0151,kic,,kick1244,-iee-,KP:1,,,,,,"someone, people (indefinite animate object)",,final,TA,,,,,,,,-iee-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 368,Voorhis,PV1988,0152,kic,,kick1244,-íen/s-,KP:1,,,,,,carry or convey him,,final,TA,,,,,,,,-íetoo-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 369,Voorhis,PV1977,0054,kic,,kick1244,-íen/s-,KP:1,,,,,,carry/convey him,,final,TA,,,,,,,,-íetoo-,,,caakíen/s-,,,V,TA,carry/convey all of him,,PV1977;0054,isíen/s-,,,V,TA,carry/convey him to that place (relative),,PV1977;0054,pehcíen/s-,,,V,TA,carry/convey him in error,,PV1977;0054
 370,Voorhis,PV1988,0152,kic,,kick1244,-íetoo-,KP:1,,,,,,carry or convey it,,final,TI,,,,,,,-íen/s-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-371,Voorhis,PV1977,0054,kic,,kick1244,-íetoo-,KP:1,,,,,,carry/convey it,,final,TI,,,,,,,-íen/s-,,,,caakíetoo-,,,V,TI,carry/convey all of it,,PV1977;0054,pehcíetoo-,,,V,TI,carry/convey it in error,,PV1977;0054
+370,Voorhis,PV1977,0054,kic,,kick1244,-íetoo-,KP:1,,,,,,carry/convey it,,final,TI,,,,,,,-íen/s-,,,,caakíetoo-,,,V,TI,carry/convey all of it,,PV1977;0054,pehcíetoo-,,,V,TI,carry/convey it in error,,PV1977;0054
 372,Voorhis,PV1988,0152,kic,,kick1244,-ih-,KP:1,,,,,,make or do him; fix or repair him; make him be; have so many of him; make or get him (causative),,final,TA,,,,,,,,-ihtoo-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 373,Voorhis,PV1977,0054,kic,,kick1244,-ih-,KP:1,,,,,,make/do/fix/repair him; make him be X; have X of him,,final,TA,,,,,,,,-ihtoo-,,,osih-,,,V,TA,make/do/fix/repair him,,PV1977;0054,kiisih-,,,V,TA,finish making/doing/fixing/repairing him,,PV1977;0054,menwihta(w)-,,,V,,make/do/fix/repair it well/right/correctly for him,Y,PV1977;0054,aahkamih-,,,V,TA,clean him,,PV1977;0054
-374,Voorhis,PV1983,0081,kic,,kick1244,-ihciee-,KP:1,,,,,,arm,,medial,,,,,,,,,,,,kiiskihcieesin-,,,V,AI,break one's arm,,PV1983;0082,koskwihcieeskaa-,,,V,AI,sprain one's arm,,PV1983;0081,otaahpihcieen-,,,V,TA,take his arm = take him by the arm,,PV1983;0081,(w)iiskopihcíamatam-,,,V,AI,have a dull pain or ache in one's arm,,PV1983;0081
-375,Voorhis,PV1983,0084,kic,,kick1244,-ihciee-,KP:1,,,,,,arm,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,-hci-
+376,Voorhis,PV1983,0081,kic,,kick1244,-ihciee-,KP:1,,,,,,arm,,medial,,,,,,,,,,,,kiiskihcieesin-,,,V,AI,break one's arm,,PV1983;0082,koskwihcieeskaa-,,,V,AI,sprain one's arm,,PV1983;0081,otaahpihcieen-,,,V,TA,take his arm = take him by the arm,,PV1983;0081,(w)iiskopihcíamatam-,,,V,AI,have a dull pain or ache in one's arm,,PV1983;0081
+376,Voorhis,PV1983,0084,kic,,kick1244,-ihciee-,KP:1,,,,,,arm,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,-hci-
 376,Voorhis,PV1988,0152,kic,,kick1244,-ihciee- ,KP:1,,,,,,arm,,medial
-377,Voorhis,PV1983,"0078,0082",kic,,kick1244,-ihkweekanee-,KP:1,,,,,,neck,,medial,,,,,,,,,,,,(w)aapeskihkweekan-,,,V,AI,have a white neck,,PV1983;0081
+378,Voorhis,PV1983,"0078,0082",kic,,kick1244,-ihkweekanee-,KP:1,,,,,,neck,,medial,,,,,,,,,,,,(w)aapeskihkweekan-,,,V,AI,have a white neck,,PV1983;0081
 378,Voorhis,PV1988,0152,kic,,kick1244,-ihkweekanee- ,KP:1,,,,,,neck,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 379,Voorhis,PV1988,0152,kic,,kick1244,-ihpenan/s-,KP:1,,,,,,"treat him, do to him",,final,TA,,,,,,,,-ihpenatoo-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-380,Voorhis,PV1977,"0044,0055",kic,,kick1244,-ihpenan/s-,KP:1,,,,,,treat him; treat/do to him,,final,TA,,,,,,,,-ihpenatoo-,,,miahpenan/s-,,,V,TA,treat him badly,,PV1977;0044,menwihpenan/s-,,,V,TA,treat him well/right,,PV1977;0044,ihpenan/s-,,,V,TA,"treat him so, do so to him (relative)",,PV1977;0055
+379,Voorhis,PV1977,"0044,0055",kic,,kick1244,-ihpenan/s-,KP:1,,,,,,treat him; treat/do to him,,final,TA,,,,,,,,-ihpenatoo-,,,miahpenan/s-,,,V,TA,treat him badly,,PV1977;0044,menwihpenan/s-,,,V,TA,treat him well/right,,PV1977;0044,ihpenan/s-,,,V,TA,"treat him so, do so to him (relative)",,PV1977;0055
 381,Voorhis,PV1988,0152,kic,,kick1244,-ihpenatoo-,KP:1,,,,,,"treat it, do to it",,final,TI,,,,,,,-ihpenan/s-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-382,Voorhis,PV1977,0055,kic,,kick1244,-ihpenatoo-,KP:1,,,,,,treat/do to it,,final,TI,,,,,,,-ihpenan/s-,,,,ihpenatoo-,,,V,TI,"treat it, do so to it (relative)",,PV1977;0055
+381,Voorhis,PV1977,0055,kic,,kick1244,-ihpenatoo-,KP:1,,,,,,treat/do to it,,final,TI,,,,,,,-ihpenan/s-,,,,ihpenatoo-,,,V,TI,"treat it, do so to it (relative)",,PV1977;0055
 383,Voorhis,PV1988,0152,kic,,kick1244,-ihpeny-,KP:1,,,,,,potato,,final,NA
 384,Voorhis,PV1988,0152,kic,,kick1244,-ihpetam-,KP:1,,,,,,think it tastes so,,final,TI,,,,,,,-ihpw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-385,Voorhis,PV1977,0055,kic,,kick1244,-ihpetam-,KP:1,,,,,,think it tastes X,,final,TI,,,,,,,-ihpw-,,,,(w)iiθakihpetam-,,,V,TI,think it tastes hot,,PV1977;0055
-386,Voorhis,PV1983,"0083,0086",kic,,kick1244,-ihpokw-,KP:1,,,,,,taste,,medial,,,,,,,,,,,,miahpokoθi-,,,V,AI,have a bad taste = taste bad,,PV1983;0083,miahpokwat-,,,V,II,have a bad taste = taste bad,,PV1983;0083,,,,,,,,,,,,,,,,,,,,-ihpw-,-ekw-
+384,Voorhis,PV1977,0055,kic,,kick1244,-ihpetam-,KP:1,,,,,,think it tastes X,,final,TI,,,,,,,-ihpw-,,,,(w)iiθakihpetam-,,,V,TI,think it tastes hot,,PV1977;0055
+387,Voorhis,PV1983,"0083,0086",kic,,kick1244,-ihpokw-,KP:1,,,,,,taste,,medial,,,,,,,,,,,,miahpokoθi-,,,V,AI,have a bad taste = taste bad,,PV1983;0083,miahpokwat-,,,V,II,have a bad taste = taste bad,,PV1983;0083,,,,,,,,,,,,,,,,,,,,-ihpw-,-ekw-
 387,Voorhis,PV1988,0152,kic,,kick1244,-ihpokw- ,KP:1,,,,,,taste,,medial
 388,Voorhis,PV1988,0152,kic,,kick1244,-ihpw-,KP:1,,,,,,think he tastes so,,final,TA,,,,,,,,-ihpetam-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-389,Voorhis,PV1977,0055,kic,,kick1244,-ihpw-,KP:1,,,,,,think he tastes X,,final,TA,,,,,,,,-ihpetam-,,,wiinihpw-,,,V,TA,think he tastes dirty,,PV1977;0055
-390,Voorhis,PV1983,0086,kic,,kick1244,-ihpw-,KP:1,,,,,,think he tastes ...,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ihpw-,-ekw-
+388,Voorhis,PV1977,0055,kic,,kick1244,-ihpw-,KP:1,,,,,,think he tastes X,,final,TA,,,,,,,,-ihpetam-,,,wiinihpw-,,,V,TA,think he tastes dirty,,PV1977;0055
+388,Voorhis,PV1983,0086,kic,,kick1244,-ihpw-,KP:1,,,,,,think he tastes ...,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ihpw-,-ekw-
 391,Voorhis,PV1988,0152,kic,,kick1244,-ihtaa-,KP:1,,,,,,get dressed; put on or wear such clothes,,final,AI
 392,Voorhis,PV1988,0152,kic,,kick1244,-ihtan-,KP:1,,,,,,flow,,final,II
-393,Voorhis,PV1977,0050,kic,,kick1244,-ihtan-,KP:1,,,,,,flow,,final,II,,,,,,,,,,,kecihtan-,,,V,II,flow out,,PV1977;0050,paanacihtan-,,,V,AI,flow down,,PV1977;0050,pemihtan-,,,V,II,flow along/past,,PV1977;0050
+392,Voorhis,PV1977,0050,kic,,kick1244,-ihtan-,KP:1,,,,,,flow,,final,II,,,,,,,,,,,kecihtan-,,,V,II,flow out,,PV1977;0050,paanacihtan-,,,V,AI,flow down,,PV1977;0050,pemihtan-,,,V,II,flow along/past,,PV1977;0050
 394,Voorhis,PV1988,0152,kic,,kick1244,-ihtoo-,KP:1,,,,,,make or do it; fix or repair it; make it be; have so many of it; make or get it (causative),,final,TI,,,,,,,-ih-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 395,Voorhis,PV1977,0054,kic,,kick1244,-ihtoo-,KP:1,,,,,,make/do/fix/repair it; make it be X; have X of it,,final,TI,,,,,,,-ih-,,,,osihtoo-,,,V,TI,make/do/fix/repair it,,PV1977;0054,kaskihtoo-,,,V,TI,be able to make/do/fix/repair it,,PV1977;0054,aahkamihtoo-,,,V,TI,clean it,,PV1977;0054,panaacihtoo-,,,V,TI,lose it,,PV1977;0054
 396,Voorhis,PV1988,0151,kic,,kick1244,-ii-,KP:1,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,definition reads: -ee- medial formant; maybe a pre or postmedial?,,,MAM
 397,Voorhis,PV1988,0152,kic,,kick1244,-ii-,KP:1,,,,,,go,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 398,Voorhis,PV1988,0152,kic,,kick1244,-ii-,KP:1,,,,,,be,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PV: Impersonal verb,,,MAM
-399,Voorhis,PV1977,0044,kic,,kick1244,-ii-,KP:1,,,,,,go,,final,AI,,,,,,,,,,,ketaaθii-,,,V,AI,"go up, ascend",,PV1977;0043,noii-,,,V,AI,go outdoors,,PV1977;0044
-400,Voorhis,PV1977,0051,kic,,kick1244,-ii-,KP:1,,,,,,go,,final,AI,,,,,,,,,,,anemii-,,,V,AI,go along/in that direction,,PV1977;0050,kekenii-,,,V,AI,go fast/quickly = hurry,,PV1977;0051,noii-,,,V,AI,go into the outdoors = go outdoors,,PV1977;0051
-401,Voorhis,PV1983,0079,kic,,kick1244,-ii-,KP:1,,,,,,be,,final,INTR.,,,,,,,,,,,cahkwikiisekii-,,,V,i,be a short day,,PV1983;0079,kenwitepehkii-,,,V,i,be a long night,,PV1983;0079
+397,Voorhis,PV1977,0044,kic,,kick1244,-ii-,KP:1,,,,,,go,,final,AI,,,,,,,,,,,ketaaθii-,,,V,AI,"go up, ascend",,PV1977;0043,noii-,,,V,AI,go outdoors,,PV1977;0044
+397,Voorhis,PV1977,0051,kic,,kick1244,-ii-,KP:1,,,,,,go,,final,AI,,,,,,,,,,,anemii-,,,V,AI,go along/in that direction,,PV1977;0050,kekenii-,,,V,AI,go fast/quickly = hurry,,PV1977;0051,noii-,,,V,AI,go into the outdoors = go outdoors,,PV1977;0051
+398,Voorhis,PV1983,0079,kic,,kick1244,-ii-,KP:1,,,,,,be,,final,INTR.,,,,,,,,,,,cahkwikiisekii-,,,V,i,be a short day,,PV1983;0079,kenwitepehkii-,,,V,i,be a long night,,PV1983;0079
 402,Voorhis,PV1988,0029,kic,,kick1244,-ii(w)-,KP:1,,,,,,wife (archaic or impolite),,medial,AnimDep,,,,,,,,,,,oíi-,,,V,AI,have a wife,,PV1988;0029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 403,Voorhis,PV1988,0029,kic,,kick1244,-ii(y)a-,KP:1,,,,,,self (reflexive),,medial,InanDep,,,,,,,,,-ía-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: allomorph on p. 29,,,MAM
 404,Voorhis,PV1988,0028,kic,,kick1244,-iici-,KP:1,,,,,,fellow,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""dependent prenoun""",,,MAM
@@ -410,44 +410,44 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 409,Voorhis,PV1988,0152,kic,,kick1244,-iihi-,KP:1,,,,,,so many (diminutive),,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 410,Voorhis,PV1977,0046,kic,,kick1244,-iihi-,KP:1,,,,,,NG,,final,AI,,,,,,-iihen-,,,,,akaasiihi-,,,V,AI,be a little/few,,PV1977;0046,cahkwiihi-,,,V,AI,be short,,PV1977;0046,cahpiihi-,,,V,AI,be low,,PV1977;0046
 411,Voorhis,PV1988,0152,kic,,kick1244,-iihka(w)-,KP:1,,,,,,"do, handle, or deal with him",,final,TA,,,,,,,,-iihkam-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-412,Voorhis,PV1977,0055,kic,,kick1244,-iihka(w)-,KP:1,,,,,,do/handle/deal with him,,final,TA,,,,,,,,-iihkam-,,,nahiihka(w)-,,,V,TA,know how to do/handle/deal with him,,PV1977;0055
+411,Voorhis,PV1977,0055,kic,,kick1244,-iihka(w)-,KP:1,,,,,,do/handle/deal with him,,final,TA,,,,,,,,-iihkam-,,,nahiihka(w)-,,,V,TA,know how to do/handle/deal with him,,PV1977;0055
 413,Voorhis,PV1988,0028,kic,,kick1244,-iihkaan-,KP:1,,,,,,"friend; brother in law (of a man), man's sister's husband, wife's brother",,medial,AnimDep,,,,,,,,,,,ooihkaanetii-,,,V,AI,be friends to one another,,PV1988;0028
 414,Voorhis,PV1988,0152,kic,,kick1244,-iihkam-,KP:1,,,,,,"do, handle, or deal with it",,final,TI,,,,,,,-iihka(w)-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-415,Voorhis,PV1977,0055,kic,,kick1244,-iihkam-,KP:1,,,,,,do/handle/deal with it,,final,TI,,,,,,,-iihka(w)-,,,,kaskiihkam-,,,V,TI,be able to do/handle/deal with it,,PV1977;0055,nahiihkam-,,,V,TI,know how to do/handle/deal with it,,PV1977;0055,poonihkam-,,,V,TI,cease doing/handling/dealing with it,,PV1977;0055
+414,Voorhis,PV1977,0055,kic,,kick1244,-iihkam-,KP:1,,,,,,do/handle/deal with it,,final,TI,,,,,,,-iihka(w)-,,,,kaskiihkam-,,,V,TI,be able to do/handle/deal with it,,PV1977;0055,nahiihkam-,,,V,TI,know how to do/handle/deal with it,,PV1977;0055,poonihkam-,,,V,TI,cease doing/handling/dealing with it,,PV1977;0055
 416,Voorhis,PV1988,0152,kic,,kick1244,-iihkeceii-,KP:1,,,,,,"work, toil",,final,AI
-417,Voorhis,PV1977,0050,kic,,kick1244,-iihkeceii-,KP:1,,,,,,"work, toil",,final,AI,,,,,,,,,,,kiihkeceii-,,,V,AI,work around aimlessly,,PV1977;0050,nahiihkeceii-,,,V,AI,know how to work,,PV1977;0050,tasiihkeceii-,,,V,AI,work at that place (relative),,PV1977;0050
+416,Voorhis,PV1977,0050,kic,,kick1244,-iihkeceii-,KP:1,,,,,,"work, toil",,final,AI,,,,,,,,,,,kiihkeceii-,,,V,AI,work around aimlessly,,PV1977;0050,nahiihkeceii-,,,V,AI,know how to work,,PV1977;0050,tasiihkeceii-,,,V,AI,work at that place (relative),,PV1977;0050
 418,Voorhis,PV1977,0050,kic,,kick1244,-iihkeceiimikat-,KP:1,,,,,,"work, function",,final,II,,,,,,,,,,,menwiihkeceiimikat-,,,V,AI,work/function well/right,,PV1977;0050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Voorhis notes that the example stem is considered incorrect by some speakers
 419,Voorhis,PV1988,0152,kic,,kick1244,-iihketii-,KP:1,,,,,,play cards ,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-420,Voorhis,PV1977,0050,kic,,kick1244,-iihketii-,KP:1,,,,,,play cards,,final,AI,,,,,,,,,,,(w)iiciihketii-,,,V,AI,play cards with someone,,PV1977;0050
-421,Voorhis,PV1977,0050,kic,,kick1244,-iihtaa-,KP:1,,,,,,get dressed; put on/wear X clothes,,final,AI,,,,,,,,,,,aasoiihtaa-,,,V,AI,get dressed in exchange = change one's clothes,,PV1977;0050,kiisiihtaa-,,,V,Ai,finish getting dressed,,PV1977;0050,aahkamiihtaa-,,,V,AI,put on/war clean clothes,,PV1977;0050,(w)aapeskiihtaa-,,,V,AI,put on/wear white clothes,,PV1977;0050
+419,Voorhis,PV1977,0050,kic,,kick1244,-iihketii-,KP:1,,,,,,play cards,,final,AI,,,,,,,,,,,(w)iiciihketii-,,,V,AI,play cards with someone,,PV1977;0050
+391,Voorhis,PV1977,0050,kic,,kick1244,-iihtaa-,KP:1,,,,,,get dressed; put on/wear X clothes,,final,AI,,,,,,,,,,,aasoiihtaa-,,,V,AI,get dressed in exchange = change one's clothes,,PV1977;0050,kiisiihtaa-,,,V,Ai,finish getting dressed,,PV1977;0050,aahkamiihtaa-,,,V,AI,put on/war clean clothes,,PV1977;0050,(w)aapeskiihtaa-,,,V,AI,put on/wear white clothes,,PV1977;0050
 422,Voorhis,PV1988,0028,kic,,kick1244,-iihtiiθ-,KP:1,,,,,,(male) friend,,medial,AnimDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-423,Voorhis,PV1983,"0081,0085",kic,,kick1244,-iikwee-,KP:1,,,,,,"face, eye",,medial,,,,,,,,,,,,isiikweepi-,,,V,AI,sit with one's face to that place (relative) = sit facing that place (relative),,PV1983;0082,kekiepiikweeskaa-,,,V,AI,close one's eyes,,PV1983;0081,kookiikween-,,,V,TA,wash his face by hand,,PV1983;0081,,,,,,,,,-aanakiikwee-
+424,Voorhis,PV1983,"0081,0085",kic,,kick1244,-iikwee-,KP:1,,,,,,"face, eye",,medial,,,,,,,,,,,,isiikweepi-,,,V,AI,sit with one's face to that place (relative) = sit facing that place (relative),,PV1983;0082,kekiepiikweeskaa-,,,V,AI,close one's eyes,,PV1983;0081,kookiikween-,,,V,TA,wash his face by hand,,PV1983;0081,,,,,,,,,-aanakiikwee-
 424,Voorhis,PV1988,0152,kic,,kick1244,-iikwee- ,KP:1,,,,,,"face, eye",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-425,Voorhis,PV1977,0043,kic,,kick1244,-iikwee- ,KP:1,,,,,,face,,medial,,,,,,,,,,,,kaaθiikweehoon-,,,N,ii,"face towel, napkin",,PV1977;0043,kookiikween-,,,V,TA,wash his face by hand,,PV1977;0043
+424,Voorhis,PV1977,0043,kic,,kick1244,-iikwee- ,KP:1,,,,,,face,,medial,,,,,,,,,,,,kaaθiikweehoon-,,,N,ii,"face towel, napkin",,PV1977;0043,kookiikween-,,,V,TA,wash his face by hand,,PV1977;0043
 426,Voorhis,PV1977,0051,kic,,kick1244,-iimikat-,KP:1,,,,,,go,,final,II,,,,,,,,,,,anemiimikat-,,,V,II,go along/in that direction,,PV1977;0050
 427,Voorhis,PV1988,0029,kic,,kick1244,-iinani-,KP:1,,,,,,tongue,,medial,InanDep
 428,Voorhis,PV1988,0029,kic,,kick1244,-iinemw-,KP:1,,,,,,"sister-in-law (of a man), man's brother's wife, wife's sister, brother-in-law (of a woman), woman's sister's husband, husband's brother",,medial,AnimDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 429,Voorhis,PV1988,0029,kic,,kick1244,-iineθ/s-,KP:1,,,,,,(single) hair (of the head),,medial,InanDep
 430,Voorhis,PV1988,0029,kic,,kick1244,-iip-,KP:1,,,,,,arrow,,medial,InanDep,,,,,,,,,,,oiipema-,,,N,,arrow,,PV1988;0029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,PV gives category of stem as NII,,,MAM
 431,Voorhis,PV1988,0029,kic,,kick1244,-iipit-,KP:1,,,,,,tooth,,medial,InanDep,,,,,,,,,,,ooipici-,,,V,AI,have a tooth or teeth,,PV1988;0029
-432,Voorhis,PV1988,0029,kic,,kick1244,-iiθoon-,KP:1,,,,,,name,,medial,InanDep,,,,,,,,,,,oiiθoonih-,,,V,TA,"name him, give him a name",,PV1988;0030,oiiθoonihcikee-,,,V,AI,"name something, have something named",,PV1988;0030
-433,Voorhis,PV1983,"0081,0085",kic,,kick1244,-ikaa-,KP:1,,,,,,foot,,medial,,,,,,,,,,,,kaaθiikaasin-,,,V,AI,wipe one's feet (as on a doormat),,PV1983;0080,kookikaan-,,,V,TA,wash his feet by hand,,PV1983;0082,paθikaaθo-,,,V,AI,get one's feet hot,,PV1983;0082,,,,,,,,,,,,,,,Y,-hkaat-
+656,Voorhis,PV1988,0029,kic,,kick1244,-iiθoon-,KP:1,,,,,,name,,medial,InanDep,,,,,,,,,,,oiiθoonih-,,,V,TA,"name him, give him a name",,PV1988;0030,oiiθoonihcikee-,,,V,AI,"name something, have something named",,PV1988;0030
+434,Voorhis,PV1983,"0081,0085",kic,,kick1244,-ikaa-,KP:1,,,,,,foot,,medial,,,,,,,,,,,,kaaθiikaasin-,,,V,AI,wipe one's feet (as on a doormat),,PV1983;0080,kookikaan-,,,V,TA,wash his feet by hand,,PV1983;0082,paθikaaθo-,,,V,AI,get one's feet hot,,PV1983;0082,,,,,,,,,,,,,,,Y,-hkaat-
 434,Voorhis,PV1988,0152,kic,,kick1244,-ikaa- ,KP:1,,,,,,foot,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 435,Voorhis,PV1988,0153,kic,,kick1244,-ikaan-,KP:1,,,,,,"house, building",,final,NI
 436,Voorhis,PV1988,0153,kic,,kick1244,-ikaapaa-,KP:1,,,,,,stand; stand there (rel.),,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-437,Voorhis,PV1977,"0044,0050",kic,,kick1244,-ikaapaa-,KP:1,,,,,,stand,,final,AI,,,,,,,,,,,pemicikaapaa-,,,V,AI,stand crosswise,,PV1977;0044,aanehkwi-kaapaa-,,,V,AI,stand next,,PV1977;0050,isikaapaa-,,,V,AI,stand so (relative),,PV1977;0050,kiihkikaapaa-,,,V,AI,stand farther away,,PV1977;0050
-438,Voorhis,PV1983,"0081,0085",kic,,kick1244,-ikaatee-,KP:1,,,,,,foot,,medial,,,,,,,,,,,,anookikaatee-,,,V,AI,have muddy feet,,PV1983;0081,mehcikaatee-,,,V,AI,have bare feet = be barefoot,,PV1983;0081,paθikaatee-,,,V,AI,have hot feet,,PV1983;0081,,,,,,,,,,,,,,,Y,-hkaat-,GVM: p. 81: only precedes zero VAI
+436,Voorhis,PV1977,"0044,0050",kic,,kick1244,-ikaapaa-,KP:1,,,,,,stand,,final,AI,,,,,,,,,,,pemicikaapaa-,,,V,AI,stand crosswise,,PV1977;0044,aanehkwi-kaapaa-,,,V,AI,stand next,,PV1977;0050,isikaapaa-,,,V,AI,stand so (relative),,PV1977;0050,kiihkikaapaa-,,,V,AI,stand farther away,,PV1977;0050
+439,Voorhis,PV1983,"0081,0085",kic,,kick1244,-ikaatee-,KP:1,,,,,,foot,,medial,,,,,,,,,,,,anookikaatee-,,,V,AI,have muddy feet,,PV1983;0081,mehcikaatee-,,,V,AI,have bare feet = be barefoot,,PV1983;0081,paθikaatee-,,,V,AI,have hot feet,,PV1983;0081,,,,,,,,,,,,,,,Y,-hkaat-,GVM: p. 81: only precedes zero VAI
 439,Voorhis,PV1988,0153,kic,,kick1244,-ikaatee- ,KP:1,,,,,,foot,,medial
 440,Voorhis,PV1988,0153,kic,,kick1244,-ikai-,KP:1,,,,,,go in a group,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-441,Voorhis,PV1977,0050,kic,,kick1244,-ikái-,KP:1,,,,,,go in a group,,final,AI,,,,,,,,,,,nóikái-,,,V,AI,go outdoors in a group,,PV1977;0050
+440,Voorhis,PV1977,0050,kic,,kick1244,-ikái-,KP:1,,,,,,go in a group,,final,AI,,,,,,,,,,,nóikái-,,,V,AI,go outdoors in a group,,PV1977;0050
 442,Voorhis,PV1988,0153,kic,,kick1244,-ikan-,KP:1,,,,,,…-er (instrumental),,final,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 443,Voorhis,PV1988,0153,kic,,kick1244,-ikan-,KP:1,,,,,,…-er (instrumental),,final,NI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 444,Voorhis,PV1983,0078,kic,,kick1244,-ikanee-,KP:1,,,,,,NG,,medial
-445,Voorhis,PV1983,"0082,0085,0086",kic,,kick1244,-ikanee-,KP:1,,,,,,leg,,medial,,,,,,,,,,,,kiiskikaneesin-,,,V,AI,break one's leg,,PV1983;0082,makwikanee-,,,V,AI,have a swollen leg,,PV1983;0082,,,,,,,,,,,,,,,,,,,,,,,Y,-hkan-
+446,Voorhis,PV1983,"0082,0085,0086",kic,,kick1244,-ikanee-,KP:1,,,,,,leg,,medial,,,,,,,,,,,,kiiskikaneesin-,,,V,AI,break one's leg,,PV1983;0082,makwikanee-,,,V,AI,have a swollen leg,,PV1983;0082,,,,,,,,,,,,,,,,,,,,,,,Y,-hkan-
 446,Voorhis,PV1988,0153,kic,,kick1244,-ikanee-  ,KP:1,,,,,,leg,,medial
-447,Voorhis,PV1977,0050,kic,,kick1244,-ikee-,KP:1,,,,,,"build a house, pitch a tent",,final,AI,,,,,,,,,,,kiisikee-,,,V,AI,"finish building a house, finish pitching a tent",,PV1977;0051
+450,Voorhis,PV1977,0050,kic,,kick1244,-ikee-,KP:1,,,,,,"build a house, pitch a tent",,final,AI,,,,,,,,,,,kiisikee-,,,V,AI,"finish building a house, finish pitching a tent",,PV1977;0051
 448,Voorhis,PV1977,0051,kic,,kick1244,-ikee-,KP:1,,,,,,go,,final,AI,,,,,,,,,,,piitikee-,,,V,AI,go in = enter,,PV1977;0050
-449,Voorhis,PV1983,"0079,0082,0086",kic,,kick1244,-ikee-,KP:1,,,,,,"house, building",,medial,,,,,,,,,,,,aahcikikee-,,,V,AI,have or build a small house,,PV1983;0079,ihpikee-,,,V,AI,have or build a high house,,PV1983;0082,,,,,,,,,,,,,,,,,,,,,,,Y,(w)iikiaapy-
+454,Voorhis,PV1983,"0079,0082,0086",kic,,kick1244,-ikee-,KP:1,,,,,,"house, building",,medial,,,,,,,,,,,,aahcikikee-,,,V,AI,have or build a small house,,PV1983;0079,ihpikee-,,,V,AI,have or build a high house,,PV1983;0082,,,,,,,,,,,,,,,,,,,,,,,Y,(w)iikiaapy-
 450,Voorhis,PV1988,0153,kic,,kick1244,-ikee- ,KP:1,,,,,,"build a house, pitch a tent; go (with reference to a building)",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 451,Voorhis,PV1988,0153,kic,,kick1244,-ikee- ,KP:1,,,,,,"someone, people",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 452,Voorhis,PV1989,0154,kic,,kick1244,-ikee- ,KP:1,,,,,,"someone, people (indefinite animate object)",,final,TA,,,,,,,,-ikee- ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -458,27 +458,27 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 457,Voorhis,PV1988,0153,kic,,kick1244,-iki-,KP:1,,,,,,be,,final,AI,,,,,,-iken-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 458,Voorhis,PV1977,0045,kic,,kick1244,-iki-,KP:1,,,,,,NG,,final,AI,,,,,,,,,,,isiki-,,,V,AI,"be so, be like that (relative)",,PV1977;0045,menwiki-,,,V,AI,be good/right/correct,,PV1977;0044,oskiki-,,,V,AI,be new/young,,PV1977;0045
 459,Voorhis,PV1983,0078,kic,,kick1244,-iki-,KP:1,,,,,,be,,final,AI,,,,,,-yaa-
-460,Voorhis,PV1983,"0079,0084",kic,,kick1244,-ikiisek-,KP:1,,,,,,"day, weather",,medial,,,,,,,,,,,,cahkwikiisekii-,,,V,i,be a short day,,PV1983;0079,-ikiisekat-,,,V,i,be a ... day,,PV1983;0084,-ikiisekii-,,,V,i,be ... weather,,PV1983;0084,isikiisekat-,,,V,i,be such weather (relative),,PV1983;0084
+461,Voorhis,PV1983,"0079,0084",kic,,kick1244,-ikiisek-,KP:1,,,,,,"day, weather",,medial,,,,,,,,,,,,cahkwikiisekii-,,,V,i,be a short day,,PV1983;0079,-ikiisekat-,,,V,i,be a ... day,,PV1983;0084,-ikiisekii-,,,V,i,be ... weather,,PV1983;0084,isikiisekat-,,,V,i,be such weather (relative),,PV1983;0084
 461,Voorhis,PV1988,0153,kic,,kick1244,-ikiisek- ,KP:1,,,,,,"day, weather",,medial
-462,Voorhis,PV1983,"0082,0085",kic,,kick1244,-ikomee-,KP:1,,,,,,nose,,medial,,,,,,,,,,,,kesiipikomeeno-,,,V,AI,scratch an itch on one's nose by hand,,PV1983;0082,kiiskikomeesin-,,,V,AI,break one's nose,,PV1983;0082,tahkikomee-,,,V,AI,have a cold nose,,PV1983;0082,,,,,,,,,-aanakikomee-
+463,Voorhis,PV1983,"0082,0085",kic,,kick1244,-ikomee-,KP:1,,,,,,nose,,medial,,,,,,,,,,,,kesiipikomeeno-,,,V,AI,scratch an itch on one's nose by hand,,PV1983;0082,kiiskikomeesin-,,,V,AI,break one's nose,,PV1983;0082,tahkikomee-,,,V,AI,have a cold nose,,PV1983;0082,,,,,,,,,-aanakikomee-
 463,Voorhis,PV1988,0153,kic,,kick1244,-ikomee- ,KP:1,,,,,,nose,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-464,Voorhis,PV1983,"0079,0082",kic,,kick1244,-ikootaee-,KP:1,,,,,,"dress, skirt",,medial,,,,,,,,,,,,niiθiikikootaee-,,,V,AI,"put on or wear a fringed, frayed, or ragged dress or skirt",,PV1983;0082,oskikootaee-,,,V,AI,put on or wear a new dress or skirt,,PV1983;0082
+465,Voorhis,PV1983,"0079,0082",kic,,kick1244,-ikootaee-,KP:1,,,,,,"dress, skirt",,medial,,,,,,,,,,,,niiθiikikootaee-,,,V,AI,"put on or wear a fringed, frayed, or ragged dress or skirt",,PV1983;0082,oskikootaee-,,,V,AI,put on or wear a new dress or skirt,,PV1983;0082
 465,Voorhis,PV1988,0153,kic,,kick1244,-ikootaee- ,KP:1,,,,,,"dress, skirt",,medial
-466,Voorhis,PV1983,"0078,0082",kic,,kick1244,-ikotaakanee-,KP:1,,,,,,throat,,medial,,,,,,,,,,,,(w)aapeskikotaakan-,,,V,AI,have a white throat,,PV1983;0082
+467,Voorhis,PV1983,"0078,0082",kic,,kick1244,-ikotaakanee-,KP:1,,,,,,throat,,medial,,,,,,,,,,,,(w)aapeskikotaakan-,,,V,AI,have a white throat,,PV1983;0082
 467,Voorhis,PV1988,0153,kic,,kick1244,-ikotaakanee- ,KP:1,,,,,,throat,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 468,Voorhis,PV1988,0153,kic,,kick1244,-ikwaan/s-,KP:1,,,,,,sew him,,final,TA,,,,,,,,-ikwaatam-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-469,Voorhis,PV1977,0055,kic,,kick1244,-ikwaan/s-,KP:1,,,,,,sew him,,final,TA,,,,,,,,,,,ocikwaan/s-,,,V,TA,sew him,,PV1977;0055,menwikwaan/s-,,,V,TA,sew him well/right/correctly,,PV1977;0055
+468,Voorhis,PV1977,0055,kic,,kick1244,-ikwaan/s-,KP:1,,,,,,sew him,,final,TA,,,,,,,,,,,ocikwaan/s-,,,V,TA,sew him,,PV1977;0055,menwikwaan/s-,,,V,TA,sew him well/right/correctly,,PV1977;0055
 470,Voorhis,PV1988,0153,kic,,kick1244,-ikwaatam-,KP:1,,,,,,sew it,,final,TI,,,,,,,-ikwaan/s-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-471,Voorhis,PV1977,0055,kic,,kick1244,-ikwaatam-,KP:1,,,,,,sew it,,final,TI,,,,,,,-ikwaan/s-,,,,ocikwaatam-,,,V,TI,sew it,,PV1977;0055,menwikwaatam-,,,V,TI,sew it well/right/correctly,,PV1977;0055
+470,Voorhis,PV1977,0055,kic,,kick1244,-ikwaatam-,KP:1,,,,,,sew it,,final,TI,,,,,,,-ikwaan/s-,,,,ocikwaatam-,,,V,TI,sew it,,PV1977;0055,menwikwaatam-,,,V,TI,sew it well/right/correctly,,PV1977;0055
 472,Voorhis,PV1988,0153,kic,,kick1244,-ikwam-,KP:1,,,,,,sew it,,final,TI
-473,Voorhis,PV1977,0055,kic,,kick1244,-ikwam-,KP:1,,,,,,sew it,,final,TI,,,,,,,-ikwaan/s-,,,,ocikwam-,,,V,TI,sew it,,PV1977;0055,kiisikwam-,,,V,TI,finish sewing it,,PV1977;0055
+472,Voorhis,PV1977,0055,kic,,kick1244,-ikwam-,KP:1,,,,,,sew it,,final,TI,,,,,,,-ikwaan/s-,,,,ocikwam-,,,V,TI,sew it,,PV1977;0055,kiisikwam-,,,V,TI,finish sewing it,,PV1977;0055
 474,Voorhis,PV1988,0153,kic,,kick1244,-ikwee ,KP:1,,,,,,neck,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-475,Voorhis,PV1983,0082,kic,,kick1244,-ikwee-,KP:1,,,,,,neck,,medial,,,,,,,,,,,,θakikweepin/s-,,,V,TA,hold him by tying his neck = hold him tied round the neck,,PV1983;0082,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 82 footnote: ""this form...is either a variant of -ihkweekanee-, occurring under unknown conditions and perhaps an error for -ihkwee-, or it may be a misspelling of -ehkwee-"""
+474,Voorhis,PV1983,0082,kic,,kick1244,-ikwee-,KP:1,,,,,,neck,,medial,,,,,,,,,,,,θakikweepin/s-,,,V,TA,hold him by tying his neck = hold him tied round the neck,,PV1983;0082,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 82 footnote: ""this form...is either a variant of -ihkweekanee-, occurring under unknown conditions and perhaps an error for -ihkwee-, or it may be a misspelling of -ehkwee-"""
 476,Voorhis,PV1988,0153,kic,,kick1244,-im-,KP:1,,,,,,him by voice; speak to him,,final,TA
 477,Voorhis,PV1977,0055,kic,,kick1244,-im-,KP:1,,,,,,"use the voice on him, speak to him",,final,TA,,,,,,,,,,,aacim-,,,V,TA,speak/talk/tell about him (by voice),,PV1977;0055,akim-,,,V,TA,count him (by voice),,PV1977;0055,isim-,,,V,TA,speak to him so (relative),,PV1977;0055,omacim-,,,V,TA,wake him up by speaking to him,,PV1977;0055
 478,Voorhis,PV1988,0153,kic,,kick1244,-imahkeθenee ,KP:1,,,,,,shoe,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-479,Voorhis,PV1983,"0078,0079,0082,0085",kic,,kick1244,-imahkeθenee-,KP:1,,,,,,shoe,,medial,,,,,,,,,,,,askipakimahkeθenee-,,,V,AI,put on or wear green shoes,,PV1983;0082,keehtéimahkeθenee-,,,V,AI,put on or wear old shoes,,PV1983;0082,,,,,,,,,,,,,,,,,,,,,,,Y,mahkeθeeh-
-480,Voorhis,PV1983,0082,kic,,kick1244,-imiisikwee-,KP:1,,,,,,pubic hair,,medial,,,,,,,,,,,,θaakimiisikweeskaa-,,,V,AI,stick one's pubic hair out,,PV1983;0082
+478,Voorhis,PV1983,"0078,0079,0082,0085",kic,,kick1244,-imahkeθenee-,KP:1,,,,,,shoe,,medial,,,,,,,,,,,,askipakimahkeθenee-,,,V,AI,put on or wear green shoes,,PV1983;0082,keehtéimahkeθenee-,,,V,AI,put on or wear old shoes,,PV1983;0082,,,,,,,,,,,,,,,,,,,,,,,Y,mahkeθeeh-
+481,Voorhis,PV1983,0082,kic,,kick1244,-imiisikwee-,KP:1,,,,,,pubic hair,,medial,,,,,,,,,,,,θaakimiisikweeskaa-,,,V,AI,stick one's pubic hair out,,PV1983;0082
 481,Voorhis,PV1988,0153,kic,,kick1244,-imiisikwee- ,KP:1,,,,,,pubic hair,,medial
 482,Voorhis,PV1988,0153,kic,,kick1244,-imin-,KP:1,,,,,,"fruit, berry, grain",,final,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 483,Voorhis,PV1988,0153,kic,,kick1244,-imin-,KP:1,,,,,,"fruit, berry, grain",,final,NI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -486,95 +486,94 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 485,Voorhis,PV1988,0153,kic,,kick1244,-imoteeh-,KP:1,,,,,,"sack, bag",,final,NI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 486,Voorhis,PV1983,0086,kic,,kick1244,-ina(w),KP:1,,,,,,see him,,final,TA,,,,,,,,,,,keekina(w)-,,,V,TA,"see him without his knowledge, catch him in the act",,PV1983;0086,kahkina(w)-,,,V,TA,"identify him, pick him out from among others",,PV1983;0086,nena(w)-,,,V,TA,recognize him,,PV1983;0086,,,,,,,,,,,,-ina(w),-ekw-
 487,Voorhis,PV1988,0153,kic,,kick1244,-inaakee-,KP:1,,,,,,sing,,final,AI
-488,Voorhis,PV1977,0051,kic,,kick1244,-inaakee-,KP:1,,,,,,sing,,final,AI,,,,,,,,,,,nahinaakee-,,,V,AI,know how to sing,,PV1977;0050,pooninaakee-,,,V,AI,cease singing,,PV1977;0051,tasinaakee-,,,V,AI,sing at that place (relative),,PV1977;0051
-489,Voorhis,PV1977,0048,kic,,kick1244,-inaaki,KP:1,,,,,,"where the Xs live, in the country of the Xs",,final
+487,Voorhis,PV1977,0051,kic,,kick1244,-inaakee-,KP:1,,,,,,sing,,final,AI,,,,,,,,,,,nahinaakee-,,,V,AI,know how to sing,,PV1977;0050,pooninaakee-,,,V,AI,cease singing,,PV1977;0051,tasinaakee-,,,V,AI,sing at that place (relative),,PV1977;0051
+490,Voorhis,PV1977,0048,kic,,kick1244,-inaaki,KP:1,,,,,,"where the Xs live, in the country of the Xs",,final
 490,Voorhis,PV1988,0154,kic,,kick1244,-inaaki-,KP:1,,,,,,"where such a people lives, in the country of such a people",,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 491,Voorhis,PV1988,0154,kic,,kick1244,-inaakw-,KP:1,,,,,,"look, appearance",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Recorded only in a personal name.,,,MAM
 492,Voorhis,PV1983,"0079,0083,0086",kic,,kick1244,-inaakw-,KP:1,,,,,,appearance,,medial,,,,,,,,,,,,(w)iipekwinaakoθi-,,,V,AI,look gray (?),,PV1983;0083,(w)iipekwinaakoθiihkw-,,,N,AI,personal name,,PV1983;0083,,,,,,,,,,,,,,,,,,,,-ina(w),-ekw-,,,,"GVM: p. 83 The ? in stem A is in-text, and no meaning is given for the personal name (stem B)"
-493,Voorhis,PV1983,0082,kic,,kick1244,-inecee-,KP:1,,,,,,hand,,medial,,,,,,,,,,,,apinecee-,,,V,AI,have warm hands,,PV1983;0082,otaahpineceen-,,,V,AI,take his hand = take him by the hand,,PV1983;0082,(w)iiθakinecaθo-,,,V,AI,burn one's hand,,PV1983;0082
+494,Voorhis,PV1983,0082,kic,,kick1244,-inecee-,KP:1,,,,,,hand,,medial,,,,,,,,,,,,apinecee-,,,V,AI,have warm hands,,PV1983;0082,otaahpineceen-,,,V,AI,take his hand = take him by the hand,,PV1983;0082,(w)iiθakinecaθo-,,,V,AI,burn one's hand,,PV1983;0082
 494,Voorhis,PV1988,0154,kic,,kick1244,-inecee- ,KP:1,,,,,,hand,,medial
 495,Voorhis,PV1988,0154,kic,,kick1244,-inee-,KP:1,,,,,,be dead,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-496,Voorhis,PV1977,0051,kic,,kick1244,-inee-,KP:1,,,,,,be dead,,final,AI,,,,,,,,,,,caakinee-,,,V,AI,be all dead,,PV1977;0050,katáinee-,,,V,AI,be almost dead = be dying,,PV1977;0051
+495,Voorhis,PV1977,0051,kic,,kick1244,-inee-,KP:1,,,,,,be dead,,final,AI,,,,,,,,,,,caakinee-,,,V,AI,be all dead,,PV1977;0050,katáinee-,,,V,AI,be almost dead = be dying,,PV1977;0051
 497,Voorhis,PV1988,0154,kic,,kick1244,-ineekweeθaa-,KP:1,,,,,,flap one's wings,,final,AI
-498,Voorhis,PV1983,0082,kic,,kick1244,-inehkee-,KP:1,,,,,,hand,,medial,,,,,,,,,,,,otaahpinehkeen-,,,V,TA,take his hand = take him by the hand,,PV1983;0082,(w)iiθakinehkaθo-,,,V,AI,burn one's hand,,PV1983;0082
-499,Voorhis,PV1983,0084,kic,,kick1244,-inehkee-,KP:1,,,,,,hand,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,-nehk-
+500,Voorhis,PV1983,"0082, 0084",kic,,kick1244,-inehkee-,KP:1,,,,,,hand,,medial,,,,,,,,,,,,otaahpinehkeen-,,,V,TA,take his hand = take him by the hand,,PV1983;0082,(w)iiθakinehkaθo-,,,V,AI,burn one's hand,,PV1983;0082
 500,Voorhis,PV1988,0154,kic,,kick1244,-inehkee- ,KP:1,,,,,,hand,,medial
 501,Goddard,IG1990a,0460,kic,,kick1244,-inekw-,KP:1,,,,,,armpit,,medial,,,,,,,,,,,,miasiaakw-inekw-ee-,,,V,AI,have bad-smelling armpits,,IG1990a;0460,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-502,Voorhis,PV1983,0082,kic,,kick1244,-inekwee-,KP:1,,,,,,"armpit, wing",,medial,,,,,,,,,,,,isineweeθaa-,,,V,AI,flap one's wings so (relative),,PV1983;0082,miasiaakwinekwee-,,,V,AI,have bad-smelling armpits,,PV1983;0082
+503,Voorhis,PV1983,0082,kic,,kick1244,-inekwee-,KP:1,,,,,,"armpit, wing",,medial,,,,,,,,,,,,isineweeθaa-,,,V,AI,flap one's wings so (relative),,PV1983;0082,miasiaakwinekwee-,,,V,AI,have bad-smelling armpits,,PV1983;0082
 503,Voorhis,PV1988,0154,kic,,kick1244,-inekwee- ,KP:1,,,,,,"armpit, wing",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-504,Voorhis,PV1983,0081,kic,,kick1244,-iniikwee-,KP:1,,,,,,"face, eye",,medial,,,,,,,,,,,,poociniikweehw-,,,V,TA,poke his eye out by tool,,PV1983;0081,wiininiikwee-,,,V,AI,have a dirty face,,PV1983;0081,(w)aapamooniniikwee-,,,V,AI,have mirror eyes,,PV1983;0080,(w)aapamooniniikwaakan-,,,N,ii,eyeglasses,,PV1983;0080
+505,Voorhis,PV1983,0081,kic,,kick1244,-iniikwee-,KP:1,,,,,,"face, eye",,medial,,,,,,,,,,,,poociniikweehw-,,,V,TA,poke his eye out by tool,,PV1983;0081,wiininiikwee-,,,V,AI,have a dirty face,,PV1983;0081,(w)aapamooniniikwee-,,,V,AI,have mirror eyes,,PV1983;0080,(w)aapamooniniikwaakan-,,,N,ii,eyeglasses,,PV1983;0080
 505,Voorhis,PV1988,0154,kic,,kick1244,-iniikwee- ,KP:1,,,,,,"face, eye",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 506,Voorhis,PV1988,0154,kic,,kick1244,-ipah-,KP:1,,,,,,run from him,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-507,Voorhis,PV1977,0055,kic,,kick1244,-ipah-,KP:1,,,,,,run from him,,final,TA,,,,,,,,,,,kohkipah-,,,V,TA,run from him in the other direction,,PV1977;0055
+506,Voorhis,PV1977,0055,kic,,kick1244,-ipah-,KP:1,,,,,,run from him,,final,TA,,,,,,,,,,,kohkipah-,,,V,TA,run from him in the other direction,,PV1977;0055
 508,Voorhis,PV1988,0154,kic,,kick1244,-ipaho-,KP:1,,,,,,run,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-509,Voorhis,PV1977,0051,kic,,kick1244,-ipaho-,KP:1,,,,,,run,,final,AI,,,,,,,,,,,kehcipeno-,,,V,AI,run,,PV1977;0050,pemipaho-,,,V,AI,run along/past,,PV1977;0051,(w)eepipaho-,,,V,AI,begin to run,,PV1977;0051
+508,Voorhis,PV1977,0051,kic,,kick1244,-ipaho-,KP:1,,,,,,run,,final,AI,,,,,,,,,,,kehcipeno-,,,V,AI,run,,PV1977;0050,pemipaho-,,,V,AI,run along/past,,PV1977;0051,(w)eepipaho-,,,V,AI,begin to run,,PV1977;0051
 510,Voorhis,PV1988,0154,kic,,kick1244,-ipahoon/s-,KP:1,,,,,,drive him,,final,TA,,,,,,,,-ipahootoo-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-511,Voorhis,PV1977,0055,kic,,kick1244,-ipahoon/s-,KP:1,,,,,,drive him,,final,TA,,,,,,,,-ipahootoo-,,,piehpahoon/s-,,,V,TA,drive him in this direction,,PV1977;0055
+510,Voorhis,PV1977,0055,kic,,kick1244,-ipahoon/s-,KP:1,,,,,,drive him,,final,TA,,,,,,,,-ipahootoo-,,,piehpahoon/s-,,,V,TA,drive him in this direction,,PV1977;0055
 512,Voorhis,PV1988,0154,kic,,kick1244,-ipahooneko-,KP:1,,,,,,drive (in a vehicle),,final,AI
 513,Voorhis,PV1988,0154,kic,,kick1244,-ipahootoo-,KP:1,,,,,,drive it,,final,TI,,,,,,,-ipahoon/s-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-514,Voorhis,PV1977,0055,kic,,kick1244,-ipahootoo-,KP:1,,,,,,drive it,,final,TI,,,,,,,-ipahoon/s-,,,,piehpahootoo-,,,V,TI,drive it in this direction,,PV1977;0055
-515,Goddard,IG1990a,0462,kic,,kick1244,-ipak-,KP:2,,,,,,leaf,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,askipak-,,,,,,,,,,,MAM
-516,Voorhis,PV1983,0084,kic,,kick1244,-ipak-,KP:1,,,,,,leaf,,medial,CLASS,,,,,,,,,,,kenwipakat-,,,V,II,be long (of a leaf),,PV1983;0084,makipakat-,,,V,II,be large (of a leaf),,PV1983;0084,meskwipakat-,,,V,II,be red (of a leaf),,PV1983;0084,,,,,,,,,askipak-
+513,Voorhis,PV1977,0055,kic,,kick1244,-ipahootoo-,KP:1,,,,,,drive it,,final,TI,,,,,,,-ipahoon/s-,,,,piehpahootoo-,,,V,TI,drive it in this direction,,PV1977;0055
+517,Goddard,IG1990a,0462,kic,,kick1244,-ipak-,KP:2,,,,,,leaf,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,askipak-,,,,,,,,,,,MAM
+517,Voorhis,PV1983,0084,kic,,kick1244,-ipak-,KP:1,,,,,,leaf,,medial,CLASS,,,,,,,,,,,kenwipakat-,,,V,II,be long (of a leaf),,PV1983;0084,makipakat-,,,V,II,be large (of a leaf),,PV1983;0084,meskwipakat-,,,V,II,be red (of a leaf),,PV1983;0084,,,,,,,,,askipak-
 517,Voorhis,PV1988,0154,kic,,kick1244,-ipak- ,KP:1,,,,,,leaf,,medial
-518,Voorhis,PV1983,"0078,0085",kic,,kick1244,-ipehkwanee-,KP:1,,,,,,back,,medial,,,,,,,,,,,,kesiipipehkwaneen-,,,V,TA,scratch an itch on his back by hand,,PV1983;0082,kesiipipehkwaneeno-,,,V,AI,scratch an itch on his back by hand,,PV1983;0082,(w)aapeskipehkwaneen-,,,V,TA,paint his back white by hand,,PV1983;0082,,,,,,,,,,,,,,,Y,-hpehkwan-
+519,Voorhis,PV1983,"0078,0085",kic,,kick1244,-ipehkwanee-,KP:1,,,,,,back,,medial,,,,,,,,,,,,kesiipipehkwaneen-,,,V,TA,scratch an itch on his back by hand,,PV1983;0082,kesiipipehkwaneeno-,,,V,AI,scratch an itch on his back by hand,,PV1983;0082,(w)aapeskipehkwaneen-,,,V,TA,paint his back white by hand,,PV1983;0082,,,,,,,,,,,,,,,Y,-hpehkwan-
 519,Voorhis,PV1988,0154,kic,,kick1244,-ipehkwanee- ,KP:1,,,,,,back,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 520,Voorhis,PV1988,0154,kic,,kick1244,-ipepoonwee-,KP:1,,,,,,be so many years old,,final,AI
-521,Voorhis,PV1983,0082,kic,,kick1244,-ipiiθehkaee-,KP:1,,,,,,"shirt, blouse",,medial,,,,,,,,,,,,askipakipiiθehkaee-,,,V,AI,put on or wear a green shirt or blouse,,PV1983;0082,niiθiikipiiθehkaee-,,,V,AI,"put on or wear a fringed, frayed, or ragged shirt or blouse",,PV1983;0082
+522,Voorhis,PV1983,0082,kic,,kick1244,-ipiiθehkaee-,KP:1,,,,,,"shirt, blouse",,medial,,,,,,,,,,,,askipakipiiθehkaee-,,,V,AI,put on or wear a green shirt or blouse,,PV1983;0082,niiθiikipiiθehkaee-,,,V,AI,"put on or wear a fringed, frayed, or ragged shirt or blouse",,PV1983;0082
 522,Voorhis,PV1988,0154,kic,,kick1244,-ipiiθehkaee- ,KP:1,,,,,,"shirt, blouse",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 523,Voorhis,PV1983,0078,kic,,kick1244,-ipiiθoonee-,KP:1,,,,,,NG,,medial
-524,Voorhis,PV1983,0082,kic,,kick1244,-ipiiθoonee-,KP:1,,,,,,trousers,,medial,,,,,,,,,,,,oskipiiθoonee-,,,V,AI,put on or wear new trousers,,PV1983;0082
+525,Voorhis,PV1983,0082,kic,,kick1244,-ipiiθoonee-,KP:1,,,,,,trousers,,medial,,,,,,,,,,,,oskipiiθoonee-,,,V,AI,put on or wear new trousers,,PV1983;0082
 525,Voorhis,PV1988,0154,kic,,kick1244,-ipiiθoonee- ,KP:1,,,,,,trousers,,medial
-526,Voorhis,PV1983,0082,kic,,kick1244,-ipikee-,KP:1,,,,,,rib,,medial,,,,,,,,,,,,kiiskipikeesin-,,,V,AI,break one's rib,,PV1983;0082
+527,Voorhis,PV1983,0082,kic,,kick1244,-ipikee-,KP:1,,,,,,rib,,medial,,,,,,,,,,,,kiiskipikeesin-,,,V,AI,break one's rib,,PV1983;0082
 527,Voorhis,PV1988,0154,kic,,kick1244,-ipikee- ,KP:1,,,,,,rib,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 528,Voorhis,PV1988,0154,kic,,kick1244,-ipon/s-,KP:1,,,,,,"saw him, grind him",,final,TA,,,,,,,,-ipotoo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-529,Voorhis,PV1977,0055,kic,,kick1244,-ipon/s-,KP:1,,,,,,saw/grind him,,final,TA,,,,,,,,-ipotoo-,,,kiisipon/s-,,,V,TA,finish sawing/grinding him,,PV1977;0055,kiiskipon/s-,,,V,TA,saw him apart,,PV1977;0055,pekihkipon/s-,,,V,TA,"make him in large chunks by grinding, grind him up very coarsely",,PV1977;0055
+528,Voorhis,PV1977,0055,kic,,kick1244,-ipon/s-,KP:1,,,,,,saw/grind him,,final,TA,,,,,,,,-ipotoo-,,,kiisipon/s-,,,V,TA,finish sawing/grinding him,,PV1977;0055,kiiskipon/s-,,,V,TA,saw him apart,,PV1977;0055,pekihkipon/s-,,,V,TA,"make him in large chunks by grinding, grind him up very coarsely",,PV1977;0055
 530,Voorhis,PV1988,0154,kic,,kick1244,-ipoon/s-,KP:1,,,,,,NG,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 531,Voorhis,PV1988,0154,kic,,kick1244,-ipotam-,KP:1,,,,,,it by tooth,,final,TI,,,,,,,-ipw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 532,Voorhis,PV1989,0154,kic,,kick1244,-ipotoo,KP:1,,,,,,"saw it, grind it",,final,TI,,,,,,,-ipon/s-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-533,Voorhis,PV1977,0055,kic,,kick1244,-ipotoo-,KP:1,,,,,,saw/grind it,,final,TI,,,,,,,-ipon/s-,,,,kiisipotoo-,,,V,TI,finish sawing/grinding it,,PV1977;0055,kiiskipotoo-,,,V,TI,saw it apart,,PV1977;0055,pakihkipotoo-,,,V,TI,"make it in large chunks by grinding, grind it up very coarsely",,PV1977;0055
+532,Voorhis,PV1977,0055,kic,,kick1244,-ipotoo-,KP:1,,,,,,saw/grind it,,final,TI,,,,,,,-ipon/s-,,,,kiisipotoo-,,,V,TI,finish sawing/grinding it,,PV1977;0055,kiiskipotoo-,,,V,TI,saw it apart,,PV1977;0055,pakihkipotoo-,,,V,TI,"make it in large chunks by grinding, grind it up very coarsely",,PV1977;0055
 534,Voorhis,PV1988,0154,kic,,kick1244,-ipw-,KP:1,,,,,,him by tooth,,final,TA,,,,,,,,-ipotam-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 535,Voorhis,PV1988,0154,kic,,kick1244,-isaa-,KP:1,,,,,,urinate,,final,AI
-536,Voorhis,PV1977,0051,kic,,kick1244,-isaa-,KP:1,,,,,,urinate,,final,AI,,,,,,,,,,,katáisaa-,,,V,AI,almost urinate = have to urinate,,PV1977;0050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 51 ""suspected of unproductivity"""
+535,Voorhis,PV1977,0051,kic,,kick1244,-isaa-,KP:1,,,,,,urinate,,final,AI,,,,,,,,,,,katáisaa-,,,V,AI,almost urinate = have to urinate,,PV1977;0050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 51 ""suspected of unproductivity"""
 537,Voorhis,PV1988,0154,kic,,kick1244,-isehkiih-,KP:1,,,,,,"dress him, get him dressed",,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-538,Voorhis,PV1977,0055,kic,,kick1244,-isehkiih-,KP:1,,,,,,"dress him, get him dressed",,final,TA,,,,,,,,,,,kiisisehkiih-,,,V,TA,"finish dressing him, finish getting him dressed",,PV1977;0055
+537,Voorhis,PV1977,0055,kic,,kick1244,-isehkiih-,KP:1,,,,,,"dress him, get him dressed",,final,TA,,,,,,,,,,,kiisisehkiih-,,,V,TA,"finish dressing him, finish getting him dressed",,PV1977;0055
 539,Voorhis,PV1988,0155,kic,,kick1244,-isim-,KP:1,,,,,,"put, set or lay him there (rel.); put, set, or lay him down; make or get him (causative)",,final,TA
-540,Voorhis,PV1977,0055,kic,,kick1244,-isim-,KP:1,,,,,,"put/set/lay him at that place (relative), put/set/lay him down",,final,TA,,,,,,,,-iθetoo-,,,menwisim-,,,V,TA,put/set/lay him down at that place (relative) well/right/correctly,,PV1977;0055,niisoosim-,,,V,TA,put two of him at that place (relative),,PV1977;0055
+539,Voorhis,PV1977,0055,kic,,kick1244,-isim-,KP:1,,,,,,"put/set/lay him at that place (relative), put/set/lay him down",,final,TA,,,,,,,,-iθetoo-,,,menwisim-,,,V,TA,put/set/lay him down at that place (relative) well/right/correctly,,PV1977;0055,niisoosim-,,,V,TA,put two of him at that place (relative),,PV1977;0055
 541,Voorhis,PV1988,0155,kic,,kick1244,-isin-,KP:1,,,,,,"lie, recline; lie or recline there (rel.); be; be in such a position or location; step; make, get (causative with medials)",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-542,Voorhis,PV1977,"0043,0050",kic,,kick1244,-isin-,KP:1,,,,,,"lie, recline; be in an X position/location; step",,final,AI,,,,,,-iθen-,,,,,naakweesin-,,,V,AI,lie first/in front/ahead,,PV1977;0043,askisin-,,,V,AI,be tired of lying,,PV1977;0043,tapatáisin-,,,V,AI,be in a level position/location,,PV1977;0051,θanakiθen-,,,V,II,be in a difficult position/location,,PV1977;0051
+541,Voorhis,PV1977,"0043,0050",kic,,kick1244,-isin-,KP:1,,,,,,"lie, recline; be in an X position/location; step",,final,AI,,,,,,-iθen-,,,,,naakweesin-,,,V,AI,lie first/in front/ahead,,PV1977;0043,askisin-,,,V,AI,be tired of lying,,PV1977;0043,tapatáisin-,,,V,AI,be in a level position/location,,PV1977;0051,θanakiθen-,,,V,II,be in a difficult position/location,,PV1977;0051
 543,Voorhis,PV1977,0046,kic,,kick1244,-isin-,KP:1,,,,,,NG,,final,AI,,,,,,-iθen-,,,,,ohkwáisin-,,,V,AI,be full,,PV1977;0046
 544,Voorhis,PV1983,"0080,0084",kic,,kick1244,-isin-,KP:1,,,,,,make or get one's ... -ed,,final,AI,,,,,,,,,,,(w)iiθakikaasin-,,,V,AI,get one's feet hurt = hurt one's feet,,PV1983;0080,(w)iiθakineceesin-,,,V,AI,hurt one's hands,,PV1983;0080,kaaθiikaasin-,,,V,AI,wipe one's feet (as on a doormat),,PV1983;0080
 545,Voorhis,PV1988,0155,kic,,kick1244,-itam-,KP:1,,,,,,it by voice; speak to it,,final,TI
 546,Voorhis,PV1977,0055,kic,,kick1244,-itam-,KP:1,,,,,,"use the voice on it, speak to it",,final,TI,,,,,,,-im-,,,,aakitam-,,,V,TI,count it (by voice),,PV1977;0055,isitam-,,,V,TI,speak to it so (relative),,PV1977;0055
-547,Voorhis,PV1983,"0082,0084,0086",kic,,kick1244,-iteehee-,KP:1,,,,,,thought,,medial,,,,,,,,,,,,kiaaciteehee-,,,V,AI,have lonesome thoughts,,PV1983;0082,isiteehee-,,,V,AI,have thoughts like that (relative) = think so,,PV1983;0082,opiteehee-,,,V,AI,have happy thoughts,,PV1983;0082,mehkwiteehee-,,,V,AI,remember,,PV1983;0083,-'íteehee-,,,,,,Y,isiteehee-
+548,Voorhis,PV1983,"0082,0084,0086",kic,,kick1244,-iteehee-,KP:1,,,,,,thought,,medial,,,,,,,,,,,,kiaaciteehee-,,,V,AI,have lonesome thoughts,,PV1983;0082,isiteehee-,,,V,AI,have thoughts like that (relative) = think so,,PV1983;0082,opiteehee-,,,V,AI,have happy thoughts,,PV1983;0082,mehkwiteehee-,,,V,AI,remember,,PV1983;0083,-'íteehee-,,,,,,Y,isiteehee-
 548,Voorhis,PV1988,0155,kic,,kick1244,-iteehee- ,KP:1,,,,,,thought,,medial
 549,Voorhis,PV1988,0155,kic,,kick1244,-́iteehee- ,KP:1,,,,,,desire to,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,can't reproduce original; has accent over first dash,,,MAM
 550,Voorhis,PV1988,0155,kic,,kick1244,-iten-,KP:1,,,,,,be caught or snagged,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 551,Voorhis,PV1977,0050,kic,,kick1244,-iten-,KP:1,,,,,,be caught/snagged,,final,II,,,,,-icin-,,,,,,kaskiten-,,,V,AI,be caught tightly = be caught in a tight place,,PV1977;0050
-552,Voorhis,PV1983,0083,kic,,kick1244,-itepee-,KP:1,,,,,,head,,medial,,,,,,,,,,,,kesiipitepee-,,,V,AI,have an itchy head,,PV1983;0083,kookitepeen-,,,V,TA,wash his head by hand,,PV1983;0083,wíakitepee-,,,V,AI,have a dirty head,,PV1983;0083,wiinitepee-,,,V,AI,have a dirty head,,PV1983;0083
+553,Voorhis,PV1983,0083,kic,,kick1244,-itepee-,KP:1,,,,,,head,,medial,,,,,,,,,,,,kesiipitepee-,,,V,AI,have an itchy head,,PV1983;0083,kookitepeen-,,,V,TA,wash his head by hand,,PV1983;0083,wíakitepee-,,,V,AI,have a dirty head,,PV1983;0083,wiinitepee-,,,V,AI,have a dirty head,,PV1983;0083
 553,Voorhis,PV1988,0155,kic,,kick1244,-itepee- ,KP:1,,,,,,"head; of an engine: block, head",,medial
-554,Voorhis,PV1983,"0079,0084",kic,,kick1244,-itepehk-,KP:1,,,,,,night,,medial,,,,,,,,,,,,kenwitepehkii-,,,V,i,be a long night,,PV1983;0079,-itepehkii-,,,V,i,be a ... night,,PV1983;0084
+555,Voorhis,PV1983,"0079,0084",kic,,kick1244,-itepehk-,KP:1,,,,,,night,,medial,,,,,,,,,,,,kenwitepehkii-,,,V,i,be a long night,,PV1983;0079,-itepehkii-,,,V,i,be a ... night,,PV1983;0084
 555,Voorhis,PV1988,0155,kic,,kick1244,-itepehk- ,KP:1,,,,,,night,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-556,Voorhis,PV1983,0083,kic,,kick1244,-itiee-,KP:1,,,,,,"rump, anus",,medial,,,,,,,,,,,,mehcitiee-,,,V,AI,have a naked rump or anus,,PV1983;0083
+557,Voorhis,PV1983,0083,kic,,kick1244,-itiee-,KP:1,,,,,,"rump, anus",,medial,,,,,,,,,,,,mehcitiee-,,,V,AI,have a naked rump or anus,,PV1983;0083
 557,Voorhis,PV1988,0155,kic,,kick1244,-itiee- ,KP:1,,,,,,"rump, anus",,medial
 558,Voorhis,PV1988,0155,kic,,kick1244,-iθaa-,KP:1,,,,,,"fly, rush, fall; go; make, get (causative with medials)",,final,AI,,,,,,-iθaa-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 559,Voorhis,PV1988,0155,kic,,kick1244,-iθaa-,KP:1,,,,,,"fly, rush, fall; go; make, get (causative with medials)",,final,II,,,,,-iθaa-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-560,Voorhis,PV1977,0051,kic,,kick1244,-iθaa-,KP:1,,,,,,"fly, rush, fall",,final,AI,,,,,,,,,,,isiθaa-,,,V,AI,fly/rush to that place (relative),,PV1977;0050,nehkiθaa-,,,V,AI,fly/rush out of sight = disappear suddenly,,PV1977;0051,tetepiθaa-,,,V,AI,fly/rush circularly = fly/rush around in a circle,,PV1977;0051
-561,Voorhis,PV1977,0051,kic,,kick1244,-iθaa-,KP:1,,,,,,"fly, rush, fall",,final,II,,,,,,,,,,,tetepiθaa-,,,V,AI,fly/rush circularly = fly/rush around in a circle,,PV1977;0050
+558,Voorhis,PV1977,0051,kic,,kick1244,-iθaa-,KP:1,,,,,,"fly, rush, fall",,final,AI,,,,,,,,,,,isiθaa-,,,V,AI,fly/rush to that place (relative),,PV1977;0050,nehkiθaa-,,,V,AI,fly/rush out of sight = disappear suddenly,,PV1977;0051,tetepiθaa-,,,V,AI,fly/rush circularly = fly/rush around in a circle,,PV1977;0051
+559,Voorhis,PV1977,0051,kic,,kick1244,-iθaa-,KP:1,,,,,,"fly, rush, fall",,final,II,,,,,,,,,,,tetepiθaa-,,,V,AI,fly/rush circularly = fly/rush around in a circle,,PV1977;0050
 562,Voorhis,PV1983,0080,kic,,kick1244,-iθaa-,KP:1,,,,,,make or get one's ... -ed,,final,AI,,,,,,,,,,,kahkacikaneeθaa-,,,V,AI,get one's leg out of joint = throw one's leg out of joint,,PV1983;0080
 563,Voorhis,PV1988,0155,kic,,kick1244,-iθah-,KP:1,,,,,,flip or jerk him,,final,TA
-564,Voorhis,PV1977,0055,kic,,kick1244,-iθah-,KP:1,,,,,,flip/jerk him,,final,TA,,,,,,,,*-iθahtoo-,,,míiθah-,,,V,TA,flip/jerk him out of the way,,PV1977;0055
+563,Voorhis,PV1977,0055,kic,,kick1244,-iθah-,KP:1,,,,,,flip/jerk him,,final,TA,,,,,,,,*-iθahtoo-,,,míiθah-,,,V,TA,flip/jerk him out of the way,,PV1977;0055
 565,Voorhis,PV1988,0155,kic,,kick1244,-iθaho-,KP:1,,,,,,"jump, leap ",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-566,Voorhis,PV1977,0051,kic,,kick1244,-iθaho-,KP:1,,,,,,"jump, leap ",,final,AI,,,,,,,,,,,capookiθaho-,,,V,AI,jump into the water,,PV1977;0050,kwaaskwiθaho-,,,V,AI,jump off,,PV1977;0051
+565,Voorhis,PV1977,0051,kic,,kick1244,-iθaho-,KP:1,,,,,,"jump, leap ",,final,AI,,,,,,,,,,,capookiθaho-,,,V,AI,jump into the water,,PV1977;0050,kwaaskwiθaho-,,,V,AI,jump off,,PV1977;0051
 567,Voorhis,PV1988,0155,kic,,kick1244,-iθen-,KP:1,,,,,,"lie, recline; lie or recline there (rel.); be; be in such a position or location  ",,final,II
 568,Voorhis,PV1977,0046,kic,,kick1244,-iθen-,KP:1,,,,,,NG,,final,II,,,,,-isin-,,,,,,ohkwáiθen-,,,V,II,be full,,PV1977;0046
-569,Voorhis,PV1977,0051,kic,,kick1244,-iθen-,KP:1,,,,,,"lie, recline; be in an X position/location",,final,II,,,,,-isin-,,,,,,naakweeθen-,,,V,II,lie first/in front/ahead,,PV1977;0050,pesikwiθen-,,,V,II,lie straight,,PV1977;0051,θanakiθen-,,,V,II,be in a difficult position/location,,PV1977;0051
+567,Voorhis,PV1977,0051,kic,,kick1244,-iθen-,KP:1,,,,,,"lie, recline; be in an X position/location",,final,II,,,,,-isin-,,,,,,naakweeθen-,,,V,II,lie first/in front/ahead,,PV1977;0050,pesikwiθen-,,,V,II,lie straight,,PV1977;0051,θanakiθen-,,,V,II,be in a difficult position/location,,PV1977;0051
 570,Voorhis,PV1988,0155,kic,,kick1244,-iθenie-,KP:1,,,,,,eat,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-571,Voorhis,PV1977,0051,kic,,kick1244,-iθenie-,KP:1,,,,,,eat,,final,AI,,,,,,,,,,,kiisiθenie-,,,V,AI,finish eating,,PV1977;0050,tasiθenie-,,,V,AI,eat at that place (relative),,PV1977;0051,(w)iikiθenie-,,,V,AI,eat deliciously = eat delicious food,,PV1977;0051,,,,,,,,,,,,,,,,,"GVM: p. 51 ""suspected of unproductivity"""
+570,Voorhis,PV1977,0051,kic,,kick1244,-iθenie-,KP:1,,,,,,eat,,final,AI,,,,,,,,,,,kiisiθenie-,,,V,AI,finish eating,,PV1977;0050,tasiθenie-,,,V,AI,eat at that place (relative),,PV1977;0051,(w)iikiθenie-,,,V,AI,eat deliciously = eat delicious food,,PV1977;0051,,,,,,,,,,,,,,,,,"GVM: p. 51 ""suspected of unproductivity"""
 572,Voorhis,PV1988,0155,kic,,kick1244,-iθetoo-,KP:1,,,,,,"put, set, or lay it there (rel.); put, set, or lay it down; make or get it (causative)",,final,TI
-573,Voorhis,PV1977,0055,kic,,kick1244,-iθetoo-,KP:1,,,,,,"put/set/lay it at that place, put/set/lay it down",,final,TI,,,,,,,-isim-,,,,menwiθetoo-,,,V,TI,put/set/lay it down at that place (relative) well/right/correctly,,PV1977;0055
+572,Voorhis,PV1977,0055,kic,,kick1244,-iθetoo-,KP:1,,,,,,"put/set/lay it at that place, put/set/lay it down",,final,TI,,,,,,,-isim-,,,,menwiθetoo-,,,V,TI,put/set/lay it down at that place (relative) well/right/correctly,,PV1977;0055
 574,Voorhis,PV1988,0155,kic,,kick1244,-iθo-,KP:1,,,,,,be named,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 575,Voorhis,PV1988,0155,kic,,kick1244,-iθo-,KP:1,,,,,,"have a name from such a nation or tribe, belong to such a clan",,final,AI
-576,Voorhis,PV1977,0051,kic,,kick1244,-iθo-,KP:1,,,,,,be named,,final,AI,,,,,,,,,,,isiθo-,,,V,AI,be named thus (relative),,PV1977;0050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 51 ""suspected of unproductivity"""
+574,Voorhis,PV1977,0051,kic,,kick1244,-iθo-,KP:1,,,,,,be named,,final,AI,,,,,,,,,,,isiθo-,,,V,AI,be named thus (relative),,PV1977;0050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 51 ""suspected of unproductivity"""
 577,Voorhis,PV1988,0036,kic,,kick1244,-kahkwan-,KP:1,,,,,,leg; of a vehicle: axle,,medial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 578,Voorhis,PV1988,0047,kic,,kick1244,-kiih-,KP:1,,,,,,"maternal aunt, mother's sister",,medial,AnimDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 579,Voorhis,PV1988,0054,kic,,kick1244,-kooteeh-,KP:1,,,,,,"dress, skirt",,medial,InanDep,,,,,,,,,,,mekooteen-,,,N,,"dress, skirt",,PV1988;0054,okooteshi-,,,V,AI,have a dress or skirt,,PV1988;0054
@@ -597,35 +596,35 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 596,Voorhis,PV1988,0087,kic,,kick1244,-noa-,KP:1,,,,,,cheek,,medial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 597,Voorhis,PV1988,0088,kic,,kick1244,-nookeenay-,KP:1,,,,,,"spirit, shadow",,medial,AnimDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 598,Voorhis,PV1988,0156,kic,,kick1244,-o-,KP:1,,,,,,"oneself, to or for oneself (reflexive); be …-ed (passive)",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-599,Voorhis,PV1983,0083,kic,,kick1244,-oee-,KP:1,,,,,,sound,,medial,,,,,,,,,,,,inoeeskaa-,,,V,II,make one's sound like that (relative) = make such a sound (relative),,PV1983;0083,-aatoee-,,,V,AI,speak (a language),,PV1983;0085,,,,,,,,,,,,,,,,,-oee-
-600,Voorhis,PV1983,0084,kic,,kick1244,-oee-,KP:1,,,,,,say,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-oee-,-∅
+602,Voorhis,PV1983,0083,kic,,kick1244,-oee-,KP:1,,,,,,sound,,medial,,,,,,,,,,,,inoeeskaa-,,,V,II,make one's sound like that (relative) = make such a sound (relative),,PV1983;0083,-aatoee-,,,V,AI,speak (a language),,PV1983;0085,,,,,,,,,,,,,,,,,-oee-
+601,Voorhis,PV1983,0084,kic,,kick1244,-oee-,KP:1,,,,,,say,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-oee-,-∅
 601,Voorhis,PV1988,0156,kic,,kick1244,-oee- ,KP:1,,,,,,"say, say it",,final,AI
 602,Voorhis,PV1988,0156,kic,,kick1244,-oee- ,KP:1,,,,,,sound,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-603,Voorhis,PV1977,"0044,0051",kic,,kick1244,-oee- ,KP:1,,,,,,say it,,final,AI,,,,,,,,,,,menoee-,,,V,AI,say it well/right,,PV1977;0044,apienoee-,,,V,AI,say it slowly,,PV1977;0051,inoee-,,,V,AI,say so (relative),,PV1977;0051,pehtoee-,,,V,AI,say it wrong,,PV1977;0051
+601,Voorhis,PV1977,"0044,0051",kic,,kick1244,-oee- ,KP:1,,,,,,say it,,final,AI,,,,,,,,,,,menoee-,,,V,AI,say it well/right,,PV1977;0044,apienoee-,,,V,AI,say it slowly,,PV1977;0051,inoee-,,,V,AI,say so (relative),,PV1977;0051,pehtoee-,,,V,AI,say it wrong,,PV1977;0051
 604,Voorhis,PV1988,0156,kic,,kick1244,-oeehtam-,KP:1,,,,,,make a sound with it,,final,TI
-605,Voorhis,PV1983,0083,kic,,kick1244,-oeek-,KP:1,,,,,,sound,,medial,,,,,,,,,,,,paaskoeekeθi-,,,V,AI,have a cracked sound = sound cracked,,PV1983;0083,paaskoeekat-,,,V,II,have a cracked sound = sound cracked,,PV1983;0083
+606,Voorhis,PV1983,0083,kic,,kick1244,-oeek-,KP:1,,,,,,sound,,medial,,,,,,,,,,,,paaskoeekeθi-,,,V,AI,have a cracked sound = sound cracked,,PV1983;0083,paaskoeekat-,,,V,II,have a cracked sound = sound cracked,,PV1983;0083
 606,Voorhis,PV1988,0156,kic,,kick1244,-oeek- ,KP:1,,,,,,sound,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 607,Voorhis,PV1988,0156,kic,,kick1244,-oeeskaa-,KP:1,,,,,,make a sound with it,,final,II
-608,Voorhis,PV1977,0047,kic,,kick1244,-okone,KP:1,,,,,,for X days,,final
+609,Voorhis,PV1977,0047,kic,,kick1244,-okone,KP:1,,,,,,for X days,,final
 609,Voorhis,PV1988,0156,kic,,kick1244,-okone- ,KP:1,,,,,,for so many days,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 610,Voorhis,PV1988,0092,kic,,kick1244,-oohkom-,KP:1,,,,,,mother in law,,medial,AnimDep
 611,Voorhis,PV1988,0092,kic,,kick1244,-oohkomeθ-,KP:1,,,,,,grandmother,,medial,AnimDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 612,Voorhis,PV1988,0156,kic,,kick1244,-oom-,KP:1,,,,,,carry him on one's back,,final,TA
-613,Voorhis,PV1977,0055,kic,,kick1244,-oom-,KP:1,,,,,,carry him on one's back,,final,TA,,,,,,,,-ootam-,,,noom-,,,V,TA,carry him on one's back,,PV1977;0055,naatoom-,,,V,TA,stop and carry him on one's back = stop and get him up on one's back,,PV1977;0055
+612,Voorhis,PV1977,0055,kic,,kick1244,-oom-,KP:1,,,,,,carry him on one's back,,final,TA,,,,,,,,-ootam-,,,noom-,,,V,TA,carry him on one's back,,PV1977;0055,naatoom-,,,V,TA,stop and carry him on one's back = stop and get him up on one's back,,PV1977;0055
 614,Voorhis,PV1977,0047,kic,,kick1244,-oomehkwe,KP:1,,,,,,X dollars/pesos,,final
 615,Voorhis,PV1988,0156,kic,,kick1244,-oomehkwe-,KP:1,,,,,,so many dollars or pesos,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 616,Voorhis,PV1988,0092,kic,,kick1244,-oosiθem-,KP:1,,,,,,grandchild,,medial,AnimDep
 617,Voorhis,PV1988,0156,kic,,kick1244,-ootam-,KP:1,,,,,,carry it on one's back,,final,TI
-618,Voorhis,PV1977,0055,kic,,kick1244,-ootam-,KP:1,,,,,,carry it on one's back,,final,TI,,,,,,,-oom-,,,,nootam-,,,V,TI,carry it on one's back,,PV1977;0055,pemootam-,,,V,TI,carry it along/past on one's back,,PV1977;0055
+617,Voorhis,PV1977,0055,kic,,kick1244,-ootam-,KP:1,,,,,,carry it on one's back,,final,TI,,,,,,,-oom-,,,,nootam-,,,V,TI,carry it on one's back,,PV1977;0055,pemootam-,,,V,TI,carry it along/past on one's back,,PV1977;0055
 619,Voorhis,PV1988,0156,kic,,kick1244,-ootee-,KP:1,,,,,,"crawl, creep",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-620,Voorhis,PV1977,0051,kic,,kick1244,-ootee-,KP:1,,,,,,"crawl, creep",,final,AI,,,,,,,,,,,kiootee-,,,V,AI,crawl/creep around aimlessly,,PV1977;0050,nahootee-,,,V,AI,know how to crawl/creep,,PV1977;0051
+619,Voorhis,PV1977,0051,kic,,kick1244,-ootee-,KP:1,,,,,,"crawl, creep",,final,AI,,,,,,,,,,,kiootee-,,,V,AI,crawl/creep around aimlessly,,PV1977;0050,nahootee-,,,V,AI,know how to crawl/creep,,PV1977;0051
 621,Voorhis,PV1988,0092,kic,,kick1244,-ooθ-,KP:1,,,,,,"father, paternal uncle, father's brother",,medial,AnimDep,,,,,,,,,,,ooθaakoom-,,,V,TA,be related to him as to a father,,PV1988;0093,ooθema-,,,N,,"father, father's brother",,PV1988;0093,ooθi-,,,V,AI,have one's father still living,,PV1988;0093,,,,,,,,,,,,,,,,,ooθema- given as NAI,,,MAM
 622,Voorhis,PV1988,0156,kic,,kick1244,-otam-,KP:1,,,,,,"it by voice, speak to it",,final,TI
 623,Voorhis,PV1988,0156,kic,,kick1244,-otam-,KP:1,,,,,,shoot it,,final,TI,,,,,,,-w-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 624,Voorhis,PV1977,0055,kic,,kick1244,-otam-,KP:1,,,,,,"use the voice on it, speak to it",,final,TI,,,,,,,-im-,,,,aatotam-,,,V,TI,speak/talk/tell about it (by voice),,PV1977;0055
 625,Voorhis,PV1988,0156,kic,,kick1244,-oθee-,KP:1,,,,,,"walk, travel",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 626,Voorhis,PV1977,"0043,0044,0051",kic,,kick1244,-oθee-,KP:1,,,,,,"go, walk, travel",,final,AI,,,,,,,,,,,kíoθee-,,,V,AI,go around aimlessly,,PV1977;0043,niisoθee-,,,V,AI,be two going,,PV1977;0044,anioθee-,,,V,AI,go/walk/travel excessively/too fast/too far,,PV1977;0051,apienoθee-,,,V,AI,go slow,,PV1977;0051
-627,Voorhis,PV1977,0051,kic,,kick1244,-pahooneko-,KP:1,,,,,,drive (in a vehicle),,final,AI,,,,,,,,,,,apienipahooneko-,,,V,AI,drive slowly ,,PV1977;0050,kiipahooneko-,,,V,AI,drive around aimlessly,,PV1977;0051,(w)eepipahooneko-,,,V,AI,beigin to drive,,PV1977;0051
+512,Voorhis,PV1977,0051,kic,,kick1244,-pahooneko-,KP:1,,,,,,drive (in a vehicle),,final,AI,,,,,,,,,,,apienipahooneko-,,,V,AI,drive slowly ,,PV1977;0050,kiipahooneko-,,,V,AI,drive around aimlessly,,PV1977;0051,(w)eepipahooneko-,,,V,AI,beigin to drive,,PV1977;0051
 628,Voorhis,PV1988,0110,kic,,kick1244,-pihka-   ,KP:1,,,,,,rib,,medial,InanDep
 629,Voorhis,PV1988,0113,kic,,kick1244,-pwaam- ,KP:1,,,,,,thigh,,medial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 630,Voorhis,PV1988,0115,kic,,kick1244,-sehk- ,KP:1,,,,,,belly,,medial,InanDep
@@ -667,10 +666,10 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 666,Voorhis,PV1988,0140,kic,,kick1244,-θeθeeh- ,KP:1,,,,,,older brother,,medial,AnimDep
 667,Voorhis,PV1988,0141,kic,,kick1244,-θiimeeh-,KP:1,,,,,,younger brother or sister,,medial,AnimDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 668,Voorhis,PV1988,0141,kic,,kick1244,-θoaano-,KP:1,,,,,,tail,,medial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-669,Voorhis,PV1988,0127,kic,,kick1244,(w)aap-,KP:1,,,,,,light coloured,,initial,,,,,,,,,,,,(w)aapiikween-,,,V,TA,paint his face white by hand,,PV1988;0127
+668,Voorhis,PV1988,0127,kic,,kick1244,(w)aap-,KP:1,,,,,,light coloured,,initial,,,,,,,,,,,,(w)aapiikween-,,,V,TA,paint his face white by hand,,PV1988;0127
 670,Voorhis,PV1988,0128,kic,,kick1244,(w)aapesk-,KP:1,,,,,,white,,initial,,,,,,,,,,,,(w)aapeskaanehkwee,,,V,AI,have white hair,,PV1988;0128,(w)aapeskeceaa-,,,V,II,have a white body,,PV1988;0128,(w)aapeskihkweekan-,,,V,AI,have a white neck,,PV1988;0128,(w)aapeskiihtaa-,,,V,AI,put on or wear white clothes,,PV1988;0128,,,,,,,,,,,,MAM
 671,Voorhis,PV1988,0130,kic,,kick1244,(w)eep-,KP:1,,,,,,begin to,,initial,,,,,,,,,,,,(w)eepaaskaa-,,,V,AI,begin to move or run (of a vehicle),,PV1988;0130,(w)eepahon/s-,,,V,TA,begin to drag him,,PV1988;0130,(w)eepapin/s,,,V,TA,begin to tie him,,PV1988;0130,(w)eepatam-,,,V,TI,begin to eat it,,PV1988;0130,,,,,,,,,,,,MAM
-672,Voorhis,PV1977,0048,kic,,kick1244,(w)eep-,KP:1,,,,,,begin to,,initial
+671,Voorhis,PV1977,0048,kic,,kick1244,(w)eep-,KP:1,,,,,,begin to,,initial
 673,Voorhis,PV1977,0045,kic,,kick1244,(w)eepi-,KP:1,,,,,,begin to,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: These could be preverbs or stems? A plainer form of them appears on page 47
 674,Voorhis,PV1988,0132,kic,,kick1244,(w)iik-,KP:1,,,,,,delicious,,initial,,,,,,,,,,,,(w)iikeθikee-,,,V,AI,cook things deliciously,,PV1988;0132,(w)iikeθw-,,,V,TA,cook him deliciously,,PV1988;0132,(w)iikiθenie-,,,V,AI,eat delicious food,,PV1988;0132,,,,,,,,,,,,,,,,,,,,MAM
 675,Voorhis,PV1988,0134,kic,,kick1244,(w)iiskop-,KP:1,,,,,,"sweet, salty; in dull pain, aching",,initial,,,,,,,,,,,,(w)iiskopahaatee-,,,V,II,be salted,,PV1988;0134,(w)iiskopaham-,,,V,TI,"salt it, shake salt onto it",,PV1988;0134,(w)iiskopihcíamatam-,,,V,AI,have an ache in one's arm,,PV1988;0134,,,,,,,,,,,,,,,,,,,,MAM
@@ -683,16 +682,16 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 682,Voorhis,PV1977,0049,kic,,kick1244,*-akooten-,KP:1,,,,,,hang,,final,II
 683,Voorhis,PV1977,0055,kic,,kick1244,*-iθahtoo-,KP:1,,,,,,flip/jerk it,,final,TI,,,,,,,-iθah-
 684,Voorhis,PV1988,0003,kic,,kick1244,aahcik-,KP:1,,,,,,"small, little",,initial,,,,,,,,,,,,aahcikateaa-,,,V,II,be narrow,,PV1988;0003,aahcikateeki-,,,V,AI,be narrow,,PV1988;0003,aahcikikee-,,,V,AI,have or build a small house,,PV1988;0003,aahcikikomee-,,,V,AI,have a small nose,,PV1988;0003,,,,,,,,,,,,MAM
-685,Voorhis,PV1977,0045,kic,,kick1244,aahcik-,KP:1,,,,,,small,,initial,,,,,,,,,,,,aahcike-noohi-,,,V,AI,be little/small,,PV1977;0046,aahcikiahen-,,,V,II,be little/small,,PV1977;0046
+684,Voorhis,PV1977,0045,kic,,kick1244,aahcik-,KP:1,,,,,,small,,initial,,,,,,,,,,,,aahcike-noohi-,,,V,AI,be little/small,,PV1977;0046,aahcikiahen-,,,V,II,be little/small,,PV1977;0046
 686,Voorhis,PV1988,0003,kic,,kick1244,aahkam-,KP:1,,,,,,clean,,initial,,,,,,,,,,,,aahkamaanakesee,,,V,AI,have clean aural canals,,PV1988;0003,aahkamaanakiiwee-,,,V,AI,have clean eyes,,PV1988;0003,aahkamaanakikomee-,,,V,AI,have clean nostrils,,PV1988;0003
 687,Voorhis,PV1988,0004,kic,,kick1244,aahkw-,KP:1,,,,,,angry,,initial,,,,,,,,,,aahkwee-,___ /eC/,aahkwiteehee-,,,V,AI,have angry thoughts,,PV1988;0004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 688,Voorhis,PV1988,0004,kic,,kick1244,aahpaee-,KP:1,,,,,,dream,,initial,,,,,,,,,,,,aahpaeesin-,,,V,AI,lie dreaming,,PV1988;0004
 689,Voorhis,PV1988,0005,kic,,kick1244,aahtee-,KP:1,,,,,,"extinguished, out (of fire, light, or of somethign burning), off (of electricity or of something electric), stopped (of a motor or engine)",,initial,,,,,,,,,,,,aahteaiθetoo-,,,V,TI,extinguish it with water,,PV1988;0005,aahteeham-,,,V,TI,extinguish it by tool,,PV1988;0005,aahteehtoo-,,,V,TI,"extinguish it, turn off the electricity to it'",,PV1988;0005,aahteehw-,,,V,TA,extinguish him by tool,,PV1988;0005,,,,,,,,,,,,MAM
 690,Voorhis,PV1988,0005,kic,,kick1244,aakoo-,KP:1,,,,,,erase,,initial,,,,,,,,,,,,aakoohaatee-,,,V,II,be erased by tool,,PV1988;0005,aakooham-,,,V,TI,erase it by tool,,PV1988;0005,aakoonam-,,,V,TI,erase it with one's hand,,PV1988;0005
 691,Voorhis,PV1988,0006,kic,,kick1244,aanehkw-,KP:1,,,,,,next,,initial,,,,,,,,,,,,aanehkwikaapaa-,,,V,AI,stand next,,PV1988;0006,aanehkwiθen-,,,V,II,lie next,,PV1988;0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-692,Voorhis,PV1977,0043,kic,,kick1244,aapehk-,KP:1,,,,,,"stone, metal, glass",,medial,,,,,,,,,,,,kaaθiaapehkahi-kan,,,N,ii,windshield wiper,,PV1977;0043
+74,Voorhis,PV1977,0043,kic,,kick1244,aapehk-,KP:1,,,,,,"stone, metal, glass",,medial,,,,,,,,,,,,kaaθiaapehkahi-kan,,,N,ii,windshield wiper,,PV1977;0043
 693,Voorhis,PV1988,0007,kic,,kick1244,aasó-,KP:1,,,,,,"over to the other side, over to the other side of him/it; in exchange, exchange",,initial,,,,,,,,,,aasoo-,___ -en- in TA verbs; ___ -enam- in TI verbs,aasoaaskaa,,,V,,jump over him/it,,PV1988;0007,aasoeskan-,,,V,TI,change it (of clothing),,PV1988;0007,aasoicitoo-,,,V,TI,"exchange it, attach it in exchange",,PV1988;0007,aasoonikee-,,,V,AI,make an exchange by hand,,PV1988;0007,,,,,,,,,"aasoaaskaa- - subcat just given as ""T""; probably TA and TI",,,MAM
-694,Voorhis,PV1977,0052,kic,,kick1244,aasó-,KP:1,,,,,,over (to the other side of) him/it,,initial
+693,Voorhis,PV1977,0052,kic,,kick1244,aasó-,KP:1,,,,,,over (to the other side of) him/it,,initial
 695,Voorhis,PV1988,0010,kic,,kick1244,ahkw-,KP:1,,,,,,"so far, so long, ending there",,initial,RR,,,,,,,,,,,ahkwateaa-,,,V,II,be so wide,,PV1988;0010,ahkwateeki-,,,V,AI,be so wide,,PV1988;0010,ahkwiθen-,,,V,II,"end there, lie extended so far",,PV1988;0010,,,,,,,,,,,,,,,,,,,,MAM
 696,Voorhis,PV1988,0010,kic,,kick1244,ahp-,KP:1,,,,,,on him/it,,initial,,,,,,,,,,,,ahpapi-,,,V,,sit on him/it,,PV1988;0010,ahpahkiesin-,,,V,AI,lie on him/it,,PV1988;0010,ahpikaapaa-,,,V,,stand on him/it,,PV1988;0010,ahpisin-,,,V,,lie on him/it,,PV1988;0010,,,,,,,,,"ahpapi-, ahpikaapaa-, ahpisin- - subcat just given as ""T""; probably TA and TI",,,MAM
 697,Voorhis,PV1988,0010,kic,,kick1244,ahpi-,KP:1,,,,,,"press down, hold down",,initial,,,,,,,,,,,,ahpiham-,,,V,TI,press or hold it down by tool,,PV1988;0010,ahpihw-,,,V,TA,press or hold him down by tool,,PV1988;0010,ahpinam-,,,V,TI,"put one's hand on it, press or hold it down by hand",,PV1988;0011
@@ -703,25 +702,25 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 702,Voorhis,PV1988,0014,kic,,kick1244,anem-,KP:1,,,,,,"along, along the way, in that direction",,initial,,,,,,,,,,,,anehanemipahooneko-,,,V,AI,keep driving along,,PV1988;0014,anemaanakat-,,,V,II,"go along, go in that direction (of a hole)",,PV1988;0014,anemipahooneko-,,,V,AI,drive along,,PV1988;0014,,,,,,,,,,,,,,,,,,,,MAM
 703,Voorhis,PV1988,0015,kic,,kick1244,aní-,KP:1,,,,,,"excessively, too much, too fast or far",,initial,,,,,,,,,,,,aníasih-,,,V,TA,overload him,,PV1988;0015,aníasihcikee-,,,V,AI,put on an excessive load,,PV1988;0015,aníasihtoo-,,,V,TI,overload it,,PV1988;0015
 704,Voorhis,PV1988,0016,kic,,kick1244,anook-,KP:1,,,,,,muddy,,initial,,,,,,,,,,,,anookaaki-,,,V,II,be muddy (of part of a house or of a yard),,PV1988;0016,anookahki-,,,V,II,be muddy (of a place or of ground),,PV1988;0016,anookikaatee-,,,V,AI,have muddy feet,,PV1988;0016,,,,,,,,,,,,,,,,,,,,MAM
-705,Voorhis,PV1977,0045,kic,,kick1244,anook-,KP:1,,,,,,muddy,,initial
+704,Voorhis,PV1977,0045,kic,,kick1244,anook-,KP:1,,,,,,muddy,,initial
 706,Voorhis,PV1988,0016,kic,,kick1244,ap-,KP:1,,,,,,warm,,initial,,,,,,,,,,,,apikaatee-,,,V,AI,have warm feet,,PV1988;0016,apinecee-,,,V,AI ,have warm hands,,PV1988;0016
 707,Voorhis,PV1988,0017,kic,,kick1244,apien-,KP:1,,,,,,slow,,initial,,,,,,,,,,,,apienetoneemo-,,,V,AI,speak slowly,,PV1988;0017,apienipahooneko-,,,V,AI,drive slowly (in a vehicle),,PV1988;0017,apienoee-,,,V,AI ,say it slowly,,PV1988;0017,,,,,,,,,,,,,,,,,,,,MAM
 708,Voorhis,PV1988,0017,kic,,kick1244,asenó-,KP:1,,,,,,"none, lacking, all gone",,initial,,,,,,,,,,,,asenoih-,,,V,TA,"have none of him, lack him",,PV1988;0017,asenoihtoo-,,,V,TI,"have none of it, lack it",,PV1988;0017
 709,Goddard,IG1990a,0462,kic,,kick1244,ask-,KP:2,,,,,,"raw, fresh",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,askipak-,,,,,,,,,,,MAM
 710,Voorhis,PV1988,0018,kic,,kick1244,ask-,KP:1,,,,,,tired in one's muscles,,initial,,,,,,,,,,,,askaanakiikwee-,,,V,AI,have tired eyes,,PV1988;0018,askahkiesin-,,,V,AI,be tired of lying or reclining,,PV1988;0018,askakoocin-,,,V,AI,be tired of hanging,,PV1988;0018,askapi-,,,V,AI,be tired of sitting,,PV1988;0018,,,,,,,,,,,,MAM
-711,Voorhis,PV1983,0084,kic,,kick1244,ask-,KP:1,,,,,,"raw, fresh",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,askipak-
+709,Voorhis,PV1983,0084,kic,,kick1244,ask-,KP:1,,,,,,"raw, fresh",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,askipak-
 712,Voorhis,PV1988,0018,kic,,kick1244,asken-,KP:1,,,,,,raw,,initial,,,,,,,,,,,,askenetee-,,,V,II,be insufficiently cooked,,PV1988;0018,askeneθo-,,,V,AI,be insufficiently cooked,,PV1988;0018
-713,Goddard,IG1990a,0462,kic,,kick1244,askipak-,KP:2,,,,,,green,,initial,,,,,,,,,,,,,,askipak-imahkeθen-e·-,V,AI,be wearing green shoes,,IG1990a;0462,,,,,,,,,,,,,,,,,,,,,,,,,,,,ask-,-ipak-,,,,,,,MAM
+714,Goddard,IG1990a,0462,kic,,kick1244,askipak-,KP:2,,,,,,green,,initial,,,,,,,,,,,,,,askipak-imahkeθen-e·-,V,AI,be wearing green shoes,,IG1990a;0462,,,,,,,,,,,,,,,,,,,,,,,,,,,,ask-,-ipak-,,,,,,,MAM
 714,Voorhis,PV1988,0018,kic,,kick1244,askipak-,KP:1,,,,,,green,,initial,,,,,,,,,,,,askipakaaθo-,,,V,AI,be green-colored,,PV1988;0018,askipakeceaa-,,,V,II,have a green body,,PV1988;0018,askipakecee-,,,V,AI ,have a green body,,PV1988;0018,askipakimahkeθenee-,,,V,AI,put on or wear green shoes,,PV1988;0019,,,,,,,,,,,,MAM
-715,Voorhis,PV1977,0045,kic,,kick1244,askipak-,KP:1,,,,,,green,,initial
-716,Voorhis,PV1983,0084,kic,,kick1244,askipak-,KP:1,,,,,,green,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ask-,-ipak-
+714,Voorhis,PV1977,0045,kic,,kick1244,askipak-,KP:1,,,,,,green,,initial
+714,Voorhis,PV1983,0084,kic,,kick1244,askipak-,KP:1,,,,,,green,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ask-,-ipak-
 717,Voorhis,PV1988,0020,kic,,kick1244,ayaapam-,KP:1,,,,,,back,,initial,,,,,,,,,,,,ayaapamenam-,,,V,TI,turn it back by hand,,PV1988;0020,ayaapamíetoo-,,,V,TI,carry or convey it back,,PV1988;0020
 718,Goddard,IG1990a,0453,kic,,kick1244,aθap-,KP:2,,,,,,thread,,initial,,,,,,,,,,,,aθapy-,,,,noun,thread,,IG1990a;0453,aθap-a·py-,,,N,,rope,,IG1990a;0453,,,,,,,,,,,,,,,,,,,,,,,,,Stem aθapy- from PA *aʔlapy- 'net',,,MAM
 719,Voorhis,PV1988,0020,kic,,kick1244,aθip-,KP:1,,,,,,"gathered together, placed together, bunched up, puckered, wrinkled",,initial,,,,,,,,,,,,aθipehkweekaa-,,,V,AI,dance with heads together,,PV1988;0020,aθipehkweekaapaa-,,,V,AI,stand with heads together,,PV1988;0020,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 720,Voorhis,PV1988,0021,kic,,kick1244,caak-,KP:1,,,,,,all,,initial,,,,,,,,,,,,caakáaki,,,N,,"all groups, bunches, bundles, or packages",,PV1988;0021,caakam-,,,V,TA,eat him up,,PV1988;0021,caakatam-,,,V,TI,eat or drink it up,,PV1988;0021
 721,Voorhis,PV1988,0021,kic,,kick1244,cahkw-,KP:1,,,,,,short,,initial,,,,,,,,,,,,cacahkwikiisekat-,,,V,II,keep being short days,,PV1988;0021,cahkoocee-,,,V,AI,have a short body,,PV1988;0021,cahkoohkwee-,,,V,AI,have short hair,,PV1988;0021,cahkwaanakat-,,,V,II,be shallow (of a hole or cavity),,PV1988;0022,,,,,,,,,cacahkw- redup.,,,MAM
 722,Voorhis,PV1988,0022,kic,,kick1244,capook-,KP:1,,,,,,into the water,,initial,,,,,,,,,,,,capookaahkee-,,,V,plain transitive,throw him/it into the water ,,PV1988;0022,capookenam-,,,V,TI,put it in the water by hand,,PV1988;0022,capookeskam-,,,V,TI,kick it into the water,,PV1988;0022
-723,Voorhis,PV1977,"0048,0055",kic,,kick1244,capook-,KP:1,,,,,,into the water,,initial
+722,Voorhis,PV1977,"0048,0055",kic,,kick1244,capook-,KP:1,,,,,,into the water,,initial
 724,Voorhis,PV1988,0022,kic,,kick1244,ciik-,KP:1,,,,,,"sticking out, projecting",,initial,,,,,,,,,,,,ciikaham-,,,V,TI,hold it out or up by tool,,PV1988;0022,ciikenam-,,,V,TI,hold it out or up by hand,,PV1988;0023,ciikenama(w),,,V,TA,hold it out or up to him by hand (double object verb),,PV1988;0023,,,,,,,,,,,,,,,,,,,,MAM
 725,Voorhis,PV1988,0023,kic,,kick1244,ciinisk-,KP:1,,,,,,"squeeze, squash",,initial,,,,,,,,,,,,ciiniskaham-,,,V,TI,squeeze or squash it by tool,,PV1988;0023,ciinisken-,,,V,TA,squeeze or squash him by hand,,PV1988;0023,ciiniskenam-,,,V,TI,squeeze or squash it by hand,,PV1988;0023,,,,,,,,,,,,,,,,,,,,MAM
 726,Voorhis,PV1988,0023,kic,,kick1244,ciinw-,KP:1,,,,,,navel,,initial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"most (all?) other inanimate dependent nouns from this source are listed with hyphens on either side and would be classified as medials, but this one is not"
@@ -729,8 +728,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 728,Voorhis,PV1988,0025,kic,,kick1244,eenik-,KP:1,,,,,,"funny, silly; laugh at",,initial,,,,,,,,,,,,eenihenikehta(w),,,V,TA,keep laughing at the sound of him,,PV1988;0025,eenikaacim-,,,V,TA,joke about him,,PV1988;0025,eenikaapam-,,,V,TA,laugh at the sight of him,,PV1988;0025,,,,,,,,,,,,,,,,,eenihenik- redup.
 729,Voorhis,PV1977,0043,kic,,kick1244,ihkwee-,KP:1,,,,,,woman,,initial,,,,,,,,,,,,ihkwéi,,,V,AI,be a woman,,PV1977;0043
 730,Goddard,IG1990a,0463,kic,,kick1244,ihp-,KP:2,,ehp-,,,,high,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inehp-,,,,,,,,,,,MAM
-731,Voorhis,PV1988,0028,kic,,kick1244,ihp-,KP:1,,,,,,high,,initial,,,,,,,,,,,,ihpaaki-,,,V,II,be high (of part of a house or of a yard),,PV1988;0028,ihpahki-,,,V,II,be high (of a place or of the ground),,PV1988;0028,ihpaskat-,,,V,II,"be high or tall (of grass, weeds, or small plants)",,PV1988;0028,,,,,,,,PV1988;0028
-732,Voorhis,PV1977,0042,kic,,kick1244,ikaa-,KP:1,,,,,,foot,,medial,,,,,,,,,,,,kookikaan-,,,V,TA,wash his feet by hand,,PV1977;0042
+730,Voorhis,PV1988,0028,kic,,kick1244,ihp-,KP:1,,,,,,high,,initial,,,,,,,,,,,,ihpaaki-,,,V,II,be high (of part of a house or of a yard),,PV1988;0028,ihpahki-,,,V,II,be high (of a place or of the ground),,PV1988;0028,ihpaskat-,,,V,II,"be high or tall (of grass, weeds, or small plants)",,PV1988;0028,,,,,,,,PV1988;0028
+434,Voorhis,PV1977,0042,kic,,kick1244,ikaa-,KP:1,,,,,,foot,,medial,,,,,,,,,,,,kookikaan-,,,V,TA,wash his feet by hand,,PV1977;0042
 733,Goddard,IG1990a,0463,kic,,kick1244,in-,KP:2,,eN-,,,,"(that) way, (so)",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inehp-,,,,,,,,,,,MAM
 734,Voorhis,PV1988,0030,kic,,kick1244,in/s-,KP:1,,,,,,"to that place (rel.); thus, so, like that (rel.)",,initial,RR,,,,,,,,,,,ihpahooneko-,,,V,AI,drive so (rel.),,PV1988;0030,ihpenan/s-,,,V,TA,"treat him so, do so to him (rel.)",,PV1988;0030,ihpenatoo-,,,V,TI,"treat it so, do so to it (rel.)",,PV1988;0030,inaacim-,,,V,TA,tell about him so (rel.),,PV1988;0030,,,,,,,,,"""in/s- plus ip (and probably ihp) becomes ihp""",,,MAM
 735,Voorhis,PV1977,0045,kic,,kick1244,in/s-,KP:1,,,,,,like that (relative),,initial,RR,,,,,,,,,,,isiki-,,,V,AI,"be so, be like that (relative)",,PV1977;0045,isiken-,,,V,II,"be so, be like that (relative)",,PV1977;0045
@@ -740,9 +739,9 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 739,Voorhis,PV1988,0034,kic,,kick1244,kaahk-,KP:1,,,,,,dry (opposite of siihk-),,initial,,,,,,,,,,,,kaahkeθam-,,,V,TI,dry it by heat,,PV1988;0034,kaahkeθo-,,,V,AI,dry out from heat,,PV1988;0034
 740,Voorhis,PV1988,0034,kic,,kick1244,kaat-,KP:1,,,,,,push,,initial,,,,,,,,,,,,kaataham-,,,V,TI,push it by tool,,PV1988;0035,kaaten-,,,V,TA,push him by hand,,PV1988;0035,kaatenam-,,,V,TI,push it by hand,,PV1988;0035,kaatenikee-,,,V,AI,push by hand,,PV1988;0035,,,,,,,,,,,,MAM
 741,Voorhis,PV1988,0035,kic,,kick1244,kaaθii-,KP:1,,,,,,wipe,,initial,,,,,,,,,,,,kaaθiiham-,,,V,TI,wipe it with something,,PV1988;0035,kaaθiihw-,,,V,TA,wipe him with something,,PV1988;0035,kaaθiikaasin-,,,V,AI,wipe one's feet (as on a doormat),,PV1988;0035
-742,Voorhis,PV1977,"0043,0052",kic,,kick1244,kaaθii-,KP:1,,,,,,wipe,,initial,,,,,,,,,,,,kaaθiinam-,,,V,TI,wipe it by hand,,PV1977;0043,kaaθiaapehkahikan-,,,N,ii,windshield wiper,,PV1977;0043,kaaθiihw-,,,V,TA,wipe him/it by using something held in the hand on him/it = wipe him/it by tool,,PV1977;0052,kaaθiiham-,,,V,TI,wipe him/it by using something held in the hand on him/it = wipe him/it by tool,,PV1977;0052
+741,Voorhis,PV1977,"0043,0052",kic,,kick1244,kaaθii-,KP:1,,,,,,wipe,,initial,,,,,,,,,,,,kaaθiinam-,,,V,TI,wipe it by hand,,PV1977;0043,kaaθiaapehkahikan-,,,N,ii,windshield wiper,,PV1977;0043,kaaθiihw-,,,V,TA,wipe him/it by using something held in the hand on him/it = wipe him/it by tool,,PV1977;0052,kaaθiiham-,,,V,TI,wipe him/it by using something held in the hand on him/it = wipe him/it by tool,,PV1977;0052
 743,Voorhis,PV1988,0035,kic,,kick1244,kahkam-,KP:1,,,,,,straight across (to the other side),,initial,,,,,,,,,,,,kahkamaapie-,,,V,AI,"go across (of string, rope, or wire)",,PV1988;0035,kahkamaapyeaa-,,,V,II,"go across (of string, rope, or wire)",,PV1988;0035,kahkamenam-,,,V,TI,move or take it across by hand,,PV1988;0035,kahkamicimee-,,,V,AI,swim across,,PV1988;0035,,,,,,,,,,,,MAM
-744,Voorhis,PV1977,0052,kic,,kick1244,kahkam-,KP:1,,,,,,across (to the other side of) him/it,,initial
+743,Voorhis,PV1977,0052,kic,,kick1244,kahkam-,KP:1,,,,,,across (to the other side of) him/it,,initial
 745,Voorhis,PV1988,0036,kic,,kick1244,kahkat-,KP:1,,,,,,"broken open; of body parts: out of joint, dislocated",,initial,,,,,,,,,,,,kahkacikaneeθaa-,,,V,AI,throw one's leg out of joint,,PV1988;0036
 746,Voorhis,PV1977,"0052,0055",kic,,kick1244,káit-,KP:1,,,,,,out around him/it,,initial
 747,Voorhis,PV1988,0037,kic,,kick1244,kask-,KP:1,,,,,,able to,,initial,,,,,,,,,,,,kaskiai-,,,V,AI,be able,,PV1988;0037,kaskihtoo-,,,V,TI,"be able to make or do it, be able to fix or repair it",,PV1988;0037,kaskiihkam-,,,V,TI,"be able to do it, be able to handle or deal with it",,PV1988;0037
@@ -751,12 +750,12 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 750,Voorhis,PV1988,0038,kic,,kick1244,ké-,KP:1,,,,,,slower,,initial,,,,,,,,,,,,keaaskaa-,,,V,AI,slow down lunging or running,,PV1988;0038,keipahooneko-,,,V,AI,slow down driving,,PV1988;0038,keiθaa-,,,V,AI,slow down in one's rush,,PV1988;0038
 751,Voorhis,PV1988,0039,kic,,kick1244,keehté-,KP:1,,,,,,old (not new),,initial,,,,,,,,,,,,keehteimahkeθenee-,,,V,AI,put on or wear old shoes,,PV1988;0039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 752,Voorhis,PV1988,0039,kic,,kick1244,keeθw-,KP:1,,,,,,how much? how many?,,initial,,,,,,,,,,,,keeθookimo-,,,V,AI,cost how much?,,PV1988;0039,keeθookitee-,,,V,II,cost how much?,,PV1988;0039,keeθwihtoo-,,,V,TI,have how much of it? have how many of it?,,PV1988;0040
-753,Voorhis,PV1977,0044,kic,,kick1244,keeθw̄-,KP:1,,,,,,how much/many?,,initial,,,,,,,,,,,,keeθookimo-,,,V,AI,cost/be priced at how much?,,PV1977;0044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: The ? is included in-text
+752,Voorhis,PV1977,0044,kic,,kick1244,keeθw̄-,KP:1,,,,,,how much/many?,,initial,,,,,,,,,,,,keeθookimo-,,,V,AI,cost/be priced at how much?,,PV1977;0044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: The ? is included in-text
 754,Voorhis,PV1988,0041,kic,,kick1244,kehpak-,KP:1,,,,,,thick,,initial,,,,,,,,,,,,kehpakitepee-,,,V,AI,have a thick head,,PV1988;0041,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 755,Voorhis,PV1988,0041,kic,,kick1244,keht-,KP:1,,,,,,much,,initial,,,,,,,,,,,,kehtenaan-,,,V,impersonal,"rain hard, be a downpour",,PV1988;0041
 756,Voorhis,PV1988,0041,kic,,kick1244,keken-,KP:1,,,,,,"fast, quick, swift",,initial,,,,,,,,,,,,kekenipahooneko-,,,V,AI,drive fast,,PV1988;0041,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 757,Voorhis,PV1988,0042,kic,,kick1244,kenw-,KP:1,,,,,,long,,initial,,,,,,,,,,,,kekenwikiisekat-,,,V,impersonal,keep being long days,,PV1988;0042,kenoocee-,,,V,AI,have a long body,,PV1988;0042,kenoohkwee-,,,V,AI,have long hair,,PV1988;0042,,,,,,,,,,,,,,,,,kekenw- redup.
-758,Voorhis,PV1977,0044,kic,,kick1244,kenw̄-,KP:1,,,,,,long,,initial,,,,,,,,,,,,kenooθi-,,,V,AI,be long,,PV1977;0044,kenwikii-sekat-,,,V,II,be a long day,,PV1977;0044,kenoaa-,,,V,II,be long,,PV1977;0045
+757,Voorhis,PV1977,0044,kic,,kick1244,kenw̄-,KP:1,,,,,,long,,initial,,,,,,,,,,,,kenooθi-,,,V,AI,be long,,PV1977;0044,kenwikii-sekat-,,,V,II,be a long day,,PV1977;0044,kenoaa-,,,V,II,be long,,PV1977;0045
 759,Voorhis,PV1988,0042,kic,,kick1244,kep-,KP:1,,,,,,"closed, blocked, stopped up; in the way",,initial,,,,,,,,,,kepw-,before eC,kekiepiikweekaa-,,,V,AI,dance with one's eyes closed,,PV1988;0042,kekiepiikweeskaa-,,,V,AI,close one's eyes,,PV1988;0042,kepakootoo-,,,V,TI,hang it in the way,,PV1988;0042,kepikaapaaihtoo-,,,V,TA,place it standing in the way,,PV1988;0042,,,,,,,,,kekiep- redup.,,,MAM
 760,Voorhis,PV1988,0043,kic,,kick1244,kesaat-,KP:1,,,,,,friendly,,initial,,,,,,,,,,,,kesaataateθi-,,,V,AI,feel friendly,,PV1988;0043
 761,Voorhis,PV1988,0043,kic,,kick1244,kesihk-,KP:1,,,,,,"vigorously, hard",,initial,,,,,,,,,,,,kesihkipahooneko-,,,V,AI,drive hard,,PV1988;0043,kesihkoθee-,,,V,AI,walk or travel hard,,PV1988;0043,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -765,36 +764,36 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 764,Voorhis,PV1988,0044,kic,,kick1244,kesó-,KP:1,,,,,,hard (with force or power),,initial,,,,,,,,,,,,kesoaahkee-,,,V,plain transitive,throw him/it hard,,PV1988;0044,kesoaaskaa-,,,V,AI,jump hard,,PV1988;0044,kesoaaθen-,,,V,impersonal,blow hard (of the wind),,PV1988;0044
 765,Voorhis,PV1977,0044,kic,,kick1244,kesy-,KP:1,,,,,,hot,,initial,,,,,,,,,,,,kesiθo-,,,V,AI,be hot,,PV1977;0044
 766,Voorhis,PV1988,0044,kic,,kick1244,ket-,KP:1,,,,,,"out, out of him/it",,initial,,,,,,,,,,,,kecihtan-,,,V,II,flow out,,PV1988;0044,ketehkweeskaa-,,,V,AI,take or put one's head out,,PV1988;0044,keten-,,,V,TA,take or put him out by hand,,PV1988;0044,ketenam-,,,V,TI,take or put it out by hand,,PV1988;0044,,,,,,,,,,,,MAM
-767,Voorhis,PV1977,0052,kic,,kick1244,ket-,KP:1,,,,,,out of him/it,,initial
+766,Voorhis,PV1977,0052,kic,,kick1244,ket-,KP:1,,,,,,out of him/it,,initial
 768,Voorhis,PV1988,0044,kic,,kick1244,ketaaθii-,KP:1,,,,,,upward,,initial,,,,,,,,,,,,ketaaθiipaho-,,,V,AI,run up,,PV1988;0044,ketaaθiipahooneko-,,,V,AI,drive up (in a vehicle),,PV1988;0044,ketaaθiiθaa-,,,V,AI,rush up,,PV1988;0044
-769,Voorhis,PV1977,0044,kic,,kick1244,ketaaθii-,KP:1,,,,,,up (along a surface),,initial,,,,,,,,,,,,ketaaθii-,,,V,AI,"go up, ascend",,PV1977;0043,ketaaθiipahooneko-,,,V,AI,drive up [in a vehicle],,PV1977;0044
+768,Voorhis,PV1977,0044,kic,,kick1244,ketaaθii-,KP:1,,,,,,up (along a surface),,initial,,,,,,,,,,,,ketaaθii-,,,V,AI,"go up, ascend",,PV1977;0043,ketaaθiipahooneko-,,,V,AI,drive up [in a vehicle],,PV1977;0044
 770,Voorhis,PV1988,0045,kic,,kick1244,ketak-,KP:1,,,,,,spotted,,initial,,,,,,,,,,,,ketakikomee-,,,V,AI,have a spotted nose,,PV1988;0045,ketakipiiθehkaee-,,,V,AI,put on or wear a spotted shirt,,PV1988;0045,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 771,Voorhis,PV1988,0045,kic,,kick1244,ketemaak-,KP:1,,,,,,"miserable, pitiful; poor (in property or money)",,initial,,,,,,,,,,,,ketemaakaapam-,,,V,TA,"think he looks miserable, pitiful, or poor",,PV1988;0045,ketemaakaateθi-,,,V,AI,"feel miserable, pitiful, or poor",,PV1988;0045,ketemaakiteehee-,,,V,AI,be miserable in one's thoughts,,PV1988;0045
 772,Voorhis,PV1988,0046,kic,,kick1244,keθii-,KP:1,,,,,,wash,,initial,,,,,,,,,,,,keθiikwaa,,,V,AI,wash one's face,,PV1988;0046,keθiikween-,,,V,TA,wash his face by hand,,PV1988;0046,keθiinecaa-,,,V,AI,wash one's hands,,PV1988;0046,keθiineceen-,,,V,TA,wash his hands by hand,,PV1988;0046,,,,,,,,,,,,MAM
-773,Voorhis,PV1983,0080,kic,,kick1244,keθii-,KP:1,,,,,,wash,,initial,,,,,,,,,,,,keθiikwaa-,,,V,AI,wash one's face,,PV1983;0080,keθiinecaa-,,,V,AI,wash one's hands,,PV1983;0080
+772,Voorhis,PV1983,0080,kic,,kick1244,keθii-,KP:1,,,,,,wash,,initial,,,,,,,,,,,,keθiikwaa-,,,V,AI,wash one's face,,PV1983;0080,keθiinecaa-,,,V,AI,wash one's hands,,PV1983;0080
 774,Voorhis,PV1988,0046,kic,,kick1244,kí-,KP:1,,,,,,"around aimlessly, here and there",,initial,,,,,,,,,,,,kaakíahkamikeθi-,,,V,AI,keep playing around here and there,,PV1988;0046,kaakíoθee-,,,V,AI ,keep wandering around,,PV1988;0046,kiaapiesin-,,,V,AI,keep wandering around,,PV1988;0046
-775,Voorhis,PV1977,"0042,0043,0047",kic,,kick1244,kí-,KP:1,,,,,,around aimlessly,,initial,,,,,,,,,,,,kíicimee-,,,V,AI,swim around aimlessly,,PV1977;0042,kíoθee-,,,V,AI,go around aimlessly,,PV1977;0043
-776,Voorhis,PV1983,0084,kic,,kick1244,kí-,KP:1,,,,,,around aimlessly,,initial
+774,Voorhis,PV1977,"0042,0043,0047",kic,,kick1244,kí-,KP:1,,,,,,around aimlessly,,initial,,,,,,,,,,,,kíicimee-,,,V,AI,swim around aimlessly,,PV1977;0042,kíoθee-,,,V,AI,go around aimlessly,,PV1977;0043
+774,Voorhis,PV1983,0084,kic,,kick1244,kí-,KP:1,,,,,,around aimlessly,,initial
 777,Voorhis,PV1988,0047,kic,,kick1244,kiaan-,KP:1,,,,,,"lose one's way, go the wrong way",,initial,,,,,,,,,,,,kiaanipahooneko-,,,V,AI,"lose one's way driving (in a vehicle), drive the wrong way",,PV1988;0047,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 778,Voorhis,PV1988,0047,kic,,kick1244,kiaat-,KP:1,,,,,,lonesome,,initial,,,,,,,,,,,,kiaaciteehee-,,,V,AI,have lonesome thoughts,,PV1988;0047,kiaataateθi-,,,V,AI ,feel lonesome,,PV1988;0047
 779,Voorhis,PV1988,0047,kic,,kick1244,kiihk-,KP:1,,,,,,further away,,initial,,,,,,,,,,,,kiihkapi-,,,V,AI,sit further away,,PV1988;0047,kihkikaapaa-,,,V,AI,stand further away,,PV1988;0047,kiihkisin-,,,V,AI,lie further away,,PV1988;0047,,,,,,,,,,,,,,,,,kiihkiihk- redup.
-780,Voorhis,PV1977,0048,kic,,kick1244,kiihk-,KP:1,,,,,,farther away,,initial
+779,Voorhis,PV1977,0048,kic,,kick1244,kiihk-,KP:1,,,,,,farther away,,initial
 781,Voorhis,PV1988,0048,kic,,kick1244,kiik-,KP:1,,,,,,endure,,initial,,,,,,,,,,,,kiikaci-,,,V,AI,endure the cold,,PV1988;0048,kiikapenee-,,,V,AI,endure hunger,,PV1988;0048,kiikeθo-,,,V,AI,endure the heat,,PV1988;0048,,,,,,,,,,,,,,,,,,,,MAM
 782,Voorhis,PV1988,0048,kic,,kick1244,kiip-,KP:1,,,,,,"(falling) down, (falling) over",,initial,,,,,,,,,,,,kiipaaskaa-,,,V,II,fall over,,PV1988;0048,kiipataham-,,,V,TI,knock it down by hitting or striking it,,PV1988;0048,kiipenam-,,,V,TI,knock it over by hand,,PV1988;0048
 783,Voorhis,PV1988,0049,kic,,kick1244,kiis-,KP:1,,,,,,finish ... -ing; in the past ,,initial,,,,,,,,,,,,kiisaapooθam-,,,V,TI,finish brewing it,,PV1988;0049,kiisaisim-,,,V,TA,finish watering him,,PV1988;0049,kiisaiθetoo-,,,V,TI,finish watering it,,PV1988;0049,kiisapin/s-,,,V,TA,finish tying him,,PV1988;0049,,,,,,,,,,,,MAM
-784,Voorhis,PV1977,0045,kic,,kick1244,kiisi-,KP:1,,,,,,finish -ing,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: These could be preverbs or stems? A plainer form of them appears on page 47
+783,Voorhis,PV1977,0045,kic,,kick1244,kiisi-,KP:1,,,,,,finish -ing,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: These could be preverbs or stems? A plainer form of them appears on page 47
 785,Voorhis,PV1988,0050,kic,,kick1244,kiisk-,KP:1,,,,,,"apart, of bones: broken",,initial,,,,,,,,,,,,kiiskaham-,,,V,TI,cut it apart by tool,,PV1988;0051,kiiskahkesam-,,,V,TI,cut it (of grass or plants),,PV1988;0051,kiiskahkesw-,,,V,TA,cut his hair,,PV1988;0051,,,,,,,,,,,,,,,,,kiiskiisk- redup.
-786,Voorhis,PV1977,0044,kic,,kick1244,kiisk-,KP:1,,,,,,"apart, in parts",,initial,,,,,,,,,,,,kiiskehkaa-,,,V,II,move apart/into parts,,PV1977;0044
+785,Voorhis,PV1977,0044,kic,,kick1244,kiisk-,KP:1,,,,,,"apart, in parts",,initial,,,,,,,,,,,,kiiskehkaa-,,,V,II,move apart/into parts,,PV1977;0044
 787,Voorhis,PV1988,0051,kic,,kick1244,kiiskat-,KP:1,,,,,,across,,initial,,,,,,,,,,,,kiiskaciθaa-,,,V,AI,run across,,PV1988;0051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 788,Voorhis,PV1988,0052,kic,,kick1244,kohk-,KP:1,,,,,,in the other direction,,initial,,,,,,,,,,,,kohkipah-,,,V,TA,run from him in the other direction,,PV1988;0052,kohkoθee-,,,V,AI,change direction in walking or traveling,,PV1988;0052
 789,Voorhis,PV1988,0052,kic,,kick1244,koht-,KP:1,,,,,,afraid of,,initial,,,,,,,,,,,,kohtaci-,,,V,AI,be afraid of the cold,,PV1988;0052,kohteθo-,,,V,AI,be afraid of the heat,,PV1988;0052,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 790,Voorhis,PV1988,0052,kic,,kick1244,konakw-,KP:1,,,,,,"through, through him/it",,initial,,,,,,,,,,,,konakonam-,,,V,TI,put him through by hand,,PV1988;0052,konakonam-,,,V,TI,put it through by hand,,PV1988;0052,konakootee-,,,V,AI,crawl through,,PV1988;0052
-791,Voorhis,PV1977,0048,kic,,kick1244,konakw-,KP:1,,,,,,through,,initial
-792,Voorhis,PV1977,0052,kic,,kick1244,konakw-,KP:1,,,,,,through him/it,,initial
+790,Voorhis,PV1977,0048,kic,,kick1244,konakw-,KP:1,,,,,,through,,initial
+790,Voorhis,PV1977,0052,kic,,kick1244,konakw-,KP:1,,,,,,through him/it,,initial
 793,Voorhis,PV1988,0053,kic,,kick1244,konep-,KP:1,,,,,,turn around,,initial,,,,,,,,,,,,konepapi-,,,V,AI,turn around (while sitting),,PV1988;0053,konepeceeskaa-,,,V,AI,"turn over, roll over",,PV1988;0053,konepeceeθah-,,,V,TA,flip him over,,PV1988;0053,konepenam-,,,V,TI,turn it around by hand,,PV1988;0053,,,,,,,,,,,,MAM
 794,Voorhis,PV1988,0053,kic,,kick1244,kook-,KP:1,,,,,,wash,,initial,,,,,,,,,,,,kookahw-,,,V,TA,wash him with something held in the hand (such as with a cloth),,PV1988;0053,kooken-,,,V,TA,wash him by hand,,PV1988;0053,kookenam-,,,V,TI,do washing for him,,PV1988;0053
-795,Voorhis,PV1977,"0042,0052,0053",kic,,kick1244,kook-,KP:1,,,,,,wash,,initial,,,,,,,,,,,,kookikaan-,,,V,TA,wash his feet by hand,,PV1977;0042,kookiikween-,,,V,TA,wash his face by hand,,PV1977;0043,kooken-,,,V,TA,wash him/it by using the hand on him/it = wash him/it by hand,,PV1977;0053,kookenam-,,,V,TI,wash him/it by using the hand on him/it = wash him/it by hand,,PV1977;0054
-796,Voorhis,PV1983,0080,kic,,kick1244,kook-,KP:1,,,,,,wash,,initial,,,,,,,,,,,,kookinecaa-,,,V,AI,wash one's hands,,PV1983;0080,kookitepaa-,,,V,AI,wash one's head,,PV1983;0080
+794,Voorhis,PV1977,"0042,0052,0053",kic,,kick1244,kook-,KP:1,,,,,,wash,,initial,,,,,,,,,,,,kookikaan-,,,V,TA,wash his feet by hand,,PV1977;0042,kookiikween-,,,V,TA,wash his face by hand,,PV1977;0043,kooken-,,,V,TA,wash him/it by using the hand on him/it = wash him/it by hand,,PV1977;0053,kookenam-,,,V,TI,wash him/it by using the hand on him/it = wash him/it by hand,,PV1977;0054
+794,Voorhis,PV1983,0080,kic,,kick1244,kook-,KP:1,,,,,,wash,,initial,,,,,,,,,,,,kookinecaa-,,,V,AI,wash one's hands,,PV1983;0080,kookitepaa-,,,V,AI,wash one's head,,PV1983;0080
 797,Voorhis,PV1988,0054,kic,,kick1244,kookook-,KP:1,,,,,,wiggle,,initial,,,,,,,,,,,,kookookoθee-,,,V,AI,wiggle as one walks,,PV1988;0054,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 798,Voorhis,PV1988,0054,kic,,kick1244,koskw-,KP:1,,,,,,sprained,,initial,,,,,,,,,,,,koskwihcieeskaa-,,,V,AI,sprain one's arm,,PV1988;0054,koskwihcieeθaa-,,,V,AI,sprain one's arm,,PV1988;0054,koskwikaasin-,,,V,AI,sprain one's foot,,PV1988;0054,koskwikaaθaa-,,,V,AI,sprain one's foot,,PV1988;0054,,,,,,,,,,,,MAM
 799,Voorhis,PV1988,0054,kic,,kick1244,kot-,KP:1,,,,,,try to,,initial,,,,,,,,,,,,kociai-,,,V,AI,try,,PV1988;0054,kotoee-,,,V,AI,try to say it,,PV1988;0054,kotootee-,,,V,AI,try to crawl,,PV1988;0054
@@ -802,7 +801,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 801,Voorhis,PV1988,0055,kic,,kick1244,kwaahkwaap-,KP:1,,,,,,"scatter, splash",,initial,,,,,,,,,,,,kwaahkwaapaham-,,,V,TI,scatter or splash it by tool,,PV1988;0055,kwaahkwaapen-,,,V,TA,scatter him by hand,,PV1988;0055,kwaahkwaapenam-,,,V,TI,scatter or splash it by foot or body,,PV1988;0055
 802,Voorhis,PV1988,0055,kic,,kick1244,kwaap-,KP:1,,,,,,"scattered, distributed",,initial,,,,,,,,,,,,kwaapaaskaa-,,,V,AI,scatter lunging,,PV1988;0055,kwaapaham-,,,V,TI,scatter or distribute it by tool,,PV1988;0055,kwaapen-,,,V,TA,scatter or distribute him by hand,,PV1988;0055,kwaapenam-,,,V,TI,scatter or distribute it by hand,,PV1988;0056,,,,,,,,,,,,MAM
 803,Voorhis,PV1988,0056,kic,,kick1244,kwaaskw-,KP:1,,,,,,"off, off of him/it",,initial,,,,,,,,,,,,kwaaskiwiθaho-,,,V,AI,jump off,,PV1988;0056
-804,Voorhis,PV1977,0052,kic,,kick1244,kwaaskw-,KP:1,,,,,,off of him/it,,initial
+803,Voorhis,PV1977,0052,kic,,kick1244,kwaaskw-,KP:1,,,,,,off of him/it,,initial
 805,Voorhis,PV1988,0056,kic,,kick1244,kwiit-,KP:1,,,,,,"upward, up into the air",,initial,,,,,,,,,,,,kwiiciθaa-,,,V,AI,jump up,,PV1988;0056,kwiitaahkee-,,,V,T,throw him/it upward,,PV1988;0057,kwiitaham-,,,V,TI,raise it up by tool,,PV1988;0057,kwiiten-,,,V,TA,raise him up by hand,,PV1988;0057,,,,,,,,,,,,MAM
 806,Voorhis,PV1988,0058,kic,,kick1244,maanee-,KP:1,,,,,,"be much, be many, be a lot",,initial
 807,Voorhis,PV1988,0058,kic,,kick1244,maanw-,KP:1,,,,,,"much, many, a lot",,initial,,,,,,,,,,maanee-,"before -ih- VTA, -ihtoo- VTI",maamaanwikaatee-,,,V,AI,have many feet,,PV1988;0058,maanoopi-,,,V,AI,be many sitting,,PV1988;0059,maaneeh-,,,V,TA,have a lot of him,,PV1988;0058,maaneehtoo-,,,V,TI,have a lot of it,,PV1988;0058,,,,,,,,,"Entry for maanee- says ""replaced by maanw- before most suffixes""",,,MAM
@@ -816,29 +815,29 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 815,Voorhis,PV1988,0065,kic,,kick1244,meht-,KP:1,,,,,,"plain, bare, out in the open",,initial,,,,,,,,,,,,mehcikaano-,,,V,AI,"bare one's feet, take off one's shoes",,PV1988;0065,mehcikaatee-,,,V,AI,have bare feet,,PV1988;0065,mehcitiee-,,,V,AI,have a bare rump or anus,,PV1988;0065,,,,,,,,,,,,,,,,,,,,MAM
 816,Voorhis,PV1988,0066,kic,,kick1244,memiesk-,KP:1,,,,,,sloppy,,initial,,,,,,,,,,,,memieskiihtaa-,,,V,AI,"dress oneself sloppily, be sloppily dressed",,PV1988;0066,memieskikwaatee-,,,V,II,be sloppily sewn,,PV1988;0066,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 817,Voorhis,PV1988,0067,kic,,kick1244,menw-,KP:1,,,,,,"good, well; pleasant; right, correct, correctly",,initial,,,,,,,,,,,,menoee-,,,V,AI,say it well or correctly,,PV1988;0067,menwaahpaee-,,,V,AI,dream a good dream,,PV1988;0067,menwaakami-,,,V,II,be clear liquid,,PV1988;0067,,,,,,,,,,,,,,,,,memeenw- redup.
-818,Voorhis,PV1977,"0044,0045",kic,,kick1244,menw-,KP:1,,,,,,"good, right, correct",,initial,,,,,,,,,,,,menoee-,,,V,AI,say it well/right,,PV1977;0044,menwiken-,,,V,II,be good/right/correct,,PV1977;0044,menwihpenan/s-,,,V,TA,treat him well/right,,PV1977;0044,menwiki-,,,V,AI,be good/right/correct,,PV1977;0044
+817,Voorhis,PV1977,"0044,0045",kic,,kick1244,menw-,KP:1,,,,,,"good, right, correct",,initial,,,,,,,,,,,,menoee-,,,V,AI,say it well/right,,PV1977;0044,menwiken-,,,V,II,be good/right/correct,,PV1977;0044,menwihpenan/s-,,,V,TA,treat him well/right,,PV1977;0044,menwiki-,,,V,AI,be good/right/correct,,PV1977;0044
 819,Voorhis,PV1988,0069,kic,,kick1244,meskw-,KP:1,,,,,,red,,initial,,,,,,,,,,,,meskocee-,,,V,AI,have a red body,,PV1988;0070,meskwikanee-,,,V,AI,have a red leg,,PV1988;0070,meskwipakat-,,,V,II,have red leaves,,PV1988;0070,,,,,,,,,,,,,,,,,,,,MAM
-820,Voorhis,PV1977,0044,kic,,kick1244,meskw-,KP:1,,,,,,red,,initial,,,,,,,,,,,,meskoθi-,,,V,AI,be red,,PV1977;0044,meskwaa-,,,V,II,be red,,PV1977;0044
+819,Voorhis,PV1977,0044,kic,,kick1244,meskw-,KP:1,,,,,,red,,initial,,,,,,,,,,,,meskoθi-,,,V,AI,be red,,PV1977;0044,meskwaa-,,,V,II,be red,,PV1977;0044
 821,Voorhis,PV1988,0070,kic,,kick1244,metaaθ-,KP:1,,,,,,"like to, enjoy ... -ing",,initial,,,,,,,,,,,,meemetaaθehta(w)-,,,V,TA,keep enjoying listening to him,,PV1988;0070,metaaθaapam-,,,V,TA,"like to look at him, enjoy looking at him",,PV1988;0070,metaaθaapatam-,,,V,TI,"like to look at it, enjoy looking at it",,PV1988;0070
-822,Voorhis,PV1977,0049,kic,,kick1244,metaaθ-,KP:1,,,,,,"like to, enjoy Xing",,initial
+821,Voorhis,PV1977,0049,kic,,kick1244,metaaθ-,KP:1,,,,,,"like to, enjoy Xing",,initial
 823,Voorhis,PV1988,0070,kic,,kick1244,metaaθw-,KP:1,,,,,,ten,,initial,,,,,,,,,,,,metaaθoomehkwe,,,N,,ten dollars,,PV1988;0071,metaaθwih,,,V,TA,have ten of him,,PV1988;0071,metaaθwipepoonwee-,,,V,AI,be ten years old,,PV1988;0071,,,,,,,,,,,,,,,,,,,,MAM
 824,Voorhis,PV1988,0071,kic,,kick1244,mí-,KP:1,,,,,,out of the way,,initial,,,,,,,,,,,,miaaskaa-,,,V,II,move or fall out of the way,,PV1988;0071,míapi-,,,V,AI,sit out of the way,,PV1988;0071,míinehkee-,,,V,AI,take one's hand out of the way,,PV1988;0071
 825,Voorhis,PV1988,0072,kic,,kick1244,mian/s-,KP:1,,,,,,bad (defective),,initial,,,,,,,,,,,,miahpahooneko-,,,V,AI,drive badly,,PV1988;0072,miahpenan/s-,,,V,TA,treat him badly,,PV1988;0072,miahpetam-,,,V,TI,think it tastes bad,,PV1988;0072,miahpokoθi-,,,V,AI,taste bad,,PV1988;0072,,,,,,,,,"""plus i(h)p... becomes miahp..."" ",,,MAM
-826,Voorhis,PV1977,0044,kic,,kick1244,mian/s-,KP:1,,,,,,bad,,initial,,,,,,,,,,,,miasiaatam-,,,V,TI,think it smells bad,,PV1977;0044,mianet-,,,V,II,be bad,,PV1977;0044,miahpenan/s-,,,V,TA,treat him badly,,PV1977;0044
+825,Voorhis,PV1977,0044,kic,,kick1244,mian/s-,KP:1,,,,,,bad,,initial,,,,,,,,,,,,miasiaatam-,,,V,TI,think it smells bad,,PV1977;0044,mianet-,,,V,II,be bad,,PV1977;0044,miahpenan/s-,,,V,TA,treat him badly,,PV1977;0044
 827,Goddard,IG1990a,0460,kic,,kick1244,miasiaakw-,KP:1,,,,,,NG,,initial,,,,,,,,,,,,miasiaakoθi-,,,V,AI,smell bad,,IG1990a;0460,miasiaakwat-,,,V,II,smell bad,,IG1990a;0460,miasiaakw-inekw-ee-,,,V,AI,have bad-smelling armpits,,IG1990a;0460,,,,,,,,,,,,,,,,,Initial probably means 'smell bad',,,MAM
 828,Voorhis,PV1988,0073,kic,,kick1244,miiná-,KP:1,,,,,,notice,,initial,,,,,,,,,,,,miinaapam-,,,V,TA,notice him on seeing him,,PV1988;0074,miinaehta(w)-,,,V,TA,notice him on hearing him,,PV1988;0074
 829,Voorhis,PV1988,0073,kic,,kick1244,miiθ/s,KP:1,,,,,,"hairy, wooly, furry",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-830,Voorhis,PV1977,0044,kic,,kick1244,miiθ/s-,KP:1,,,,,,"hairy, etc.",,initial,,,,,,,,,,,,miisia-,,,V,II,be hairy/woolly/furry/fuzzy,,PV1977;0044,miiθeθi-,,,V,AI,"be hairy, etc.",,PV1977;0044,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: The ""etc."" is in-text"
+829,Voorhis,PV1977,0044,kic,,kick1244,miiθ/s-,KP:1,,,,,,"hairy, etc.",,initial,,,,,,,,,,,,miisia-,,,V,II,be hairy/woolly/furry/fuzzy,,PV1977;0044,miiθeθi-,,,V,AI,"be hairy, etc.",,PV1977;0044,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: The ""etc."" is in-text"
 831,Voorhis,PV1988,0076,kic,,kick1244,naakwee-,KP:1,,,,,,"first, in front, ahead",,initial,,,,,,,,,,,,naakweekaapaa-,,,V,AI,"stand first, in front, or ahead",,PV1988;0076,naakweepahooneko-,,,V,AI,"drive first, in front, or ahead",,PV1988;0076,naakweepi-,,,V,AI,"sit first, in front, or ahead",,PV1988;0076
-832,Voorhis,PV1977,"0043,0047",kic,,kick1244,naakwee-,KP:1,,,,,,"first, in front, ahead",,initial,,,,,,,,,,,,naakweepi-,,,V,AI,sit first/in front/ahead,,PV1977;0043,naakweesin-,,,V,AI,lie first/in front/ahead,,PV1977;0043
+831,Voorhis,PV1977,"0043,0047",kic,,kick1244,naakwee-,KP:1,,,,,,"first, in front, ahead",,initial,,,,,,,,,,,,naakweepi-,,,V,AI,sit first/in front/ahead,,PV1977;0043,naakweesin-,,,V,AI,lie first/in front/ahead,,PV1977;0043
 833,Voorhis,PV1988,0077,kic,,kick1244,naat-,KP:1,,,,,,"stop and, stop to",,initial,,,,,,,,,,,,naanaatoom-,,,V,TA,keep stopping to get him up on one's back,,PV1988;0077,naaten-,,,V,TA,stop and get him by hand,,PV1988;0077,naatenam-,,,V,TI,stop and get it by hand,,PV1988;0077
 834,Voorhis,PV1988,0077,kic,,kick1244,nah-,KP:1,,,,,,"properly, know how to",,initial,,,,,,,,,,,,nahekaa-,,,V,AI,know how to dance,,PV1988;0077,nahetoneemo-,,,V,AI,know how to speak or talk,,PV1988;0077,naheθikee-,,,V,AI,know how to cook things,,PV1988;0077,nahiai-,,,V,AI,know how,,PV1988;0077,,,,,,,,,,,,MAM
-835,Voorhis,PV1977,0048,kic,,kick1244,nah-,KP:1,,,,,,"properly, know how to",,initial
+834,Voorhis,PV1977,0048,kic,,kick1244,nah-,KP:1,,,,,,"properly, know how to",,initial
 836,Voorhis,PV1988,0078,kic,,kick1244,nahkw-,KP:1,,,,,,"take, catch, receive",,initial,,,,,,,,,,,,nahkoham-,,,V,TI,"take or catch it by tool, of a baseball: hit it with the bat",,PV1988;0079,nahkonam-,,,V,TI,"take, receive, or catch it by hand",,PV1988;0079
 837,Voorhis,PV1988,0079,kic,,kick1244,nak-,KP:1,,,,,,stop  ,,initial,,,,,,,,,,,,nakenam-,,,V,TI,stop it by hand,,PV1988;0079,nakeska(w)-,,,V,TA,stop him with one's feet or body,,PV1988;0079,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 838,Voorhis,PV1988,0080,kic,,kick1244,natá-,KP:1,,,,,,"seek, seek to ",,initial,,,,,,,,,,natw-,before eC,nataapam-,,,V,TA,"look for him, seek him",,PV1988;0080,nataaapatam-,,,V,TI,"look for it, seek it",,PV1988;0080,natoceen-,,,V,TA,"seek his body by hand, feel around for him",,PV1988;0080,natohta(w)-,,,V,TA,"listen for him, strive to hear him",,PV1988;0080,,,,,,,,,,,,MAM
 839,Voorhis,PV1988,0081,kic,,kick1244,nehk-,KP:1,,,,,,out of sight,,initial,,,,,,,,,,,,nehkapi-,,,V,AI,sit out of sight,,PV1988;0081,nehkiθaa-,,,V,AI,"disappear suddenly, duck out of sight",,PV1988;0081,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-840,Voorhis,PV1977,0045,kic,,kick1244,nekot-,KP:1,,,,,,one,,initial,NUM,,,,,-i-,,,,,,nekoti-,,,V,AI,be one,,PV1977;0045
+841,Voorhis,PV1977,0045,kic,,kick1244,nekot-,KP:1,,,,,,one,,initial,NUM,,,,,-i-,,,,,,nekoti-,,,V,AI,be one,,PV1977;0045
 841,Voorhis,PV1988,0082,kic,,kick1244,nekotw-,KP:1,,,,,,one,,initial,,,,,,,,,,"nekoto-, (ne)koto-",before aa,(ne)kotenwi,,,PART,,once,,PV1988;0082,nekotih-,,,V,TA,have one of him,,PV1988;0082,nekotihtoo-,,,V,TI,have one of it,,PV1988;0082,nekotipepoonwee-,,,V,AI,be one year old,,PV1988;0082,,,,,,,,,,,,MAM
 842,Voorhis,PV1988,0083,kic,,kick1244,nepisk-,KP:1,,,,,,"wet, soaked with water",,initial
 843,Voorhis,PV1988,0084,kic,,kick1244,nesí-,KP:1,,,,,,"awful, terrible",,initial,,,,,,,,,,,,nesíahki-,,,V,II,"be awful ground, be a terrible place",,PV1988;0084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -846,7 +845,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 845,Voorhis,PV1988,0085,kic,,kick1244,niananw-,KP:1,,,,,,five,,initial,,,,,,,,,,,,niananwihtoo-,,,V,TI,have five of it,,PV1988;0085,niananwipepoonwee-,,,V,AI,be five years old,,PV1988;0085,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 846,Voorhis,PV1988,0085,kic,,kick1244,nié-,KP:1,,,,,,four,,initial,,,,,,,,,,,,nyeihtoo-,,,V,TI,have four of it,,PV1988;0085,nyeipepoonwee-,,,V,AI,be four years old,,PV1988;0085
 847,Voorhis,PV1988,0086,kic,,kick1244,niisw-,KP:1,,,,,,two,,initial,,,,,,,,,,,,niisookaa-,,,V,AI,be two dancing,,PV1988;0086,niisookaapaa-,,,V,AI,be two standing,,PV1988;0086,niisookitee-,,,V,II,cost two dollars,PV1988;0086
-848,Voorhis,PV1977,"0044,0045",kic,,kick1244,niisw̄-,KP:1,,,,,,two,,initial,NUM,,,,,,,,,,,niisookaa-,,,V,AI,be two dancing,,PV1977;0044,niisoopi-,,,V,AI,be two sitting,,PV1977;0044,niisoθee-,,,V,AI,be two going,,PV1977;0044,niisi-,,,V,AI,be two,,PV1977;0046
+847,Voorhis,PV1977,"0044,0045",kic,,kick1244,niisw̄-,KP:1,,,,,,two,,initial,NUM,,,,,,,,,,,niisookaa-,,,V,AI,be two dancing,,PV1977;0044,niisoopi-,,,V,AI,be two sitting,,PV1977;0044,niisoθee-,,,V,AI,be two going,,PV1977;0044,niisi-,,,V,AI,be two,,PV1977;0046
 849,Voorhis,PV1988,0086,kic,,kick1244,niiθiik-,KP:1,,,,,,"fringed, frayed, ragged",,initial,,,,,,,,,,,,niiθiikikootaee-,,,V,AI,"put on or wear a fringed, frayed, or ragged dress or skirt",,PV1988;0087,niiθiikipiiθehkaee-,,,V,AI,"put on or wear a fringed, frayed, or ragged shirt or blouse",,PV1988;0087,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 850,Voorhis,PV1988,0087,kic,,kick1244,nó-,KP:1,,,,,,"out (of a building or room), into the outdoors",,initial,,,,,,,,,,,,naanoikai-,,,V,AI,keep going out in a group,,PV1988;0087,noehkweeskaa-,,,V,AI,put one's head outdoors,,PV1988;0087,noenam-,,,V,TI,take or put it outdoors by hand,PV1988;0087
 851,Voorhis,PV1988,0087,kic,,kick1244,noohk-,KP:1,,,,,,again,,initial,,,,,,,,,,,,noohkoee-,,,V,AI,"say it again, repeat it",,PV1988;0087
@@ -858,15 +857,15 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 857,Voorhis,PV1988,0092,kic,,kick1244,onoee-,KP:1,,,,,,"making sounds, making music",,initial,,,,,,,,,,,,oonoeaaθen-,,,V,II,be a noisy wind blowing,,PV1988;0092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"given as ""VI"" - impersonal verb",,,MAM
 858,Voorhis,PV1988,0093,kic,,kick1244,op-,KP:1,,,,,,happy,,initial,,,,,,,,,,,,opaateθi-,,,V,AI,feel happy,,PV1988;0093,opiteehee-,,,V,AI,have happy thoughts,,PV1988;0093
 859,Voorhis,PV1988,0093,kic,,kick1244,osk-,KP:1,,,,,,"new, young",,initial,,,,,,,,,,,,oskiihtaa-,,,V,AI,put on or wear new clothes,,PV1988;0093,oskikootaee-,,,V,AI,put on or wear a new dress or skirt,,PV1988;0093,oskimahkeθenee-,,,V,AI,put on or wear new shoes,,PV1988;0093,oskipiiθoonee-,,,V,AI,put on or wear new trousers,,PV1988;0093,,,,,,,,,,,,MAM
-860,Voorhis,PV1977,0045,kic,,kick1244,osk-,KP:1,,,,,,"new, young",,initial,,,,,,,,,,,,oskiki-,,,V,AI,be new/young,,PV1977;0045,oskiken-,,,V,II,be new/young,,PV1977;0045
+859,Voorhis,PV1977,0045,kic,,kick1244,osk-,KP:1,,,,,,"new, young",,initial,,,,,,,,,,,,oskiki-,,,V,AI,be new/young,,PV1977;0045,oskiken-,,,V,II,be new/young,,PV1977;0045
 861,Voorhis,PV1988,0094,kic,,kick1244,ot-,KP:1,,,,,,"from there, from that place (rel)  ",,initial,RR,,,,,,,,,,,otatam-,,,V,TI,eat it from there (rel),,PV1988;0094,oten-,,,V,TA,take him from there (rel),,PV1988;0094,otenam-,,,V,TI,take it from there (rel),,PV1988;0094
 862,Voorhis,PV1988,0094,kic,,kick1244,otaahp-,KP:1,,,,,,"take, pick up",,initial,,,,,,,,,,,,otaahpatam-,,,V,TI,"pick it up in one's mouth, suck it up",,PV1988;0094,otaahpen-,,,V,TA,"take him by the hand, pick him up in one's hands",,PV1988;0094,otaahpenam-,,,V,TI,"take it by hand, pick it up in one's hands",,PV1988;0094,otaahpihcieen-,,,V,TI,take him by the arm,,PV1988;0094,,,,,,,,,,,,MAM
-863,Voorhis,PV1977,0052,kic,,kick1244,otaahp-,KP:1,,,,,,"pick up, take",,initial
+862,Voorhis,PV1977,0052,kic,,kick1244,otaahp-,KP:1,,,,,,"pick up, take",,initial
 864,Voorhis,PV1988,0094,kic,,kick1244,oθá-,KP:1,,,,,,yellow,,initial,,,,,,,,,,,,oθai-,,,prenoun,,yellow,,PV1988;0095,oθaipakat-,,,V,II,have yellow leaves,,PV1988;0095,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 865,Voorhis,PV1988,0095,kic,,kick1244,oθaam-,KP:1,,,,,,"wonderful, marvelous; excessive",,initial,,,,,,,,,,,,oθaamaaskaa-,,,V,AI,jump wonderfully or marvelously,,PV1988;0095,oθaamahki-,,,V,II,"be a wonderful, marvelous, or excessive place, be wonderful, etc, ground",,PV1988;0095
 866,Voorhis,PV1988,0095,kic,,kick1244,oθáaskw-,KP:1,,,,,,blond,,initial,,,,,,,,,,,,oθáaskwaanehkwee-,,,V,AI,have blond hair,,PV1988;0095,oθáaskwitepee-,,,V,AI,be blond,,PV1988;0096,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 867,Voorhis,PV1988,0097,kic,,kick1244,paahtaa-,KP:1,,,,,,broken  ,,initial,,,,,,,,,,,,paahtaanam-,,,V,TI,break it with one's hand,,PV1988;0097,paahtaaskaa-,,,V,AI,"be broken down, be immobilized",,PV1988;0097
-868,Voorhis,PV1977,"0043,0045",kic,,kick1244,paahtaa-,KP:1,,,,,,broken,,initial,,,,,,,,,,,,paahtaaθi-,,,V,AI,be broken,,PV1977;0043,paahtaayaa-,,,V,II,be broken,,PV1977;0043,paahtaaa-,,,V,II,be broken,,PV1977;0045
+867,Voorhis,PV1977,"0043,0045",kic,,kick1244,paahtaa-,KP:1,,,,,,broken,,initial,,,,,,,,,,,,paahtaaθi-,,,V,AI,be broken,,PV1977;0043,paahtaayaa-,,,V,II,be broken,,PV1977;0043,paahtaaa-,,,V,II,be broken,,PV1977;0045
 869,Voorhis,PV1988,0097,kic,,kick1244,paanat-,KP:1,,,,,,down,,initial,,,,,,,,,,,,paanacihtan-,,,V,II,flow down,,PV1988;0097,paanaciθaa-,,,V,AI,rush down,,PV1988;0097,paanataahkee-,,,V,T,throw him/it down a slope,,PV1988;0097,,,,,,,,,,,,,,,,,"Lex. cat. of paanataahkee- is ""VT"", plain transitive",,,MAM
 870,Voorhis,PV1988,0098,kic,,kick1244,paask-,KP:1,,,,,,cracked,,initial,,,,,,,,,,,,paaskehta(w)-,,,V,TA,think he sounds cracked,,PV1988;0098,paaskenam-,,,V,TI,crack it by hand,,PV1988;0098,paaskeθam-,,,V,TI,crack it by  heat,,PV1988;0098
 871,Voorhis,PV1988,0098,kic,,kick1244,paaθ-,KP:1,,,,,,split,,initial,,,,,,,,,,,,paaθaham-,,,V,TI,split it with a tool,,PV1988;0098,paaθahw-,,,V,TA,split him with a tool,,PV1988;0098,paaθatam-,,,V,TI,split it in one's mouth,,PV1988;0098,paaθenam-,,,V,TI,split it by hand,,PV1988;0098,,,,,,,,,,,,MAM
@@ -875,19 +874,19 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 874,Voorhis,PV1988,0099,kic,,kick1244,pahkw-,KP:1,,,,,,"pull out, extract",,initial,,,,,,,,,,,,pahkoham-,,,V,TI,extract it by tool,,PV1988;0099,pahkon-,,,V,TA,"pull him out, extract him by hand",,PV1988;0099,pahkonam-,,,V,TI,"pull it out, extract it by hand",,PV1988;0099
 875,Voorhis,PV1988,0100,kic,,kick1244,pakiθ-,KP:1,,,,,,"free, turn loose, let go",,initial,,,,,,,,,,,,pakiθen-,,,V,TA,"free him, turn him loose, let him go",,PV1988;0100,pakiθenamaahkwii-,,,V,AI,"release one's grasp or hold, let go",,PV1988;0100,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 876,Voorhis,PV1988,0100,kic,,kick1244,pan-,KP:1,,,,,,"miss, fail to contact",,initial,,,,,,,,,,,,panenam-,,,V,TI,fail to catch or seize it,,PV1988;0100
-877,Voorhis,PV1983,0084,kic,,kick1244,pan-,KP:1,,,,,,miss,,initial
+876,Voorhis,PV1983,0084,kic,,kick1244,pan-,KP:1,,,,,,miss,,initial
 878,Voorhis,PV1988,0101,kic,,kick1244,paskit-,KP:1,,,,,,across the top,,initial,,,,,,,,,,,,paskiciθaho-,,,V,AI,jump across the top,,PV1988;0101,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 879,Voorhis,PV1988,0101,kic,,kick1244,paθ-,KP:1,,,,,,hot,,initial,,,,,,,,,,,,paθikaatee-,,,V,AI,have hot feet,,PV1988;0101
 880,Voorhis,PV1988,0102,kic,,kick1244,peekw-,KP:1,,,,,,dry,,initial,,,,,,,,,,,,peekoham-,,,V,TI,dry it off with something held in the hand,,PV1988;0102,peekohw-,,,V,TA,dry him off with something held in the hand,,PV1988;0102,peekwaaki-,,,V,II,be dry (of part of a house or of a yard),,PV1988;0102,peekwahki-,,,V,II,"be dry ground, be a dry place",,PV1988;0102,,,,,,,,,"""opposite of nepisk-""",,,MAM
-881,Voorhis,PV1977,0045,kic,,kick1244,peekw-,KP:1,,,,,,dry,,initial
+880,Voorhis,PV1977,0045,kic,,kick1244,peekw-,KP:1,,,,,,dry,,initial
 882,Voorhis,PV1988,0103,kic,,kick1244,peht-,KP:1,,,,,,"wrong, in error",,initial,,,,,,,,,,,,pehcien/s-,,,V,TA,carry or convey him in error,,PV1988;0103
 883,Voorhis,PV1988,0104,kic,,kick1244,pekihk-,KP:1,,,,,,"course, in large chunks",,initial,,,,,,,,,,,,pekihkipocikee-,,,V,AI,grind things up into large chunks,,PV1988;0104,pekihkipon/s-,,,V,TA,grind him into large chunks,,PV1988;0104,pekihkipotoo-,,,V,TI,grind it into large chunks,,PV1988;0104,,,,,,,,,,,,,,,,,,,,MAM
-884,Voorhis,PV1977,0045,kic,,kick1244,pekihk-,KP:1,,,,,,"coarse, in large chunks",,initial
+883,Voorhis,PV1977,0045,kic,,kick1244,pekihk-,KP:1,,,,,,"coarse, in large chunks",,initial
 885,Voorhis,PV1988,0104,kic,,kick1244,pem-,KP:1,,,,,,"along, past, along or past him/it",,initial,,,,,,,,,,,,papaamaaskaa-,,,V,AI,keep falling or plunging past,,PV1988;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,papaam- redup.
-886,Voorhis,PV1977,0052,kic,,kick1244,pem-,KP:1,,,,,,alongpast him/it,,initial
-887,Voorhis,PV1983,0084,kic,,kick1244,pem-,KP:1,,,,,,"along, past",,initial
+885,Voorhis,PV1977,0052,kic,,kick1244,pem-,KP:1,,,,,,alongpast him/it,,initial
+885,Voorhis,PV1983,0084,kic,,kick1244,pem-,KP:1,,,,,,"along, past",,initial
 888,Voorhis,PV1988,0105,kic,,kick1244,pemit-,KP:1,,,,,,crosswise,,initial,,,,,,,,,,,,pemicikaapaa-,,,V,AI,stand crosswise,,PV1988;0105,pemicisin-,,,V,AI,lie crosswise,,PV1988;0105,pemiteceesim-,,,V,TA,place him crosswise,,PV1988;0105,pemiteceeθen-,,,V,II,lie with one's body crosswise,,PV1988;0105,,,,,,,,,,,,MAM
-889,Voorhis,PV1977,0044,kic,,kick1244,pemit-,KP:1,,,,,,crosswise,,initial,,,,,,,,,,,,pemicikaapaa-,,,V,AI,stand crosswise,,PV1977;0044,pemiteθi-,,,V,AI,be crosswise,,PV1977;0044
+888,Voorhis,PV1977,0044,kic,,kick1244,pemit-,KP:1,,,,,,crosswise,,initial,,,,,,,,,,,,pemicikaapaa-,,,V,AI,stand crosswise,,PV1977;0044,pemiteθi-,,,V,AI,be crosswise,,PV1977;0044
 890,Voorhis,PV1988,0105,kic,,kick1244,pen-,KP:1,,,,,,"take apart, take off, loosen, undo",,initial,,,,,,,,,,,,penaham-,,,V,TI,take it apart by tool,,PV1988;0106
 891,Voorhis,PV1988,0107,kic,,kick1244,pesikw-,KP:1,,,,,,straight  ,,initial,,,,,,,,,,,,pesikwaahkoθi-,,,V,AI,be straight (of wood or of something wooden),,PV1988;0107,pesikwaahkwat-,,,V,II,be straight (of wood or of something wooden),,PV1988;0107,pesikwaapataani-,,,V,II,look straight,,PV1988;0107,pesikwaapatam-,,,V,TI,think it looks straight,,PV1988;0107,,,,,,,,,,,,MAM
 892,Voorhis,PV1983,0078,kic,,kick1244,pesikw-,KP:1,,,,,,NG,,initial
@@ -896,11 +895,11 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 895,Voorhis,PV1988,0108,kic,,kick1244,piem-,KP:1,,,,,,crooked,,initial,,,,,,,,,,,,piemaahkwat-,,,V,II,be crooked (of something wooden),,PV1988;0108
 896,Voorhis,PV1988,0109,kic,,kick1244,piet-,KP:1,,,,,,"come and, come to; in this direction, hither",,initial,,,,,,,,,,piehp-,,paapiehpahooneko-,,,V,AI,keep driving in this direction,,PV1988;0109,piehpahooneko-,,,V,AI,drive in this direction,,PV1988;0109,piehpahoon/s-,,,V,TA,drive him in this direction,,PV1988;0109,pietaacimo-,,,V,AI,come tell,,PV1988;0109,,,,,,,,,"allomorph described as ""plus following ip... yields piehp...""",,,MAM
 897,Voorhis,PV1988,0110,kic,,kick1244,piit-,KP:1,,,,,,"in, into him/it",,initial,,,,,,,,,,,,piiciθetoo-,,,V,TI,place it inside,,PV1988;0110,piitaaskaa-,,,V,AI,fall in,,PV1988;0110,piitehkweeskaa-,,,V,AI,put one's head in,,PV1988;0110,piiten-,,,V,TA,put or take him in by hand,,PV1988;0110,,,,,,,,,,,,MAM
-898,Voorhis,PV1977,0052,kic,,kick1244,piit-,KP:1,,,,,,into him/it,,initial
+897,Voorhis,PV1977,0052,kic,,kick1244,piit-,KP:1,,,,,,into him/it,,initial
 899,Voorhis,PV1988,0111,kic,,kick1244,poohk-,KP:1,,,,,,holey,,initial,,,,,,,,,,,,poohkaham-,,,V,TI,make a hole or holes in it by tool,,PV1988;0111,poohkesam-,,,V,TI,cut a hole or holes in it,,PV1988;0111,poohkeseehw-,,,V,TA,pierce his ears (for earrings),,PV1988;0111,poohkeθam-,,,V,TI,burn a hole or holes in it,,PV1988;0111
 900,Voorhis,PV1988,0112,kic,,kick1244,poon-,KP:1,,,,,,"cease…-ing, stop…-ing",,initial,,,,,,,,,,,,poonahkamikeθi-,,,V,AI,cease playing,,PV1988;0112,poonenaan-,,,V,I,stop raining,,PV1988;0112,poonetoneemo-,,,V,AI,cease speaking,,PV1988;0112,pooniai-,,,V,AI,cease,,PV1988;0112,,,,,,,,,,,,MAM
 901,Voorhis,PV1988,0112,kic,,kick1244,poot-,KP:1,,,,,,"in, into him/it",,initial,,,,,,,,,,,,poociniikweecin-,,,V,AI,be caught or snagged in the eye,,PV1988;0112,poociniikweehw-,,,V,TA,poke him in the eye by tool,,PV1988;0112,poociθetoo-,,,V,TI,lay it inside,,PV1988;0112,pootenam-,,,V,TI,put it in by hand,,PV1988;0112
-902,Voorhis,PV1977,0052,kic,,kick1244,poot-,KP:1,,,,,,into him/it,,initial
+901,Voorhis,PV1977,0052,kic,,kick1244,poot-,KP:1,,,,,,into him/it,,initial
 903,Voorhis,PV1988,0114,kic,,kick1244,sahkw-,KP:1,,,,,,"weak, exhausted",,initial,,,,,,,,,,,,sahkwiteehee-,,,V,AI,be mentally weak or exhausted,,PV1988;0114
 904,Voorhis,PV1988,0114,kic,,kick1244,sasooskw-,KP:1,,,,,,slippery,,initial,,,,,,,,,,,,sasooskwahki-,,,V,II,"be slippery ground, be a slippery place",,PV1988;0114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 905,Voorhis,PV1988,0115,kic,,kick1244,sekw-,KP:1,,,,,,squashed,,initial,,,,,,,,,,,,sekoceen-,,,V,TA,squash his body by hand,,PV1988;0115,sekon-,,,V,TA,squash him by hand,,PV1988;0115,sekoska(w)-,,,V,TA,squash him with one's foot,,PV1988;0115,sekwatahw-,,,V,TA,squash him by hitting or striking him,,PV1988;0115,,,,,,,,,,,,MAM
@@ -938,15 +937,15 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 937,Voorhis,PV1988,0140,kic,,kick1244,θeeθ-,KP:1,,,,,,perched on him/it,,initial,,,,,,,,,,,,θeeθikaapaa-,,,V,T,stand perched on him/it,,PV1988;0140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 938,Voorhis,PV1988,0140,kic,,kick1244,θeeθeeθ-,KP:1,,,,,,dangerous,,initial,,,,,,,,,,,,θeeθeeθahki-,,,V,II,be dangerous (of a place or of ground),,PV1988;0140,θeeθeeθoθee-,,,V,AI,walk dangerously,,PV1988;0140
 939,Voorhis,PV1988,0141,kic,,kick1244,θiθ-,KP:1,,,,,,frozen,,initial,,,,,,,,,,,,θiθikáaci-,,,V,AI,have frozen feet,,PV1988;0141,θiθinehkeaci-,,,V,AI,have frozen hands,,PV1988;0141
-940,Goddard,IG1990a,0462,kic,,kick1244,,KP:2,,-imahkeθen-,,,,shoe,,medial,,,,,,,,,,,,,,askipak-imahkeθen-e·-,V,AI,be wearing green shoes,,IG1990a;0462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+478,Goddard,IG1990a,0462,kic,,kick1244,,KP:2,,-imahkeθen-,,,,shoe,,medial,,,,,,,,,,,,,,askipak-imahkeθen-e·-,V,AI,be wearing green shoes,,IG1990a;0462,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 941,Goddard,IG1990a,0467,kic,,kick1244,,KP:2,,kekye·p-,,,,closed (pl.),,initial,,,,,,,,,,,,,,kekye·p-i·kw-e·-,V,AI,be blind,,IG1990a;0467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 942,Goddard,IG1990a,0467,kic,,kick1244,,KP:2,,-i·kw-,,,,"face, eye",,medial,,,,,,,,,,-i·kwe·-,,,,kekye·p-i·kw-e·-,V,AI,be blind,,IG1990a;0467,,,keθi·-i·kw-a·-,V,AI,wash (own) face,,IG1990a;0467,,,keθi·-i·kwe·-en-,V,TA,wash (other's) face,,IG1990a;0467,,,,,,,,,-a·naki·kw(e·)-,,,,,,,,,,,MAM
-943,Goddard,IG1990a,0467,kic,,kick1244,,KP:2,,-e·-,,,,NG,,final,AI,,,,,,,,,,,,,kekye·p-i·kw-e·-,V,AI,be blind,,IG1990a;0467,,,a·hkam-a·naki·kw-e·-,V,AI,have clean eyes,,IG1990a;0468,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-944,Goddard,IG1990a,0467,kic,,kick1244,,KP:2,,keθi·-,,,,wash,,initial,,,,,,,,,,,,,,keθi·-i·kw-a·-,,AI,wash (own) face,,IG1990a;0467,,,keθi·-i·kwe·-en-,V,TA,wash (other's) face,,IG1990a;0467,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-945,Goddard,IG1990a,0467,kic,,kick1244,,KP:2,,-a·-,,,,NG,,final,AI,,,,,,,,,,,,,keθi·-i·kw-a·-,,AI,wash (own) face,,IG1990a;0467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+211,Goddard,IG1990a,0467,kic,,kick1244,,KP:2,,-e·-,,,,NG,,final,AI,,,,,,,,,,,,,kekye·p-i·kw-e·-,V,AI,be blind,,IG1990a;0467,,,a·hkam-a·naki·kw-e·-,V,AI,have clean eyes,,IG1990a;0468,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+772,Goddard,IG1990a,0467,kic,,kick1244,,KP:2,,keθi·-,,,,wash,,initial,,,,,,,,,,,,,,keθi·-i·kw-a·-,,AI,wash (own) face,,IG1990a;0467,,,keθi·-i·kwe·-en-,V,TA,wash (other's) face,,IG1990a;0467,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+20,Goddard,IG1990a,0467,kic,,kick1244,,KP:2,,-a·-,,,,NG,,final,AI,,,,,,,,,,,,,keθi·-i·kw-a·-,,AI,wash (own) face,,IG1990a;0467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 946,Goddard,IG1990a,0467,kic,,kick1244,,KP:2,,-en-,,,,NG,,final,TA,,,,,,,,,,,,,keθi·-i·kwe·-en-,,TA,wash (other's) face,,IG1990a;0467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-947,Goddard,IG1990a,0468,kic,,kick1244,,KP:2,,-a·nak-,,,,hole,,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a·naki·kw(e·)-,,,,,,,,,,,MAM
-948,Goddard,IG1990a,0468,kic,,kick1244,,KP:2,,-a·naki·kw(e·)-,,,,eye,,medial,DOUBLE,,,,,,,,,,,,,a·hkam-a·naki·kw-e·-,V,AI,have clean eyes,,IG1990a;0468,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a·nak-,-i·kw(e·)-,,,,,,,MAM
-949,Goddard,IG1990a,0468,kic,,kick1244,,KP:2,,a·hkam-,,,,clean,,initial,,,,,,,,,,,,,,a·hkam-a·naki·kw-e·-,V,AI,have clean eyes,,IG1990a;0468,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-950,Goddard,IG1990a,0471,kic,,kick1244,,KP:2,,ahpi-,,,,"press down, hold",,initial,,,,,,,,,,,,,,ahpi-ahw-,V,TA,"press, hold down by tool",,IG1990a;0471,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-951,Goddard,IG1990a,0471,kic,,kick1244,,KP:2,,-ahw-,,,,by tool,,final,TA,,,,,,,,,,,,,ahpi-ahw-,V,TA,"press, hold down by tool",,IG1990a;0471,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+50,Goddard,IG1990a,0468,kic,,kick1244,,KP:2,,-a·nak-,,,,hole,,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a·naki·kw(e·)-,,,,,,,,,,,MAM
+54,Goddard,IG1990a,0468,kic,,kick1244,,KP:2,,-a·naki·kw(e·)-,,,,eye,,medial,DOUBLE,,,,,,,,,,,,,a·hkam-a·naki·kw-e·-,V,AI,have clean eyes,,IG1990a;0468,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a·nak-,-i·kw(e·)-,,,,,,,MAM
+686,Goddard,IG1990a,0468,kic,,kick1244,,KP:2,,a·hkam-,,,,clean,,initial,,,,,,,,,,,,,,a·hkam-a·naki·kw-e·-,V,AI,have clean eyes,,IG1990a;0468,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+697,Goddard,IG1990a,0471,kic,,kick1244,,KP:2,,ahpi-,,,,"press down, hold",,initial,,,,,,,,,,,,,,ahpi-ahw-,V,TA,"press, hold down by tool",,IG1990a;0471,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+139,Goddard,IG1990a,0471,kic,,kick1244,,KP:2,,-ahw-,,,,by tool,,final,TA,,,,,,,,,,,,,ahpi-ahw-,V,TA,"press, hold down by tool",,IG1990a;0471,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
