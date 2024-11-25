@@ -1115,7 +1115,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1314,Macaulay,MAM_LB2024,"16.35,182",mez,,meno1252,-qNEt,MN:WNALP,,,,,,get wet,,final,TI2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.35: with prefinal -qN- 'wet'.
 2059,Macaulay,MAM_LB2024,,mez,,meno1252,namw-,MN:WNALP,,,,,,ginger,,initial
 1796,Macaulay,MAM_LB2024,,mez,,meno1252,kīqs-,MN:WNALP,,,,,,girl,,initial
-1945,Macaulay,MAM_LB2024,,mez,,meno1252,mē-,MN:WNALP,,,,,,give,,initial
 1957,Macaulay,MAM_LB2024,4.52,mez,,meno1252,mēN-,MN:WNALP,,,,,,give,,initial
 1228,Macaulay,MAM_LB2024,16.85,mez,,meno1252,-nehkāN,MN:WNALP,,,,,,give a name,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.85: with prefinal -nehkā
 1229,Macaulay,MAM_LB2024,"16.85,182",mez,,meno1252,-nehkāt,MN:WNALP,,,,,,give a name,,final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.85: with prefinal -nehkā
@@ -1202,7 +1201,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 423,Macaulay,MAM_LB2024,16.37,mez,,meno1252,-æm,MN:WNALP,,,,,,"have, treat as such-and-such",,final,TA,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.37: added to possessed themes of nouns with third person singular possessor.
 1062,Macaulay,MAM_LB2024,14.390; 20.24,mez,,meno1252,-ka͞ehka͞ehkw,MN:WNALP,,,,,,hawk,,final,N
 74,Bloomfield,LB1962,"6.14,53,81; 14.90,229",mez,,meno1252,-e·N-,MN:1,,,,,,head,,medial,Dep,,,N
-83,Bloomfield,LB1962,18.18,mez,,meno1252,-N-,MN:1,,,,,,head,,medial,Dep,,,N
 1362,Macaulay,MAM_LB2024,18.92,mez,,meno1252,-taehp-,MN:WNALP,,,,,,head,,medial,,,,,,,,,,-taehpa͞e-
 1643,Macaulay,MAM_LB2024,18.18,mez,,meno1252,ēN-,MN:WNALP,,,,,,head,,initial,Dep
 2220,Macaulay,MAM_LB2024,"4.10,59; 18.18; 21.14",mez,,meno1252,owēN-,MN:WNALP,,,,,,head,,initial
@@ -1290,7 +1288,6 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1791,Macaulay,MAM_LB2024,21.21,mez,,meno1252,kīhk-,MN:WNALP,,,,,,"hurt, harm",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.21: makes reduplication with short a.
 1787,Macaulay,MAM_LB2024,,mez,,meno1252,kēt-,MN:WNALP,,,,,,"hurt, sore",,initial
 2554,Macaulay,MAM_LB2024,18.96 AMC,mez,,meno1252,wat-,MN:WNALP,,,,,,husk,,initial
-1430,Macaulay,MAM_LB2024,15.46,mez,,meno1252,-ywe,MN:WNALP,,,,,,hypothetical?,,final,AI,,,,,,,,,-ywae
 1646,Macaulay,MAM_LB2024,,mez,,meno1252,ēnāk-,MN:WNALP,,,,,,I don't know,,initial
 380,Macaulay,MAM_LB2024,14.185; 18.154; 20.5,mez,,meno1252,-aehkw-,MN:WNALP,,,,,,ice,,medial,,,,,,,,,,-aehkwamy-,,-a͞ehkwamy-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,maehkw-,18.154: deverbal from initial maehkw-. Allomorphs deverbal from the noun: as P.
 383,Macaulay,MAM_LB2024,17.53; 20.5,mez,,meno1252,-aehkwam,MN:WNALP,,,,,,ice,,final,PART,,,,,,,,,-a͞ehkwam
@@ -1378,7 +1375,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 2146,Macaulay,MAM_LB2024,6.62,mez,,meno1252,ohkomān-,MN:WNALP,,,,,,iron,,initial
 2235,Bloomfield,LB1962,"21.29,63",mez,,meno1252,pɛpɛ·k-,MN:1,,,,,,irregular reduplication of pɛ·k-,,initial,,Y,,N
 2237,Bloomfield,LB1962,21.29,mez,,meno1252,pɛmi·m-,MN:1,,,,,,irregular reduplication of pɛm-,,initial,,Y,,N
-219,Bloomfield,LB1962,21.29,mez,,meno1252,pɛpi·m-,MN:1,,,,,,irregular reduplication of pɛm-,,initial,,Y,,N
+2237,Bloomfield,LB1962,21.29,mez,,meno1252,pɛpi·m-,MN:1,,,,,,irregular reduplication of pɛm-,,initial,,Y,,N
 1870,Macaulay,MAM_LB2024,,mez,,meno1252,maen-,MN:WNALP,,,,,,island,,initial
 363,Macaulay,MAM_LB2024,17.35,mez,,meno1252,-aehken,MN:WNALP,,,,,,iterative,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.35: formed like the iterative ending of an II verb in -aen or -aet.
 2144,Macaulay,MAM_LB2024,,mez,,meno1252,ohkihk-,MN:WNALP,,,,,,jack pine,,initial
@@ -2451,19 +2448,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 2049,Macaulay,MAM_LB2024,"4.18; 21.33,43",mez,,meno1252,nakā-,MN:WNALP,,,,,,stop,,initial,,,,,,,,,,nakāhk-
 2252,Macaulay,MAM_LB2024,,mez,,meno1252,paesw-,MN:WNALP,,,,,,stop,,initial
 1900,Macaulay,MAM_LB2024,17.22,mez,,meno1252,maeyaw-,MN:WNALP,,,,,,straight,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17.22: -aw part of the initial in meyāw.
-2237,Macaulay,MAM_LB2024,"3.50; 4.5,49,61; 17.6; 21.23,24,29,31,33,62,64,69",mez,,meno1252,paem-,MN:WNALP,,,,,,"straight-line movement, continuation in time",,initial,,,,,,,,,,paemāt-,,paema͞eqt-,,paemā-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.23: makes reduplication with short a; first vowel of initial replaced by ā.
- 
- 21.24: makes reduplication with ē.
- 
- 21.29: irregular reduplication paemīm-, paepīm-.
- 
- 21.31: Postradical extensions cannot always be sharply distinguished from presuffixal elements. Thus, beside paem- '...' there is paemāt- in pemātesew 'he lives'...; but since -āt after initials is favored before the suffixes AI -aese and TA -h, it could be viewed as a presuffixal element.
- 
- 21.33: abstract postradical -ā after initial.
- 
- 21.64: abstract postradical -āt after initial paem-.
- 
- 21.69: abstract postradical -a͞eqt after initial."
+2237,Macaulay,MAM_LB2024,"3.50; 4.5,49,61; 17.6; 21.23,24,29,31,33,62,64,69",mez,,meno1252,paem-,MN:WNALP,,,,,,"straight-line movement, continuation in time",,initial,,,,,,,,,,paemāt-,,paema͞eqt-,,paemā-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.23: makes reduplication with short a; first vowel of initial replaced by ā; 21.24: makes reduplication with ē; 21.29: irregular reduplication paemīm-, paepīm-; 21.31: Postradical extensions cannot always be sharply distinguished from presuffixal elements. Thus, beside paem- '...' there is paemāt- in pemātesew 'he lives'...; but since -āt after initials is favored before the suffixes AI -aese and TA -h, it could be viewed as a presuffixal element; 21.33: abstract postradical -ā after initial; 21.64: abstract postradical -āt after initial paem-; 21.69: abstract postradical -a͞eqt after initial."
 246,Bloomfield,LB1962,21.23,mez,,meno1252,papa·m-,MN:1,,,,,,"straight-line movement, continuation in time",,initial,,,,N
 2400,Macaulay,MAM_LB2024,,mez,,meno1252,sēhkw-,MN:WNALP,,,,,,strain,,initial
 2487,Macaulay,MAM_LB2024,,mez,,meno1252,tatak-,MN:WNALP,,,,,,strain,,initial

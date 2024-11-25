@@ -141,7 +141,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 507,Bloomfield,LB1958,"0096,0122",ojg,,east2542,-acim ,OJ:1,,,,,,by cold,,final,TA ,,,,,,,,,-acito·?,,,,,,,,,,,,,,,-m,,,-at,,,,,,"Andrew Medler, Walpole Island",GVM
 857,Bloomfield,LB1958,0122,ojg,,east2542,-acinaw(?),OJ:1,,,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,-acinawe·,,,,,,,,,,,question mark is Bloomfield's -GVM,,"Andrew Medler, Walpole Island",GVM
 228,Bloomfield,LB1958,"0079,0122",ojg,,east2542,-acinawe·,OJ:1,,,,,,NG,,final,AI ,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,-acinaw,,,,,,"Andrew Medler, Walpole Island",GVM
-508,Bloomfield,LB1958,0096,ojg,,east2542,-acito·?,OJ:1,,,,,,by cold,"cold, MANNER",final,TI,,,,,,,,-acim ,,,,,,,,,,,,,,,,,,,,,,,pseudo-TI,,"Andrew Medler, Walpole Island",GVM
+508,Bloomfield,LB1958,0096,ojg,,east2542,-acito·?,OJ:1,,,,,,by cold,"cold, INSTRUMENT",final,TI,,,,,,,,-acim ,,,,,,,,,,,,,,,,,,,,,,,pseudo-TI,,"Andrew Medler, Walpole Island",GVM
 281,Bloomfield,LB1958,"0082,0118,0121",ojg,,east2542,-ak,OJ:1,,,,,,NG,,postmedial ,,,,,,,,,,,,,,,,,,,,,-ssak,-še·pa·wak,-ikonak,-iminak,,,,,,,,Component -isi? ,,"Andrew Medler, Walpole Island",GVM
 860,Bloomfield,LB1958,0122,ojg,,east2542,-ak,OJ:1,,,,,,count,count,prefinal,,,,,,,,,,,,,,,,,,,,,-akinte·,,,,,,,,,Y,ak-,,,"Andrew Medler, Walpole Island",GVM
 862,Bloomfield,LB1958,0122,ojg,,east2542,-ak,OJ:1,,,,,,throw,throw,prefinal,,,,,,,,,,,,,,,,,,,,,-akit,,,,,,,,,Y,pak-,,,"Andrew Medler, Walpole Island",GVM
@@ -224,7 +224,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 327,Bloomfield,LB1958,"0084,0124",ojg,,east2542,-anokki·,OJ:1,,,,,,work,work,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,-anokki·,,,,,,"Andrew Medler, Walpole Island",GVM
 869,Bloomfield,LB1958,"0122,0124",ojg,,east2542,-anokki·,OJ:1,,,,,,work,work,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,anokki·-,,,"Andrew Medler, Walpole Island",GVM
 711,Bloomfield,LB1958,0113,ojg,,east2542,-anše·(?),OJ:1,,,,,,NG,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,question mark is Bloomfield's -GVM,,"Andrew Medler, Walpole Island",GVM
-498,Bloomfield,LB1958,"0096,0105",ojg,,east2542,-ant,OJ:1,,,,,,by mouth,"mouth, MANNER",final,TI,,,,,,,,-am,,,,,,,,,,,,,,,,-am,-t,,,,,,,,"Andrew Medler, Walpole Island",GVM
+498,Bloomfield,LB1958,"0096,0105",ojg,,east2542,-ant,OJ:1,,,,,,by mouth,"mouth, INSTRUMENT",final,TI,,,,,,,,-am,,,,,,,,,,,,,,,,-am,-t,,,,,,,,"Andrew Medler, Walpole Island",GVM
 872,Bloomfield,LB1958,0122,ojg,,east2542,-ant(?),OJ:1,,,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,-antaw,-antaʔ,,,,,,,,,,question mark is Bloomfield's -GVM,,"Andrew Medler, Walpole Island",GVM
 567,Bloomfield,LB1958,"0100,0122",ojg,,east2542,-antaw,OJ:1,,,,,,NG,,final,TA,,ABSTR,Y,TI,,,,,,,,,,,,,,,,,,,,,,,-ant,,,,,,"Andrew Medler, Walpole Island",GVM
 593,Bloomfield,LB1958,"0102,0122",ojg,,east2542,-antaʔ,OJ:1,,,,,,by tool,"tool, INSTRUMENT",final,TI,,,,,,,,-antaʔw?,,,,,,,,,,,,,,,,,,,-ant,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -272,7 +272,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 665,Bloomfield,LB1958,0110,ojg,,east2542,-ayaʔi·,OJ:1,,,,,,place,place (V),final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,-ayaʔi·,,,,,,"Andrew Medler, Walpole Island",GVM
 880,Bloomfield,LB1958,"0122,0125",ojg,,east2542,-ayaʔi·,OJ:1,,,,,,"thing, place",,prefinal ,,,,,,,,,,,,,,,,,,,,,-ayaʔi·,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 493,Bloomfield,LB1958,0095,ojg,,east2542,-aʔ,OJ:1,,,,,,cause,,final,TA ,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-573,Bloomfield,LB1958,"0100,0102",ojg,,east2542,-aʔ,OJ:1,,,,,,by instrument or medium,"medium, INSTRUMENT, MANNER",final,TI,,,,,,,,-aʔw,,,,,,,,,,,,,,,,,,,,,,,"On p.100, this is listed as TA; however, it's listed as a correspondence to TA -aʔw on that page, and later is clarified as a TI final on p. 102 -GVM",,"Andrew Medler, Walpole Island",GVM
+573,Bloomfield,LB1958,"0100,0102",ojg,,east2542,-aʔ,OJ:1,,,,,,by instrument or medium,"medium, INSTRUMENT",final,TI,,,,,,,,-aʔw,,,,,,,,,,,,,,,,,,,,,,,"On p.100, this is listed as TA; however, it's listed as a correspondence to TA -aʔw on that page, and later is clarified as a TI final on p. 102 -GVM",,"Andrew Medler, Walpole Island",GVM
 858,Bloomfield,LB1958,0122,ojg,,east2542,-aʔ,OJ:1,,,,,,flood,flood,prefinal,,,,,,,,,,,,,,,,,,,,,-aʔan,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 859,Bloomfield,LB1958,0122,ojg,,east2542,-aʔa,OJ:1,,,,,,track,track,prefinal,,,,,,,,,,,,,,,,,,,,,-aʔaN,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 480,Bloomfield,LB1958,"0093,0122",ojg,,east2542,-aʔan,OJ:1,,,,,,flood,,final,II ,,,,,,,,,,,,,,,,,,,,,,,,,,,-aʔ,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -390,7 +390,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 960,Bloomfield,LB1958,0126,ojg,,east2542,-ikw,OJ:1,,,,,,NG,,premedial,,,,,,,,,,,,,,,,,,,,,-ikosi,-ikwat,,,,,,,,,,"""cf. inflectional -ikw""",,"Andrew Medler, Walpole Island",GVM
 293,Bloomfield,LB1958,"0083,0094,0126",ojg,,east2542,-ikwat,OJ:1,,-ikwat,,,,subject to act,"act (N), action",final,II,,,Y,"TA, TI",,-ikosi ,,,,,,,,,,,,,,,,,,,,,-ikw,,,,,,"Andrew Medler, Walpole Island",GVM
 368,Bloomfield,LB1958,0086,ojg,,east2542,-im,OJ:1,,,,,,NG,,final,TA ,,ABSTR,,,,-imo,,,-imo,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-503,Bloomfield,LB1958,"0096,0104",ojg,,east2542,-im,OJ:1,,,,,,by speech,"speech, MANNER",final,TA,,,,,,,,,-it,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+503,Bloomfield,LB1958,"0096,0104",ojg,,east2542,-im,OJ:1,,,,,,by speech,"speech, INSTRUMENT",final,TA,,,,,,,,,-it,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 505,Bloomfield,LB1958,"0096,0104",ojg,,east2542,-im,OJ:1,,,,,,by mouth,,final,TA ,,,,,,,,,-int,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 685,Bloomfield,LB1958,0111,ojg,,east2542,-im,OJ:1,,,,,,NG,,final,PART,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 795,Bloomfield,LB1958,0117,ojg,,east2542,-imin,OJ:1,,,,,,"berry, grain, bead","bead, berry, grain, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,mi·n,,,"Andrew Medler, Walpole Island",GVM
@@ -400,7 +400,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 379,Bloomfield,LB1958,0087,ojg,,east2542,-in,OJ:1,,,,,,NG,,final,TA,,ABSTR,,,,-ino,,,-ino,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 483,Bloomfield,LB1958,0093,ojg,,east2542,-in,OJ:1,,,,,,NG,,final,II ,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 534,Bloomfield,LB1958,"0098,0103",ojg,,east2542,-in,OJ:1,,,,,,by hand,,final,TA ,,,,,,,,,-in,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-535,Bloomfield,LB1958,"0098,0103",ojg,,east2542,-in,OJ:1,,,,,,by hand,"hand, MANNER",final,TI,,,,,,,,-in,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+535,Bloomfield,LB1958,"0098,0103",ojg,,east2542,-in,OJ:1,,,,,,by hand,"hand, INSTRUMENT",final,TI,,,,,,,,-in,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 690,Bloomfield,LB1958,0111,ojg,,east2542,-in,OJ:1,,,,,,NG,,final,PART,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 918,Bloomfield,LB1958,0124,ojg,,east2542,-ina,OJ:1,,,,,,kill,kill,prefinal,,,,,,,,,,,,,,,,,,,,,-inaN,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 581,Bloomfield,LB1958,0100,ojg,,east2542,-ina·šiʔw,OJ:1,,,,,,"chase, send",,final,TA ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -416,7 +416,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 378,Bloomfield,LB1958,0087,ojg,,east2542,-ino,OJ:1,,,,,,NG,,final,AI,,ABSTR,,,,,-in,-in,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 683,Bloomfield,LB1958,0111,ojg,,east2542,-inonk,OJ:1,,,,,,NG,,final,PART,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 87,Bloomfield,LB1958,0069,ojg,,east2542,-ins,OJ:1,,,,,,diminutive,,final ,N,,ABSTR,B,,,,,,,,,,,,N,,,,,,,,,,,,,,,,*stem category marked but no stem* diminuitive ,,"Andrew Medler, Walpole Island",GVM
-506,Bloomfield,LB1958,"0096,0104",ojg,,east2542,-int,OJ:1,,,,,,by mouth,"mouth, MANNER",final,TI,,,,,,,,-im,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+506,Bloomfield,LB1958,"0096,0104",ojg,,east2542,-int,OJ:1,,,,,,by mouth,"mouth, INSTRUMENT",final,TI,,,,,,,,-im,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 766,Bloomfield,LB1958,"0118'0116,",ojg,,east2542,-intip,OJ:1,,,,,,head,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 209,Bloomfield,LB1958,0078,ojg,,east2542,-intipe·,OJ:1,,,,,,head,,final,AI ,,,,,,,,,,,,,,,,,,,,,,,,-e·,,,,,,,medial with AI final -e·,,"Andrew Medler, Walpole Island",GVM
 809,Bloomfield,LB1958,0118,ojg,,east2542,-intipe·,OJ:1,,,,,,head,head,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -454,7 +454,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 412,Bloomfield,LB1958,"0088,0099",ojg,,east2542,-iško·so,OJ:1,,,,,,by foot or body-movement,,final,AI,,,,,,,-iško·te·,-iškaw,-išk,,,,,,,,,,,,,,,-iškaw,-iso,,,,,,,,"Andrew Medler, Walpole Island",GVM
 628,Bloomfield,LB1958,0105,ojg,,east2542,-iško·t,OJ:1,,,,,,cause to move,,final,TI ,,,,,,,,-iško·N,,,,,,,,,,,,,,,,-iskaw,-it,,,,,,,,"Andrew Medler, Walpole Island",GVM
 413,Bloomfield,LB1958,"0088,0099",ojg,,east2542,-iško·te·,OJ:1,,,,,,by foot or body-movement,,final,II,,,,,,-iško·so,,-iškaw,-išk,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-399,Bloomfield,LB1958,0087,ojg,,east2542,-iso,OJ:1,,-iso,,,,by heat,"heat, MANNER",final,AI,,,,,,,-ite·,-isw,-is,,,,,,,,,,,-itiso,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+399,Bloomfield,LB1958,0087,ojg,,east2542,-iso,OJ:1,,-iso,,,,by heat,"heat, INSTRUMENT",final,AI,,,,,,,-ite·,-isw,-is,,,,,,,,,,,-itiso,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 29,Bloomfield,LB1958,"0065, 0069",ojg,,east2542,-iss,OJ:1,,,,,,diminutive,DIMINUTIVE,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 90,Bloomfield,LB1958,"0069, 0070",ojg,,east2542,-iss,OJ:1,,,,,,diminutive,DIMINUTIVE,final,N,,,B,,,,,,,,,,,,,,,,,-isse·ns,-isse·ny,-issi·ny,,,,,,,,,"77, 103 ""has diminutive flavor, but is largely primary""",,"Andrew Medler, Walpole Island",GVM
 607,Bloomfield,LB1958,0103,ojg,,east2542,-iss,OJ:1,,,,,,NG,,final,TI ,,ABSTR,,,,,,-issw,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -477,7 +477,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 587,Bloomfield,LB1958,"0101,0104",ojg,,east2542,-išw,OJ:1,,,,,,by knife,,final,TA ,,,,,,,,,-iš,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 504,Bloomfield,LB1958,"0096,0104",ojg,,east2542,-it,OJ:1,,,,,,by speech,,final,TI ,,,,,,,,-im,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 13,Bloomfield,LB1958,0064,ojg,,east2542,-ite·,OJ:1,,,,,,NG,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""probably an II final plus noun final zero""",,"Andrew Medler, Walpole Island",GVM
-400,Bloomfield,LB1958,"0087,0091",ojg,,east2542,-ite·,OJ:1,,,,,,by heat,"heat, MANNER",final,II,,,,,,-iso,,-isw,-is,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+400,Bloomfield,LB1958,"0087,0091",ojg,,east2542,-ite·,OJ:1,,,,,,by heat,"heat, INSTRUMENT",final,II,,,,,,-iso,,-isw,-is,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 312,Bloomfield,LB1958,0083,ojg,,east2542,-iti,OJ:1,,,,,,reciprocal,RECIPROCAL,final,AI,,ABSTR,B,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 28,Bloomfield,LB1958,0065,ojg,,east2542,-iti·,OJ:1,,,,,,"rump, tail","rump, tail",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""medial with noun final zero""",,"Andrew Medler, Walpole Island",GVM
 839,Bloomfield,LB1958,0119,ojg,,east2542,-iti·,OJ:1,,,,,,"rump, tail",,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -718,7 +718,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 518,Bloomfield,LB1958,"0096,0105,0124",ojg,,east2542,-o·nt,OJ:1,,,,,,carry on back,,final,TI ,,,,,,-o·mo,,-o·m,,,,,,,,,,,,,,,,-o·m,-t,,-o·,,,,,,"Andrew Medler, Walpole Island",GVM
 470,Bloomfield,LB1958,0092,ojg,,east2542,-o·nʔi,OJ:1,,,,,,diminutive,DIMINUTIVE,final,II,,,Y,II,,,,,,,,,,,,,,,,,,,,-w,-e·ny,-i,,,,,,,"Andrew Medler, Walpole Island",GVM
 383,Bloomfield,LB1958,"0087,0125,0126",ojg,,east2542,-o·ppo,OJ:1,,,,,,eat,eat,final,AI,,,,,,,,,,,,,,,,,,,,,,,,-o,,,-o·ppw,-o·,,,,,"Andrew Medler, Walpole Island",GVM
-384,Bloomfield,LB1958,"0087,0124",ojg,,east2542,-o·ppw,OJ:1,,,,,,by mouth,"mouth, MANNER",prefinal,,,,,,,,,,,,,,,,,,,,,-o·ppo,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+384,Bloomfield,LB1958,"0087,0124",ojg,,east2542,-o·ppw,OJ:1,,,,,,by mouth,"mouth, INSTRUMENT",prefinal,,,,,,,,,,,,,,,,,,,,,-o·ppo,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 85,Bloomfield,LB1958,0069,ojg,,east2542,-o·so,OJ:1,,,,,,NG,,final ,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 53,Bloomfield,LB1958,"0067,0105",ojg,,east2542,-o·t,OJ:1,,,,,,NG,,final,TI,,ABSTR,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 932,Bloomfield,LB1958,0124,ojg,,east2542,-o·t,OJ:1,,,,,,crawl,,prefinal ,,,,,,,,,,,,,,,,,,,,,-o·te·,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -762,12 +762,12 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 456,Bloomfield,LB1958,"0092,0106,0125",ojg,,east2542,-po·to·,OJ:1,,,,,,"grind, file, handle violently","file, grind, handle (violently)",final,TI,,,,,,-po·so?,-po·te·,-po·N,,,,,,,,,,,,,,,,-to·,,,-po·,,,,pseudo-TI,,"Andrew Medler, Walpole Island",GVM
 489,Bloomfield,LB1958,0094,ojg,,east2542,-pokosi,OJ:1,,,,,,be tasted,tasted,final,AI,,,,,,,-pokwat,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 488,Bloomfield,LB1958,"0094,0125",ojg,,east2542,-pokwat,OJ:1,,,,,,be tasted,,final,II ,,,N,,,-pokosi,,,,,,,,,,,,,,,,,,-ikwat,,,-pw,,,,"""II doubtless -pokosi""",,"Andrew Medler, Walpole Island",GVM
-184,Bloomfield,LB1958,"0077,0125",ojg,,east2542,-ppw,OJ:1,,,,,,by mouth,"mouth, MANNER",prefinal,,,,,,,,,,,,,,,,,,,,,-ppwa·,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+184,Bloomfield,LB1958,"0077,0125",ojg,,east2542,-ppw,OJ:1,,,,,,by mouth,"mouth, INSTRUMENT",prefinal,,,,,,,,,,,,,,,,,,,,,-ppwa·,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 183,Bloomfield,LB1958,"0077,0125",ojg,,east2542,-ppwa·,OJ:1,,,,,,smoke ,,final,AI ,,,,,,,,,,,,,,,,,,,,,,,,-a· ,,,-ppw,,,,,,"Andrew Medler, Walpole Island",GVM
-382,Bloomfield,LB1958,"0087,0094,0124,0125",ojg,,east2542,-pw,OJ:1,,,,,,by mouth,"mouth, MANNER",prefinal,,,,,,,,,,,,,,,,,,,,,-po,-pokwat,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+382,Bloomfield,LB1958,"0087,0094,0124,0125",ojg,,east2542,-pw,OJ:1,,,,,,by mouth,"mouth, INSTRUMENT",prefinal,,,,,,,,,,,,,,,,,,,,,-po,-pokwat,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 36,Bloomfield,LB1958,0065,ojg,,east2542,-pwa·m,OJ:1,,,,,,back of thigh,back (thigh),final,N,,,,,,,,,,,,,,,,,,,,,,,,-pwa·m-,-∅,,,,,,,,"Andrew Medler, Walpole Island",GVM
 815,Bloomfield,LB1958,0118,ojg,,east2542,-pwa·m,OJ:1,,,,,,back of thigh ,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-583,Bloomfield,LB1958,0100,ojg,,east2542,-s,OJ:1,,,,,,by heat,"heat, MANNER",final,TI,,,B,AI,,-so,-te·,-sw ,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+583,Bloomfield,LB1958,0100,ojg,,east2542,-s,OJ:1,,,,,,by heat,"heat, INSTRUMENT",final,TI,,,B,AI,,-so,-te·,-sw ,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 586,Bloomfield,LB1958,0101,ojg,,east2542,-š,OJ:1,,,,,,cut,,final,TI ,,,,,,,,-sw ,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 11,Bloomfield,LB1958,0064,ojg,,east2542,-še·,OJ:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 12,Bloomfield,LB1958,"0064,0119",ojg,,east2542,-še·,OJ:1,,,,,,body,body,medial,,,,,,,,,,,,,,,,,,,,,,,,,-še·-,-∅,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -789,12 +789,12 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 828,Bloomfield,LB1958,0119,ojg,,east2542,-ški·nšikw ,OJ:1,,,,,,eye,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 239,Bloomfield,LB1958,0080,ojg,,east2542,-ški·nšikwe·,OJ:1,,,,,,eye,eye,final,AI,,,,,,,,,,,,,,,,,,,,,,,,-e·,,,,,,,medial with AI final -e·,,"Andrew Medler, Walpole Island",GVM
 1115,Bloomfield,LB1958,0129,ojg,,east2542,-skw,OJ:1,,,,,,NG,,postradical ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-385,Bloomfield,LB1958,"0087,0091,0100",ojg,,east2542,-so,OJ:1,,,,,,by heat,"heat, MANNER",final,AI,,,N,,,,-te·,-sw ,-s,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+385,Bloomfield,LB1958,"0087,0091,0100",ojg,,east2542,-so,OJ:1,,,,,,by heat,"heat, INSTRUMENT",final,AI,,,N,,,,-te·,-sw ,-s,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 389,Bloomfield,LB1958,"0087,0091,0096",ojg,,east2542,-so,OJ:1,,,,,,NG,,final,AI,,ABSTR,,,,,-te·,-N,-t,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 822,Bloomfield,LB1958,0118,ojg,,east2542,-so·w,OJ:1,,,,,,quadruped's tail,tail (quadruped),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 658,Bloomfield,LB1958,0109,ojg,,east2542,-špi·cc,OJ:1,,,,,,time,time,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 212,Bloomfield,LB1958,"0078,0085,0091,0093,0096,0106,0125",ojg,,east2542,-SS,OJ:1,,,,,,"fall, lie, speed",,prefinal ,,,,,,,,,,,,,,,,,,,,,-sse·,-ššin,-ssin,-ššim,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-462,Bloomfield,LB1958,0092,ojg,,east2542,-ss,OJ:1,,,,,,by heat,"heat, MANNER",final,TI,,,,,,-sso?,-tte·,-ssw,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+462,Bloomfield,LB1958,0092,ojg,,east2542,-ss,OJ:1,,,,,,by heat,"heat, INSTRUMENT",final,TI,,,,,,-sso?,-tte·,-ssw,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 631,Bloomfield,LB1958,0106,ojg,,east2542,-SS,OJ:1,,,,,,NG,,final,TA,,ABSTR,,,,,,,-tt,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 694,Bloomfield,LB1958,0112,ojg,,east2542,-šš,OJ:1,,,,,,NG,,final,PART,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""added to predicative particles, especially for question""",,"Andrew Medler, Walpole Island",GVM
 464,Bloomfield,LB1958,"0092,0098,0107",ojg,,east2542,-SS ,OJ:1,,,,,,NG,,final,TA ,,ABSTR,N,,,,-tte·,,-tto·,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -816,8 +816,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 350,Bloomfield,LB1958,"0085,0093,0125",ojg,,east2542,-ššin,OJ:1,,,,,,"fall, land, step, lie",,final,AI ,,,N,,,,-ssin,,,,,,,,,,,,,,,,,-n,,,-SS,,,,"""one of the commonest AI finals"" ",,"Andrew Medler, Walpole Island",GVM
 515,Bloomfield,LB1958,"0096,0106,0125",ojg,,east2542,-ssito·,OJ:1,,,,,,"lay, throw","lay, throw",final,TI,,,,,,-ššimo,,-ššim,,,,,,,,,,,,,,,,-to·,,,-SS,,,,pseudo-TI,,"Andrew Medler, Walpole Island",GVM
 120,Bloomfield,LB1958,0071,ojg,,east2542,-ssiw,OJ:1,,,,,,designation of animal,animal,final,N,,,B,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,"""in all our examples it follows upon a long vowel""",,"Andrew Medler, Walpole Island",GVM
-460,Bloomfield,LB1958,0092,ojg,,east2542,-sso?,OJ:1,,,,,,by heat,"heat, MANNER",final,AI,,,,,,,-tte·,-ssw,-ss,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-461,Bloomfield,LB1958,0092,ojg,,east2542,-ssw,OJ:1,,,,,,by heat,"heat, MANNER",final,TA,,,,,,-sso?,-tte·,,-ss,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+460,Bloomfield,LB1958,0092,ojg,,east2542,-sso?,OJ:1,,,,,,by heat,"heat, INSTRUMENT",final,AI,,,,,,,-tte·,-ssw,-ss,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+461,Bloomfield,LB1958,0092,ojg,,east2542,-ssw,OJ:1,,,,,,by heat,"heat, INSTRUMENT",final,TA,,,,,,-sso?,-tte·,,-ss,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 71,Bloomfield,LB1958,0068,ojg,,east2542,-štikwa·n,OJ:1,,,,,,head,head,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""medial with noun final zero""",,"Andrew Medler, Walpole Island",GVM
 831,Bloomfield,LB1958,0119,ojg,,east2542,-štikwa·n,OJ:1,,,,,,head,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 584,Bloomfield,LB1958,0101,ojg,,east2542,-šw,OJ:1,,,,,,NG,,final,TA ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -847,7 +847,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 964,Bloomfield,LB1958,0126,ojg,,east2542,-tattaka·wikan,OJ:1,,,,,,NG,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,-tattak,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 563,Bloomfield,LB1958,"0099,0104",ojg,,east2542,-taw,OJ:1,,,,,,NG,,final,TA,,ABSTR,,,,,,,-t,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 345,Bloomfield,LB1958,0085,ojg,,east2542,-te·,OJ:1,,,,,,be fast,fast,final,II,,,,,,-cin,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-386,Bloomfield,LB1958,"0087,0091,0100",ojg,,east2542,-te·,OJ:1,,,,,,by heat,"heat, MANNER",final,II,,,,,,-so,,-sw ,-s,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+386,Bloomfield,LB1958,"0087,0091,0100",ojg,,east2542,-te·,OJ:1,,,,,,by heat,"heat, INSTRUMENT",final,II,,,,,,-so,,-sw ,-s,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 390,Bloomfield,LB1958,"0087,0091,0096",ojg,,east2542,-te·,OJ:1,,,,,,NG,,final,II,,ABSTR,,,,-so,,-N,-t,,,,,,,,,,,,,,,,,,,,,,Applied action to an object,,"Andrew Medler, Walpole Island",GVM
 438,Bloomfield,LB1958,0091,ojg,,east2542,-te·,OJ:1,,,,,,NG,,final,II,,ABSTR,,,,,,,,,,,,,,,,,,-t,-e·,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 716,Bloomfield,LB1958,0114,ojg,,east2542,-te·,OJ:1,,,,,,belly,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -874,7 +874,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1107,Bloomfield,LB1958,0129,ojg,,east2542,-tta·w,OJ:1,,,,,,NG,,postradical ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 843,Bloomfield,LB1958,0119,ojg,,east2542,-ttak(?),OJ:1,,,,,,NG,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,question mark is Bloomfield's -GVM,,"Andrew Medler, Walpole Island",GVM
 458,Bloomfield,LB1958,0092,ojg,,east2542,-tte·,OJ:1,,,,,,reflexive,REFLEXIVE,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-459,Bloomfield,LB1958,0092,ojg,,east2542,-tte·,OJ:1,,,,,,by heat,"heat, MANNER",final,II,,,,,,-sso?,,-ssw,-ss,,,,,,,,,,,,,,,,,,,,,,reflexive,,"Andrew Medler, Walpole Island",GVM
+459,Bloomfield,LB1958,0092,ojg,,east2542,-tte·,OJ:1,,,,,,by heat,"heat, INSTRUMENT",final,II,,,,,,-sso?,,-ssw,-ss,,,,,,,,,,,,,,,,,,,,,,reflexive,,"Andrew Medler, Walpole Island",GVM
 463,Bloomfield,LB1958,0092,ojg,,east2542,-tte·,OJ:1,,,,,,NG,,final,II,,,,,,,,-SS,-tto·,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 844,Bloomfield,LB1958,0119,ojg,,east2542,-ttikwe·,OJ:1,,,,,,river,,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 426,Bloomfield,LB1958,"0089,0092",ojg,,east2542,-tto·,OJ:1,,,,,,NG,,final,AI,,ABSTR,,,,,-tte·,-SS ,,,,,,,,,,,,,,,,,,,,,,,"occurs mostly with pseudotransitives, three exceptions noted p. 89 (GVM)",,"Andrew Medler, Walpole Island",GVM
@@ -909,10 +909,10 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 577,Bloomfield,LB1958,"0100,0102,0125",ojg,,east2542,-we·paʔ,OJ:1,,,,,,fling by tool,,final,TI,,,,,,,,-we·paʔw,,,,,,,,,,,,,,,,-aʔ,,,-we·p,,,,,,"Andrew Medler, Walpole Island",GVM
 576,Bloomfield,LB1958,"0100,0102,0125",ojg,,east2542,-we·paʔw,OJ:1,,,,,,fling by tool,,final,TA ,,,,,,,,,-we·paʔ,,,,,,,,,,,,,,,-aʔw,,,-we·p,,,,,,"Andrew Medler, Walpole Island",GVM
 540,Bloomfield,LB1958,"0098,0103,0125",ojg,,east2542,-we·pin,OJ:1,,,,,,"throw by hand, push",,final,TA ,,,,,,,,,-we·pin,,,,,,,,,,,,,,,,,,-we·p,,Y,we·pin-,,,"Andrew Medler, Walpole Island",GVM
-541,Bloomfield,LB1958,"0098,0103,0125",ojg,,east2542,-we·pin,OJ:1,,,,,,"throw by hand, push","hand, push, throw, MANNER",final,TI,,,,,,,,-we·pin,,,,,,,,,,,,,,,,,,,-we·p,,Y,we·pin-,,,"Andrew Medler, Walpole Island",GVM
+541,Bloomfield,LB1958,"0098,0103,0125",ojg,,east2542,-we·pin,OJ:1,,,,,,"throw by hand, push","hand, push, throw, INSTRUMENT",final,TI,,,,,,,,-we·pin,,,,,,,,,,,,,,,,,,,-we·p,,Y,we·pin-,,,"Andrew Medler, Walpole Island",GVM
 286,Bloomfield,LB1958,"0083,0125",ojg,,east2542,-we·pisi,OJ:1,,,,,,NG,,final,AI,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,-we·p,,,,,,"Andrew Medler, Walpole Island",GVM
 599,Bloomfield,LB1958,"0103,0125",ojg,,east2542,-we·pišk ,OJ:1,,,,,,fling by foot,,final,TI ,,,,,,,,-we·piškaw,,,,,,,,,,,,,,,,-išk ,,,-we·p,,,,,,"Andrew Medler, Walpole Island",GVM
-600,Bloomfield,LB1958,0103,ojg,,east2542,-we·piškaw,OJ:1,,,,,,fling by foot,"fling, foot, MANNER",final,TA,,,,,,,,,-we·pišk ,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+600,Bloomfield,LB1958,0103,ojg,,east2542,-we·piškaw,OJ:1,,,,,,fling by foot,"fling, foot, INSTRUMENT",final,TA,,,,,,,,,-we·pišk ,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 849,Bloomfield,LB1958,0120,ojg,,east2542,-we·we·,OJ:1,,,,,,noise,noise,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 314,Bloomfield,LB1958,0084,ojg,,east2542,-wi,OJ:1,,,,,,"be, become","be, become",final,AI,,,Y,N,,,-wi,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 315,Bloomfield,LB1958,0084,ojg,,east2542,-wi,OJ:1,,,,,,"be, become","be, become",final,II,,,Y,N,,-wi,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -1128,7 +1128,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1035,Bloomfield,LB1958,0128,ojg,,east2542,wi·wakkwe·- ,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Other postradical elements resemble medials, but are joined with the root in a unit which is treated in turn like a root""; here he says ""So perhaps also [this form] (-akkwe· beside -kkwe· 'head'?)",,"Andrew Medler, Walpole Island",GVM
 1034,Bloomfield,LB1958,0128,ojg,,east2542,wi·we·k- ,OJ:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Other postradical elements resemble medials, but are joined with the root in a unit which is treated in turn like a root""; this one has question mark after the medial -e·k 'cloth'.",,"Andrew Medler, Walpole Island",GVM
 1119,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ikw-,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,"-ikosi, -ikwat",,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
-1124,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ite:,,,,by heat,"heat, MANNER",final,II,,,,,,-iso,,,,,,,,,,,,,,,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
+1124,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ite:,,,,by heat,"heat, INSTRUMENT",final,II,,,,,,-iso,,,,,,,,,,,,,,,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
 1125,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ka:so,,,,"undergo action, subject to the act",undergo,final,AI,,,,,,,-ka:te:,,,,,,,,,,,,,,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
 1126,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ka:te:,,,,"undergo action, subject to the act",undergo,final,II,,,,,,-ka:so,,,,,,,,,,,,,,,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
 1129,Siebert & Seeber,FS_PS1983,0333,ojg,,east2542,,OJ:1,,-iti-,,,,reciprocal,,final,,,,Y,,,,,,,,,,,,,,,,,-itiso,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""; no category given",,,MAM
