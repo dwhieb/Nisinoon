@@ -71,7 +71,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 70,Costa,DJC2019,0006,mia,,miam1252,-aapowi,MY:Standard,,,,,,liquid,liquid,final,AI
 71,Costa,DJC2019,0005,mia,,miam1252,-aatawee,MY:Standard,,,,,,language,language,final,AI
 72,Costa,DJC2019,0005,mia,,miam1252,-aataweem,MY:Standard,,,,,,language,language,final,TA
-73,Costa,DJC2019,0003,mia,,miam1252,-aci,MY:Standard,,,,,,"cold, by","cold, MANNER",final,AI
+73,Costa,DJC2019,0003,mia,,miam1252,-aci,MY:Standard,,,,,,"cold, by","cold, INSTRUMENT",final,AI
 74,Costa,DJC2013,0200,mia,,miam1252,-ači,MY:1,,,,,,cold,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 75,Costa,DJC2019,0007,mia,,miam1252,-aciipihk,MY:Standard,,,,,,root,root,final,N
 76,Costa,DJC2019,0005,mia,,miam1252,-aciw,MY:Standard,,,,,,hill,hill,final,N
@@ -113,17 +113,17 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 112,Costa,DJC2019,0007,mia,,miam1252,-alel(e) ,MY:Standard,,,,,,"rot, ferment","ferment, rot",final,AI
 113,Costa,DJC2019,0007,mia,,miam1252,-alet ,MY:Standard,,,,,,"rot, ferment","ferment, rot",final,II
 114,Costa,DJC2019,0001,mia,,miam1252,-alw,MY:Standard,,,,,,"arrow, bullet","arrow, bullet",final,N
-115,Costa,DJC2019,0006,mia,,miam1252,-am,MY:Standard,,,,,,"mouth, by","mouth, MANNER",final,TA
+115,Costa,DJC2019,0006,mia,,miam1252,-am,MY:Standard,,,,,,"mouth, by","mouth, INSTRUMENT",final,TA
 116,Costa,DJC2019,0004,mia,,miam1252,-ameekw,MY:Standard,,,,,,fish,fish,final,N
 117,Costa,DJC2019,0004,mia,,miam1252,-ameekwi,MY:Standard,,,,,,fish,fish,final,AI
 118,Costa,DJC2019,0001,mia,,miam1252,-ankwan,MY:Standard,,,,,,ankle,ankle,final,AI
 119,Costa,DJC2019,0002,mia,,miam1252,-anowee- ,MY:Standard,,,,,,cheek,cheek,final,AI,,,,,,,,,,,,,,,,,,,,,,,,has two dashes but listed as an AI final
 120,Costa,DJC2019,0008,mia,,miam1252,-ansooy,MY:Standard,,,,,,tail (animal's),tail (animal),final,N
-121,Costa,DJC2019,0006,mia,,miam1252,-antam,MY:Standard,,,,,,"mouth, by","mouth, MANNER",final,TI
+121,Costa,DJC2019,0006,mia,,miam1252,-antam,MY:Standard,,,,,,"mouth, by","mouth, INSTRUMENT",final,TI
 122,Costa,DJC2019,0001,mia,,miam1252,-antee,MY:Standard,,,,,,"absent, gone","absent, gone",final,AI
 123,Costa,DJC2019,0008,mia,,miam1252,-api,MY:Standard,,,,,,"sit, be at","be (at), sit",final,AI
-124,Costa,DJC2019,0003,mia,,miam1252,-ate-,MY:Standard,,,,,,"cold, by","cold, MANNER",medial
-125,Costa,DJC2019,0003,mia,,miam1252,-aten,MY:Standard,,,,,,"cold, by","cold, MANNER",final,II
+124,Costa,DJC2019,0003,mia,,miam1252,-ate-,MY:Standard,,,,,,"cold, by","cold, INSTRUMENT",medial
+125,Costa,DJC2019,0003,mia,,miam1252,-aten,MY:Standard,,,,,,"cold, by","cold, INSTRUMENT",final,II
 126,Costa,DJC2019,0005,mia,,miam1252,-aten,MY:Standard,,,,,,hill,hill,final,II
 127,Costa,DJC2019,0004,mia,,miam1252,-awee,MY:Standard,,,,,,fur,fur,final,AI
 128,Costa,DJC2019,0007,mia,,miam1252,-aweem,MY:Standard,,,,,,related to,related,final,TA
@@ -137,16 +137,16 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 136,Costa,DJC2019,0002,mia,,miam1252,-eeki,MY:Standard,,,,,,"cloth, sheet, hide","cloth, hide (N), sheet",final,AI
 137,Costa,DJC2019,0002,mia,,miam1252,-eekin,MY:Standard,,,,,,"cloth, sheet, hide","cloth, hide (N), sheet",final,TA
 138,Costa,DJC2019,0002,mia,,miam1252,-eekin,MY:Standard,,,,,,"cloth, sheet, hide","cloth, hide (N), sheet",final,II
-139,Costa,DJC2019,0002,mia,,miam1252,-eeli,MY:Standard,,,,,,"boat, by","boat, MANNER",final,AI
+139,Costa,DJC2019,0002,mia,,miam1252,-eeli,MY:Standard,,,,,,"boat, by","boat, INSTRUMENT",final,AI
 140,Costa,DJC2019,0003,mia,,miam1252,-eeli,MY:Standard,,,,,,dance2,dance,final,AI
-141,Costa,DJC2019,0006,mia,,miam1252,-eeli,MY:Standard,,,,,,"mind, by","mind, MANNER",final,AI
-142,Costa,DJC2019,0006,mia,,miam1252,-eelim,MY:Standard,,,,,,"mind, by","mind, MANNER",final,TA
-143,Costa,DJC2019,0006,mia,,miam1252,-eelintam,MY:Standard,,,,,,"mind, by","mind, MANNER",final,TI
-144,Costa,DJC2019,0006,mia,,miam1252,-eelisi,MY:Standard,,,,,,"mind, by","mind, MANNER",final,AI
-145,Costa,DJC2019,0002,mia,,miam1252,-ehkaa,MY:Standard,,,,,,"body, by","body, MANNER",final,AI
-146,Costa,DJC2019,0002,mia,,miam1252,-ehkam,MY:Standard,,,,,,"body, by","body, MANNER",final,TI
-147,Costa,DJC2019,0002,mia,,miam1252,-ehkaw ,MY:Standard,,,,,,"body, by","body, MANNER",final,TA
-148,Costa,DJC2019,0002,mia,,miam1252,-ehkawee,MY:Standard,,,,,,"body, by","body, MANNER",final,AI,,,,,,,,,,,,,,,,,,,,,,,,"Costa writes ""'path'?"""
+141,Costa,DJC2019,0006,mia,,miam1252,-eeli,MY:Standard,,,,,,"mind, by","mind, INSTRUMENT",final,AI
+142,Costa,DJC2019,0006,mia,,miam1252,-eelim,MY:Standard,,,,,,"mind, by","mind, INSTRUMENT",final,TA
+143,Costa,DJC2019,0006,mia,,miam1252,-eelintam,MY:Standard,,,,,,"mind, by","mind, INSTRUMENT",final,TI
+144,Costa,DJC2019,0006,mia,,miam1252,-eelisi,MY:Standard,,,,,,"mind, by","mind, INSTRUMENT",final,AI
+145,Costa,DJC2019,0002,mia,,miam1252,-ehkaa,MY:Standard,,,,,,"body, by","body, INSTRUMENT",final,AI
+146,Costa,DJC2019,0002,mia,,miam1252,-ehkam,MY:Standard,,,,,,"body, by","body, INSTRUMENT",final,TI
+147,Costa,DJC2019,0002,mia,,miam1252,-ehkaw ,MY:Standard,,,,,,"body, by","body, INSTRUMENT",final,TA
+148,Costa,DJC2019,0002,mia,,miam1252,-ehkawee,MY:Standard,,,,,,"body, by","body, INSTRUMENT",final,AI,,,,,,,,,,,,,,,,,,,,,,,,"Costa writes ""'path'?"""
 149,Costa,DJC2019,0004,mia,,miam1252,-ehkii,MY:Standard,,,,,,"gather, make","gather, make",final,AI
 150,Costa,DJC2019,0004,mia,,miam1252,-ehkwee,MY:Standard,,,,,,hair of the head,hair (head),final,AI
 151,Costa,DJC2019,0003,mia,,miam1252,-ehšii,MY:Standard,,,,,,ear,ear,final,AI
@@ -156,16 +156,16 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 155,Costa,DJC2019,0008,mia,,miam1252,-ekwaam,MY:Standard,,,,,,sleep,sleep,final,AI
 156,Costa,DJC2019,0002,mia,,miam1252,-elaan,MY:Standard,,,,,,calf (of leg),calf (leg),final,AI
 157,Costa,DJC2019,0007,mia,,miam1252,-elaan,MY:Standard,,,,,,rain,rain (V),final,II
-158,Costa,DJC2019,0004,mia,,miam1252,-en,MY:Standard,,,,,,"hand, by","hand, MANNER",final,TA
-159,Costa,DJC2019,0004,mia,,miam1252,-enam,MY:Standard,,,,,,"hand, by","hand, MANNER",final,TI
+158,Costa,DJC2019,0004,mia,,miam1252,-en,MY:Standard,,,,,,"hand, by","hand, INSTRUMENT",final,TA
+159,Costa,DJC2019,0004,mia,,miam1252,-enam,MY:Standard,,,,,,"hand, by","hand, INSTRUMENT",final,TI
 160,Costa,DJC2019,0009,mia,,miam1252,-epii-,MY:Standard,,,,,,water,water,medial
-161,Costa,DJC2019,0005,mia,,miam1252,-esam,MY:Standard,,,,,,"heat, by","heat, MANNER",final,TI
+161,Costa,DJC2019,0005,mia,,miam1252,-esam,MY:Standard,,,,,,"heat, by","heat, INSTRUMENT",final,TI
 162,Costa,DJC2019,0003,mia,,miam1252,-ešam,MY:Standard,,,,,,"cut, by knife","cut, INSTRUMENT",final,TI
-163,Costa,DJC2019,0005,mia,,miam1252,-esi,MY:Standard,,,,,,"heat, by","heat, MANNER",final,AI
+163,Costa,DJC2019,0005,mia,,miam1252,-esi,MY:Standard,,,,,,"heat, by","heat, INSTRUMENT",final,AI
 164,Costa,DJC2019,0003,mia,,miam1252,-ešiko,MY:Standard,,,,,,"cut, by knife","cut, INSTRUMENT",final,AI
-165,Costa,DJC2019,0005,mia,,miam1252,-esw,MY:Standard,,,,,,"heat, by","heat, MANNER",final,TA
+165,Costa,DJC2019,0005,mia,,miam1252,-esw,MY:Standard,,,,,,"heat, by","heat, INSTRUMENT",final,TA
 166,Costa,DJC2019,0003,mia,,miam1252,-ešw,MY:Standard,,,,,,"cut, by knife","cut, INSTRUMENT",final,TA
-167,Costa,DJC2019,0005,mia,,miam1252,-etee,MY:Standard,,,,,,"heat, by","heat, MANNER",final,II
+167,Costa,DJC2019,0005,mia,,miam1252,-etee,MY:Standard,,,,,,"heat, by","heat, INSTRUMENT",final,II
 168,Costa,DJC2019,0006,mia,,miam1252,-eton,MY:Standard,,,,,,mouth ,mouth,final,AI
 169,Costa,DJC2019,0007,mia,,miam1252,-i(h)kaašiko,MY:Standard,,,,,,"sew, work with thread","sew, thread (N)",final,AI
 170,Costa,DJC2019,0007,mia,,miam1252,-i(h)kwaal,MY:Standard,,,,,,"sew, work with thread","sew, thread (N)",final,TA
@@ -273,7 +273,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 272,Costa,DJC2019,0008,mia,,miam1252,-ilookii,MY:Standard,,,,,,skin,skin,final,AI
 273,Costa,DJC2019,0001,mia,,miam1252,-ilotam,MY:Standard,,,,,,applicative,APPLICATIVE,final,TI,,,,,,,-ilotaw
 274,Costa,DJC2019,0001,mia,,miam1252,-ilotaw,MY:Standard,,,,,,applicative,APPLICATIVE,final,TA,,,,,,,,-ilotam
-275,Costa,DJC2019,0008,mia,,miam1252,-im,MY:Standard,,,,,,"speech, by","speech, MANNER",final,TA
+275,Costa,DJC2019,0008,mia,,miam1252,-im,MY:Standard,,,,,,"speech, by","speech, INSTRUMENT",final,TA
 276,Costa,DJC2019,0003,mia,,miam1252,-imaamawee,MY:Standard,,,,,,eyebrow,eyebrow,final,AI
 277,Costa,DJC2019,0003,mia,,miam1252,-imaamawee-,MY:Standard,,,,,,eyebrow,eyebrow,medial
 278,Costa,DJC2019,0009,mia,,miam1252,-imehkomi,MY:Standard,,,,,,vein,vein,final,AI

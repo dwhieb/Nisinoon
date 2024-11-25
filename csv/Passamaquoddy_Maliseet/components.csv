@@ -21,11 +21,11 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 20,Teeter,KT1971,"0213,0222,0248",pqm,,male1292,-əm,P-M:1,,,,,,NG,,final,TA,,ABSTR,,,,,,-ət,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 21,Teeter,KT1971,0248,pqm,,male1292,-əm,P-M:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 22,Teeter,KT1971,0229,pqm,,male1292,-əmekw,P-M:1,,,,,,fish,fish,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-23,Teeter,KT1971,0222,pqm,,male1292,-ən,P-M:1,,,,,,by hand,"hand, MANNER",final,TA,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+23,Teeter,KT1971,0222,pqm,,male1292,-ən,P-M:1,,,,,,by hand,"hand, INSTRUMENT",final,TA,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 24,Teeter,KT1971,0223,pqm,,male1292,-əp,P-M:1,,,,,,sit,sit,final,AI,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 25,Teeter,KT1971,0245,pqm,,male1292,-əphi,P-M:1,,,,,,run,run,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 26,Teeter,KT1971,0219,pqm,,male1292,-əs,P-M:1,,,,,,reflexive,REFLEXIVE,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-27,Teeter,KT1971,0222,pqm,,male1292,-əs-,P-M:1,,,,,,by heat,"heat, MANNER",final,TA,,CONCR,,,,,,,,,,,lakwəs-,,,V,TA,cook him/it,,KT1971;0222,,,,,,,,,,,,,,,,,,,,,MAM
+27,Teeter,KT1971,0222,pqm,,male1292,-əs-,P-M:1,,,,,,by heat,"heat, INSTRUMENT",final,TA,,CONCR,,,,,,,,,,,lakwəs-,,,V,TA,cook him/it,,KT1971;0222,,,,,,,,,,,,,,,,,,,,,MAM
 28,Teeter,KT1971,"0218,0222",pqm,,male1292,-ət,P-M:1,,,,,,NG,,final,TI,,ABSTR,,,,,-əm,,,,,,təkətəm-,,,V,TI,hit it,,KT1971;0218,,,,,,,,,,,,,,,,,,,,,MAM
 29,Teeter,KT1971,0219,pqm,,male1292,-ət,P-M:1,,,,,,reciprocal,RECIPROCAL,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 30,Teeter,KT1971,0222,pqm,,male1292,-ət,P-M:1,,,,,,NG,,final,II,,,,,-si,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -135,5 +135,5 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 134,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ne-/,,,,die,,final,,,,,,,,,,,,,,,,/nə̆kĭhka-ne-/,V,AI,"die completely, all die",,PL1995;0124,,,/mehci-ne-/,V,AI,die,,PL1995;0126
 135,LeSourd,PL1995,0129,pqm,Passamaquoddy,pass1249,,P-M:3,,/kin-/,,,,big,big,initial,,,,,,,,,,,,,,,,/kin-ə̆kihkʷə̆n-/,V,II,be big,,PL1995;0129
 136,LeSourd,PL1995,0129,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ə̆kihkʷə̆n-/,,,,be a size,size,final,II,,,,,,,,,,,,,,,/kin-ə̆kihkʷə̆n-/,V,II,be big,,PL1995;0129
-137,LeSourd,PL1995,"0129,0130,0131",pqm,Passamaquoddy,pass1249,,P-M:3,,/ə̆l(i)/,,,,"manner, size, direction, kind; thus","direction, in that way, kind, manner, size, so, thither, thus, to there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: P. 130 ""while it is convenient to gloss /ə̆l(i)-/ as 'thus', this root does not in itself have deictic force"
+137,LeSourd,PL1995,"0129,0130,0131",pqm,Passamaquoddy,pass1249,,P-M:3,,/ə̆l(i)/,,,,"manner, size, direction, kind; thus","direction, in that way, kind, INSTRUMENT, size, so, thither, thus, to there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: P. 130 ""while it is convenient to gloss /ə̆l(i)-/ as 'thus', this root does not in itself have deictic force"
 138,LeSourd,PL1995,0131,pqm,Passamaquoddy,pass1249,,P-M:3,,/kʷə̆n(i)-/,,,,length

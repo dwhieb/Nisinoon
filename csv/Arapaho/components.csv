@@ -260,7 +260,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 901,Cowell & Moss,AC_AM2008,"0216,0217",arp,,arap1274,,AR:1,,/osei(t)-/,,,,"backward, away in time or space, in the past","away, backward, in (the past), space, time",initial
 993,Cowell & Moss,AC_AM2008,"0214,0215",arp,,arap1274,,AR:1,,/woti'/,,,,"away, removal, disposal; removed (permanently)","away, disposal, removal, removed",initial
 635,Cowell & Moss,AC_AM2008,0217,arp,,arap1274,,AR:1,,/ɜeboow-/,,,,"downward with surface contact, away from the speaker","away, downward",initial
-540,Cowell & Moss,AC_AM2008,0214,arp,,arap1274,,AR:1,,/ceɜ-/,,,,"away from s.o. or s.t., by loosening, dropping, releasing","away, drop, loosen, release, MANNER",initial,,,,,,,,,,,,,,,,,/cesín-/,V,TI,to drop s.t.,,AC_AM2008;0145,,,/césin-/,V,TA,to drop s.o.,,,AC_AM2008;0145
+540,Cowell & Moss,AC_AM2008,0214,arp,,arap1274,,AR:1,,/ceɜ-/,,,,"away from s.o. or s.t., by loosening, dropping, releasing","away, drop, loosen, release, INSTRUMENT",initial,,,,,,,,,,,,,,,,,/cesín-/,V,TI,to drop s.t.,,AC_AM2008;0145,,,/césin-/,V,TA,to drop s.o.,,,AC_AM2008;0145
 542,Cowell & Moss,AC_AM2008,0214,arp,,arap1274,,AR:1,,/ceɜ/,,,,"away, off, gone","away, gone, off",initial
 634,Cowell & Moss,AC_AM2008,0217,arp,,arap1274,,AR:1,,/ɜebooseit-/,,,,"back there in former times, far back away there; far back in time, in the past",back (time),initial
 897,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/ooxoen-/,,,,"back and forth, in exchange","back and forth, exchange",initial
@@ -898,7 +898,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 851,Cowell & Moss,AC_AM2008,0209,arp,,arap1274,,AR:1,,/nosóún-/,,,,still doing s.t.,still (ADV),initial
 964,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/too'/,,,,stop,stop,initial,,,,,,,,,,,,,,,,,/too'usoh'owuun-/,V,TA,to signal s.o. to stop doing s.t. ,,AC_AM2008;0176
 954,Cowell & Moss,AC_AM2008,0179,arp,,arap1274,,AR:1,,/tei'/,,,,strong,strong,initial
-420,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-oxesnouyei/,,,,with sticky substance,"substance (sticky), MANNER",final,AI+O,,CONCR,,,,,,,,,,,,,,/niiɜoxesnouyei-/,V,AI+O,to make dough,,AC_AM2008;0174,,,/okoxesnouyei-/,V,AI+O,"to plaster, plaster over",,AC_AM2008;0174
+420,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-oxesnouyei/,,,,with sticky substance,"substance (sticky), INSTRUMENT",final,AI+O,,CONCR,,,,,,,,,,,,,,/niiɜoxesnouyei-/,V,AI+O,to make dough,,AC_AM2008;0174,,,/okoxesnouyei-/,V,AI+O,"to plaster, plaster over",,AC_AM2008;0174
 284,Cowell & Moss,AC_AM2008,0221,arp,,arap1274,,AR:1,,/-koxuuten-/,,,,suddenly,suddenly,initial
 735,Cowell & Moss,AC_AM2008,0219,arp,,arap1274,,AR:1,,/koxuuten-/,,,,suddenly,suddenly,initial
 7,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-biicei-,AR:2,,,,,,summer,summer,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Might be a stem - ?,,,MAM

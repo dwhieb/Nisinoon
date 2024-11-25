@@ -244,8 +244,8 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 564,Wolfart,HCW1969a,0192,crk,,plai1258,-wēp-,C-P:2,,,,,,NG,,medial
 866,Wolfart,HCW1973a,0066,crk,,plai1258,papām-,C-P:2,,,,,,about,about,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 316,Cook & Muehlbauer,CC_JM2010,0017,crk,,plai1258,-inâw,C-P:1,,,,,,"former, absent","absent, former",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-410,Cook & Muehlbauer,CC_JM2010,0025,crk,,plai1258,-m-,C-P:1,,,,,,do by undefined bodily action,"action (bodily), MANNER",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-5,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-(i)ht-,C-P:1,,,,,,do by mental action,"action (mental), MANNER",final,TI,,,,,,,,,,,-iht,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+410,Cook & Muehlbauer,CC_JM2010,0025,crk,,plai1258,-m-,C-P:1,,,,,,do by undefined bodily action,"action (bodily), INSTRUMENT",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+5,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-(i)ht-,C-P:1,,,,,,do by mental action,"action (mental), INSTRUMENT",final,TI,,,,,,,,,,,-iht,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 92,Wolfart,HCW1973a,0071,crk,,plai1258,-ākwan-,C-P:2,,,,,,single action,action (single),final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"complex final, alternates with -ikwan-",,,GVM
 295,Wolfart,HCW1973a,0071,crk,,plai1258,-ikosi-,C-P:2,,,,,,single action,action (single),final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"complex final, alternates with -aakosi-",,,GVM
 301,Wolfart,HCW1973a,0071,crk,,plai1258,-ikwan-,C-P:2,,,,,,single action,action (single),final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"complex final, alternates with -aakwan-",,,GVM
@@ -317,11 +317,11 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 697,Wolfart,HCW1973a,"0069, 0070",crk,,plai1258,kaskitē-,C-P:2,,,,,,black,black,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 761,Goddard,IG1979a,0080,crk,,plai1258,mahkate·w-,C-P:4,,,,,,black,black,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"IG just called it ""Cree"" but told us it was Plains.",,,MAM
 387,Cook & Muehlbauer,CC_JM2010,0021,crk,,plai1258,-îya,C-P:1,,,,,,body,body,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-275,Goddard,IG1979a,0080,crk,,plai1258,-ihk(aw),C-P:4,,,,,,act on by foot or body,"body, foot, MANNER",final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"IG just called it ""Cree"" but told us it was Plains.",,,MAM
-13,Cook & Muehlbauer,CC_JM2010,0017,crk,,plai1258,-(i)sk-,C-P:1,,,,,,do by foot or body movement,"body, foot, MANNER",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-14,Cook & Muehlbauer,CC_JM2010,0018,crk,,plai1258,-(i)skaw-,C-P:1,,,,,,do by foot or body movement,"body, foot, MANNER",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-339,Wolfart,HCW1973a,0074,crk,,plai1258,-isk-,C-P:2,,esk,,,,do by foot or body movement,"body, foot, MANNER",final,TI,,,,,,,,,-iskaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"HCW defines as ""by foot or body movement""; this is from C&M 2010",,,GVM
-341,Wolfart,HCW1973a,0074,crk,,plai1258,-iskaw-,C-P:2,,eskaw,,,,do by foot or body movement,"body, foot, MANNER",final,TA,,,,,,,,,,-isk-,-skaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"HCW defines as ""by foot or body movement""; this is from C&M 2009",,,GVM
+275,Goddard,IG1979a,0080,crk,,plai1258,-ihk(aw),C-P:4,,,,,,act on by foot or body,"body, foot, INSTRUMENT",final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"IG just called it ""Cree"" but told us it was Plains.",,,MAM
+13,Cook & Muehlbauer,CC_JM2010,0017,crk,,plai1258,-(i)sk-,C-P:1,,,,,,do by foot or body movement,"body, foot, INSTRUMENT",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+14,Cook & Muehlbauer,CC_JM2010,0018,crk,,plai1258,-(i)skaw-,C-P:1,,,,,,do by foot or body movement,"body, foot, INSTRUMENT",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+339,Wolfart,HCW1973a,0074,crk,,plai1258,-isk-,C-P:2,,esk,,,,do by foot or body movement,"body, foot, INSTRUMENT",final,TI,,,,,,,,,-iskaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"HCW defines as ""by foot or body movement""; this is from C&M 2010",,,GVM
+341,Wolfart,HCW1973a,0074,crk,,plai1258,-iskaw-,C-P:2,,eskaw,,,,do by foot or body movement,"body, foot, INSTRUMENT",final,TA,,,,,,,,,,-isk-,-skaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"HCW defines as ""by foot or body movement""; this is from C&M 2009",,,GVM
 289,Goddard,IG1990a,0465,crk,,plai1258,-ikan,C-P:4,,,,,,bone,bone,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"IG just called it ""Cree"" but told us it was Plains.",,,MAM
 394,Wolfart,HCW1973a,0064,crk,,plai1258,-kan-,C-P:2,,,,,,bone,bone,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM,MAM
 686,Denny,JPD1981,0006,crk,,plai1258,kanak,C-P:3,,,,,,bone,"bone, CLASSIFIER",medial,CLASS,,,,,,,,,,,,,,,,,kās-ikanak-ā-,,,II,,it has bones sticking out,,JPD1981;0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield; not positive he's still talking about Cree here",,,MAM
@@ -384,7 +384,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 930,Bakker,PB2006,0009,crk,,plai1258,sw- ,C-P:1,,,,,,cut,cut,final,TA,,,,,,,,,,,,,,,,,kîsk-ikw-ê-sw-,,,V,TA,cut off head,,PB2006;0009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RMF,MAM
 731,Wolfart,HCW1973a,"0063,0073",crk,,plai1258,kīsk-,C-P:2,,,,,,"cut, sever","cut, sever",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 364,Wolfart,HCW1973a,0073,crk,,plai1258,-isw-,C-P:2,,esw,,*-esw-,,by heat; by cutting edge,"cutting edge, heat, INSTRUMENT",final,TA,,,,,,,,,,-is-,,,,,,,kîsk-isw-,,,V,TA,cut off,,PB2006;0009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-325,Wolfart,HCW1973a,0073,crk,,plai1258,-is-,C-P:2,,es,,*-esw-,,"by heat, by cutting edge","cutting edge, heat, INSTRUMENT, MANNER",final,TI,,,,,,,,,-isw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+325,Wolfart,HCW1973a,0073,crk,,plai1258,-is-,C-P:2,,es,,*-esw-,,"by heat, by cutting edge","cutting edge, heat, INSTRUMENT",final,TI,,,,,,,,,-isw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 824,Denny,JPD1978b,0308,crk,,plai1258,nīsk-,C-P:3,,,,,,damp,damp,initial,,,,,,,,,,,,,,,,,,nīsk-ā-,,,II,,it is damp,,JPD1978b;0308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield"
 488,Cook & Muehlbauer,CC_JM2010,0037,crk,,plai1258,-simo,C-P:1,,,,,,"do while laying, place oneself, dance","dance, do (laying), place (self)",final,AI,,,,,,,,-simo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 489,Cook & Muehlbauer,CC_JM2010,0037,crk,,plai1258,-simo,C-P:1,,,,,,"do while laying, place oneself, dance","dance, do (laying), place (self)",final,II,,,,,,,-simo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -429,7 +429,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 501,Wolfart,HCW1971,518,crk,,plai1258,-sip-,C-P:2,,,,,,duck,"duck, INCORPORATED",medial,INCORP
 991,Wolvengray,AW2011,"0247,0264,0265",crk,,plai1258,,C-P:3,,/(i)tahtw-/,,,,as many as; each; every; so many; so much,"each, every",initial,RR,,,,,,,,,,,,,,,,,itahtopiponē-,,,V,,be such an age; be so many winters old,,AW2011;0247,tahtotipiskwē-,,,V,AI,spend so many nights,,AW2011;0265
 259,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-htaw-,C-P:1,,,,,,do by ear; hear,"ear, hear, INSTRUMENT",final,TA,,,,,,,,,,-(i)ht-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-6,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-(i)ht-,C-P:1,,,,,,do by ear,"ear, MANNER",final,TI,,,,,,,,,-htaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+6,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-(i)ht-,C-P:1,,,,,,do by ear,"ear, INSTRUMENT",final,TI,,,,,,,,,-htaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 796,Denny,JPD1981,"0004, 0005",crk,,plai1258,mō,C-P:3,,,,,,eat; to eat,eat,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 175,Wolfart,HCW1971,518,crk,,plai1258,-āw-,C-P:2,,,,,,egg,"egg, INCORPORATED",medial,INCORP
 113,Wolfart,HCW1973a,0067,crk,,plai1258,-āpēk-,C-P:2,,,,,,"rope, elongated object, string","elongated object, rope, string, CLASSIFIER",medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -440,11 +440,11 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 270,Wolvengray,AW2015,0575,crk,,plai1258,-icāp-,C-P:3,,,,,,eye,eye,medial
 572,Valentine,RV2002,0113,crk,,plai1258,-yaap-,C-P:1,,,,,,eye,eye,medial
 605,Denny,JPD1981,0005,crk,,plai1258,āp,C-P:3,,,,,,eye,"eye, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,tōhk-āp-(i)-,,,AI,,he opens his eyes,,JPD1981;0005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield",,,MAM
-102,Cook & Muehlbauer,CC_JM2004,"0001,0002,0003",crk,,plai1258,-amt,C-P:1,,,,,,by eye,"eye, MANNER",final,TI,,,,,,,,,-am,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+102,Cook & Muehlbauer,CC_JM2004,"0001,0002,0003",crk,,plai1258,-amt,C-P:1,,,,,,by eye,"eye, INSTRUMENT",final,TI,,,,,,,,,-am,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 108,Cook & Muehlbauer,CC_JM2010,0008,crk,,plai1258,-âp-,C-P:1,,,,,,"eye, vision","eye, vision",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 109,Wolfart,HCW1973a,0068,crk,,plai1258,-āp-,C-P:2,,,,,,"eye, vision","eye, vision",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-93,Cook & Muehlbauer,CC_JM2004,0007,crk,,plai1258,-am,C-P:1,,,,,,"by eye, by vision","eye, vision, MANNER",final,TA,,,,,,,,,,-amt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"HCW's def: ""by eye"" this def from C&M 2010",,,GVM
-94,Cook & Muehlbauer,CC_JM2010,0004,crk,,plai1258,-am-,C-P:1,,,,,,"by eye, by vision","eye, vision, MANNER",final,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+93,Cook & Muehlbauer,CC_JM2004,0007,crk,,plai1258,-am,C-P:1,,,,,,"by eye, by vision","eye, vision, INSTRUMENT",final,TA,,,,,,,,,,-amt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"HCW's def: ""by eye"" this def from C&M 2010",,,GVM
+94,Cook & Muehlbauer,CC_JM2010,0004,crk,,plai1258,-am-,C-P:1,,,,,,"by eye, by vision","eye, vision, INSTRUMENT",final,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 247,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-hkw-,C-P:1,,,,,,face,face,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 248,Wolfart,HCW1973a,0067,crk,,plai1258,-hkw-,C-P:2,,,,,,face,"face, DEPENDENT",medial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"-hkw- ""expanded by final -ākan"" (in dependent N)",,,GVM,MAM
 477,Cook & Muehlbauer,CC_JM2010,0037,crk,,plai1258,-s-,C-P:1,,,,,,lie or fall,"fall, lie",prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-sin-,-sim-,,,,,,,,,,GVM
@@ -482,13 +482,13 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 191,Cook & Muehlbauer,CC_JM2004,"0004,0005",crk,,plai1258,-cihcê-,C-P:1,,,,,,hand,"hand, CLASSIFIER",medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 189,Wolfart,HCW1973a,0067,crk,,plai1258,-cihc-,C-P:2,,,,,,hand,"hand, DEPENDENT",medial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM,MAM
 310,Cook & Muehlbauer,CC_JM2004,"0007,0008",crk,,plai1258,-in-,C-P:1,,,,,,by hand,"hand, INSTRUMENT",final,,,,,,,,,,,,-ino,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-433,Wolfart,HCW1971,512,crk,,plai1258,-n-,C-P:2,,,,,,by hand,"hand, MANNER",final,AI,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: might be a TA final; he's not clear
-969,Arppe et al.,AA_ET_AL2019,0005,crk,,plai1258,,C-P:1,,-(i)n,,,,by hand,"hand, MANNER",final,TA,,CONCR,,,,,,,,,,,,,,,itin-,,,V,TA,move s.o. thus by hand,,AA_ET_AL2019;0005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-985,Arppe et al.,AA_ET_AL2019,0010,crk,,plai1258,,C-P:1,,-n,,,,by hand,"hand, MANNER",final,TA,,,,,,,,,,,,,,,,,nîhciwêpin-,,,V,TA,"s/he throws s.o down, off",,AA_ET_AL2019;0010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-306,Wolfart,HCW1973a,"0065,0073",crk,,plai1258,-in-,C-P:2,,en,,,,do by hand,"hand, MANNER",final,TA,,,B,,,,,,,-in-,-n-,,,,,,kisīpēkin-,,,V,,wash by hand,,HCW1973a;0065,nōtin-,,,V,TA,fight him,,HCW1969a;0238,nōtinikē-,,,V,AI,fight (people),Y,HCW1969a;0238,nōtinikēstamaw-,,,V,TA,fight (people) for him,Y,HCW1969a;0239,,,,,,,,,,,,,,,,,"HCW defines as 'by hand'; this def is from C&M 2010, as in allomorph",,,MAM,GVM
-307,Wolfart,HCW1973a,"0065,0073",crk,,plai1258,-in-,C-P:2,,en,,,,do by hand,"hand, MANNER",final,TI,,,B,,,,,,-in-,,-n-,,,,,,kisīpēkin-,,,V,,wash by hand,,HCW1973a;0065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"HCW defines as 'by hand'; this def is from C&M 2010, as in allomorph",,,MAM,GVM
-427,Cook & Muehlbauer,CC_JM2010,0027,crk,,plai1258,-n-,C-P:1,,,,,,do by hand,"hand, MANNER",final,TA,,,,,,,,,,-n-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-428,Cook & Muehlbauer,CC_JM2010,0027,crk,,plai1258,-n-,C-P:1,,,,,,do by hand,"hand, MANNER",final,TI,,,,,,,,,-n-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+433,Wolfart,HCW1971,512,crk,,plai1258,-n-,C-P:2,,,,,,by hand,"hand, INSTRUMENT",final,AI,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: might be a TA final; he's not clear
+969,Arppe et al.,AA_ET_AL2019,0005,crk,,plai1258,,C-P:1,,-(i)n,,,,by hand,"hand, INSTRUMENT",final,TA,,CONCR,,,,,,,,,,,,,,,itin-,,,V,TA,move s.o. thus by hand,,AA_ET_AL2019;0005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+985,Arppe et al.,AA_ET_AL2019,0010,crk,,plai1258,,C-P:1,,-n,,,,by hand,"hand, INSTRUMENT",final,TA,,,,,,,,,,,,,,,,,nîhciwêpin-,,,V,TA,"s/he throws s.o down, off",,AA_ET_AL2019;0010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+306,Wolfart,HCW1973a,"0065,0073",crk,,plai1258,-in-,C-P:2,,en,,,,do by hand,"hand, INSTRUMENT",final,TA,,,B,,,,,,,-in-,-n-,,,,,,kisīpēkin-,,,V,,wash by hand,,HCW1973a;0065,nōtin-,,,V,TA,fight him,,HCW1969a;0238,nōtinikē-,,,V,AI,fight (people),Y,HCW1969a;0238,nōtinikēstamaw-,,,V,TA,fight (people) for him,Y,HCW1969a;0239,,,,,,,,,,,,,,,,,"HCW defines as 'by hand'; this def is from C&M 2010, as in allomorph",,,MAM,GVM
+307,Wolfart,HCW1973a,"0065,0073",crk,,plai1258,-in-,C-P:2,,en,,,,do by hand,"hand, INSTRUMENT",final,TI,,,B,,,,,,-in-,,-n-,,,,,,kisīpēkin-,,,V,,wash by hand,,HCW1973a;0065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"HCW defines as 'by hand'; this def is from C&M 2010, as in allomorph",,,MAM,GVM
+427,Cook & Muehlbauer,CC_JM2010,0027,crk,,plai1258,-n-,C-P:1,,,,,,do by hand,"hand, INSTRUMENT",final,TA,,,,,,,,,,-n-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+428,Cook & Muehlbauer,CC_JM2010,0027,crk,,plai1258,-n-,C-P:1,,,,,,do by hand,"hand, INSTRUMENT",final,TI,,,,,,,,,-n-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 158,Wolfart,HCW1969a,0231,crk,,plai1258,-at-,C-P:2,,,,,,specifies the tool as being stick-like or having a handle; do by stick-like tool,"handle (N), stick, INSTRUMENT",prefinal
 599,Cook & Muehlbauer,CC_JM2010,0003,crk,,plai1258,akot-,C-P:1,,,,,,hang,hang,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 155,Wolfart,HCW1971,517,crk,,plai1258,-astotin-,C-P:2,,,,,,"headgear, hat","hat, headgear, INCORPORATED",medial,INCORP
@@ -498,12 +498,12 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 348,Cook & Muehlbauer,CC_JM2010,0018,crk,,plai1258,-iskw-,C-P:1,,,,,,head,head,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""not attested in nouns""",,,GVM
 521,Cook & Muehlbauer,CC_JM2010,0038,crk,,plai1258,-stikwān,C-P:1,,,,,,head,head,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 522,Wolfart,HCW1973a,0067,crk,,plai1258,-stikwān,C-P:2,,,,,,head,"head, DEPENDENT",medial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-409,Cook & Muehlbauer,CC_JM2010,0025,crk,,plai1258,-m-,C-P:1,,,,,,do by head action,"head, MANNER",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+409,Cook & Muehlbauer,CC_JM2010,0025,crk,,plai1258,-m-,C-P:1,,,,,,do by head action,"head, INSTRUMENT",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 250,Wolfart,HCW1973a,0071,crk,,plai1258,-ht-,C-P:2,,,,,,hear,hear,final,TI,,,,,,,,,-htaw-,,-iht-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"C&M define as ""do by ear""",,,GVM
-283,Wolfart,HCW1973a,0074,crk,,plai1258,-iht-,C-P:2,,eht,,,,"hear, by hearing","hear, hearing, MANNER",final,TI,,,,,,,,,-ihtaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-286,Wolfart,HCW1973a,0074,crk,,plai1258,-ihtaw-,C-P:2,,ehtaw,,,,"hear, by hearing","hear, hearing, MANNER",final,TA,,,,,,,,,,-iht-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+283,Wolfart,HCW1973a,0074,crk,,plai1258,-iht-,C-P:2,,eht,,,,"hear, by hearing","hear, hearing, INSTRUMENT",final,TI,,,,,,,,,-ihtaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+286,Wolfart,HCW1973a,0074,crk,,plai1258,-ihtaw-,C-P:2,,ehtaw,,,,"hear, by hearing","hear, hearing, INSTRUMENT",final,TA,,,,,,,,,,-iht-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 940,Cook & Muehlbauer,CC_JM2004,0002,crk,,plai1258,têh-,C-P:1,,,,,,heart,heart,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not clear if they intended it to be a medial or an initial,,,GVM
-970,Arppe et al.,AA_ET_AL2019,0005,crk,,plai1258,,C-P:1,,-(i)sw,,,,by heat,"heat, MANNER",final,TA,,CONCR,,,,,,,,,,,,,,,kîsisw-,,,V,TA,cook s.o.,,AA_ET_AL2019;0005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+970,Arppe et al.,AA_ET_AL2019,0005,crk,,plai1258,,C-P:1,,-(i)sw,,,,by heat,"heat, INSTRUMENT",final,TA,,CONCR,,,,,,,,,,,,,,,kîsisw-,,,V,TA,cook s.o.,,AA_ET_AL2019;0005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 57,Goddard,IG1990a,0455,crk,,plai1258,-ahkwan-,C-P:4,,,,,,heel,heel,initial,Dep,,,,,,,,,,,,,,,,,,,-ahkwan-e·ya·piy,N,Dep,,,IG1990a;0455,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Dependent noun stems form both dependent and nondependent initials. Stems with derived dependent initials are dependent nouns and are inflected accordingly."" IG just called it ""Cree"" but told us it was Plains.",,,MAM
 542,Cook & Muehlbauer,CC_JM2010,0039,crk,,plai1258,-tokan-,C-P:1,,,,,,hip,hip,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 543,Wolfart,HCW1973a,0067,crk,,plai1258,-tōkan-,C-P:2,,,,,,hip,"hip, DEPENDENT",medial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM,MAM
@@ -569,8 +569,8 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 933,Cook & Muehlbauer,CC_JM2010,0039,crk,,plai1258,tahto-,C-P:1,,,,,,so many,"many, QUANTITY, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 772,Cook & Muehlbauer,CC_JM2010,"0024,0025",crk,,plai1258,masin-,C-P:1,,,,,,mark,mark,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 977,Arppe et al.,AA_ET_AL2019,0004,crk,,plai1258,,C-P:1,,-asinah-,,,,"mark, write","mark, write",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/masin-/  + /-ah-/,,,,MAM
-51,Cook & Muehlbauer,CC_JM2010,0001,crk,,plai1258,-ah-,C-P:1,,,,,,"do by tool, external medium","medium (external), tool, INSTRUMENT, MANNER",final,TI,,CONCR,,,,,,,-ahw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-65,Cook & Muehlbauer,CC_JM2010,0001,crk,,plai1258,-ahw-,C-P:1,,,,,,"do by tool, external medium","medium (external), tool, INSTRUMENT, MANNER",final,TA,,CONCR,,,,,,,,-ah-,,,,,,,pawahw-,,,V,TA,brush him by tool,,HCW1973a;0063,pawāpiskahw-,,,V,TA,"brush him (pipe, stove) with or as metal or stone",,HCW1973a;0063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+51,Cook & Muehlbauer,CC_JM2010,0001,crk,,plai1258,-ah-,C-P:1,,,,,,"do by tool, external medium","medium (external), tool, INSTRUMENT",final,TI,,CONCR,,,,,,,-ahw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+65,Cook & Muehlbauer,CC_JM2010,0001,crk,,plai1258,-ahw-,C-P:1,,,,,,"do by tool, external medium","medium (external), tool, INSTRUMENT",final,TA,,CONCR,,,,,,,,-ah-,,,,,,,pawahw-,,,V,TA,brush him by tool,,HCW1973a;0063,pawāpiskahw-,,,V,TA,"brush him (pipe, stove) with or as metal or stone",,HCW1973a;0063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 613,Bakker,PB2006,0009,crk,,plai1258,âpisk-  ,C-P:1,,,,,,metal,"metal, CLASSIFIER",medial,CLASS,,,,,,,,,,,,,,,,,kask-âpisk-ah-,,,V,AI,"close with metal, lock with key",,PB2006;0009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,RMF,MAM
 124,Wolfart,HCW1969a,"0188,0190,0205,0206",crk,,plai1258,-āpisk-,C-P:2,,,,,,"stone, metal, or solid of similar consistency","metal, solid, stone, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,pīwāpiskw-,,,N,,piece of metal,,HCW1969a;0205,ospwākanāpiskw-,,,N,,pipestone,,HCW1969a;0205,mōkomānāpiskw-,,,N,,knife-blade,,HCW1969a;0206,wāpamonāpiskw-,,,N,,"glass, window",,HCW1969a;0206
 975,Arppe et al.,AA_ET_AL2019,0004,crk,,plai1258,,C-P:1,,-âpisk(w)-,,,,"stone, metal","metal, stone, CLASSIFIER",medial,CLASS,,,,,,,,,,,,,,,,,pîwâpiskw-,,,N,,piece of metal,,AA_ET_AL2019;0004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -589,9 +589,9 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 400,Wolfart,HCW1973a,0073,crk,,plai1258,-kātē-,C-P:2,,,,,,middle reflexive,"MIDDLE, REFLEXIVE",final,II,,,Y,TI,,,-kāso-,,,,-ikâtê-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 447,Wolfart,HCW1973a,0073,crk,,plai1258,-o-,C-P:2,,,,,,middle reflexive,"MIDDLE, REFLEXIVE",final,AI,,,B,,,,,-ē-,,,,,,,,,ācimo-,,,V,TA,"tell of, narrate",,HCW1973a;0073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-simo-,-ēyimo-,,,,,,,,,,GVM
 490,Wolfart,HCW1973a,"0069,0073",crk,,plai1258,-simo-,C-P:2,,,,,,middle reflexive,"MIDDLE, REFLEXIVE",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-o-,,,,,corresponds to -sim-,,,GVM,MAM
-223,Wolfart,HCW1973a,0074,crk,,plai1258,-ēyiht-,C-P:2,,,,,,action of the mind,"mind, MANNER",final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ēyi-,,,,,,,GVM
-226,Wolfart,HCW1973a,0074,crk,,plai1258,-ēyim-,C-P:2,,,,,,action of the mind,"mind, MANNER",final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ēyi-,,,,,,,GVM
-222,Cook & Muehlbauer,CC_JM2004,0005,crk,,plai1258,-êyiht,C-P:1,,,,,,by mind,"mind, MANNER",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+223,Wolfart,HCW1973a,0074,crk,,plai1258,-ēyiht-,C-P:2,,,,,,action of the mind,"mind, INSTRUMENT",final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ēyi-,,,,,,,GVM
+226,Wolfart,HCW1973a,0074,crk,,plai1258,-ēyim-,C-P:2,,,,,,action of the mind,"mind, INSTRUMENT",final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ēyi-,,,,,,,GVM
+222,Cook & Muehlbauer,CC_JM2004,0005,crk,,plai1258,-êyiht,C-P:1,,,,,,by mind,"mind, INSTRUMENT",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 119,Denny,JPD1978b,0303,crk,,plai1258,-āpisk-,C-P:3,,,,,,mineral,"mineral, CLASSIFIER",medial,CLASS,,,,,,,,,,,,,,,,,kīn-āpisk-ā-,,,II,,it [mineral] is pointed,,JPD1978b;0303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield"
 581,Denny,JPD1974,0338,crk,,plai1258,a·pisk,C-P:4,,,,,,mineral,"mineral, CLASSIFIER",medial
 876,Cook & Muehlbauer,CC_JM2010,0035,crk,,plai1258,pat-,C-P:1,,,,,,miss,miss,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -602,12 +602,12 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 212,Wolfart,HCW1973a,0064,crk,,plai1258,-ēskisin,C-P:2,,,,,,"moccasin, shoe","moccasin, shoe",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,maskisin,MAM: not entirely sure this is a final.,,,,MAM
 213,Wolfart,HCW1973a,0064,crk,,plai1258,-ēskisin,C-P:2,,,,,,"moccasin, shoe","moccasin, shoe",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,maskisin,,,,GVM,MAM
 512,Wolfart,HCW1971,518,crk,,plai1258,-sōniyāw-,C-P:2,,,,,,money,"money, INCORPORATED",medial,INCORP
-101,Cook & Muehlbauer,CC_JM2004,"0001,0003,0005,0006",crk,,plai1258,-amo,C-P:1,,,,,,by mouth,"mouth, MANNER",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-305,Cook & Muehlbauer,CC_JM2004,0006,crk,,plai1258,-im,C-P:1,,,,,,by mouth,"mouth, MANNER",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-251,Wolfart,HCW1973a,0074,crk,,plai1258,-ht-,C-P:2,,,,,,"do by mouth, by speech","mouth, speech, MANNER",final,TI,,,,,,,,,-m-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-m-,-t-,,,,,"MAM: HCW defines as ""by mouth, by speech (by thought)"" but C&M divide into two finals, which I think is right.",,,GVM
-4,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-(i)ht-,C-P:1,,,,,,"do by mouth, speech","mouth, speech, MANNER",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-411,Cook & Muehlbauer,CC_JM2010,0025,crk,,plai1258,-m-,C-P:1,,,,,,"do by speech; by mouth, by speech (by thought)","mouth, speech, MANNER",final,TA,,,,,,,,,,,,,,,,,ācim-,,,V,TA,tell of him,,HCW1973a;0065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""often paralleled by -ht-""; added ""do"" per C&M 2010",,,GVM
-419,Wolfart,HCW1969a,"0196,0224,0232",crk,,plai1258,-m-,C-P:2,,,,,,"by mouth, by speech (by thought)","mouth, speech, thought, MANNER",final,TA,,,B,,,,,,,,,,,,,,ācim-,,,V,TA,tell of him,,HCW1969a;0196
+101,Cook & Muehlbauer,CC_JM2004,"0001,0003,0005,0006",crk,,plai1258,-amo,C-P:1,,,,,,by mouth,"mouth, INSTRUMENT",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+305,Cook & Muehlbauer,CC_JM2004,0006,crk,,plai1258,-im,C-P:1,,,,,,by mouth,"mouth, INSTRUMENT",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+251,Wolfart,HCW1973a,0074,crk,,plai1258,-ht-,C-P:2,,,,,,"do by mouth, by speech","mouth, speech, INSTRUMENT",final,TI,,,,,,,,,-m-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-m-,-t-,,,,,"MAM: HCW defines as ""by mouth, by speech (by thought)"" but C&M divide into two finals, which I think is right.",,,GVM
+4,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-(i)ht-,C-P:1,,,,,,"do by mouth, speech","mouth, speech, INSTRUMENT",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+411,Cook & Muehlbauer,CC_JM2010,0025,crk,,plai1258,-m-,C-P:1,,,,,,"do by speech; by mouth, by speech (by thought)","mouth, speech, INSTRUMENT",final,TA,,,,,,,,,,,,,,,,,ācim-,,,V,TA,tell of him,,HCW1973a;0065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""often paralleled by -ht-""; added ""do"" per C&M 2010",,,GVM
+419,Wolfart,HCW1969a,"0196,0224,0232",crk,,plai1258,-m-,C-P:2,,,,,,"by mouth, by speech (by thought)","mouth, speech, thought, INSTRUMENT",final,TA,,,B,,,,,,,,,,,,,,ācim-,,,V,TA,tell of him,,HCW1969a;0196
 470,Wolfart,HCW1969a,0221,crk,,plai1258,-payiw-,C-P:2,,,,,,move,move,final
 462,Cook & Muehlbauer,CC_JM2010,0035,crk,,plai1258,-payi-,C-P:1,,,,,,"move, inchoative","move, INCHOATIVE",final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 464,Wolfart,HCW1973a,"0063,0071",crk,,plai1258,-payi-,C-P:2,,,,*-pali,,"move, inchoative","move, INCHOATIVE",final,II,,,,,,,-payi-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,inchoative' added from C&M 2010:35; PA forms from JB_SA2014:475,,,GVM
@@ -659,7 +659,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 644,Cook & Muehlbauer,CC_JM2010,0005,crk,,plai1258,ay-,C-P:1,,,,,,pronominal,PRONOMINAL,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 653,Cook & Muehlbauer,CC_JM2010,0012,crk,,plai1258,êwakw-,C-P:1,,,,,,resumptive pronominal root,PRONOMINAL,initial,,,,,,,,,,,,êyakw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 893,Cook & Muehlbauer,CC_JM2010,0036,crk,,plai1258,pîtot-,C-P:1,,,,,,do by pulling,pull,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-471,Cook & Muehlbauer,CC_JM2010,0035,crk,,plai1258,-pit-,C-P:1,,,,,,do by pulling,"pull, MANNER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: unusual definition for a medial,,,GVM
+471,Cook & Muehlbauer,CC_JM2010,0035,crk,,plai1258,-pit-,C-P:1,,,,,,do by pulling,"pull, INSTRUMENT",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: unusual definition for a medial,,,GVM
 909,Cook & Muehlbauer,CC_JM2010,0037,crk,,plai1258,sîhk-,C-P:1,,,,,,push,push,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 910,Wolfart,HCW1973a,0074,crk,,plai1258,sīhk-,C-P:2,,,,,,push,push,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 937,Cook & Muehlbauer,CC_JM2010,0039,crk,,plai1258,tân-,C-P:1,,,,,,question,question,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -685,14 +685,14 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 974,Arppe et al.,AA_ET_AL2019,0004,crk,,plai1258,,C-P:1,,-âpêk-,,,,rope,"rope, CLASSIFIER",medial,CLASS,,,,,,,,,,,,,,,,,itâpêkin-,,,V,TA,hold s.o. thus on a rope,,AA_ET_AL2019;0004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 629,Goddard,IG1980,0145,crk,,plai1258,at-,C-P:4,,,,*aθ-,*aθ-,rotten,rotten,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"IG just called it ""Cree"" but told us it was Plains.",,,MAM
 775,Cook & Muehlbauer,CC_JM2010,0026,crk,,plai1258,mêst-,C-P:1,,,,,,"run out, use up","run out, use up",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-458,Cook & Muehlbauer,CC_JM2010,0035,crk,,plai1258,-pa-,C-P:1,,,,,,do by running,"run, MANNER",prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""(Elicitation)""",,,GVM
+458,Cook & Muehlbauer,CC_JM2010,0035,crk,,plai1258,-pa-,C-P:1,,,,,,do by running,"run, INSTRUMENT",prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""(Elicitation)""",,,GVM
 377,Cook & Muehlbauer,CC_JM2010,0018,crk,,plai1258,-iwat,C-P:1,,,,,,sacred bundle,sacred bundle,medial,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 906,Cook & Muehlbauer,CC_JM2010,0037,crk,,plai1258,sêk-,C-P:1,,,,,,scare,scare,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 907,Wolfart,HCW1973a,0070,crk,,plai1258,sēk-,C-P:2,,,,,,scare,scare,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 111,Wolfart,HCW1971,512,crk,,plai1258,-āpam-,C-P:2,,,,,,see,see,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,wāpam- 'to see an animate goal'
 951,Cook & Muehlbauer,CC_JM2004,"0001,0002,0003,0007",crk,,plai1258,wâp-,C-P:1,,,,,,see,see,initial,,,,,,,,,,-am,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 438,Cook & Muehlbauer,CC_JM2010,0027,crk,,plai1258,-naw-,C-P:1,,,,,,"do by sight; see, by vision","see, sight, vision, INSTRUMENT",final,TA,,,,,,,,,,-n-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-432,Wolfart,HCW1973a,"0071,0074",crk,,plai1258,-n-,C-P:2,,,,,,"see, by vision","see, vision, MANNER",final,TI,,,,,,,,,-naw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+432,Wolfart,HCW1973a,"0071,0074",crk,,plai1258,-n-,C-P:2,,,,,,"see, by vision","see, vision, INSTRUMENT",final,TI,,,,,,,,,-naw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 829,Cook & Muehlbauer,CC_JM2010,0029,crk,,plai1258,nito-,C-P:1,,,,,,seek,seek,initial,,,,,,,,,,,,,,,,,,nitopayi-,,,V,AI,go on the war-path,,HCW1973a;0063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 637,Cook & Muehlbauer,CC_JM2010,0004,crk,,plai1258,atâw-,C-P:1,,,,,,"sell, trade","sell, trade",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 729,Bakker,PB2006,0009,crk,,plai1258,kîsk-,C-P:1,,,,,,severed; sever,"sever, severed",initial,,,,,,,,,,,,,,,,,,kîsk-isw-,,,V,TA,cut off,,PB2006;0009,kîsk-ikât-,,,V,TA,be cut off at the leg,,PB2006;0009,kîsk-ikw-ê-sw-,,,V,TA,cut off head,,PB2006;0009,,,,,,,,,,,,,,,,,,,,,,,,,medial glossed as 'leg.INC'; no final given in word; Plains Cree dictionary lists as TA,,,RMF,MAM
@@ -782,15 +782,15 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 751,Wolfart,HCW1973a,0071,crk,,plai1258,kwēsk-,C-P:2,,,,,,turn,turn,initial,,,,,,,,,,,,,,,,,,kwēskī-,,,V,AI,turn,,HCW1969a;0221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 753,Cook & Muehlbauer,CC_JM2010,0024,crk,,plai1258,kwêski-,C-P:1,,,,,,turn,turn,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 825,Denny,JPD1981,0006,crk,,plai1258,nīsw,C-P:3,,,,,,two,two,initial,,,,,,,,,,,,,,,,,,nīsw-āskw-ē-,,,TA,,he uses two solids (in game),,JPD1981;0006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield",,,MAM
-233,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-h-,C-P:1,,,,,,do by undefined means,"undefined means, MANNER",final,TA,,,,,,,,,,-h-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-234,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-h-,C-P:1,,,,,,do by undefined means,"undefined means, MANNER",final,TI,,,,,,,,,-h-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+233,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-h-,C-P:1,,,,,,do by undefined means,"undefined means, INSTRUMENT",final,TA,,,,,,,,,,-h-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+234,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-h-,C-P:1,,,,,,do by undefined means,"undefined means, INSTRUMENT",final,TI,,,,,,,,,-h-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 634,Goddard,IG1965,0211,crk,,plai1258,ata·m-,C-P:5,,,,*-aθa·m-,,underneath,underneath,initial
 941,Cook & Muehlbauer,CC_JM2004,0002,crk,,plai1258,têht-,C-P:1,,,,,,upon,upon,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 379,Wolvengray,AW2011,0294,crk,,plai1258,-iwi,C-P:3,,,,,,verbalizer,VERBALIZER,final,,,,Y,N
 18,Cook & Muehlbauer,CC_JM2010,0039,crk,,plai1258,-(i)tik,C-P:1,,,,,,vocative,vocative,medial,,,,,,,,,,,,-itik,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-449,Cook & Muehlbauer,CC_JM2010,0031,crk,,plai1258,-oht-,C-P:1,,,,,,by walking,"walk, MANNER",final,TI,,,,,,,,,-ohtaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-451,Cook & Muehlbauer,CC_JM2010,0031,crk,,plai1258,-ohtaw-,C-P:1,,,,,,by walking,"walk, MANNER",final,TA,,,,,,,,,,-oht-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-452,Cook & Muehlbauer,CC_JM2010,0031,crk,,plai1258,-ohtê,C-P:1,,,,,,by walking,"walk, MANNER",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+449,Cook & Muehlbauer,CC_JM2010,0031,crk,,plai1258,-oht-,C-P:1,,,,,,by walking,"walk, INSTRUMENT",final,TI,,,,,,,,,-ohtaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+451,Cook & Muehlbauer,CC_JM2010,0031,crk,,plai1258,-ohtaw-,C-P:1,,,,,,by walking,"walk, INSTRUMENT",final,TA,,,,,,,,,,-oht-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+452,Cook & Muehlbauer,CC_JM2010,0031,crk,,plai1258,-ohtê,C-P:1,,,,,,by walking,"walk, INSTRUMENT",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 738,Denny,JPD1978b,0308,crk,,plai1258,kīsōw-,C-P:3,,,,,,warm,warm,initial,,,,,,,,,,,,,,,,,,kīsōw-ā-,,,II,,it is warm,,JPD1978b;0308,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield"
 576,Cook & Muehlbauer,CC_JM2010,0007,crk,,plai1258,(â)kam-,C-P:1,,,,,,water,water,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 705,Wolfart,HCW1971,517,crk,,plai1258,kik-,C-P:2,,,,,,wear,wear,initial

@@ -10,7 +10,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 12,Aubin,GA1975b,0001,alg,,algo1256,*-a:hkwahki,PA:4,,,,,,NG,,final,unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.212,,,MAM
 13,Aubin,GA1975b,0002,alg,,algo1256,*-a:htekw,PA:4,,,,,,"stick, wood, tree","stick, tree, wood",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bl46.106,,,MAM
 14,Aubin,GA1975b,0002,alg,,algo1256,*-a:kan,PA:4,,,,,,undergoer,PATIENT,final,N,,,,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bl46.106; 'extended noun final added to TA stems to form undergoers',,,MAM
-16,Aubin,GA1975b,0003,alg,,algo1256,*-a:m,PA:4,,,,,,by speech,"speech, MANNER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ho57.261; ""by-form of medial""",,,MAM
+16,Aubin,GA1975b,0003,alg,,algo1256,*-a:m,PA:4,,,,,,by speech,"speech, INSTRUMENT",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ho57.261; ""by-form of medial""",,,MAM
 17,Aubin,GA1975b,0003,alg,,algo1256,*-a:meHk-,PA:4,,,,,,"earth, soil","earth, soil",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.213,,,MAM
 18,Aubin,GA1975b,0003,alg,,algo1256,*-a:meHkw-,PA:4,,,,,,"earth, soil","earth, soil",final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.213,,,MAM
 19,Aubin,GA1975b,0004,alg,,algo1256,*-a:nkw-,PA:4,,,,,,sibling-in-law of same sex,sibling-in-law (same sex),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.213,,,MAM
@@ -58,13 +58,13 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 88,Bloomfield,LB1946,"0105,0117",alg,,algo1256,*-aaxkw-,PA:1,,,,,,"wood, tree, solid",,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""in nouns it appears with zero final""",,,MAM
 89,Bloomfield,LB1946,"0105,0117",alg,,algo1256,*-aaxkw-,PA:2,,,,,,"wood, tree, solid","solid, tree, wood",final,N,,CONCR,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""concrete suffix ... a medial with noun final zero""",,,MAM
 90,Bloomfield,LB1946,0111,alg,,algo1256,*-ači,PA:1,,,,,,cold,cold,final,AI,,,,,,,*-atene,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-at,,,,MAM: no translation given but prefinal means 'cold' and this fits examples,,,MAM
-92,Bloomfield,LB1946,0114,alg,,algo1256,*-ah,PA:1,,,,,,"by tool, instrument, or medium","instrument, medium, tool, INSTRUMENT, MANNER",final,TI,,,,,,,,*-ahw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+92,Bloomfield,LB1946,0114,alg,,algo1256,*-ah,PA:1,,,,,,"by tool, instrument, or medium","instrument, medium, tool, INSTRUMENT",final,TI,,,,,,,,*-ahw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 94,Aubin,GA1975b,0007,alg,,algo1256,*-ahahw-,PA:4,,,,,,flood,flood,initial
 96,Bloomfield,LB1946,0112,alg,,algo1256,*-ahantoo,PA:1,,,,,,"track, trail","track (N), trail",final,TI,,,,,,,,*-ahanθ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-too,,,,,,,MAM
 97,Bloomfield,LB1946,0112,alg,,algo1256,*-ahanθ,PA:1,,,,,,"track, trail","track (N), trail",final,TA,,,,,,,,,*-ahantoo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-θ,,,,,,,MAM
 99,Bloomfield,LB1946,"0110,0117",alg,,algo1256,*-ahkamik-,PA:1,,,,,,"place, space","place, space",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"occurs before finals *-esi, *-at",,,MAM
 101,Goddard,IG1971,0144,alg,,algo1256,*-aht-,PA:6,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: These seem to be listed as components, but it's possible they're just groups of possible phonemes to discuss reflexes..."
-102,Bloomfield,LB1946,"0114,0119",alg,,algo1256,*-ahw,PA:1,,,,,,"by tool, instrument, or medium","instrument, medium, tool, INSTRUMENT, MANNER",final,TA,,,,,,,,,*-ah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+102,Bloomfield,LB1946,"0114,0119",alg,,algo1256,*-ahw,PA:1,,,,,,"by tool, instrument, or medium","instrument, medium, tool, INSTRUMENT",final,TA,,,,,,,,,*-ah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 104,Bloomfield,LB1946,0118,alg,,algo1256,*-ak,PA:1,,,,,,NG,,postmedial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, -epyeek-,-aapyeek-,-weeweek-,-ekonak-,,,,,,"frequent postmedial accretion, especially before AI -esi, II -at",,,MAM
 106,Bloomfield,LB1946,0112,alg,,algo1256,*-akim,PA:1,,,,,,NG,,final,TA,,,,,,,,,*-akint,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not defined but appears to mean 'count',,,MAM
 107,Bloomfield,LB1946,0112,alg,,algo1256,*-akint,PA:1,,,,,,NG,,final,TI,,,,,,,,*-akim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not defined but appears to mean 'count',,,MAM
@@ -72,7 +72,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 109,Bloomfield,LB1946,0117,alg,,algo1256,*-alakačkw-,PA:1,,,,,,palate,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 111,Goddard,IG1980,0147,alg,,algo1256,*-aLo·min-,PA:2,,,,,,grain,grain,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 112,Goddard,IG1980,0147,alg,,algo1256,*-aLo·min-,PA:2,,,,,,grain,grain,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-113,Bloomfield,LB1946,0113,alg,,algo1256,*-am,PA:1,,,,,,"by mouth, eat, bite","bite, eat, mouth, MANNER",final,TA,,,,,,,,,*-ant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+113,Bloomfield,LB1946,0113,alg,,algo1256,*-am,PA:1,,,,,,"by mouth, eat, bite","bite, eat, mouth, INSTRUMENT",final,TA,,,,,,,,,*-ant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 116,Goddard,IG1965,0212,alg,,algo1256,*-am-,PA:6,,,,,,suffer pain,suffer (pain),prefinal
 118,Bloomfield,LB1946,0115,alg,,algo1256,*-amaw,PA:1,,,,,,double-goal verb,DITRANSITIVE,final,TA,,,Y,TI,,,,,,,,,,wiintamaw-,,,V,TA,"name, tell",,LB1946;0115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 120,Aubin,GA1975b,0010,alg,,algo1256,*-ame:kw-,PA:4,,,,,,fish,fish,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sb67b.56
@@ -85,7 +85,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 128,Bloomfield,LB1946,0110,alg,,algo1256,*-ane,PA:1,,,,,,NG,,final,II,,,,,,*-eθe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 127,Bloomfield,LB1946,0110,alg,,algo1256,*-ane,PA:1,,,,,,NG,,final,II,,,,,,*-aθe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 131,Aubin,GA1975a,0191,alg,,algo1256,*-anet-,PA:2,,,,,,"god, spirit",,medial,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Surfaces word-finally as -anit in Narangasett, e.g. yotáanit 'the fire god,' squáuanit 'the womans god' [sic]"
-132,Bloomfield,LB1946,0113,alg,,algo1256,*-ant,PA:1,,,,,,"by mouth, eat, bite","bite, eat, mouth, MANNER",final,TI,,,,,,,,*-am,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+132,Bloomfield,LB1946,0113,alg,,algo1256,*-ant,PA:1,,,,,,"by mouth, eat, bite","bite, eat, mouth, INSTRUMENT",final,TI,,,,,,,,*-am,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 135,Goddard,IG1971,0144,alg,,algo1256,*-ant-,PA:6,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: These seem to be listed as components, but it's possible they're just groups of possible phonemes to discuss reflexes..."
 136,Goddard,IG1990a,0454,alg,,algo1256,*-anyikw-,PA:6,,,,,,squirrel,squirrel,final,N,,,,,,,,,,,,,,*pele·nyikw-,,*pele·-anyikw-,,N,flying squirrel,,IG1990a;0454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 137,Bloomfield,LB1946,"0103,0104",alg,,algo1256,*-api,PA:1,,,,,,sit,sit,final,AI,,,,,,,,,,,,,,*axpapi-,,,V,AI,sit upon,,GA1975b;0017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"*apiwa 'he is in place, he sits'",,,,MAM
@@ -130,14 +130,14 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 194,Aubin,GA1975b,0021,alg,,algo1256,*-e:wi,PA:4,,,,,,be,be,final,INTR,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,intr. verb final added to noun stems not ending in vowel plus w to make verbs of being'. B146.107
 197,Goddard,IG1965,0212,alg,,algo1256,*-e·lem,PA:6,,,,,,have an intense attittude toward,have (intense attitude),final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Not really clear if this is the actual definition, but they do seem to be a final pair"
 198,Goddard,IG1965,0212,alg,,algo1256,*-e·lent,PA:6,,,,,,have an intense attittude toward,have (intense attitude),final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Not really clear if this is the actual definition, but they do seem to be a final pair"
-199,Goddard,IG1990a,0469,alg,,algo1256,*-ečas-,PA:6,,,,,,action by heating or burning,"burn, heat, MANNER",final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+199,Goddard,IG1990a,0469,alg,,algo1256,*-ečas-,PA:6,,,,,,action by heating or burning,"burn, heat, INSTRUMENT",final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 200,LeSourd,PL2020_pc,n/a,alg,,algo1256,*-ečy-,PA:1,,,,,,excrement,excrement,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MM email conversation with Phil LeSourd 2020
 202,Bloomfield,LB1946,"0106,0114,0117",alg,,algo1256,*-ečyee-,PA:1,,,,,,"whole body, belly","belly, whole body, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 209,Bloomfield,LB1946,0109,alg,,algo1256,*-eelemo,PA:1,,,,,,think; middle reflexive,"think, MIDDLE, REFLEXIVE",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 212,Bloomfield,LB1946,0107,alg,,algo1256,*-eewi,PA:1,,,,,,verb of being,VERB OF BEING,final,II,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,added to noun stems not ending in V+w,,,MAM
 213,Bloomfield,LB1946,0107,alg,,algo1256,*-eewi,PA:1,,,,,,verb of being,VERB OF BEING,final,AI,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,added to noun stems not ending in V+w,,,MAM
-215,Bloomfield,LB1946,0115,alg,,algo1256,*-ehk,PA:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,TI,,,,,,*ehkawi,*ehkawi,*-ehkaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""probably dissimilative variant"" of *-ešk",,,MAM
-220,Bloomfield,LB1946,0115,alg,,algo1256,*-ehkaw,PA:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,TA,,,,,,*ehkawi,*ehkawi,,*-ehk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""probably dissimilative variant"" of *-eškaw",,,MAM
+215,Bloomfield,LB1946,0115,alg,,algo1256,*-ehk,PA:1,,,,,,by foot or body movement,"movement (body, foot), INSTRUMENT",final,TI,,,,,,*ehkawi,*ehkawi,*-ehkaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""probably dissimilative variant"" of *-ešk",,,MAM
+220,Bloomfield,LB1946,0115,alg,,algo1256,*-ehkaw,PA:1,,,,,,by foot or body movement,"movement (body, foot), INSTRUMENT",final,TA,,,,,,*ehkawi,*ehkawi,,*-ehk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""probably dissimilative variant"" of *-eškaw",,,MAM
 224,Bloomfield,LB1946,0108,alg,,algo1256,*-ehkee,PA:1,,,,,,"gather, produce",,final,AI,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 227,Aubin,GA1975a,0184,alg,,algo1256,*-ehs-,PA:2,,,,,,diminutive,DIMINUTIVE,final,N,,,Y
 228,Bloomfield,LB1946,0115,alg,,algo1256,*-eht,PA:1,,,,,,hear,hear,final,TI,,,,,,,,*-ehtaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -151,8 +151,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 242,Bloomfield,LB1946,0113,alg,,algo1256,*-em,PA:1,,,,,,NG,,final,TA,,,Y,N,,,,,,,,,,wekwiqsem-,,,V,TA,have or treat as a son,,LB1946;0113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,added to possessed noun themes,,,MAM
 243,Aubin,GA1975a,0187,alg,,algo1256,*-em-,PA:2,,,,,,denotes relationship,relationship,medial
 244,Costa,DJC2001,0258,alg,,algo1256,*-emi·nšy-,PA:6,,,,,,NG,,final,N
-245,Bloomfield,LB1946,"0093,0113,0118",alg,,algo1256,*-en,PA:1,,,,,,by hand,"hand, MANNER",final,TA,,,,,,,,,*-en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-246,Bloomfield,LB1946,"0113,0118",alg,,algo1256,*-en,PA:1,,,,,,by hand,"hand, MANNER",final,TI,,,,,,,,*-en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+245,Bloomfield,LB1946,"0093,0113,0118",alg,,algo1256,*-en,PA:1,,,,,,by hand,"hand, INSTRUMENT",final,TA,,,,,,,,,*-en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+246,Bloomfield,LB1946,"0113,0118",alg,,algo1256,*-en,PA:1,,,,,,by hand,"hand, INSTRUMENT",final,TI,,,,,,,,*-en,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 248,Denny,JPD1978b,0312,alg,,algo1256,*-en-,PA:7,,,,,,event,event,final,II
 249,Goddard,IG1990a,0459,alg,,algo1256,*-en-,PA:6,,,,,,NG,,final,II,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-i-ken-,,,,,,,,,,,MAM
 250,Goddard,IG1990a,0472,alg,,algo1256,*-en-,PA:6,,,,,,abstract noun,NOUN (ABSTRACT),final,N,,,Y,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -160,10 +160,10 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 253,Aubin,GA1975b,0024,alg,,algo1256,*-enkw,PA:4,,,,,,sleep,sleep,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, -enkwaqši,-enkwaame,,,,,,,,B146.104
 255,Aubin,GA1975b,0024,alg,,algo1256,*-enkwa:me,PA:4,,,,,,sleep,sleep,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-enkw-,,,,B146.104
 257,Bloomfield,LB1946,0104,alg,,algo1256,*-enkwaqši,PA:1,,,,,,sleep,sleep,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-enkw-,,,,,,,MAM
-259,Aubin,GA1975b,0024,alg,,algo1256,*-ens,PA:4,,,,,,by heat,"heat, MANNER",final,TI,,,,,,*-enso,*-ente:,*-ensw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,divergent form of TI final' B146.109
-260,Aubin,GA1975b,0024,alg,,algo1256,*-enso,PA:4,,,,,,by heat,"heat, MANNER",final,AI,,,,,,,*-ente:,*-ensw,*-ens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,divergent form of AI middle reflexive' B146.109
-261,Aubin,GA1975b,0024,alg,,algo1256,*-ensw,PA:4,,,,,,by heat,"heat, MANNER",final,TA,,,,,,*-enso,*-ente:,,*-ens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,divergent form of TA final' B146.109
-262,Aubin,GA1975b,0025,alg,,algo1256,*-ente:,PA:4,,,,,,by heat,"heat, MANNER",final,II,,,,,,*-enso,,*-ensw,*-ens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,divergent form of II middle reflexive' B146.109
+259,Aubin,GA1975b,0024,alg,,algo1256,*-ens,PA:4,,,,,,by heat,"heat, INSTRUMENT",final,TI,,,,,,*-enso,*-ente:,*-ensw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,divergent form of TI final' B146.109
+260,Aubin,GA1975b,0024,alg,,algo1256,*-enso,PA:4,,,,,,by heat,"heat, INSTRUMENT",final,AI,,,,,,,*-ente:,*-ensw,*-ens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,divergent form of AI middle reflexive' B146.109
+261,Aubin,GA1975b,0024,alg,,algo1256,*-ensw,PA:4,,,,,,by heat,"heat, INSTRUMENT",final,TA,,,,,,*-enso,*-ente:,,*-ens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,divergent form of TA final' B146.109
+262,Aubin,GA1975b,0025,alg,,algo1256,*-ente:,PA:4,,,,,,by heat,"heat, INSTRUMENT",final,II,,,,,,*-enso,,*-ensw,*-ens,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,divergent form of II middle reflexive' B146.109
 263,Bloomfield,LB1946,0118,alg,,algo1256,*-epy-,PA:1,,,,,,liquid,"liquid, water",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 264,Goddard,IG1965,0212,alg,,algo1256,*-epy-,PA:6,,,,,,liquid,liquid,final,N
 271,Bloomfield,LB1946,"0105,0107",alg,,algo1256,*-eqšip,PA:1,,,,,,duck,duck,final,N,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*šiiqšiipa 'duck',,,,MAM
@@ -177,12 +177,12 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 283,Bloomfield,LB1946,0110,alg,,algo1256,*-esi,PA:1,,,,,,NG,,final,AI,,,,,,,,,,,,,,*pemaatesi-,,,V,AI,live,,LB1946;0110,seekesi-,,,V,AI,be afraid,,LB1946;0110,,,,,,,,,,,,,,,,,,,,,,,,,,"stems ""without inan. pendant""",,,MAM
 286,Goddard,IG1990a,"0459,467",alg,,algo1256,*-esi-,PA:6,,,,,,NG,,final,AI,,ABSTR,,,,,*-at-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 285,Aubin,GA1975b,0025,alg,,algo1256,*-esi,PA:4,,,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.110
-287,Bloomfield,LB1946,0111,alg,,algo1256,*-ešk,PA:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",prefinal,,,,,,,,,,,*-ehk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, -eškaa,,,,,,,,,"*-ehk has ""apparently dissimilative distribution""; p. 115 gives *-ešk as a final",,,MAM
+287,Bloomfield,LB1946,0111,alg,,algo1256,*-ešk,PA:1,,,,,,by foot or body movement,"movement (body, foot), INSTRUMENT",prefinal,,,,,,,,,,,*-ehk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, -eškaa,,,,,,,,,"*-ehk has ""apparently dissimilative distribution""; p. 115 gives *-ešk as a final",,,MAM
 290,Aubin,GA1975b,0027,alg,,algo1256,*-ešk,PA:4,,,,,,movement of foot or body,,prefinal,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.111
 289,Aubin,GA1975b,0027,alg,,algo1256,*-ešk,PA:4,,,,,,movement of foot or body,,prefinal,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.111
-288,Bloomfield,LB1946,0115,alg,,algo1256,*-ešk,PA:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,TI,,,,,,,,*-eškaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,p. 111 gives this as a prefinal,,,MAM
-294,Bloomfield,LB1946,"0111,0115",alg,,algo1256,*-eškaa,PA:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,AI,,,,,,,*-eškaa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-ešk,,,,MAM: No translation given but prefinal means 'movement of foot or body' and this fits examples.,,,MAM
-293,Bloomfield,LB1946,"0111,0115",alg,,algo1256,*-eškaa,PA:1,,,,,,by foot or body movement,"movement (body, foot), MANNER",final,II,,,,,,*-eškaa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-ešk,,,,MAM: No translation given but prefinal means 'movement of foot or body' and this fits examples.,,,MAM
+288,Bloomfield,LB1946,0115,alg,,algo1256,*-ešk,PA:1,,,,,,by foot or body movement,"movement (body, foot), INSTRUMENT",final,TI,,,,,,,,*-eškaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,p. 111 gives this as a prefinal,,,MAM
+294,Bloomfield,LB1946,"0111,0115",alg,,algo1256,*-eškaa,PA:1,,,,,,by foot or body movement,"movement (body, foot), INSTRUMENT",final,AI,,,,,,,*-eškaa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-ešk,,,,MAM: No translation given but prefinal means 'movement of foot or body' and this fits examples.,,,MAM
+293,Bloomfield,LB1946,"0111,0115",alg,,algo1256,*-eškaa,PA:1,,,,,,by foot or body movement,"movement (body, foot), INSTRUMENT",final,II,,,,,,*-eškaa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-ešk,,,,MAM: No translation given but prefinal means 'movement of foot or body' and this fits examples.,,,MAM
 295,Bloomfield,LB1946,0115,alg,,algo1256,*-eškaw,PA:1,,,,,,by foot or body movement; movement of foot or body,,final,TA,,,,,,,,,*-ešk,,,,,tankeškaw-,,,V,TA,kick,,LB1946;0115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 297,Bloomfield,LB1946,0108,alg,,algo1256,*-eso,PA:1,,,,,,"by heat, middle reflexive","heat, INSTRUMENT, MIDDLE",final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 302,Bloomfield,LB1946,"0108,0114",alg,,algo1256,*-esw,PA:1,,,,,,by heat; action by heating or burning,,final,TA,,,,,,,,,*-es,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -293,7 +293,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 441,Bloomfield,LB1946,0107,alg,,algo1256,*-lenyiw,PA:1,,,,,,man,"male, man",final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*elenyiw- 'man',,,,MAM
 443,Aubin,GA1975b,0083,alg,,algo1256,*-leskwa,PA:4,,,,,,gland (tonsil),"gland, tonsil",final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ge41.305
 445,Bloomfield,LB1946,0109,alg,,algo1256,*-m,PA:1,,,,,,NG,,final,TA,,,,,,,,,*-nt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-446,Bloomfield,LB1946,0112,alg,,algo1256,*-m,PA:1,,,,,,"by speech, by thought","speech, thought, MANNER",final,TA,,,,,,,,,*-nt,,,,,kiihkaam-,,,V,TA,,,LB1946;0112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+446,Bloomfield,LB1946,0112,alg,,algo1256,*-m,PA:1,,,,,,"by speech, by thought","speech, thought, INSTRUMENT",final,TA,,,,,,,,,*-nt,,,,,kiihkaam-,,,V,TA,,,LB1946;0112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 447,Bloomfield,LB1946,0112,alg,,algo1256,*-m,PA:1,,,,,,NG,,final,TA,,,,,,,,,*-ot,,,,,aačim-,,,V,TA,tell of,,LB1946;0112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""peculiar""",,,MAM
 448,Bloomfield,LB1946,0113,alg,,algo1256,*-m,PA:1,,,,,,NG,,final,TA,,,Y,AI,,,,,,,,,,wiixpeem-,,,V,TA,sleep with,,LB1946;0113,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,added to AI stems with root wiit- 'along with',,,MAM
 449,Aubin,GA1975b,0084,alg,,algo1256,*-m,PA:4,,,,,,NG,,final,TA,,,,,,,,,,,,,,*nemesk-a-m-,,,V,TA,make an insulting gesture to someone's face.,,GA1975b;0101,*wi:xpe:m-,,,V,TA,sleep with,,GA1975b;0161,,,,,,,,,,,,,,,,,,,,,,,,,,B146.109; *nemesk-a-m- Ge41.306; *wi:xpe:m- B146.113
@@ -305,7 +305,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 461,Aubin,GA1975b,0094,alg,,algo1256,*-mo:tye:-,PA:4,,,,,,bag,bag,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sb67b.56
 462,Aubin,GA1975b,0095,alg,,algo1256,*-mya:-,PA:4,,,,,,smell,smell,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B125.139
 463,Bloomfield,LB1946,0106,alg,,algo1256,*-n,PA:1,,,,,,"actions, products, instruments","action, instrument, product",final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-464,Bloomfield,LB1946,0115,alg,,algo1256,*-n,PA:1,,,,,,"by sight, perception","perception, sight, MANNER",final,TI,,,,,,,,*-naw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+464,Bloomfield,LB1946,0115,alg,,algo1256,*-n,PA:1,,,,,,"by sight, perception","perception, sight, INSTRUMENT",final,TI,,,,,,,,*-naw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 467,Bloomfield,LB1946,0115,alg,,algo1256,*-naw,PA:1,,,,,,"by sight, perception; see",,final,TA,,,,,,,,,*-n,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 469,Aubin,GA1975b,0098,alg,,algo1256,*-naθ-,PA:4,,,,,,assail,assail,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B125.148
 470,Bloomfield,LB1946,0113,alg,,algo1256,*-nčim,PA:1,,,,,,NG,,final,TA,,,,,,,,,*-nčitoo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-nt,,,,,,,MAM
@@ -318,14 +318,14 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 477,Siebert,FS1941,0299,alg,,algo1256,*-neθki,PA:6,,,,,,hand,,final
 478,Aubin,GA1975b,0110,alg,,algo1256,*-neθki,PA:4,,,,,,hand,hand,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sb41.299
 479,Bloomfield,LB1946,0109,alg,,algo1256,*-nso,PA:1,,,,,,middle reflexive,"MIDDLE, REFLEXIVE",final,AI,,,,,,,*-ntee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-480,Aubin,GA1975b,0116,alg,,algo1256,*-nso,PA:4,,,,,,"by thought, by speech","speech, thought, MANNER",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,middle reflexive' B146.109
+480,Aubin,GA1975b,0116,alg,,algo1256,*-nso,PA:4,,,,,,"by thought, by speech","speech, thought, INSTRUMENT",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,middle reflexive' B146.109
 481,Bloomfield,LB1946,0109,alg,,algo1256,*-nt,PA:1,,,,,,NG,,final,TI,,,,,,,,*-m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 482,Bloomfield,LB1946,0111,alg,,algo1256,*-nt,PA:1,,,,,,in water,in (water),prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-nt-ne,*-nt-ee,,,,,,,,,,,MAM
-483,Bloomfield,LB1946,0112,alg,,algo1256,*-nt,PA:1,,,,,,"by speech, by thought","speech, thought, MANNER",final,TI,,,,,,,,*-m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+483,Bloomfield,LB1946,0112,alg,,algo1256,*-nt,PA:1,,,,,,"by speech, by thought","speech, thought, INSTRUMENT",final,TI,,,,,,,,*-m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 484,Bloomfield,LB1946,0113,alg,,algo1256,*-nt,PA:1,,,,,,NG,,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, *-nčim,*-nčitoo,,,,,,,,,,,MAM
 487,Bloomfield,LB1946,0111,alg,,algo1256,*-nt-ee,PA:1,,,,,,in water,in water,final,II,,,,,,*-nt-ne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-nt,,,,"""Prefinal -nt 'in water' is followed by an. -ne, inan -ee""",,,MAM
 488,Bloomfield,LB1946,0111,alg,,algo1256,*-nt-ne,PA:1,,,,,,in water,in water,final,AI,,,,,,,*-nt-ee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-nt,,,,"""Prefinal -nt 'in water' is followed by an. -ne, inan -ee""",,,MAM
-489,Aubin,GA1975b,0116,alg,,algo1256,*-nte:,PA:4,,,,,,"by thought, by speech","speech, thought, MANNER",final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,middle reflexive' B146.109
+489,Aubin,GA1975b,0116,alg,,algo1256,*-nte:,PA:4,,,,,,"by thought, by speech","speech, thought, INSTRUMENT",final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,middle reflexive' B146.109
 490,Bloomfield,LB1946,0109,alg,,algo1256,*-ntee,PA:1,,,,,,middle reflexive,"MIDDLE, REFLEXIVE",final,II,,,,,,*-nso,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 491,Goddard,IG1990a,0466,alg,,algo1256,*-ntep-,PA:6,,,,,,head,head,medial,,,,,,,,,,,*-a·ntep-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 492,Bloomfield,LB1946,0109,alg,,algo1256,*-o,PA:1,,,,,,middle reflexive,"MIDDLE, REFLEXIVE",final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -349,14 +349,14 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 512,Goddard,IG1980,0144,alg,,algo1256,*-piso,PA:2,,,,,,be tied,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 514,Bloomfield,LB1946,"0091,0109",alg,,algo1256,*-po,PA:1,,,,,,eat; middle reflexive,"eat, MIDDLE, REFLEXIVE",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,p. 91 defines as 'eat'; p. 109 says middle reflexive,,,MAM
 515,Aubin,GA1975b,0134,alg,,algo1256,*-po,PA:4,,,,,,eat,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.91
-516,Bloomfield,LB1946,0114,alg,,algo1256,*-pot,PA:1,,,,,,by mouth,"mouth, MANNER",final,TI,,,,,,,,*-pw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Somewhat different and far less common [than *-ešw/*-eš]""",,,MAM
+516,Bloomfield,LB1946,0114,alg,,algo1256,*-pot,PA:1,,,,,,by mouth,"mouth, INSTRUMENT",final,TI,,,,,,,,*-pw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Somewhat different and far less common [than *-ešw/*-eš]""",,,MAM
 518,Aubin,GA1975b,0134,alg,,algo1256,*-pote:-,PA:4,,,,,,affected by rapid handling (inan),handle,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B125.148
-519,Bloomfield,LB1946,0114,alg,,algo1256,*-pw,PA:1,,,,,,by mouth,"mouth, MANNER",final,TA,,,,,,,,,*-pot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Somewhat different and far less common [than *-ešw/*-eš]""",,,MAM
+519,Bloomfield,LB1946,0114,alg,,algo1256,*-pw,PA:1,,,,,,by mouth,"mouth, INSTRUMENT",final,TA,,,,,,,,,*-pot,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Somewhat different and far less common [than *-ešw/*-eš]""",,,MAM
 521,Aubin,GA1975b,0136,alg,,algo1256,*-Qpani,PA:4,,,,,,vulva,vulva,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ha58.244
 522,Bloomfield,LB1946,0106,alg,,algo1256,*-qs,PA:1,,,,,,diminutive,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 523,Bloomfield,LB1946,0114,alg,,algo1256,*-qt,PA:1,,,,,,action relative to an object,TRANSITIVE,final,TI,,,Y,AI,,,,*-qtaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 524,Bloomfield,LB1946,0114,alg,,algo1256,*-qtaw,PA:1,,,,,,action relative to an object,TRANSITIVE,final,TA,,,Y,AI,,,,,*-qt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-525,Bloomfield,LB1946,0114,alg,,algo1256,*-s,PA:1,,,,,,by heat,"heat, MANNER",final,TI,,,,,,,,*-sw,,,,,,wens-,,,V,TI,bring to boiling,,LB1946;0114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of *-es?,,,MAM
+525,Bloomfield,LB1946,0114,alg,,algo1256,*-s,PA:1,,,,,,by heat,"heat, INSTRUMENT",final,TI,,,,,,,,*-sw,,,,,,wens-,,,V,TI,bring to boiling,,LB1946;0114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of *-es?,,,MAM
 526,Goddard,IG1979a,0092,alg,,algo1256,*-s,PA:6,,,,,,diminutive,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""The diminutive ending appears to have been originally *-hs, or perhaps *-s.""",,,MAM
 527,Aubin,GA1975a,0187,alg,,algo1256,*-šihθa,PA:2,,,,,,cross uncle,cross uncle,medial
 528,Bloomfield,LB1946,0119,alg,,algo1256,*-sit,PA:1,,,,,,foot,foot,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""medial appears as a noun final""",,,MAM
@@ -368,7 +368,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 537,Aubin,GA1975b,0142,alg,,algo1256,*-šky-,PA:4,,,,,,"hair, leaf, foliage","foliage, hair, leaf",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ha58.246
 538,Bloomfield,LB1946,0109,alg,,algo1256,*-so,PA:1,,,,,,middle reflexive,"MIDDLE, REFLEXIVE",final,AI,,,,,,,*-tee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 541,Bloomfield,LB1946,0117,alg,,algo1256,*-štikwaan-,PA:1,,,,,,head,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-542,Bloomfield,LB1946,0114,alg,,algo1256,*-sw,PA:1,,,,,,by heat,"heat, MANNER",final,TA,,,,,,,,,*-s,,,,,wensw-,,,V,TA,bring to boiling,,LB1946;0114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of *-esw?,,,MAM
+542,Bloomfield,LB1946,0114,alg,,algo1256,*-sw,PA:1,,,,,,by heat,"heat, INSTRUMENT",final,TA,,,,,,,,,*-s,,,,,wensw-,,,V,TA,bring to boiling,,LB1946;0114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of *-esw?,,,MAM
 543,Bloomfield,LB1946,"0109,0112",alg,,algo1256,*-t,PA:1,,,,,,NG,,final,TI,,,,,,,,*-θ,,,,,,piintwikee-,,,,,,,LB1946;0112,miikaat-,,,,,fight,,LB1946;0112,nooçkwaat-,,,,,,,LB1946;0112,,,,,,,,,,,,,,,,,,,,,MAM
 544,Bloomfield,LB1946,0112,alg,,algo1256,*-t,PA:1,,,,,,NG,,final,TI,,,B,AI,,,,*-θ,,,,,,*miikaat-,,,V,TI,fight,,LB1946;0112,*nooçkwaat-,,,V,TI,lick,,LB1946;0112,*et-,,,V,TI,say so to,,LB1946;0112,,,,,,,,,,,,,,,,,,"""Transitive verb finals or instrumentals go in pairs""; ""in secondary use it is added to an. intr. stems in -ee; this vowel is replaced in some words by aa, in others by a""; *eθ- and *et- ""another odd pair"".",,,MAM
 545,Goddard,IG1965,0217,alg,,algo1256,*-ta·hpixkani,PA:6,,,,,,"jaw, chin","chin, jaw",final
@@ -932,14 +932,14 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1164,Hewson,JH_nd-b,0121,alg,,algo1256,*eškwete:,PA:4,,,,,,fire
 1165,Hewson,JH_nd-a,0054,alg,,algo1256,*eškwete·-,PA:6,,,,,,"match, fire","fire, match",initial
 1166,Aubin,GA1975b,0025,alg,,algo1256,*eskwi-,PA:4,,,,,,"aside, apart, differently","apart, aside, differently",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ge41.309
-1167,Hewson,JH_nd-b,0104,alg,,algo1256,*eso,PA:4,,,,,,by heat,"heat, MANNER",final,AI,,,,,,,*ete:,*esw,*es
+1167,Hewson,JH_nd-b,0104,alg,,algo1256,*eso,PA:4,,,,,,by heat,"heat, INSTRUMENT",final,AI,,,,,,,*ete:,*esw,*es
 1168,Hewson,JH_nd-b,0111,alg,,algo1256,*eso,PA:4,,,,,,reflexive,REFLEXIVE,final,AI,,,Y
 1170,Bloomfield,LB1946,0120,alg,,algo1256,*ešp-,PA:1,,,,,,high,high,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 1172,Hewson,JH_nd-a,0054,alg,,algo1256,*ešp(aw)-,PA:6,,,,,,high,high,initial
-1173,Hewson,JH_nd-b,0104,alg,,algo1256,*esw,PA:4,,,,,,by heat,"heat, MANNER",final,TA,,,,,,*eso,*ete:,,*es
+1173,Hewson,JH_nd-b,0104,alg,,algo1256,*esw,PA:4,,,,,,by heat,"heat, INSTRUMENT",final,TA,,,,,,*eso,*ete:,,*es
 1174,Hewson,JH_nd-b,0115,alg,,algo1256,*ešw,PA:4,,,,,,by cutting edge,"cutting edge, INSTRUMENT",final,TA,,,,,,,,,*eš
 1175,Aubin,GA1975b,0027,alg,,algo1256,*et-,PA:4,,,,,,"thus, so","in that way, so, thither, thus, to there, RELATIVE",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.112
-1176,Hewson,JH_nd-b,0104,alg,,algo1256,*ete:,PA:4,,,,,,by heat,"heat, MANNER",final,II,,,,,,*eso,,*esw,*es
+1176,Hewson,JH_nd-b,0104,alg,,algo1256,*ete:,PA:4,,,,,,by heat,"heat, INSTRUMENT",final,II,,,,,,*eso,,*esw,*es
 1177,Hewson,JH_nd-b,0121,alg,,algo1256,*ete:,PA:4,,,,,,reflexive,REFLEXIVE,final,II,,,Y
 1178,Hewson,JH_nd-b,0122,alg,,algo1256,*eton(e:),PA:4,,,,,,mouth
 1179,Hewson,JH_nd-b,0123,alg,,algo1256,*etwi,PA:4,,,,,,reciprocal,RECIPROCAL,final,AI,,,Y
@@ -1331,7 +1331,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1604,Hewson,JH_nd-a,0123,alg,,algo1256,*lo·ten-,PA:6,,,,,,wind,wind,initial
 1605,Hewson,JH_nd-a,0123,alg,,algo1256,*lo·w-,PA:6,,,,,,wind,wind,initial
 1606,Hewson,JH_nd-a,0124,alg,,algo1256,*lo·xk(aw)-,PA:6,,,,,,soft,soft,initial
-1607,Hewson,JH_nd-b,0184,alg,,algo1256,*m,PA:6,,,,,,by speech; accompany; move; by mouth,"accompany, mouth, move, speech, MANNER",final,TA
+1607,Hewson,JH_nd-b,0184,alg,,algo1256,*m,PA:6,,,,,,by speech; accompany; move; by mouth,"accompany, mouth, move, speech, INSTRUMENT",final,TA
 1608,Hewson,JH_nd-b,0186,alg,,algo1256,*ma:čy,PA:6,,,,,,move,move,initial
 1609,Aubin,GA1975b,0084,alg,,algo1256,*ma:t-,PA:4,,,,,,move,move,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120
 1610,Hewson,JH_nd-a,0125,alg,,algo1256,*ma·čy-,PA:6,,,,,,move,move,initial
@@ -1505,8 +1505,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1798,Hewson,JH_nd-b,0190,alg,,algo1256,*myaw,PA:6,,,,,,smell
 1799,Aubin,GA1975b,0095,alg,,algo1256,*mye:wi-,PA:4,,,,,,road,road,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ha58.251
 1800,Hewson,JH_nd-a,0173,alg,,algo1256,*mye·θkanaw-,PA:6,,,,,,"path, road","path, road",initial
-1801,Hewson,JH_nd-b,0190,alg,,algo1256,*n,PA:6,,,,,,by hand,"hand, MANNER",final,TA,,,,,,,,,*n
-1802,Hewson,JH_nd-b,0190,alg,,algo1256,*n,PA:6,,,,,,by hand,"hand, MANNER",final,TI,,,,,,,,*n
+1801,Hewson,JH_nd-b,0190,alg,,algo1256,*n,PA:6,,,,,,by hand,"hand, INSTRUMENT",final,TA,,,,,,,,,*n
+1802,Hewson,JH_nd-b,0190,alg,,algo1256,*n,PA:6,,,,,,by hand,"hand, INSTRUMENT",final,TI,,,,,,,,*n
 1805,Aubin,GA1975b,0096,alg,,algo1256,*na:-,PA:4,,,,,,fetch,fetch,initial,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(TA)' B146.122
 1806,Hewson,JH_nd-b,0193,alg,,algo1256,*na:kw,PA:6,,,,,,"appear, look, be seen",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*naw,*ekw
 1807,Hewson,JH_nd-b,0193,alg,,algo1256,*na:pe,PA:6,,,,,,"initial, man, person"
@@ -1618,7 +1618,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1917,Hewson,JH_nd-b,0196,alg,,algo1256,*nke:,PA:6,,,,,,indefinite object,INDEFINITE OBJECT,final,AI,,,Y,TA,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Very unsure about this one
 1918,Hewson,JH_nd-b,0197,alg,,algo1256,*nkwa:m,PA:6,,,,,,sleep
 1919,Hewson,JH_nd-b,0197,alg,,algo1256,*nkwaʔši,PA:6,,,,,,sleep
-1920,Hewson,JH_nd-b,0197,alg,,algo1256,*no,PA:6,,,,,,"middle reflexive, by hand","hand, MANNER, MIDDLE, REFLEXIVE",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*en,*o
+1920,Hewson,JH_nd-b,0197,alg,,algo1256,*no,PA:6,,,,,,"middle reflexive, by hand","hand, INSTRUMENT, MIDDLE, REFLEXIVE",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*en,*o
 1921,Aubin,GA1975b,0115,alg,,algo1256,*no:čp-,PA:4,,,,,,"follow, pursue","follow, pursue",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B125.148
 1922,Aubin,GA1975b,0115,alg,,algo1256,*no:n-,PA:4,,,,,,suckle,suckle,initial,,,,,,,,,,,,,,,*no:ne-,,,V,AI,suck,,GA1975b;0115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S160.236; *no:ne- B125.146
 1923,Hewson,JH_nd-a,0196,alg,,algo1256,*no·çkwawi-,PA:6,,,,,,lick,lick,initial
@@ -1901,7 +1901,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 2222,Hewson,JH_nd-a,0260,alg,,algo1256,*so·p-,PA:6,,,,,,"lick, suck","lick, suck",initial
 2223,Hewson,JH_nd-a,0266,alg,,algo1256,*šo·šk(w)-,PA:6,,,,,,"smooth, stretched",,initial
 2224,Hewson,JH_nd-b,0226,alg,,algo1256,*štikwa:n(e:),PA:6,,,,,,head
-2225,Hewson,JH_nd-b,0224,alg,,algo1256,*sw,PA:6,,,,,,by heat,"heat, MANNER",final,TA
+2225,Hewson,JH_nd-b,0224,alg,,algo1256,*sw,PA:6,,,,,,by heat,"heat, INSTRUMENT",final,TA
 2226,Hewson,JH_nd-b,0227,alg,,algo1256,*šw,PA:6,,,,,,by cutting edge,"cutting edge, INSTRUMENT",final,TA
 2227,Hewson,JH_nd-a,0267,alg,,algo1256,*šye·kw-,PA:6,,,,,,"dull, blunt","blunt, dull",initial
 2228,Hewson,JH_nd-b,0224,alg,,algo1256,*šyi:kane:,PA:6,,,,,,rump

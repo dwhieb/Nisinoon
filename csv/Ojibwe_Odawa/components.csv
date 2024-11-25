@@ -2,7 +2,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 486,Rhodes,RR1976,"0236,0244,0245",ojg,,ojib1241,bim-,OJ:6,,/bim/,,,,along,along,initial
 242,Rhodes,RR1976,"0232,0238,0245,0251",ojg,,ojib1241,-ose:,OJ:6,,/ose/,,,,walk,,final
 516,Rhodes,RR1976,0227,ojg,,ojib1241,dakw-,OJ:6,,/dakw/,,,,"be siezed, grasp","grasp, siezed",initial
-992,Rhodes,RR1980,0183,ojg,,ojib1241,,OJ:9,,/amd/,,,,with mouth,"mouth, MANNER",final
+992,Rhodes,RR1980,0183,ojg,,ojib1241,,OJ:9,,/amd/,,,,with mouth,"mouth, INSTRUMENT",final
 498,Rhodes,RR2015,"0202,0203",ojg,,ojib1241,bookw-,OJ:3,,/bōkw/,,,,"break, broken","break, broken",initial
 23,Rhodes,RR1976,"0213,0262",ojg,,ojib1241,-(i)nike:-,OJ:6,,/nike/,,,,arm,arm,medial
 993,Rhodes,RR1980,0183,ojg,,ojib1241,,OJ:9,,/sǐn/,,,,fall,fall,final
@@ -45,16 +45,16 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 116,Rhodes,RR1976,"0233,0261,0284",ojg,,ojib1241,-bibo:n-,OJ:6,,,,,,winter,winter,medial
 117,Rhodes,RR1976,0245,ojg,,ojib1241,-bide:,OJ:6,,,,,,"fly, speed","fly (V), speed (V))",final,INTR
 118,Rhodes,RR1976,0218,ojg,,ojib1241,-bido:-,OJ:6,,,,,,cause,CAUSATIVE,final,TI
-119,Rhodes,RR1976,0219,ojg,,ojib1241,-bido:-,OJ:6,,,,,,cause using force/using the hand,"force, hand, CAUSATIVE, MANNER",final,TI
+119,Rhodes,RR1976,0219,ojg,,ojib1241,-bido:-,OJ:6,,,,,,cause using force/using the hand,"force, hand, CAUSATIVE, INSTRUMENT",final,TI
 12,Rhodes,RR1976,"0213,0214,0251",ojg,,ojib1241,-(i)gwa-,OJ:6,,,,,,sew,,final
 120,Valentine 2002,RV2002,0117,ojg,Wikwemikong,ojib1241,-bikwan-,OJ:3,,,,,,back,back,medial
 121,Rhodes,RR1976,0218,ojg,,ojib1241,-bin-,OJ:6,,,,,,cause,CAUSATIVE,final,TA
-122,Rhodes,RR1976,0219,ojg,,ojib1241,-bin-,OJ:6,,,,,,cause using force/using the hand,"force, hand, CAUSATIVE, MANNER",final,TA
+122,Rhodes,RR1976,0219,ojg,,ojib1241,-bin-,OJ:6,,,,,,cause using force/using the hand,"force, hand, CAUSATIVE, INSTRUMENT",final,TA
 123,Mathieu,EM2007,0007,ojg,,ojib1241,-bizo,OJ:3,,,,,,"voler, conduire, tomber/plonger dans l'eau, trembler, secouer, frissonner","dive, drive, fall, fly (V), shake, shiver, tremble",final,AI
 124,Rhodes,RR1976,0245,ojg,,ojib1241,-bizo,OJ:6,,,,,,"fly, speed","fly (V), speed (V))",final,INTR
-125,Rhodes,RR1976,0219,ojg,,ojib1241,-bo:do-,OJ:6,,,,,,cause using a sawing motion,"motion (sawing), CAUSATIVE, MANNER",final,TI
+125,Rhodes,RR1976,0219,ojg,,ojib1241,-bo:do-,OJ:6,,,,,,cause using a sawing motion,"motion (sawing), CAUSATIVE, INSTRUMENT",final,TI
 126,Rhodes,RR1976,0245,ojg,,ojib1241,-bo:do-,OJ:6,,,,,,plow,plow,final,TRANS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.245 ""(idiom from: cause by sawing motion)"""
-127,Rhodes,RR1976,0219,ojg,,ojib1241,-bo:n-,OJ:6,,,,,,cause using a sawing motion,"motion (sawing), CAUSATIVE, MANNER",final,TA
+127,Rhodes,RR1976,0219,ojg,,ojib1241,-bo:n-,OJ:6,,,,,,cause using a sawing motion,"motion (sawing), CAUSATIVE, INSTRUMENT",final,TA
 128,Rhodes,RR1976,0245,ojg,,ojib1241,-bo:n-,OJ:6,,,,,,plow,plow,final,TRANS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.245 ""(idiom from: cause by sawing motion)"""
 130,Rhodes,RR1976,"0137,0138,0213,0214",ojg,,ojib1241,-d,OJ:6,,,,,,NG,,final,TRANS
 131,Rhodes,RR2015,0198,ojg,,ojib1241,-d-,OJ:3,,,,,,NG,,final,TI,,ABSTR
@@ -76,7 +76,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 146,Rhodes,RR1976,"0121,0126,0138,0142",ojg,,ojib1241,-e:-,OJ:6,,,,,,NG,,medial
 147,Rhodes,RR1976,"0262,0277,0279",ojg,,ojib1241,-e:g-,OJ:6,,,,,,"sheet, cloth, paper",,medial,CLASS
 148,Rhodes,RR1976,0240,ojg,,ojib1241,-e:ndi,OJ:6,,,,,,be away,away,final
-149,Rhodes,RR2015,0198,ojg,,ojib1241,-enim-,OJ:3,,,,,,act with mind,"mind, MANNER",final,,,CONCR
+149,Rhodes,RR2015,0198,ojg,,ojib1241,-enim-,OJ:3,,,,,,act with mind,"mind, INSTRUMENT",final,,,CONCR
 15,Rhodes,RR1976,0236,ojg,,ojib1241,-(i)jiw,OJ:6,,,,,,flow,,final
 151,Valentine 2002,RV2002,0086,ojg,Odawa,ojib1241,-gaakigan-,OJ:3,,,,,,back,back,medial
 152,Rhodes,RR1976,"0219,0221",ojg,,ojib1241,-gah-,OJ:6,,,,,,cause using an axe/instrument,,final
@@ -122,12 +122,12 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 190,Rhodes,RR1976,"0219,0222",ojg,,ojib1241,-iz-,OJ:6,,,,,,cause using heat,,final
 191,Rhodes,RR2015,0202,ojg,,ojib1241,-iz-,OJ:3,,,,,,use heat,use (heat),final,,,CONCR
 192,Rhodes,RR1976,"0219,0221",ojg,,ojib1241,-iž-,OJ:6,,,,,,cause using a cutting edge,,final
-193,Rhodes,RR1976,0219,ojg,,ojib1241,-izam-,OJ:6,,,,,,cause using heat,"heat, CAUSATIVE, MANNER",final,TI
+193,Rhodes,RR1976,0219,ojg,,ojib1241,-izam-,OJ:6,,,,,,cause using heat,"heat, CAUSATIVE, INSTRUMENT",final,TI
 194,Rhodes,RR1976,0219,ojg,,ojib1241,-ižam-,OJ:6,,,,,,cause using a cutting edge,"cutting edge, CAUSATIVE, INSTRUMENT",final,TI
 195,Rhodes,RR2015,"0202,0203",ojg,,ojib1241,-izh-,OJ:3,,,,,,use cutting edge,use (cutting edge),final,,,CONCR
 196,Rhodes,RR1976,"0137,0219,0277,0292",ojg,,ojib1241,-izi,OJ:6,,,,,,NG,,final,INTR
 197,Rhodes,RR2015,0196,ojg,,ojib1241,-izi-,OJ:3,,,,,,NG,,final,AI,,ABSTR
-198,Rhodes,RR1976,0219,ojg,,ojib1241,-izw-,OJ:6,,,,,,cause using heat,"heat, CAUSATIVE, MANNER",final,TA
+198,Rhodes,RR1976,0219,ojg,,ojib1241,-izw-,OJ:6,,,,,,cause using heat,"heat, CAUSATIVE, INSTRUMENT",final,TA
 199,Rhodes,RR1976,0219,ojg,,ojib1241,-ižw-,OJ:6,,,,,,cause using a cutting edge,"cutting edge, CAUSATIVE, INSTRUMENT",final,TA
 2,Rhodes,RR1976,"0213,0279",ojg,,ojib1241,-(i)bi-,OJ:6,,,,,,causative,,final
 20,Rhodes,RR1976,"0260,0262,0263,0274",ojg,,ojib1241,-(i)na:gan-,OJ:6,,,,,,dish,dish,medial
@@ -140,19 +140,19 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 206,Mathieu,EM2007,0011,ojg,,ojib1241,-kaa,OJ:3,,,,,,grande quantité de quelque chose,QUANTITY,final
 207,Mathieu,EM2007,0011,ojg,,ojib1241,-kaazoo,OJ:3,,,,,,"feindre, faire semblant","feign, pretend",final
 208,Rhodes,RR1976,0219,ojg,,ojib1241,-kam-,OJ:6,,,,,,cause (in the body),"body, CAUSATIVE",final,TI
-209,Rhodes,RR1976,0219,ojg,,ojib1241,-kam-,OJ:6,,,,,,cause using body,"body, CAUSATIVE, MANNER",final,TI
+209,Rhodes,RR1976,0219,ojg,,ojib1241,-kam-,OJ:6,,,,,,cause using body,"body, CAUSATIVE, INSTRUMENT",final,TI
 210,Rhodes,RR1976,0219,ojg,,ojib1241,-kaw-,OJ:6,,,,,,cause (in the body),"body, CAUSATIVE",final,TA
-211,Rhodes,RR1976,0219,ojg,,ojib1241,-kaw-,OJ:6,,,,,,cause using body,"body, CAUSATIVE, MANNER",final,TA
+211,Rhodes,RR1976,0219,ojg,,ojib1241,-kaw-,OJ:6,,,,,,cause using body,"body, CAUSATIVE, INSTRUMENT",final,TA
 212,Rhodes,RR1976,0245,ojg,,ojib1241,-kawe:,OJ:6,,,,,,make tracks,track (N),final,INTR
 213,Mathieu,EM2007,"0007,0016",ojg,,ojib1241,-ke,OJ:3,,,,,,"faire, ramasser, attraper, chasser, travailler avec","catch, hunt, make, pick up, work with",final,INTR
 214,Denny,JPD1978b,0295,ojg,,ojib1241,-kkot-,OJ:5,,,,,,cutting,cut,final,II,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 215,Rhodes,RR1976,"0219,0220",ojg,,ojib1241,-ko-,OJ:6,,,,,,cause using a cutting action,,final
-216,Rhodes,RR1976,0219,ojg,,ojib1241,-kodam-,OJ:6,,,,,,cause using a cutting action,"action (cutting), CAUSATIVE, MANNER",final,TI
-217,Rhodes,RR1976,0219,ojg,,ojib1241,-kon-,OJ:6,,,,,,cause using a cutting action,"action (cutting), CAUSATIVE, MANNER",final,TA
+216,Rhodes,RR1976,0219,ojg,,ojib1241,-kodam-,OJ:6,,,,,,cause using a cutting action,"action (cutting), CAUSATIVE, INSTRUMENT",final,TI
+217,Rhodes,RR1976,0219,ojg,,ojib1241,-kon-,OJ:6,,,,,,cause using a cutting action,"action (cutting), CAUSATIVE, INSTRUMENT",final,TA
 218,Denny,JPD1978b,"0298,0305,0310",ojg,,ojib1241,-konak-,OJ:5,,,,,,day,day,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 219,Rhodes,RR1976,0119,ojg,,ojib1241,-m-,OJ:6,,,,,,smell
 22,Rhodes,RR1976,"0225,0269",ojg,,ojib1241,-(i)nik-,OJ:6,,,,,,arm,arm,medial
-220,Rhodes,RR1976,0219,ojg,,ojib1241,-m-,OJ:6,,,,,,cause using speech,"speech, CAUSATIVE, MANNER",final,TA
+220,Rhodes,RR1976,0219,ojg,,ojib1241,-m-,OJ:6,,,,,,cause using speech,"speech, CAUSATIVE, INSTRUMENT",final,TA
 221,Denny,JPD1978b,0310,ojg,,ojib1241,-mak-,OJ:5,,,,,,NG,,final,II,,ABSTR,Y,,,,,,,,,,ikkitō-mak-at,,,V,II,it says,,JPD1978a;0310,,,,,,,,,,,,,,,,,,,,HTL
 222,Rhodes,RR1976,0264,ojg,,ojib1241,-makizin-,OJ:6,,,,,,shoe,shoe,medial
 223,Rhodes,RR1976,"0264,0265,0266",ojg,,ojib1241,-maškikiw-,OJ:6,,,,,,medicine,medicine,medial
@@ -163,7 +163,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 228,Rhodes,RR1976,0119,ojg,,ojib1241,-n-,OJ:6,,,,,,resemble
 229,Rhodes,RR2015,"0196,0198,0199",ojg,,ojib1241,-N-,OJ:3,,,,,,NG,,final,TA,,ABSTR
 230,Rhodes,RR1976,0245,ojg,,ojib1241,-na:škaw-,OJ:6,,,,,,chase,chase,final,TRANS
-231,Rhodes,RR1976,0219,ojg,,ojib1241,-ndam-,OJ:6,,,,,,cause using speech,"speech, CAUSATIVE, MANNER",final,TI
+231,Rhodes,RR1976,0219,ojg,,ojib1241,-ndam-,OJ:6,,,,,,cause using speech,"speech, CAUSATIVE, INSTRUMENT",final,TI
 233,Valentine 2002,RV2002,0098,ojg,,ojib1241,-nik-,OJ:3,,,,,,arm,arm,medial
 234,Valentine 2002,RV2002,0114,ojg,Rhodes 1985 (Eastern and Odawa),ojib1241,-ningwiihigan-,OJ:3,,,,,,wing,wing,medial
 235,Rhodes,RR1976,0017,ojg,,ojib1241,-ns,OJ:6,,,,,,diminutive,,final,,,,Y
@@ -193,9 +193,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 26,Rhodes,RR1976,0219,ojg,,ojib1241,-(i)s-,OJ:6,,,,,,cause,,final
 260,Rhodes,RR1976,0128,ojg,,ojib1241,-ška:,OJ:6,,,,,,reflexive,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p. 128: ""means that the state being caused comes baout independent of contact with an external agent or instrument"""
 261,Rhodes,RR1976,0223,ojg,,ojib1241,-ška:,OJ:6,,,,,,be/come to be (in/with the body),"be, become",final
-262,Rhodes,RR1976,0219,ojg,,ojib1241,-skam-,OJ:6,,,,,,cause using foot/body,"body, foot, CAUSATIVE, MANNER",final,TI
+262,Rhodes,RR1976,0219,ojg,,ojib1241,-skam-,OJ:6,,,,,,cause using foot/body,"body, foot, CAUSATIVE, INSTRUMENT",final,TI
 263,Rhodes,RR1976,0219,ojg,,ojib1241,-škam-,OJ:6,,,,,,cause (in the body),"body, CAUSATIVE",final,TI
-264,Rhodes,RR1976,0219,ojg,,ojib1241,-skaw-,OJ:6,,,,,,cause using foot/body,"body, foot, CAUSATIVE, MANNER",final,TA
+264,Rhodes,RR1976,0219,ojg,,ojib1241,-skaw-,OJ:6,,,,,,cause using foot/body,"body, foot, CAUSATIVE, INSTRUMENT",final,TA
 265,Rhodes,RR1976,0219,ojg,,ojib1241,-škaw-,OJ:6,,,,,,cause (in the body),"body, CAUSATIVE",final,TA
 266,Rhodes,RR1976,0119,ojg,,ojib1241,-t-,OJ:6,,,,,,hear
 267,Rhodes,RR1976,0218,ojg,,ojib1241,-to:-,OJ:6,,,,,,cause,CAUSATIVE,final,TI
@@ -267,7 +267,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 328,Rhodes,RR1980,0185,ojg,,ojib1241,ahaN,OJ:9,,,,,,follow,follow,final,TA,,,,,,,,ahadō,,,,,,,,,,,,,,,,,,,,,,,,,aha-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 329,Rhodes,RR1980,0185,ojg,,ojib1241,aho,OJ:9,,,,,,by instrument,INSTRUMENT,final,AI,,,,,,awa,aw,,,,,,,,,,,,,,,,,,,,,,,,,,ah-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 33,Rhodes,RR1976,"0138,0141,0142,0182",ojg,,ojib1241,-∅,OJ:6,,,,,,NG,,final,INTR,,,Y
-330,Rhodes,RR1980,0190,ojg,,ojib1241,āk,OJ:9,,,,,,with fire,"fire, MANNER",prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,ākizw,ākizam
+330,Rhodes,RR1980,0190,ojg,,ojib1241,āk,OJ:9,,,,,,with fire,"fire, INSTRUMENT",prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,ākizw,ākizam
 331,Denny,JPD1978b,"0296,0311",ojg,,ojib1241,akācc,OJ:5,,,,,,small,small,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 332,Denny,JPD1978b,0296,ojg,,ojib1241,akāccatē,OJ:5,,,,,,narrow,narrow,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 333,Denny,JPD1977,0138,ojg,,ojib1241,akāccitē,OJ:5,,,,,,narrow,narrow,initial
@@ -276,9 +276,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 336,Denny,JPD1978a,0301,ojg,,ojib1241,ākami,OJ:5,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'water'
 337,Denny,JPD1981,0007,ojg,,ojib1241,akint,OJ:5,,,,,,count,count,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 338,Rhodes,RR1980,0190,ojg,,ojib1241,ākiz-,OJ:9,,,,,,with fire,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,ākizw,ākizam,,,,āk
-339,Rhodes,RR1980,0190,ojg,,ojib1241,ākizam,OJ:9,,,,,,with fire,"fire, MANNER",final,TI,,,,,,,ākizw,,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,āk
+339,Rhodes,RR1980,0190,ojg,,ojib1241,ākizam,OJ:9,,,,,,with fire,"fire, INSTRUMENT",final,TI,,,,,,,ākizw,,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,āk
 34,Rhodes,RR1976,0231,ojg,,ojib1241,-∅,OJ:6,,,,,,cause by heat,"heat, CAUSATIVE",final
-340,Rhodes,RR1980,0190,ojg,,ojib1241,ākizw,OJ:9,,,,,,with fire,"fire, MANNER",final,TA,,,,,,,,ākizam,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,āk
+340,Rhodes,RR1980,0190,ojg,,ojib1241,ākizw,OJ:9,,,,,,with fire,"fire, INSTRUMENT",final,TA,,,,,,,,ākizam,,,,,,,,,,,,,,,,,,,,,,,,,ākiz-,āk
 341,Denny,JPD1978b,0297,ojg,,ojib1241,akkacik,OJ:5,,,,,,shady,shady,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 342,Denny,JPD1981,0003,ojg,,ojib1241,akkamik,OJ:5,,,,,,ground,,medial ,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 343,Denny,JPD1977,0126,ojg,,ojib1241,akkamik,OJ:5,,,,,,stretch of,stretch (N),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: see p. 133
@@ -306,13 +306,13 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 363,Denny,JPD1977,0135,ojg,,ojib1241,akwīnt,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'immerse' or related
 364,Denny,JPD1978a,0297,ojg,,ojib1241,akwīnt,OJ:5,,,,,,immersed,immersed,initial
 365,Denny,JPD1977,0126,ojg,,ojib1241,akwīt,OJ:5,,,,,,NG,,initial
-366,Rhodes,RR1980,0184,ojg,,ojib1241,am,OJ:9,,,,,,by mouth,"mouth, MANNER",final,TA,,,,,,,,andam,,,,,,,,,,,,,,,,,,,,,,,,,am-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+366,Rhodes,RR1980,0184,ojg,,ojib1241,am,OJ:9,,,,,,by mouth,"mouth, INSTRUMENT",final,TA,,,,,,,,andam,,,,,,,,,,,,,,,,,,,,,,,,,am-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 367,Rhodes,RR2015,"0196,0197",ojg,,ojib1241,am-,OJ:3,,,,,,eat,eat,initial
 368,Denny,JPD1978a,0299,ojg,,ojib1241,amo,OJ:5,,,,,,make it's way,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 369,Rhodes,RR1976,0281,ojg,,ojib1241,ana:m-,OJ:6,,,,,,under,under,initial
 37,Denny,JPD1978b,0294-0322,ojg,,ojib1241,-ā-,OJ:5,,,,,,spatial,spatial,final,II,,ABSTR,,,,,,,,,,,akkw-ā,,,V,II,it is so far/so long,,JPD1978a;0295,,,,,,,,,,,,,,,,,,,,HTL
 370,Denny,JPD1978a,0298,ojg,,ojib1241,anakk,OJ:5,,,,,,tree,tree,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-371,Rhodes,RR1980,0184,ojg,,ojib1241,andam,OJ:9,,,,,,by mouth,"mouth, MANNER",final,TI,,,,,,,am,,,,,,,,,,,,,,,,,,,,,,,,,,am-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+371,Rhodes,RR1980,0184,ojg,,ojib1241,andam,OJ:9,,,,,,by mouth,"mouth, INSTRUMENT",final,TI,,,,,,,am,,,,,,,,,,,,,,,,,,,,,,,,,,am-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 372,Rhodes,RR1980,0186,ojg,,ojib1241,anem-,OJ:9,,,,,,in the mouth,in mouth,final,TA,,CONCR,,,,,,anemdam,,,,,,,,,,,,,,,,,,,,,anem,anemdam,,,anem-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 373,Rhodes,RR1980,0186,ojg,,ojib1241,anemdam,OJ:9,,,,,,in the mouth,in mouth,final,TI,,,,,,,anem,,,,,,,,,,,,,,,,,,,,,,,,,,anem-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 374,Denny,JPD1978a,0303,ojg,,ojib1241,anikāw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'sad'
@@ -375,7 +375,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 426,Denny,JPD1978a,0298,ojg,,ojib1241,āšk,OJ:5,,,,,,wave movement,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 427,Denny,JPD1978a,0310,ojg,,ojib1241,aškwā,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'after'
 428,Rhodes,RR1976,0233,ojg,,ojib1241,aškwa:-,OJ:6,,,,,,finish,finish,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.233: ""(rare as initial, used to mean 'after')"""
-429,Rhodes,RR1980,0190,ojg,,ojib1241,āso,OJ:9,,,,,,by the heat of the sun,"heat (of sun), MANNER",final,AI,,,,,,āte,,,,,,,,,,,,,,,,,,,,,,,,,,,ās-
+429,Rhodes,RR1980,0190,ojg,,ojib1241,āso,OJ:9,,,,,,by the heat of the sun,"heat (of sun), INSTRUMENT",final,AI,,,,,,āte,,,,,,,,,,,,,,,,,,,,,,,,,,,ās-
 43,Rhodes,RR1976,0230,ojg,,ojib1241,-a:h-,OJ:6,,,,,,cause by sun,"sun, CAUSATIVE",final
 430,Rhodes,RR1976,"0169,0219",ojg,,ojib1241,ašp-,OJ:6,,,,,,high,high,initial
 431,Denny,JPD1977,0135,ojg,,ojib1241,āss,OJ:5,,,,,,to be blown,blown,final,unknown,,CONCR
@@ -388,7 +388,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 438,Denny,JPD1978a,0299,ojg,,ojib1241,at,OJ:5,,,,,,freeze,,final,unknown,,CONCR
 439,Denny,JPD1978a,0299,ojg,,ojib1241,āt,OJ:5,,,,,,done to,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 44,Rhodes,RR1976,"0219,0222",ojg,,ojib1241,-a:kiz-,OJ:6,,,,,,cause using fire,,final
-440,Rhodes,RR1980,0190,ojg,,ojib1241,āte,OJ:9,,,,,,by the heat of the sun,"heat (of sun), MANNER",final,II,,,,,āso,,,,,,,,,,,,,,,,,,,,,,,,,,,,ās-
+440,Rhodes,RR1980,0190,ojg,,ojib1241,āte,OJ:9,,,,,,by the heat of the sun,"heat (of sun), INSTRUMENT",final,II,,,,,āso,,,,,,,,,,,,,,,,,,,,,,,,,,,,ās-
 441,Denny,JPD1978b,0298,ojg,,ojib1241,atin,OJ:5,,,,,,hill,hill,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 442,Denny,JPD1977,0134,ojg,,ojib1241,att,OJ:5,,,,,,be somewhere,somewhere,final,unknown,,CONCR
 443,Denny,JPD1977,0134,ojg,,ojib1241,att,OJ:5,,,,,,be somewhere,somewhere,initial
@@ -398,7 +398,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 447,Denny,JPD1978b,"0299,0311",ojg,,ojib1241,ātt,OJ:5,,,,,,heated by sun,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 448,Denny,JPD1977,0135,ojg,,ojib1241,ātt,OJ:5,,,,,,sun's heat,heat (sun),final,unknown,,CONCR
 449,Denny,JPD1978a,0295,ojg,,ojib1241,ātt,OJ:5,,,,,,solar/lunar energy,,final,unknown,,CONCR
-45,Rhodes,RR1976,0219,ojg,,ojib1241,-a:kizam-,OJ:6,,,,,,cause using fire,"fire, CAUSATIVE, MANNER",final,TI
+45,Rhodes,RR1976,0219,ojg,,ojib1241,-a:kizam-,OJ:6,,,,,,cause using fire,"fire, CAUSATIVE, INSTRUMENT",final,TI
 450,Denny,JPD1977,0134,ojg,,ojib1241,āttawā,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: maybe 'right side up' or related meaning?
 451,Denny,JPD1978b,0304,ojg,,ojib1241,āttawā-,OJ:5,,,,,,right side up,right (side),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 452,Rhodes,RR1980,"0185,0191",ojg,,ojib1241,aw,OJ:9,,,,,,by instrument,INSTRUMENT,final,TA,,,,,aho,awa,,aham,,,,,,,,,,,,,,,,,,,,,,,,,ah-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
@@ -409,7 +409,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 457,Rhodes,RR1976,0242,ojg,,ojib1241,ba:pi,OJ:6,,,,,,laugh,laugh,initial
 458,Rhodes,RR1976,0227,ojg,,ojib1241,ba:s-,OJ:6,,,,,,be broken/cracked,"broken, cracked",initial
 459,Rhodes,RR1976,0227,ojg,,ojib1241,ba:šk-,OJ:6,,,,,,be burst,burst,initial
-46,Rhodes,RR1976,0219,ojg,,ojib1241,-a:kizw-,OJ:6,,,,,,cause using fire,"fire, CAUSATIVE, MANNER",final,TA
+46,Rhodes,RR1976,0219,ojg,,ojib1241,-a:kizw-,OJ:6,,,,,,cause using fire,"fire, CAUSATIVE, INSTRUMENT",final,TA
 460,Rhodes,RR1976,0227,ojg,,ojib1241,ba:zagw-,OJ:6,,,,,,be scratched,scratch,initial
 461,Rhodes,RR1976,"0232,0245",ojg,,ojib1241,baba:m-,OJ:6,,,,,,around,around,initial
 462,Rhodes,RR1976,0282,ojg,,ojib1241,badagw-,OJ:6,,,,,,covered,covered,initial
@@ -484,11 +484,11 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 526,Rhodes,RR1976,0289,ojg,,ojib1241,e:n(im),OJ:6,,,,,,think/use the mind,"mind (N), think",final
 527,Barrie & Mathieu,MB_EM2012,0136,ojg,,ojib1241,ee,OJ:3,,,,,,NG,,final,AI
 528,Denny,JPD1981,0005,ojg,,ojib1241,ēk,OJ:5,,,,,,sheetlike,,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /īk/,,,HTL,
-529,Rhodes,RR1980,0184,ojg,,ojib1241,endāgozi,OJ:9,,,,,,by thought,"thought, MANNER",final,AI,,,,,,endāgwad,enim,endam,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+529,Rhodes,RR1980,0184,ojg,,ojib1241,endāgozi,OJ:9,,,,,,by thought,"thought, INSTRUMENT",final,AI,,,,,,endāgwad,enim,endam,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 53,Rhodes,RR1976,0245,ojg,,ojib1241,-a:ši,OJ:6,,,,,,"be blown (by the wind), sail","be blown, sail (V)",final,INTR
-530,Rhodes,RR1980,0184,ojg,,ojib1241,endāgwad,OJ:9,,,,,,by thought,"thought, MANNER",final,II,,,,,endāgozi,,enim,endam,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-531,Rhodes,RR1980,0184,ojg,,ojib1241,endam,OJ:9,,,,,,by thought,"thought, MANNER",final,TI,,,,,endāgozi,endāgwad,enim,,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-532,Rhodes,RR1980,0184,ojg,,ojib1241,enim,OJ:9,,,,,,by thought,"thought, MANNER",final,TA,,,,,endāgozi,endāgwad,,endam,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+530,Rhodes,RR1980,0184,ojg,,ojib1241,endāgwad,OJ:9,,,,,,by thought,"thought, INSTRUMENT",final,II,,,,,endāgozi,,enim,endam,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+531,Rhodes,RR1980,0184,ojg,,ojib1241,endam,OJ:9,,,,,,by thought,"thought, INSTRUMENT",final,TI,,,,,endāgozi,endāgwad,enim,,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+532,Rhodes,RR1980,0184,ojg,,ojib1241,enim,OJ:9,,,,,,by thought,"thought, INSTRUMENT",final,TA,,,,,endāgozi,endāgwad,,endam,,,,,,,,,,,,,,,,,,,,,,,,,enim-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 533,Rhodes,RR1980,0184,ojg,,ojib1241,enim-,OJ:9,,,,,,by smell,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,enim,endam,endāgozi,endāgwad,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 534,Denny,JPD1978b,"0298,0303",ojg,,ojib1241,ēntākw,OJ:5,,,,,,thought to be,,final,unknown,,CONCR,,,,,,,ēntāko,,,,anikāw-ēntāko-t,,,V,II,it seemed sad,,JPD1978a;0303,,,,,,,,,,,,,,,,,,,,HTL
 535,Rhodes,RR1976,0227,ojg,,ojib1241,ga:nd-,OJ:6,,,,,,be met,meet,initial
@@ -534,7 +534,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 572,Denny,JPD1981,0006,ojg,,ojib1241,ī,OJ:5,,,,,,NG,,final,INTR,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,post glide allomorph of /ē/,,,HTL
 573,Barrie & Mathieu,MB_EM2012,0137,ojg,,ojib1241,i-,OJ:3,,,,,,NG,,final,AI,,,Y,N
 574,Rhodes,RR1980,0184,ojg,,ojib1241,id,OJ:9,,,,,,NG,,final,,,ABSTR
-575,Rhodes,RR1980,0185,ojg,,ojib1241,ide,OJ:9,,,,,,by heat,"heat, MANNER",final,II,,,,,izo,,izw,izam,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+575,Rhodes,RR1980,0185,ojg,,ojib1241,ide,OJ:9,,,,,,by heat,"heat, INSTRUMENT",final,II,,,,,izo,,izw,izam,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 576,Denny,JPD1981,0005,ojg,,ojib1241,ih,OJ:5,,,,,,causing,CAUSATIVE,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 577,Rhodes,RR1980,0185,ojg,,ojib1241,ih,OJ:9,,,,,,cause,CAUSATIVE,final,TA,,,,,,,,itō,,,,,,,,,,,,,,,,,,,,,,,,,ǐh-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 578,Rhodes,RR1980,0185,ojg,,ojib1241,ǐh-,OJ:9,,,,,,cause,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,ih,itō,,,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
@@ -556,11 +556,11 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 592,Rhodes,RR1980,0185,ojg,,ojib1241,ikoN,OJ:9,,,,,,cut,cut,final,TA,,,,,,,,ikodam,,,,,,,,,,,,,,,,,,,,,,,,,iko-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 593,Rhodes,RR1980,0184,ojg,,ojib1241,ǐm,OJ:9,,,,,,NG,,final,,,ABSTR
 594,Rhodes,RR1980,0184,ojg,,ojib1241,ǐm,OJ:9,,,,,,speak,,final,,,CONCR
-595,Rhodes,RR1980,"0184,0186",ojg,,ojib1241,ǐm-,OJ:9,,,,,,by speech,"speech, MANNER",final,TA,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,im,odam,indam,imo,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-596,Rhodes,RR1980,0184,ojg,,ojib1241,imo,OJ:9,,,,,,(agent) by speech,"speech, MANNER",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,im-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+595,Rhodes,RR1980,"0184,0186",ojg,,ojib1241,ǐm-,OJ:9,,,,,,by speech,"speech, INSTRUMENT",final,TA,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,im,odam,indam,imo,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+596,Rhodes,RR1980,0184,ojg,,ojib1241,imo,OJ:9,,,,,,(agent) by speech,"speech, INSTRUMENT",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,im-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 597,Denny,JPD1981,0006,ojg,,ojib1241,in,OJ:5,,,,,,thither,"in that way, so, thither, thus, to there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,
 598,Rhodes,RR1980,0184,ojg,,ojib1241,in,OJ:9,,,,,,NG,,final,II,,ABSTR
-599,Rhodes,RR1980,0184,ojg,,ojib1241,in,OJ:9,,,,,,by hand,"hand, MANNER",final,TA,,ABSTR,,,,,,inam,,,,,,,,,,,,,,,,,,,,,in,inam,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+599,Rhodes,RR1980,0184,ojg,,ojib1241,in,OJ:9,,,,,,by hand,"hand, INSTRUMENT",final,TA,,ABSTR,,,,,,inam,,,,,,,,,,,,,,,,,,,,,in,inam,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 6,Rhodes,RR1976,0266,ojg,,ojib1241,-(i)bimide:(w)-,OJ:6,,,,,,oil,oil,medial
 60,Mathieu,EM2007,0014,ojg,,ojib1241,-aashi,OJ:3,,,,,,NG,,final
 600,Denny,JPD1977,0129,ojg,,ojib1241,in,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"VMN: likely means 'thus', may be a relative root"
@@ -570,25 +570,25 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 604,Rhodes,RR1976,"0214,0217,0248,0257",ojg,,ojib1241,in-,OJ:6,,,,,,"to, like","like, to",initial
 606,Rhodes,RR1980,0185,ojg,,ojib1241,ina-,OJ:9,,,,,,pursue/kill,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,inaN,inadam,,,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 607,Rhodes,RR1980,0185,ojg,,ojib1241,inadam,OJ:9,,,,,,pursue/kill,"kill, pursue",final,TI,,,,,,,inaN,,,,,,,,,,,,,,,,,,,,,,,,,,ina-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-608,Rhodes,RR1980,0184,ojg,,ojib1241,ināgozi,OJ:9,,,,,,by sight,"sight, MANNER",final,AI,,,,,,ināgwad,inaw,inam,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-609,Rhodes,RR1980,0184,ojg,,ojib1241,ināgwad,OJ:9,,,,,,by sight,"sight, MANNER",final,II,,,,,ināgozi,,inaw,,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+608,Rhodes,RR1980,0184,ojg,,ojib1241,ināgozi,OJ:9,,,,,,by sight,"sight, INSTRUMENT",final,AI,,,,,,ināgwad,inaw,inam,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+609,Rhodes,RR1980,0184,ojg,,ojib1241,ināgwad,OJ:9,,,,,,by sight,"sight, INSTRUMENT",final,II,,,,,ināgozi,,inaw,,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 61,Valentine 2002,RV2002,0114,ojg,"Manitoulin, Rhodes 1985",ojib1241,-aawigan-,OJ:3,,,,,,back,back,medial
 610,Denny,JPD1978b,0296,ojg,,ojib1241,inakkotē,OJ:5,,,,,,so wide,"wide, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-611,Rhodes,RR1980,"0184,0187",ojg,,ojib1241,inam,OJ:9,,,,,,by sight,"sight, MANNER",final,TI,,,,,ināgozi,ināgwad,inaw,inam,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-612,Rhodes,RR1980,0184,ojg,,ojib1241,inam,OJ:9,,,,,,by hand,"hand, MANNER",final,TI,,,,,,,in,,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+611,Rhodes,RR1980,"0184,0187",ojg,,ojib1241,inam,OJ:9,,,,,,by sight,"sight, INSTRUMENT",final,TI,,,,,ināgozi,ināgwad,inaw,inam,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+612,Rhodes,RR1980,0184,ojg,,ojib1241,inam,OJ:9,,,,,,by hand,"hand, INSTRUMENT",final,TI,,,,,,,in,,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 613,Rhodes,RR1980,0185,ojg,,ojib1241,inaN,OJ:9,,,,,,pursue/kill,"kill, pursue",final,TA,,,,,,,,inadam,,,,,,,,,,,,,,,,,,,,,,,,,ina-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-614,Rhodes,RR1980,0184,ojg,,ojib1241,inaw,OJ:9,,,,,,by sight,"sight, MANNER",final,TA,,,,,ināgozi,ināgwad,,inam,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-615,Rhodes,RR1980,0184,ojg,,ojib1241,indam,OJ:9,,,,,,by speech,"speech, MANNER",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,im-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+614,Rhodes,RR1980,0184,ojg,,ojib1241,inaw,OJ:9,,,,,,by sight,"sight, INSTRUMENT",final,TA,,,,,ināgozi,ināgwad,,inam,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+615,Rhodes,RR1980,0184,ojg,,ojib1241,indam,OJ:9,,,,,,by speech,"speech, INSTRUMENT",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,im-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 616,Denny,JPD1981,0005,ojg,,ojib1241,inim,OJ:5,,,,,,goes away,go away,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 617,Denny,JPD1981,0006,ojg,,ojib1241,ininc,OJ:5,,,,,,hand,,medial ,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 618,Denny,JPD1978b,0298,ojg,,ojib1241,īntam,OJ:5,,,,,,depths of water,depth (water),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 619,Denny,JPD1981,0006,ojg,,ojib1241,ip,OJ:5,,,,,,water,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /ipy/,,,HTL
 62,Rhodes,RR1976,0284,ojg,,ojib1241,-abino:ji:nh-,OJ:6,,,,,,child,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Seems to be analyzed as an initial (or medial?) here, though OPD lists it only as a final"
 620,Denny,JPD1981,0006,ojg,,ojib1241,ipīk,OJ:5,,,,,,water,,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-621,Rhodes,RR1980,0184,ojg,,ojib1241,ipodam,OJ:9,,,,,,by taste,"taste, MANNER",final,TI,,,,,ipogozi,ipogwad,ipw,,,,,,,,,,,,,,,,,,,,,,,,,,ipw-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-622,Rhodes,RR1980,0184,ojg,,ojib1241,ipogozi,OJ:9,,,,,,by taste,"taste, MANNER",final,AI,,,,,,ipogwad,ipw,ipodam,,,,,,,,,,,,,,,,,,,,,,,,,ipw-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-623,Rhodes,RR1980,0184,ojg,,ojib1241,ipogwad,OJ:9,,,,,,by taste,"taste, MANNER",final,II,,,,,ipogozi,,ipw,ipodam,,,,,,,,,,,,,,,,,,,,,,,,,ipw-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-624,Rhodes,RR1980,0184,ojg,,ojib1241,ipw,OJ:9,,,,,,by taste,"taste, MANNER",final,TA,,,,,ipogozi,ipogwad,,ipodam,,,,,,,,,,,,,,,,,,,,,,,,,ipw-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+621,Rhodes,RR1980,0184,ojg,,ojib1241,ipodam,OJ:9,,,,,,by taste,"taste, INSTRUMENT",final,TI,,,,,ipogozi,ipogwad,ipw,,,,,,,,,,,,,,,,,,,,,,,,,,ipw-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+622,Rhodes,RR1980,0184,ojg,,ojib1241,ipogozi,OJ:9,,,,,,by taste,"taste, INSTRUMENT",final,AI,,,,,,ipogwad,ipw,ipodam,,,,,,,,,,,,,,,,,,,,,,,,,ipw-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+623,Rhodes,RR1980,0184,ojg,,ojib1241,ipogwad,OJ:9,,,,,,by taste,"taste, INSTRUMENT",final,II,,,,,ipogozi,,ipw,ipodam,,,,,,,,,,,,,,,,,,,,,,,,,ipw-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+624,Rhodes,RR1980,0184,ojg,,ojib1241,ipw,OJ:9,,,,,,by taste,"taste, INSTRUMENT",final,TA,,,,,ipogozi,ipogwad,,ipodam,,,,,,,,,,,,,,,,,,,,,,,,,ipw-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 625,Rhodes,RR1980,0184,ojg,,ojib1241,ipw-,OJ:9,,,,,,by taste,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,ipw,ipodam,ipogozi,ipogwad,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 626,Denny,JPD1981,0006,ojg,,ojib1241,ipy,OJ:5,,,,,,water,,medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 628,Valentine 2002,RV2002,0098,ojg,,ojib1241,ishp-,OJ:3,,,,,,high,high,initial
@@ -596,10 +596,10 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 63,Denny,JPD1978b,0316,ojg,,ojib1241,-āciwan,OJ:5,,,,,,stream,stream,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 630,Denny,JPD1978b,0297,ojg,,ojib1241,išiwēp,OJ:5,,,,,,be such weather < happens so,"happen, weather, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 631,Rhodes,RR1980,"0184,0186,0196,0197",ojg,,ojib1241,išk-,OJ:9,,,,,,by foot/body,,final,,,CONCR,,,,,,,ik-,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,iškaw,iškam,iškā,iškā,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-632,Rhodes,RR1980,"0184,0186",ojg,,ojib1241,iškā,OJ:9,,,,,,by foot/body,"body, foot, MANNER",final,AI,,,,,,iškā,iškaw,iškam,ikā,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-633,Rhodes,RR1980,"0184,0196",ojg,,ojib1241,iškā,OJ:9,,,,,,by foot/body,"body, foot, MANNER",final,II,,,,,iškā,,iškaw,iškam,ikā,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-634,Rhodes,RR1980,"0184,0186",ojg,,ojib1241,iškam,OJ:9,,,,,,by foot/body,"body, foot, MANNER",final,TI,,,,,iškā,iškā,iškaw,,ikam,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-635,Rhodes,RR1980,"0184,0186,0187",ojg,,ojib1241,iškaw,OJ:9,,,,,,by foot/body,"body, foot, MANNER",final,TA,,,,,iškā,iškā,,iškam,ikaw,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+632,Rhodes,RR1980,"0184,0186",ojg,,ojib1241,iškā,OJ:9,,,,,,by foot/body,"body, foot, INSTRUMENT",final,AI,,,,,,iškā,iškaw,iškam,ikā,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+633,Rhodes,RR1980,"0184,0196",ojg,,ojib1241,iškā,OJ:9,,,,,,by foot/body,"body, foot, INSTRUMENT",final,II,,,,,iškā,,iškaw,iškam,ikā,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+634,Rhodes,RR1980,"0184,0186",ojg,,ojib1241,iškam,OJ:9,,,,,,by foot/body,"body, foot, INSTRUMENT",final,TI,,,,,iškā,iškā,iškaw,,ikam,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+635,Rhodes,RR1980,"0184,0186,0187",ojg,,ojib1241,iškaw,OJ:9,,,,,,by foot/body,"body, foot, INSTRUMENT",final,TA,,,,,iškā,iškā,,iškam,ikaw,after initials ending in apicals; apical softens to corresponding fricative,,,,,,,,,,,,,,,,,,,,,,,išk-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 636,Denny,JPD1978b,"0296,0309",ojg,,ojib1241,išp,OJ:5,,,,,,high,high,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 637,Denny,JPD1981,0005,ojg,,ojib1241,iss,OJ:5,,,,,,becoming,become,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /ss/,,,HTL
 638,Denny,JPD1978b,"0299,0301",ojg,,ojib1241,it,OJ:5,,,,,,heated,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -608,22 +608,22 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 640,Denny,JPD1978a,0294,ojg,,ojib1241,it,OJ:5,,,,,,heat,,final,,,CONCR
 641,Denny,JPD1978a,0295,ojg,,ojib1241,it,OJ:5,,,,,,heating,,final,unknown,,CONCR
 642,Rhodes,RR1980,0184,ojg,,ojib1241,it-,OJ:9,,,,,,by hearing,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,itaw,itam,itāgozi,itāgwad,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-643,Rhodes,RR1980,0184,ojg,,ojib1241,itāgozi,OJ:9,,,,,,by hearing,"hearing, MANNER",final,AI,,,,,,itāgwad,inam,itam,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-644,Rhodes,RR1980,0184,ojg,,ojib1241,itāgwad,OJ:9,,,,,,by hearing,"hearing, MANNER",final,II,,,,,itāgozi,,inam,itam,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-645,Rhodes,RR1980,0184,ojg,,ojib1241,itam,OJ:9,,,,,,by hearing,"hearing, MANNER",final,TI,,,,,itāgozi,itāgwad,inam,,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+643,Rhodes,RR1980,0184,ojg,,ojib1241,itāgozi,OJ:9,,,,,,by hearing,"hearing, INSTRUMENT",final,AI,,,,,,itāgwad,inam,itam,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+644,Rhodes,RR1980,0184,ojg,,ojib1241,itāgwad,OJ:9,,,,,,by hearing,"hearing, INSTRUMENT",final,II,,,,,itāgozi,,inam,itam,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+645,Rhodes,RR1980,0184,ojg,,ojib1241,itam,OJ:9,,,,,,by hearing,"hearing, INSTRUMENT",final,TI,,,,,itāgozi,itāgwad,inam,,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 646,Denny,JPD1977,0124,ojg,,ojib1241,ītam,OJ:5,,,,,,depths of water,depth (water),medial,,,,,,,,,,īntam
-647,Rhodes,RR1980,0184,ojg,,ojib1241,itaw,OJ:9,,,,,,by hearing,"hearing, MANNER",final,TA,,,,,itāgozi,itāgwad,,itam,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+647,Rhodes,RR1980,0184,ojg,,ojib1241,itaw,OJ:9,,,,,,by hearing,"hearing, INSTRUMENT",final,TA,,,,,itāgozi,itāgwad,,itam,,,,,,,,,,,,,,,,,,,,,,,,,it-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 648,Rhodes,RR1980,0185,ojg,,ojib1241,itō,OJ:9,,,,,,cause,CAUSATIVE,final,TI,,,,,,,ih,,,,,,,,,,,,,,,,,,,,,,,,,,ǐh-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 649,Denny,JPD1981,0008,ojg,,ojib1241,ittikwē,OJ:5,,,,,,river,river,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 65,Rhodes,RR1976,"0233,0284",ojg,,ojib1241,-ag,OJ:6,,,,,,old,old,final
 650,Rhodes,RR1976,0251,ojg,,ojib1241,iye:kw-,OJ:6,,,,,,tired,tired,initial
 651,Rhodes,RR1980,"0184,0190",ojg,,ojib1241,iz-,OJ:9,,,,,,by heat,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,izw,izam,izo,ide,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 652,Rhodes,RR1980,"0185,0191",ojg,,ojib1241,iž-,OJ:9,,,,,,by blade,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,ižw,ižam,,,,,,,"P.191: ""no longer productive in Ojibwa having been largely replaced by the action final, iko 'using a cutting action'; GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-653,Rhodes,RR1980,"0185,0190",ojg,,ojib1241,izam,OJ:9,,,,,,by heat,"heat, MANNER",final,TI,,,,,izo,ide,izw,,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+653,Rhodes,RR1980,"0185,0190",ojg,,ojib1241,izam,OJ:9,,,,,,by heat,"heat, INSTRUMENT",final,TI,,,,,izo,ide,izw,,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 654,Rhodes,RR1980,"0185,0191",ojg,,ojib1241,ižam,OJ:9,,,,,,by blade,"blade, INSTRUMENT",final,TI,,,,,,,ižw,,,,,,,,,,,,,,,,,,,,,,,,,,iž-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-655,Rhodes,RR1980,0185,ojg,,ojib1241,izekwe,OJ:9,,,,,,(agent) by heat,"heat, MANNER",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-656,Rhodes,RR1980,0185,ojg,,ojib1241,izo,OJ:9,,,,,,by heat,"heat, MANNER",final,AI,,,,,,ide,izw,izam,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-657,Rhodes,RR1980,"0185,0190",ojg,,ojib1241,izw,OJ:9,,,,,,by heat,"heat, MANNER",final,TA,,,,,izo,ide,,izam,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+655,Rhodes,RR1980,0185,ojg,,ojib1241,izekwe,OJ:9,,,,,,(agent) by heat,"heat, INSTRUMENT",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+656,Rhodes,RR1980,0185,ojg,,ojib1241,izo,OJ:9,,,,,,by heat,"heat, INSTRUMENT",final,AI,,,,,,ide,izw,izam,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+657,Rhodes,RR1980,"0185,0190",ojg,,ojib1241,izw,OJ:9,,,,,,by heat,"heat, INSTRUMENT",final,TA,,,,,izo,ide,,izam,,,,,,,,,,,,,,,,,,,,,,,,,iz-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 658,Rhodes,RR1980,0185.0191,ojg,,ojib1241,ižw,OJ:9,,,,,,by blade,"blade, INSTRUMENT",final,TA,,,,,,,,ižam,,,,,,,,,,,,,,,,,,,,,,,,,iž-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 659,Rhodes,RR1976,"0225,0226",ojg,,ojib1241,ja:g-,OJ:6,,,,,,be used up,used up,initial
 66,Rhodes,RR2015,"0200,0201",ojg,,ojib1241,-agah-,OJ:3,,,,,,use axe,use (axe),final,,,CONCR
@@ -637,7 +637,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 667,Denny,JPD1978a,0298,ojg,,ojib1241,kami,OJ:5,,,,,,liquid,"liquid, water",medial
 668,Denny,JPD1977,0135,ojg,,ojib1241,kāt,OJ:5,,,,,,to be done to,done to,final,unknown,,CONCR
 669,Denny,JPD1978a,0299,ojg,,ojib1241,kāt,OJ:5,,,,,,done to,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-67,Rhodes,RR1976,0219,ojg,,ojib1241,-agana:m-,OJ:6,,,,,,cause using violent action,"action (violent), CAUSATIVE, MANNER",final,TA
+67,Rhodes,RR1976,0219,ojg,,ojib1241,-agana:m-,OJ:6,,,,,,cause using violent action,"action (violent), CAUSATIVE, INSTRUMENT",final,TA
 671,Denny,JPD1977,0136,ojg,,ojib1241,kaw,OJ:5,,,,,,to go over and down,"go down, go over",initial
 672,Denny,JPD1978a,0312,ojg,,ojib1241,kaw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'fall'?
 673,Barrie & Mathieu,MB_EM2012,0137,ojg,,ojib1241,ke-,OJ:3,,,,,,NG,,final,AI,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"final can mean 'make, build, hunt, pick, do' - ""a very general meaning akin to an auxiliary and unlike a lexical verb"""
@@ -647,7 +647,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 677,Denny,JPD1977,0140,ojg,,ojib1241,kimiwan,OJ:5,,,,,,be raining,rain (V),initial
 678,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,kīn,OJ:5,,,,,,sharp,sharp,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 679,Denny,JPD1981,0008,ojg,,ojib1241,kinip,OJ:5,,,,,,quick,quick,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-68,Rhodes,RR1976,0219,ojg,,ojib1241,-agana:ndam-,OJ:6,,,,,,cause using violent action,"action (violent), CAUSATIVE, MANNER",final,TI
+68,Rhodes,RR1976,0219,ojg,,ojib1241,-agana:ndam-,OJ:6,,,,,,cause using violent action,"action (violent), CAUSATIVE, INSTRUMENT",final,TI
 680,Denny,JPD1978a,0310,ojg,,ojib1241,kinip,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: 'quick'?
 681,Denny,JPD1978a,0299,ojg,,ojib1241,kint,OJ:5,,,,,,priced,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 682,Denny,JPD1978b,0296,ojg,,ojib1241,kinw,OJ:5,,,,,,long,long,initial,,,,,,,,,,kinō,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'long',,,HTL
@@ -665,7 +665,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 693,Denny,JPD1978b,"0298,0306,0315",ojg,,ojib1241,kk,OJ:5,,,,,,lots of,lots,final,,,CONCR,,,,,,,,,,,,,,V,II,there are lots of bottles,omōtay-ikk-ā,JPD1978a;0303,,,,,,,,,,,,,,,,,,,,HTL
 694,Denny,JPD1978b,"0298,0303,0307",ojg,,ojib1241,kk,OJ:5,,,,,,moved in configuration,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 695,Denny,JPD1977,0130,ojg,,ojib1241,kk,OJ:5,,,,,,widespread,widespread,final,unknown,,CONCR,,,,,,,ikk,,,,,,,,,,,,,,,,,,,,,,,,,,,,instrumental final; refers to use of body or foot to exert force on an object. See p. 130
-696,Denny,JPD1977,0140,ojg,,ojib1241,kk,OJ:5,,,,,,move by body or foot,"body, foot, move, MANNER",final
+696,Denny,JPD1977,0140,ojg,,ojib1241,kk,OJ:5,,,,,,move by body or foot,"body, foot, move, INSTRUMENT",final
 697,Denny,JPD1978a,0298,ojg,,ojib1241,kk,OJ:5,,,,,,lots of,,final,unknown,,CONCR
 698,Denny,JPD1978a,0299,ojg,,ojib1241,kkāt,OJ:5,,,,,,thrown,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 699,Denny,JPD1977,0133,ojg,,ojib1241,kko,OJ:5,,,,,,NG,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'sky'
@@ -685,20 +685,20 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 710,Rhodes,RR1976,"0213,0214,0231,0233",ojg,,ojib1241,ma:d-,OJ:6,,,,,,start,start,initial
 711,Rhodes,RR1976,0238,ojg,,ojib1241,ma:ja:-,OJ:6,,,,,,away,away,initial
 712,Denny,JPD1977,0135,ojg,,ojib1241,mācīw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'float' or related
-713,Rhodes,RR1980,0184,ojg,,ojib1241,māgozi,OJ:9,,,,,,by smell,"smell, MANNER",final,AI,,,,,,māgwad,mām,māndam,,,,,,,,,,,,,,,,,,,,,,,,,ma-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-714,Rhodes,RR1980,0184,ojg,,ojib1241,māgwad,OJ:9,,,,,,by smell,"smell, MANNER",final,II,,,,,māgozi,,mām,māndam,,,,,,,,,,,,,,,,,,,,,,,,,ma-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+713,Rhodes,RR1980,0184,ojg,,ojib1241,māgozi,OJ:9,,,,,,by smell,"smell, INSTRUMENT",final,AI,,,,,,māgwad,mām,māndam,,,,,,,,,,,,,,,,,,,,,,,,,ma-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+714,Rhodes,RR1980,0184,ojg,,ojib1241,māgwad,OJ:9,,,,,,by smell,"smell, INSTRUMENT",final,II,,,,,māgozi,,mām,māndam,,,,,,,,,,,,,,,,,,,,,,,,,ma-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 715,Denny,JPD1978a,0310,ojg,,ojib1241,mak,OJ:5,,,,,,NG,,final,II,,ABSTR,Y,AI,,,,,,,,,ikkitō-mak-at,,,II,,it says
 716,Rhodes,RR1976,0277,ojg,,ojib1241,makade:w-,OJ:6,,,,,,black,black,initial
 717,Denny,JPD1978b,0296,ojg,,ojib1241,makkatē,OJ:5,,,,,,black,black,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 718,Denny,JPD1978b,"0298,0303,0307",ojg,,ojib1241,mākw,OJ:5,,,,,,smell,,final,unknown,,CONCR,,,,,,,,,,,sīw-imāko-t,,,V,II,it smells sour,,JPD1978a;0303,,,,,,,,,,,,,,,,,,,,HTL
-719,Rhodes,RR1980,0184,ojg,,ojib1241,mām,OJ:9,,,,,,by smell,"smell, MANNER",final,TA,,,,,māgozi,māgwad,,māndam,,,,,,,,,,,,,,,,,,,,,,,,,ma-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+719,Rhodes,RR1980,0184,ojg,,ojib1241,mām,OJ:9,,,,,,by smell,"smell, INSTRUMENT",final,TA,,,,,māgozi,māgwad,,māndam,,,,,,,,,,,,,,,,,,,,,,,,,ma-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 72,Rhodes,RR2015,0202,ojg,,ojib1241,-ah-,OJ:3,,,,,,use instrument,use (instrument),final,,,CONCR
 720,Rhodes,RR1976,"0126,0272",ojg,,ojib1241,mama:d-,OJ:6,,,,,,move,move,initial
 721,Valentine 2002,RV2002,0091,ojg,,ojib1241,mamang-,OJ:3,,,,,,big,big,initial,,Y
 722,Denny,JPD1977,0131,ojg,,ojib1241,mamānk,OJ:5,,,,,,big,big,initial,,Y
 723,Denny,JPD1978b,0307,ojg,,ojib1241,mamank-,OJ:5,,,,,,big,big,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 724,Denny,JPD1978b,0297,ojg,,ojib1241,mānāt,OJ:5,,,,,,bad,bad,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-725,Rhodes,RR1980,0184,ojg,,ojib1241,māndam,OJ:9,,,,,,by smell,"smell, MANNER",final,TI,,,,,māgozi,māgwad,mām,,,,,,,,,,,,,,,,,,,,,,,,,,ma-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+725,Rhodes,RR1980,0184,ojg,,ojib1241,māndam,OJ:9,,,,,,by smell,"smell, INSTRUMENT",final,TI,,,,,māgozi,māgwad,mām,,,,,,,,,,,,,,,,,,,,,,,,,,ma-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 726,Rhodes,RR1976,"0268,0275,0278,0285",ojg,,ojib1241,mang-,OJ:6,,,,,,big,big,premedial
 727,Valentine 2002,RV2002,0091,ojg,,ojib1241,mang-,OJ:3,,,,,,big,big,initial
 728,Denny,JPD1977,0131,ojg,,ojib1241,mank,OJ:5,,,,,,big,big,initial
@@ -791,7 +791,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 807,Denny,JPD1978a,0313,ojg,,ojib1241,nissākko,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'open'
 808,Denny,JPD1978b,"0297,0304",ojg,,ojib1241,nissōt,OJ:5,,,,,,trapped,trapped,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 809,Rhodes,RR1976,"0261,0284",ojg,,ojib1241,nisw-,OJ:6,,,,,,three,three,initial
-81,Rhodes,RR1976,0219,ojg,,ojib1241,-am-,OJ:6,,,,,,cause using the mouth/teeth,"mouth, tooth, CAUSATIVE, MANNER",final,TA
+81,Rhodes,RR1976,0219,ojg,,ojib1241,-am-,OJ:6,,,,,,cause using the mouth/teeth,"mouth, tooth, CAUSATIVE, INSTRUMENT",final,TA
 810,Denny,JPD1978a,0312,ojg,,ojib1241,nittam,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'first'
 811,Rhodes,RR1976,0219,ojg,,ojib1241,no:k-,OJ:6,,,,,,soft,soft,initial
 812,Denny,JPD1978b,"0296,0303,0308,0309",ojg,,ojib1241,nōkk,OJ:5,,,,,,soft,soft,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -800,7 +800,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 815,Rhodes,RR1980,0184,ojg,,ojib1241,o,OJ:9,,,,,,NG,,final,,,ABSTR
 816,Rhodes,RR1976,0277,ojg,,ojib1241,o:nag,OJ:6,,,,,,"canoe, boat",,medial,CLASS
 817,Rhodes,RR1976,"0223,0230,0256",ojg,,ojib1241,oda:p-,OJ:6,,,,,,picked up,pick up,initial
-818,Rhodes,RR1980,0184,ojg,,ojib1241,odam,OJ:9,,,,,,by speech,"speech, MANNER",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,im-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
+818,Rhodes,RR1980,0184,ojg,,ojib1241,odam,OJ:9,,,,,,by speech,"speech, INSTRUMENT",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,im-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 819,Rhodes,RR1980,0185,ojg,,ojib1241,ōm,OJ:9,,,,,,carry on the back,carry (on back),final,TA,,,,,,,,ōndam,,,,,,,,,,,,,,,,,,,,,,,,,ōm-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 82,Rhodes,RR2015,0197,ojg,,ojib1241,-am-,OJ:3,,,,,,NG,,final,TA,,ABSTR
 820,Rhodes,RR1980,0185,ojg,,ojib1241,ōm-,OJ:9,,,,,,carry on the back,,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,ōm,ōndam,,,,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
@@ -857,7 +857,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 867,Denny,JPD1977,0130,ojg,,ojib1241,pīmisko,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: may mean 'rotated'
 868,Denny,JPD1978a,0294,ojg,,ojib1241,pīmiskošk,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"VMN: likely 'rotate', 'spin', or related"
 869,Denny,JPD1978b,0297,ojg,,ojib1241,pīn,OJ:5,,,,,,clean,clean,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-87,Rhodes,RR1976,0219,ojg,,ojib1241,-andam-,OJ:6,,,,,,cause using the mouth/teeth,"mouth, tooth, CAUSATIVE, MANNER",final,TI
+87,Rhodes,RR1976,0219,ojg,,ojib1241,-andam-,OJ:6,,,,,,cause using the mouth/teeth,"mouth, tooth, CAUSATIVE, INSTRUMENT",final,TI
 870,Denny,JPD1977,0132,ojg,,ojib1241,pīn,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'clean'
 871,Denny,JPD1978b,0297,ojg,,ojib1241,pīnt,OJ:5,,,,,,enclosed,enclosed,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 872,Denny,JPD1977,0138,ojg,,ojib1241,pīnt,OJ:5,,,,,,inside,inside,initial
@@ -910,7 +910,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 914,Denny,JPD1977,0129,ojg,,ojib1241,sīw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely means 'sour'
 915,Denny,JPD1978b,"0298,0302,0307,0321",ojg,,ojib1241,šk,OJ:5,,,,,,moved in configuration,,final,unknown,,CONCR,,,,,,,,,,,pīmisko-šk-a ,,,V,II,it spins,,JPD1978a;0294,,,,,,,,,,,,,,,,,,,,HTL
 916,Denny,JPD1977,0128,ojg,,ojib1241,šk,OJ:5,,,,,,to be in a configuration as a result of movement,"configuration, movement, RESULT",final,unknown,,CONCR,,,,,,,išk,,,,,,,,,,,,,,,,,,,,,,,,,,,,instrumental final; refers to use of body or foot to exert force on an object. See p. 130
-917,Denny,JPD1977,0140,ojg,,ojib1241,šk,OJ:5,,,,,,moved by body or foot,"body, foot, moved, MANNER",final
+917,Denny,JPD1977,0140,ojg,,ojib1241,šk,OJ:5,,,,,,moved by body or foot,"body, foot, moved, INSTRUMENT",final
 918,Denny,JPD1978b,0299,ojg,,ojib1241,škot,OJ:5,,,,,,caused to be by body/foot,,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 919,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,sōnk,OJ:5,,,,,,strong,strong,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 92,Rhodes,RR1980,0184,ojg,,ojib1241,-apin,OJ:9,,,,,,tie,tie,final,TA,,,,,-apizo,-apide,,-apidō

@@ -36,8 +36,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 284,York,FY2010,"0004,0063,0072,0075",moe,,mont1268,-assek-,C-I:1,,,,,,savannah,"savannah, INCORPORATED",medial,INCORP,,,,,,,,,-assec-
 177,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-assin-,C-I:1,,,,,,shoe,shoe,medial
 285,York,FY2010,"0075,0078",moe,,mont1268,-assu-,C-I:1,,,,,,vase,vase,medial
-286,York,FY2010,"0059,0060,0083,0091",moe,,mont1268,-aštâ-,C-I:1,,,,,,by portaging,"portage, MANNER",final,AI,,,,,,,,,,,,,kušp-âšku-štâ-,,,V,AI,il entre dans la forêt en faisant du portage,,FY2010;0060,,mây-šku-štâ-,,V,AI,faire du portage vers l'aval sur la glace,,FY2010;0073
-287,York,FY2010,0071,moe,,mont1268,-aštâ-,C-I:1,,,,,,by placing the feet in such a way̹ on,"foot, place (V), MANNER",final
+286,York,FY2010,"0059,0060,0083,0091",moe,,mont1268,-aštâ-,C-I:1,,,,,,by portaging,"portage, INSTRUMENT",final,AI,,,,,,,,,,,,,kušp-âšku-štâ-,,,V,AI,il entre dans la forêt en faisant du portage,,FY2010;0060,,mây-šku-štâ-,,V,AI,faire du portage vers l'aval sur la glace,,FY2010;0073
+287,York,FY2010,0071,moe,,mont1268,-aštâ-,C-I:1,,,,,,by placing the feet in such a way̹ on,"foot, place (V), INSTRUMENT",final
 178,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-aštimw-,C-I:1,,,,,,dog,dog,medial
 288,York,FY2010,"0066,0071",moe,,mont1268,-âstin-,C-I:1,,,,,,with/by wind,"wind (N), INSTRUMENT",final,II,,,,,-âsu-,,,,,,,,pît-âkune-y-âštan-,,,V,II,la neige pénètre avec le vent,,FY2010;0071
 289,York,FY2010,0066,moe,,mont1268,-âsu-,C-I:1,,,,,,with/by wind,"wind (N), INSTRUMENT",final,AI,,,,,,-âstin-,,,,,,,pâšk-a-tâwk-âšu-,,,V,AI,être complètement déterré par le vent,,FY2010;0066,wemâ-y-âšu-,,,V,AI,être emporté au-delà d'un point par le vent,,FY2010;0066
@@ -50,12 +50,12 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 294,York,FY2010,0045,moe,,mont1268,-âwkun-,C-I:1,,,,,,back,back,medial
 295,York,FY2010,"0013,0014,0017,0074",moe,,mont1268,-ay-,C-I:1,,,,,,"with a blow, with an instrument","blow (N), INSTRUMENT",final,TI,,CONCR,,,-ay-,,-w-
 296,York,FY2010,"0045,0058,0059,0063",moe,,mont1268,-ay-,C-I:1,,,,,,"in the air, on the water, in a canoe, swimming","on water, canoe, swim, in air",,AI,,,,,,,-w-,-ay-
-297,York,FY2010,"0052,0072,0078",moe,,mont1268,-ay-,C-I:1,,,,,,by crossing,"cross, MANNER",final,TI,,,,,,,,,,,,,šâk-âškw-ay-,,,V,TI,sortir du bois,,FY2010;0073,nâtakâm-essek-ay-,,,V,TI,"se diriger de la savane, de la tourbière vers la forêt",,FY2010;0073,nimitâw-ey-âwk-ay-,,,V,TI,s'éloigner de la forêt en direction du large en marchant sur le sable,,FY2010;0074
+297,York,FY2010,"0052,0072,0078",moe,,mont1268,-ay-,C-I:1,,,,,,by crossing,"cross, INSTRUMENT",final,TI,,,,,,,,,,,,,šâk-âškw-ay-,,,V,TI,sortir du bois,,FY2010;0073,nâtakâm-essek-ay-,,,V,TI,"se diriger de la savane, de la tourbière vers la forêt",,FY2010;0073,nimitâw-ey-âwk-ay-,,,V,TI,s'éloigner de la forêt en direction du large en marchant sur le sable,,FY2010;0074
 298,York,FY2010,0063,moe,,mont1268,-ay-,C-I:1,,,,,,"with a blow, with an instrument","blow (N), INSTRUMENT",final,AI,,,,,,,-w-,-ay-
 299,York,FY2010,0063,moe,,mont1268,-ay-,C-I:1,,,,,,"on the water (canoeing, swimming), in the air or on foot","on water, canoe, swim, in air, on foot",final,TI,,,,,-ay-,,-w-
 300,York,FY2010,"0043,0064",moe,,mont1268,-âyn-,C-I:1,,,,,,with/by wave,"wave (N), INSTRUMENT",final,II,,,,,-awku-
 301,York,FY2010,0064,moe,,mont1268,-ci-,C-I:1,,,,,,"by cold, frost","cold, frost, INSTRUMENT",final,AI,,,,,,-tin-
-302,York,FY2010,"0059,0060",moe,,mont1268,-cime-,C-I:1,,,,,,by traveling,"travel, MANNER",final,AI
+302,York,FY2010,"0059,0060",moe,,mont1268,-cime-,C-I:1,,,,,,by traveling,"travel, INSTRUMENT",final,AI
 303,York,FY2010,0071,moe,,mont1268,-cimî-,C-I:1,,,,,,"standing, leaning","lean (V), stand",final
 6,Baraby et al,AMB_ET_AL2002,"0002,0003",moe,,mont1268,-e ,C-I:Standard,,,,,,NG,,final,,,,,,,,,,,,,,apishi-tun-e-,,,V,AI,have a small mouth,,AMB_ET_AL2002;0002,mamitsh-ashku-puam-e-,,,V,AI,have big thighs,,AMB_ET_AL2002;0002,kanu-ashku-titsh-e-,,,V,AI,have big hands,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,, ,GVM,MAM
 203,Lambert-Bretiere,RLB2020,"0102,0107,0108",moe,,mont1268,-e ,C-I:Revised,,,,,,NG,,final,AI,,,,,,,,,,,,,mashku-shtikuan-e , ,,V,AI,to be hardheaded,,RLB2020;0102,mashku-e,,,,AI,to be hard,,RLB2020;0102,mashkhu-shtikuan-e-i,,,V,TA,to make someone stubborn,,RLB2020;0103,nutsh-atshakashu-e,,,V,AI,to hunt mink,RLB2020;0107,,,,,,,,, 
@@ -94,12 +94,12 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 218,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-ńushkuauatsh,C-I:Revised,,,,,,flour,"flour, GENERIC",medial,GENERIC,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 320,York,FY2010,"0050,0063",moe,,mont1268,-pal-,C-I:1,,,,,,continuous motion,"continuous, motion, movement",final
 321,York,FY2010,"0063,0066",moe,,mont1268,-pal-,C-I:1,,,,,,"continuous, fluid movement in water, on water or in flight and/or with a motor","continuous, in (flight), in (water), motion, movement"
-71,Drapeau,LD1980,0315,moe,,mont1268,-pali-,C-I:2,,,,,,by movement,"movement, MANNER",final,V,,,,,,,,,,,,,pisti-pali-,,,V,V,move by accident (bouge par mégarde),,LD1980;0316,,,,V,V,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,,MAM
+71,Drapeau,LD1980,0315,moe,,mont1268,-pali-,C-I:2,,,,,,by movement,"movement, INSTRUMENT",final,V,,,,,,,,,,,,,pisti-pali-,,,V,V,move by accident (bouge par mégarde),,LD1980;0316,,,,V,V,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,,MAM
 322,York,FY2010,0053,moe,,mont1268,-pali-,C-I:1,,,,,,continuous movement,"continuous, motion, movement",final,AI
 323,York,FY2010,0053,moe,,mont1268,-pali-,C-I:1,,,,,,continuous movement,"continuous, motion, movement",final,II
 42,Brittain & Acton,JB_SA2014,0475,moe,,mont1268,-pan,C-I:1,,,,*-pali,,move,move,final,II
 43,Brittain & Acton,JB_SA2014,0475,moe,,mont1268,-pan,C-I:1,,,,*-pali,,move,move,final,AI
-324,York,FY2010,"0016,0046,0058,0061",moe,,mont1268,-patâ-,C-I:1,,,,,,"by running, by wheeled vehicle","run, vehicle (wheeled), INSTRUMENT, MANNER",final,AI,,,,,,,,,,,,,ûlwî-patâ-,,,V,AI,sortir en courant,,FY2010;0055,matâ-pessec-i-patâ-,,,V,AI,"arriver à une savane, une tourbière en courant, en véhicule à roues",,FY2010;0073,lâlew-e-šku-patâ-,,,V,AI,courir le long du rivage sur la glace,,FY2010;0073
+324,York,FY2010,"0016,0046,0058,0061",moe,,mont1268,-patâ-,C-I:1,,,,,,"by running, by wheeled vehicle","run, vehicle (wheeled), INSTRUMENT",final,AI,,,,,,,,,,,,,ûlwî-patâ-,,,V,AI,sortir en courant,,FY2010;0055,matâ-pessec-i-patâ-,,,V,AI,"arriver à une savane, une tourbière en courant, en véhicule à roues",,FY2010;0073,lâlew-e-šku-patâ-,,,V,AI,courir le long du rivage sur la glace,,FY2010;0073
 220,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-pemak-,C-I:Revised,,,,,,leaf,leaf,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,compares to N nipish 'leaf',, 
 327,York,FY2010,"0005,0059,0060,0072",moe,,mont1268,-pici-,C-I:1,,,,,,dragging a toboggan,"drag (sleigh, tobaggan)",final,AI
 222,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-pim-,C-I:Revised,,,,,,grease,grease,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
@@ -136,9 +136,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 73,Drapeau,LD2011a,0061,moe,,mont1268,-štam,C-I:1,,,,,,applicative,APPLICATIVE,final,AI,,,Y,TI,,-štaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,locational reference,, 
 74,Drapeau,LD2011a,0061,moe,,mont1268,-štaw,C-I:1,,,,,,applicative,APPLICATIVE,final,AI,,,Y,TA,,-štam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,locational reference,, 
 344,York,FY2010,"0058,0071",moe,,mont1268,-t-,C-I:1,,,,,,with the mouth,"mouth, INSTRUMENT",final,,,,,,,,,,,,,,pet-w-ewe-t-,,,V,TI,"se viendre, approche avec des bruîts de voix",,FY2010;0071
-345,York,FY2010,"0059,0061",moe,,mont1268,-tâcimu-,C-I:1,,,,,,by dragging (reflexive),"drag, MANNER, REFLEXIVE",final,AI
-346,York,FY2010,"0043,0059,0061",moe,,mont1268,-tâpâcim-,C-I:1,,,,,,by dragging someone,"drag, haul, pull, MANNER",final,TA,,,Y
-347,York,FY2010,"0059,0060,0061",moe,,mont1268,-tâpe-,C-I:1,,,,,,by dragging,"drag, haul, pull, MANNER",final,AI
+345,York,FY2010,"0059,0061",moe,,mont1268,-tâcimu-,C-I:1,,,,,,by dragging (reflexive),"drag, INSTRUMENT, REFLEXIVE",final,AI
+346,York,FY2010,"0043,0059,0061",moe,,mont1268,-tâpâcim-,C-I:1,,,,,,by dragging someone,"drag, haul, pull, INSTRUMENT",final,TA,,,Y
+347,York,FY2010,"0059,0060,0061",moe,,mont1268,-tâpe-,C-I:1,,,,,,by dragging,"drag, haul, pull, INSTRUMENT",final,AI
 25,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-tashtan-,C-I:Standard,,,,,,calf,"calf, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 348,York,FY2010,"0059,0060,0061,0074",moe,,mont1268,-tatâ-,C-I:1,,,,,,carrying sb./sth. in the arms,carry (in arms),final,AI,,,,,,,-tay-,,,,,,âmacwe-tatâ-,,,V,AI,il gravit une pente en emportant qqch dans les bras,,FY2010;0062,âšû-kǎši-tatâ-,,,V,AI,emporte qqch d l'autre coté du cours d'eau à pied,,FY2010;0062
 349,York,FY2010,"0059,0060,0062,0074",moe,,mont1268,-tay-,C-I:1,,,,,,carrying sb./sth. in the arms,carry (in arms),final,TA,,,,,-tatâ-
@@ -151,7 +151,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 356,York,FY2010,0085,moe,,mont1268,-tipaykan-,C-I:1,,,,,,"thousand, hour","hour, thousand",medial
 27,Baraby et al,AMB_ET_AL2002,0004,moe,"Western: Betsiamites, Uashat (Sept-Iles)/Maliotenam and Schefferville (Matimekosh)",mont1268,-tishi- ,C-I:Standard,,,,,,navel,"navel, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 357,York,FY2010,"0059,0060",moe,,mont1268,-tišimu-,C-I:1,,,,,,fleeing,flee,final,AI,,,,,,,,,,,,,kušp-âšku-tišimu-,,,V,AI,il se sauve dans la forêt,,FY2010;0060
-233,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-tita,C-I:Revised,,,,,,by movement,"movement, MANNER",final,AI,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"marked as AIT; in [[natuai-ashku-tita]-pan] ushtashk, ""he has split the handle of his ax""; in abbreviations footnote she says: AIT: animate intransitive-transitive inanimate",, 
+233,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-tita,C-I:Revised,,,,,,by movement,"movement, INSTRUMENT",final,AI,,,,,,,,,,,,,natuai-ashku-tita,,,V,AI,to split something long and rigid by movement,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"marked as AIT; in [[natuai-ashku-tita]-pan] ushtashk, ""he has split the handle of his ax""; in abbreviations footnote she says: AIT: animate intransitive-transitive inanimate",, 
 29,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-titiman- ,C-I:Standard,,,,,,shoulder,"shoulder, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 30,Baraby et al,AMB_ET_AL2002,"0003,0005",moe,,mont1268,-titsh- ,C-I:Standard,,,,,,hand,"hand, INCORPORATED",medial,INCORP,,,,,,,,,,,,,kanu-ashku-titsh-e-,,,V,AI,have big hands,,AMB_ET_AL2002;0003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Double medial in example,, ,GVM,MAM
 31,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-tshikun- ,C-I:Standard,,,,,,knee,"knee, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
