@@ -844,7 +844,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 533,Bloomfield,LB1958,0097,ojg,,east2542,-ta·pa·t,OJ:1,,,,,,drag,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 96,Bloomfield,LB1958,0070,ojg,,east2542,-ta·ss,OJ:1,,,,,,legging,,final ,N,,,,,,,,,,,,,,,,,,,,,,,,-∅,,,,,,,"""medial with noun final zero""",,"Andrew Medler, Walpole Island",GVM
 835,Bloomfield,LB1958,0119,ojg,,east2542,-ta·ss,OJ:1,,,,,,"legging, stocking",,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-837,Bloomfield,LB1958,"0119,0121",ojg,,east2542,-ta·sse·,OJ:1,,,,,,"legging, stocking",,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,-e·,,,,,,"Andrew Medler, Walpole Island",GVM
+835,Bloomfield,LB1958,"0119,0121",ojg,,east2542,-ta·sse·,OJ:1,,,,,,"legging, stocking",,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,-e·,,,,,,"Andrew Medler, Walpole Island",GVM
 1146,Valentine,RV2002,0116,ojg,,east2542,-taa,OJ:3,,,,,,self-initiated body movement,,final,AI
 650,Bloomfield,LB1958,"0108,0125",ojg,,east2542,-tana,OJ:1,,,,,,decade,,final,PART,,,,,,,,,,,,,,,,,,,,-∅,,,,,,,-tana,,,,,,"Andrew Medler, Walpole Island",GVM
 939,Bloomfield,LB1958,0125,ojg,,east2542,-tana,OJ:1,,,,,,decade,,prefinal,,,,,,,,,,,,,,,,,,,,,-tana,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -956,8 +956,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 796,Bloomfield,LB1958,"0117,0126",ojg,,east2542,-yi·min,OJ:1,,,,,,"berry, grain, bead",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,-yi·,,,,,,"Andrew Medler, Walpole Island",GVM
 374,Bloomfield,LB1958,"0087,0126",ojg,,east2542,-yi·mo,OJ:1,,,,,,speak such-and-such a language,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,-yi·,,,,,,"Andrew Medler, Walpole Island",GVM
 721,Bloomfield,LB1958,"0114,0120",ojg,,east2542,-yi·nkw,OJ:1,,,,,,"face, eye",,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+721,Bloomfield,LB1958,0121,ojg,,east2542,-yi·nkwe·,OJ:1,,,,,,"face, eye",,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,-e·,,,,,,"Andrew Medler, Walpole Island",GVM
 250,Bloomfield,LB1958,0081,ojg,,east2542,-yi·nkwe·,OJ:1,,,,,,"eye, face",,final,AI ,,,,,,,,,,,,,,,,,,,,,,,,-e·,,,,,,,medial with AI final -e·,,"Andrew Medler, Walpole Island",GVM
-850,Bloomfield,LB1958,0121,ojg,,east2542,-yi·nkwe·,OJ:1,,,,,,"face, eye",,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,-e·,,,,,,"Andrew Medler, Walpole Island",GVM
 265,Bloomfield,LB1958,"0082,0126",ojg,,east2542,-yi·nʔi,OJ:1,,,,,,diminutive,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,-iny,-i,,-yi·,,,,,,"Andrew Medler, Walpole Island",GVM
 182,Bloomfield,LB1958,"0076,0126",ojg,,east2542,-yi·tta·,OJ:1,,,,,,"work, act",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,-yi·,,,,,,"Andrew Medler, Walpole Island",GVM
 340,Bloomfield,LB1958,"0085,0120",ojg,,east2542,-yi·w,OJ:1,,,,,,"flesh, muscle, strength",,medial ,,,,,,,,,,,,,,,,,,,,,-yi·wi·,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
@@ -1142,8 +1142,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 393,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ikka:so,,,,"feign, pretend",,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
 399,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-iso,,,,by heat,,final,AI,,,,,,,-ite:,,,,,,,,,,,,,-itiso,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
 1124,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ite:,,,,by heat,,final,II,,,,,,-iso,,,,,,,,,,,,,,,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
-1125,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ka:so,,,,"undergo action, subject to the act",,final,AI,,,,,,,-ka:te:,,,,,,,,,,,,,,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
-1126,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ka:te:,,,,"undergo action, subject to the act",,final,II,,,,,,-ka:so,,,,,,,,,,,,,,,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
+391,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ka:so,,,,"undergo action, subject to the act",,final,AI,,,,,,,-ka:te:,,,,,,,,,,,,,,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
+392,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-ka:te:,,,,"undergo action, subject to the act",,final,II,,,,,,-ka:so,,,,,,,,,,,,,,,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""",,,MAM
 410,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-tiso,,,,explicit reflexive,,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""; attaches to TA stems which do not terminate in /m/",,,MAM
 411,Siebert & Seeber,FS_PS1983,0332,ojg,,east2542,,OJ:1,,-itiso,,,,explicit reflexive,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,-iso,,,-iti-,,,,"Citing LB1958; S&S ""reorganization of his data""; S&S call this ""the true AI explicit reflexive""; no category given for -iti- so put in as formative",,,MAM
 1129,Siebert & Seeber,FS_PS1983,0333,ojg,,east2542,,OJ:1,,-iti-,,,,reciprocal,,final,,,,Y,,,,,,,,,,,,,,,,,-itiso,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""; no category given",,,MAM
