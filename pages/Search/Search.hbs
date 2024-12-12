@@ -107,7 +107,7 @@
         <select class='language-select text-box' id=advanced-language-select name=language>
           <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
           {{#each languages as |lang| }}
-            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }}({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
+            <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }} ({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
           {{/each}}
         </select>
 
