@@ -40,7 +40,7 @@ Denny,37,JPD1978b,0294,ojg,,ojib1241,-ā-,OJ:5,,,,,,spatial,,final,II,,ABSTR,,,,
 Rhodes,38,RR1976,"0129,0130,0136",ojg,,ojib1241,-a:,OJ:6,,,,,,NG,,final,INTR
 Rhodes,39,RR1976,"0260,0262,0275,0277",ojg,,ojib1241,-a:bi:g-,OJ:6,,,,,,"rope, string",,medial,CLASS
 Rhodes,40,RR1976,"0275,0281",ojg,,ojib1241,-a:bik-,OJ:6,,,,,,"metal, stone",,medial,CLASS
-Rhodes,41,RR1976,"0121,0265",ojg,,ojib1241,-a:bikw-,OJ:6,,,,,,money,,final
+Rhodes,41,RR1976,"0121,0265",ojg,,ojib1241,-a:bikw-,OJ:6,,,,,,money,,medial,INCORP
 Rhodes,42,RR1976,"0213,0214,0232,0245",ojg,,ojib1241,-a:daga:,OJ:6,,,,,,"wade, swim, move through water",,final
 Rhodes,43,RR1976,0230,ojg,,ojib1241,-a:h-,OJ:6,,,,,,cause by sun,,final
 Rhodes,44,RR1976,"0219,0222",ojg,,ojib1241,-a:kiz-,OJ:6,,,,,,cause using fire,,final
@@ -62,7 +62,6 @@ Valentine 2002,59,RV2002,0089,ojg,,ojib1241,-aakw-,OJ:3,,,,,,"thoroughness, inte
 Mathieu,60,EM2007,0014,ojg,,ojib1241,-aashi,OJ:3,,,,,,NG,,final
 Valentine 2002,61,RV2002,0086,ojg,Manitoulin,ojib1241,-aawigan-,OJ:3,,,,,,back,medial,medial
 Valentine 2002,61,RV2002,0114,ojg,"Manitoulin, Rhodes 1985",ojib1241,-aawigan-,OJ:3,,,,,,back,,medial
-Rhodes,62,RR1976,0284,ojg,,ojib1241,-abino:ji:nh-,OJ:6,,,,,,child,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Seems to be analyzed as an initial (or medial?) here, though OPD lists it only as a final"
 Denny,63,JPD1978b,0316,ojg,,ojib1241,-āciwan,OJ:5,,,,,,stream,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 Rhodes,64,RR1976,"0137,0169,0275",ojg,,ojib1241,-ad,OJ:6,,,,,,NG,,final,INTR
 Rhodes,65,RR1976,"0233,0284",ojg,,ojib1241,-ag,OJ:6,,,,,,old,,final
@@ -71,7 +70,7 @@ Rhodes,67,RR1976,"0219,0220",ojg,,ojib1241,-agana:m-,OJ:6,,,,,,cause using viole
 Rhodes,67,RR1976,0219,ojg,,ojib1241,-agana:m-,OJ:6,,,,,,cause using violent action,,final,TA
 Rhodes,68,RR1976,0219,ojg,,ojib1241,-agana:ndam-,OJ:6,,,,,,cause using violent action,,final,TI
 Rhodes,69,RR2015,"0202,0203",ojg,,ojib1241,-aganaam-,OJ:3,,,,,,"hammer; hit, pound on",,final,,,CONCR
-Rhodes,70,RR1976,"0121,0123",ojg,,ojib1241,-agim,OJ:6,,,,,,count,,final,TA
+Rhodes,70,RR1976,"0121,0123",ojg,,ojib1241,agim-,OJ:6,,,,,,count,,initial
 Rhodes,71,RR1976,"0219,0228,0262,0272",ojg,,ojib1241,-ah-,OJ:6,,,,,,cause using an instrument,,final
 Rhodes,72,RR2015,0202,ojg,,ojib1241,-ah-,OJ:3,,,,,,use instrument,,final,,,CONCR
 Rhodes,73,RR1976,0273,ojg,,ojib1241,-ah(w),OJ:6,,,,,,cause using an instrument,,final
@@ -176,7 +175,6 @@ Mathieu,165,EM2007,0008,ojg,,ojib1241,-hke,OJ:3,,,,,,NG,,final
 Mathieu,166,EM2007,0010,ojg,,ojib1241,-i,OJ:3,,,,,,avoir,,final
 Rhodes,167,RR2015,"0196,0197,0198",ojg,,ojib1241,-i,OJ:3,,,,,,NG,,final,AI,,ABSTR
 Rhodes,168,RR1976,"0118,0123,0125,0138",ojg,,ojib1241,-idi,OJ:6,,,,,,reflexive reciprocal,,final,AI
-Rhodes,169,RR1976,0292,ojg,,ojib1241,-igw-,OJ:6,,,,,,pass,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: p.292 glossed as PASS-- as in makes s.t. passive? Should I remove this?
 Rhodes,170,RR2015,0203,ojg,,ojib1241,-ih-,OJ:3,,,,,,causative,,final
 Valentine 2002,171,RV2002,0090,ojg,,ojib1241,-iingw-,OJ:3,,,,,,eye,,medial
 Rhodes,172,RR1976,"0126,0260,0267,0272",ojg,,ojib1241,-ikw-,OJ:6,,,,,,head,,medial

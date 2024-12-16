@@ -615,7 +615,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 593,Goddard,IG1979a,0117,alg,,algo1256,*-wiθ-,PA:6,,,,,,horn,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-i-wiθe·- is also given - premedial/postmedial?,,,MAM
 594,Aubin,GA1975b,0163,alg,,algo1256,*-xka:t-,PA:4,,,,,,leg,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.215
 594,Cowan,WC1969,0029,alg,,algo1256,*-xka·t-,PA:6,,,,,,leg,,medial
-595,Goddard,IG1965,0215,alg,,algo1256,*-xka·t-,PA:6,,,,,,leg,,medial,Dep
+597,Goddard,IG1965,0215,alg,,algo1256,*-xka·t-,PA:6,,,,,,leg,,medial,Dep
 597,Bloomfield,LB1946,0119,alg,,algo1256,*-xkaat-,PA:1,,,,,,leg,,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Deduced from prose and example,,,MAM
 598,Goddard,IG1979a,0078,alg,,algo1256,*-xkanšy-,PA:6,,,,,,"(finger) nail, claw, hoof",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"IG gives as stem, I have labeled as a medial. The stem ""can be reconstructed as *-xkanšy- for the Eastern Algonquian langauges and Arapaho, but other languages point to *šskanšy-"" (Goddard 1979 pp78-79) - SL",,,MAM
 599,Aubin,GA1975b,0163,alg,,algo1256,*-xkašy-,PA:4,,,,,,"nail, claw, hoof",,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,Sb67b.56
@@ -1431,7 +1431,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1421,Hewson,JH_nd-a,0081,alg,,algo1256,*keʔs-,PA:6,,,,,,cold,,initial
 1423,Hewson,JH_nd-a,0082,alg,,algo1256,*keʔt-,PA:6,,,,,,"hold, seize, fasten",,initial
 1425,Goddard,IG1980,0144,alg,,algo1256,*keθ-,PA:2,,,,,,held firmly,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-1426,Aubin,GA1975b,0061,alg,,algo1256,*keθ-,PA:4,,,,,,"graze, scratcg, injure",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.259
+1426,Aubin,GA1975b,0061,alg,,algo1256,*keθ-,PA:4,,,,,,"graze, scratch, injure",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.259
 1427,Hewson,JH_nd-a,0089,alg,,algo1256,*keθ(w)-,PA:6,,,,,,"forbid, control, against, talk",,initial
 1428,Aubin,GA1975b,0061,alg,,algo1256,*keθk-,PA:4,,,,,,"know, recognize",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.260
 1429,Aubin,GA1975b,0062,alg,,algo1256,*keθkinaw-,PA:4,,,,,,"know, recognize",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,extended root' Ho57.260
