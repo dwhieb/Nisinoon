@@ -27,7 +27,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 26,Teeter,KT1971,0219,pqm,,male1292,-əs,P-M:1,,,,,,reflexive,,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 27,Teeter,KT1971,0222,pqm,,male1292,-əs-,P-M:1,,,,,,by heat,,final,TA,,CONCR,,,,,,,,,,,lakwəs-,,,V,TA,cook him/it,,KT1971;0222,,,,,,,,,,,,,,,,,,,,,MAM
 28,Teeter,KT1971,"0218,0222",pqm,,male1292,-ət,P-M:1,,,,,,NG,,final,TI,,ABSTR,,,,,-əm,,,,,,təkətəm-,,,V,TI,hit it,,KT1971;0218,,,,,,,,,,,,,,,,,,,,,MAM
-29,Teeter,KT1971,0219,pqm,,male1292,-ət,P-M:1,,,,,,reciprocal,,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+66,Teeter,KT1971,0219,pqm,,male1292,-ət,P-M:1,,,,,,reciprocal,,final,AI,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 30,Teeter,KT1971,0222,pqm,,male1292,-ət,P-M:1,,,,,,NG,,final,II,,,,,-si,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 31,Teeter,KT1971,0243,pqm,,male1292,-ətem,P-M:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 32,LeSourd,PL1995,"0103,0105,0106,0108",pqm,Passamaquoddy,pass1249,-hs,P-M:3,,,,,,diminutive,,final,,,,Y,,,,,,,,,,,,/nə̆mi-ht-ə̆w-hs-/,V,TI,see,,PL1995;0117,,,,,,,,,,,,,,,,,,"GVM: ""Stem"" A does include a theme sign -ə̆w- but is described as a stem"
@@ -36,8 +36,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 35,Teeter,KT1971,0240,pqm,,male1292,-hto,P-M:1,,,,,,NG,,final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 36,Teeter,KT1971,0231,pqm,,male1292,-i,P-M:1,,,,,,NG,,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""the sign of prenouns and preverbs""",,,MAM
 37,Teeter,KT1971,0240,pqm,,male1292,-ikəwam,P-M:1,,,,,,dwelling,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-38,Teeter,KT1971,0230,pqm,,male1292,-is,P-M:1,,,,,,diminutive,,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-39,Bruening,BB2001a,"0163,0179,0186,0224",pqm,,male1292,-is,P-M:2,,,,,,diminutive,,final
+40,Teeter,KT1971,0230,pqm,,male1292,-is,P-M:1,,,,,,diminutive,,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+40,Bruening,BB2001a,"0163,0179,0186,0224",pqm,,male1292,-is,P-M:2,,,,,,diminutive,,final
 40,LeSourd,PL1995,"0105,0106,0108,0120",pqm,Passamaquoddy,pass1249,-is,P-M:3,,,,,,diminutive,,final,,,,Y
 41,Teeter,KT1971,0221,pqm,,male1292,-iw,P-M:1,,,,,,NG,,final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""the specimen of the base noun referred to is identified as an exemplar of its class, a specimen par excellence""",,,MAM
 42,Teeter,KT1971,0240,pqm,,male1292,-iw,P-M:1,,,,,,adverbializer,,final,ADV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -72,7 +72,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 71,Bruening,BB2001a,0043,pqm,,male1292,-y-,P-M:2,,,,,,NG,,final,TA,,,,,,,,-ht(u)
 72,Bruening,BB2001a,0169,pqm,,male1292,ckuwi-,P-M:2,,,,,,toward here,,initial,RR
 73,Teeter,KT1971,"0222,0241",pqm,,male1292,ewep-,P-M:1,,,,,,upward,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-74,Teeter,KT1971,0233,pqm,,male1292,əl-,P-M:1,,,,,,thus,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+83,Teeter,KT1971,0233,pqm,,male1292,əl-,P-M:1,,,,,,thus,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 75,Teeter,KT1971,0239,pqm,,male1292,əlohka-,P-M:1,,,,,,work,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 76,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,hkihka-,P-M:3,,/nə̆kĭhka-/,,,,all,,initial,,,,,,,,,,,,,,,,/nə̆kĭhka-ne-/,V,AI,"die completely, all die",,PL1995;0124
 77,Bruening,BB2001a,0042,pqm,,male1292,kin-,P-M:2,,,,,,big,,initial
@@ -90,7 +90,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 89,Bruening,BB2001a,0042,pqm,,male1292,pit-,P-M:2,,,,,,long,,initial
 90,Teeter,KT1971,0241,pqm,,male1292,sakhi-,P-M:1,,,,,,in view,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""preverb (or initial)""",,,MAM
 91,Teeter,KT1971,0241,pqm,,male1292,t-,P-M:1,,,,,,"""neutral initial""",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-92,Teeter,KT1971,0233,pqm,,male1292,təl-,P-M:1,,,,,,there,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+94,Teeter,KT1971,0233,pqm,,male1292,təl-,P-M:1,,,,,,there,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 93,Teeter,KT1971,0240,pqm,,male1292,tohk-,P-M:1,,,,,,waken,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 94,Bruening,BB2001a,"0049,0147,0148",pqm,,male1292,toli-,P-M:2,,,,,,there,,initial,RR
 95,Teeter,KT1971,0233,pqm,,male1292,tot-,P-M:1,,,,,,so far,,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -100,19 +100,19 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 99,Teeter,KT1971,0243,pqm,,male1292,wit-,P-M:1,,,,,,fellow,,initial,,,,,,,,,,,,,,witapi-,,,N,,"male friend, companion",,KT1971;0243,,,,,,,,,,,,,,,,,,,,,MAM
 100,Teeter,KT1971,"0242,0246",pqm,,male1292,wiwən-,P-M:1,,,,,,go around,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 101,Teeter,KT1971,0246,pqm,,male1292,yal-,P-M:1,,,,,,go around (aimlessly),,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-102,LeSourd,PL1995,"0107,0111",pqm,Passamaquoddy,pass1249,,P-M:3,,/-alěk(i)-/,,,,hole,,medial,,,,,,,,,,,,,,,,/ələ̆m-alə̆k-ə̆t-/,V,II,a hole is located running away along the line of sight,,PL1995;0111,,,,,,,,,-ɑlə̌ki-kʷe-
+7,LeSourd,PL1995,"0107,0111",pqm,Passamaquoddy,pass1249,,P-M:3,,/-alěk(i)-/,,,,hole,,medial,,,,,,,,,,,,,,,,/ələ̆m-alə̆k-ə̆t-/,V,II,a hole is located running away along the line of sight,,PL1995;0111,,,,,,,,,-ɑlə̌ki-kʷe-
 103,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,,P-M:3,,/-kʷe-/,,,,face,,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ɑlə̌ki-kʷe-
 104,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ǐhte-/,,,,strike,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-hta-h-/
 105,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,,P-M:3,,/-h-/,,,,transitivizer,,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-hta-h-/
 106,LeSourd,PL1995,0108,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ew-/,,,,NG,,final,TA
 107,LeSourd,PL1995,"0108,0116,0117,0126",pqm,Passamaquoddy,pass1249,,P-M:3,,/-hs-i-/,,,,diminutive,,final,AI,,,,,,,,,-hs-ə̆-,unclear,-hs-o-,unclear,,,/ə̆pi-hs-i-/,V,AI,sit,,PL1995;0117,,,,,,,,,,,,,,,,,,"GVM: P. 108 ""complex final"""
 108,LeSourd,PL1995,"0108,0109,0121,0123",pqm,Passamaquoddy,pass1249,,P-M:3,,/mehci-/,,,,end,,initial,,,,,,,,,,,,,,,,/mehci-ne-/,V,AI,die,,PL1995;0126
-109,LeSourd,PL1995,"0109,0117,0123,0125",pqm,Passamaquoddy,pass1249,,P-M:3,,/ə̆pi-/,,,,sit,,initial,,,,,,,,,,,,,,,,/ə̆pi-hs-i-/,V,AI,sit,,PL1995;0117
+24,LeSourd,PL1995,"0109,0117,0123,0125",pqm,Passamaquoddy,pass1249,,P-M:3,,/ə̆pi-/,,,,sit,,initial,,,,,,,,,,,,,,,,/ə̆pi-hs-i-/,V,AI,sit,,PL1995;0117
 110,LeSourd,PL1995,0109,pqm,Passamaquoddy,pass1249,,P-M:3,,/posi-/,,,,leave by boat,,initial
 111,LeSourd,PL1995,0109,pqm,Passamaquoddy,pass1249,,P-M:3,,/-w/,,,,NG,,final,AI
 112,LeSourd,PL1995,"0109,0116,0117",pqm,Passamaquoddy,pass1249,,P-M:3,,/-hs-ə̆n-/,,,,NG,,final,,,,Y,II,,,,,,,,,,,/ə̆li-kə̆n-hs-ə̆n-/,V,II,be cute,,PL1995;0117,,,,,,,,,,,,,,,,,,"GVM: P. 109 ""complex final"""
 113,LeSourd,PL1995,"0109,0111,0115",pqm,Passamaquoddy,pass1249,,P-M:3,,/-ə̆t-/,,,,NG,,final,II,,,,,,,,,/-ăh-/,__ 3 conjunct -k,,,,,/ələ̆m-alə̆k-ə̆t-/,V,II,a hole is located running away along the line of sight,,PL1995;0111,,,,,,,,,,,,,,,,,,"GVM: P. 110, footnote 5: ""It is possible that /-ə̆t-/ is replaced by /-ăh-/ before /-hs-/ in non-Conjunct forms as well. I have no data on this point."""
-114,LeSourd,PL1995,0111,pqm,Passamaquoddy,pass1249,,P-M:3,,/ələ̆m-/,,,,away,,initial,,,,,,,,,,,,,,,,/ələ̆m-alə̆k-ə̆t-/,V,II,a hole is located running away along the line of sight,,PL1995;0111
+84,LeSourd,PL1995,0111,pqm,Passamaquoddy,pass1249,,P-M:3,,/ələ̆m-/,,,,away,,initial,,,,,,,,,,,,,,,,/ələ̆m-alə̆k-ə̆t-/,V,II,a hole is located running away along the line of sight,,PL1995;0111
 115,LeSourd,PL1995,0111,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ki-/,,,,NG,,final,AI,,,,,,/-kə̆n-/
 116,LeSourd,PL1995,0111,pqm,Passamaquoddy,pass1249,,P-M:3,,/-kə̆n-/,,,,NG,,final,II,,,,,/-ki-/
 117,LeSourd,PL1995,"0113,0114,0115",pqm,Passamaquoddy,pass1249,,P-M:3,,/tək-/,,,,hit,,initial,,,,,,,,,,,,,,,,/tək-ə̆t-ə̆m-/,V,TI,hit,,PL1995;0115,,,/tək-ə̆m-/,V,TA,hit,,PL1995;0115
@@ -129,11 +129,11 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 128,LeSourd,PL1995,"0122,0123,0126",pqm,Passamaquoddy,pass1249,,P-M:3,,/-həti-/,,,,NG,,final,AI,,,,,,,,,,,,,sek-həti-,,,V,AI,stand (PL),,PL1995;0128,,,,,,,,,,,,,/-(ə̆)ti-/,,,,,"GVM: P. 122 ""morphologically complex final"" ""used in deriving explicitly plural AI stems"""
 129,LeSourd,PL1995,"0122,0123,0125",pqm,Passamaquoddy,pass1249,,P-M:3,,/-ə̆ləti-/,,,,NG,,final,AI,,,,,,,,,,,,,sehk-ə̆ləti-,,,V,AI,stand (PL),,PL1995;0128,,,,,,,,,,,,,/-(ə̆)ti-/,,,,,"GVM: P. 122 ""morphologically complex final"" ""used in deriving explicitly plural AI stems"""
 130,LeSourd,PL1995,"0122,0123,0125",pqm,Passamaquoddy,pass1249,,P-M:3,,/-ya-/,,,,NG,,final,AI,,,,,,,,,,,,,,,/sehk-ə̆leti-ya-/,V,,stand (PL),,PL1995;0125,ə̆pi-ya-,,,V,AI,sit (PL),,PL1995;0128,,,,,,,,,,"GVM: P. 122 ""used in deriving explicitly plural AI stems"""
-131,LeSourd,PL1995,0122,pqm,Passamaquoddy,pass1249,,P-M:3,,/-(ə̆)ti-/,,,,reciprocal,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-olti-/,/-ohti-/,/-ahti-/,/-awəti-/
+66,LeSourd,PL1995,0122,pqm,Passamaquoddy,pass1249,,P-M:3,,/-(ə̆)ti-/,,,,reciprocal,,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-olti-/,/-ohti-/,/-ahti-/,/-awəti-/
 132,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,,P-M:3,,/-apasi-/,,,,walk (of three or more),,final,AI,,,,,,,,,,,,,,,/sehtay-apasi-/,V,AI,three or more walk backwards,,PL1995;0124,sehtay-apas-olti-,,,V,AI,walk backwards (PL),,PL1995;0128,,,,,,,,,,"GVM: P. 123: ""explicitly plural in meaning"""
 133,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,,P-M:3,,/sehtay-/,,,,backwards,,initial,,,,,,,,,,,,,,,,/sehtay-apasi-/,V,AI,three or more walk backwards,,PL1995;0124,sehtay-apas-olti-,,,V,AI,walk backwards (PL),,PL1995;0128
 134,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ne-/,,,,die,,final,,,,,,,,,,,,,,,,/nə̆kĭhka-ne-/,V,AI,"die completely, all die",,PL1995;0124,,,/mehci-ne-/,V,AI,die,,PL1995;0126
-135,LeSourd,PL1995,0129,pqm,Passamaquoddy,pass1249,,P-M:3,,/kin-/,,,,big,,initial,,,,,,,,,,,,,,,,/kin-ə̆kihkʷə̆n-/,V,II,be big,,PL1995;0129
-136,LeSourd,PL1995,0129,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ə̆kihkʷə̆n-/,,,,be a size,,final,II,,,,,,,,,,,,,,,/kin-ə̆kihkʷə̆n-/,V,II,be big,,PL1995;0129
-137,LeSourd,PL1995,"0129,0130,0131",pqm,Passamaquoddy,pass1249,,P-M:3,,/ə̆l(i)/,,,,"manner, size, direction, kind; thus",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: P. 130 ""while it is convenient to gloss /ə̆l(i)-/ as 'thus', this root does not in itself have deictic force"
+77,LeSourd,PL1995,0129,pqm,Passamaquoddy,pass1249,,P-M:3,,/kin-/,,,,big,,initial,,,,,,,,,,,,,,,,/kin-ə̆kihkʷə̆n-/,V,II,be big,,PL1995;0129
+48,LeSourd,PL1995,0129,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ə̆kihkʷə̆n-/,,,,be a size,,final,II,,,,,,,,,,,,,,,/kin-ə̆kihkʷə̆n-/,V,II,be big,,PL1995;0129
+83,LeSourd,PL1995,"0129,0130,0131",pqm,Passamaquoddy,pass1249,,P-M:3,,/ə̆l(i)/,,,,"manner, size, direction, kind; thus",,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: P. 130 ""while it is convenient to gloss /ə̆l(i)-/ as 'thus', this root does not in itself have deictic force"
 138,LeSourd,PL1995,0131,pqm,Passamaquoddy,pass1249,,P-M:3,,/kʷə̆n(i)-/,,,,length
